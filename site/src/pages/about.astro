@@ -1,0 +1,49 @@
+---
+import Base from '../components/Base.astro';
+import { REPO_URL, href } from '../lib/site';
+---
+
+<Base title="About" description="What the ML Workshop Tracker is, where the data comes from, and how it's maintained.">
+  <section class="masthead">
+    <p class="eyebrow">About this site</p>
+    <h1>Why this exists</h1>
+  </section>
+
+  <div class="prose">
+    <p>
+      ML conferences host 50–150 workshops a year, and every one has its own website, its own
+      (often extended) deadline, and its own way of publishing accepted papers. Conference
+      deadline trackers exist; <em>workshop</em> deadlines have never had one. This site is that
+      missing board.
+    </p>
+    <h2>Where the data comes from</h2>
+    <p>
+      Every workshop is a small YAML file in a <a href={REPO_URL}>public GitHub repository</a>,
+      maintained by the community — organizers and submitters add and fix entries via pull
+      requests or a simple form. Accepted-paper lists are fetched automatically from the
+      <a href="https://openreview.net" rel="noopener">OpenReview</a> API for workshops hosted there;
+      other workshops link to their own proceedings pages.
+    </p>
+    <h2>Accuracy</h2>
+    <p>
+      Deadlines get extended, pages move, and some entries are unverified estimates (marked as
+      such). <strong>Always confirm details on the official workshop website before planning a
+      submission.</strong> Found something wrong? Every page has an “Edit” link — fixes typically
+      take a one-line change.
+    </p>
+    <h2>Licensing &amp; reuse</h2>
+    <p>
+      The workshop data and paper caches are <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC-BY-4.0</a>;
+      the site code is MIT. A machine-readable dump of everything is at
+      <a href={href('/api/workshops.json')}><code>/api/workshops.json</code></a>, and new entries are
+      announced in an <a href={href('/rss.xml')}>RSS feed</a>.
+    </p>
+    <h2>Costs &amp; sustainability</h2>
+    <p>
+      The whole site is static and runs on free hosting; the only moving parts are scheduled
+      GitHub Actions that rebuild the site, refresh paper caches, and flag stale entries. That
+      design keeps it cheap to run and easy to hand over — the lesson learned from earlier
+      deadline trackers that disappeared when their maintainer burned out.
+    </p>
+  </div>
+</Base>

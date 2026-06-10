@@ -1,0 +1,86 @@
+#!/usr/bin/env node
+/**
+ * Converts a GitHub "Add a workshop" issue-form body (markdown with
+ * "### <Label>\n\n<value>" sections) into a workshop YAML file.
+ * Used by .github/workflows/issue-to-pr.yml.
+ *
+ * Env:  ISSUE_BODY (required)
+ * Out:  writes data/workshops/<conf>-<year>-<slug>.yml
+ *       prints the created path on stdout (last line)
+ * Exits non-zero with a human-readable message if required fields are missing.
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+import yaml from 'js-yaml';
+import { WORKSHOPS_DIR } from '../lib/workshops.mjs';
+
+const body = process.env.ISSUE_BODY;
+if (!body) {
+  console.error('ISSUE_BODY env var is empty.');
+  process.exit(1);
+}
+
+// Parse "### Label\n\nvalue" sections.
+const sections = {};
+const re = /^###\s+(.+?)\s*\r?\n([\s\S]*?)(?=^###\s+|\s*$(?![\s\S]))/gm;
+let m;
+while ((m = re.exec(body)) !== null) {
+  let value = m[2].trim();
+  if (value === '_No response_' || value === 'None') value = '';
+  sections[m[1].trim().toLowerCase()] = value;
+}
+const get = (label) => sections[label.toLowerCase()] ?? '';
+
+const errors = [];
+const name = get('Workshop name');
+const conference = get('Conference').toLowerCase().trim();
+const yearStr = get('Year').trim();
+const website = get('Workshop website').trim();
+const topicsStr = get('Topics');
+
+if (!name) errors.push('Workshop name is required.');
+if (!conference) errors.push('Conference is required.');
+if (!/^\d{4}$/.test(yearStr)) errors.push(`Year must be a 4-digit year (got "${yearStr}").`);
+if (!/^https?:\/\//.test(website)) errors.push('Workshop website must be a full http(s) URL.');
+const topics = topicsStr
+  .split(/[,\n]/)
+  .map((t) => t.trim().toLowerCase())
+  .filter(Boolean);
+if (topics.length === 0) errors.push('At least one topic id is required (see data/topics.yml).');
+if (errors.length) {
+  console.error('Could not create a workshop entry from this issue:\n- ' + errors.join('\n- '));
+  process.exit(1);
+}
+
+const slugify = (s) =>
+  s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40) || 'workshop';
+const acronym = get('Acronym');
+const slugBase = slugify(acronym || name);
+let filename = `${conference}-${yearStr}-${slugBase}.yml`;
+let i = 2;
+while (fs.existsSync(path.join(WORKSHOPS_DIR, filename))) {
+  filename = `${conference}-${yearStr}-${slugBase}-${i++}.yml`;
+}
+
+const record = { name, acronym: acronym || '', conference, year: Number(yearStr), website, topics };
+const optional = {
+  submission_deadline: get('Submission deadline'),
+  timezone: get('Timezone'),
+  deadline_notes: get('Deadline notes'),
+  notification_date: get('Notification date'),
+  workshop_date: get('Workshop date'),
+  openreview_venue_id: get('OpenReview venue ID'),
+  proceedings_url: get('Accepted-papers page URL'),
+  submission_portal: get('Submission portal').toLowerCase(),
+};
+for (const [k, v] of Object.entries(optional)) if (v) record[k] = v;
+const organizers = get('Organizers').split('\n').map((s) => s.trim()).filter(Boolean);
+if (organizers.length) record.organizers = organizers;
+const notes = get('Anything else');
+if (notes) record.notes = notes;
+record.added = new Date().toISOString().slice(0, 10);
+
+const outPath = path.join(WORKSHOPS_DIR, filename);
+fs.writeFileSync(outPath, yaml.dump(record, { lineWidth: 120, quotingType: '"' }));
+console.log(`Created ${path.relative(process.cwd(), outPath)}`);
+console.log(outPath);

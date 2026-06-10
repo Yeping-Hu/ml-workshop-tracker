@@ -1,0 +1,83 @@
+---
+import Base from '../components/Base.astro';
+import WorkshopRow from '../components/WorkshopRow.astro';
+import { workshops, upcoming, deadlinePassed, conferences, topics, paperCount } from '../lib/data';
+import { REPO_URL } from '../lib/site';
+
+// Topics that actually appear on boardable (upcoming or recent passed) rows.
+const boardRows = [...upcoming, ...deadlinePassed];
+const activeTopicIds = new Set(boardRows.flatMap((w) => w.topics ?? []));
+const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
+---
+
+<Base>
+  <section class="masthead">
+    <p class="eyebrow">ICML · ICLR · NeurIPS workshops</p>
+    <h1>Every workshop deadline, one board.</h1>
+    <p class="lede">
+      Submission deadlines for ML conference workshops, resolved from AoE to your local
+      time — plus links to past editions and their accepted papers. Community-maintained,
+      so always confirm on the official workshop page.
+    </p>
+    <div class="statline">
+      <span><strong>{upcoming.length}</strong> open calls</span>
+      <span><strong>{workshops.length}</strong> workshop editions tracked</span>
+      <span><strong>{paperCount.toLocaleString('en-US')}</strong> papers indexed</span>
+    </div>
+    <p class="nextline" id="next-deadline" aria-live="off">Next deadline: …</p>
+  </section>
+
+  <div class="filterbar" role="search">
+    <input id="q" type="search" placeholder="Filter by name, acronym…" aria-label="Filter workshops" />
+    <div class="f-group" aria-label="Conference filter">
+      {conferences.map((c) => (
+        <label class="check">
+          <input type="checkbox" class="f-conf" value={c.id} />
+          <span class="conf-dot" style={`--conf:${c.color}`}></span>
+          {c.name}
+        </label>
+      ))}
+    </div>
+    <details class="dd">
+      <summary id="topicSummary">Topics</summary>
+      <div class="dd-panel">
+        {boardTopics.map((t) => (
+          <label class="check">
+            <input type="checkbox" class="f-topic" value={t.id} />
+            {t.label}
+          </label>
+        ))}
+      </div>
+    </details>
+    <label class="check">
+      <input type="checkbox" id="showPassed" />
+      Show passed deadlines
+    </label>
+    <button class="btn-quiet" id="clearFilters" type="button">Clear</button>
+    <span class="resultcount" id="resultCount"></span>
+  </div>
+
+  <section class="board" aria-label="Workshop deadlines">
+    {upcoming.map((w) => <WorkshopRow w={w} />)}
+    {deadlinePassed.map((w) => <WorkshopRow w={w} passed />)}
+    <div class="empty-state" id="emptyState" hidden>
+      <p>No workshops match these filters.</p>
+      <p class="small">
+        Try clearing filters — or
+        <a href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>add a missing workshop</a>.
+      </p>
+    </div>
+  </section>
+
+  <aside class="cta">
+    <p>
+      <strong>Missing a workshop?</strong> Add it in about two minutes — fill in the form
+      and a pull request is opened automatically.
+    </p>
+    <span>
+      <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Add a workshop</a>
+    </span>
+  </aside>
+
+  <script src="../scripts/board.js"></script>
+</Base>

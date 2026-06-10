@@ -1,0 +1,117 @@
+name: Add a workshop
+description: Add a workshop to the tracker — a bot turns this into a pull request for you.
+title: "[Add workshop]: "
+labels: [add-workshop]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Fill in what you know — only the first five fields are required.
+        A bot will convert this into a data file, validate it, and open a pull request (you'll get a link here).
+  - type: input
+    id: name
+    attributes:
+      label: Workshop name
+      description: Full official name.
+      placeholder: "Workshop on Interpretability in Machine Learning"
+    validations:
+      required: true
+  - type: input
+    id: acronym
+    attributes:
+      label: Acronym
+      placeholder: "InterpML"
+  - type: dropdown
+    id: conference
+    attributes:
+      label: Conference
+      options: [icml, iclr, neurips]
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Workshop website
+      placeholder: "https://example.org/interpml2026"
+    validations:
+      required: true
+  - type: input
+    id: topics
+    attributes:
+      label: Topics
+      description: 1–5 comma-separated topic ids from [data/topics.yml](../blob/main/data/topics.yml), e.g. `interpretability, safety-alignment`.
+      placeholder: "interpretability, llms"
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Submission deadline
+      description: "`YYYY-MM-DD HH:MM` or just `YYYY-MM-DD` (= 23:59)."
+      placeholder: "2026-08-22 23:59"
+  - type: dropdown
+    id: timezone
+    attributes:
+      label: Timezone
+      description: AoE (Anywhere on Earth, UTC−12) is the ML default.
+      options:
+        - AoE
+        - UTC
+        - America/Los_Angeles
+        - America/New_York
+        - Europe/London
+        - Europe/Berlin
+        - Asia/Tokyo
+        - Asia/Shanghai
+        - Asia/Seoul
+        - Asia/Singapore
+        - Australia/Sydney
+      default: 0
+  - type: input
+    id: deadline_notes
+    attributes:
+      label: Deadline notes
+      placeholder: "extended from Aug 15"
+  - type: input
+    id: notification
+    attributes:
+      label: Notification date
+      placeholder: "2026-09-22"
+  - type: input
+    id: workshop_date
+    attributes:
+      label: Workshop date
+      placeholder: "2026-12-06"
+  - type: input
+    id: openreview
+    attributes:
+      label: OpenReview venue ID
+      description: Enables the automatic accepted-papers list.
+      placeholder: "NeurIPS.cc/2026/Workshop/InterpML"
+  - type: input
+    id: proceedings
+    attributes:
+      label: Accepted-papers page URL
+      description: For workshops not on OpenReview.
+  - type: dropdown
+    id: portal
+    attributes:
+      label: Submission portal
+      options: [openreview, cmt, email, other, unknown]
+      default: 4
+  - type: textarea
+    id: organizers
+    attributes:
+      label: Organizers
+      description: One name per line (optional).
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

@@ -1,0 +1,161 @@
+---
+import Base from '../../components/Base.astro';
+import { workshops, conferenceById, topicById, loadPaperCache } from '../../lib/data';
+import { href, REPO_URL } from '../../lib/site';
+
+export function getStaticPaths() {
+  return workshops.map((w) => ({ params: { slug: w.slug }, props: { w } }));
+}
+
+const { w } = Astro.props;
+const conf = conferenceById.get(w.conference) ?? { name: w.conference, color: '#888' };
+const cache = loadPaperCache(w.slug);
+const statusLabel = { upcoming: 'Open call', deadline_passed: 'Deadline passed', past: 'Past' }[
+  w.status as string
+];
+const isSeed = (w.notes || '').includes('SEED DATA');
+const portalLabel: Record<string, string> = {
+  openreview: 'OpenReview',
+  cmt: 'CMT',
+  email: 'Email',
+  other: 'Other',
+  unknown: 'Unknown',
+};
+---
+
+<Base title={`${w.acronym || w.name} (${conf.name} ${w.year})`} description={`${w.name} — ${conf.name} ${w.year}: deadline, dates, and accepted papers.`}>
+  <article data-pagefind-body>
+    <header class="detail-head">
+      <div class="topline">
+        <span class="badge" style={`--conf:${conf.color}; padding: 0.28rem 0.7rem;`}>{conf.name} {w.year}</span>
+        <span class={`pill ${w.status}`}>{statusLabel}</span>
+        {(w.topics ?? []).map((t: string) => <span class="chip">{topicById.get(t)?.label ?? t}</span>)}
+      </div>
+      <h1>{w.name}</h1>
+      {w.acronym && <p class="muted mono">{w.acronym}</p>}
+      <div class="linkrow">
+        <a href={w.website} rel="noopener">Official website ↗</a>
+        {w.openreview_venue_id && (
+          <a href={`https://openreview.net/group?id=${w.openreview_venue_id}`} rel="noopener">OpenReview venue ↗</a>
+        )}
+        {w.proceedings_url && <a href={w.proceedings_url} rel="noopener">Accepted papers ↗</a>}
+        {w.deadlineUtcMs && <a href={href(`/feeds/ws-${w.slug}.ics`)}>Add deadline to calendar (.ics)</a>}
+        <a href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ Edit this entry</a>
+      </div>
+      {isSeed && (
+        <p class="seednote">
+          <strong>Unverified seed entry.</strong> Some fields are estimates — confirm everything on the
+          official website before planning a submission.
+        </p>
+      )}
+    </header>
+
+    <dl class="kv">
+      <dt>Submission deadline</dt>
+      <dd>
+        {w.deadlineWallClock ? (
+          <>
+            <span class="mono">{w.deadlineWallClock}</span>
+            <div class="muted small js-local" data-iso={w.deadlineIso}></div>
+            {w.status === 'upcoming' && (
+              <div>
+                <span class="countdown" data-deadline-ms={w.deadlineUtcMs} data-name={w.acronym || w.name}>—</span>
+              </div>
+            )}
+            {w.deadline_notes && <div class="small" style="color: var(--warn)">{w.deadline_notes}</div>}
+          </>
+        ) : (
+          'TBA'
+        )}
+      </dd>
+      {w.notification_date && (
+        <>
+          <dt>Notification</dt>
+          <dd>{w.notificationDateLabel}</dd>
+        </>
+      )}
+      {w.workshop_date && (
+        <>
+          <dt>Workshop day</dt>
+          <dd>{w.workshopDateLabel}</dd>
+        </>
+      )}
+      {w.submission_portal && (
+        <>
+          <dt>Submission portal</dt>
+          <dd>{portalLabel[w.submission_portal] ?? w.submission_portal}</dd>
+        </>
+      )}
+      {w.organizers?.length > 0 && (
+        <>
+          <dt>Organizers</dt>
+          <dd>{w.organizers.join(', ')}</dd>
+        </>
+      )}
+      {w.notes && (
+        <>
+          <dt>Notes</dt>
+          <dd class="muted">{w.notes}</dd>
+        </>
+      )}
+    </dl>
+
+    {w.previous_editions?.length > 0 && (
+      <section>
+        <h2>Previous editions</h2>
+        <ul>
+          {w.previous_editions.map((p: any) => (
+            <li>
+              {p.year} — {p.website && <a href={p.website} rel="noopener">website ↗</a>}{' '}
+              {p.proceedings_url && <a href={p.proceedings_url} rel="noopener">papers ↗</a>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {cache && cache.papers?.length > 0 && (
+      <section>
+        <h2 id="papers">Accepted papers ({cache.paper_count})</h2>
+        <p class="muted small">
+          Fetched from OpenReview ({cache.source_api}) on {cache.fetched_at?.slice(0, 10)}.
+          {cache.caveat && ` Note: ${cache.caveat}.`}
+        </p>
+        <ol class="paper-list">
+          {cache.papers.map((p: any) => (
+            <li class="paper">
+              <div class="p-title">
+                {p.forum_url ? <a href={p.forum_url} rel="noopener">{p.title}</a> : p.title}
+              </div>
+              <div class="p-authors">
+                {(p.authors ?? []).join(', ')}
+                {p.pdf_url && (
+                  <>
+                    {' · '}
+                    <a href={p.pdf_url} rel="noopener">PDF</a>
+                  </>
+                )}
+              </div>
+              {p.abstract && (
+                <details>
+                  <summary>Abstract</summary>
+                  <p>{p.abstract}</p>
+                </details>
+              )}
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+    {!cache && w.openreview_venue_id && (
+      <section>
+        <h2>Accepted papers</h2>
+        <p class="muted">
+          Not cached yet — <a href={`https://openreview.net/group?id=${w.openreview_venue_id}`} rel="noopener">browse them on OpenReview ↗</a>.
+        </p>
+      </section>
+    )}
+  </article>
+
+  <script src="../../scripts/board.js"></script>
+</Base>

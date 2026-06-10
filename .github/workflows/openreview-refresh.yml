@@ -1,0 +1,37 @@
+# Monthly: re-fetch OpenReview paper caches for recent years and open a PR
+# with any changes for the maintainer to review and merge.
+name: Refresh OpenReview paper caches
+
+on:
+  schedule:
+    - cron: '23 4 3 * *' # 3rd of each month, 04:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch recent venues
+        run: node scripts/fetch_openreview.mjs --recent
+      - name: Open PR with cache changes (if any)
+        uses: peter-evans/create-pull-request@v7
+        with:
+          add-paths: cache/openreview/*.json
+          branch: bot/openreview-refresh
+          delete-branch: true
+          commit-message: 'chore: refresh OpenReview paper caches'
+          title: 'chore: refresh OpenReview paper caches'
+          body: |
+            Automated monthly refresh of `cache/openreview/`.
+            Review the diff (paper counts shouldn't drop unexpectedly) and merge.
+          labels: automated

@@ -1,0 +1,19 @@
+# Conferences covered by the tracker. `id` is referenced by workshop files.
+- id: icml
+  name: "ICML"
+  full_name: "International Conference on Machine Learning"
+  website: "https://icml.cc"
+  workshop_list_url_pattern: "https://icml.cc/Conferences/{year}/Schedule?type=Workshop"
+  color: "#0F766E"
+- id: iclr
+  name: "ICLR"
+  full_name: "International Conference on Learning Representations"
+  website: "https://iclr.cc"
+  workshop_list_url_pattern: "https://iclr.cc/Conferences/{year}/Schedule?type=Workshop"
+  color: "#C2410C"
+- id: neurips
+  name: "NeurIPS"
+  full_name: "Conference on Neural Information Processing Systems"
+  website: "https://neurips.cc"
+  workshop_list_url_pattern: "https://neurips.cc/Conferences/{year}/Schedule?type=Workshop"
+  color: "#6D28D9"

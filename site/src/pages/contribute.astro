@@ -1,0 +1,48 @@
+---
+import Base from '../components/Base.astro';
+import { REPO_URL } from '../lib/site';
+---
+
+<Base title="Contribute" description="How to add or fix a workshop entry — via a 2-minute form or a pull request.">
+  <section class="masthead">
+    <p class="eyebrow">Community-maintained</p>
+    <h1>Add or fix a workshop</h1>
+  </section>
+
+  <div class="prose">
+    <h2>Option 1 — the 2-minute form (no Git needed)</h2>
+    <p>
+      <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Open the form</a>
+    </p>
+    <p>
+      Fill in the workshop's details and submit. A bot turns your answers into a properly
+      formatted entry, validates it, and opens a pull request for a maintainer to merge —
+      you'll get a link in the comments.
+    </p>
+
+    <h2>Option 2 — edit on GitHub</h2>
+    <p>
+      Every workshop page and board row has a <strong>✎ Edit</strong> link straight to its file.
+      To add a new workshop, copy
+      <a href={`${REPO_URL}/blob/main/data/workshops/_template.yml`}><code>data/workshops/_template.yml</code></a>
+      to <code>data/workshops/&lt;conference&gt;-&lt;year&gt;-&lt;short-name&gt;.yml</code> and fill it in.
+    </p>
+
+    <h2>What happens to your PR</h2>
+    <p>
+      Continuous integration validates the schema, dates, and topic/conference ids, and comments
+      with exactly what to fix if something's off. Once merged, the site redeploys automatically;
+      if you included an <code>openreview_venue_id</code>, the paper list appears after the next
+      monthly cache refresh (or a maintainer can trigger it manually).
+    </p>
+
+    <h2>Ground rules</h2>
+    <ul>
+      <li>One YAML file per workshop <em>edition</em> (the same series gets a new file each year).</li>
+      <li>Times are wall-clock in the workshop's stated timezone — <code>AoE</code> by default.</li>
+      <li>Don't paste paper lists by hand; set <code>openreview_venue_id</code> or <code>proceedings_url</code>.</li>
+      <li>Data you submit is published under CC-BY-4.0.</li>
+    </ul>
+    <p>See <a href={`${REPO_URL}/blob/main/CONTRIBUTING.md`}>CONTRIBUTING.md</a> for the full field reference.</p>
+  </div>
+</Base>

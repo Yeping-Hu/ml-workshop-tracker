@@ -1,0 +1,33 @@
+---
+import Base from '../components/Base.astro';
+import { href } from '../lib/site';
+---
+
+<Base title="Search" description="Search workshops and accepted papers across ICML, ICLR, and NeurIPS workshops.">
+  <section class="masthead">
+    <p class="eyebrow">Workshops & papers</p>
+    <h1>Search</h1>
+    <p class="lede">
+      Full-text search across every tracked workshop and all cached accepted papers
+      (titles, authors, abstracts). Runs entirely in your browser.
+    </p>
+  </section>
+
+  <div id="search"></div>
+  <noscript><p class="muted">Search requires JavaScript.</p></noscript>
+  <p class="muted small" style="margin-top:2rem">
+    Powered by a static <a href="https://pagefind.app" rel="noopener">Pagefind</a> index built at
+    deploy time — no server involved. (In local <code>astro dev</code> the index doesn't exist yet;
+    run a full build to test search.)
+  </p>
+
+  <link rel="stylesheet" href={href('/pagefind/pagefind-ui.css')} />
+  <script is:inline src={href('/pagefind/pagefind-ui.js')}></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (window.PagefindUI) {
+        new window.PagefindUI({ element: '#search', showSubResults: true, pageSize: 10 });
+      }
+    });
+  </script>
+</Base>

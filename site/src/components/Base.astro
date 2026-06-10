@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import { SITE_NAME, SITE_TAGLINE, REPO_URL, href } from '../lib/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = SITE_TAGLINE } = Astro.props;
+const pageTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — ML workshop deadlines & papers`;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
+
+const nav = [
+  { label: 'Deadlines', path: '/' },
+  { label: 'Archive', path: '/archive/' },
+  { label: 'Calendar', path: '/calendar/' },
+  { label: 'Search', path: '/search/' },
+  { label: 'About', path: '/about/' },
+];
+const current = (p: string) =>
+  Astro.url.pathname.replace(/\/+$/, '/') === href(p).replace(/\/+$/, '/') ||
+  (p === '/' && Astro.url.pathname === href('/'));
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} — new workshops`} href={href('/rss.xml')} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    {canonical && <meta property="og:url" content={canonical} />}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="wordmark" href={href('/')}>ML Workshop <span>Tracker</span></a>
+        <nav class="site-nav" aria-label="Main">
+          {nav.map((n) => (
+            <a href={href(n.path)} aria-current={current(n.path) ? 'page' : undefined}>{n.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div>
+          <strong>{SITE_NAME}</strong> — {SITE_TAGLINE} Always confirm details on the official workshop page.
+        </div>
+        <div>
+          Data is community-maintained (CC-BY-4.0) in a public repo ·
+          <a href={REPO_URL}> GitHub</a> ·
+          <a href={`${REPO_URL}/issues/new?template=add-workshop.yml`}> Add a workshop</a> ·
+          <a href={href('/api/workshops.json')}> JSON API</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

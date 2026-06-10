@@ -1,0 +1,77 @@
+---
+import Base from '../components/Base.astro';
+import { past, conferences, topicById, loadPaperCache } from '../lib/data';
+import { href } from '../lib/site';
+
+const byConf = conferences
+  .map((c) => {
+    const items = past.filter((w) => w.conference === c.id);
+    const years = [...new Set(items.map((w) => w.year))].sort((a, b) => b - a);
+    return { conf: c, years: years.map((y) => ({ year: y, items: items.filter((w) => w.year === y) })) };
+  })
+  .filter((g) => g.years.length > 0);
+
+function papersLink(w: Record<string, any>) {
+  const cache = loadPaperCache(w.slug);
+  if (cache?.papers?.length) return { href: href(`/workshop/${w.slug}/#papers`), label: `Papers (${cache.paper_count})`, ext: false };
+  if (w.proceedings_url) return { href: w.proceedings_url, label: 'Papers ↗', ext: true };
+  if (w.openreview_venue_id)
+    return { href: `https://openreview.net/group?id=${w.openreview_venue_id}`, label: 'OpenReview ↗', ext: true };
+  return null;
+}
+---
+
+<Base title="Archive" description="Past ICML, ICLR, and NeurIPS workshops with links to their sites and accepted papers.">
+  <section class="masthead">
+    <p class="eyebrow">Past editions</p>
+    <h1>Workshop archive</h1>
+    <p class="lede">Past workshops with links to their websites and accepted-paper listings.</p>
+  </section>
+
+  <div class="filterbar" role="search">
+    <input id="q" type="search" placeholder="Filter by name, acronym…" aria-label="Filter past workshops" />
+    <div class="f-group" aria-label="Conference filter">
+      {conferences.map((c) => (
+        <label class="check">
+          <input type="checkbox" class="f-conf" value={c.id} />
+          <span class="conf-dot" style={`--conf:${c.color}`}></span>
+          {c.name}
+        </label>
+      ))}
+    </div>
+    <button class="btn-quiet" id="clearFilters" type="button">Clear</button>
+    <span class="resultcount" id="resultCount"></span>
+  </div>
+
+  {byConf.map(({ conf, years }) => (
+    <section>
+      <h2>{conf.name}</h2>
+      {years.map(({ year, items }) => (
+        <div class="year-block">
+          <h3>
+            {year} <span class="mono">{items.length} workshop{items.length === 1 ? '' : 's'}</span>
+          </h3>
+          {items.map((w) => {
+            const link = papersLink(w);
+            const search = [w.name, w.acronym, conf.name, w.year].filter(Boolean).join(' ').toLowerCase();
+            return (
+              <div class="arch-row" data-ws-row data-conf={w.conference} data-status={w.status} data-topics={(w.topics ?? []).join(' ')} data-search={search}>
+                <span class="ws-name"><a href={href(`/workshop/${w.slug}/`)}>{w.name}</a></span>
+                {w.acronym && <span class="muted mono small">{w.acronym}</span>}
+                {(w.topics ?? []).slice(0, 3).map((t: string) => <span class="chip">{topicById.get(t)?.label ?? t}</span>)}
+                <span class="links">
+                  <a href={w.website} rel="noopener">Site ↗</a>
+                  {link && <a href={link.href} rel={link.ext ? 'noopener' : undefined}>{link.label}</a>}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      ))}
+    </section>
+  ))}
+
+  {byConf.length === 0 && <p class="empty-state">No past workshops yet.</p>}
+
+  <script src="../scripts/board.js"></script>
+</Base>

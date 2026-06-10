@@ -1,0 +1,47 @@
+# Validates all workshop data on every PR (and pushes to main) that touches it.
+# On PR failure, posts a human-readable comment explaining exactly what to fix.
+name: Validate data
+
+on:
+  pull_request:
+    paths: ['data/**', 'schema/**', 'scripts/**', 'lib/**']
+  push:
+    branches: [main]
+    paths: ['data/**', 'schema/**', 'scripts/**', 'lib/**']
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Validate workshop data
+        id: validate
+        run: node scripts/validate.mjs --report validation-report.md
+        continue-on-error: true
+      - name: Comment validation errors on the PR
+        if: steps.validate.outcome == 'failure' && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.existsSync('validation-report.md')
+              ? fs.readFileSync('validation-report.md', 'utf8').slice(0, 60000)
+              : 'Validation failed but no report was produced — check the workflow logs.';
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+      - name: Fail the check if validation failed
+        if: steps.validate.outcome == 'failure'
+        run: exit 1

@@ -1,0 +1,17 @@
+{
+  "name": "ml-workshop-tracker-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Data, validation, and automation scripts for the ML Workshop Tracker",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "fetch:openreview": "node scripts/fetch_openreview.mjs",
+    "stale": "node scripts/stale_check.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "js-yaml": "^4.1.0"
+  }
+}
