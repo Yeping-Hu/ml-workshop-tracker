@@ -38,6 +38,22 @@ import { REPO_URL, href } from '../lib/site';
       <a href={href('/api/workshops.json')}><code>/api/workshops.json</code></a>, and new entries are
       announced in an <a href={href('/rss.xml')}>RSS feed</a>.
     </p>
+    <h2>Add or fix a workshop</h2>
+    <p>
+      <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Open the 2-minute form</a>
+    </p>
+    <p>
+      Fill in what you know and a bot turns it into a validated pull request — no Git needed.
+      Prefer editing directly? Every workshop page has a <strong>✎ Edit</strong> link to its data
+      file, and <a href={`${REPO_URL}/blob/main/CONTRIBUTING.md`}>CONTRIBUTING.md</a> documents the
+      format. Data you submit is published under CC-BY-4.0.
+    </p>
+    <h2>Calendar feeds</h2>
+    <p>
+      Subscribable <code>.ics</code> deadline feeds exist but are paused while imported dates are
+      being verified — a wrong deadline in your calendar is worse than none. They'll return once
+      the data is vetted.
+    </p>
     <h2>Costs &amp; sustainability</h2>
     <p>
       The whole site is static and runs on free hosting; the only moving parts are scheduled

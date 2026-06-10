@@ -10,6 +10,12 @@ const BASE = process.env.SITE_BASE || '/';
 export default defineConfig({
   site: SITE,
   base: BASE,
+  redirects: {
+    '/archive': '/',
+    '/search': '/',
+    '/contribute': '/about',
+    '/calendar': '/about',
+  },
   trailingSlash: 'ignore',
   integrations: [sitemap()],
   vite: {

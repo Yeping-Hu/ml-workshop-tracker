@@ -24,12 +24,19 @@ const portalLabel: Record<string, string> = {
 ---
 
 <Base title={`${w.acronym || w.name} (${conf.name} ${w.year})`} description={`${w.name} — ${conf.name} ${w.year}: deadline, dates, and accepted papers.`}>
-  <article data-pagefind-body>
+  <article
+    data-pagefind-body
+    data-conf={conf.name}
+    data-year={String(w.year)}
+    data-wstatus={statusLabel}
+    data-pagefind-meta="conference[data-conf], year[data-year], status[data-wstatus]"
+    data-pagefind-filter="conference[data-conf], year[data-year], status[data-wstatus]"
+  >
     <header class="detail-head">
       <div class="topline">
         <span class="badge" style={`--conf:${conf.color}; padding: 0.28rem 0.7rem;`}>{conf.name} {w.year}</span>
         <span class={`pill ${w.status}`}>{statusLabel}</span>
-        {(w.topics ?? []).map((t: string) => <span class="chip">{topicById.get(t)?.label ?? t}</span>)}
+        {(w.topics ?? []).map((t: string) => <span class="chip" data-pagefind-filter="topic">{topicById.get(t)?.label ?? t}</span>)}
       </div>
       <h1>{w.name}</h1>
       {w.acronym && <p class="muted mono">{w.acronym}</p>}

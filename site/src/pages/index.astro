@@ -7,144 +7,264 @@ import {
   upcomingTba,
   deadlinePassed,
   conferences,
-  topics,
   paperCount,
   proposalCalls,
   conferenceById,
 } from '../lib/data';
 import { href, REPO_URL } from '../lib/site';
 
-// Topics that actually appear on boardable (upcoming or recent passed) rows.
-const boardRows = [...upcomingWithDeadline, ...upcomingTba, ...deadlinePassed];
-const activeTopicIds = new Set(boardRows.flatMap((w) => w.topics ?? []));
-const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
-
-// Between cycles (no upcoming deadlines), show the current cycle's passed
-// deadlines by default so the board is never misleadingly empty.
 const defaultShowPassed = upcomingWithDeadline.length === 0 && deadlinePassed.length > 0;
+const base = (import.meta.env.BASE_URL || '/').replace(/\/+$/, '');
+// conference display-name -> color, for badges on search results
+const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]));
 ---
 
 <Base>
-  <section class="masthead">
-    <p class="eyebrow">{conferences.map((c) => c.name).join(" · ")} workshops</p>
-    <h1>Every workshop deadline, one board.</h1>
+  <section class="hero">
+    <p class="eyebrow">{conferences.map((c) => c.name).join(' · ')}</p>
+    <h1>Every workshop. Every paper. One search.</h1>
     <p class="lede">
-      Submission deadlines for conference workshops across machine learning and robotics, resolved from AoE to your local
-      time — plus links to past editions and their accepted papers. Community-maintained,
-      so always confirm on the official workshop page.
+      Deadlines, past editions, and accepted papers for AI &amp; robotics conference
+      workshops — community-maintained, so always confirm on the official page.
     </p>
+    <div class="kw-box hero-box" onclick="document.getElementById('q')?.focus()">
+      <span id="kwChips"></span>
+      <input id="q" type="search" placeholder="Search workshops & papers… (Enter adds a keyword)" aria-label="Search workshops and papers" />
+    </div>
     <div class="statline">
+      <span><strong>{workshops.length}</strong> workshop editions</span>
+      <span><strong>{paperCount.toLocaleString('en-US')}</strong> papers</span>
       <span><strong>{upcomingWithDeadline.length}</strong> open calls</span>
-      <span><strong>{workshops.length}</strong> workshop editions tracked</span>
-      <span><strong>{paperCount.toLocaleString('en-US')}</strong> papers indexed</span>
     </div>
     <p class="nextline" id="next-deadline" aria-live="off">Next deadline: …</p>
   </section>
 
-  <div class="filterbar" role="search">
-    <div class="kw-box" onclick="document.getElementById('q')?.focus()">
-      <span id="kwChips"></span>
-      <input id="q" type="search" placeholder="Filter… (Enter adds a keyword)" aria-label="Filter workshops by keywords" />
+  <!-- search mode -->
+  <section id="searchPanel" hidden>
+    <div class="filterbar facetbar">
+      <details class="dd"><summary data-facet-summary="conference">Conference</summary><div class="dd-panel" data-facet="conference"></div></details>
+      <details class="dd"><summary data-facet-summary="status">Status</summary><div class="dd-panel" data-facet="status"></div></details>
+      <details class="dd"><summary data-facet-summary="year">Year</summary><div class="dd-panel" data-facet="year"></div></details>
+      <details class="dd"><summary data-facet-summary="topic">Topic</summary><div class="dd-panel" data-facet="topic"></div></details>
+      <button class="btn-quiet" id="clearSearch" type="button">Clear all</button>
+      <span class="resultcount" id="searchCount"></span>
     </div>
-    <div class="f-group" aria-label="Conference filter">
-      {conferences.map((c) => (
-        <label class="check">
-          <input type="checkbox" class="f-conf" value={c.id} />
-          <span class="conf-dot" style={`--conf:${c.color}`}></span>
-          {c.name}
-        </label>
-      ))}
-    </div>
-    <details class="dd">
-      <summary id="topicSummary">Topics</summary>
-      <div class="dd-panel">
-        {boardTopics.map((t) => (
-          <label class="check">
-            <input type="checkbox" class="f-topic" value={t.id} />
-            {t.label}
-          </label>
-        ))}
-      </div>
-    </details>
-    <label class="check">
-      <input type="checkbox" id="showPassed" checked={defaultShowPassed} data-default={defaultShowPassed ? '1' : '0'} />
-      Show passed deadlines
-    </label>
-    <button class="btn-quiet" id="clearFilters" type="button">Clear</button>
-    <span class="resultcount" id="resultCount"></span>
-  </div>
-
-  <section class="board" aria-label="Workshop deadlines">
-    {upcomingWithDeadline.map((w) => <WorkshopRow w={w} />)}
-    {deadlinePassed.map((w) => <WorkshopRow w={w} passed startVisible={defaultShowPassed} />)}
-    <div class="empty-state" id="emptyState" hidden>
-      <p>No workshops match these filters.</p>
-      <p class="small">
-        Try clearing filters — or
-        <a href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>add a missing workshop</a>.
-      </p>
-    </div>
+    <ol class="pf-results" id="results"></ol>
+    <p class="muted" id="searchStatus" hidden></p>
   </section>
 
-  {upcomingTba.length > 0 && (
-    <details class="tba-section">
-      <summary>
-        {upcomingTba.length} more {upcomingTba.length === 1 ? 'workshop' : 'workshops'} announced
-        without a listed deadline yet — help add them
-      </summary>
-      {upcomingTba.map((w) => {
-        const conf = conferenceById.get(w.conference);
-        return (
-          <div class="arch-row" data-ws-row data-conf={w.conference} data-status={w.status} data-topics={(w.topics ?? []).join(' ')} data-search={[w.name, w.acronym, conf?.name, w.year].filter(Boolean).join(' ').toLowerCase()}>
-            <span class="ws-name"><a href={href(`/workshop/${w.slug}/`)}>{w.name}</a></span>
-            <span class="muted small">{conf?.name} {w.year}</span>
-            <span class="links">
-              {w.website && <a href={w.website} rel="noopener">Site ↗</a>}
-              <a class="link-tba" href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ add deadline</a>
-            </span>
-          </div>
-        );
-      })}
-    </details>
-  )}
-
-  {proposalCalls.length > 0 && (
-    <section>
-      <h2>Organizing a workshop? Proposal deadlines</h2>
-      <p class="muted small">
-        When organizers can apply to host a workshop at each conference. Once a list of accepted
-        workshops is announced, the tracker imports them automatically from OpenReview.
-      </p>
-      <ul class="proposal-list">
-        {proposalCalls.map((c) => {
-          const conf = conferenceById.get(c.conference);
-          return (
-            <li>
-              <span class="badge" style={`--conf:${conf?.color ?? '#888'}; padding: 0.28rem 0.7rem;`}>{conf?.name} {c.year}</span>
-              <span class="mono">{c.deadlineWallClock}</span>
-              {c.open ? (
-                <span class="countdown" data-deadline-ms={c.deadlineUtcMs} data-name={`${conf?.name} ${c.year} workshop proposals`}>—</span>
-              ) : (
-                <span class="pill deadline_passed">Closed</span>
-              )}
-              <a href={c.url} rel="noopener">Call for proposals ↗</a>
-              {c.notes && <span class="muted small" style="flex-basis: 100%;">{c.notes}</span>}
-            </li>
-          );
-        })}
-      </ul>
+  <!-- default mode -->
+  <div id="homeDefault">
+    <div class="board-head">
+      <h2>Upcoming deadlines</h2>
+      <label class="check">
+        <input type="checkbox" id="showPassed" checked={defaultShowPassed} />
+        Show passed deadlines
+      </label>
+    </div>
+    <section class="board" aria-label="Workshop deadlines">
+      {upcomingWithDeadline.map((w) => <WorkshopRow w={w} />)}
+      {deadlinePassed.map((w) => <WorkshopRow w={w} passed startVisible={defaultShowPassed} />)}
     </section>
-  )}
+    {upcomingTba.length > 0 && (
+      <p class="muted small" style="margin-top: 0.9rem;">
+        {upcomingTba.length} more announced workshops haven't published a deadline yet — find
+        them with the search box above, and help <a href={`${REPO_URL}/blob/main/CONTRIBUTING.md`}>add what's missing</a>.
+      </p>
+    )}
 
-  <aside class="cta">
-    <p>
-      <strong>Missing a workshop?</strong> Add it in about two minutes — fill in the form
-      and a pull request is opened automatically.
-    </p>
-    <span>
-      <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Add a workshop</a>
-    </span>
-  </aside>
+    {proposalCalls.length > 0 && (
+      <section>
+        <h2>Organizing a workshop? Proposal deadlines</h2>
+        <ul class="proposal-list">
+          {proposalCalls.map((c) => {
+            const conf = conferenceById.get(c.conference);
+            return (
+              <li>
+                <span class="badge" style={`--conf:${conf?.color ?? '#888'}; padding: 0.28rem 0.7rem;`}>{conf?.name} {c.year}</span>
+                <span class="mono">{c.deadlineWallClock}</span>
+                {c.open ? (
+                  <span class="countdown" data-deadline-ms={c.deadlineUtcMs} data-name={`${conf?.name} ${c.year} workshop proposals`}>—</span>
+                ) : (
+                  <span class="pill deadline_passed">Closed</span>
+                )}
+                <a href={c.url} rel="noopener">Call for proposals ↗</a>
+                {c.notes && <span class="muted small" style="flex-basis: 100%;">{c.notes}</span>}
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
+
+    <aside class="cta">
+      <p>
+        <strong>Missing a workshop?</strong> Add it in about two minutes — fill in the form
+        and a pull request is opened automatically.
+      </p>
+      <span>
+        <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Add a workshop</a>
+      </span>
+    </aside>
+  </div>
 
   <script src="../scripts/board.js"></script>
+
+  <script is:inline define:vars={{ base, confColors }}>
+    // ---- Unified search over every workshop & paper (Pagefind, faceted) ----
+    const $ = (s) => document.querySelector(s);
+    const input = $('#q');
+    const chipsBox = $('#kwChips');
+    const FACETS = ['conference', 'status', 'year', 'topic'];
+    const FACET_LABEL = { conference: 'Conference', status: 'Status', year: 'Year', topic: 'Topic' };
+    let keywords = [];
+    const sel = Object.fromEntries(FACETS.map((f) => [f, new Set()]));
+    let pagefind = null, loadFailed = false, allFilters = null;
+
+    const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
+    function isSearching() {
+      return keywords.length > 0 || input.value.trim() !== '' || FACETS.some((f) => sel[f].size);
+    }
+    function setMode(searching) {
+      $('#homeDefault').hidden = searching;
+      $('#searchPanel').hidden = !searching;
+    }
+
+    function renderChips() {
+      chipsBox.innerHTML = keywords
+        .map((k, i) => `<span class="kw-chip">${esc(k)}<button type="button" class="kw-x" data-i="${i}" aria-label="Remove keyword ${esc(k)}">×</button></span>`)
+        .join('');
+    }
+
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (keywords.length) p.set('q', keywords.join(','));
+      for (const f of FACETS) if (sel[f].size) p.set(f, [...sel[f]].join(','));
+      history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
+    }
+
+    async function ensurePagefind() {
+      if (pagefind || loadFailed) return pagefind;
+      try {
+        pagefind = await import(`${base}/pagefind/pagefind.js`);
+        await pagefind.options({ baseUrl: `${base}/` });
+        await pagefind.init();
+        allFilters = await pagefind.filters();
+        renderFacetPanels();
+      } catch (err) {
+        loadFailed = true;
+        const st = $('#searchStatus');
+        st.hidden = false;
+        st.textContent = "Search couldn't load: " + (err?.message || err) + ' (in local dev, run a full build first).';
+      }
+      return pagefind;
+    }
+
+    function facetSort(f, keys) {
+      if (f === 'year') return keys.sort((a, b) => b.localeCompare(a));
+      if (f === 'status') {
+        const order = ['Open call', 'Deadline passed', 'Past'];
+        return keys.sort((a, b) => order.indexOf(a) - order.indexOf(b));
+      }
+      return keys.sort();
+    }
+
+    function renderFacetPanels() {
+      for (const f of FACETS) {
+        const panel = document.querySelector(`[data-facet="${f}"]`);
+        const counts = allFilters?.[f] ?? {};
+        panel.innerHTML = facetSort(f, Object.keys(counts))
+          .map((v) => `<label class="check"><input type="checkbox" data-f="${f}" value="${esc(v)}" ${sel[f].has(v) ? 'checked' : ''}/> ${esc(v)} <span class="muted small" data-count="${f}:${esc(v)}">(${counts[v]})</span></label>`)
+          .join('');
+      }
+      updateFacetSummaries();
+    }
+
+    function updateFacetSummaries() {
+      for (const f of FACETS) {
+        const s = document.querySelector(`[data-facet-summary="${f}"]`);
+        s.textContent = sel[f].size ? `${FACET_LABEL[f]} · ${sel[f].size}` : FACET_LABEL[f];
+      }
+    }
+
+    function updateCounts(filterCounts) {
+      for (const f of FACETS) {
+        for (const [v, n] of Object.entries(filterCounts?.[f] ?? {})) {
+          const el = document.querySelector(`[data-count="${f}:${CSS.escape(v)}"]`);
+          if (el) el.textContent = `(${n})`;
+        }
+      }
+    }
+
+    async function runSearch() {
+      setMode(isSearching());
+      if (!isSearching()) { $('#results').innerHTML = ''; $('#searchCount').textContent = ''; syncUrl(); return; }
+      const pf = await ensurePagefind();
+      if (!pf) return;
+      const terms = [...keywords, input.value.trim()].filter(Boolean);
+      const filters = {};
+      for (const f of FACETS) if (sel[f].size) filters[f] = { any: [...sel[f]] };
+      const res = await pf.debouncedSearch(terms.join(' ') || null, { filters }, 220);
+      if (res === null) return; // superseded
+      updateCounts(res.filters);
+      $('#searchCount').textContent = `${res.results.length} workshop${res.results.length === 1 ? '' : 's'}`;
+      const data = await Promise.all(res.results.slice(0, 50).map((r) => r.data()));
+      $('#results').innerHTML = data
+        .map((d) => {
+          const conf = d.meta?.conference ?? '';
+          const color = confColors[conf] ?? '#888';
+          return `
+        <li class="pf-result">
+          <div class="result-meta">
+            <span class="badge" style="--conf:${color}; padding:0.2rem 0.6rem;">${esc(conf)} ${esc(d.meta?.year ?? '')}</span>
+            <span class="pill ${d.meta?.status === 'Open call' ? 'upcoming' : d.meta?.status === 'Past' ? 'past' : 'deadline_passed'}">${esc(d.meta?.status ?? '')}</span>
+          </div>
+          <a class="pf-title" href="${esc(d.url)}">${esc(d.meta?.title ?? d.url)}</a>
+          <p class="pf-excerpt">${d.excerpt}</p>
+        </li>`;
+        })
+        .join('') || '<li class="muted">No matches — remove a keyword or filter, or <a href="' + esc(`${base}/about/`) + '">add the workshop</a>.</li>';
+      syncUrl();
+    }
+
+    // events
+    input.addEventListener('input', runSearch);
+    input.addEventListener('focus', ensurePagefind, { once: true });
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ',') {
+        e.preventDefault();
+        const v = input.value.trim().toLowerCase();
+        if (v && !keywords.includes(v)) keywords.push(v);
+        input.value = '';
+        renderChips(); runSearch();
+      } else if (e.key === 'Backspace' && input.value === '' && keywords.length) {
+        keywords.pop(); renderChips(); runSearch();
+      }
+    });
+    chipsBox.addEventListener('click', (e) => {
+      const btn = e.target.closest('.kw-x');
+      if (!btn) return;
+      keywords.splice(Number(btn.dataset.i), 1);
+      renderChips(); runSearch(); input.focus();
+    });
+    document.addEventListener('change', (e) => {
+      const cb = e.target.closest('input[data-f]');
+      if (!cb) return;
+      sel[cb.dataset.f][cb.checked ? 'add' : 'delete'](cb.value);
+      updateFacetSummaries(); runSearch();
+    });
+    $('#clearSearch').addEventListener('click', () => {
+      keywords = []; input.value = '';
+      for (const f of FACETS) sel[f].clear();
+      renderChips(); renderFacetPanels(); runSearch();
+    });
+
+    // hydrate from URL
+    const p = new URLSearchParams(location.search);
+    keywords = (p.get('q') || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+    for (const f of FACETS) for (const v of (p.get(f) || '').split(',').filter(Boolean)) sel[f].add(v);
+    renderChips();
+    if (isSearching()) { updateFacetSummaries(); runSearch(); }
+  </script>
 </Base>

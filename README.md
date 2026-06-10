@@ -5,8 +5,8 @@
 A static website that aggregates **ML conference workshop** information in one place:
 
 - 📅 **Upcoming submission deadlines** for ICML, ICLR, NeurIPS, ICRA, and IROS workshops — with live countdowns and AoE → local-time conversion (subscribable `.ics` calendar feeds exist but are paused until dates are verified; see `CALENDAR_ENABLED`)
-- 🗂 **An archive of past workshops** with links to their sites and proceedings
-- 📄 **Auto-generated accepted-paper listings** for OpenReview-hosted workshops, searchable alongside workshop metadata
+- 🔎 **One unified, faceted search** (Pagefind, fully static) across every workshop edition and 19k+ accepted-paper titles — filter by conference, status, year, and topic with live counts
+- 📄 **Auto-generated accepted-paper listings** for OpenReview-hosted workshops on each workshop's page
 
 Conference deadline trackers exist; *workshop* deadlines never had one. This fills that gap — built to cost **$0/month** and need almost no maintenance. Ships with 420+ real workshop editions (2024–2026, across all five conferences) and 19,000+ accepted-paper titles imported from OpenReview venue records.
 
@@ -26,7 +26,7 @@ GitHub repo (single source of truth)
 
 Key design decisions (all in service of zero cost / low maintenance):
 
-- **No backend, no database.** The Git repo *is* the database; the site is fully static (Astro), searchable via a build-time [Pagefind](https://pagefind.app) index, hosted free on GitHub Pages or Cloudflare Pages.
+- **No backend, no database.** The Git repo *is* the database; the site is fully static (Astro), hosted free on GitHub Pages or Cloudflare Pages. The UI is deliberately two pages — a search-first homepage (big search box over the deadline board; searching swaps in faceted results) and About. Old /archive, /search, /contribute, /calendar URLs redirect.
 - **Statuses are derived, never stored.** `upcoming` / `deadline_passed` / `past` are computed from dates at build time; a weekly scheduled rebuild keeps them fresh with zero commits.
 - **Calendar feeds instead of email.** Static `.ics` feeds (all / per-conference / per-topic / per-workshop) with built-in 7-day and 1-day alarms replace any notification infrastructure. *Currently paused* via the `CALENDAR_ENABLED` flag in `site/src/lib/site.ts` until imported dates are human-verified — while paused, feeds publish zero events so earlier subscribers' calendars self-clean.
 - **OpenReview only, cached.** Paper lists are fetched from the OpenReview API by a monthly job into committed JSON; builds never touch the live API. Non-OpenReview workshops just link out — no scraping.

@@ -338,3 +338,20 @@ details.tba-section > summary { cursor: pointer; color: var(--muted); font-size:
 .year-block { border-left: 3px solid var(--conf, var(--line)); padding-left: 1.1rem; margin: 1.3rem 0 2.1rem; }
 .year-block h3 { font-size: 1.5rem; margin-top: 0.4rem; }
 .arch-row:hover { background: var(--surface); }
+
+/* ---------- search-first homepage ---------- */
+.hero { text-align: center; padding: 3.2rem 0 1.6rem; }
+.hero .lede { margin: 0.5rem auto 1.6rem; max-width: 44rem; }
+.kw-box.hero-box {
+  max-width: 46rem; margin: 0 auto;
+  padding: 0.55rem 0.9rem; border-radius: 14px;
+  box-shadow: var(--shadow); border-color: var(--line);
+}
+.kw-box.hero-box input { font-size: 1.05rem; padding: 0.35rem 0.3rem; }
+.kw-box.hero-box:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.hero .statline, .hero .nextline { justify-content: center; text-align: center; }
+.facetbar { margin-top: 0.4rem; }
+.board-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 1.4rem; margin-top: 2.4rem; }
+.board-head h2 { margin: 0; }
+.result-meta { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem; }
+.result-meta .badge { font-size: 0.7rem; }

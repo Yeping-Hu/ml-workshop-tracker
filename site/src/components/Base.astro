@@ -12,9 +12,6 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : un
 
 const nav = [
   { label: 'Deadlines', path: '/' },
-  { label: 'Archive', path: '/archive/' },
-  ...(CALENDAR_ENABLED ? [{ label: 'Calendar', path: '/calendar/' }] : []),
-  { label: 'Search', path: '/search/' },
   { label: 'About', path: '/about/' },
 ];
 const buildDate = new Date().toISOString().slice(0, 10);
@@ -50,7 +47,7 @@ const current = (p: string) =>
         url: Astro.site.href,
         potentialAction: {
           '@type': 'SearchAction',
-          target: { '@type': 'EntryPoint', urlTemplate: `${Astro.site.href.replace(/\/$/, '')}/search/?q={search_term_string}` },
+          target: { '@type': 'EntryPoint', urlTemplate: `${Astro.site.href.replace(/\/$/, '')}/?q={search_term_string}` },
           'query-input': 'required name=search_term_string',
         },
       })} />
