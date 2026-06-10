@@ -112,6 +112,10 @@ function applyFilters(state) {
     row.hidden = !show;
     if (show) visible++;
   }
+  // Hide any group container (year block, conference section) with no visible rows.
+  for (const g of $$('[data-group]')) {
+    g.hidden = ![...g.querySelectorAll('[data-ws-row]')].some((r) => !r.hidden);
+  }
   const count = $('#resultCount');
   if (count) count.textContent = `${visible} shown`;
   const empty = $('#emptyState');

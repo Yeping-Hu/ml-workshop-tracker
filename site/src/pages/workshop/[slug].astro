@@ -34,7 +34,11 @@ const portalLabel: Record<string, string> = {
       <h1>{w.name}</h1>
       {w.acronym && <p class="muted mono">{w.acronym}</p>}
       <div class="linkrow">
-        <a href={w.website} rel="noopener">Official website ↗</a>
+        {w.website ? (
+          <a href={w.website} rel="noopener">Official website ↗</a>
+        ) : (
+          <a class="link-tba" href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">Website unknown — help us add it</a>
+        )}
         {w.openreview_venue_id && (
           <a href={`https://openreview.net/group?id=${w.openreview_venue_id}`} rel="noopener">OpenReview venue ↗</a>
         )}

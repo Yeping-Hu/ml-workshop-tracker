@@ -1,11 +1,21 @@
 ---
 import Base from '../components/Base.astro';
 import WorkshopRow from '../components/WorkshopRow.astro';
-import { workshops, upcoming, deadlinePassed, conferences, topics, paperCount } from '../lib/data';
-import { REPO_URL } from '../lib/site';
+import {
+  workshops,
+  upcomingWithDeadline,
+  upcomingTba,
+  deadlinePassed,
+  conferences,
+  topics,
+  paperCount,
+  proposalCalls,
+  conferenceById,
+} from '../lib/data';
+import { href, REPO_URL } from '../lib/site';
 
 // Topics that actually appear on boardable (upcoming or recent passed) rows.
-const boardRows = [...upcoming, ...deadlinePassed];
+const boardRows = [...upcomingWithDeadline, ...upcomingTba, ...deadlinePassed];
 const activeTopicIds = new Set(boardRows.flatMap((w) => w.topics ?? []));
 const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
 ---
@@ -20,7 +30,7 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
       so always confirm on the official workshop page.
     </p>
     <div class="statline">
-      <span><strong>{upcoming.length}</strong> open calls</span>
+      <span><strong>{upcomingWithDeadline.length}</strong> open calls</span>
       <span><strong>{workshops.length}</strong> workshop editions tracked</span>
       <span><strong>{paperCount.toLocaleString('en-US')}</strong> papers indexed</span>
     </div>
@@ -58,7 +68,7 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
   </div>
 
   <section class="board" aria-label="Workshop deadlines">
-    {upcoming.map((w) => <WorkshopRow w={w} />)}
+    {upcomingWithDeadline.map((w) => <WorkshopRow w={w} />)}
     {deadlinePassed.map((w) => <WorkshopRow w={w} passed />)}
     <div class="empty-state" id="emptyState" hidden>
       <p>No workshops match these filters.</p>
@@ -68,6 +78,56 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
       </p>
     </div>
   </section>
+
+  {upcomingTba.length > 0 && (
+    <details class="tba-section">
+      <summary>
+        {upcomingTba.length} more {upcomingTba.length === 1 ? 'workshop' : 'workshops'} announced
+        without a listed deadline yet — help add them
+      </summary>
+      {upcomingTba.map((w) => {
+        const conf = conferenceById.get(w.conference);
+        return (
+          <div class="arch-row" data-ws-row data-conf={w.conference} data-status={w.status} data-topics={(w.topics ?? []).join(' ')} data-search={[w.name, w.acronym, conf?.name, w.year].filter(Boolean).join(' ').toLowerCase()}>
+            <span class="ws-name"><a href={href(`/workshop/${w.slug}/`)}>{w.name}</a></span>
+            <span class="muted small">{conf?.name} {w.year}</span>
+            <span class="links">
+              {w.website && <a href={w.website} rel="noopener">Site ↗</a>}
+              <a class="link-tba" href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ add deadline</a>
+            </span>
+          </div>
+        );
+      })}
+    </details>
+  )}
+
+  {proposalCalls.length > 0 && (
+    <section>
+      <h2>Organizing a workshop? Proposal deadlines</h2>
+      <p class="muted small">
+        When organizers can apply to host a workshop at each conference. Once a list of accepted
+        workshops is announced, the tracker imports them automatically from OpenReview.
+      </p>
+      <ul class="proposal-list">
+        {proposalCalls.map((c) => {
+          const conf = conferenceById.get(c.conference);
+          return (
+            <li>
+              <span class="badge" style={`--conf:${conf?.color ?? '#888'}; padding: 0.28rem 0.7rem;`}>{conf?.name} {c.year}</span>
+              <span class="mono">{c.deadlineWallClock}</span>
+              {c.open ? (
+                <span class="countdown" data-deadline-ms={c.deadlineUtcMs} data-name={`${conf?.name} ${c.year} workshop proposals`}>—</span>
+              ) : (
+                <span class="pill deadline_passed">Closed</span>
+              )}
+              <a href={c.url} rel="noopener">Call for proposals ↗</a>
+              {c.notes && <span class="muted small" style="flex-basis: 100%;">{c.notes}</span>}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  )}
 
   <aside class="cta">
     <p>

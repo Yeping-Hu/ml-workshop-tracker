@@ -15,8 +15,8 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: npm
@@ -24,7 +24,7 @@ jobs:
       - name: Fetch recent venues
         run: node scripts/fetch_openreview.mjs --recent
       - name: Open PR with cache changes (if any)
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           add-paths: cache/openreview/*.json
           branch: bot/openreview-refresh

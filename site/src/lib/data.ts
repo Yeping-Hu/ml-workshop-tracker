@@ -8,6 +8,7 @@ import {
   loadConferences,
   loadTopics,
   loadPaperCache,
+  loadProposalCalls,
   sortByDeadline,
 } from '../../../lib/workshops.mjs';
 
@@ -23,6 +24,9 @@ export const topicById = new Map(topics.map((t: Topic) => [t.id, t]));
 export { loadPaperCache, sortByDeadline };
 
 export const upcoming = sortByDeadline(workshops.filter((w: Workshop) => w.status === 'upcoming'));
+export const upcomingWithDeadline = upcoming.filter((w: Workshop) => w.deadlineUtcMs != null);
+export const upcomingTba = upcoming.filter((w: Workshop) => w.deadlineUtcMs == null);
+export const proposalCalls = loadProposalCalls();
 export const deadlinePassed = sortByDeadline(
   workshops.filter((w: Workshop) => w.status === 'deadline_passed'),
 );

@@ -55,7 +55,11 @@ const hasDeadline = w.deadlineUtcMs != null;
   )}
 
   <div class="ws-links small">
-    <a href={w.website} rel="noopener">Website ↗</a>
+    {w.website ? (
+      <a href={w.website} rel="noopener">Website ↗</a>
+    ) : (
+      <a class="link-tba" href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">Website TBA — add it</a>
+    )}
     {hasDeadline && <a href={href(`/feeds/ws-${w.slug}.ics`)}>.ics</a>}
     <a href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ Edit</a>
   </div>

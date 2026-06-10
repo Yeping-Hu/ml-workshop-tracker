@@ -6,7 +6,7 @@ A static website that aggregates **ML conference workshop** information in one p
 - 🗂 **An archive of past workshops** with links to their sites and proceedings
 - 📄 **Auto-generated accepted-paper listings** for OpenReview-hosted workshops, searchable alongside workshop metadata
 
-Conference deadline trackers exist; *workshop* deadlines never had one. This fills that gap — built to cost **$0/month** and need almost no maintenance.
+Conference deadline trackers exist; *workshop* deadlines never had one. This fills that gap — built to cost **$0/month** and need almost no maintenance. Ships with ~330 real workshop editions (2024-2026) imported from OpenReview venue records.
 
 ## How it works
 
@@ -87,7 +87,15 @@ The maintainer's whole job: review PRs and skim two auto-updated "Data health" i
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Short version: use the **"Add a workshop" issue form** (no Git needed — a bot opens the PR), or copy `data/workshops/_template.yml` and open a PR yourself. Every page on the site has a ✎ Edit link.
 
-> **Note on the included seed data:** the 10 entries in `data/workshops/` exist so the site renders meaningfully out of the box. Past-workshop entries were seeded from real OpenReview venue records (papers included), but **deadlines and 2026 editions are estimates marked `SEED DATA — verify`**. Verify or replace them before launching publicly.
+### Bulk-importing real workshop lists
+
+`scripts/discover_openreview.mjs` enumerates every workshop venue for a conference-year straight from OpenReview and creates an entry per venue — official title, acronym, website, and the **real submission deadline** parsed from the venue record (nothing estimated; venues without published metadata are left blank for contributors to fill, and the site shows "help us add it" prompts):
+
+```bash
+node scripts/discover_openreview.mjs --conf neurips --year 2026
+```
+
+Run it when a conference announces its accepted workshop list (NeurIPS announces ~July, ICLR ~January, ICML ~March). The repo ships with all of 2024-2026 imported (~330 editions). To populate accepted-paper caches for them, run `node scripts/fetch_openreview.mjs` (fetches everything missing; the monthly workflow keeps recent years fresh).
 
 ## Data & API
 

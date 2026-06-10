@@ -47,6 +47,7 @@
 
 /* ---------- base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { color-scheme: light dark; }
 body {
   margin: 0;
@@ -265,3 +266,11 @@ details.dd .dd-panel {
   .kv dt { margin-top: 0.6rem; }
   .filterbar { position: static; }
 }
+
+/* ---------- proposal calls & TBA sections ---------- */
+.proposal-list { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.55rem; }
+.proposal-list li { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; align-items: baseline; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.9rem; }
+.proposal-list .mono { font-size: 0.84rem; }
+details.tba-section { margin-top: 1.6rem; }
+details.tba-section > summary { cursor: pointer; color: var(--muted); font-size: 0.92rem; padding: 0.4rem 0; }
+.link-tba { color: var(--warn); text-decoration-style: dashed; }

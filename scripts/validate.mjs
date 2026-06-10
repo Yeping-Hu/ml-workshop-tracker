@@ -125,12 +125,25 @@ for (const filePath of listWorkshopFiles()) {
         file: rel,
         msg: `\`submission_deadline\` "${w.submission_deadline}" is not a valid "YYYY-MM-DD" or "YYYY-MM-DD HH:MM".`,
       });
-    } else if (Math.abs(deadlineMs - NOW) > TWO_YEARS) {
-      errors.push({
-        file: rel,
-        msg: `\`submission_deadline\` is more than 2 years from today — please double-check the year.`,
-      });
+    } else {
+      // Sanity: catch typos without rejecting historical entries.
+      if (deadlineMs - NOW > TWO_YEARS) {
+        errors.push({
+          file: rel,
+          msg: '`submission_deadline` is more than 2 years in the future — please double-check the year.',
+        });
+      }
+      const dlYear = Number(String(w.submission_deadline).slice(0, 4));
+      if (Math.abs(dlYear - w.year) > 1) {
+        errors.push({
+          file: rel,
+          msg: `\`submission_deadline\` year (${dlYear}) doesn't match the edition year (${w.year}).`,
+        });
+      }
     }
+  if (!w.website) {
+    warnings.push({ file: rel, msg: 'No `website` — the site will show a "help us add it" prompt.' });
+  }
   } else if (w.year >= new Date(NOW).getUTCFullYear()) {
     warnings.push({ file: rel, msg: 'No `submission_deadline` set for a current/future edition (will show as TBA).' });
   }

@@ -44,10 +44,10 @@ function papersLink(w: Record<string, any>) {
   </div>
 
   {byConf.map(({ conf, years }) => (
-    <section>
+    <section data-group>
       <h2>{conf.name}</h2>
       {years.map(({ year, items }) => (
-        <div class="year-block">
+        <div class="year-block" data-group>
           <h3>
             {year} <span class="mono">{items.length} workshop{items.length === 1 ? '' : 's'}</span>
           </h3>
@@ -60,7 +60,7 @@ function papersLink(w: Record<string, any>) {
                 {w.acronym && <span class="muted mono small">{w.acronym}</span>}
                 {(w.topics ?? []).slice(0, 3).map((t: string) => <span class="chip">{topicById.get(t)?.label ?? t}</span>)}
                 <span class="links">
-                  <a href={w.website} rel="noopener">Site ↗</a>
+                  {w.website && <a href={w.website} rel="noopener">Site ↗</a>}
                   {link && <a href={link.href} rel={link.ext ? 'noopener' : undefined}>{link.label}</a>}
                 </span>
               </div>
