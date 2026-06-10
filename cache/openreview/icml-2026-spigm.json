@@ -1,0 +1,2327 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/SPIGM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:09.102Z",
+ "paper_count": 208,
+ "papers": [
+  {
+   "title": "$\\psi$DAG: Projected Stochastic Approximation Iteration for Linear DAG Structure Learning",
+   "authors": [
+    "Klea Ziu",
+    "Slavomir Hanzely",
+    "Loka Li",
+    "Kun Zhang",
+    "Martin Takáč",
+    "Dmitry Kamzolov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CRL9foL0BM",
+   "pdf_url": null
+  },
+  {
+   "title": "A Born Machine Approach to Controllable Text Generation with Language Models",
+   "authors": [
+    "Sihan Wang",
+    "Di Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A6zrZmFpeQ",
+   "pdf_url": null
+  },
+  {
+   "title": "A Generative Model for Extremely Sparse Edge-Exchangeable Networks",
+   "authors": [
+    "Valentin Kilian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Re88zQFpQ",
+   "pdf_url": null
+  },
+  {
+   "title": "A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models",
+   "authors": [
+    "Samuel Howard",
+    "Nikolas Nüsken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Bimeigk3P",
+   "pdf_url": null
+  },
+  {
+   "title": "A Structural View of Query Misspecification in Causal Foundation Models",
+   "authors": [
+    "Junha Ham",
+    "Deokgyu Kim",
+    "Doeun Kim",
+    "Serjin Kim",
+    "Sanghack Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HZ2mgJ8OJs",
+   "pdf_url": null
+  },
+  {
+   "title": "A Tale of Two Temperatures:  Simple, Efficient, and Diverse Sampling from Diffusion Language Models",
+   "authors": [
+    "Theo X. Olausson",
+    "Metod Jazbec",
+    "Xi Wang",
+    "Armando Solar-Lezama",
+    "Christian A. Naesseth",
+    "Stephan Mandt",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BEYyxUDMU0",
+   "pdf_url": null
+  },
+  {
+   "title": "A Unified View of Score-Based and Drifting Models",
+   "authors": [
+    "Chieh-Hsin Lai",
+    "Bac Nguyen",
+    "Naoki Murata",
+    "Yuhta Takida",
+    "Toshimitsu Uesaka",
+    "Yuki Mitsufuji",
+    "Stefano Ermon",
+    "Molei Tao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xxqv7dTdTY",
+   "pdf_url": null
+  },
+  {
+   "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
+   "authors": [
+    "Gabe Guo",
+    "Thanawat Sornwanee",
+    "Lutong Hao",
+    "Elon Litman",
+    "Stefano Ermon",
+    "Jose Blanchet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MgSdWCAsDv",
+   "pdf_url": null
+  },
+  {
+   "title": "Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules",
+   "authors": [
+    "Riccardo De Santi",
+    "Bruce D Lee",
+    "Cristian Perez Jensen",
+    "Kimon Protopapas",
+    "Sophia Tang",
+    "Cheng-Hao Liu",
+    "Pranam Chatterjee",
+    "Yisong Yue",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LCcj9SS9ez",
+   "pdf_url": null
+  },
+  {
+   "title": "Aligning Few-Step Generative Model via Amortizing Sample-Based Variational Inference",
+   "authors": [
+    "Jaewoo Lee",
+    "Hyeongyu Kang",
+    "Dohyun Kim",
+    "Kyuil Sim",
+    "Woocheol Shin",
+    "Minsu Kim",
+    "Taeyoung Yun",
+    "Jeongjae Lee",
+    "Sanghyeok Choi",
+    "Tabitha Edith Lee",
+    "Jong Chul Ye",
+    "Jinkyoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5CNn617yWW",
+   "pdf_url": null
+  },
+  {
+   "title": "Alignment-Dependent Inference in Small Language Models via Budgeted Marginalization over Contextual Priors",
+   "authors": [
+    "Alexis Hu",
+    "Yilun Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uhoko5rxJx",
+   "pdf_url": null
+  },
+  {
+   "title": "AMIGO: Adapters Meet Information Geometry",
+   "authors": [
+    "Artsiom Patarusau",
+    "Vladimir Bogachev",
+    "Kamil Garifullin",
+    "Aibek Alanov",
+    "Denis Rakitin",
+    "Maxim Rakhuba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xcZBWJZnqB",
+   "pdf_url": null
+  },
+  {
+   "title": "Amortised Inference through One-Step Implicit Sampling",
+   "authors": [
+    "Vincent Pauline",
+    "Kirill Tamogashev",
+    "Arran Carter",
+    "Sanghyeok Choi",
+    "Stefan Bauer",
+    "Esmeralda S. Whitammer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xjX5a5mApk",
+   "pdf_url": null
+  },
+  {
+   "title": "Analytic interdomain memory for efficient online HiPPO-SVGP",
+   "authors": [
+    "Zhaodong Guo",
+    "Naoki Kiyohara",
+    "Wenlong Chen",
+    "Harrison Bo Hua Zhu",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YMihc7VMMn",
+   "pdf_url": null
+  },
+  {
+   "title": "Anchoring Aleatoric Uncertainty: A Four-Term Decomposition of Predictive Risk at the Bayes-Optimal Predictor",
+   "authors": [
+    "Minghao Li",
+    "Junjie Qiu",
+    "Weishi Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P12PVScOvf",
+   "pdf_url": null
+  },
+  {
+   "title": "Applying Splat Regression Models to Particle Density Control in Radiance Fields",
+   "authors": [
+    "Quan Tran Hong",
+    "Long Nguyen-Chi",
+    "Binh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x0i3Y9kUzC",
+   "pdf_url": null
+  },
+  {
+   "title": "Benchmarks as Random Variables—Modeling Overdispersion in LLM Evaluation",
+   "authors": [
+    "Michal Buran",
+    "Václav Čadek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g5jezzrnct",
+   "pdf_url": null
+  },
+  {
+   "title": "BIRDGen: Multimodal Conditional Inference of Latent Unbiased Species Distributions",
+   "authors": [
+    "Richard Yuxuan Zhu",
+    "Cathy Hou",
+    "Katherine McPhie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ccTEfwwTmI",
+   "pdf_url": null
+  },
+  {
+   "title": "Boosting Inference with Guided Reasoning: Stochastic Exploration for Recursive Models",
+   "authors": [
+    "Andrew Corbett",
+    "Archit Sood",
+    "Anna Tzatzopoulou",
+    "Sai-Aakash Ramesh",
+    "Tim James Dodwell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cNMqROb62w",
+   "pdf_url": null
+  },
+  {
+   "title": "Branching Diffusion for Point Processes in Time and Space",
+   "authors": [
+    "Chao Yang",
+    "Wenjie Shen",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zy6fDc70o6",
+   "pdf_url": null
+  },
+  {
+   "title": "Breaking the Factorization Barrier in Diffusion Language Models",
+   "authors": [
+    "Ian Li",
+    "Zilei Shao",
+    "Benjie Wang",
+    "Rose Yu",
+    "Guy Van den Broeck",
+    "Anji Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gz8i0l5LjL",
+   "pdf_url": null
+  },
+  {
+   "title": "Bridging the Gap Between AI Predictions and Chemical Conventions: Template-Guided Reranking for Accurate Reagent Set Suggestion",
+   "authors": [
+    "Nahyeon Kim",
+    "Yousung Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qXCkLxpR6T",
+   "pdf_url": null
+  },
+  {
+   "title": "Calibrating Promptable Concept Segmentation via Paraphrase Consistency",
+   "authors": [
+    "Severyn Shykula",
+    "Zakhar Kohut",
+    "Mykola Vysotskyi",
+    "Dmytro Khamula",
+    "Taras Rumezhak",
+    "Volodymyr Karpiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZzaMqjb64O",
+   "pdf_url": null
+  },
+  {
+   "title": "Categorical Drifting Models",
+   "authors": [
+    "Floor Eijkelboom",
+    "Nabil Iqbal",
+    "Max Welling",
+    "Jan-Willem van de Meent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tEBiaXboS6",
+   "pdf_url": null
+  },
+  {
+   "title": "CIRCUS: Circuit Consensus under Uncertainty via Stability Ensembles",
+   "authors": [
+    "Swapnil Parekh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M3wusJ6Mqo",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Energy-Based Inference-Time Scaling for Multi-Scale Microstructure Generation",
+   "authors": [
+    "Chengxi Zhang",
+    "Yu Yao",
+    "Zhenting Qi",
+    "Yilun Du",
+    "Ju Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eZnWJnCZCH",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Flow Matching with Factored Velocity Fields",
+   "authors": [
+    "Avery Hee-Woon Ryoo",
+    "Dane Malenfant",
+    "Matthew G Perich",
+    "Guillaume Lajoie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P1b6pr3632",
+   "pdf_url": null
+  },
+  {
+   "title": "Conditional Inference Mismatch in Structured Diffusion Language Models",
+   "authors": [
+    "Matevz Matjasec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2GEZRpZbEo",
+   "pdf_url": null
+  },
+  {
+   "title": "Conditional Random Fields for Structured Representation Learning from Pretrained Features",
+   "authors": [
+    "Daniil Kirilenko",
+    "Dario Fenoglio",
+    "Martin Gjoreski",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1NTfTT3SD7",
+   "pdf_url": null
+  },
+  {
+   "title": "Conditional Unbalanced Optimal Transport Maps: An Outlier-Robust Framework for Conditional Generative Modeling",
+   "authors": [
+    "Jiwoo yoon",
+    "Kyumin Choi",
+    "Jaewoong Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KbEbJBtavd",
+   "pdf_url": null
+  },
+  {
+   "title": "Context Over Content: Exposing Evaluation Faking in Automated Judges",
+   "authors": [
+    "Manan Gupta",
+    "Inderjeet Jayakumar Nair",
+    "Lu Wang",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=udpnTPyA21",
+   "pdf_url": null
+  },
+  {
+   "title": "Context-Aware Neural SDEs for Robust Irregular Time-Series Classification",
+   "authors": [
+    "YongKyung Oh",
+    "Alex Bui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LwHuqdidzW",
+   "pdf_url": null
+  },
+  {
+   "title": "Contour Monte Carlo: Sampling via Energy Level Sets",
+   "authors": [
+    "Varun Jain",
+    "Hong Ge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=upmQ6OsuSi",
+   "pdf_url": null
+  },
+  {
+   "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+   "authors": [
+    "Jaihoon Kim",
+    "Taehoon Yoon",
+    "Prin Phunyaphibarn",
+    "Seungjun Kim",
+    "Morteza Mardani",
+    "Minhyuk Sung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oLz7D5ErBy",
+   "pdf_url": null
+  },
+  {
+   "title": "Decision-Aware Training for Sample-Based Generative Models",
+   "authors": [
+    "Kornelius Raeth",
+    "Nicole Ludwig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TjjGIhLxaM",
+   "pdf_url": null
+  },
+  {
+   "title": "Deep Generative Models for Phylogenetic Inference with Complex Evolutionary Processes",
+   "authors": [
+    "Alan Nawzad Amin",
+    "Ethan Baron",
+    "Andrew Gordon Wilson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ps2NvoNKo3",
+   "pdf_url": null
+  },
+  {
+   "title": "Deep Heteroskedastic Regression: Post-Hoc Variance Estimation from Latent Representations",
+   "authors": [
+    "Mikkel Jordahn",
+    "Jonas Vestergaard Jensen",
+    "James Harrison",
+    "Michael Riis Andersen",
+    "Mikkel N. Schmidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NzABkbZcpe",
+   "pdf_url": null
+  },
+  {
+   "title": "DELTA-TTS: Adapting Autoregressive Model into a Diffusion Language Model for Text-to-Speech",
+   "authors": [
+    "Junwon Moon",
+    "Seungbeom Kim",
+    "Yejin Lee",
+    "Hoseong Ahn",
+    "Sewoong Park",
+    "Heeseung Kim",
+    "Kyuhong Shim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2DbAIl7sf",
+   "pdf_url": null
+  },
+  {
+   "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+   "authors": [
+    "Manan Gupta",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FbDuesI6tD",
+   "pdf_url": null
+  },
+  {
+   "title": "Diffusion Accelerants: Towards Augmenting Molecular Dynamics with Learned Measure Transport",
+   "authors": [
+    "Bowen Jing",
+    "Zehua Wang",
+    "Paul Gutkovich",
+    "Peter Holderrieth",
+    "Tommi Jaakkola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ssjcTBZdQd",
+   "pdf_url": null
+  },
+  {
+   "title": "Diffusion Gaussian Processes",
+   "authors": [
+    "Gloria Sun",
+    "Julien Horwood",
+    "Jihao Andreas Lin",
+    "José Miguel Hernández-Lobato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8VGxerdrY2",
+   "pdf_url": null
+  },
+  {
+   "title": "Direct Flow Neural Processes: Efficient Sampling via Flow Step Amortization",
+   "authors": [
+    "Azmi A. Haider",
+    "Dan Rosenbaum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7dkPGrmEMN",
+   "pdf_url": null
+  },
+  {
+   "title": "Discrete Langevin-Inspired Posterior Sampling",
+   "authors": [
+    "Sattwik Basu",
+    "Chaitanya Amballa",
+    "Jorge Vančo Sampedro",
+    "Romit Roy Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pAi4zpf5uc",
+   "pdf_url": null
+  },
+  {
+   "title": "DLLM-JEPA: Joint Embedding Predictive Architectures for Masked Diffusion Language Models",
+   "authors": [
+    "Sangdae Nam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MPwqSrnwmU",
+   "pdf_url": null
+  },
+  {
+   "title": "DODO: Discrete OCR Diffusion Models",
+   "authors": [
+    "Sean Man",
+    "Gilad Deutch",
+    "Roy Ganz",
+    "Roi Ronen",
+    "Shahar Tsiper",
+    "Shai Mazor",
+    "Niv Nayman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2zB9KnFFDR",
+   "pdf_url": null
+  },
+  {
+   "title": "DualDrift: Combining Forward and Reverse Drifts for One-Step Generative Modeling",
+   "authors": [
+    "Hojung Jung",
+    "Juhyeong Kim",
+    "Jaehyun Kwak",
+    "Boryeong Cho",
+    "Junhyeok Yang",
+    "Youngrok Park",
+    "Sangmin Bae",
+    "Se-Young Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H5J9zbBlHX",
+   "pdf_url": null
+  },
+  {
+   "title": "DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking",
+   "authors": [
+    "Gilad Turok",
+    "Yair Schiff",
+    "Christopher De Sa",
+    "Volodymyr Kuleshov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2o3a4BWjWq",
+   "pdf_url": null
+  },
+  {
+   "title": "DVD: Discrete Voxel Diffusion for 3D Generation and Editing",
+   "authors": [
+    "Zhengrui Xiang",
+    "Jiaqi Wu",
+    "Fupeng Sun",
+    "Heliang Zheng",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1usSpb3q2n",
+   "pdf_url": null
+  },
+  {
+   "title": "Edge-aware FlexAttention Network for Efficient Graph Generation",
+   "authors": [
+    "Vincent Jung",
+    "Alba Carballo-Castro",
+    "Yiming QIN",
+    "Lonneke van der Plas",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zJf5SIq74D",
+   "pdf_url": null
+  },
+  {
+   "title": "Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement",
+   "authors": [
+    "Sanghyun Lee",
+    "Sunwoo Kim",
+    "Seungryong Kim",
+    "Jongho Park",
+    "Dongmin Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mc9YqdFRF1",
+   "pdf_url": null
+  },
+  {
+   "title": "Efficient One-to-many Domain Translation via Diffusive Entropic Optimal Transport",
+   "authors": [
+    "David Vaneev",
+    "Ivan Shchekotov",
+    "Denis Rakitin",
+    "Dmitry Vetrov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3XZBfHxkS9",
+   "pdf_url": null
+  },
+  {
+   "title": "Electrostatic Models for Score Matching",
+   "authors": [
+    "Laura Appleby",
+    "Diana Cai",
+    "Lawrence K. Saul",
+    "Daniel D. Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IZX17BZoNs",
+   "pdf_url": null
+  },
+  {
+   "title": "End-to-End Context Compression at Scale",
+   "authors": [
+    "Ang Li",
+    "Sean Michael McLeish",
+    "Haozhe Chen",
+    "Nimit Kalra",
+    "Zaiqian Chen",
+    "Artem Gazizov",
+    "Venkata Anoop Suhas Kumar Morisetty",
+    "Bhavya Kailkhura",
+    "Harshitha Menon",
+    "Zhuang Liu",
+    "Brian R. Bartoldson",
+    "Tom Goldstein",
+    "Sanae Lotfi",
+    "Micah Goldblum",
+    "Pavel Izmailov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=87TmBrdVBN",
+   "pdf_url": null
+  },
+  {
+   "title": "End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems",
+   "authors": [
+    "Carles Balsells-Rodas",
+    "Zhengrui Xiang",
+    "Xavier Sumba",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ciw2T50E3O",
+   "pdf_url": null
+  },
+  {
+   "title": "Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models",
+   "authors": [
+    "Yu Xie",
+    "Ludwig Winkler",
+    "Lixin Sun",
+    "Sarah Lewis",
+    "Adam Foster",
+    "Jose Jimenez-Luna",
+    "Tim Hempel",
+    "Michael Gastegger",
+    "Yaoyi Chen",
+    "Iryna Zaporozhets",
+    "Cecilia Clementi",
+    "Christopher M. Bishop",
+    "Frank Noe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sEFCI9J8lG",
+   "pdf_url": null
+  },
+  {
+   "title": "Evolutionary Curriculum Learning for Biological Sequence Modeling",
+   "authors": [
+    "Richard Yuxuan Zhu",
+    "Kento Nishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8lPvrul1rs",
+   "pdf_url": null
+  },
+  {
+   "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+   "authors": [
+    "Abbas Mammadov",
+    "Ozgur Kara",
+    "Kaan Oktay",
+    "Iskander Azangulov",
+    "Adil Kaan Akan",
+    "Hyungjin Chung",
+    "James Matthew Rehg",
+    "Yee Whye Teh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A25moxOaKp",
+   "pdf_url": null
+  },
+  {
+   "title": "Expanding Flow Maps",
+   "authors": [
+    "Sophia Tang",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2KA0fyTjm9",
+   "pdf_url": null
+  },
+  {
+   "title": "Extracting Local Manifold Geometry from Pretrained Diffusion Models in One Inverse Step",
+   "authors": [
+    "Gordei Verbii"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vuf1MpXfXX",
+   "pdf_url": null
+  },
+  {
+   "title": "Factored Score Matching on Graphical Models: Exact Computation on Trees and Convergent Approximation  on Loopy Graphs",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GbLvncuryy",
+   "pdf_url": null
+  },
+  {
+   "title": "FairOpt-PFN: Amortized Counterfactual Fairness with Optimal Fair Targets",
+   "authors": [
+    "Enes Hasani",
+    "Jake Robertson",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=etV2biyPA6",
+   "pdf_url": null
+  },
+  {
+   "title": "Fast-dLLM++: Fr\\'{e}chet Profile Decoding for Faster Diffusion LLM Inference",
+   "authors": [
+    "Siva Rajesh Kasa",
+    "Yasong Dai",
+    "Sumit Negi",
+    "Hongdong Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pdxEKvTsRq",
+   "pdf_url": null
+  },
+  {
+   "title": "Faster Inference for Conditional Masked Diffusion Language Models by Knowledge Distillation of Guidance and Trajectory",
+   "authors": [
+    "Tejomay Kishor Padole",
+    "Suyash P. Awate",
+    "Pushpak Bhattacharyya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M0JxNfaIzz",
+   "pdf_url": null
+  },
+  {
+   "title": "Federated Learning with Energy-Based Structured Probabilistic Inference",
+   "authors": [
+    "Dario Fenoglio",
+    "Daniil Kirilenko",
+    "Martin Gjoreski",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yYHgJkXRDT",
+   "pdf_url": null
+  },
+  {
+   "title": "Federated Sampling of Molecular Conformers via Compositional Flows",
+   "authors": [
+    "Dennis Grinwald",
+    "Philipp Wiesner",
+    "Shinichi Nakajima"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TzjukvMlCo",
+   "pdf_url": null
+  },
+  {
+   "title": "Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps",
+   "authors": [
+    "RuiKang OuYang",
+    "Hanlin Yu",
+    "Xinyue Ai",
+    "Yutong He",
+    "Nicholas Matthew Boffi",
+    "Pradeep Ravikumar",
+    "José Miguel Hernández-Lobato",
+    "Max Simchowitz",
+    "Benjamin Kurt Miller",
+    "Omar Chehab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mfdTHHRIid",
+   "pdf_url": null
+  },
+  {
+   "title": "Finetuning Generative Models to Match Feature Distributions",
+   "authors": [
+    "Nathaniel Lee Diamant",
+    "Brian L. Trippe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vVM59z7uPi",
+   "pdf_url": null
+  },
+  {
+   "title": "Fisher-constrained flow matching for transferable free energy estimation",
+   "authors": [
+    "Rohin Maganti",
+    "Rahul Maganti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8fiwPeCmrQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Fixed-Point Distillation of Flow Matching Models",
+   "authors": [
+    "Paul Jeha",
+    "Heiner Kremer",
+    "Fabian Falck",
+    "Jannes Gladrow"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yjmAIwXvCj",
+   "pdf_url": null
+  },
+  {
+   "title": "Fixed-Point Masked Generative Modeling",
+   "authors": [
+    "Andrea Miele",
+    "Yiming QIN",
+    "Alba Carballo-Castro",
+    "Justin Deschenaux",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kyuyyi53xL",
+   "pdf_url": null
+  },
+  {
+   "title": "Flash-SD-KDE: Accelerating SD-KDE with Tensor Cores",
+   "authors": [
+    "Elliot L Epstein",
+    "Rajat Vadiraj Dwaraknath",
+    "John Winnicki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t7nLV4M3v4",
+   "pdf_url": null
+  },
+  {
+   "title": "Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems",
+   "authors": [
+    "Nicolas Zilberstein",
+    "Morteza Mardani",
+    "Santiago Segarra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xn44anWfcW",
+   "pdf_url": null
+  },
+  {
+   "title": "Flow Matching for Reaction Pathway Generation",
+   "authors": [
+    "Ping Tuo",
+    "Jiale Chen",
+    "Ju Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MjrFbCMmlx",
+   "pdf_url": null
+  },
+  {
+   "title": "Flow Matching on General Manifolds via Pulling Back Geodesic Convex Latent Manifolds",
+   "authors": [
+    "Neil He",
+    "Ge Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pbxaVs2MTt",
+   "pdf_url": null
+  },
+  {
+   "title": "FM-DeepRV: Deep Learning for Bayesian Inference with Flow Matching",
+   "authors": [
+    "Makkunda Sharma",
+    "Jhonathan Navott",
+    "Daniel Jenson",
+    "Elizaveta Semenova",
+    "Seth Flaxman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=800BAMWkz0",
+   "pdf_url": null
+  },
+  {
+   "title": "Forecasting Motion in the Wild",
+   "authors": [
+    "Neerja Thakkar",
+    "Shiry Ginosar",
+    "Jacob C Walker",
+    "Jitendra Malik",
+    "Joao Carreira",
+    "Carl Doersch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WD6cUprgWI",
+   "pdf_url": null
+  },
+  {
+   "title": "Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance",
+   "authors": [
+    "weitao Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dvTYdwKbLj",
+   "pdf_url": null
+  },
+  {
+   "title": "From Fisher--Rao Simplex Flows to Canonical Jump Generators: A $\\Gamma$-Convergence Theory of Discrete Flow Matching",
+   "authors": [
+    "Manoj Saravanan",
+    "Rohit Kumar Salla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Q7Bq70E6E",
+   "pdf_url": null
+  },
+  {
+   "title": "Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D",
+   "authors": [
+    "Haodong Wen",
+    "Yiran Zhang",
+    "Yingfa Chen",
+    "Kaifeng Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r3UVsj13Mr",
+   "pdf_url": null
+  },
+  {
+   "title": "GAP3D: Generative Alignment of VLM Latents to Patch-Level Embeddings for 3D Generation",
+   "authors": [
+    "Polytimi Anna Gkotsi",
+    "Andrii Zadaianchuk",
+    "Mohammad Mahdi Derakhshani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aKkoltMIbH",
+   "pdf_url": null
+  },
+  {
+   "title": "Gaussian Particle Flows for Unsupervised Topology Optimization",
+   "authors": [
+    "Wilhelm Franz Berghammer",
+    "Eric Volkmann",
+    "Sebastian Lehner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PAXTQ66pH4",
+   "pdf_url": null
+  },
+  {
+   "title": "Gene-Embedding Perturbation Operators for Zero-Shot and Transferable Prediction of Transcriptional Responses",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d9E8kj4GWB",
+   "pdf_url": null
+  },
+  {
+   "title": "Generalised Latent Slice Sampling",
+   "authors": [
+    "Kirill Tamogashev",
+    "Sanghyeok Choi",
+    "Arran Carter",
+    "Víctor Elvira",
+    "Alice Doucet Beaupré",
+    "Esmeralda S. Whitammer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9d4AhuXMQz",
+   "pdf_url": null
+  },
+  {
+   "title": "Generative Modeling via Kernelized Stochastic Interpolants",
+   "authors": [
+    "Florentin Coeurdoux",
+    "Etienne Lempereur",
+    "N. C. M.",
+    "Stéphane Mallat",
+    "Eric Vanden-Eijnden"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VQqYaQYpHR",
+   "pdf_url": null
+  },
+  {
+   "title": "GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains",
+   "authors": [
+    "James Rowbottom",
+    "Elizabeth Louise Baker",
+    "Nick Huang",
+    "Ben Adcock",
+    "Carola-Bibiane Schönlieb",
+    "Alexander Denker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G7WOQBVdPj",
+   "pdf_url": null
+  },
+  {
+   "title": "Hacking Generative Perplexity: Why Unconditional Text Evaluation Needs Distributional Metrics",
+   "authors": [
+    "Antonio Franca",
+    "Alexander Tong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1gwcTDwh9",
+   "pdf_url": null
+  },
+  {
+   "title": "Holistic Latent Diffusion Acceleration: Unifying Spatial, Temporal, and Architectural Efficiency",
+   "authors": [
+    "Ruyi An",
+    "Xin Yuan",
+    "Xixi Hu",
+    "Yeqing Li",
+    "Eugene Ie",
+    "Hongliang Fei",
+    "Mingyuan Zhou",
+    "Keyang Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0tfUyAW8Vi",
+   "pdf_url": null
+  },
+  {
+   "title": "How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs",
+   "authors": [
+    "Mark Kozdoba",
+    "Shie Mannor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t7lLXn707V",
+   "pdf_url": null
+  },
+  {
+   "title": "How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Foundation Models",
+   "authors": [
+    "Aleksandra Kalisz",
+    "Jack Simons",
+    "Krisztina Sinkovics",
+    "Noam Ghenassia",
+    "Shikha Surana",
+    "Henry Moss",
+    "Paul Duckworth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9De56syVZF",
+   "pdf_url": null
+  },
+  {
+   "title": "How to Train Your Latent Diffusion Language Model Jointly With the Latent Space",
+   "authors": [
+    "Viacheslav Meshchaninov",
+    "Alexander Shabalin",
+    "Egor Chimbulatov",
+    "Nikita Gushchin",
+    "Ilya Koziev",
+    "Alexander Korotin",
+    "Dmitry Vetrov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kdjJWEI7rv",
+   "pdf_url": null
+  },
+  {
+   "title": "Hyperbolic Latent Geometry for Tree-Structured Prototype Networks: A Local-vs-Global Trade-off",
+   "authors": [
+    "Luca Grossmann",
+    "Peter Flo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0hjNAOrXwq",
+   "pdf_url": null
+  },
+  {
+   "title": "Implicit Neural Representations of Individual Behavior",
+   "authors": [
+    "Andrew Kang",
+    "Priya Narasimhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i9YSu3Ta5g",
+   "pdf_url": null
+  },
+  {
+   "title": "Improving Conformal Prediction Sets Through Semantic Neighborhood Diffusion",
+   "authors": [
+    "Jeppe B. Weikop",
+    "Matias Yuan",
+    "Rasmus Hannibal Tirsgaard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YvnMD2VHlX",
+   "pdf_url": null
+  },
+  {
+   "title": "Integrating Causal DAGs in Deep RL: Activating Minimal Markovian States with Multi-Order Exposure",
+   "authors": [
+    "Jiamin Xu",
+    "Jacqueline R. M. A. Maasch",
+    "Kyra Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rERW1Fcj7D",
+   "pdf_url": null
+  },
+  {
+   "title": "Inter-Trajectory Importance Sampling Improves Diffusion Samplers",
+   "authors": [
+    "Lukas Gruber",
+    "Sandeep Suresh Cranganore",
+    "Sepp Hochreiter",
+    "Sebastian Lehner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XGfYe7EFMo",
+   "pdf_url": null
+  },
+  {
+   "title": "Internal Data Repetition Destroys Language Models",
+   "authors": [
+    "Jessica Chudnovsky",
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Yegor Denisov-Blanch",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8XZHtmslYa",
+   "pdf_url": null
+  },
+  {
+   "title": "Inverse problems with diffusion models: MAP estimation via mode-seeking loss",
+   "authors": [
+    "Sai bharath chandra Gutha",
+    "Ricardo Vinuesa Motilva",
+    "Hossein Azizpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pIe1hoYLmL",
+   "pdf_url": null
+  },
+  {
+   "title": "Inverse-Confidence Sampling for Continuous Diffusion Language Models",
+   "authors": [
+    "Andrei Rekesh",
+    "Jarrid Rector-Brooks",
+    "Cheng-Hao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wN4OQHqMoZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Inverting Foundation Models of Brain Function with Simulation-Based Inference",
+   "authors": [
+    "Niels Leif Bracher",
+    "Xavier Intes",
+    "Stefan T. Radev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x65JsWUlig",
+   "pdf_url": null
+  },
+  {
+   "title": "Irregularities of Latent Space Geometry in Diffusion Models",
+   "authors": [
+    "Alexander Lobashev",
+    "Dmitry Guskov",
+    "Victor Kawasaki-Borruat",
+    "Maria Larchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e5pnWhr4Jz",
+   "pdf_url": null
+  },
+  {
+   "title": "Isokinetic Flow Matching for Pathwise Straightening",
+   "authors": [
+    "Tauhid Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HR70n1Pv5A",
+   "pdf_url": null
+  },
+  {
+   "title": "Just Add More Capacitors: Eliminating Flux Leakage in Electrostatic Field Matching",
+   "authors": [
+    "Daniil Shlenskii",
+    "S. I. Manukhov",
+    "Alexander Kolesov",
+    "Alexander Varlamov",
+    "Nazar Buzun",
+    "V.V. Palyulin",
+    "Alexander Korotin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uejAinmUCG",
+   "pdf_url": null
+  },
+  {
+   "title": "Kernel-Gradient Drifting Models",
+   "authors": [
+    "Maria Esteban-Casadevall",
+    "Jorge Carrasco-Pollo",
+    "Max Welling",
+    "Jan-Willem van de Meent",
+    "Erik J Bekkers",
+    "Floor Eijkelboom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3LFHyVKPoq",
+   "pdf_url": null
+  },
+  {
+   "title": "LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling",
+   "authors": [
+    "Yuxin Chen",
+    "Chumeng Liang",
+    "Hangke Sui",
+    "Ruihan Guo",
+    "Chaoran Cheng",
+    "Jiaxuan You",
+    "Ge Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fQfnqdOAm9",
+   "pdf_url": null
+  },
+  {
+   "title": "Language Models Need Sleep",
+   "authors": [
+    "Sangyun Lee",
+    "Sean Michael McLeish",
+    "Tom Goldstein",
+    "Giulia Fanti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t3tu6CI3fG",
+   "pdf_url": null
+  },
+  {
+   "title": "Latent-Augmented Discrete Diffusion Models",
+   "authors": [
+    "Dario Shariatian",
+    "Alain Oliviero Durmus",
+    "Umut Simsekli",
+    "Stefano Peluchetti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0sZ4DiHn76",
+   "pdf_url": null
+  },
+  {
+   "title": "Learn from Your Mistakes: Self-Correcting Masked Diffusion Models",
+   "authors": [
+    "Yair Schiff",
+    "Omer Belhasin",
+    "Roy Uziel",
+    "Guanghan Wang",
+    "Marianne Arriola",
+    "Gilad Turok",
+    "Ran Zilberstein",
+    "Michael Elad",
+    "Volodymyr Kuleshov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UJgqS2onKr",
+   "pdf_url": null
+  },
+  {
+   "title": "Learned Relay Representations for Forward-Thinking Discrete Diffusion Models",
+   "authors": [
+    "Benjamin Rozonoyer",
+    "Jacopo Minniti",
+    "Dhruvesh Patel",
+    "Neil Band",
+    "Joey Bose",
+    "Tim G. J. Rudner",
+    "Andrew McCallum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j24AR9cWtn",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Adapter Rank via Symmetry Breaking",
+   "authors": [
+    "Cooper Doyle",
+    "Andy Hu",
+    "Rebecca Chan",
+    "Anna Leontjeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDNYRbCqtM",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Manifold Data with Flow Matching",
+   "authors": [
+    "Sophia Pi",
+    "Mingcheng Lu",
+    "Jerry Yao-Chieh Hu",
+    "Maojiang Su",
+    "Weimin Wu",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pbuCdaBtC8",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning path splines via Acceleration Matching",
+   "authors": [
+    "Giovanni Conforti",
+    "Bartolo Dazzini",
+    "Alain Oliviero Durmus",
+    "Aram-Alexandre Pooladian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K6IYPazpyb",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Shortest Paths with Generative Flow Networks",
+   "authors": [
+    "Nikita Morozov",
+    "Ian Maksimov",
+    "Daniil Tiapkin",
+    "Sergey Samsonov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zFrmHWzEnL",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Shift Numeric Predictive Densities for Uncertainty-Aware LLM Agents",
+   "authors": [
+    "Miguel de Campos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jemRKrKhzb",
+   "pdf_url": null
+  },
+  {
+   "title": "Leveraging Generative Mode-Seeking for Precision Matrix Estimation",
+   "authors": [
+    "Keshav Goyal",
+    "Suraj yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qtExLgWlHZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Limit Order Book Forecasting with Conditional Diffusion Models",
+   "authors": [
+    "Junyu Chen",
+    "Franklin Liu",
+    "Moshu Xu",
+    "Lijian Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ysjYoJNK8C",
+   "pdf_url": null
+  },
+  {
+   "title": "MCD-RRG: Time-Varying Multimodal Fusion and Residual Retrieval Guidance for Conditional Diffusion",
+   "authors": [
+    "Junjie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=78ON2ZSsyf",
+   "pdf_url": null
+  },
+  {
+   "title": "Measuring and Reducing Train--Inference Mismatch in Discrete Diffusion Language Models",
+   "authors": [
+    "Julien Coquet",
+    "Tiago Pimentel",
+    "Dimitri von Rütte",
+    "Yuhui Ding",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ORzy2J2s8a",
+   "pdf_url": null
+  },
+  {
+   "title": "Midpoint Generative Models",
+   "authors": [
+    "Daniil Shlenskii",
+    "Nikita Gushchin",
+    "Lev Novitskiy",
+    "Dmitry V. Dylov",
+    "Alexander Korotin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rMdbcFhFo9",
+   "pdf_url": null
+  },
+  {
+   "title": "MIRROR: Multisensory Implicit Rejection-sampled RObotic policy",
+   "authors": [
+    "Amisha Bhaskar",
+    "Pratap Tokekar",
+    "Stefano Di Cairano",
+    "Alexander Schperberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=USxyeAWlcn",
+   "pdf_url": null
+  },
+  {
+   "title": "MIST: Mutual Information Estimation via Supervised Training",
+   "authors": [
+    "German Gritsai",
+    "Megan Richards",
+    "Maxime Méloux",
+    "Kyunghyun Cho",
+    "Maxime Peyrard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q3maWATBCE",
+   "pdf_url": null
+  },
+  {
+   "title": "Model-Free Assessment of Simulator Fidelity via Quantile Curves",
+   "authors": [
+    "Yu-Shiou Willy Lin",
+    "Kaizheng Wang",
+    "Garud Iyengar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BQbS3QF9hl",
+   "pdf_url": null
+  },
+  {
+   "title": "Multilingual Synthetic Scanpaths: Cross-Language Generalization for Gaze Generation",
+   "authors": [
+    "Ivan Stebakov",
+    "Ilya Pershin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JiFBQWtaUw",
+   "pdf_url": null
+  },
+  {
+   "title": "Neuro-Symbolic ODE Discovery with Latent Grammar Flow",
+   "authors": [
+    "Karin Yu",
+    "Eleni Chatzi",
+    "Georgios Kissas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1aBSOYespo",
+   "pdf_url": null
+  },
+  {
+   "title": "Noise Scheduling as Information-Guided Allocation in Diffusion Training",
+   "authors": [
+    "Gabriel Raya",
+    "Bac Nguyen",
+    "Georgios Batzolis",
+    "Yuhta Takida",
+    "Dejan Stancevic",
+    "Naoki Murata",
+    "Chieh-Hsin Lai",
+    "Yuki Mitsufuji",
+    "Luca Ambrogioni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VnnK7CYAx2",
+   "pdf_url": null
+  },
+  {
+   "title": "Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation",
+   "authors": [
+    "Duong M. Nguyen",
+    "Trong Nghia Hoang",
+    "Hang Thi Nguyen",
+    "Thanh Trung Huynh",
+    "Phi Le Nguyen",
+    "Minh N. Do"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sxCxIp77bM",
+   "pdf_url": null
+  },
+  {
+   "title": "Normalizing Trajectory Models",
+   "authors": [
+    "Jiatao Gu",
+    "Tianrong Chen",
+    "Ying Shen",
+    "David Berthelot",
+    "Shuangfei Zhai",
+    "Joshua M. Susskind"
+   ],
+   "forum_url": "https://openreview.net/forum?id=52XyRK80Aj",
+   "pdf_url": null
+  },
+  {
+   "title": "On Calibration of Modern Language Models",
+   "authors": [
+    "Avery Ma",
+    "Lorne Schell",
+    "Vin Bhaskara",
+    "Leila Pishdad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UoHjQf0umi",
+   "pdf_url": null
+  },
+  {
+   "title": "On the Difficulty of Feature Unlearning in Tabular Diffusion Models",
+   "authors": [
+    "Jeroen M. Galjaard",
+    "Chaoyi Zhu",
+    "Robert Birke",
+    "Pin-Yu Chen",
+    "Lydia Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q60o9DsJgw",
+   "pdf_url": null
+  },
+  {
+   "title": "ORBIT: Counterfactual Proposal Inference for Prompt-Free 3D Brain Tumor Segmentation",
+   "authors": [
+    "Jaelyn S. Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n5penvYg4j",
+   "pdf_url": null
+  },
+  {
+   "title": "Order-Agnostic Decoding for Sample-Efficient RNA Inverse Folding",
+   "authors": [
+    "Antonia Panescu",
+    "Shujun He",
+    "Yixuan He",
+    "Rex Ying"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8f7UnTP6Fm",
+   "pdf_url": null
+  },
+  {
+   "title": "OrthoBO: Orthogonal Bayesian Hyperparameter Optimization",
+   "authors": [
+    "Maresa Schröder",
+    "Pascal Janetzky",
+    "Michael Klar",
+    "Stefan Feuerriegel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vT8PXfPDbc",
+   "pdf_url": null
+  },
+  {
+   "title": "PairIT: Autoregressive Transformers for Low-Data Molecule Optimization",
+   "authors": [
+    "Hannah Lawrence",
+    "Bodhi P. Vani",
+    "Ji Won Park",
+    "Natasa Tagasovska",
+    "Samuel Don Stanton",
+    "Andrew Martin Watkins",
+    "Michael Maser",
+    "Ewa Nowara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rd1Uq8mSjw",
+   "pdf_url": null
+  },
+  {
+   "title": "Parallel Tempering Initial Sampling in Inference-Time Reward Alignment",
+   "authors": [
+    "Myeongjun Oh",
+    "Gwangho Kim",
+    "Sungyoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EhyKlL8enT",
+   "pdf_url": null
+  },
+  {
+   "title": "Path-independent Flow Matching for Multi-parameter Generative Dynamics",
+   "authors": [
+    "Francisco Téllez",
+    "AmirHossein Zamani",
+    "philippe Martin",
+    "Shuang Ni",
+    "Guy Wolf",
+    "Eugene Belilovsky",
+    "Sina Sanjari",
+    "Yanlei Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IbWeog9qcz",
+   "pdf_url": null
+  },
+  {
+   "title": "Perfect Recall, Parallel Efficiency: Interleaved DeepSeek Sparse Attention for Million-Token-Context Decoding",
+   "authors": [
+    "Yifan Guo",
+    "Wei Cui",
+    "Peng CHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s3kae9DXni",
+   "pdf_url": null
+  },
+  {
+   "title": "Pi-E-Flow: Uncertainty-Guided Flow Distillation for Autoregressive Video Generation",
+   "authors": [
+    "Yong-Hyun Park",
+    "Hansheng Chen",
+    "Chaoqi Luo",
+    "Kaifan Yu",
+    "Jiatao Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EP5ChVLASx",
+   "pdf_url": null
+  },
+  {
+   "title": "Plan, Don’t Pose: Long Composite Motion Generation with Text-Aligned BFM",
+   "authors": [
+    "Nikolay Shvetsov",
+    "Maksim Bobrin",
+    "Nazar Buzun",
+    "Dmitry V. Dylov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wt8N5gegq1",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Benchmark Method-Comparisons Are Posterior Identifiability Problems",
+   "authors": [
+    "Zezheng Lin",
+    "Jinhao Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ztR6eMOX5L",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Multi-Agent LLM Simulation as Approximate Posterior Inference Demands a Probabilistic Calibration Standard",
+   "authors": [
+    "Zezheng Lin",
+    "Fengming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Mxjyu5xKp",
+   "pdf_url": null
+  },
+  {
+   "title": "Prior-Informed Flow Matching for Graph Reconstruction",
+   "authors": [
+    "Haoming Chen",
+    "Nicolas Zilberstein",
+    "Santiago Segarra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3uJmSLzG5t",
+   "pdf_url": null
+  },
+  {
+   "title": "PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM",
+   "authors": [
+    "Eunsoo Im",
+    "Gyeonggwan Lee",
+    "Junghun suh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=crjxPbBOz6",
+   "pdf_url": null
+  },
+  {
+   "title": "Probabilistic Chain-of-Thought: Sequential Bayesian Inference over Latent Reasoning Correctness",
+   "authors": [
+    "Suriya Dev Saravanakumar",
+    "Ezra Matiwos Wesenie",
+    "Kishore Nuthalapati",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wb5OLKABOT",
+   "pdf_url": null
+  },
+  {
+   "title": "Probabilistic Sequence Generation Guided by Intensity-Duration Extreme Profiles",
+   "authors": [
+    "Kanxuan He",
+    "Hongshan Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n8bQJs1dip",
+   "pdf_url": null
+  },
+  {
+   "title": "Provably Stable Neural Dynamics via Koopman Operator Certificates",
+   "authors": [
+    "Aryan Dadwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HD0pWnSHmq",
+   "pdf_url": null
+  },
+  {
+   "title": "Proximal Policy Optimization for Amortized Discrete Sampling",
+   "authors": [
+    "Anna Zykova-Myzina",
+    "Timofei Gritsaev",
+    "Daniil Tiapkin",
+    "Nikita Morozov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ODbzTJmgp3",
+   "pdf_url": null
+  },
+  {
+   "title": "Random-Projection Tree Stein Variational Gradient Descent",
+   "authors": [
+    "Shishuo Guo",
+    "Xiaoyuan Cheng",
+    "Xing Liu",
+    "Ziang Niu",
+    "Zonghao Chen",
+    "Xu Liu",
+    "Zhuo Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ka3WJqQJ65",
+   "pdf_url": null
+  },
+  {
+   "title": "Rao-Blackwellized Score Matching on Manifolds",
+   "authors": [
+    "Divit Rawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yosOiEpaa3",
+   "pdf_url": null
+  },
+  {
+   "title": "RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation",
+   "authors": [
+    "Ramiro Valdes Jara",
+    "David Chapman",
+    "Adam Meyers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Cca0BeFwM",
+   "pdf_url": null
+  },
+  {
+   "title": "Re-evaluating Confidence Remasking in Masked Diffusion Language Models",
+   "authors": [
+    "Stipe Frkovic",
+    "Metod Jazbec",
+    "Dan Zhang",
+    "Christian A. Naesseth",
+    "Ilija Bogunovic",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HIMiqnTqLD",
+   "pdf_url": null
+  },
+  {
+   "title": "Readout Times Are Not Solver Nodes: A Two-Mesh API for Generative ODE Surrogates",
+   "authors": [
+    "Patrick Reichherzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bIbzIkFt5U",
+   "pdf_url": null
+  },
+  {
+   "title": "ReCache: Learning Budget-Aware Caching Schedules for Diffusion Models via REINFORCE",
+   "authors": [
+    "Mishan Aliev",
+    "Eva Neudachina",
+    "Ilya Bykov",
+    "Aleksandr Oganov",
+    "Kirill Struminsky",
+    "Aibek Alanov",
+    "Denis Rakitin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yGv4RAAf8t",
+   "pdf_url": null
+  },
+  {
+   "title": "Reconsidering Positional Supervision in Masked Diffusion Language Model Training",
+   "authors": [
+    "Mengyu Ye",
+    "Keito Kudo",
+    "Ryosuke Takahashi",
+    "Jun Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JSCR67et6H",
+   "pdf_url": null
+  },
+  {
+   "title": "Registers Matter for Pixel-space Diffusion Transformers",
+   "authors": [
+    "Nikita Starodubcev",
+    "Ilia Sudakov",
+    "Ilya Drobyshevskiy",
+    "Artem Babenko",
+    "Dmitry Baranchuk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PR0qctfpBR",
+   "pdf_url": null
+  },
+  {
+   "title": "Residual-Space Evolutionary Optimization via Flow-based Generative Models",
+   "authors": [
+    "Zhuo Cao",
+    "Lena Krieger",
+    "Fernanda Nader",
+    "Xuan Zhao",
+    "Hanno Scharr",
+    "Ira Assent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFrSAUQzyQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models",
+   "authors": [
+    "Jeongjae Lee",
+    "Jinho Chang",
+    "Jeongsol Kim",
+    "Jong Chul Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jqsxOdmX88",
+   "pdf_url": null
+  },
+  {
+   "title": "Reward-Aligning Few-Step Flow Models with Integrated Regularizers",
+   "authors": [
+    "Peter Potaptchik",
+    "Samuel Howard",
+    "Michael Samuel Albergo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VU8qYkAHT2",
+   "pdf_url": null
+  },
+  {
+   "title": "Reweighted ALPS: Non-Asymptotic Guarantees for Multimodal Sampling with Warm Starts",
+   "authors": [
+    "Matheau Santana-Gijzen",
+    "Holden Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sYdDAD63XQ",
+   "pdf_url": null
+  },
+  {
+   "title": "SALSA: State Augmentation via Learned Selective Attention",
+   "authors": [
+    "Joel Manu",
+    "Frederick Hoffman",
+    "Krithik Ramesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9E9IxTg2ix",
+   "pdf_url": null
+  },
+  {
+   "title": "SASC: Soft-Averaged Self-Consistency to Improve Chain-of-Thought Reasoning in Instruct-LLMs",
+   "authors": [
+    "Ruban Vishnu Pandian",
+    "Alliot Nagle",
+    "Hyeji Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YiOSR48qtl",
+   "pdf_url": null
+  },
+  {
+   "title": "Savitar: Curve-Aware Interaction-Structured Kernels for Low-Budget Bayesian Optimization in Rare-Winner Combinatorial Spaces",
+   "authors": [
+    "Ishan Gonehal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JySe7ksgBb",
+   "pdf_url": null
+  },
+  {
+   "title": "Scalable Bayesian Monte Carlo: fast uncertainty estimation beyond deep ensembles",
+   "authors": [
+    "Xinzhu Liang",
+    "Joseph Lukens",
+    "Sanjaya Lohani",
+    "Thomas A. Searles",
+    "Brian T. Kirby",
+    "Xin Qiu",
+    "Kody J. H. Law"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PbrsRJFKaD",
+   "pdf_url": null
+  },
+  {
+   "title": "Scalable Deep Basis Kernel Gaussian Processes",
+   "authors": [
+    "Yunqin Zhu",
+    "Henry Yuchi",
+    "Yao Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s1FLQoC1YT",
+   "pdf_url": null
+  },
+  {
+   "title": "Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes",
+   "authors": [
+    "Gergely Flamich",
+    "Öykü Sıla Güner",
+    "Yanxiao Liu",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RFjug5yB1r",
+   "pdf_url": null
+  },
+  {
+   "title": "Scalable Inference-Time Steering in Molecular Design with Multimodal Meta Flow Maps",
+   "authors": [
+    "Ulrik Unneberg",
+    "Shiyi Wang",
+    "Dinko Franceschi",
+    "Boris Kozinsky",
+    "Ellen D Zhong",
+    "Michael Samuel Albergo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UWa4jEnHZo",
+   "pdf_url": null
+  },
+  {
+   "title": "Scaling with Recursion in Masked Discrete Diffusion Models",
+   "authors": [
+    "Alba Carballo-Castro",
+    "Julianna Piskorz",
+    "Paulius Rauba",
+    "Mihaela van der Schaar",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zI2IeuDcoS",
+   "pdf_url": null
+  },
+  {
+   "title": "Self-Supervised Variational Priors for Robust Bayesian Inference",
+   "authors": [
+    "Erik Englesson",
+    "Iaroslav Melekhov",
+    "Juho Kannala",
+    "Hossein Azizpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e6TlEmOE3j",
+   "pdf_url": null
+  },
+  {
+   "title": "Signal from Structure: Exploiting Submodular Upper Bounds in Generative Flow Networks",
+   "authors": [
+    "Alexandre Larouche",
+    "Audrey Durand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GuBD41eKHB",
+   "pdf_url": null
+  },
+  {
+   "title": "Single-Step Initialization for Exploratory Parallel Rollouts in Diffusion LLMs",
+   "authors": [
+    "Dongjae Jeon",
+    "Bumjun Kim",
+    "Mingyu Kim",
+    "Albert No"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tiFsyANbEP",
+   "pdf_url": null
+  },
+  {
+   "title": "Size- and Dispersion-Corrected Two-Level Softmax Sampling",
+   "authors": [
+    "Walid Bendada",
+    "Guillaume Salha-Galvan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cAKUmGp8dv",
+   "pdf_url": null
+  },
+  {
+   "title": "Solving Integer Linear Programming with Parallel Tempering",
+   "authors": [
+    "Kyuil Sim",
+    "Sanghyeok Choi",
+    "Jinkyoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sFt0gCGcnb",
+   "pdf_url": null
+  },
+  {
+   "title": "SpatialNP: Gridded Transformer Neural Processes for Probabilistic Spatial Proteomics in Multiplexed Tissue Imaging",
+   "authors": [
+    "Juho Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NoDdJLu43V",
+   "pdf_url": null
+  },
+  {
+   "title": "Stable and Near-Reversible Diffusion ODE Solvers for Image Editing",
+   "authors": [
+    "Barbora Barancikova",
+    "Daniil Shmelev",
+    "Cristopher Salvi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lfmBt6bzWZ",
+   "pdf_url": null
+  },
+  {
+   "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+   "authors": [
+    "Ying Shen",
+    "Tianrong Chen",
+    "Yuan Gao",
+    "Yizhe Zhang",
+    "Yuyang Wang",
+    "Miguel Ángel Bautista",
+    "Shuangfei Zhai",
+    "Joshua M. Susskind",
+    "Jiatao Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XdSZKhq4nA",
+   "pdf_url": null
+  },
+  {
+   "title": "STARS: Synchronous Token Alignment for Robust Supervision in Large Language Models",
+   "authors": [
+    "Mohammad Atif Quamar",
+    "Mohammad Areeb",
+    "Mikhail Kuznetsov",
+    "Muslum Ozgur Ozmen",
+    "Z. Berkay Celik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M3BAEZGcnu",
+   "pdf_url": null
+  },
+  {
+   "title": "Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels",
+   "authors": [
+    "Kirill Korolev",
+    "Nikita Morozov",
+    "Stepan Pavlenko",
+    "Esmeralda S. Whitammer",
+    "Sergey Samsonov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dOMVRqql7D",
+   "pdf_url": null
+  },
+  {
+   "title": "Strong Stochastic Flow Maps",
+   "authors": [
+    "Sam McCallum",
+    "Zander W. Blasingame",
+    "Timothy Herschell",
+    "Niklas Rindtorff",
+    "Alexander Tong",
+    "James Foster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X0Bj1j4vbW",
+   "pdf_url": null
+  },
+  {
+   "title": "Structural Support Certificates for Graph-Query Inference in Mechanism Posteriors",
+   "authors": [
+    "Max Ruiz Luyten",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EsQq90sgqP",
+   "pdf_url": null
+  },
+  {
+   "title": "Structured Coupling for Flow Matching",
+   "authors": [
+    "Xavier Sumba",
+    "Carles Balsells-Rodas",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=axHw4RcwIU",
+   "pdf_url": null
+  },
+  {
+   "title": "Structured Inference with Large Language Gibbs",
+   "authors": [
+    "Sanghyeok Choi",
+    "Henry Gouk",
+    "Esmeralda S. Whitammer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=opXYpVQqfq",
+   "pdf_url": null
+  },
+  {
+   "title": "Structuring The Future: Diffusion LLM Speculative Decoding via Calibrated Draft Graphs",
+   "authors": [
+    "Sudhanshu Agrawal",
+    "Risheek Garrepalli",
+    "Raghavv Goel",
+    "Christopher Lott",
+    "Fatih Porikli",
+    "Mingu Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LHwa2TCan6",
+   "pdf_url": null
+  },
+  {
+   "title": "Synthesizability-Aware Materials Generation with Target Properties via Reinforcement Learning",
+   "authors": [
+    "Duc Dat Dang",
+    "Junwu Chen",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RNKsDOred5",
+   "pdf_url": null
+  },
+  {
+   "title": "Systematic Study of Grid Adaptation Strategies in Kolmogorov–Arnold Networks",
+   "authors": [
+    "Patel Meshv Amrishkumar",
+    "Anupam Priamvada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wzDKuOe1sw",
+   "pdf_url": null
+  },
+  {
+   "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
+   "authors": [
+    "Mohammad Zbeeb",
+    "Mohamad Bazzi",
+    "Ammar Mohanna",
+    "Hasan Abed Al Kader Hammoud",
+    "Bernard Ghanem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b3M22Zalih",
+   "pdf_url": null
+  },
+  {
+   "title": "Tensor-Train Joint Modeling for Few-Step Discrete Diffusion",
+   "authors": [
+    "Byoungkwon Kim",
+    "Minhyuk Sung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uSNXZp77PH",
+   "pdf_url": null
+  },
+  {
+   "title": "The Confidence Shortcut: A Reasoning Failure Mode of Masked Diffusion Models",
+   "authors": [
+    "Dueun Kim",
+    "Albert No"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qWetQ0KqPV",
+   "pdf_url": null
+  },
+  {
+   "title": "The Model Knows, the Decoder Finds: Future Value Guided Particle Power Sampling",
+   "authors": [
+    "Tu Nguyen",
+    "Matthieu Zimmer",
+    "Rasul Tutunov",
+    "Xiaotong Ji",
+    "Haitham Bou Ammar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jrGzOIES9o",
+   "pdf_url": null
+  },
+  {
+   "title": "TILT: Test-Time Reward Alignment via Distribution Tilting for Compositional Generation",
+   "authors": [
+    "Debottam Dutta",
+    "Jaehoon Hahm",
+    "Jianchong Chen",
+    "Romit Roy Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jRPdGi83MI",
+   "pdf_url": null
+  },
+  {
+   "title": "Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models",
+   "authors": [
+    "Jingxuan Wu",
+    "Zhenglin Wan",
+    "Yuzhe YANG",
+    "Yiqiao Huang",
+    "Chubin Zhang",
+    "Xingrui Yu",
+    "Ivor Tsang",
+    "Yang You"
+   ],
+   "forum_url": "https://openreview.net/forum?id=97dB4GrUzx",
+   "pdf_url": null
+  },
+  {
+   "title": "Time-Correlated Video Bridge Matching",
+   "authors": [
+    "Viacheslav Vasilev",
+    "Arseny Ivanov",
+    "Nikita Gushchin",
+    "Maria Kovaleva",
+    "Alexander Korotin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2y9GGgCdoZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Topological Control of Optimization Dynamics on Evolving Manifolds",
+   "authors": [
+    "Xingrui Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ABfCAaN53f",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion",
+   "authors": [
+    "Georgios Batzolis",
+    "Mark Girolami",
+    "Luca Ambrogioni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5aR4IWuAmu",
+   "pdf_url": null
+  },
+  {
+   "title": "TUBE: Tangent Upper Bound on Evidence for Discrete Diffusion Language Models",
+   "authors": [
+    "Arseny Ivanov",
+    "Sergei Kholkin",
+    "Vladislav Gromadskii",
+    "Grigoriy Ksenofontov",
+    "Ivan Oseledets",
+    "Alexander Korotin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sjxy9y5qVi",
+   "pdf_url": null
+  },
+  {
+   "title": "U-Former ODE: Fast Probabilistic Forecasting of Irregular Time Series",
+   "authors": [
+    "Ilya Kuleshov",
+    "Alexander Marusov",
+    "Alexey Zaytsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YvJzmqXrJZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Uncertainty Estimation for Molecular Diffusion Models",
+   "authors": [
+    "Paul Seij",
+    "Christian A. Naesseth",
+    "Stephan Mandt",
+    "Metod Jazbec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8AUVYYO0o0",
+   "pdf_url": null
+  },
+  {
+   "title": "Uncertainty Quantification for LLM Agents via Semantic Abstraction Trajectories",
+   "authors": [
+    "Nikita Kazeev",
+    "Andrey E Ustyuzhanin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZsThsDtfaA",
+   "pdf_url": null
+  },
+  {
+   "title": "Understanding and Accelerating the Training of Masked Diffusion Language Models",
+   "authors": [
+    "Chunsan Hong",
+    "Sanghyun Lee",
+    "Chieh-Hsin Lai",
+    "Satoshi Hayakawa",
+    "Yuhta Takida",
+    "Yuki Mitsufuji",
+    "Seungryong Kim",
+    "Jong Chul Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2FMrfaeDC",
+   "pdf_url": null
+  },
+  {
+   "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+   "authors": [
+    "Samson Gourevitch",
+    "Yazid Janati",
+    "Dario Shariatian",
+    "Umut Simsekli",
+    "Eric Moulines",
+    "Eric P. Xing",
+    "Alain Oliviero Durmus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BKpsDmhO1d",
+   "pdf_url": null
+  },
+  {
+   "title": "Unlocking the Duality between Flow and Field Matching",
+   "authors": [
+    "Daniil Shlenskii",
+    "Alexander Varlamov",
+    "Nazar Buzun",
+    "Alexander Korotin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AS8SOcPnmu",
+   "pdf_url": null
+  },
+  {
+   "title": "Variance Reduction for Expectations with Diffusion Teachers",
+   "authors": [
+    "Jesse Bettencourt",
+    "Xindi Wu",
+    "Matan Atzmon",
+    "James Lucas",
+    "Jonathan Lorraine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qV6NvNOujP",
+   "pdf_url": null
+  },
+  {
+   "title": "Variance-Tilted Diffusion Models for Diverse Sampling",
+   "authors": [
+    "Iskander Azangulov",
+    "Leo Zhang",
+    "Kianoosh Ashouritaklimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PoNfh0pCUe",
+   "pdf_url": null
+  },
+  {
+   "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
+   "authors": [
+    "Sinjae Kang",
+    "Chanyoung Kim",
+    "Kaixin Wang",
+    "Li Zhao",
+    "Kimin Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cKJMFldntg",
+   "pdf_url": null
+  },
+  {
+   "title": "Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling",
+   "authors": [
+    "Pratik Khandagale",
+    "Daniel McBride",
+    "Cristina Garcia-Cardona",
+    "Yen Ting Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B8SBwFVqzM",
+   "pdf_url": null
+  },
+  {
+   "title": "Wasserstein Residuals: Learning Gradient Flows from Population Dynamics",
+   "authors": [
+    "Markus Heinonen",
+    "Yair Shenfeld",
+    "Ricardo Baptista",
+    "Daniel Waxman",
+    "Dmitry Batenkov",
+    "Tim Cooijmans",
+    "Eli Bingham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=klLA8X54nF",
+   "pdf_url": null
+  },
+  {
+   "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+   "authors": [
+    "Johannes Zenn",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mKxTWhajn5",
+   "pdf_url": null
+  },
+  {
+   "title": "When Does a Low-Rank Bayesian Neural Network Certify Its Deterministic Center?",
+   "authors": [
+    "Mame Diarra Toure",
+    "David A. Stephens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zo49sqP8xD",
+   "pdf_url": null
+  },
+  {
+   "title": "When Inference-Time Reward Steering Hacks the Reward",
+   "authors": [
+    "Ulrik Unneberg",
+    "Shiyi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XVgNeiUsRQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Your Autoregressive Model Already Reveals the Causal Graph",
+   "authors": [
+    "Hugo Math",
+    "Rainer Lienhart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q66hINx9fA",
+   "pdf_url": null
+  },
+  {
+   "title": "Your GFlowNet Secretly Learns an Optimal Transport Plan",
+   "authors": [
+    "Ian Maksimov",
+    "Nikita Morozov",
+    "Denis Belomestny",
+    "Sergey Samsonov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pyTU2BPVOF",
+   "pdf_url": null
+  }
+ ]
+}

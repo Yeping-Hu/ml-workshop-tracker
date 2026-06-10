@@ -1,0 +1,259 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/TiFA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:27.982Z",
+ "paper_count": 19,
+ "papers": [
+  {
+   "title": "Bias Begets Bias: the Impact of Biased Embeddings on Diffusion Models",
+   "authors": [
+    "Sahil Kuchlous",
+    "Marvin Li",
+    "Jeffrey George Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dBxUO7p4Iu",
+   "pdf_url": "https://openreview.net/pdf?id=dBxUO7p4Iu"
+  },
+  {
+   "title": "Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity",
+   "authors": [
+    "zhuo zhi",
+    "Ziquan Liu",
+    "Moe Elbadawi",
+    "Adam Daneshmend",
+    "Mine Orlu",
+    "Abdul W Basit",
+    "Andreas Demosthenous",
+    "Miguel R. D. Rodrigues"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kHyhZU14op",
+   "pdf_url": "https://openreview.net/pdf?id=kHyhZU14op"
+  },
+  {
+   "title": "Can Editing LLMs Inject Harm?",
+   "authors": [
+    "Canyu Chen",
+    "Baixiang Huang",
+    "Zekun Li",
+    "Zhaorun Chen",
+    "Shiyang Lai",
+    "Xiongxiao Xu",
+    "Jia-Chen Gu",
+    "Jindong Gu",
+    "Huaxiu Yao",
+    "Chaowei Xiao",
+    "Xifeng Yan",
+    "William Yang Wang",
+    "Philip Torr",
+    "Dawn Song",
+    "Kai Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PnE9wF9mht",
+   "pdf_url": "https://openreview.net/pdf?id=PnE9wF9mht"
+  },
+  {
+   "title": "Chained Tuning Leads to Biased Forgetting",
+   "authors": [
+    "Megan Ung",
+    "Alicia Yi Sun",
+    "Samuel Bell",
+    "Levent Sagun",
+    "Adina Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KedETJZeVa",
+   "pdf_url": "https://openreview.net/pdf?id=KedETJZeVa"
+  },
+  {
+   "title": "Decomposed evaluations of geographic disparities in text-to-image models",
+   "authors": [
+    "Abhishek Sureddy",
+    "Dishant Padalia",
+    "Nandhinee Periyakaruppan",
+    "Oindrila Saha",
+    "Adina Williams",
+    "Adriana Romero-Soriano",
+    "Megan Richards",
+    "Polina Kirichenko",
+    "Melissa Hall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ho8eJKeoUb",
+   "pdf_url": "https://openreview.net/pdf?id=ho8eJKeoUb"
+  },
+  {
+   "title": "Games for AI-Control: Models of Safety Evaluations of AI Deployment Protocols",
+   "authors": [
+    "Charlie Griffin",
+    "Buck Shlegeris",
+    "Alessandro Abate"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kPt0on0Llx",
+   "pdf_url": "https://openreview.net/pdf?id=kPt0on0Llx"
+  },
+  {
+   "title": "MaPPing Your Model: Assessing the Impact of Adversarial Attacks on LLM-based Programming Assistants",
+   "authors": [
+    "John Heibel",
+    "Daniel Lowd"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gO20LYKNq4",
+   "pdf_url": "https://openreview.net/pdf?id=gO20LYKNq4"
+  },
+  {
+   "title": "Models That Prove Their Own Correctness",
+   "authors": [
+    "Noga Amit",
+    "Shafi Goldwasser",
+    "Orr Paradise",
+    "Guy N. Rothblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JjurYsXDyT",
+   "pdf_url": "https://openreview.net/pdf?id=JjurYsXDyT"
+  },
+  {
+   "title": "On the Difficulty of Faithful Chain-of-Thought Reasoning in Large Language Models",
+   "authors": [
+    "Sree Harsha Tanneru",
+    "Dan Ley",
+    "Chirag Agarwal",
+    "Himabindu Lakkaraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3h0kZdPhAC",
+   "pdf_url": "https://openreview.net/pdf?id=3h0kZdPhAC"
+  },
+  {
+   "title": "On the Multi-modal Vulnerability of Diffusion Models",
+   "authors": [
+    "Dingcheng Yang",
+    "Yang Bai",
+    "Xiaojun Jia",
+    "Yang Liu",
+    "Xiaochun Cao",
+    "Wenjian Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FuZjlzR7kT",
+   "pdf_url": "https://openreview.net/pdf?id=FuZjlzR7kT"
+  },
+  {
+   "title": "Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models",
+   "authors": [
+    "Zhenyang Ni",
+    "Rui Ye",
+    "Yuxi Wei",
+    "Zhen Xiang",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gPmKbViJ6o",
+   "pdf_url": "https://openreview.net/pdf?id=gPmKbViJ6o"
+  },
+  {
+   "title": "Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques",
+   "authors": [
+    "Rishika Bhagwatkar",
+    "Shravan Nayak",
+    "Reza Bayat",
+    "Alexis Roger",
+    "Daniel Z Kaplan",
+    "Pouya Bashivan",
+    "Irina Rish"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fdanH5luEd",
+   "pdf_url": "https://openreview.net/pdf?id=fdanH5luEd"
+  },
+  {
+   "title": "TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution",
+   "authors": [
+    "Wenyue Hua",
+    "Xianjun Yang",
+    "Mingyu Jin",
+    "Zelong Li",
+    "Wei Cheng",
+    "Ruixiang Tang",
+    "Yongfeng Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ejl3NCLQBj",
+   "pdf_url": "https://openreview.net/pdf?id=ejl3NCLQBj"
+  },
+  {
+   "title": "Unfamiliar Finetuning Examples Control How Language Models Hallucinate",
+   "authors": [
+    "Katie Kang",
+    "Eric Wallace",
+    "Claire Tomlin",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RVbs6Qb5Hj",
+   "pdf_url": "https://openreview.net/pdf?id=RVbs6Qb5Hj"
+  },
+  {
+   "title": "VACoDe: Visual Augmented Contrastive Decoding",
+   "authors": [
+    "Sihyeon Kim",
+    "Boryeong Cho",
+    "Sangmin Bae",
+    "Sumyeong Ahn",
+    "Se-Young Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Li4mQaI1H4",
+   "pdf_url": "https://openreview.net/pdf?id=Li4mQaI1H4"
+  },
+  {
+   "title": "Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs",
+   "authors": [
+    "Jinmin Li",
+    "Kuofeng Gao",
+    "Yang Bai",
+    "Jingyun Zhang",
+    "Shu-Tao Xia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZWQvaT7Img",
+   "pdf_url": "https://openreview.net/pdf?id=ZWQvaT7Img"
+  },
+  {
+   "title": "Wasserstein Modality Alignment Makes Your Multimodal Transformer More Robust",
+   "authors": [
+    "zhuo zhi",
+    "Ziquan Liu",
+    "Qiangqiang Wu",
+    "Miguel R. D. Rodrigues"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2IkaUZdB62",
+   "pdf_url": "https://openreview.net/pdf?id=2IkaUZdB62"
+  },
+  {
+   "title": "WebCanvas: Benchmarking Web Agents in Online Environments",
+   "authors": [
+    "Yichen Pan",
+    "Dehan Kong",
+    "Sida Zhou",
+    "Cheng Cui",
+    "Yifei Leng",
+    "Bing Jiang",
+    "Hangyu Liu",
+    "Yanyi Shang",
+    "Shuyan Zhou",
+    "Tongshuang Wu",
+    "Zhengyang Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1TOW5WCtAW",
+   "pdf_url": "https://openreview.net/pdf?id=1TOW5WCtAW"
+  },
+  {
+   "title": "Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?",
+   "authors": [
+    "Rylan Schaeffer",
+    "Hailey Schoelkopf",
+    "Brando Miranda",
+    "Gabriel Mukobi",
+    "Varun Madan",
+    "Adam Ibrahim",
+    "Herbie Bradley",
+    "Stella Biderman",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AbHHrj9afB",
+   "pdf_url": "https://openreview.net/pdf?id=AbHHrj9afB"
+  }
+ ]
+}

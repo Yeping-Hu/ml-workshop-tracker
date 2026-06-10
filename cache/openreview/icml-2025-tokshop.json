@@ -1,0 +1,437 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/TokShop",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:11.665Z",
+ "paper_count": 37,
+ "papers": [
+  {
+   "title": "Adversarial Tokenization",
+   "authors": [
+    "Renato Geh",
+    "Zilei Shao",
+    "Guy Van den Broeck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q7K210wSg6",
+   "pdf_url": "https://openreview.net/pdf?id=q7K210wSg6"
+  },
+  {
+   "title": "BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization",
+   "authors": [
+    "Sander Land",
+    "Catherine Arnett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AO78CqwaUO",
+   "pdf_url": "https://openreview.net/pdf?id=AO78CqwaUO"
+  },
+  {
+   "title": "Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations",
+   "authors": [
+    "Brian Siyuan Zheng",
+    "Alisa Liu",
+    "Orevaoghene Ahia",
+    "Jonathan Hayase",
+    "Yejin Choi",
+    "Noah A. Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zpheKOg5f0",
+   "pdf_url": "https://openreview.net/pdf?id=zpheKOg5f0"
+  },
+  {
+   "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+   "authors": [
+    "Artidoro Pagnoni",
+    "Ramakanth Pasunuru",
+    "Pedro Rodriguez",
+    "John Nguyen",
+    "Benjamin Muller",
+    "Margaret Li",
+    "Chunting Zhou",
+    "Lili Yu",
+    "Jason E Weston",
+    "Luke Zettlemoyer",
+    "Gargi Ghosh",
+    "Mike Lewis",
+    "Ari Holtzman",
+    "Srini Iyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZ3J8XeRLw",
+   "pdf_url": "https://openreview.net/pdf?id=UZ3J8XeRLw"
+  },
+  {
+   "title": "Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
+   "authors": [
+    "Preston Firestone",
+    "Shubham Ugare",
+    "Gagandeep Singh",
+    "Sasa Misailovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j2hH02UVch",
+   "pdf_url": "https://openreview.net/pdf?id=j2hH02UVch"
+  },
+  {
+   "title": "ByteSpan: Information-Driven Subword Tokenisation",
+   "authors": [
+    "Zebulon Goriely",
+    "Suchir Salhan",
+    "Pietro Lesci",
+    "Julius Cheng",
+    "Paula Buttery"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5AnYuCoCsf",
+   "pdf_url": "https://openreview.net/pdf?id=5AnYuCoCsf"
+  },
+  {
+   "title": "Canonical Autoregressive Generation",
+   "authors": [
+    "Ivi Chatzi",
+    "Nina L. Corvelo Benz",
+    "Stratis Tsirtsis",
+    "Manuel Gomez Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uWgNK07LV8",
+   "pdf_url": "https://openreview.net/pdf?id=uWgNK07LV8"
+  },
+  {
+   "title": "CAT: Content-Adaptive Image Tokenization",
+   "authors": [
+    "Junhong Shen",
+    "Kushal Tirumala",
+    "Michihiro Yasunaga",
+    "Ishan Misra",
+    "Luke Zettlemoyer",
+    "Lili Yu",
+    "Chunting Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7xoeaZZyOp",
+   "pdf_url": "https://openreview.net/pdf?id=7xoeaZZyOp"
+  },
+  {
+   "title": "Causal Estimation of Tokenisation Bias",
+   "authors": [
+    "Pietro Lesci",
+    "Clara Meister",
+    "Thomas Hofmann",
+    "Andreas Vlachos",
+    "Tiago Pimentel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sVfBPDShNV",
+   "pdf_url": "https://openreview.net/pdf?id=sVfBPDShNV"
+  },
+  {
+   "title": "Conditional Unigram Tokenization with Parallel Data",
+   "authors": [
+    "Gianluca Vico",
+    "Jindřich Libovický"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lnWJWNA8YW",
+   "pdf_url": "https://openreview.net/pdf?id=lnWJWNA8YW"
+  },
+  {
+   "title": "Contextual morphologically-guided tokenization for pretrained Latin BERT models",
+   "authors": [
+    "Marisa Hudspeth",
+    "Patrick J. Burns",
+    "Brendan O'Connor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SplkK4Emrk",
+   "pdf_url": "https://openreview.net/pdf?id=SplkK4Emrk"
+  },
+  {
+   "title": "Continuous Autoregressive Generation with Mixture of Gaussians",
+   "authors": [
+    "Alex Quach",
+    "Tsun-Hsuan Wang",
+    "Ramin Hasani",
+    "Mathias Lechner",
+    "Alexander Amini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YtBsV7ug5p",
+   "pdf_url": "https://openreview.net/pdf?id=YtBsV7ug5p"
+  },
+  {
+   "title": "Continuous Chain of Thought Enables Parallel Exploration and Reasoning",
+   "authors": [
+    "Halil Alperen Gozeten",
+    "Muhammed Emrullah Ildiz",
+    "Xuechen Zhang",
+    "Hrayr Harutyunyan",
+    "Ankit Singh Rawat",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vBfQpjPOwr",
+   "pdf_url": "https://openreview.net/pdf?id=vBfQpjPOwr"
+  },
+  {
+   "title": "Discrete JEPA: Learning Discrete Token Representations without Reconstruction",
+   "authors": [
+    "Junyeob Baek",
+    "Hosung Lee",
+    "Christopher Hoang",
+    "Mengye Ren",
+    "Sungjin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=91kfdrEafN",
+   "pdf_url": "https://openreview.net/pdf?id=91kfdrEafN"
+  },
+  {
+   "title": "Entropy-Driven Pre-Tokenization for Byte-Pair Encoding",
+   "authors": [
+    "Yifan Hu",
+    "Ningyue Liang",
+    "Dachuan Zhao",
+    "Jonathan Geuter",
+    "Varshini Reddy",
+    "Craig W Schmidt",
+    "Chris Tanner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1hcu9Vq4Or",
+   "pdf_url": "https://openreview.net/pdf?id=1hcu9Vq4Or"
+  },
+  {
+   "title": "Evaluating Morphological Alignment of Tokenizers in 70 Languages",
+   "authors": [
+    "Catherine Arnett",
+    "Marisa Hudspeth",
+    "Brendan O'Connor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XYRri1s6pP",
+   "pdf_url": "https://openreview.net/pdf?id=XYRri1s6pP"
+  },
+  {
+   "title": "FLEXITOKENS: Flexible Tokenization for Evolving Language Models",
+   "authors": [
+    "Abraham Toluwase Owodunni",
+    "Orevaoghene Ahia",
+    "Sachin Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HrrT7arjiR",
+   "pdf_url": "https://openreview.net/pdf?id=HrrT7arjiR"
+  },
+  {
+   "title": "GeneticBPE: Motif-Preserving Tokenization for Robust miRNA Modeling",
+   "authors": [
+    "Jaskaran Singh",
+    "Prabhav Sanga",
+    "ARUN KUMAR DUBEY"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jLIKfphGOy",
+   "pdf_url": "https://openreview.net/pdf?id=jLIKfphGOy"
+  },
+  {
+   "title": "HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling",
+   "authors": [
+    "Rongkun Xue",
+    "Yazhe Niu",
+    "Shuai Hu",
+    "Zixin Yin",
+    "Yongqiang Yao",
+    "Jing Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0LRW0RHra",
+   "pdf_url": "https://openreview.net/pdf?id=m0LRW0RHra"
+  },
+  {
+   "title": "How Much is Enough? The Diminishing Returns of Tokenization Training Data",
+   "authors": [
+    "Varshini Reddy",
+    "Craig W Schmidt",
+    "Yuval Pinter",
+    "Chris Tanner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IETQ36gehE",
+   "pdf_url": "https://openreview.net/pdf?id=IETQ36gehE"
+  },
+  {
+   "title": "How Tokenization Limits Phonological Knowledge Representation in Language Models and How to Improve Them",
+   "authors": [
+    "Disen Liao",
+    "Freda Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ziGpKA7tvN",
+   "pdf_url": "https://openreview.net/pdf?id=ziGpKA7tvN"
+  },
+  {
+   "title": "InCa and InDia: Inline Casing and Diacritization Preprocessing For Robust-to-Noise Tokenization and Interpretability",
+   "authors": [
+    "Kirill Semenov",
+    "Martin Popel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9GwVWxjVmN",
+   "pdf_url": "https://openreview.net/pdf?id=9GwVWxjVmN"
+  },
+  {
+   "title": "Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives",
+   "authors": [
+    "Ander Artola Velasco",
+    "Stratis Tsirtsis",
+    "Nastaran Okati",
+    "Manuel Gomez Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ht1vGnT3vF",
+   "pdf_url": "https://openreview.net/pdf?id=ht1vGnT3vF"
+  },
+  {
+   "title": "MorphTok: Morphologically Grounded Tokenization for Indic languages",
+   "authors": [
+    "Maharaj Brahma",
+    "N J Karthika",
+    "Atul Kumar Singh",
+    "Devaraja Adiga",
+    "Smruti Bhate",
+    "Ganesh Ramakrishnan",
+    "Rohit Saluja",
+    "Maunendra Sankar Desarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=32wHtvZOqH",
+   "pdf_url": "https://openreview.net/pdf?id=32wHtvZOqH"
+  },
+  {
+   "title": "Motion-Focused Tokenization for Source-Free Video Domain Adaptation",
+   "authors": [
+    "Tzu Ling Liu",
+    "Ian Stavness",
+    "Mrigank Rochan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LLVkcXz1m0",
+   "pdf_url": "https://openreview.net/pdf?id=LLVkcXz1m0"
+  },
+  {
+   "title": "One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression",
+   "authors": [
+    "Keita Miwa",
+    "Kento Sasaki",
+    "Hidehisa Arai",
+    "Tsubasa Takahashi",
+    "Yu Yamaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lC4xkcLrdv",
+   "pdf_url": "https://openreview.net/pdf?id=lC4xkcLrdv"
+  },
+  {
+   "title": "Overcoming Vocabulary Constraints with Pixel-level Fallback",
+   "authors": [
+    "Jonas F. Lotz",
+    "Hendra Setiawan",
+    "Stephan Peitz",
+    "Yova Kementchedjhieva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZ4vA8rMO6",
+   "pdf_url": "https://openreview.net/pdf?id=bZ4vA8rMO6"
+  },
+  {
+   "title": "Pitfalls, Subtleties, and Techniques in Automata-Based Subword-Level Constrained Generation",
+   "authors": [
+    "Marco Cognetta",
+    "David Pohl",
+    "Junyoung Lee",
+    "Naoaki Okazaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DFybOGeGDS",
+   "pdf_url": "https://openreview.net/pdf?id=DFybOGeGDS"
+  },
+  {
+   "title": "QuickMerge++: Token Merging with Autoregressive Prior",
+   "authors": [
+    "Dong Liu",
+    "Yanxuan Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dMdxHd0tRf",
+   "pdf_url": "https://openreview.net/pdf?id=dMdxHd0tRf"
+  },
+  {
+   "title": "Robust Noise Attenuation via Adaptive Pooling of Transformer Outputs",
+   "authors": [
+    "Greyson Brothers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yRJpS6exNA",
+   "pdf_url": "https://openreview.net/pdf?id=yRJpS6exNA"
+  },
+  {
+   "title": "Sampling from Your Language Model One Byte at a Time",
+   "authors": [
+    "Jonathan Hayase",
+    "Alisa Liu",
+    "Noah A. Smith",
+    "Sewoong Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DM8D9Nq9uO",
+   "pdf_url": "https://openreview.net/pdf?id=DM8D9Nq9uO"
+  },
+  {
+   "title": "SuperBPE: Space Travel for Language Models",
+   "authors": [
+    "Alisa Liu",
+    "Jonathan Hayase",
+    "Valentin Hofmann",
+    "Sewoong Oh",
+    "Noah A. Smith",
+    "Yejin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LwTWkSXIpt",
+   "pdf_url": "https://openreview.net/pdf?id=LwTWkSXIpt"
+  },
+  {
+   "title": "Tokenisation is NP-Complete",
+   "authors": [
+    "Philip Whittington",
+    "Gregor Bachmann",
+    "Tiago Pimentel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zGMXftuVZz",
+   "pdf_url": "https://openreview.net/pdf?id=zGMXftuVZz"
+  },
+  {
+   "title": "Tokenizing Nonverbal Communication in Salsa Dance",
+   "authors": [
+    "Bermet Burkanova",
+    "Payam Jome Yazdian",
+    "Chuxuan Zhang",
+    "Trinity Evans",
+    "Paige Tuttösí",
+    "Angelica Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iIMFc4eZNm",
+   "pdf_url": "https://openreview.net/pdf?id=iIMFc4eZNm"
+  },
+  {
+   "title": "Watermarking Autoregressive Image Generation",
+   "authors": [
+    "Nikola Jovanović",
+    "Ismail Labiad",
+    "Tomas Soucek",
+    "Martin Vechev",
+    "Pierre Fernandez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hiw5dqfWeb",
+   "pdf_url": "https://openreview.net/pdf?id=hiw5dqfWeb"
+  },
+  {
+   "title": "You Only Train Once: Efficient Tokenizer Selection for Arithmetic in Language Models",
+   "authors": [
+    "Mucong Ding",
+    "Sean Michael McLeish",
+    "Kazem Meidani",
+    "Igor Melnyk",
+    "Nam H Nguyen",
+    "C. Bayan Bruss",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=syvdPYbdTI",
+   "pdf_url": "https://openreview.net/pdf?id=syvdPYbdTI"
+  },
+  {
+   "title": "zip2zip: Inference-Time Adaptive Vocabularies for Language Models via Token Compression",
+   "authors": [
+    "Saibo Geng",
+    "Nathan Ranchin",
+    "Yunzhen Yao",
+    "Maxime Peyrard",
+    "Chris Wendler",
+    "Michael Gastpar",
+    "Robert West"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jzpjg2hrha",
+   "pdf_url": "https://openreview.net/pdf?id=Jzpjg2hrha"
+  }
+ ]
+}

@@ -1,0 +1,404 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/MCDC",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:34.970Z",
+ "paper_count": 35,
+ "papers": [
+  {
+   "title": "A Framework for Double-Blind Federated Adaptation of Foundation Models",
+   "authors": [
+    "Nurbek Tastan",
+    "Karthik Nandakumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=stv0Fqxekz",
+   "pdf_url": "https://openreview.net/pdf?id=stv0Fqxekz"
+  },
+  {
+   "title": "Adaptive Local Training in Federated Learning",
+   "authors": [
+    "Donald Shenaj",
+    "Eugene Belilovsky",
+    "Pietro Zanuttigh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EAMnemlXB2",
+   "pdf_url": "https://openreview.net/pdf?id=EAMnemlXB2"
+  },
+  {
+   "title": "An Empirical Study of Policy Interpolation via Diffusion Models",
+   "authors": [
+    "Yuqing Xie",
+    "Chao Yu",
+    "Ya Zhang",
+    "Yu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W2ZEYIE7vU",
+   "pdf_url": "https://openreview.net/pdf?id=W2ZEYIE7vU"
+  },
+  {
+   "title": "Beyond Top-K: Structured Sparsification for Compression in Pipeline Parallel",
+   "authors": [
+    "Sameera Ramasinghe",
+    "Thalaiyasingam Ajanthan",
+    "Gil Avraham",
+    "Yan Zuo",
+    "Alexander Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UyPDg7ksTM",
+   "pdf_url": "https://openreview.net/pdf?id=UyPDg7ksTM"
+  },
+  {
+   "title": "BICEC: Attachable Classification-Based Intelligent Control for Sustainable Computer Vision Systems",
+   "authors": [
+    "Jonathan Burton-Barr",
+    "Deepu Rajan",
+    "Basura Fernando"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y9WvvAak2D",
+   "pdf_url": "https://openreview.net/pdf?id=Y9WvvAak2D"
+  },
+  {
+   "title": "CAMEx: Curvature-aware Merging of Experts",
+   "authors": [
+    "Dung Viet Nguyen",
+    "Minh Hoang Nguyen",
+    "Luc Nguyen",
+    "Rachel S.Y. Teo",
+    "Tan Minh Nguyen",
+    "Linh Duy Tran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qKLTBFUBsJ",
+   "pdf_url": "https://openreview.net/pdf?id=qKLTBFUBsJ"
+  },
+  {
+   "title": "Collective Model Intelligence Requires Compatible Specialization",
+   "authors": [
+    "Jyothish Pari",
+    "Samy Jelassi",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zEWqLMReyr",
+   "pdf_url": "https://openreview.net/pdf?id=zEWqLMReyr"
+  },
+  {
+   "title": "ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation",
+   "authors": [
+    "Rinon Gal",
+    "Adi Haviv",
+    "Yuval Alaluf",
+    "Amit Haim Bermano",
+    "Daniel Cohen-Or",
+    "Gal Chechik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PlAQHoW26z",
+   "pdf_url": "https://openreview.net/pdf?id=PlAQHoW26z"
+  },
+  {
+   "title": "Conditioning on Local Statistics for Scalable Heterogeneous Federated Learning (Tiny Paper)",
+   "authors": [
+    "Rickard Brannvall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XXC8RYoPji",
+   "pdf_url": "https://openreview.net/pdf?id=XXC8RYoPji"
+  },
+  {
+   "title": "Disentangling Sequence Memorization and General Capability in Large Language Models",
+   "authors": [
+    "Gaurav Rohit Ghosal",
+    "Pratyush Maini",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1rOjgUbWus",
+   "pdf_url": "https://openreview.net/pdf?id=1rOjgUbWus"
+  },
+  {
+   "title": "Efficient Distributed Optimization under Heavy-Tailed Noise",
+   "authors": [
+    "Su Hyeong Lee",
+    "Manzil Zaheer",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OjKum8isMR",
+   "pdf_url": "https://openreview.net/pdf?id=OjKum8isMR"
+  },
+  {
+   "title": "Exact Unlearning of Finetuning Data via Model Merging at Scale",
+   "authors": [
+    "Kevin Kuo",
+    "Amrith Setlur",
+    "Kartik Srinivas",
+    "Aditi Raghunathan",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u89LDBIyDe",
+   "pdf_url": "https://openreview.net/pdf?id=u89LDBIyDe"
+  },
+  {
+   "title": "Exploring Asynchronism in SWARM Parallelism",
+   "authors": [
+    "Yan Zuo",
+    "Gil Avraham",
+    "Thalaiyasingam Ajanthan",
+    "Sameera Ramasinghe",
+    "Alexander Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HxPDWbaK1E",
+   "pdf_url": "https://openreview.net/pdf?id=HxPDWbaK1E"
+  },
+  {
+   "title": "Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts",
+   "authors": [
+    "Samin Yeasar Arnob",
+    "Zhan Su",
+    "Minseon Kim",
+    "Oleksiy Ostapenko",
+    "Doina Precup",
+    "Lucas Caccia",
+    "Alessandro Sordoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8wt2eKkVe6",
+   "pdf_url": "https://openreview.net/pdf?id=8wt2eKkVe6"
+  },
+  {
+   "title": "Federated Circuits: A Unified Framework for Scalable and Efficient Federated Learning",
+   "authors": [
+    "Jonas Seng",
+    "Florian Peter Busch",
+    "Pooja Prasad",
+    "Devendra Singh Dhami",
+    "Martin Mundt",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fb0yjiF7CV",
+   "pdf_url": "https://openreview.net/pdf?id=fb0yjiF7CV"
+  },
+  {
+   "title": "FedMoDN: Federated Modular Decision Support Networks",
+   "authors": [
+    "Cécile Trottet",
+    "Michael Krauthammer",
+    "Mary-Anne Hartley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Edn2EigJFP",
+   "pdf_url": "https://openreview.net/pdf?id=Edn2EigJFP"
+  },
+  {
+   "title": "HDEE: Heterogeneous Domain Expert Ensemble",
+   "authors": [
+    "Oguzhan Ersoy",
+    "Jari Kolehmainen",
+    "Gabriel Passamani Andrade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ukL6nPcYe",
+   "pdf_url": "https://openreview.net/pdf?id=5ukL6nPcYe"
+  },
+  {
+   "title": "Hierarchical Subspaces of Policies for Continual Offline Reinforcement Learning",
+   "authors": [
+    "Anthony Kobanda",
+    "Rémy Portelas",
+    "Odalric-Ambrym Maillard",
+    "Ludovic Denoyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WNzxsWtjUV",
+   "pdf_url": "https://openreview.net/pdf?id=WNzxsWtjUV"
+  },
+  {
+   "title": "How to Merge Multimodal Models Over Time?",
+   "authors": [
+    "Sebastian Dziadzio",
+    "Vishaal Udandarao",
+    "Karsten Roth",
+    "Ameya Prabhu",
+    "Zeynep Akata",
+    "Samuel Albanie",
+    "Matthias Bethge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LBBKIA0NpN",
+   "pdf_url": "https://openreview.net/pdf?id=LBBKIA0NpN"
+  },
+  {
+   "title": "Improving the Efficiency of Distributed Training using Sparse Parameter Averaging",
+   "authors": [
+    "Matt Beton",
+    "Matthew Reed",
+    "Seth Howes",
+    "Alex Cheema",
+    "Mohamed Baioumy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=stFPf3gzq1",
+   "pdf_url": "https://openreview.net/pdf?id=stFPf3gzq1"
+  },
+  {
+   "title": "Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer",
+   "authors": [
+    "Yilun Kong",
+    "Guozheng Ma",
+    "Qi Zhao",
+    "Haoyu Wang",
+    "Li Shen",
+    "Xueqian Wang",
+    "Dacheng Tao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YgR8U5DSj9",
+   "pdf_url": "https://openreview.net/pdf?id=YgR8U5DSj9"
+  },
+  {
+   "title": "Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models",
+   "authors": [
+    "Weixin Liang",
+    "LILI YU",
+    "Liang Luo",
+    "Srini Iyer",
+    "Ning Dong",
+    "Chunting Zhou",
+    "Gargi Ghosh",
+    "Mike Lewis",
+    "Luke Zettlemoyer",
+    "Xi Victoria Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fn2U1VYfQ5",
+   "pdf_url": "https://openreview.net/pdf?id=fn2U1VYfQ5"
+  },
+  {
+   "title": "MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling",
+   "authors": [
+    "Rachel S.Y. Teo",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kWGBPSRtf9",
+   "pdf_url": "https://openreview.net/pdf?id=kWGBPSRtf9"
+  },
+  {
+   "title": "Momentum Look-Ahead for Asynchronous Distributed Low-Communication Training",
+   "authors": [
+    "Thalaiyasingam Ajanthan",
+    "Sameera Ramasinghe",
+    "Gil Avraham",
+    "Yan Zuo",
+    "Alexander Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4O8nzTkHPI",
+   "pdf_url": "https://openreview.net/pdf?id=4O8nzTkHPI"
+  },
+  {
+   "title": "Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers (Abridged)",
+   "authors": [
+    "Shalev Lifshitz",
+    "Sheila A. McIlraith",
+    "Yilun Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mGAAoEWOq9",
+   "pdf_url": "https://openreview.net/pdf?id=mGAAoEWOq9"
+  },
+  {
+   "title": "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer",
+   "authors": [
+    "Rob Romijnders",
+    "Stefanos Laskaridis",
+    "Ali Shahin Shamsabadi",
+    "Hamed Haddadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UIzvc5u2Eu",
+   "pdf_url": "https://openreview.net/pdf?id=UIzvc5u2Eu"
+  },
+  {
+   "title": "On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists",
+   "authors": [
+    "Dongyang Fan",
+    "Bettina Messmer",
+    "Nikita Doikov",
+    "Martin Jaggi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U7fUT9J11Y",
+   "pdf_url": "https://openreview.net/pdf?id=U7fUT9J11Y"
+  },
+  {
+   "title": "ReMod: Learning Structured Sparsity with ReLU Modulation",
+   "authors": [
+    "Wenbo Zhang",
+    "Xiang Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cizhOu3CZa",
+   "pdf_url": "https://openreview.net/pdf?id=cizhOu3CZa"
+  },
+  {
+   "title": "Rethinking Decentralized Learning: Towards More Realistic Evaluations with a Metadata-Agnostic Approach",
+   "authors": [
+    "Tianyu Zhang",
+    "Lu Li",
+    "Tongtian Zhu",
+    "Suyuchen Wang",
+    "Can Wang",
+    "Yong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hDfD4HcDo0",
+   "pdf_url": "https://openreview.net/pdf?id=hDfD4HcDo0"
+  },
+  {
+   "title": "Revisiting Sparse Mixture of Experts for Resource-adaptive Federated Fine-tuning Foundation Models",
+   "authors": [
+    "Van-Tuan Tran",
+    "Le Huy Khiem",
+    "Quoc-Viet Pham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IwNOUYgtuz",
+   "pdf_url": "https://openreview.net/pdf?id=IwNOUYgtuz"
+  },
+  {
+   "title": "ROBUST ONLINE INFERENCE USING ADAPTIVE MODEL SWITCHING",
+   "authors": [
+    "Kalpan Mukherjee",
+    "Vikramank Singh",
+    "Abishek Sankararaman",
+    "Balakrishnan Murali Narayanaswamy",
+    "Tim Kraska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EPxzr9WU1R",
+   "pdf_url": "https://openreview.net/pdf?id=EPxzr9WU1R"
+  },
+  {
+   "title": "Soup-of-Experts: Pretraining Specialist Models via Parameters Averaging",
+   "authors": [
+    "Pierre Ablin",
+    "Angelos Katharopoulos",
+    "Skyler Seto",
+    "David Grangier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mAy1IbbLoR",
+   "pdf_url": "https://openreview.net/pdf?id=mAy1IbbLoR"
+  },
+  {
+   "title": "Tight Clusters Make Specialized Experts",
+   "authors": [
+    "Stefan Nielsen",
+    "Rachel S.Y. Teo",
+    "Laziz Abdullaev",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5IlxDGpSOl",
+   "pdf_url": "https://openreview.net/pdf?id=5IlxDGpSOl"
+  },
+  {
+   "title": "Training Plug n' Play Knowledge Modules with Deep Context Distillation",
+   "authors": [
+    "Lucas Caccia",
+    "Alan Ansell",
+    "Ivan Vulić",
+    "Edoardo Ponti",
+    "Alessandro Sordoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yyo54Z8VTy",
+   "pdf_url": "https://openreview.net/pdf?id=yyo54Z8VTy"
+  },
+  {
+   "title": "Truncate without Fear: Module Aggregation and Redistribution in Federated Low-Rank Adaptation",
+   "authors": [
+    "Zhijie Chen",
+    "Yuxing Liu",
+    "Arindam Banerjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U8V2n9kquU",
+   "pdf_url": "https://openreview.net/pdf?id=U8V2n9kquU"
+  }
+ ]
+}

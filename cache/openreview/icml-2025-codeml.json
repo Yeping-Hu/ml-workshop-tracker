@@ -1,0 +1,589 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/CODEML",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:33.749Z",
+ "paper_count": 44,
+ "papers": [
+  {
+   "title": "$\\texttt{markovml}$: A Python Package for Verifying Markov Processes with Embedded Machine Learning Models",
+   "authors": [
+    "Muhammad Maaz",
+    "Timothy Chan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HWdQX3AUWL",
+   "pdf_url": "https://openreview.net/pdf?id=HWdQX3AUWL"
+  },
+  {
+   "title": "A2Perf: Benchmarking Autonomous Agents End-to-End in Realistic Domains",
+   "authors": [
+    "Ikechukwu Uchendu",
+    "Jason Jabbour",
+    "Korneel Van den Berghe",
+    "Joel Runevic",
+    "Matthew Stewart",
+    "Jeffrey Jian Ma",
+    "Srivatsan Krishnan",
+    "Izzeddin Gur",
+    "Austin V Huang",
+    "Colton Bishop",
+    "Paige Bailey",
+    "Wenjie Jiang",
+    "Ebrahim Songhori",
+    "Sergio Guadarrama",
+    "Jie Tan",
+    "J K Terry",
+    "Aleksandra Faust",
+    "Vijay Janapa Reddi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ETrYbzKjat",
+   "pdf_url": "https://openreview.net/pdf?id=ETrYbzKjat"
+  },
+  {
+   "title": "AIF-GEN: Open-Source Platform and Synthetic Dataset Suite for Reinforcement Learning on Large Language Models",
+   "authors": [
+    "Jacob Chmura",
+    "Shahrad Mohammadzadeh",
+    "Ivan Anokhin",
+    "Jacob-Junqi Tian",
+    "Mandana Samiei",
+    "Taz Scott-Talib",
+    "Irina Rish",
+    "Doina Precup",
+    "Reihaneh Rabbany",
+    "Nishanth Anand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LcFSnhxuF0",
+   "pdf_url": "https://openreview.net/pdf?id=LcFSnhxuF0"
+  },
+  {
+   "title": "An LLM-Powered Tool for Enhancing Scientific Open-Source Repositories",
+   "authors": [
+    "Nikolay Nikitin",
+    "Andrey Getmanov",
+    "Zakhar Popov",
+    "Ulyanova Ekaterina Alekseevna",
+    "Yaroslav Aksenkin",
+    "Ilya Sokolov",
+    "Alexander Boukhanovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lrWseP67ab",
+   "pdf_url": "https://openreview.net/pdf?id=lrWseP67ab"
+  },
+  {
+   "title": "An Open-Source Software Toolkit & Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models",
+   "authors": [
+    "Pranav Guruprasad",
+    "Yangyue Wang",
+    "Jaewoo Song",
+    "Sudipta Chowdhury",
+    "Harsh Sikka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fU6itzEwvT",
+   "pdf_url": "https://openreview.net/pdf?id=fU6itzEwvT"
+  },
+  {
+   "title": "Bencher: Simple and Reproducible Benchmarking for Black-Box Optimization",
+   "authors": [
+    "Leonard Papenmeier",
+    "Luigi Nardi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1N7Na3O8ak",
+   "pdf_url": "https://openreview.net/pdf?id=1N7Na3O8ak"
+  },
+  {
+   "title": "BoFire: Bayesian Optimization Framework Intended for Real Experiments",
+   "authors": [
+    "Johannes P. Dürholt",
+    "Thomas S. Asche",
+    "Johanna Kleinekorte",
+    "Gabriel Mancino-Ball",
+    "Benjamin Schiller",
+    "Simon Sung",
+    "Julian Keupp",
+    "Aaron Paul Osburg",
+    "Toby Boyne",
+    "Ruth Misener",
+    "Rosona Eldred",
+    "Chrysoula Dimitra Kappatou",
+    "Robert Matthew Lee",
+    "Dominik Linzner",
+    "Wagner Steuer Costa",
+    "David Walz",
+    "Niklas Wulkow",
+    "Behrang Shafei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9NTzb8dpjq",
+   "pdf_url": "https://openreview.net/pdf?id=9NTzb8dpjq"
+  },
+  {
+   "title": "Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms",
+   "authors": [
+    "Philippe Martin Wyder",
+    "Judah Goldfeder",
+    "Alexey Yermakov",
+    "Yue Zhao",
+    "Stefano Riva",
+    "Jan P. Williams",
+    "David Zoro",
+    "Amy Sara Rude",
+    "Matteo Tomasetto",
+    "Joe Germany",
+    "Joseph Bakarji",
+    "Georg Maierhofer",
+    "Miles Cranmer",
+    "J. Nathan Kutz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=licgHdwg5y",
+   "pdf_url": "https://openreview.net/pdf?id=licgHdwg5y"
+  },
+  {
+   "title": "Control Flow Operators in PyTorch",
+   "authors": [
+    "Yidi Wu",
+    "Thomas Ortner",
+    "Richard Zou",
+    "Edward Z. Yang",
+    "Adnan Akhundov",
+    "Horace He",
+    "Yanan Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GMFG27v26J",
+   "pdf_url": "https://openreview.net/pdf?id=GMFG27v26J"
+  },
+  {
+   "title": "cp_measure: API-first feature extraction for image-based profiling workflows",
+   "authors": [
+    "Alán F Muñoz",
+    "Tim Treis",
+    "Alexandr A. Kalinin",
+    "Shatavisha Dasgupta",
+    "Fabian J Theis",
+    "Anne E Carpenter",
+    "Shantanu Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qWbhPu03ui",
+   "pdf_url": "https://openreview.net/pdf?id=qWbhPu03ui"
+  },
+  {
+   "title": "DeepChem-Variant: A Modular Open Source Framework for Genomic Variant Calling",
+   "authors": [
+    "Ankita Vaishnobi Bisoi",
+    "Shreyas V",
+    "Jose Siguenza",
+    "Bharath Ramsundar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jWZV6hWCeX",
+   "pdf_url": "https://openreview.net/pdf?id=jWZV6hWCeX"
+  },
+  {
+   "title": "Deploying User-Friendly Software: Six Recommendations to Make Single-Cell Foundation Models More Usable For Scientific Discovery",
+   "authors": [
+    "Izumi Ando",
+    "Hassaan Maan",
+    "Kieran R. Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m6AUiyAWr0",
+   "pdf_url": "https://openreview.net/pdf?id=m6AUiyAWr0"
+  },
+  {
+   "title": "Developing and Maintaining an Open-Source Repository of AI Evaluations: Challenges and Insights",
+   "authors": [
+    "Alexandra Abbas",
+    "Celia Waggoner",
+    "Justin Olive"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yw33GWAEOK",
+   "pdf_url": "https://openreview.net/pdf?id=yw33GWAEOK"
+  },
+  {
+   "title": "DINOHash: Learning Adversarially Robust Perceptual Hashes from Self-Supervised Features",
+   "authors": [
+    "Shree Singhi",
+    "Aayush Gupta",
+    "Lukas Struppek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HrGa8Mq2NE",
+   "pdf_url": "https://openreview.net/pdf?id=HrGa8Mq2NE"
+  },
+  {
+   "title": "DISCO: A Browser-Based Privacy-Preserving Framework for Distributed Collaborative Learning",
+   "authors": [
+    "Julien Tuấn Tú Vignoud",
+    "Martin Jaggi",
+    "Mary-Anne Hartley",
+    "Tahseen Rabbani",
+    "Valérian Rousset"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JkzgEsBIQ3",
+   "pdf_url": "https://openreview.net/pdf?id=JkzgEsBIQ3"
+  },
+  {
+   "title": "EXO Gym: a simulation environment for low-bandwidth training",
+   "authors": [
+    "Seth Howes",
+    "Matt Beton",
+    "Mohamed Baioumy",
+    "Alex Cheema",
+    "Matthew Reed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZWikfTkZ6",
+   "pdf_url": "https://openreview.net/pdf?id=UZWikfTkZ6"
+  },
+  {
+   "title": "FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems",
+   "authors": [
+    "Val Andrei Fajardo",
+    "D. B. Emerson",
+    "Amandeep Singh",
+    "Marcelo Lotif",
+    "Veronica Chatrath",
+    "Izuki Matsuba",
+    "Chi Ho Cheung",
+    "Ravi Theja Desetty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I2is1QsDuD",
+   "pdf_url": "https://openreview.net/pdf?id=I2is1QsDuD"
+  },
+  {
+   "title": "If open source is to win, it must go public",
+   "authors": [
+    "Joshua Z Tan",
+    "Nicholas Vincent",
+    "Katherine Elkins",
+    "Magnus Sahlgren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uQW9yeormT",
+   "pdf_url": "https://openreview.net/pdf?id=uQW9yeormT"
+  },
+  {
+   "title": "KernelBot: A Competition Platform for Writing Heterogeneous GPU Code",
+   "authors": [
+    "Alex L Zhang",
+    "Matej Sirovatka",
+    "Erik Schultheis",
+    "Benjamin Horowitz",
+    "Mark Saroufim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bq9U4dmuyJ",
+   "pdf_url": "https://openreview.net/pdf?id=bq9U4dmuyJ"
+  },
+  {
+   "title": "laplax - Laplace Approximations with JAX",
+   "authors": [
+    "Tobias Weber",
+    "Bálint Mucsányi",
+    "Lenard Rommel",
+    "Thomas Christie",
+    "Lars Kasüschke",
+    "Marvin Pförtner",
+    "Philipp Hennig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CKMy0phhuF",
+   "pdf_url": "https://openreview.net/pdf?id=CKMy0phhuF"
+  },
+  {
+   "title": "Liger-Kernel: Efficient Triton Kernels for LLM Training",
+   "authors": [
+    "Pin-Lun Hsu",
+    "Yun Dai",
+    "Vignesh Kothapalli",
+    "Qingquan Song",
+    "Shao Tang",
+    "Siyu Zhu",
+    "Steven Shimizu",
+    "Shivam Sahni",
+    "Haowen Ning",
+    "Yanning Chen",
+    "Zhipeng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=36SjAIT42G",
+   "pdf_url": "https://openreview.net/pdf?id=36SjAIT42G"
+  },
+  {
+   "title": "LUQ: Language Models Uncertainty Quantification Toolkit",
+   "authors": [
+    "Alexander V Nikitin",
+    "Martin Trapp",
+    "Pekka Marttinen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFM4lMnJGF",
+   "pdf_url": "https://openreview.net/pdf?id=LFM4lMnJGF"
+  },
+  {
+   "title": "M(M)ORE : Massive Multimodal Open RAG & Extraction",
+   "authors": [
+    "Alexandre Sallinen",
+    "Stefan Krsteski",
+    "Paul Teiletche",
+    "Allard Marc-Antoine",
+    "Baptiste Lecoeur",
+    "Michael Zhang",
+    "Fabrice Nemo",
+    "David Kalajdzic",
+    "Matthias Meyer",
+    "Mary-Anne Hartley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6j1HjfIdKn",
+   "pdf_url": "https://openreview.net/pdf?id=6j1HjfIdKn"
+  },
+  {
+   "title": "Maintaining MTEB: Towards Long Term Usability and Reproducibility of Embedding Benchmarks",
+   "authors": [
+    "Isaac Chung",
+    "Imene Kerboua",
+    "Márton Kardos",
+    "Roman Solomatin",
+    "Kenneth Enevoldsen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qcPJs0KRZW",
+   "pdf_url": "https://openreview.net/pdf?id=qcPJs0KRZW"
+  },
+  {
+   "title": "Meta-World+: An Improved, Standardized, RL Benchmark",
+   "authors": [
+    "Reginald McLean",
+    "Evangelos Chatzaroulas",
+    "Luc McCutcheon",
+    "Frank Röder",
+    "Tianhe Yu",
+    "Zhanpeng He",
+    "K.R. Zentner",
+    "Ryan Julian",
+    "J K Terry",
+    "Isaac Woungang",
+    "Nariman Farsad",
+    "Pablo Samuel Castro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eYZ9ebLIXo",
+   "pdf_url": "https://openreview.net/pdf?id=eYZ9ebLIXo"
+  },
+  {
+   "title": "N$^2$: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion",
+   "authors": [
+    "Caleb Chin",
+    "Aashish Khubchandani",
+    "Harshvardhan Maskara",
+    "Kyuseong Choi",
+    "Jacob Feitelberg",
+    "Albert Gong",
+    "Manit Paul",
+    "Tathagata Sadhukhan",
+    "Anish Agarwal",
+    "Raaz Dwivedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lT5oPUnMOI",
+   "pdf_url": "https://openreview.net/pdf?id=lT5oPUnMOI"
+  },
+  {
+   "title": "olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models",
+   "authors": [
+    "Jake Poznanski",
+    "Aman Rangapur",
+    "Jon Borchardt",
+    "Jason Dunkelberger",
+    "Christopher Wilhelm",
+    "Kyle Lo",
+    "Luca Soldaini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0RoEHuBzc5",
+   "pdf_url": "https://openreview.net/pdf?id=0RoEHuBzc5"
+  },
+  {
+   "title": "Open-Source Foosball Benchmark for Deep Reinforcement Learning",
+   "authors": [
+    "Matthew So",
+    "Kwansoo Lee",
+    "Judah Goldfeder",
+    "Hod Lipson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i5HQkbi9UY",
+   "pdf_url": "https://openreview.net/pdf?id=i5HQkbi9UY"
+  },
+  {
+   "title": "Orthogonium: A Unified, Efficient Library of Orthogonal and 1‑Lipschitz Building Blocks",
+   "authors": [
+    "Thibaut Boissin",
+    "Franck Mamalet",
+    "Valentin Lafargue",
+    "Mathieu Serrurier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZzZAtVcEIK",
+   "pdf_url": "https://openreview.net/pdf?id=ZzZAtVcEIK"
+  },
+  {
+   "title": "Provenance Design and Evolution in a Production ML Library",
+   "authors": [
+    "Adam Craig Pocock",
+    "Joseph Wonsil",
+    "Romina Mahinpei",
+    "Jack Sullivan",
+    "Margo Seltzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VrbDf3UDgv",
+   "pdf_url": "https://openreview.net/pdf?id=VrbDf3UDgv"
+  },
+  {
+   "title": "PyLO: Towards Accessible Learned Optimizers in Pytorch",
+   "authors": [
+    "Paul Janson",
+    "Benjamin Thérien",
+    "Quentin Gregory Anthony",
+    "Xiaolong Huang",
+    "Abhinav Moudgil",
+    "Eugene Belilovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Anr8OmuNK5",
+   "pdf_url": "https://openreview.net/pdf?id=Anr8OmuNK5"
+  },
+  {
+   "title": "RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing",
+   "authors": [
+    "Yiqing Xie",
+    "Alex Xie",
+    "Divyanshu Sheth",
+    "Pengfei Liu",
+    "Daniel Fried",
+    "Carolyn Rose"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gCXjd9canM",
+   "pdf_url": "https://openreview.net/pdf?id=gCXjd9canM"
+  },
+  {
+   "title": "Reproducible sampling from intractable distributions with Pigeons.jl",
+   "authors": [
+    "Miguel Biron-Lattes",
+    "Nikola Surjanovic",
+    "Paul Tiede",
+    "Saifuddin Syed",
+    "Trevor Campbell",
+    "Alexandre Bouchard-Côté"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JXhX0Sx5jA",
+   "pdf_url": "https://openreview.net/pdf?id=JXhX0Sx5jA"
+  },
+  {
+   "title": "SAGDA: Open-Source Synthetic Agriculture Data for Africa",
+   "authors": [
+    "Abdelghani Belgaid",
+    "Oumnia Ennaji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AaUOIOwUgf",
+   "pdf_url": "https://openreview.net/pdf?id=AaUOIOwUgf"
+  },
+  {
+   "title": "Scaling Private Deep Learning with Opacus: Advances for Large Language Models",
+   "authors": [
+    "Sai Aparna Aketi",
+    "Will Bullock",
+    "Iden Kalemaj",
+    "Enayat Ullah",
+    "Huanyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sKF3MOjfh2",
+   "pdf_url": "https://openreview.net/pdf?id=sKF3MOjfh2"
+  },
+  {
+   "title": "skglm: Improving scikit-learn for Regularized Generalized Linear Models",
+   "authors": [
+    "Mathurin Massias",
+    "Badr MOUFAD",
+    "Quentin Bertrand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=czl8GGN6Ar",
+   "pdf_url": "https://openreview.net/pdf?id=czl8GGN6Ar"
+  },
+  {
+   "title": "Spatial Reasoners for Continuous Variables in Any Domain",
+   "authors": [
+    "Bart Pogodzinski",
+    "Christopher Wewer",
+    "Bernt Schiele",
+    "Jan Eric Lenssen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=89GglVwjuK",
+   "pdf_url": "https://openreview.net/pdf?id=89GglVwjuK"
+  },
+  {
+   "title": "Swizz: One-Liner Figures, LaTeX Tables, and Flexible Layouts for Scientific Papers",
+   "authors": [
+    "Lars C.P.M. Quaedvlieg",
+    "Andrea Miele",
+    "Caglar Gulcehre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lH63vSf7CC",
+   "pdf_url": "https://openreview.net/pdf?id=lH63vSf7CC"
+  },
+  {
+   "title": "TGM: A Modular Framework for Machine Learning on Temporal Graphs",
+   "authors": [
+    "Jacob Chmura",
+    "Shenyang Huang",
+    "Ali Parviz",
+    "Farimah Poursafaei",
+    "Michael M. Bronstein",
+    "Guillaume Rabusseau",
+    "Matthias Fey",
+    "Reihaneh Rabbany"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Bzm7GrP4d",
+   "pdf_url": "https://openreview.net/pdf?id=7Bzm7GrP4d"
+  },
+  {
+   "title": "TorchAO: PyTorch-Native Training-to-Serving Model Optimization",
+   "authors": [
+    "Andrew Or",
+    "Apurva Jain",
+    "Daniel Vega-Myhre",
+    "Jesse Cai",
+    "Charles David Hernandez",
+    "Zhenrui Zhang",
+    "Driss Guessous",
+    "Vasiliy Kuznetsov",
+    "Christian Puhrsch",
+    "Mark Saroufim",
+    "Supriya Rao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HpqH0JakHf",
+   "pdf_url": "https://openreview.net/pdf?id=HpqH0JakHf"
+  },
+  {
+   "title": "TorchTitan: A PyTorch Native Platform for Training Generative AI Models",
+   "authors": [
+    "Tianyu Liu",
+    "Wanchao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WuQtmIkiUL",
+   "pdf_url": "https://openreview.net/pdf?id=WuQtmIkiUL"
+  },
+  {
+   "title": "Vulnerability of Text-Matching in ML/AI Conference Reviewer Assignments to Collusions",
+   "authors": [
+    "Jhih-Yi Hsieh",
+    "Aditi Raghunathan",
+    "Nihar B Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=08xrqPOKji",
+   "pdf_url": "https://openreview.net/pdf?id=08xrqPOKji"
+  },
+  {
+   "title": "Write Code that People Want to Use",
+   "authors": [
+    "Stella Biderman",
+    "Jennifer Mickel",
+    "Baber Abbasi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oH0XhgzJt0",
+   "pdf_url": "https://openreview.net/pdf?id=oH0XhgzJt0"
+  },
+  {
+   "title": "ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification",
+   "authors": [
+    "Bidhan Roy",
+    "Peter Potash",
+    "Marcos Villagra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tSZiOuaiOX",
+   "pdf_url": "https://openreview.net/pdf?id=tSZiOuaiOX"
+  }
+ ]
+}

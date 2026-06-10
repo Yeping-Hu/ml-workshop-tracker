@@ -1,0 +1,467 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/LanGame",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:41.693Z",
+ "paper_count": 39,
+ "papers": [
+  {
+   "title": "AidanBench: Evaluating Novel Idea Generation on Open-Ended Questions",
+   "authors": [
+    "Aidan McLaughlin",
+    "Anuja Uppuluri",
+    "James Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fz969ahcvJ",
+   "pdf_url": "https://openreview.net/pdf?id=fz969ahcvJ"
+  },
+  {
+   "title": "Automated Design of Agentic Systems",
+   "authors": [
+    "Shengran Hu",
+    "Cong Lu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y15VNMYaoC",
+   "pdf_url": "https://openreview.net/pdf?id=Y15VNMYaoC"
+  },
+  {
+   "title": "Beyond Benchmarking: Automated Capability Discovery via Model Self-Exploration",
+   "authors": [
+    "Cong Lu",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nhgbvyrvTP",
+   "pdf_url": "https://openreview.net/pdf?id=nhgbvyrvTP"
+  },
+  {
+   "title": "Boundless Socratic Learning with Language Games",
+   "authors": [
+    "Tom Schaul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6U4pQf3tlL",
+   "pdf_url": "https://openreview.net/pdf?id=6U4pQf3tlL"
+  },
+  {
+   "title": "Communication via Shared Memory Improves Multi-agent Pathfinding",
+   "authors": [
+    "Alsu Sagirova",
+    "Yuri Kuratov",
+    "Mikhail Burtsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y2MOF8jsfD",
+   "pdf_url": "https://openreview.net/pdf?id=y2MOF8jsfD"
+  },
+  {
+   "title": "CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing",
+   "authors": [
+    "Chen Yang",
+    "Chenyang Zhao",
+    "Quanquan Gu",
+    "Dongruo Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8DLW1saLEY",
+   "pdf_url": "https://openreview.net/pdf?id=8DLW1saLEY"
+  },
+  {
+   "title": "Creativity Has Entered the Chat, With a Stranger: Novelty is a Nash Equilibrium",
+   "authors": [
+    "Kotaro Sakamoto",
+    "Shiro Takagi",
+    "Shuhei Ogawa",
+    "Yutaka Matsuo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a9Q6VIi4zQ",
+   "pdf_url": "https://openreview.net/pdf?id=a9Q6VIi4zQ"
+  },
+  {
+   "title": "Dynamic Planning with a LLM",
+   "authors": [
+    "Gautier Dagan",
+    "Frank Keller",
+    "Alex Lascarides"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ewx2RFiEYR",
+   "pdf_url": "https://openreview.net/pdf?id=ewx2RFiEYR"
+  },
+  {
+   "title": "Economics Arena for Large Language Models",
+   "authors": [
+    "Shangmin Guo",
+    "Haochuan Wang",
+    "Haoran Bu",
+    "Yi Ren",
+    "Dianbo Sui",
+    "Yu-Ming Shang",
+    "Siting Estee Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n6Y5b1MCBV",
+   "pdf_url": "https://openreview.net/pdf?id=n6Y5b1MCBV"
+  },
+  {
+   "title": "Efficacy of Language Model Self-Play in Non-Zero-Sum Games",
+   "authors": [
+    "Austen Liao",
+    "Nicholas Tomlin",
+    "Dan Klein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lK93maUXif",
+   "pdf_url": "https://openreview.net/pdf?id=lK93maUXif"
+  },
+  {
+   "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams",
+   "authors": [
+    "Xudong Guo",
+    "Kaixuan Huang",
+    "Jiale Liu",
+    "Wenhui Fan",
+    "Natalia Vélez",
+    "Qingyun Wu",
+    "Huazheng Wang",
+    "Thomas L. Griffiths",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VKlrzygQlT",
+   "pdf_url": "https://openreview.net/pdf?id=VKlrzygQlT"
+  },
+  {
+   "title": "Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation",
+   "authors": [
+    "Quanting Xie",
+    "So Yeon Min",
+    "Tianyi Zhang",
+    "Kedi Xu",
+    "Aarav Bajaj",
+    "Russ Salakhutdinov",
+    "Matthew Johnson-Roberson",
+    "Yonatan Bisk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U8p8zpK3jL",
+   "pdf_url": "https://openreview.net/pdf?id=U8p8zpK3jL"
+  },
+  {
+   "title": "Estimating Effects of Tokens in Preference Learning",
+   "authors": [
+    "Hsiao-Ru Pan",
+    "Maximilian Mordig",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZgLkcF6RY",
+   "pdf_url": "https://openreview.net/pdf?id=EZgLkcF6RY"
+  },
+  {
+   "title": "Evaluating the role of ‘Constitutions’ for learning from AI feedback",
+   "authors": [
+    "Saskia Redgate",
+    "Andrew Michael Bean",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pf3ow4YbFl",
+   "pdf_url": "https://openreview.net/pdf?id=Pf3ow4YbFl"
+  },
+  {
+   "title": "Evolving Alignment via Asymmetric Self-Play",
+   "authors": [
+    "Ziyu Ye",
+    "Rishabh Agarwal",
+    "Tianqi Liu",
+    "Rishabh Joshi",
+    "Sarmishta Velury",
+    "Quoc V Le",
+    "Qijun Tan",
+    "Yuan Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hdn9wGvi88",
+   "pdf_url": "https://openreview.net/pdf?id=Hdn9wGvi88"
+  },
+  {
+   "title": "GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents",
+   "authors": [
+    "Anthony Costarelli",
+    "Mat Allen",
+    "Roman Hauksson",
+    "Grace Sodunke",
+    "Suhas Hariharan",
+    "Carlson Cheng",
+    "Wenjie Li",
+    "Joshua M Clymer",
+    "Arjun Yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qrzKE533Jr",
+   "pdf_url": "https://openreview.net/pdf?id=qrzKE533Jr"
+  },
+  {
+   "title": "Games as Ontology Engines: AI and LLMs Invoke Spatiotemporal and Metaphysical Realities in Virtual Worlds",
+   "authors": [
+    "Jasmine Roberts",
+    "Andrzej Banburski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GG0sawM1eZ",
+   "pdf_url": "https://openreview.net/pdf?id=GG0sawM1eZ"
+  },
+  {
+   "title": "Improving Branching Language via Self-Reflection",
+   "authors": [
+    "Kolby Nottingham",
+    "Ruo-Ping Dong",
+    "Ben Kasper",
+    "Wesley N. Kerr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gOhuEful1B",
+   "pdf_url": "https://openreview.net/pdf?id=gOhuEful1B"
+  },
+  {
+   "title": "LlaMa meets Cheburashka: impact of cultural background for LLM quiz reasoning",
+   "authors": [
+    "Mikhail Lifar",
+    "Bogdan Protsenko",
+    "Daniil Kupriianenko",
+    "Nazar Chubkov",
+    "Kulaev Kirill Dmitrievich",
+    "Alexander Guda",
+    "Irina Piontkovskaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xCAzTXumhh",
+   "pdf_url": "https://openreview.net/pdf?id=xCAzTXumhh"
+  },
+  {
+   "title": "Mimicking Human Emotions: Persona-Driven Behavior of LLMs in the ‘Buy and Sell’ Negotiation Game",
+   "authors": [
+    "mingyu jeon",
+    "Jae Young Suh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j7RkeNqSDo",
+   "pdf_url": "https://openreview.net/pdf?id=j7RkeNqSDo"
+  },
+  {
+   "title": "Multi-Step Preference Optimization via Two-Player Markov Games",
+   "authors": [
+    "Yongtao Wu",
+    "Luca Viano",
+    "Yihang Chen",
+    "Zhenyu Zhu",
+    "Quanquan Gu",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q8Ee3yrwC6",
+   "pdf_url": "https://openreview.net/pdf?id=Q8Ee3yrwC6"
+  },
+  {
+   "title": "On Reward Functions For Self-Improving Chain-of-Thought Reasoning Without Supervised Datasets (Abridged Version)",
+   "authors": [
+    "Thomas Foster",
+    "Eltayeb Ahmed",
+    "Jonathan Cook",
+    "Shalev Lifshitz",
+    "Tim Rocktäschel",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BqFRvtO8g4",
+   "pdf_url": "https://openreview.net/pdf?id=BqFRvtO8g4"
+  },
+  {
+   "title": "OnThePlanning Abilities of OpenAI’s o1 Models:  Feasibility, Optimality, and Generalizability",
+   "authors": [
+    "Kevin Wang",
+    "Junbo Li",
+    "Neel P. Bhatt",
+    "Yihan Xi",
+    "qiang liu",
+    "ufuk topcu",
+    "Zhangyang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qgvQx30Z0R",
+   "pdf_url": "https://openreview.net/pdf?id=qgvQx30Z0R"
+  },
+  {
+   "title": "PACE: Procedural Abstractions for Communicating Efficiently",
+   "authors": [
+    "Jonathan David Thomas",
+    "Andrea Silvi",
+    "Devdatt Dubhashi",
+    "Vikas Garg",
+    "Moa Johansson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cfVwVEn98d",
+   "pdf_url": "https://openreview.net/pdf?id=cfVwVEn98d"
+  },
+  {
+   "title": "PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making",
+   "authors": [
+    "Jonathan Light",
+    "Sixue Xing",
+    "Yuanzhe Liu",
+    "Weiqin Chen",
+    "Min Cai",
+    "Xiusi Chen",
+    "Guanzhi Wang",
+    "Wei Cheng",
+    "Yisong Yue",
+    "Ziniu Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h1CNolYZnk",
+   "pdf_url": "https://openreview.net/pdf?id=h1CNolYZnk"
+  },
+  {
+   "title": "PokéChamp: an Expert-level Minimax Language Agent for Competitive Pokémon",
+   "authors": [
+    "Seth Karten",
+    "Andy Luu Nguyen",
+    "Chi Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jWodMf0OvO",
+   "pdf_url": "https://openreview.net/pdf?id=jWodMf0OvO"
+  },
+  {
+   "title": "Positive Experience Reflection for Agents in Interactive Text Environments",
+   "authors": [
+    "Philip Lippmann",
+    "Matthijs T. J. Spaan",
+    "Jie Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YwqlQubiiv",
+   "pdf_url": "https://openreview.net/pdf?id=YwqlQubiiv"
+  },
+  {
+   "title": "Reinterpreting Signaling and Referential Games as Generative Models",
+   "authors": [
+    "Ryo Ueda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6dzojDiJpc",
+   "pdf_url": "https://openreview.net/pdf?id=6dzojDiJpc"
+  },
+  {
+   "title": "Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?",
+   "authors": [
+    "Wenzhe Li",
+    "Yong Lin",
+    "Mengzhou Xia",
+    "Chi Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rMfhBWRT6C",
+   "pdf_url": "https://openreview.net/pdf?id=rMfhBWRT6C"
+  },
+  {
+   "title": "S2L-RM: Short-to-Long Reward Modeling",
+   "authors": [
+    "Changyu Chen",
+    "Zichen Liu",
+    "Haonan Wang",
+    "Chao Du",
+    "Tianyu Pang",
+    "Qian Liu",
+    "Arunesh Sinha",
+    "Pradeep Varakantham",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QJDCdwLDlG",
+   "pdf_url": "https://openreview.net/pdf?id=QJDCdwLDlG"
+  },
+  {
+   "title": "Sample-Efficient Alignment for LLMs",
+   "authors": [
+    "Zichen Liu",
+    "Changyu Chen",
+    "Chao Du",
+    "Wee Sun Lee",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Kcvz310CX",
+   "pdf_url": "https://openreview.net/pdf?id=6Kcvz310CX"
+  },
+  {
+   "title": "SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search",
+   "authors": [
+    "Hanwen Du",
+    "Bo Peng",
+    "Xia Ning"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0D1d6YoWD1",
+   "pdf_url": "https://openreview.net/pdf?id=0D1d6YoWD1"
+  },
+  {
+   "title": "Sharing Minds during MARL Training for Enhanced Cooperative LLM Agents",
+   "authors": [
+    "Jiaxuan Gao",
+    "Yule Wen",
+    "Chao Yu",
+    "Yi Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PvQj49LzJW",
+   "pdf_url": "https://openreview.net/pdf?id=PvQj49LzJW"
+  },
+  {
+   "title": "Situated Instruction Following Under Ambiguous Human Intent",
+   "authors": [
+    "So Yeon Min",
+    "Xavier Puig",
+    "Devendra Singh Chaplot",
+    "Tsung-Yen Yang",
+    "Akshara Rai",
+    "Priyam Parashar",
+    "Russ Salakhutdinov",
+    "Yonatan Bisk",
+    "Roozbeh Mottaghi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=29OCM7oAC3",
+   "pdf_url": "https://openreview.net/pdf?id=29OCM7oAC3"
+  },
+  {
+   "title": "Strategic Collusion of LLM Agents: Market Division in Multi-Commodity Competitions",
+   "authors": [
+    "Ryan Y. Lin",
+    "Siddhartha Ojha",
+    "Kevin Cai",
+    "Maxwell Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X9vAImw5Yj",
+   "pdf_url": "https://openreview.net/pdf?id=X9vAImw5Yj"
+  },
+  {
+   "title": "Strategic Interactions between Large Language Models-based Agents in Beauty Contests",
+   "authors": [
+    "Siting Estee Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GngUcTLiEm",
+   "pdf_url": "https://openreview.net/pdf?id=GngUcTLiEm"
+  },
+  {
+   "title": "Stutter Makes Smarter: Learning Self-Improvement for Large Language Models",
+   "authors": [
+    "Pei-Chen Ho",
+    "Meng-Hsi Chen",
+    "Alberto Bernacchia",
+    "Philipp Ennen",
+    "Yen-Chen Wu",
+    "Da-shan Shiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=emnp5v4gPp",
+   "pdf_url": "https://openreview.net/pdf?id=emnp5v4gPp"
+  },
+  {
+   "title": "TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation",
+   "authors": [
+    "Jonathan Cook",
+    "Tim Rocktäschel",
+    "Jakob Nicolaus Foerster",
+    "Dennis Aumiller",
+    "Alex Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q3y6QhOUnI",
+   "pdf_url": "https://openreview.net/pdf?id=Q3y6QhOUnI"
+  },
+  {
+   "title": "What Makes Your Model a Low-empathy or Warmth Person: Exploring the Oringins of Personality in LLMs",
+   "authors": [
+    "Shu Yang",
+    "Shenzhe Zhu",
+    "Liang Liu",
+    "Mengdi Li",
+    "Lijie Hu",
+    "Di Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yTPbrLyOgd",
+   "pdf_url": "https://openreview.net/pdf?id=yTPbrLyOgd"
+  }
+ ]
+}

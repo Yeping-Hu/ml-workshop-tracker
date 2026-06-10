@@ -1,0 +1,2080 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/MechInterp",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:01.733Z",
+ "paper_count": 187,
+ "papers": [
+  {
+   "title": "Activation Steering in Generative Settings via Contrastive Causal Mediation Analysis",
+   "authors": [
+    "Aruna Sankaranarayanan",
+    "Amir Zur",
+    "Atticus Geiger",
+    "Dylan Hadfield-Menell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bUXa74EiOL",
+   "pdf_url": "https://openreview.net/pdf?id=bUXa74EiOL"
+  },
+  {
+   "title": "Activation Transport Operators",
+   "authors": [
+    "Andrzej Szablewski",
+    "Marek Masiak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLg5P5m4E1",
+   "pdf_url": "https://openreview.net/pdf?id=CLg5P5m4E1"
+  },
+  {
+   "title": "Adaptive Task Vectors for Large Language Models",
+   "authors": [
+    "Joonseong Kang",
+    "Soojeong Lee",
+    "Sumin Park",
+    "Subeen Park",
+    "Taero Kim",
+    "Jihee Kim",
+    "Ryunyi LEE",
+    "Kyungwoo Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HaAW356Htr",
+   "pdf_url": "https://openreview.net/pdf?id=HaAW356Htr"
+  },
+  {
+   "title": "Adversarial Attacks Leverage Interference Between Features in Superposition",
+   "authors": [
+    "Edward Stevinson",
+    "Lucas Prieto",
+    "Melih Barsbey",
+    "Tolga Birdal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LqI52GG2Ss",
+   "pdf_url": "https://openreview.net/pdf?id=LqI52GG2Ss"
+  },
+  {
+   "title": "Adversarial Examples Are Not Bugs, They Are Superposition",
+   "authors": [
+    "Liv Gorton",
+    "Owen Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z0YTS0FExr",
+   "pdf_url": "https://openreview.net/pdf?id=z0YTS0FExr"
+  },
+  {
+   "title": "Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory",
+   "authors": [
+    "Usman Anwar",
+    "Tim Bakker",
+    "Dana Kianfar",
+    "Cristina Pinneri",
+    "Christos Louizos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3YJ3JAI8Sz",
+   "pdf_url": "https://openreview.net/pdf?id=3YJ3JAI8Sz"
+  },
+  {
+   "title": "Angular Steering: Behavior Control via Rotation in Activation Space",
+   "authors": [
+    "Hieu M. Vu",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pOd2gYt5lc",
+   "pdf_url": "https://openreview.net/pdf?id=pOd2gYt5lc"
+  },
+  {
+   "title": "Attention Layers Add Into Low-Dimensional Residual Subspaces",
+   "authors": [
+    "Junxuan Wang",
+    "Xuyang Ge",
+    "Wentao Shu",
+    "Zhengfu He",
+    "Xipeng Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0hn0WJAzkc",
+   "pdf_url": "https://openreview.net/pdf?id=0hn0WJAzkc"
+  },
+  {
+   "title": "Attention Pattern Discovery at Scale",
+   "authors": [
+    "Jonathan Katzy",
+    "Razvan Mihai Popescu",
+    "Erik Mekkes",
+    "Arie van Deursen",
+    "Maliheh Izadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=foz36TBALK",
+   "pdf_url": "https://openreview.net/pdf?id=foz36TBALK"
+  },
+  {
+   "title": "Attributing Response to Context: A Jensen–Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation",
+   "authors": [
+    "Ruizhe Li",
+    "Chen Chen",
+    "Yuchen Hu",
+    "Yanjun Gao",
+    "Xi Wang",
+    "Emine Yilmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UyXjYlJij3",
+   "pdf_url": "https://openreview.net/pdf?id=UyXjYlJij3"
+  },
+  {
+   "title": "Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent",
+   "authors": [
+    "Christy Li",
+    "Josep Lopez Camuñas",
+    "Jake Thomas Touchet",
+    "Jacob Andreas",
+    "Agata Lapedriza",
+    "Antonio Torralba",
+    "Tamar Rott Shaham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aHoWcBakU3",
+   "pdf_url": "https://openreview.net/pdf?id=aHoWcBakU3"
+  },
+  {
+   "title": "Automatically Finding Rule-Based Neurons in OthelloGPT",
+   "authors": [
+    "Aditya Singh",
+    "Zihang Wen",
+    "Srujananjali Medicherla",
+    "Adam Karvonen",
+    "Can Rager"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GRzC65IqoO",
+   "pdf_url": "https://openreview.net/pdf?id=GRzC65IqoO"
+  },
+  {
+   "title": "Base Models Know How to Reason, Thinking Models Learn When",
+   "authors": [
+    "Constantin Venhoff",
+    "Iván Arcuschin",
+    "Philip Torr",
+    "Arthur Conmy",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=12Tc0R0I8j",
+   "pdf_url": "https://openreview.net/pdf?id=12Tc0R0I8j"
+  },
+  {
+   "title": "Better Hessians Matter: Studying the Impact of Curvature Approximations in Influence Functions",
+   "authors": [
+    "Dat Minh Hong",
+    "Bruno Kacper Mlodozeniec",
+    "Runa Eschenhagen",
+    "Richard E. Turner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=383i8264it",
+   "pdf_url": "https://openreview.net/pdf?id=383i8264it"
+  },
+  {
+   "title": "Better World Models Can Lead to Better Post-Training Performance",
+   "authors": [
+    "Prakhar Gupta",
+    "Henry Conklin",
+    "Sarah-Jane Leslie",
+    "Andrew Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ldMcQn7Z2Q",
+   "pdf_url": "https://openreview.net/pdf?id=ldMcQn7Z2Q"
+  },
+  {
+   "title": "Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality",
+   "authors": [
+    "Lingjing Kong",
+    "Shaoan Xie",
+    "Guangyi Chen",
+    "Yuewen Sun",
+    "Xiangchen Song",
+    "Eric P. Xing",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q9xtHbtLHq",
+   "pdf_url": "https://openreview.net/pdf?id=q9xtHbtLHq"
+  },
+  {
+   "title": "Beyond the Final Layer: Intermediate Representations for Better Multilingual Calibration in Large Language Models",
+   "authors": [
+    "Ej Zhou",
+    "Caiqi Zhang",
+    "Tiancheng Hu",
+    "Chengzu Li",
+    "Nigel Collier",
+    "Ivan Vulić",
+    "Anna Korhonen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=njDdcLInXP",
+   "pdf_url": "https://openreview.net/pdf?id=njDdcLInXP"
+  },
+  {
+   "title": "Bilinear Convolution Decomposition for Causal RL Interpretability",
+   "authors": [
+    "Sinem Erisken",
+    "Alice Rigg",
+    "Narmeen Fatimah Oozeer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xtzMRyh0es",
+   "pdf_url": "https://openreview.net/pdf?id=xtzMRyh0es"
+  },
+  {
+   "title": "Bimodality of Sparse Autoencoder Features is Still There and Can Be Fixed",
+   "authors": [
+    "Michał Brzozowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DbXKjT00yK",
+   "pdf_url": "https://openreview.net/pdf?id=DbXKjT00yK"
+  },
+  {
+   "title": "Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators",
+   "authors": [
+    "Dani Roytburg",
+    "Matthew Nguyen",
+    "Matthew Bozoukov",
+    "Jou Barzdukas",
+    "Hongyu Fu",
+    "Narmeen Fatimah Oozeer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HDxJwnzVom",
+   "pdf_url": "https://openreview.net/pdf?id=HDxJwnzVom"
+  },
+  {
+   "title": "Can Interpretation Predict Behavior on Unseen Data?",
+   "authors": [
+    "Victoria R Li",
+    "Jenny Kaufmann",
+    "Martin Wattenberg",
+    "David Alvarez-Melis",
+    "Naomi Saphra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fzw0FT8Clf",
+   "pdf_url": "https://openreview.net/pdf?id=fzw0FT8Clf"
+  },
+  {
+   "title": "Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework",
+   "authors": [
+    "Laura Kopf",
+    "Nils Feldhus",
+    "Kirill Bykov",
+    "Philine Lou Bommer",
+    "Anna Hedström",
+    "Marina MC Höhne",
+    "Oliver Eberle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=svywqosucP",
+   "pdf_url": "https://openreview.net/pdf?id=svywqosucP"
+  },
+  {
+   "title": "Causal Discovery and Inference through Next-Token Prediction",
+   "authors": [
+    "Eivinas Butkus",
+    "Nikolaus Kriegeskorte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tHr0vFbS3K",
+   "pdf_url": "https://openreview.net/pdf?id=tHr0vFbS3K"
+  },
+  {
+   "title": "Centroid Affinity: How Deep Networks Represent Features",
+   "authors": [
+    "Thomas Walker",
+    "Ahmed Imtiaz Humayun",
+    "Randall Balestriero",
+    "Richard Baraniuk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLrq72YHgd",
+   "pdf_url": "https://openreview.net/pdf?id=CLrq72YHgd"
+  },
+  {
+   "title": "Circuit-Tracer: A New Library for Finding Feature Circuits",
+   "authors": [
+    "Michael Hanna",
+    "Mateusz Piotrowski",
+    "Jack Lindsey",
+    "Emmanuel Ameisen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MqQkMtS6ry",
+   "pdf_url": "https://openreview.net/pdf?id=MqQkMtS6ry"
+  },
+  {
+   "title": "Comparing Clinical and General LLMs on Knowledge Boundaries and Robustness",
+   "authors": [
+    "Xingmeng Zhao",
+    "Ke Yang",
+    "Anthony Rios"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6TIxFMoA4k",
+   "pdf_url": "https://openreview.net/pdf?id=6TIxFMoA4k"
+  },
+  {
+   "title": "Composable Sparse Subnetworks via Maximum-Entropy Principle",
+   "authors": [
+    "Francesco Caso",
+    "Samuele Fonio",
+    "Nicola Saccomanno",
+    "Simone Monaco",
+    "Fabrizio Silvestri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z0j9NJt08I",
+   "pdf_url": "https://openreview.net/pdf?id=Z0j9NJt08I"
+  },
+  {
+   "title": "Compressed Computation is (probably) not Computation in Superposition",
+   "authors": [
+    "Jai Bhagat",
+    "Sara Molas-Medina",
+    "Giorgi Giglemiani",
+    "Stefan Heimersheim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iVeOIeHDP1",
+   "pdf_url": "https://openreview.net/pdf?id=iVeOIeHDP1"
+  },
+  {
+   "title": "Compressed Computation: Dense Circuits in a Toy Model of the Universal-AND Problem",
+   "authors": [
+    "Adam Newgas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J3Kds2Rxov",
+   "pdf_url": "https://openreview.net/pdf?id=J3Kds2Rxov"
+  },
+  {
+   "title": "Context Matters: Analyzing the Generalizability of Linear Probing and Steering Across Diverse Scenarios",
+   "authors": [
+    "Isha Agarwal",
+    "Saharsha Navani",
+    "Fazl Barez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H5sbfvEbTh",
+   "pdf_url": "https://openreview.net/pdf?id=H5sbfvEbTh"
+  },
+  {
+   "title": "ContextBench: Modifying Contexts for Targeted Latent Activation and Behaviour Elicitation",
+   "authors": [
+    "Robert Graham",
+    "Edward Stevinson",
+    "Leo Richter",
+    "Alexander Chia",
+    "Joseph Miller",
+    "Joseph Isaac Bloom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iALSnbPLCu",
+   "pdf_url": "https://openreview.net/pdf?id=iALSnbPLCu"
+  },
+  {
+   "title": "Control and Predictivity in Neural Interpretability",
+   "authors": [
+    "Satchel Grant",
+    "Alexa R. Tartaglini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1aZeCatGfy",
+   "pdf_url": "https://openreview.net/pdf?id=1aZeCatGfy"
+  },
+  {
+   "title": "Controlling Vision–Language–Action Policies through Sparse Latent Directions",
+   "authors": [
+    "Momin Ahmad Khan",
+    "Novak Boskov",
+    "Fatima M. Anwar",
+    "Manzoor A. Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wtf3ww1EOL",
+   "pdf_url": "https://openreview.net/pdf?id=wtf3ww1EOL"
+  },
+  {
+   "title": "Convergent Linear Representations of Emergent Misalignment",
+   "authors": [
+    "Anna Soligo",
+    "Edward Turner",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kx7gBNqQdk",
+   "pdf_url": "https://openreview.net/pdf?id=kx7gBNqQdk"
+  },
+  {
+   "title": "Correlations in the Data Lead to Semantically Rich Feature Geometry Under Superposition",
+   "authors": [
+    "Lucas Prieto",
+    "Edward Stevinson",
+    "Melih Barsbey",
+    "Tolga Birdal",
+    "Pedro A. M. Mediano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dGHlIOcQtX",
+   "pdf_url": "https://openreview.net/pdf?id=dGHlIOcQtX"
+  },
+  {
+   "title": "Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Trenton Bricken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZB84SvrZB8",
+   "pdf_url": "https://openreview.net/pdf?id=ZB84SvrZB8"
+  },
+  {
+   "title": "Death by a Thousand Directions: Exploring the Geometry of Harmfulness in LLMs through Subconcept Probing",
+   "authors": [
+    "McNair Shah",
+    "Saleena Angeline Sartawita",
+    "Adhitya Rajendra Kumar",
+    "Naitik Chheda",
+    "Will Cai",
+    "Kevin Zhu",
+    "Sean O'Brien",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=58rOfNRSt9",
+   "pdf_url": "https://openreview.net/pdf?id=58rOfNRSt9"
+  },
+  {
+   "title": "Decomposing Attention To Find Context-Sensitive Neurons",
+   "authors": [
+    "Alex Gibson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OIcNvCOpoB",
+   "pdf_url": "https://openreview.net/pdf?id=OIcNvCOpoB"
+  },
+  {
+   "title": "Decomposing Representation Space into Interpretable Subspaces with Unsupervised Learning",
+   "authors": [
+    "Xinting Huang",
+    "Michael Hahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0rUzzeDwH2",
+   "pdf_url": "https://openreview.net/pdf?id=0rUzzeDwH2"
+  },
+  {
+   "title": "Decomposition of Small Transformer Models",
+   "authors": [
+    "Casper L. Christensen",
+    "Logan Riggs Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jb7OQ3GwU2",
+   "pdf_url": "https://openreview.net/pdf?id=Jb7OQ3GwU2"
+  },
+  {
+   "title": "Demystifying Cipher-Following in Large Language Models via Activation Analysis",
+   "authors": [
+    "Megan Gross",
+    "Yigitcan Kaya",
+    "Christopher Kruegel",
+    "Giovanni Vigna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UUOia1o3ud",
+   "pdf_url": "https://openreview.net/pdf?id=UUOia1o3ud"
+  },
+  {
+   "title": "Dense SAE Latents Are Features, Not Bugs",
+   "authors": [
+    "Xiaoqing Sun",
+    "Alessandro Stolfo",
+    "Joshua Engels",
+    "Ben Peng Wu",
+    "Senthooran Rajamanoharan",
+    "Mrinmaya Sachan",
+    "Max Tegmark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R65Ez0Uo8h",
+   "pdf_url": "https://openreview.net/pdf?id=R65Ez0Uo8h"
+  },
+  {
+   "title": "Detecting and Characterizing Planning in Language Models",
+   "authors": [
+    "Jatin Nainani",
+    "Sankaran Vaidyanathan",
+    "Connor Watts",
+    "Andre N. Assis",
+    "Alice Rigg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZBX3EDqidd",
+   "pdf_url": "https://openreview.net/pdf?id=ZBX3EDqidd"
+  },
+  {
+   "title": "Detecting Motivated Reasoning in the Internal Representations of Language Models",
+   "authors": [
+    "Parsa Mirtaheri",
+    "Mikhail Belkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NFiV0yVlBM",
+   "pdf_url": "https://openreview.net/pdf?id=NFiV0yVlBM"
+  },
+  {
+   "title": "Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework",
+   "authors": [
+    "Hao Gu",
+    "Vibhas Nair",
+    "Amrithaa Ashok Kumar",
+    "Ryan Lagasse",
+    "Kevin Zhu",
+    "Sean O'Brien",
+    "Ashwinee Panda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hhD5MjHtLi",
+   "pdf_url": "https://openreview.net/pdf?id=hhD5MjHtLi"
+  },
+  {
+   "title": "Do Natural Language Descriptions of Model Activations Convey Privileged Information?",
+   "authors": [
+    "Millicent Li",
+    "Alberto Mario Ceballos Arroyo",
+    "Giordano Rogers",
+    "Naomi Saphra",
+    "Byron C Wallace"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zyhibAkzSA",
+   "pdf_url": "https://openreview.net/pdf?id=zyhibAkzSA"
+  },
+  {
+   "title": "Do We Always Need Sampling? Eliciting Numerical Predictive Distributions of LLMs Without Auto-Regression",
+   "authors": [
+    "Julianna Piskorz",
+    "Kasia Kobalczyk",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6PPh2N7LZ2",
+   "pdf_url": "https://openreview.net/pdf?id=6PPh2N7LZ2"
+  },
+  {
+   "title": "Does FLUX Know What It’s Writing?",
+   "authors": [
+    "Adrian Chang",
+    "Sheridan Feucht",
+    "Byron C Wallace",
+    "David Bau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bPV2HTSr57",
+   "pdf_url": "https://openreview.net/pdf?id=bPV2HTSr57"
+  },
+  {
+   "title": "Don't Believe the Belief Hype!",
+   "authors": [
+    "Alessandro Corona Mendozza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mCPn3aqf5U",
+   "pdf_url": "https://openreview.net/pdf?id=mCPn3aqf5U"
+  },
+  {
+   "title": "Dual Mechanisms of Value Expression: Decomposing Intrinsic and Prompted Values in Language Models",
+   "authors": [
+    "Jongwook Han",
+    "Jongwon Lim",
+    "Injin Kong",
+    "Yohan Jo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0fxch5C1nc",
+   "pdf_url": "https://openreview.net/pdf?id=0fxch5C1nc"
+  },
+  {
+   "title": "Dyslexify: A Mechanistic Defense Against Typographic Attacks in CLIP",
+   "authors": [
+    "Lorenz Hufe",
+    "Constantin Venhoff",
+    "Maximilian Dreyer",
+    "Erblina Purelku",
+    "Sebastian Lapuschkin",
+    "Wojciech Samek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HNGEzXwbJw",
+   "pdf_url": "https://openreview.net/pdf?id=HNGEzXwbJw"
+  },
+  {
+   "title": "Eliciting Secret Knowledge from Language Models",
+   "authors": [
+    "Bartosz Cywiński",
+    "Emil Ryd",
+    "Rowan Wang",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda",
+    "Arthur Conmy",
+    "Samuel Marks"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SnghonEMY",
+   "pdf_url": "https://openreview.net/pdf?id=7SnghonEMY"
+  },
+  {
+   "title": "Emergence of Linear Truth Encodings in Language Models",
+   "authors": [
+    "Shauli Ravfogel",
+    "Gilad Yehudai",
+    "Tal Linzen",
+    "Joan Bruna",
+    "Alberto Bietti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KDK99BgmPe",
+   "pdf_url": "https://openreview.net/pdf?id=KDK99BgmPe"
+  },
+  {
+   "title": "Emergent Specialization: Rare Token Neurons in Language Models",
+   "authors": [
+    "Jing Liu",
+    "Yueheng Li",
+    "Haozheng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0WpeebY9Qi",
+   "pdf_url": "https://openreview.net/pdf?id=0WpeebY9Qi"
+  },
+  {
+   "title": "Emergent World Beliefs: Exploring Transformers in Stochastic Games",
+   "authors": [
+    "Adam Kamel",
+    "Tanish Rastogi",
+    "Michael Ma",
+    "Kailash Ranganathan",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mwsrv0MlHG",
+   "pdf_url": "https://openreview.net/pdf?id=Mwsrv0MlHG"
+  },
+  {
+   "title": "Emerging Human-like Strategies for Semantic Memory Foraging in Large Language Models",
+   "authors": [
+    "Eric Lacosse",
+    "Mariana Duarte",
+    "Peter Todd",
+    "Daniel C McNamee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b58m4ihYE2",
+   "pdf_url": "https://openreview.net/pdf?id=b58m4ihYE2"
+  },
+  {
+   "title": "Enforcing Orderedness in SAEs to Improve Feature Consistency",
+   "authors": [
+    "Sophie L. Wang",
+    "Alex Quach",
+    "Nithin Parsan",
+    "John Jingxuan Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Y0BC0ldOQ",
+   "pdf_url": "https://openreview.net/pdf?id=0Y0BC0ldOQ"
+  },
+  {
+   "title": "Entity Multiplexing Through Activation Strength: Understanding goals in A Maze Solving Agent",
+   "authors": [
+    "Benjamin Sturgeon",
+    "Jonathan P. Shock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KwxgxWsjE3",
+   "pdf_url": "https://openreview.net/pdf?id=KwxgxWsjE3"
+  },
+  {
+   "title": "Equivalent Linear Mappings of Large Language Models",
+   "authors": [
+    "James Robert Golden"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j8cnVfE581",
+   "pdf_url": "https://openreview.net/pdf?id=j8cnVfE581"
+  },
+  {
+   "title": "Evaluating Explanatory Evaluations: An Explanatory Virtues Framework for Mechanistic Interpretability",
+   "authors": [
+    "Kola Ayonrinde",
+    "Louis Jaburi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oNRxsfz9p7",
+   "pdf_url": "https://openreview.net/pdf?id=oNRxsfz9p7"
+  },
+  {
+   "title": "Evaluating SAE interpretability without explanations",
+   "authors": [
+    "Gonçalo Paulo",
+    "Nora Belrose"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j99PQIg6U0",
+   "pdf_url": "https://openreview.net/pdf?id=j99PQIg6U0"
+  },
+  {
+   "title": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
+   "authors": [
+    "Ge Yan",
+    "Tuomas Oikarinen",
+    "Tsui-Wei Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AxFsSMRu28",
+   "pdf_url": "https://openreview.net/pdf?id=AxFsSMRu28"
+  },
+  {
+   "title": "False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize",
+   "authors": [
+    "Cheng Wang",
+    "Zeming Wei",
+    "Qin Liu",
+    "Wenxuan Zhou",
+    "Muhao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zwYzSma4V4",
+   "pdf_url": "https://openreview.net/pdf?id=zwYzSma4V4"
+  },
+  {
+   "title": "Feature Hedging: Correlated Features Break Narrow Sparse Autoencoders",
+   "authors": [
+    "David Chanin",
+    "Tomáš Dulka",
+    "Adrià Garriga-Alonso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wg0TxhOKLg",
+   "pdf_url": "https://openreview.net/pdf?id=wg0TxhOKLg"
+  },
+  {
+   "title": "Feature interactions in sparse crosscoders from compact proofs",
+   "authors": [
+    "Dmitry Manning-Coe",
+    "Thomas Read",
+    "Anna Soligo",
+    "Oliver Clive-Griffin",
+    "Chun Hei Yip",
+    "Alex Gibson",
+    "Rajashree Agrawal",
+    "Jason Gross"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a98SfVkYRk",
+   "pdf_url": "https://openreview.net/pdf?id=a98SfVkYRk"
+  },
+  {
+   "title": "Feature-Guided SAE Steering for Refusal-Rate Control using Contrasting Prompts",
+   "authors": [
+    "Samaksh Bhargav",
+    "Zining Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yz1gZJFRvT",
+   "pdf_url": "https://openreview.net/pdf?id=Yz1gZJFRvT"
+  },
+  {
+   "title": "Finding Manifolds with Bilinear Autoencoders",
+   "authors": [
+    "Thomas Dooms",
+    "Ward Gauderis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ybJXIh4vcF",
+   "pdf_url": "https://openreview.net/pdf?id=ybJXIh4vcF"
+  },
+  {
+   "title": "Fluid Reasoning Representations",
+   "authors": [
+    "Dmitrii Kharlapenko",
+    "Alessandro Stolfo",
+    "Arthur Conmy",
+    "Mrinmaya Sachan",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M0OGOFHf5I",
+   "pdf_url": "https://openreview.net/pdf?id=M0OGOFHf5I"
+  },
+  {
+   "title": "From Black-box to Causal-box: Towards Building More Interpretable Models",
+   "authors": [
+    "Inwoo Hwang",
+    "Yushu Pan",
+    "Elias Bareinboim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BOa1Eqx1Gt",
+   "pdf_url": "https://openreview.net/pdf?id=BOa1Eqx1Gt"
+  },
+  {
+   "title": "From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits",
+   "authors": [
+    "Karim Saraipour",
+    "Shichang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CTAprZMIHl",
+   "pdf_url": "https://openreview.net/pdf?id=CTAprZMIHl"
+  },
+  {
+   "title": "From Local to Contextually-Enriched Local Representations: A Mechanism for Holistic Processing in DINOv2 ViTs",
+   "authors": [
+    "Fenil R. Doshi",
+    "Thomas Fel",
+    "Talia Konkle",
+    "George A. Alvarez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2XA7zVjoej",
+   "pdf_url": "https://openreview.net/pdf?id=2XA7zVjoej"
+  },
+  {
+   "title": "From Narrow Unlearning to Emergent Misalignment: Causes, Consequences, and Containment in LLMs",
+   "authors": [
+    "Erum Mushtaq",
+    "Anil Ramakrishna",
+    "Satyapriya Krishna",
+    "Sattvik Sahai",
+    "Prasoon Goyal",
+    "Kai-Wei Chang",
+    "Tao Zhang",
+    "Rahul Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vJzkNFQpLP",
+   "pdf_url": "https://openreview.net/pdf?id=vJzkNFQpLP"
+  },
+  {
+   "title": "From Tokens to Semantics: The Emergence and Stabilization of Polysemanticity in Language Models",
+   "authors": [
+    "Sharvil Limaye",
+    "Aniruddhan Ramesh",
+    "Aiden Zhou",
+    "Akshay Bhaskar",
+    "Jonas Rohweder",
+    "Ashwinee Panda",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kyx1qoZHcO",
+   "pdf_url": "https://openreview.net/pdf?id=Kyx1qoZHcO"
+  },
+  {
+   "title": "Function Induction and Task Generalization: An Interpretability Study with Off-by-One Addition",
+   "authors": [
+    "Qinyuan Ye",
+    "Robin Jia",
+    "Xiang Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DFlH5r3EQZ",
+   "pdf_url": "https://openreview.net/pdf?id=DFlH5r3EQZ"
+  },
+  {
+   "title": "Group Equivariance Meets Mechanistic Interpretability: Equivariant Sparse Autoencoders",
+   "authors": [
+    "Ege Erdogan",
+    "Ana Lucic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wpzRkAW2Sy",
+   "pdf_url": "https://openreview.net/pdf?id=wpzRkAW2Sy"
+  },
+  {
+   "title": "Hallucination Reduction with CASAL:  Contrastive Activation Steering for Amortized Learning",
+   "authors": [
+    "Wannan Yang",
+    "Xinchi Qiu",
+    "Lei Yu",
+    "Yuchen Zhang",
+    "Aobo Yang",
+    "Narine Kokhlikyan",
+    "Nicola Cancedda",
+    "Diego Garcia-Olano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t7zE9rOWHl",
+   "pdf_url": "https://openreview.net/pdf?id=t7zE9rOWHl"
+  },
+  {
+   "title": "Head Pursuit: Probing Attention Specialization in Multimodal Transformers",
+   "authors": [
+    "Lorenzo Basile",
+    "Valentino Maiorca",
+    "Diego Doimo",
+    "Francesco Locatello",
+    "Alberto Cazzaniga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YuOEXyZ15T",
+   "pdf_url": "https://openreview.net/pdf?id=YuOEXyZ15T"
+  },
+  {
+   "title": "Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task",
+   "authors": [
+    "Brady Bhalla",
+    "Honglu Fan",
+    "Nancy Chen",
+    "Tony Yue YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HieFLf1lJh",
+   "pdf_url": "https://openreview.net/pdf?id=HieFLf1lJh"
+  },
+  {
+   "title": "Higher-Order Component Attribution via Kolmogorov–Arnold Networks",
+   "authors": [
+    "Samy Mammeri",
+    "Christian Gagné"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xzLOhw7LQm",
+   "pdf_url": "https://openreview.net/pdf?id=xzLOhw7LQm"
+  },
+  {
+   "title": "How does Mamba Perform Associative Recall? A Mechanistic Study",
+   "authors": [
+    "Grégoire LE CORRE",
+    "Ningyuan Huang",
+    "Alberto Bietti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ur17K8zXcB",
+   "pdf_url": "https://openreview.net/pdf?id=ur17K8zXcB"
+  },
+  {
+   "title": "Instruction Following by Boosting Attention of Large Language Models",
+   "authors": [
+    "Vitoria Guardieiro",
+    "Avishree Khare",
+    "Adam Stein",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xDyJVMnab8",
+   "pdf_url": "https://openreview.net/pdf?id=xDyJVMnab8"
+  },
+  {
+   "title": "InterpDetect: Interpretable Signals for Detecting Hallucinations in Retrieval-Augmented Generation",
+   "authors": [
+    "Likun Tan",
+    "Kuan-Wei Huang",
+    "Joy Shi",
+    "Kevin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZzBKwHLwF",
+   "pdf_url": "https://openreview.net/pdf?id=TZzBKwHLwF"
+  },
+  {
+   "title": "Interpretability at the Network Level: Prior-Guided Drift Diffusion for Neural Circuit Analysis",
+   "authors": [
+    "Tahereh Toosi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vL28JhJDEM",
+   "pdf_url": "https://openreview.net/pdf?id=vL28JhJDEM"
+  },
+  {
+   "title": "Interpretability for Time Series Transformers using A Concept Bottleneck Framework",
+   "authors": [
+    "Angela van Sprang",
+    "Erman Acar",
+    "Willem Zuidema"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6IYJgYc6Ie",
+   "pdf_url": "https://openreview.net/pdf?id=6IYJgYc6Ie"
+  },
+  {
+   "title": "Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit",
+   "authors": [
+    "Nicholas Jiang",
+    "Xiaoqing Sun",
+    "Lisa Dunlap",
+    "Lewis Smith",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mqJbhBMFm5",
+   "pdf_url": "https://openreview.net/pdf?id=mqJbhBMFm5"
+  },
+  {
+   "title": "Interpreting Attention Heads for Image-to-Text Information Flow in Large Vision–Language Models",
+   "authors": [
+    "Jinyeong Kim",
+    "Seil Kang",
+    "Jiwoo Park",
+    "Junhyeok Kim",
+    "Seong Jae Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vNnaKujGEw",
+   "pdf_url": "https://openreview.net/pdf?id=vNnaKujGEw"
+  },
+  {
+   "title": "Interpreting ResNet-based CLIP via Neuron-Attention Decomposition",
+   "authors": [
+    "Edmund Bu",
+    "Yossi Gandelsman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lW2DUGhDwH",
+   "pdf_url": "https://openreview.net/pdf?id=lW2DUGhDwH"
+  },
+  {
+   "title": "Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction",
+   "authors": [
+    "Clement Neo",
+    "Yongsen Zheng",
+    "Kwok-Yan Lam",
+    "Luke Ong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x9OafoIMhT",
+   "pdf_url": "https://openreview.net/pdf?id=x9OafoIMhT"
+  },
+  {
+   "title": "Iterative Inference in a Chess-Playing Neural Network",
+   "authors": [
+    "Elias Sandmann",
+    "Sebastian Lapuschkin",
+    "Wojciech Samek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nRPQhySXJP",
+   "pdf_url": "https://openreview.net/pdf?id=nRPQhySXJP"
+  },
+  {
+   "title": "Just-in-time and distributed task representations in language models",
+   "authors": [
+    "Yuxuan Li",
+    "Declan Iain Campbell",
+    "Stephanie C.Y. Chan",
+    "Andrew Kyle Lampinen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KC13tBPbQg",
+   "pdf_url": "https://openreview.net/pdf?id=KC13tBPbQg"
+  },
+  {
+   "title": "Language Models use Lookbacks to Track Beliefs",
+   "authors": [
+    "Nikhil Prakash",
+    "Natalie Shapira",
+    "Arnab Sen Sharma",
+    "Christoph Riedl",
+    "Yonatan Belinkov",
+    "Tamar Rott Shaham",
+    "David Bau",
+    "Atticus Geiger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hrqhFhMp6F",
+   "pdf_url": "https://openreview.net/pdf?id=hrqhFhMp6F"
+  },
+  {
+   "title": "Latent Crystallographic Microscope: Probing the Emergent Crystallographic Knowledge in Large Language Models",
+   "authors": [
+    "Jingru Gan",
+    "Yanqiao Zhu",
+    "Wei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=28HkQ6mKxn",
+   "pdf_url": "https://openreview.net/pdf?id=28HkQ6mKxn"
+  },
+  {
+   "title": "Learned Structure in Cartridges: Keys as Shareable Routers in Self-Studied Representations",
+   "authors": [
+    "Mauri Diaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8pWoQFW7pY",
+   "pdf_url": "https://openreview.net/pdf?id=8pWoQFW7pY"
+  },
+  {
+   "title": "Learning Interpretable Features in Audio Latent Spaces via Sparse Autoencoders",
+   "authors": [
+    "Nathan Paek",
+    "Yongyi Zang",
+    "Qihui Yang",
+    "Randal Leistikow"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5fsYFQzzMX",
+   "pdf_url": "https://openreview.net/pdf?id=5fsYFQzzMX"
+  },
+  {
+   "title": "Learning to Steer: Input-dependent Steering for Multimodal LLMs",
+   "authors": [
+    "Jayneel Parekh",
+    "Pegah KHAYATAN",
+    "Mustafa Shukor",
+    "Arnaud Dapogny",
+    "Alasdair Newson",
+    "Matthieu Cord"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fbPL2uGNVr",
+   "pdf_url": "https://openreview.net/pdf?id=fbPL2uGNVr"
+  },
+  {
+   "title": "LLM Pretraining with Continuous Concepts",
+   "authors": [
+    "Jihoon Tack",
+    "Jack Lanchantin",
+    "Jane Yu",
+    "Andrew Cohen",
+    "Ilia Kulikov",
+    "Janice Lan",
+    "Shibo Hao",
+    "Yuandong Tian",
+    "Jason E Weston",
+    "Xian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P7RwEIiCyh",
+   "pdf_url": "https://openreview.net/pdf?id=P7RwEIiCyh"
+  },
+  {
+   "title": "LLM Probing with Contrastive Eigenproblems: Improving Understanding and Applicability of CCS",
+   "authors": [
+    "Stefan F. Schouten",
+    "Peter Bloem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gf29u4yLcK",
+   "pdf_url": "https://openreview.net/pdf?id=gf29u4yLcK"
+  },
+  {
+   "title": "Localizing Reasoning Training-Induced Changes in Large Language Models",
+   "authors": [
+    "Max Klabunde",
+    "Florian Lemmerich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WDlhBhceGZ",
+   "pdf_url": "https://openreview.net/pdf?id=WDlhBhceGZ"
+  },
+  {
+   "title": "Looking into Black Box Code Language Models",
+   "authors": [
+    "Muhammad Umair Haider",
+    "Umar Farooq",
+    "A.B. Siddique",
+    "Mark Marron"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XMT2A82EWF",
+   "pdf_url": "https://openreview.net/pdf?id=XMT2A82EWF"
+  },
+  {
+   "title": "Mapping Faithful Reasoning in Language Models",
+   "authors": [
+    "Jiazheng Li",
+    "Andreas Damianou",
+    "J Rosser",
+    "Jose Luis Redondo Garcia",
+    "Konstantina Palla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NJNr5KbW3m",
+   "pdf_url": "https://openreview.net/pdf?id=NJNr5KbW3m"
+  },
+  {
+   "title": "Measuring Sparse Autoencoder Feature Sensitivity",
+   "authors": [
+    "Claire Tian",
+    "Katherine Tian",
+    "Nathan Zixia Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0bkTiS9Isw",
+   "pdf_url": "https://openreview.net/pdf?id=0bkTiS9Isw"
+  },
+  {
+   "title": "Mechanistic Evaluation of Transformers and State-Space Models",
+   "authors": [
+    "Aryaman Arora",
+    "Neil Rathi",
+    "Nikil Roashan Selvam",
+    "Róbert Csordás",
+    "Dan Jurafsky",
+    "Christopher Potts"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F62dVLJ8wk",
+   "pdf_url": "https://openreview.net/pdf?id=F62dVLJ8wk"
+  },
+  {
+   "title": "Mechanistic evidence that motif-gated domain recognition drives contact prediction in protein language models",
+   "authors": [
+    "Jatin Nainani",
+    "Bryn Marie Reimer",
+    "Connor Watts",
+    "David Jensen",
+    "Anna G. Green"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cvCgSb9xeQ",
+   "pdf_url": "https://openreview.net/pdf?id=cvCgSb9xeQ"
+  },
+  {
+   "title": "Mechanistic Interpretability as Statistical Estimation: A Variance Analysis of EAP-IG",
+   "authors": [
+    "Maxime Méloux",
+    "François Portet",
+    "Maxime Peyrard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UbOAXViKsU",
+   "pdf_url": "https://openreview.net/pdf?id=UbOAXViKsU"
+  },
+  {
+   "title": "Mitigating Emergent Misalignment with Data Attribution",
+   "authors": [
+    "Louis Jaburi",
+    "Gonçalo Paulo",
+    "Stepan Shabalin",
+    "Lucia Quirke",
+    "Nora Belrose"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gN7pWmjiQW",
+   "pdf_url": "https://openreview.net/pdf?id=gN7pWmjiQW"
+  },
+  {
+   "title": "Mitigating Sycophancy in Language Models via Sparse Activation Fusion and Multi-Layer Activation Steering",
+   "authors": [
+    "Pyae Phoo Min",
+    "Avigya Paudel",
+    "Naufal Adityo",
+    "Arthur Zhu",
+    "Andrew Rufail",
+    "Cole Blondin",
+    "Kevin Zhu",
+    "Sunishchal Dev",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BCS7HHInC2",
+   "pdf_url": "https://openreview.net/pdf?id=BCS7HHInC2"
+  },
+  {
+   "title": "Model Organisms for Emergent Misalignment",
+   "authors": [
+    "Edward Turner",
+    "Anna Soligo",
+    "Mia Taylor",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ThW5hvKgWx",
+   "pdf_url": "https://openreview.net/pdf?id=ThW5hvKgWx"
+  },
+  {
+   "title": "Motifs in Attention Patterns of Large Language Models",
+   "authors": [
+    "Michael Ivanitskiy",
+    "Cecilia Diniz Behn",
+    "Samy Wu Fung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ND2WsCwlDQ",
+   "pdf_url": "https://openreview.net/pdf?id=ND2WsCwlDQ"
+  },
+  {
+   "title": "Multimodal Concept Bottleneck Models",
+   "authors": [
+    "Tongqing Shi",
+    "Ge Yan",
+    "Tuomas Oikarinen",
+    "Tsui-Wei Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6r2ercqOo8",
+   "pdf_url": "https://openreview.net/pdf?id=6r2ercqOo8"
+  },
+  {
+   "title": "Multiple Streams of Knowledge Retrieval: Enriching and Recalling in Transformers",
+   "authors": [
+    "Todd Nief",
+    "David Reber",
+    "Sean M. Richardson",
+    "Ari Holtzman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uot9jHURwK",
+   "pdf_url": "https://openreview.net/pdf?id=Uot9jHURwK"
+  },
+  {
+   "title": "Narrow Finetuning Leaves Clearly Readable Traces in the Activation Differences",
+   "authors": [
+    "Julian Minder",
+    "Clément Dumas",
+    "Stewart Slocum",
+    "Helena Casademunt",
+    "Cameron Holmes",
+    "Robert West",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pxaCoKZWVf",
+   "pdf_url": "https://openreview.net/pdf?id=pxaCoKZWVf"
+  },
+  {
+   "title": "Neurons Speak in Ranges: Breaking Free from Discrete Neuronal Attribution",
+   "authors": [
+    "Muhammad Umair Haider",
+    "Hammad Rizwan",
+    "Hassan Sajjad",
+    "Peizhong Ju",
+    "A.B. Siddique"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yk2YzEYjxf",
+   "pdf_url": "https://openreview.net/pdf?id=yk2YzEYjxf"
+  },
+  {
+   "title": "nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers",
+   "authors": [
+    "Clément Dumas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ACic3VDIHp",
+   "pdf_url": "https://openreview.net/pdf?id=ACic3VDIHp"
+  },
+  {
+   "title": "On the Geometry and Topology of Neural Circuits for Modular Addition",
+   "authors": [
+    "Gabriela Moisescu-Pareja",
+    "Gavin McCracken",
+    "Harley Wiltzer",
+    "Colin Daniels",
+    "Vincent Létourneau",
+    "Jonathan Love"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9VCl4UcTZm",
+   "pdf_url": "https://openreview.net/pdf?id=9VCl4UcTZm"
+  },
+  {
+   "title": "On the Limits of Linear Representation Hypotheses in Large Language Models: A Dynamical Systems Analysis",
+   "authors": [
+    "Abhinav Muraleedharan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fetTz1Xs2l",
+   "pdf_url": "https://openreview.net/pdf?id=fetTz1Xs2l"
+  },
+  {
+   "title": "Open-Vocabulary Natural-Language Explanations of LLM Activations via Soft Prompts",
+   "authors": [
+    "Bart Bussmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x8SVUMo2TL",
+   "pdf_url": "https://openreview.net/pdf?id=x8SVUMo2TL"
+  },
+  {
+   "title": "OpenMAIA: a Multimodal Automated Interpretability Agent based on open-source models",
+   "authors": [
+    "Josep Lopez Camuñas",
+    "Christy Li",
+    "Tamar Rott Shaham",
+    "Antonio Torralba",
+    "Agata Lapedriza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KitDRi76It",
+   "pdf_url": "https://openreview.net/pdf?id=KitDRi76It"
+  },
+  {
+   "title": "Overcoming Sparsity Artifacts in Crosscoders to Interpret Chat-Tuning",
+   "authors": [
+    "Clément Dumas",
+    "Julian Minder",
+    "Caden Juang",
+    "Bilal Chughtai",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CdiCNA1Y2R",
+   "pdf_url": "https://openreview.net/pdf?id=CdiCNA1Y2R"
+  },
+  {
+   "title": "Path Channels and Plan Extension Kernels: a Mechanistic Description of Planning in a Sokoban RNN",
+   "authors": [
+    "Mohammad Taufeeque",
+    "Aaron David Tucker",
+    "Adam Gleave",
+    "Adrià Garriga-Alonso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z025sIH4Nq",
+   "pdf_url": "https://openreview.net/pdf?id=z025sIH4Nq"
+  },
+  {
+   "title": "Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model",
+   "authors": [
+    "Rio Alexa Fear",
+    "Payel Mukhopadhyay",
+    "Michael McCabe",
+    "Alberto Bietti",
+    "Miles Cranmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VI6sN10pPj",
+   "pdf_url": "https://openreview.net/pdf?id=VI6sN10pPj"
+  },
+  {
+   "title": "PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage",
+   "authors": [
+    "Krishna Kanth Nakka",
+    "Dmitrii Usynin",
+    "Xue Jiang",
+    "Xuebing Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zOXYnJQ2Tx",
+   "pdf_url": "https://openreview.net/pdf?id=zOXYnJQ2Tx"
+  },
+  {
+   "title": "Pinpointing Attention-Causal Communication in Language Models",
+   "authors": [
+    "Gabriel Franco",
+    "Mark Crovella"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hYznqkIfFd",
+   "pdf_url": "https://openreview.net/pdf?id=hYznqkIfFd"
+  },
+  {
+   "title": "Position: Mechanistic Interpretability Should Prioritize Feature Consistency in SAEs",
+   "authors": [
+    "Xiangchen Song",
+    "Aashiq Muhamed",
+    "Yujia Zheng",
+    "Lingjing Kong",
+    "Zeyu Tang",
+    "Mona T. Diab",
+    "Virginia Smith",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d9ACURK6bI",
+   "pdf_url": "https://openreview.net/pdf?id=d9ACURK6bI"
+  },
+  {
+   "title": "Predicting Weak-to-Strong Generalization from Latent Representations",
+   "authors": [
+    "Ben Wilop",
+    "Christian Schroeder de Witt",
+    "Yarin Gal",
+    "Philip Torr",
+    "Constantin Venhoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kkZCwhrf3S",
+   "pdf_url": "https://openreview.net/pdf?id=kkZCwhrf3S"
+  },
+  {
+   "title": "Probing by Analogy: Decomposing Probes into Activations for Better Interpretability and Inter-Model Generalization",
+   "authors": [
+    "Patrick Leask",
+    "Noura Al Moubayed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IhI1qGyk6S",
+   "pdf_url": "https://openreview.net/pdf?id=IhI1qGyk6S"
+  },
+  {
+   "title": "Quiet Feature Learning in Algorithmic Tasks",
+   "authors": [
+    "Prudhviraj Naidu",
+    "Zixian Wang",
+    "Leon Bergen",
+    "Ramamohan Paturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rkl2ESuYCd",
+   "pdf_url": "https://openreview.net/pdf?id=Rkl2ESuYCd"
+  },
+  {
+   "title": "Rank-1 LoRAs Encode Interpretable Reasoning Signals",
+   "authors": [
+    "Jake Ward",
+    "Paul M. Riechers",
+    "Adam Shai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l4ifwCE3uw",
+   "pdf_url": "https://openreview.net/pdf?id=l4ifwCE3uw"
+  },
+  {
+   "title": "ReFIne: A Framework for Trustworthy Large Reasoning Models with Reliability, Faithfulness, and Interpretability",
+   "authors": [
+    "Chung-En Sun",
+    "Ge Yan",
+    "Akshay R. Kulkarni",
+    "Tsui-Wei Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vWLKTBrrC7",
+   "pdf_url": "https://openreview.net/pdf?id=vWLKTBrrC7"
+  },
+  {
+   "title": "ReflCtrl: Controlling LLM Reflection via Representation Engineering",
+   "authors": [
+    "Ge Yan",
+    "Chung-En Sun",
+    "Tsui-Wei Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ungnJ4O0AD",
+   "pdf_url": "https://openreview.net/pdf?id=ungnJ4O0AD"
+  },
+  {
+   "title": "RelP: Faithful and Efficient Circuit Discovery in Language Models via Relevance Patching",
+   "authors": [
+    "Farnoush Rezaei Jafari",
+    "Oliver Eberle",
+    "Ashkan Khakzar",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5PKPy82sWN",
+   "pdf_url": "https://openreview.net/pdf?id=5PKPy82sWN"
+  },
+  {
+   "title": "Representation Similarity Reveals Implicit Layer Grouping in Neural Networks",
+   "authors": [
+    "Tian Gao",
+    "Amit Dhurandhar",
+    "Karthikeyan Natesan Ramamurthy",
+    "Dennis Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ha5UIYfjTO",
+   "pdf_url": "https://openreview.net/pdf?id=Ha5UIYfjTO"
+  },
+  {
+   "title": "Rethinking Crowd-Sourced Evaluation of Neuron Explanations",
+   "authors": [
+    "Tuomas Oikarinen",
+    "Ge Yan",
+    "Akshay R. Kulkarni",
+    "Tsui-Wei Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HW2XFnFRGb",
+   "pdf_url": "https://openreview.net/pdf?id=HW2XFnFRGb"
+  },
+  {
+   "title": "Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone",
+   "authors": [
+    "Antonio Barbalau",
+    "Cristian Daniel Paduraru",
+    "Teodor Poncu",
+    "Alexandru Tifrea",
+    "Elena Burceanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JYRWsqwrXS",
+   "pdf_url": "https://openreview.net/pdf?id=JYRWsqwrXS"
+  },
+  {
+   "title": "Reverse Engineering a Stateful Reasoning Circuit",
+   "authors": [
+    "Akshit Kumar",
+    "Dipti Sharma",
+    "Parameswari Krishnamurthy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bIF9C682xB",
+   "pdf_url": "https://openreview.net/pdf?id=bIF9C682xB"
+  },
+  {
+   "title": "Reverse-Engineering Memory in DreamerV3: From Sparse Representations to Functional Circuits",
+   "authors": [
+    "Jan Sobotka",
+    "Auke Ijspeert",
+    "Guillaume Bellegarda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JmjqTi4FDF",
+   "pdf_url": "https://openreview.net/pdf?id=JmjqTi4FDF"
+  },
+  {
+   "title": "RippleBench: Capturing Ripple Effects by Leveraging Existing Knowledge Repositories",
+   "authors": [
+    "Roy Rinberg",
+    "Usha Bhalla",
+    "Igor Shilov",
+    "Rohit Gandikota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JTnYGSxN5k",
+   "pdf_url": "https://openreview.net/pdf?id=JTnYGSxN5k"
+  },
+  {
+   "title": "RL-Obfuscation: Can Language Models Learn to Evade Latent-Space Monitors?",
+   "authors": [
+    "Rohan Gupta",
+    "Erik Jenner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YT97yOoD4x",
+   "pdf_url": "https://openreview.net/pdf?id=YT97yOoD4x"
+  },
+  {
+   "title": "Robustly Improving LLM Fairness in Realistic Settings via Interpretability",
+   "authors": [
+    "Adam Karvonen",
+    "Samuel Marks"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fHBb8BisyW",
+   "pdf_url": "https://openreview.net/pdf?id=fHBb8BisyW"
+  },
+  {
+   "title": "SAE-ception: Iteratively Using Sparse Autoencoders as a Training Signal",
+   "authors": [
+    "Alex Bishka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TtV3UF7iKq",
+   "pdf_url": "https://openreview.net/pdf?id=TtV3UF7iKq"
+  },
+  {
+   "title": "Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs",
+   "authors": [
+    "Yaniv Nikankin",
+    "Dana Arad",
+    "Yossi Gandelsman",
+    "Yonatan Belinkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QrImAlagCG",
+   "pdf_url": "https://openreview.net/pdf?id=QrImAlagCG"
+  },
+  {
+   "title": "Scratchpad Thinking: Alternation Between Storage and Computation in Latent Reasoning Models",
+   "authors": [
+    "Sayam Goyal",
+    "Brad Peters",
+    "María Emilia Granda",
+    "Akshath Vijayakumar Narmadha",
+    "Dharunish Yugeswardeenoo",
+    "Callum Stuart McDougall",
+    "Sean O'Brien",
+    "Ashwinee Panda",
+    "Kevin Zhu",
+    "Cole Blondin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EV30qkZXrR",
+   "pdf_url": "https://openreview.net/pdf?id=EV30qkZXrR"
+  },
+  {
+   "title": "Shared Memorization Structures in Transformers Revealed by Loss Curvature",
+   "authors": [
+    "Jack Merullo",
+    "Srihita Vatsavaya",
+    "Owen Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dqebPZUo2K",
+   "pdf_url": "https://openreview.net/pdf?id=dqebPZUo2K"
+  },
+  {
+   "title": "Shared Parameter Subspaces and Cross-Task Linearity in Emergently Misaligned Behaviour",
+   "authors": [
+    "Daniel Aarao Reis Arturi",
+    "Eric Zhang",
+    "Andrew Adrian Ansah",
+    "Kevin Zhu",
+    "Ashwinee Panda",
+    "Aishwarya Balwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dk5thCkmWJ",
+   "pdf_url": "https://openreview.net/pdf?id=Dk5thCkmWJ"
+  },
+  {
+   "title": "Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence",
+   "authors": [
+    "Bofan Gong",
+    "Shiyang Lai",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q7gk6lvqSj",
+   "pdf_url": "https://openreview.net/pdf?id=Q7gk6lvqSj"
+  },
+  {
+   "title": "Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors",
+   "authors": [
+    "Viacheslav Sinii",
+    "Nikita Balagansky",
+    "Yaroslav Aksenov",
+    "Vadim Kurochkin",
+    "Daniil Laptev",
+    "Alexey Gorbatovski",
+    "Boris Shaposhnikov",
+    "Daniil Gavrilov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M8WDG1TfBb",
+   "pdf_url": "https://openreview.net/pdf?id=M8WDG1TfBb"
+  },
+  {
+   "title": "Some Attention is All You Need for Retrieval",
+   "authors": [
+    "Felix Michalak",
+    "Steven Abreu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SAYCGeL5aQ",
+   "pdf_url": "https://openreview.net/pdf?id=SAYCGeL5aQ"
+  },
+  {
+   "title": "Sparse Autoencoders Trained on the Same Data Learn Different Features",
+   "authors": [
+    "Gonçalo Paulo",
+    "Nora Belrose"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8swhc3egTL",
+   "pdf_url": "https://openreview.net/pdf?id=8swhc3egTL"
+  },
+  {
+   "title": "Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders",
+   "authors": [
+    "David Chanin",
+    "Adrià Garriga-Alonso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eSIxjYeQhD",
+   "pdf_url": "https://openreview.net/pdf?id=eSIxjYeQhD"
+  },
+  {
+   "title": "Spectral Dynamics in Neural Network Training: Mathematical Foundations for Understanding Representational Development",
+   "authors": [
+    "Brian Richard Olsen",
+    "Sam Fatehmanesh",
+    "Frank Xiao",
+    "Adarsh Kumarappan",
+    "Anirudh Gajula"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uOdUwvPqLa",
+   "pdf_url": "https://openreview.net/pdf?id=uOdUwvPqLa"
+  },
+  {
+   "title": "Steering Evaluation-Aware Language Models to Act Like They Are Deployed",
+   "authors": [
+    "Tim Tian Hua",
+    "Andrew Qin",
+    "Samuel Marks",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RCjtIoy7zh",
+   "pdf_url": "https://openreview.net/pdf?id=RCjtIoy7zh"
+  },
+  {
+   "title": "Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning",
+   "authors": [
+    "Helena Casademunt",
+    "Caden Juang",
+    "Adam Karvonen",
+    "Samuel Marks",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wBAmAYUHKE",
+   "pdf_url": "https://openreview.net/pdf?id=wBAmAYUHKE"
+  },
+  {
+   "title": "Stream: Scaling up Mechanistic Interpretability to Long Context in LLMs via Sparse Attention",
+   "authors": [
+    "J Rosser",
+    "Jose Luis Redondo Garcia",
+    "Gustavo Penha",
+    "Konstantina Palla",
+    "Hugues Bouchard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5HGu0ZqBl9",
+   "pdf_url": "https://openreview.net/pdf?id=5HGu0ZqBl9"
+  },
+  {
+   "title": "SuperActivators: Only the Tail of the Distribution Contains Reliable Concept Signals",
+   "authors": [
+    "Cassandra Goldberg",
+    "Chaehyeon Kim",
+    "Adam Stein",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AdGe1jGyLq",
+   "pdf_url": "https://openreview.net/pdf?id=AdGe1jGyLq"
+  },
+  {
+   "title": "Superposition in Mixture of Experts",
+   "authors": [
+    "Marmik Chaudhari",
+    "Jeremi Nuer",
+    "Rome Thorstenson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZqopmfZDE",
+   "pdf_url": "https://openreview.net/pdf?id=bZqopmfZDE"
+  },
+  {
+   "title": "Symbolic Policy Distillation for Interpretable Reinforcement Learning",
+   "authors": [
+    "Peilang Li",
+    "Umer Siddique",
+    "Yongcan Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xLycLWUMas",
+   "pdf_url": "https://openreview.net/pdf?id=xLycLWUMas"
+  },
+  {
+   "title": "Symbolic vs. Continuous Features in Transformers: A Digital Communication System's Explanation",
+   "authors": [
+    "Kan Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ARRzwn8MAH",
+   "pdf_url": "https://openreview.net/pdf?id=ARRzwn8MAH"
+  },
+  {
+   "title": "The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features",
+   "authors": [
+    "Jeremias Lino Ferrao",
+    "Matthijs van der Lende",
+    "Ilija Lichkovski",
+    "Clement Neo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CoaaltVlx7",
+   "pdf_url": "https://openreview.net/pdf?id=CoaaltVlx7"
+  },
+  {
+   "title": "The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning",
+   "authors": [
+    "Siyi Chen",
+    "Yimeng Zhang",
+    "Sijia Liu",
+    "Qing Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DxuGLEnkHV",
+   "pdf_url": "https://openreview.net/pdf?id=DxuGLEnkHV"
+  },
+  {
+   "title": "The Geometry of Self-Verification in a Task-Specific Reasoning Model",
+   "authors": [
+    "Andrew Lee",
+    "Lihao Sun",
+    "Chris Wendler",
+    "Fernanda Viégas",
+    "Martin Wattenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kX7KjpTroW",
+   "pdf_url": "https://openreview.net/pdf?id=kX7KjpTroW"
+  },
+  {
+   "title": "The Impossibility of Inverse Permutation Learning in Transformer Models",
+   "authors": [
+    "Rohan Alur",
+    "Chris Hays",
+    "Manish Raghavan",
+    "Devavrat Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dcBXNKxHE1",
+   "pdf_url": "https://openreview.net/pdf?id=dcBXNKxHE1"
+  },
+  {
+   "title": "Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs",
+   "authors": [
+    "Hanqi Yan",
+    "Hainiu Xu",
+    "Yulan He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QpAev98j3I",
+   "pdf_url": "https://openreview.net/pdf?id=QpAev98j3I"
+  },
+  {
+   "title": "Thought Anchors: Which LLM Reasoning Steps Matter?",
+   "authors": [
+    "Paul C. Bogdan",
+    "Uzay Macar",
+    "Neel Nanda",
+    "Arthur Conmy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VnSlfeRCaU",
+   "pdf_url": "https://openreview.net/pdf?id=VnSlfeRCaU"
+  },
+  {
+   "title": "Thought Branches: Interpreting LLM Reasoning Requires Resampling",
+   "authors": [
+    "Uzay Macar",
+    "Paul C. Bogdan",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dkwVlQ0s7b",
+   "pdf_url": "https://openreview.net/pdf?id=dkwVlQ0s7b"
+  },
+  {
+   "title": "Three Desiderata for Faithfulness in Machine Learning Explanations: The Case for Causal Abstraction",
+   "authors": [
+    "Mette Friis Andersen",
+    "Maria Heuss",
+    "Ana Lucic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b0rXC856Sm",
+   "pdf_url": "https://openreview.net/pdf?id=b0rXC856Sm"
+  },
+  {
+   "title": "Token Entanglement in Subliminal Learning",
+   "authors": [
+    "Amir Zur",
+    "Zhuofan Ying",
+    "Alexander Russell Loftus",
+    "Kerem Şahin",
+    "Steven Yu",
+    "Lucia Quirke",
+    "Tamar Rott Shaham",
+    "Natalie Shapira",
+    "Hadas Orgad",
+    "David Bau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=auKgpBRzIW",
+   "pdf_url": "https://openreview.net/pdf?id=auKgpBRzIW"
+  },
+  {
+   "title": "TopKLoRA",
+   "authors": [
+    "Marek Masiak",
+    "Lukas Vierling",
+    "Christian Schroeder de Witt",
+    "Nicola Cancedda",
+    "Constantin Venhoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W5THmsfVJw",
+   "pdf_url": "https://openreview.net/pdf?id=W5THmsfVJw"
+  },
+  {
+   "title": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research",
+   "authors": [
+    "Sean Trott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sZZIOjqmyW",
+   "pdf_url": "https://openreview.net/pdf?id=sZZIOjqmyW"
+  },
+  {
+   "title": "Towards a Mechanistic Understanding of Robustness in Finetuned Reasoning Models",
+   "authors": [
+    "Aashiq Muhamed",
+    "Xuandong Zhao",
+    "Mona T. Diab",
+    "Virginia Smith",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rqe4zQCURe",
+   "pdf_url": "https://openreview.net/pdf?id=rqe4zQCURe"
+  },
+  {
+   "title": "Towards Understanding Multimodal Fine-Tuning: A Case Study into Spatial Features",
+   "authors": [
+    "Lachin Naghashyar",
+    "Hunar Batra",
+    "Ashkan Khakzar",
+    "Philip Torr",
+    "Ronald Clark",
+    "Christian Schroeder de Witt",
+    "Constantin Venhoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JIjj6hmK2j",
+   "pdf_url": "https://openreview.net/pdf?id=JIjj6hmK2j"
+  },
+  {
+   "title": "Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition",
+   "authors": [
+    "Zhengfu He",
+    "Junxuan Wang",
+    "Rui Lin",
+    "Xuyang Ge",
+    "Wentao Shu",
+    "Qiong Tang",
+    "Junping Zhang",
+    "Xipeng Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fuA9VP5lek",
+   "pdf_url": "https://openreview.net/pdf?id=fuA9VP5lek"
+  },
+  {
+   "title": "Training Reliable Activation Probes With a Handful of Positive Examples",
+   "authors": [
+    "Riya Tyagi",
+    "Stefan Heimersheim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=punokGGd4V",
+   "pdf_url": "https://openreview.net/pdf?id=punokGGd4V"
+  },
+  {
+   "title": "Transformers Don’t Need LayerNorm at Inference Time: Scaling LayerNorm Removal to GPT-2 XL and Implications for Mechanistic Interpretability",
+   "authors": [
+    "Luca Baroni",
+    "Galvin Khara",
+    "Joachim Schaeffer",
+    "Marat Subkhankulov",
+    "Stefan Heimersheim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SOrDcOjRrc",
+   "pdf_url": "https://openreview.net/pdf?id=SOrDcOjRrc"
+  },
+  {
+   "title": "Trilemma of Truth in Large Language Models",
+   "authors": [
+    "Germans Savcisens",
+    "Tina Eliassi-Rad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z7dLG2ycRf",
+   "pdf_url": "https://openreview.net/pdf?id=z7dLG2ycRf"
+  },
+  {
+   "title": "Uncovering Object Localization Mechanisms in VLMs",
+   "authors": [
+    "Timothy Schaumlöffel",
+    "Martina G. Vilas",
+    "Gemma Roig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JaD7C4Kldz",
+   "pdf_url": "https://openreview.net/pdf?id=JaD7C4Kldz"
+  },
+  {
+   "title": "Understanding sparse autoencoder scaling in the presence of feature manifolds",
+   "authors": [
+    "Eric J Michaud",
+    "Liv Gorton",
+    "Tom McGrath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NVbitp6VNl",
+   "pdf_url": "https://openreview.net/pdf?id=NVbitp6VNl"
+  },
+  {
+   "title": "Universal Neurons in GPT-2: Emergence, Persistence, and Functional Impact",
+   "authors": [
+    "Advey Nandan",
+    "Cheng-Ting Chou",
+    "Amrit Kurakula",
+    "Cole Blondin",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iZjhiwRiHD",
+   "pdf_url": "https://openreview.net/pdf?id=iZjhiwRiHD"
+  },
+  {
+   "title": "Unsupervised decoding of encoded reasoning using language model interpretability",
+   "authors": [
+    "Ching Fang",
+    "Samuel Marks"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OEDW0lmJTv",
+   "pdf_url": "https://openreview.net/pdf?id=OEDW0lmJTv"
+  },
+  {
+   "title": "Unveiling the Latent Directions of Reflection in Large Language Models",
+   "authors": [
+    "Fu-Chieh Chang",
+    "Yu-Ting Lee",
+    "Pei-Yuan Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e7YlRBe5Ra",
+   "pdf_url": "https://openreview.net/pdf?id=e7YlRBe5Ra"
+  },
+  {
+   "title": "Vector Arithmetic in Concept and Token Subspaces",
+   "authors": [
+    "Sheridan Feucht",
+    "Byron C Wallace",
+    "David Bau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PBbQqd9nMe",
+   "pdf_url": "https://openreview.net/pdf?id=PBbQqd9nMe"
+  },
+  {
+   "title": "Visual Exploration of Feature Relationships in Sparse Autoencoders with Curated Concepts",
+   "authors": [
+    "Xinyuan Yan",
+    "Shusen Liu",
+    "Kowshik Thopalli",
+    "Bei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rOoMnHqDNk",
+   "pdf_url": "https://openreview.net/pdf?id=rOoMnHqDNk"
+  },
+  {
+   "title": "WASP: A Weight-Space Approach to Detecting Learned Spuriousness",
+   "authors": [
+    "Cristian Daniel Paduraru",
+    "Antonio Barbalau",
+    "Radu Filipescu",
+    "Andrei Liviu Nicolicioiu",
+    "Elena Burceanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=epxRgOSZCl",
+   "pdf_url": "https://openreview.net/pdf?id=epxRgOSZCl"
+  },
+  {
+   "title": "Watch the Weights: Unsupervised monitoring and control of fine-tuned LLMs",
+   "authors": [
+    "Ziqian Zhong",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qV6KvuSMT1",
+   "pdf_url": "https://openreview.net/pdf?id=qV6KvuSMT1"
+  },
+  {
+   "title": "What Affects the Effective Depth of Large Language Models?",
+   "authors": [
+    "Yi Hu",
+    "Cai Zhou",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ILuhAig8xo",
+   "pdf_url": "https://openreview.net/pdf?id=ILuhAig8xo"
+  },
+  {
+   "title": "What Do Refusal Tokens Learn? Fine-Grained Representations and Evidence for Downstream Steering",
+   "authors": [
+    "Rishab Alagharu",
+    "Ishneet Sukhvinder Singh",
+    "Anjali Batta",
+    "Jaelyn S. Liang",
+    "Shaibi Shamsudeen",
+    "Arnav Sheth",
+    "Kevin Zhu",
+    "Ashwinee Panda",
+    "Zhen Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=szBGSWqwB7",
+   "pdf_url": "https://openreview.net/pdf?id=szBGSWqwB7"
+  },
+  {
+   "title": "When seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models",
+   "authors": [
+    "Francesco Ortu",
+    "Zhijing Jin",
+    "Diego Doimo",
+    "Alberto Cazzaniga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GhSp6uvUuR",
+   "pdf_url": "https://openreview.net/pdf?id=GhSp6uvUuR"
+  },
+  {
+   "title": "Where's the Bug? Attention Probing for Scalable Fault Localization",
+   "authors": [
+    "Adam Stein",
+    "Arthur Wayne",
+    "Aaditya Naik",
+    "Mayur Naik",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5sSZn0SGGO",
+   "pdf_url": "https://openreview.net/pdf?id=5sSZn0SGGO"
+  },
+  {
+   "title": "Who is In Charge? Dissecting Role Conflicts in LLM Instruction Following",
+   "authors": [
+    "Siqi Zeng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RfOOn897hj",
+   "pdf_url": "https://openreview.net/pdf?id=RfOOn897hj"
+  }
+ ]
+}

@@ -1,0 +1,769 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/RLControlTheory",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:22.036Z",
+ "paper_count": 72,
+ "papers": [
+  {
+   "title": "$\\alpha$-Fair Contextual Bandits",
+   "authors": [
+    "Siddhant Chaudhary",
+    "Abhishek Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y0KQKrrgbC",
+   "pdf_url": "https://openreview.net/pdf?id=y0KQKrrgbC"
+  },
+  {
+   "title": "A Best-of-both-worlds Algorithm for Bandits with Delayed Feedback with Robustness to Excessive Delays",
+   "authors": [
+    "Saeed Masoudian",
+    "Julian Zimmert",
+    "Yevgeny Seldin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aLgJssbizV",
+   "pdf_url": "https://openreview.net/pdf?id=aLgJssbizV"
+  },
+  {
+   "title": "A Policy Optimization Approach to the Solution of Unregularized Mean Field Games",
+   "authors": [
+    "Sihan Zeng",
+    "Sujay Bhatt",
+    "Alec Koppel",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D57EIWwSaj",
+   "pdf_url": "https://openreview.net/pdf?id=D57EIWwSaj"
+  },
+  {
+   "title": "A Pontryagin Perspective on Reinforcement Learning",
+   "authors": [
+    "Onno Eberhard",
+    "Claire Vernade",
+    "Michael Muehlebach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nniRjcHvnT",
+   "pdf_url": "https://openreview.net/pdf?id=nniRjcHvnT"
+  },
+  {
+   "title": "A safe exploration approach to constrained Markov decision processes",
+   "authors": [
+    "Tingting Ni",
+    "Maryam Kamgarpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DO9HPhLlgw",
+   "pdf_url": "https://openreview.net/pdf?id=DO9HPhLlgw"
+  },
+  {
+   "title": "A Simple and Adaptive Learning Rate for FTRL in Online Learning with Minimax Regret of $\\Theta(T^{2/3})$ and its Application to Best-of-Both-Worlds",
+   "authors": [
+    "Taira Tsuchiya",
+    "Shinji Ito"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JCuittsHJJ",
+   "pdf_url": "https://openreview.net/pdf?id=JCuittsHJJ"
+  },
+  {
+   "title": "A Variational Formulation of Reinforcement Learning in Infinite-Horizon Markov Decision Processes",
+   "authors": [
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YC56UZWl4f",
+   "pdf_url": "https://openreview.net/pdf?id=YC56UZWl4f"
+  },
+  {
+   "title": "Adaptive Experimental Design for Policy Learning: Contextual Best Arm Identification",
+   "authors": [
+    "Masahiro Kato",
+    "Kyohei Okumura",
+    "Takuya Ishihara",
+    "Toru Kitagawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PbWTR9Oern",
+   "pdf_url": "https://openreview.net/pdf?id=PbWTR9Oern"
+  },
+  {
+   "title": "Bandits with Abstention under Expert Advice",
+   "authors": [
+    "Stephen Pasteris",
+    "Alberto Rumi",
+    "Maximilian Thiessen",
+    "Shota Saito",
+    "Atsushi Miyauchi",
+    "Fabio Vitale",
+    "Mark Herbster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2h3YuVD6NS",
+   "pdf_url": "https://openreview.net/pdf?id=2h3YuVD6NS"
+  },
+  {
+   "title": "Bandits with Preference Feedback: A Stackelberg Game Perspective",
+   "authors": [
+    "Barna Pásztor",
+    "Parnian Kassraie",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FUKfuDzo3o",
+   "pdf_url": "https://openreview.net/pdf?id=FUKfuDzo3o"
+  },
+  {
+   "title": "Bridging Distributional and Risk-Sensitive Reinforcement Learning: Balancing Statistical, Computational, and Risk Considerations",
+   "authors": [
+    "Hao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ir4L8koYPK",
+   "pdf_url": "https://openreview.net/pdf?id=Ir4L8koYPK"
+  },
+  {
+   "title": "Bridging Distributionally Robust Learning and Offline RL: An Approach to Mitigate Distribution Shift and Partial Data Coverage",
+   "authors": [
+    "Kishan Panaganti",
+    "Zaiyan Xu",
+    "Dileep Kalathil",
+    "Mohammad Ghavamzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tLPV6NSu8M",
+   "pdf_url": "https://openreview.net/pdf?id=tLPV6NSu8M"
+  },
+  {
+   "title": "Causal Bandits: The Pareto Optimal Frontier of Adaptivity, a Reduction to Linear Bandits, and Limitations around Unknown Marginals",
+   "authors": [
+    "Ziyi Liu",
+    "Idan Attias",
+    "Daniel M. Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bNGL5G5XDr",
+   "pdf_url": "https://openreview.net/pdf?id=bNGL5G5XDr"
+  },
+  {
+   "title": "Certifying robustness to adaptive data poisoning",
+   "authors": [
+    "Avinandan Bose",
+    "Madeleine Udell",
+    "Laurent Lessard",
+    "Maryam Fazel",
+    "Krishnamurthy Dj Dvijotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HF8PmUAaFu",
+   "pdf_url": "https://openreview.net/pdf?id=HF8PmUAaFu"
+  },
+  {
+   "title": "Chained Information-Theoretic Bounds and Tight Regret Rate for Linear Bandit Problems",
+   "authors": [
+    "Amaury Gouverneur",
+    "Borja Rodríguez Gálvez",
+    "Tobias Oechtering",
+    "Mikael Skoglund"
+   ],
+   "forum_url": "https://openreview.net/forum?id=znMGwIoQaP",
+   "pdf_url": "https://openreview.net/pdf?id=znMGwIoQaP"
+  },
+  {
+   "title": "Combining Neural Networks and Symbolic Regression for Analytical Lyapunov Function Discovery",
+   "authors": [
+    "Jie Feng",
+    "Haohan Zou",
+    "Yuanyuan Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Knj78wY9T4",
+   "pdf_url": "https://openreview.net/pdf?id=Knj78wY9T4"
+  },
+  {
+   "title": "Compatible Gradient Approximations for Actor-Critic Algorithms",
+   "authors": [
+    "Baturay Saglam",
+    "Dionysis Kalogerias"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0VwitM5OEa",
+   "pdf_url": "https://openreview.net/pdf?id=0VwitM5OEa"
+  },
+  {
+   "title": "CPeSFA: Empowering SFs for Policy Learning and Transfer in Continuous Action Spaces",
+   "authors": [
+    "Yining LI",
+    "Tianpei Yang",
+    "Wei Guo",
+    "Jianye HAO",
+    "YAN ZHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qh3ghkCW79",
+   "pdf_url": "https://openreview.net/pdf?id=qh3ghkCW79"
+  },
+  {
+   "title": "DARE: The Deep Adaptive Regulator for Control of Uncertain Continuous-Time Systems",
+   "authors": [
+    "Harrison Waldon",
+    "Fayçal Drissi",
+    "Yannick Limmer",
+    "Uljad Berdica",
+    "Jakob Nicolaus Foerster",
+    "Alvaro Cartea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vTtldsicU9",
+   "pdf_url": "https://openreview.net/pdf?id=vTtldsicU9"
+  },
+  {
+   "title": "DeePC-Hunt: Data-enabled Predictive Control Hyperparameter Tuning via Differentiable Optimization",
+   "authors": [
+    "Michael Cummins",
+    "Alberto Padoan",
+    "Keith Moffat",
+    "John Lygeros",
+    "Florian Dorfler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1GYqllZdw4",
+   "pdf_url": "https://openreview.net/pdf?id=1GYqllZdw4"
+  },
+  {
+   "title": "Defending Against Unknown Corrupted Agents: Reinforcement Learning of Adversarially Robust Nash Equilibria",
+   "authors": [
+    "Andi Nika",
+    "Jonathan Nöther",
+    "Adish Singla",
+    "Goran Radanovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=62pcoIqovw",
+   "pdf_url": "https://openreview.net/pdf?id=62pcoIqovw"
+  },
+  {
+   "title": "Distributional Monte-Carlo Planning with Thompson Sampling in Stochastic Environments",
+   "authors": [
+    "Tuan Quang Dam",
+    "Brahim Driss",
+    "Odalric-Ambrym Maillard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HRbjVO1dKW",
+   "pdf_url": "https://openreview.net/pdf?id=HRbjVO1dKW"
+  },
+  {
+   "title": "Essentially Sharp Estimates on the Entropy Regularization Error in Discounted Markov Decision Processes",
+   "authors": [
+    "Johannes Müller",
+    "Semih Cayci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XIq8b6qcI1",
+   "pdf_url": "https://openreview.net/pdf?id=XIq8b6qcI1"
+  },
+  {
+   "title": "Event-Based Federated Q-Learning",
+   "authors": [
+    "Guner Dilsad ER",
+    "Michael Muehlebach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XEq2cftT2k",
+   "pdf_url": "https://openreview.net/pdf?id=XEq2cftT2k"
+  },
+  {
+   "title": "Exploring Integrality Grip for Mixed-integer Programming by MCTS Planning",
+   "authors": [
+    "Defeng Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGV2sjr1C3",
+   "pdf_url": "https://openreview.net/pdf?id=PGV2sjr1C3"
+  },
+  {
+   "title": "Finite Sample Identification: From Frequency to Time Domain",
+   "authors": [
+    "Anastasios Tsiamis",
+    "Mohamed Abdalmoaty",
+    "Roy S. Smith",
+    "John Lygeros"
+   ],
+   "forum_url": "https://openreview.net/forum?id=evNMpopWU3",
+   "pdf_url": "https://openreview.net/pdf?id=evNMpopWU3"
+  },
+  {
+   "title": "Finite-time convergence to an $\\epsilon$-efficient Nash equilibrium in potential games",
+   "authors": [
+    "Anna Maria Maddux",
+    "Reda Ouhamma",
+    "Maryam Kamgarpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rd8py6JO8L",
+   "pdf_url": "https://openreview.net/pdf?id=Rd8py6JO8L"
+  },
+  {
+   "title": "Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution",
+   "authors": [
+    "Tim Seyde",
+    "Peter Werner",
+    "Wilko Schwarting",
+    "Markus Wulfmeier",
+    "Daniela Rus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H5Yy5W383G",
+   "pdf_url": "https://openreview.net/pdf?id=H5Yy5W383G"
+  },
+  {
+   "title": "Hierarchical Reinforcement Learning and Model Predictive Control for Strategic Motion Planning in Autonomous Racing",
+   "authors": [
+    "Rudolf Reiter",
+    "Jasper Hoffmann",
+    "Joschka Boedecker",
+    "Moritz Diehl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EYDJy0E7gy",
+   "pdf_url": "https://openreview.net/pdf?id=EYDJy0E7gy"
+  },
+  {
+   "title": "Hybrid Recurrent Models Support Emergent Descriptions for Hierarchical Planning and Control",
+   "authors": [
+    "Poppy Collis",
+    "Ryan Singh",
+    "Paul Kinghorn",
+    "Christopher Buckley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=956TTbUHt8",
+   "pdf_url": "https://openreview.net/pdf?id=956TTbUHt8"
+  },
+  {
+   "title": "Identifiable latent bandits: Combining observational data and exploration for personalized healthcare",
+   "authors": [
+    "Ahmet Zahid Balcıoğlu",
+    "Emil Carlsson",
+    "Fredrik D. Johansson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VMBfEHCahS",
+   "pdf_url": "https://openreview.net/pdf?id=VMBfEHCahS"
+  },
+  {
+   "title": "Improved Algorithms for Contextual Dynamic Pricing",
+   "authors": [
+    "Matilde Tullii",
+    "Solenne Gaucher",
+    "Nadav Merlis",
+    "Vianney Perchet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cwfTvTcDgD",
+   "pdf_url": "https://openreview.net/pdf?id=cwfTvTcDgD"
+  },
+  {
+   "title": "Learning HJB Viscosity Solutions with PINNs for Continuous-Time Reinforcement Learning",
+   "authors": [
+    "Alena Shilova",
+    "Thomas Delliaux",
+    "Philippe Preux",
+    "Bruno Raffin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O7U21p0jzS",
+   "pdf_url": "https://openreview.net/pdf?id=O7U21p0jzS"
+  },
+  {
+   "title": "Learning Nash Equilibria in Zero-Sum Markov Games: A Single-Timescale Algorithm Under Weak Reachability",
+   "authors": [
+    "Reda Ouhamma",
+    "Maryam Kamgarpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X67WmOj5wi",
+   "pdf_url": "https://openreview.net/pdf?id=X67WmOj5wi"
+  },
+  {
+   "title": "Learning to Explore with Lagrangians for Bandits under Unknown Constraints",
+   "authors": [
+    "Udvas Das",
+    "Debabrota Basu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yHYVE8mmpo",
+   "pdf_url": "https://openreview.net/pdf?id=yHYVE8mmpo"
+  },
+  {
+   "title": "Learning When to Trust the Expert for Guided Exploration in RL",
+   "authors": [
+    "Felix Schulz",
+    "Jasper Hoffmann",
+    "Yuan Zhang",
+    "Joschka Boedecker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QkTANn4mRa",
+   "pdf_url": "https://openreview.net/pdf?id=QkTANn4mRa"
+  },
+  {
+   "title": "Mitigating Partial Observability in Sequential Decision Processes via the Lambda Discrepancy",
+   "authors": [
+    "Cameron Allen",
+    "Aaron T. Kirtland",
+    "Ruo Yu Tao",
+    "Sam Lobel",
+    "Daniel Scott",
+    "Nicholas Petrocelli",
+    "Omer Gottesman",
+    "Ronald Parr",
+    "Michael Littman",
+    "George Konidaris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KpwJiBc5kC",
+   "pdf_url": "https://openreview.net/pdf?id=KpwJiBc5kC"
+  },
+  {
+   "title": "Model Based Diffusion for Trajectory Optimization",
+   "authors": [
+    "Chaoyi Pan",
+    "Zeji Yi",
+    "Guanya Shi",
+    "Guannan Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGSYT5fFDg",
+   "pdf_url": "https://openreview.net/pdf?id=gGSYT5fFDg"
+  },
+  {
+   "title": "Multiple-policy Evaluation via Density Estimation",
+   "authors": [
+    "Yilei Chen",
+    "Aldo Pacchiano",
+    "Ioannis Paschalidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LMiPnF8wym",
+   "pdf_url": "https://openreview.net/pdf?id=LMiPnF8wym"
+  },
+  {
+   "title": "NEORL: Efficient Exploration for Nonepisodic RL",
+   "authors": [
+    "Bhavya Sukhija",
+    "Lenart Treven",
+    "Florian Dorfler",
+    "Stelian Coros",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Sx9DI7KoE",
+   "pdf_url": "https://openreview.net/pdf?id=5Sx9DI7KoE"
+  },
+  {
+   "title": "Neural Dueling Bandits",
+   "authors": [
+    "Arun Verma",
+    "Zhongxiang Dai",
+    "Xiaoqiang Lin",
+    "Patrick Jaillet",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hh0b1HlrZJ",
+   "pdf_url": "https://openreview.net/pdf?id=Hh0b1HlrZJ"
+  },
+  {
+   "title": "Non-ergodicity in reinforcement learning: robustness via ergodicity transformations",
+   "authors": [
+    "Dominik Baumann",
+    "Erfaun Noorani",
+    "James Price",
+    "Ole Peters",
+    "Colm Connaughton",
+    "Thomas B. Schön"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q1g7t8NIxg",
+   "pdf_url": "https://openreview.net/pdf?id=q1g7t8NIxg"
+  },
+  {
+   "title": "Non-Linear $H_\\infty$ Robustness Guarantees for Neural Network Policies",
+   "authors": [
+    "Daniel Urieli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8ov6H5cpRz",
+   "pdf_url": "https://openreview.net/pdf?id=8ov6H5cpRz"
+  },
+  {
+   "title": "On PI Controllers for Updating Lagrange Multipliers in Constrained Optimization",
+   "authors": [
+    "Motahareh Sohrabi",
+    "Juan Ramirez",
+    "Tianyue H. Zhang",
+    "Simon Lacoste-Julien",
+    "Jose Gallego-Posada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8eYgCnsQmp",
+   "pdf_url": "https://openreview.net/pdf?id=8eYgCnsQmp"
+  },
+  {
+   "title": "On Robust Reinforcement Learning with Lipschitz-Bounded Policy Networks",
+   "authors": [
+    "Nicholas H. Barbara",
+    "Ruigang Wang",
+    "Ian Manchester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ammDisMt1K",
+   "pdf_url": "https://openreview.net/pdf?id=ammDisMt1K"
+  },
+  {
+   "title": "Online Optimization of Closed-Loop Control Systems",
+   "authors": [
+    "Hao Ma",
+    "Melanie Zeilinger",
+    "Michael Muehlebach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M0uZqpkzpV",
+   "pdf_url": "https://openreview.net/pdf?id=M0uZqpkzpV"
+  },
+  {
+   "title": "Online Performance Optimization of Nonlinear Systems: A Gray-Box Approach",
+   "authors": [
+    "Zhiyu He",
+    "Michael Muehlebach",
+    "Saverio Bolognani",
+    "Florian Dorfler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QRFaHhrJUv",
+   "pdf_url": "https://openreview.net/pdf?id=QRFaHhrJUv"
+  },
+  {
+   "title": "Optimality of Stationary Policies in Risk-averse Total-reward MDPs with EVaR",
+   "authors": [
+    "Xihong Su",
+    "Marek Petrik",
+    "Julien Grand-Clément"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZEcB2ysTSv",
+   "pdf_url": "https://openreview.net/pdf?id=ZEcB2ysTSv"
+  },
+  {
+   "title": "Optimistic Information Directed Sampling",
+   "authors": [
+    "Gergely Neu",
+    "Matteo Papini",
+    "Ludovic Schwartz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=34ROMGn9Kb",
+   "pdf_url": "https://openreview.net/pdf?id=34ROMGn9Kb"
+  },
+  {
+   "title": "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits",
+   "authors": [
+    "Muhammad Qasim Elahi",
+    "Mahsa Ghasemi",
+    "Murat Kocaoglu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q0aCd8oshv",
+   "pdf_url": "https://openreview.net/pdf?id=Q0aCd8oshv"
+  },
+  {
+   "title": "Pink Noise LQR: How does Colored Noise affect the Optimal Policy in RL?",
+   "authors": [
+    "Jakob Hollenstein",
+    "Marko Zaric",
+    "Samuele Tosatto",
+    "Justus Piater"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xRRWrxAKFL",
+   "pdf_url": "https://openreview.net/pdf?id=xRRWrxAKFL"
+  },
+  {
+   "title": "Power Mean Estimation in Stochastic Monte-Carlo Tree Search",
+   "authors": [
+    "Tuan Quang Dam",
+    "Odalric-Ambrym Maillard",
+    "Emilie Kaufmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jdCChytUcc",
+   "pdf_url": "https://openreview.net/pdf?id=jdCChytUcc"
+  },
+  {
+   "title": "Preference Elicitation for Offline Reinforcement Learning",
+   "authors": [
+    "Alizée Pace",
+    "Bernhard Schölkopf",
+    "Gunnar Ratsch",
+    "Giorgia Ramponi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YGaRv4UCRh",
+   "pdf_url": "https://openreview.net/pdf?id=YGaRv4UCRh"
+  },
+  {
+   "title": "Randomized Confidence Bounds for Stochastic Partial Monitoring",
+   "authors": [
+    "Maxime Heuillet",
+    "Ola Ahmad",
+    "Audrey Durand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bgjKQf5oo9",
+   "pdf_url": "https://openreview.net/pdf?id=bgjKQf5oo9"
+  },
+  {
+   "title": "Recommender System Design via Online Feedback Optimization",
+   "authors": [
+    "Sanjay Chandrasekaran",
+    "Giulia De Pasquale",
+    "Giuseppe Belgioioso",
+    "Florian Dorfler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ITHzdBa8hE",
+   "pdf_url": "https://openreview.net/pdf?id=ITHzdBa8hE"
+  },
+  {
+   "title": "Recurrent Natural Policy Gradient for POMDPs",
+   "authors": [
+    "Semih Cayci",
+    "Atilla Eryilmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dzprWKGiFJ",
+   "pdf_url": "https://openreview.net/pdf?id=dzprWKGiFJ"
+  },
+  {
+   "title": "Reinforcement Learning of Adaptive Acquisition Policies for Inverse Problems",
+   "authors": [
+    "Gianluigi Silvestri",
+    "Fabio Valerio Massoli",
+    "Tribhuvanesh Orekondy",
+    "Afshin Abdi",
+    "Arash Behboodi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4HYkrbUGAm",
+   "pdf_url": "https://openreview.net/pdf?id=4HYkrbUGAm"
+  },
+  {
+   "title": "Reinforcement Learning with Lookahead Information",
+   "authors": [
+    "Nadav Merlis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7YUQAUjD4L",
+   "pdf_url": "https://openreview.net/pdf?id=7YUQAUjD4L"
+  },
+  {
+   "title": "Reinforcement Learning with Quasi-Hyperbolic Discounting",
+   "authors": [
+    "Eshwar S R",
+    "Nibedita Roy",
+    "Gugan Thoppe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5AkS2x83dR",
+   "pdf_url": "https://openreview.net/pdf?id=5AkS2x83dR"
+  },
+  {
+   "title": "Robust Best-of-Both-Worlds Gap Estimators Based on Importance-Weighted Sampling",
+   "authors": [
+    "Sarah Clusiau",
+    "Saeed Masoudian",
+    "Yevgeny Seldin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YVWViE37wK",
+   "pdf_url": "https://openreview.net/pdf?id=YVWViE37wK"
+  },
+  {
+   "title": "Safe online nonstochastic control from data",
+   "authors": [
+    "Sebastian Kerz",
+    "Armin Lederer",
+    "Marion Leibold",
+    "Dirk Wollherr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pteiJvs060",
+   "pdf_url": "https://openreview.net/pdf?id=pteiJvs060"
+  },
+  {
+   "title": "Safe Reinforcement Learning with Contrastive Risk Prediction",
+   "authors": [
+    "Hanping Zhang",
+    "Yuhong Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q3ywAB3qJu",
+   "pdf_url": "https://openreview.net/pdf?id=Q3ywAB3qJu"
+  },
+  {
+   "title": "SMX: Sequential Monte Carlo Planning for Expert Iteration",
+   "authors": [
+    "Edan Toledo",
+    "Matthew Macfarlane",
+    "Donal John Byrne",
+    "Siddarth Singh",
+    "Paul Duckworth",
+    "Alexandre Laterre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a5hWhriatS",
+   "pdf_url": "https://openreview.net/pdf?id=a5hWhriatS"
+  },
+  {
+   "title": "Sum-Max Submodular Bandits",
+   "authors": [
+    "Stephen Pasteris",
+    "Alberto Rumi",
+    "Fabio Vitale",
+    "Nicolò Cesa-Bianchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hKDUiGn3h7",
+   "pdf_url": "https://openreview.net/pdf?id=hKDUiGn3h7"
+  },
+  {
+   "title": "The Minimax Regret of Sequential Probability Assignment, Contextual Shtarkov Sums, and Contextual Normalized Maximum Likelihood",
+   "authors": [
+    "Ziyi Liu",
+    "Idan Attias",
+    "Daniel M. Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mbo0Rq9qbe",
+   "pdf_url": "https://openreview.net/pdf?id=Mbo0Rq9qbe"
+  },
+  {
+   "title": "The Value of Reward Lookahead in Reinforcement Learning",
+   "authors": [
+    "Nadav Merlis",
+    "Dorian Baudry",
+    "Vianney Perchet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x1179yl5la",
+   "pdf_url": "https://openreview.net/pdf?id=x1179yl5la"
+  },
+  {
+   "title": "Tight Bounds for Online Convex Optimization with Adversarial Constraints",
+   "authors": [
+    "Abhishek Sinha",
+    "Rahul Vaze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=old9jd3TUu",
+   "pdf_url": "https://openreview.net/pdf?id=old9jd3TUu"
+  },
+  {
+   "title": "Towards Empowerment Gain through Causal Structure Learning in Model-Based RL",
+   "authors": [
+    "Hongye Cao",
+    "Fan Feng",
+    "Meng Fang",
+    "Shaokang Dong",
+    "Jing Huo",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGMYJQcdnh",
+   "pdf_url": "https://openreview.net/pdf?id=MGMYJQcdnh"
+  },
+  {
+   "title": "Truly No-Regret Learning in Constrained MDPs",
+   "authors": [
+    "Adrian Müller",
+    "Pragnya Alatur",
+    "Volkan Cevher",
+    "Giorgia Ramponi",
+    "Niao He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sL11g7zNJV",
+   "pdf_url": "https://openreview.net/pdf?id=sL11g7zNJV"
+  },
+  {
+   "title": "Uniform Last-Iterate Guarantee for Bandits and Reinforcement Learning",
+   "authors": [
+    "Junyan Liu",
+    "Yunfan Li",
+    "Ruosong Wang",
+    "Lin Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xHm4duoogA",
+   "pdf_url": "https://openreview.net/pdf?id=xHm4duoogA"
+  },
+  {
+   "title": "Variance-Dependent Regret Bounds for Nonstationary Linear Bandits",
+   "authors": [
+    "Zhiyong Wang",
+    "Jize Xie",
+    "Yi Chen",
+    "John C.S. Lui",
+    "Dongruo Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PyffaAY7Kc",
+   "pdf_url": "https://openreview.net/pdf?id=PyffaAY7Kc"
+  },
+  {
+   "title": "When is Mean-Field Reinforcement Learning Tractable and Relevant?",
+   "authors": [
+    "Batuhan Yardim",
+    "Artur Goldman",
+    "Niao He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Cq4mstDnAX",
+   "pdf_url": "https://openreview.net/pdf?id=Cq4mstDnAX"
+  }
+ ]
+}

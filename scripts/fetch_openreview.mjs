@@ -24,7 +24,10 @@ const UA = 'ml-workshop-tracker/1.0 (open-source workshop aggregator; github)';
 const SLEEP_MS = 1100;
 const PAGE = 1000;
 const MAX_PAPERS = 3000;
-const ABSTRACT_MAX = 1500;
+// Abstracts are dropped by default to keep the repo small (titles+authors
+// still power search). Re-enable with --abstracts 1500.
+const abstractsFlag = process.argv.indexOf('--abstracts');
+const ABSTRACT_MAX = abstractsFlag !== -1 ? Number(process.argv[abstractsFlag + 1]) || 0 : 0;
 
 const args = process.argv.slice(2);
 const mode = args.includes('--all') ? 'all' : args.includes('--recent') ? 'recent' : 'missing';
@@ -39,6 +42,7 @@ async function getJson(url) {
 }
 
 function cleanAbstract(s) {
+  if (ABSTRACT_MAX <= 0) return '';
   const t = String(s ?? '').replace(/\s+/g, ' ').trim();
   return t.length > ABSTRACT_MAX ? t.slice(0, ABSTRACT_MAX) + '…' : t;
 }
@@ -50,13 +54,15 @@ function normalizeNote(note, apiVersion) {
   const title = val('title');
   if (!title) return null;
   const pdf = val('pdf');
-  return {
+  const out = {
     title: String(title).trim(),
     authors: Array.isArray(val('authors')) ? val('authors') : [],
-    abstract: cleanAbstract(val('abstract')),
     forum_url: note.forum ? `https://openreview.net/forum?id=${note.forum}` : null,
     pdf_url: pdf ? `https://openreview.net/pdf?id=${note.forum ?? note.id}` : null,
   };
+  const abstract = cleanAbstract(val('abstract'));
+  if (abstract) out.abstract = abstract;
+  return out;
 }
 
 async function fetchPaged(baseUrl, apiVersion) {
@@ -74,13 +80,17 @@ async function fetchPaged(baseUrl, apiVersion) {
   return papers;
 }
 
-async function fetchVenue(venueId) {
+async function fetchVenue(venueId, year) {
   // API v2: accepted papers carry content.venueid = the venue id.
   let papers = await fetchPaged(
     `${API_V2}/notes?content.venueid=${encodeURIComponent(venueId)}`,
     2,
   );
   if (papers.length > 0) return { papers, api: 'v2' };
+  // v2 query succeeded but no accepted papers are visible (yet). For modern
+  // venues record an empty cache (the monthly refresh fills it once decisions
+  // are out) instead of falling back to the long-gone v1 API.
+  if (year >= 2024) return { papers: [], api: 'v2' };
 
   // API v1 fallback (mostly pre-2023 venues). Acceptance filtering on v1 is
   // venue-specific, so this may include non-accepted submissions — flagged in meta.
@@ -111,7 +121,7 @@ let changed = 0;
 for (const w of targets) {
   process.stdout.write(`• ${w.slug}  (${w.openreview_venue_id}) … `);
   try {
-    const { papers, api, caveat } = await fetchVenue(w.openreview_venue_id);
+    const { papers, api, caveat } = await fetchVenue(w.openreview_venue_id, w.year);
     if (!api) {
       console.log('no papers found on either API — skipped');
     } else {

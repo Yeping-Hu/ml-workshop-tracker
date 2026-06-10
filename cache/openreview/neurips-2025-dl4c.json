@@ -1,0 +1,894 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/DL4C",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:39.431Z",
+ "paper_count": 69,
+ "papers": [
+  {
+   "title": "A Matter of Representation: Towards Graph-Based Abstract Code Generation",
+   "authors": [
+    "Nyx Audrey Angelo Iskandar",
+    "Hisham Bedri",
+    "Andy Tsen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0FEWW6Xf54",
+   "pdf_url": "https://openreview.net/pdf?id=0FEWW6Xf54"
+  },
+  {
+   "title": "A Note on the Code Quality Score System: LLMs for Maintainable Large Codebases",
+   "authors": [
+    "Jalaj Bhandari",
+    "Sherman Wong",
+    "Fan Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9HgWk7tKPi",
+   "pdf_url": "https://openreview.net/pdf?id=9HgWk7tKPi"
+  },
+  {
+   "title": "Adapting Language Models for Low-Resource Programming Languages",
+   "authors": [
+    "Ananya Singha",
+    "Mukul Singh",
+    "Hosein Hasanbeig",
+    "Arjun Radhakrishna",
+    "Sumit Gulwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ctRK8h3AZ",
+   "pdf_url": "https://openreview.net/pdf?id=2ctRK8h3AZ"
+  },
+  {
+   "title": "Advancing Environment Setup LLMs through Online Reinforcement Learning",
+   "authors": [
+    "Alexander Kovrigin",
+    "Aleksandra Eliseeva",
+    "Konstantin Grotov",
+    "Egor Bogomolov",
+    "Yaroslav Zharov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9TsxdPdhSz",
+   "pdf_url": "https://openreview.net/pdf?id=9TsxdPdhSz"
+  },
+  {
+   "title": "Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem",
+   "authors": [
+    "Muhammad Maaz",
+    "Liam DeVoe",
+    "Zac Hatfield-Dodds",
+    "Nicholas Carlini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0ajBvBWKrB",
+   "pdf_url": "https://openreview.net/pdf?id=0ajBvBWKrB"
+  },
+  {
+   "title": "Agint: Agentic Graph Compilation for Software Engineering Agents",
+   "authors": [
+    "Abhiram Chivukula",
+    "Jay Somasundaram",
+    "Vijay Somasundaram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0cxwLB6FHK",
+   "pdf_url": "https://openreview.net/pdf?id=0cxwLB6FHK"
+  },
+  {
+   "title": "Asm2SrcEval: Evaluating Large Language Models for Assembly to Source Code Translation",
+   "authors": [
+    "Parisa Hamedi",
+    "Hamed Jelodar",
+    "Samita Bai",
+    "Mohammad Meymani",
+    "Roozbeh Razavi-Far",
+    "Ali A. Ghorbani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=paM4QEEbb0",
+   "pdf_url": "https://openreview.net/pdf?id=paM4QEEbb0"
+  },
+  {
+   "title": "Astra: A Multi-Agent System for GPU Kernel Performance Optimization",
+   "authors": [
+    "Anjiang Wei",
+    "Tianran Sun",
+    "Yogesh Seenichamy",
+    "Hang Song",
+    "Anne Ouyang",
+    "Azalia Mirhoseini",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IZKZIcPaHz",
+   "pdf_url": "https://openreview.net/pdf?id=IZKZIcPaHz"
+  },
+  {
+   "title": "Beyond Accuracy: Realistic and Diagnostic Evaluation of Code Generation Models",
+   "authors": [
+    "Pareesa Ameneh Golnari",
+    "Adarsh Kumarappan",
+    "Wen Wen",
+    "Xiaoyu Liu",
+    "Gabriel Ryan",
+    "Yuting Sun",
+    "Shengyu Fu",
+    "Elsie Nallipogu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MZCFXe4NgR",
+   "pdf_url": "https://openreview.net/pdf?id=MZCFXe4NgR"
+  },
+  {
+   "title": "BUILD-BENCH: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
+   "authors": [
+    "Zehua Zhang",
+    "Ati Priya Bajaj",
+    "Divij Handa",
+    "Siyu Liu",
+    "Arvind S Raj",
+    "Hongkai Chen",
+    "Hulin Wang",
+    "Yibo Liu",
+    "Zion Leonahenahe Basque",
+    "Souradip Nath",
+    "Vishal Juneja",
+    "Nikhil Chapre",
+    "Yan Shoshitaishvili",
+    "Adam Doupe",
+    "Chitta Baral",
+    "Ruoyu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZqFdnJLXHP",
+   "pdf_url": "https://openreview.net/pdf?id=ZqFdnJLXHP"
+  },
+  {
+   "title": "Can Test-Time Compute Help LLMs Write Low-Resource Parallel Code Better?",
+   "authors": [
+    "Gautam Singh",
+    "Arjun Guha",
+    "Bhavya Kailkhura",
+    "Harshitha Menon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0RnJzt8v84",
+   "pdf_url": "https://openreview.net/pdf?id=0RnJzt8v84"
+  },
+  {
+   "title": "ChopChop: Semantically Constraining the Code Output of Language Models",
+   "authors": [
+    "Shaan Nagy",
+    "Timothy Zhou",
+    "Nadia Polikarpova",
+    "Loris D'Antoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B8UIezv3BS",
+   "pdf_url": "https://openreview.net/pdf?id=B8UIezv3BS"
+  },
+  {
+   "title": "Code2Video: A Code-centric Paradigm for Educational Video Generation",
+   "authors": [
+    "Yanzhe Chen",
+    "Kevin Qinghong Lin",
+    "Mike Zheng Shou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iuTUbkZO75",
+   "pdf_url": "https://openreview.net/pdf?id=iuTUbkZO75"
+  },
+  {
+   "title": "CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis",
+   "authors": [
+    "Anjiang Wei",
+    "Tarun Suresh",
+    "Jiannan Cao",
+    "Naveen Kannan",
+    "Yuheng Wu",
+    "Kai Yan",
+    "Thiago S. F. X. Teixeira",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NImIdZFJXW",
+   "pdf_url": "https://openreview.net/pdf?id=NImIdZFJXW"
+  },
+  {
+   "title": "CodeEvo: Interaction-Driven Synthesis of Code-centric Data through Hybrid and Iterative Feedback",
+   "authors": [
+    "Qiushi Sun",
+    "Jingyang Gong",
+    "Qipeng Guo",
+    "Lei Li",
+    "Fei Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hPKoXc68sy",
+   "pdf_url": "https://openreview.net/pdf?id=hPKoXc68sy"
+  },
+  {
+   "title": "CodeMirage: A Multi-Lingual Benchmark for Detecting AI-Generated and Paraphrased Source Code from Production-Level LLMs",
+   "authors": [
+    "Hanxi Guo",
+    "Siyuan Cheng",
+    "Kaiyuan Zhang",
+    "Guangyu Shen",
+    "Xiangyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kh1Iz5lVmz",
+   "pdf_url": "https://openreview.net/pdf?id=Kh1Iz5lVmz"
+  },
+  {
+   "title": "CoDyn: Dynamic LLM Routing for Coding Tasks",
+   "authors": [
+    "Mirazul Haque",
+    "Petr Babkin",
+    "Vali Tawosi",
+    "Saba Rahimi",
+    "Natraj Raman",
+    "Xiaomo Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0ox03jE6jb",
+   "pdf_url": "https://openreview.net/pdf?id=0ox03jE6jb"
+  },
+  {
+   "title": "Constrained Decoding of Diffusion LLMs with Context-Free Grammars",
+   "authors": [
+    "Niels Mündler",
+    "Jasper Dekoninck",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fwH661m0Kq",
+   "pdf_url": "https://openreview.net/pdf?id=fwH661m0Kq"
+  },
+  {
+   "title": "Cyber-Zero: Training Cybersecurity Agents without Runtime",
+   "authors": [
+    "Terry Yue Zhuo",
+    "Dingmin Wang",
+    "Hantian Ding",
+    "Varun Kumar",
+    "Zijian Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D9kdB63vUJ",
+   "pdf_url": "https://openreview.net/pdf?id=D9kdB63vUJ"
+  },
+  {
+   "title": "Deep-Reproducer: From Paper Understanding to Code Generation",
+   "authors": [
+    "Pengcheng Chen",
+    "Ning Yan",
+    "Zihan Zhao",
+    "Yixiao Lin",
+    "Huaibo Chen",
+    "Yue Hu",
+    "Qinbo Bai",
+    "Xiang Li",
+    "Masood S. Mortazavi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zw2DpSxnXn",
+   "pdf_url": "https://openreview.net/pdf?id=zw2DpSxnXn"
+  },
+  {
+   "title": "Demystify the Potential of Large Language Models as General-Purpose Surrogate Code Executors",
+   "authors": [
+    "Bohan Lyu",
+    "Siqiao Huang",
+    "Zichen Liang",
+    "Wenjia Yang",
+    "Qian Sun",
+    "Jiaming Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HTbrAwQwwv",
+   "pdf_url": "https://openreview.net/pdf?id=HTbrAwQwwv"
+  },
+  {
+   "title": "Diff-XYZ: A Benchmark for Evaluating Diff Understanding",
+   "authors": [
+    "Evgeniy Glukhov",
+    "Michele Conti",
+    "Egor Bogomolov",
+    "Yaroslav Golubev",
+    "Alex Bezzubov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1TgJd7uxOM",
+   "pdf_url": "https://openreview.net/pdf?id=1TgJd7uxOM"
+  },
+  {
+   "title": "DuoLens: A Framework for Robust Detection of Machine-Generated Multilingual Text and Code",
+   "authors": [
+    "Shriyansh Agrawal",
+    "Aidan Lau",
+    "Sanyam Shah",
+    "Ahan M R",
+    "Kevin Zhu",
+    "Sunishchal Dev",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M8UjFQU1nK",
+   "pdf_url": "https://openreview.net/pdf?id=M8UjFQU1nK"
+  },
+  {
+   "title": "Efficient Code Embeddings from Code Generation Models",
+   "authors": [
+    "Daria Kryvosheieva",
+    "Saba Sturua",
+    "Michael Günther",
+    "Scott Martens",
+    "Han Xiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=smR7RPdWZs",
+   "pdf_url": "https://openreview.net/pdf?id=smR7RPdWZs"
+  },
+  {
+   "title": "Ensuring Functional Correctness of Large Code Models with Selective Generation",
+   "authors": [
+    "Jaewoo Jeong",
+    "Taesoo Kim",
+    "Sangdon Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qzAnF8x0GE",
+   "pdf_url": "https://openreview.net/pdf?id=qzAnF8x0GE"
+  },
+  {
+   "title": "EquiBench: Benchmarking Large Language Models’ Understanding of Program Semantics via Equivalence Checking",
+   "authors": [
+    "Anjiang Wei",
+    "Jiannan Cao",
+    "Ran Li",
+    "Hongyu Chen",
+    "Yuhui Zhang",
+    "Ziheng Wang",
+    "Yuan Liu",
+    "Thiago S. F. X. Teixeira",
+    "Diyi Yang",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T6xzZvtEAv",
+   "pdf_url": "https://openreview.net/pdf?id=T6xzZvtEAv"
+  },
+  {
+   "title": "FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration",
+   "authors": [
+    "Victor May",
+    "Diganta Misra",
+    "Yanqi Luo",
+    "Anjali Sridhar",
+    "Justine Gehring",
+    "Silvio Soares Ribeiro Junior"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V3y7Jyyb9g",
+   "pdf_url": "https://openreview.net/pdf?id=V3y7Jyyb9g"
+  },
+  {
+   "title": "GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities",
+   "authors": [
+    "Diganta Misra",
+    "Nizar Islah",
+    "Victor May",
+    "Brice Rauby",
+    "Zihan Wang",
+    "Justine Gehring",
+    "Antonio Orvieto",
+    "Muawiz Sajjad Chaudhary",
+    "Eilif B. Muller",
+    "Irina Rish",
+    "Samira Ebrahimi Kahou",
+    "Massimo Caccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wtqdcVfJUN",
+   "pdf_url": "https://openreview.net/pdf?id=wtqdcVfJUN"
+  },
+  {
+   "title": "Good-Enough Structured Generation: A Case Study on JSON Schema",
+   "authors": [
+    "Ivan Lee",
+    "Loris D'Antoni",
+    "Taylor Berg-Kirkpatrick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p84kZ3ZFux",
+   "pdf_url": "https://openreview.net/pdf?id=p84kZ3ZFux"
+  },
+  {
+   "title": "HardTests: Synthesizing High-Quality Test Cases for LLM Coding",
+   "authors": [
+    "Zhongmou He",
+    "Yee Man Choi",
+    "Kexun Zhang",
+    "Jiabao Ji",
+    "Junting Zhou",
+    "Dejia Xu",
+    "Ivan Bercovich",
+    "Aidan Zhang",
+    "Lei Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cUdqICr7aZ",
+   "pdf_url": "https://openreview.net/pdf?id=cUdqICr7aZ"
+  },
+  {
+   "title": "HarnessLLM: Automatic Testing Harness Generation via Reinforcement Learning",
+   "authors": [
+    "Yujian Liu",
+    "Jiabao Ji",
+    "Yang Zhang",
+    "Wenbo Guo",
+    "Tommi Jaakkola",
+    "Shiyu Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GLPMu8aHzk",
+   "pdf_url": "https://openreview.net/pdf?id=GLPMu8aHzk"
+  },
+  {
+   "title": "Improving Assembly Code Performance with Large Language Models via Reinforcement Learning",
+   "authors": [
+    "Anjiang Wei",
+    "Tarun Suresh",
+    "Huanmi Tan",
+    "Yinglun Xu",
+    "Gagandeep Singh",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gEVRdzKcPk",
+   "pdf_url": "https://openreview.net/pdf?id=gEVRdzKcPk"
+  },
+  {
+   "title": "Improving Parallel Program Performance with LLM Optimizers via Agent-System Interfaces",
+   "authors": [
+    "Anjiang Wei",
+    "Allen Nie",
+    "Thiago S. F. X. Teixeira",
+    "Rohan Yadav",
+    "Wonchan Lee",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KunuiVu5ei",
+   "pdf_url": "https://openreview.net/pdf?id=KunuiVu5ei"
+  },
+  {
+   "title": "In-Context Learning for Esoteric Programming Languages: Evaluating and Enhancing LLM Reasoning Without Fine-Tuning",
+   "authors": [
+    "Saraswathy Amjith",
+    "Michael X. Wang",
+    "Jayson Lynch",
+    "Arul Kolla",
+    "Neil Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wj9ccBP4uY",
+   "pdf_url": "https://openreview.net/pdf?id=wj9ccBP4uY"
+  },
+  {
+   "title": "Increasing LLM Coding Capabilities through Diverse Synthetic Coding Tasks",
+   "authors": [
+    "Amal Abed",
+    "Ivan Lukic",
+    "Jörg K.H. Franke",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rpwfwuOOdp",
+   "pdf_url": "https://openreview.net/pdf?id=rpwfwuOOdp"
+  },
+  {
+   "title": "Interactive Evaluation of Large Language Models for Multi-Requirement Software Engineering Tasks",
+   "authors": [
+    "Dimitrios Rontogiannis",
+    "Maxime Peyrard",
+    "Nicolas Baldwin",
+    "Martin Josifoski",
+    "Robert West",
+    "Dimitrios Gunopulos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wg3rZ1RNfu",
+   "pdf_url": "https://openreview.net/pdf?id=Wg3rZ1RNfu"
+  },
+  {
+   "title": "Is Your Benchmark Still Useful? Dynamic Benchmarking for Code Language Models",
+   "authors": [
+    "Batu Guan",
+    "Xiao Wu",
+    "Yuanyuan Yuan",
+    "Shaohua Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MNRLUoaUbw",
+   "pdf_url": "https://openreview.net/pdf?id=MNRLUoaUbw"
+  },
+  {
+   "title": "Learning From Design Procedure To Generate CAD Programs for Data Augmentation",
+   "authors": [
+    "Yan-Ying Chen",
+    "Dule Shu",
+    "Matthew K Hong",
+    "Andrew Taber",
+    "Jonathan Qiang Li",
+    "Matthew Klenk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vMFUWAvmf0",
+   "pdf_url": "https://openreview.net/pdf?id=vMFUWAvmf0"
+  },
+  {
+   "title": "Learning to Solve and Verify: A Self-Play Framework for Mutually Improving Code and Test Generation",
+   "authors": [
+    "Zi Lin",
+    "Sheng Shen",
+    "Jingbo Shang",
+    "Jason E Weston",
+    "Yixin Nie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j6tMZaPWWF",
+   "pdf_url": "https://openreview.net/pdf?id=j6tMZaPWWF"
+  },
+  {
+   "title": "LLM-Driven Multi-step Translation from C to Rust using Static Analysis",
+   "authors": [
+    "Tianyang Zhou",
+    "Haowen Lin",
+    "Somesh Jha",
+    "Mihai Christodorescu",
+    "Kirill Levchenko",
+    "Varun Chandrasekaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i5MwgkeGZN",
+   "pdf_url": "https://openreview.net/pdf?id=i5MwgkeGZN"
+  },
+  {
+   "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures",
+   "authors": [
+    "Hai Huang",
+    "Yann LeCun",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=meGygz3CkM",
+   "pdf_url": "https://openreview.net/pdf?id=meGygz3CkM"
+  },
+  {
+   "title": "MOSAIC: Multi-agent Orchestration for Task-Intelligent Scientific Coding",
+   "authors": [
+    "Siddeshwar Raghavan",
+    "Tanwi Mallick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vjUOIIx8lb",
+   "pdf_url": "https://openreview.net/pdf?id=vjUOIIx8lb"
+  },
+  {
+   "title": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+   "authors": [
+    "Minju Seo",
+    "Jinheon Baek",
+    "Seongyun Lee",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sehFd0idWo",
+   "pdf_url": "https://openreview.net/pdf?id=sehFd0idWo"
+  },
+  {
+   "title": "Practical Code RAG at Scale: Task-Aware Retrieval Design Choices under Compute Budgets",
+   "authors": [
+    "Timur Galimzyanov",
+    "Olga Kolomyttseva",
+    "Egor Bogomolov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=twV78Ytnve",
+   "pdf_url": "https://openreview.net/pdf?id=twV78Ytnve"
+  },
+  {
+   "title": "pydra: Probing Code Representations With Synthetic Clones and Bugs",
+   "authors": [
+    "Ellie Kitanidis",
+    "Cole J Hunter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SXVdrngi18",
+   "pdf_url": "https://openreview.net/pdf?id=SXVdrngi18"
+  },
+  {
+   "title": "R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
+   "authors": [
+    "Naman Jain",
+    "Jaskirat Singh",
+    "Manish Shetty",
+    "Tianjun Zhang",
+    "Liang Zheng",
+    "Koushik Sen",
+    "Ion Stoica"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bbxU1MXEb9",
+   "pdf_url": "https://openreview.net/pdf?id=bbxU1MXEb9"
+  },
+  {
+   "title": "Random Baselines for Simple Code Problems are Competitive with Code Evolution",
+   "authors": [
+    "Yonatan Gideoni",
+    "Yujin Tang",
+    "Sebastian Risi",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rbVIpbmbTc",
+   "pdf_url": "https://openreview.net/pdf?id=rbVIpbmbTc"
+  },
+  {
+   "title": "Refactoring Codebases through Library Design",
+   "authors": [
+    "Žiga Kovačič",
+    "Justin T Chiu",
+    "Celine Lee",
+    "Wenting Zhao",
+    "Kevin Ellis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qUf8qdxR9I",
+   "pdf_url": "https://openreview.net/pdf?id=qUf8qdxR9I"
+  },
+  {
+   "title": "RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for Rocq generation",
+   "authors": [
+    "Andrei Kozyrev",
+    "Nikita Khramov",
+    "Gleb Solovev",
+    "Anton Podkopaev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YTbQdxQyv4",
+   "pdf_url": "https://openreview.net/pdf?id=YTbQdxQyv4"
+  },
+  {
+   "title": "SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas",
+   "authors": [
+    "Anjiang Wei",
+    "Yuheng Wu",
+    "Yingjia Wan",
+    "Tarun Suresh",
+    "Huanmi Tan",
+    "Zhanke Zhou",
+    "Sanmi Koyejo",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LU2o4OfKEP",
+   "pdf_url": "https://openreview.net/pdf?id=LU2o4OfKEP"
+  },
+  {
+   "title": "Scaling Test-Time Compute to Achieve IOI Gold Medal with Open-Weight Models",
+   "authors": [
+    "Mehrzad Samadi",
+    "Aleksander Ficek",
+    "Sean Narenthiran",
+    "Siddhartha Jain",
+    "Wasi Uddin Ahmad",
+    "Somshubra Majumdar",
+    "Vahid Noroozi",
+    "Boris Ginsburg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ss2VOruUAc",
+   "pdf_url": "https://openreview.net/pdf?id=Ss2VOruUAc"
+  },
+  {
+   "title": "Schema Lineage Extraction at Scale: Multilingual Pipelines, Composite Evaluation, and Language-Model Benchmarks",
+   "authors": [
+    "Jiaqi Yin",
+    "Yi-Wei Chen",
+    "Meng-Lung Lee",
+    "Xiya Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MEeLpPqEIV",
+   "pdf_url": "https://openreview.net/pdf?id=MEeLpPqEIV"
+  },
+  {
+   "title": "Security Knowledge Dilution in Large Language Models: How Irrelevant Context Degrades Critical Domain Expertise",
+   "authors": [
+    "Shivani Shukla",
+    "Himanshu Joshi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cKyIus3hMN",
+   "pdf_url": "https://openreview.net/pdf?id=cKyIus3hMN"
+  },
+  {
+   "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+   "authors": [
+    "Zhenghai Xue",
+    "Longtao Zheng",
+    "Qian Liu",
+    "Yingru Li",
+    "Xiaosen Zheng",
+    "Zejun MA",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dh1J0HiQdf",
+   "pdf_url": "https://openreview.net/pdf?id=dh1J0HiQdf"
+  },
+  {
+   "title": "SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction",
+   "authors": [
+    "Saumya Chaturvedi",
+    "Aman Chadha",
+    "Laurent Bindschaedler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NBDa9012jE",
+   "pdf_url": "https://openreview.net/pdf?id=NBDa9012jE"
+  },
+  {
+   "title": "STACKFEED: Structured Textual Actor-Critic Knowledge base editing with FEEDback",
+   "authors": [
+    "Shashank Kirtania",
+    "Naman Gupta",
+    "Priyanshu Gupta",
+    "Sumit Gulwani",
+    "Arun Iyer",
+    "Suresh Parthasarathy Iyengar",
+    "Arjun Radhakrishna",
+    "Sriram K. Rajamani",
+    "Gustavo Soares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sHJodj4qN4",
+   "pdf_url": "https://openreview.net/pdf?id=sHJodj4qN4"
+  },
+  {
+   "title": "SubtaskEval: Benchmarking LLMs on Competitive Programming Subtasks",
+   "authors": [
+    "Samik Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iIUyXD5m5z",
+   "pdf_url": "https://openreview.net/pdf?id=iIUyXD5m5z"
+  },
+  {
+   "title": "SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development",
+   "authors": [
+    "Yaxin Du",
+    "Yuzhu Cai",
+    "Yifan Zhou",
+    "Cheng Wang",
+    "Yu Qian",
+    "Xianghe Pang",
+    "Qian Liu",
+    "Yue Hu",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bNgSA12K34",
+   "pdf_url": "https://openreview.net/pdf?id=bNgSA12K34"
+  },
+  {
+   "title": "SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?",
+   "authors": [
+    "Xinyi He",
+    "Qian Liu",
+    "Mingzhe Du",
+    "Lin Yan",
+    "ZhiJie Fan",
+    "Yiming Huang",
+    "Zejian Yuan",
+    "Zejun MA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KxFaKvtBiG",
+   "pdf_url": "https://openreview.net/pdf?id=KxFaKvtBiG"
+  },
+  {
+   "title": "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution",
+   "authors": [
+    "Yuxiang Wei",
+    "Olivier Duchenne",
+    "Jade Copet",
+    "Quentin Carbonneaux",
+    "LINGMING ZHANG",
+    "Daniel Fried",
+    "Gabriel Synnaeve",
+    "Rishabh Singh",
+    "Sida Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oWFo4H7mrj",
+   "pdf_url": "https://openreview.net/pdf?id=oWFo4H7mrj"
+  },
+  {
+   "title": "The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management",
+   "authors": [
+    "Tobias Lindenbauer",
+    "Igor Slinko",
+    "Ludwig Felder",
+    "Egor Bogomolov",
+    "Yaroslav Zharov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OHVzruJl5k",
+   "pdf_url": "https://openreview.net/pdf?id=OHVzruJl5k"
+  },
+  {
+   "title": "The Valley of Code Reasoning: Scaling Knowledge Distillation of Large Language Models",
+   "authors": [
+    "Muyu He",
+    "Muhammad Ali Shafique",
+    "Anand Kumar",
+    "Tsach Mackey",
+    "Nazneen Rajani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uoP57F4Ltc",
+   "pdf_url": "https://openreview.net/pdf?id=uoP57F4Ltc"
+  },
+  {
+   "title": "Thyme: Think Beyond Images",
+   "authors": [
+    "YiFan Zhang",
+    "Xingyu Lu",
+    "Shukang Yin",
+    "Chaoyou Fu",
+    "Wei Chen",
+    "Xiao Hu",
+    "Bin Wen",
+    "Kaiyu Jiang",
+    "Changyi Liu",
+    "Tianke Zhang",
+    "Haonan Fan",
+    "Kaibing Chen",
+    "Jiankang Chen",
+    "Haojie Ding",
+    "Kaiyu Tang",
+    "Zhang Zhang",
+    "Liang Wang",
+    "Fan Yang",
+    "Tingting Gao",
+    "Guorui Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yFT6rVARsP",
+   "pdf_url": "https://openreview.net/pdf?id=yFT6rVARsP"
+  },
+  {
+   "title": "Training Language Model Agents to Find Vulnerabilities with CTF-Dojo",
+   "authors": [
+    "Terry Yue Zhuo",
+    "Dingmin Wang",
+    "Hantian Ding",
+    "Varun Kumar",
+    "Zijian Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sQPeclxRBG",
+   "pdf_url": "https://openreview.net/pdf?id=sQPeclxRBG"
+  },
+  {
+   "title": "Training LLM Agents to Empower Humans",
+   "authors": [
+    "Evan Ellis",
+    "Vivek Myers",
+    "Jens Tuyls",
+    "Sergey Levine",
+    "Anca Dragan",
+    "Benjamin Eysenbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rF5uRzGWKR",
+   "pdf_url": "https://openreview.net/pdf?id=rF5uRzGWKR"
+  },
+  {
+   "title": "Understanding Secret Leakage Risks in Code LLMs: A Tokenization Perspective",
+   "authors": [
+    "Meifang Chen",
+    "Zhe YANG",
+    "HUANG Nianchen",
+    "Yizhan Huang",
+    "Yichen LI",
+    "Michael R. Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c3OYeGH1Zj",
+   "pdf_url": "https://openreview.net/pdf?id=c3OYeGH1Zj"
+  },
+  {
+   "title": "VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional Correctness Validation",
+   "authors": [
+    "Anjiang Wei",
+    "Huanmi Tan",
+    "Tarun Suresh",
+    "Daniel Mendoza",
+    "Thiago S. F. X. Teixeira",
+    "Ke Wang",
+    "Caroline Trippel",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aAOStQGcT9",
+   "pdf_url": "https://openreview.net/pdf?id=aAOStQGcT9"
+  },
+  {
+   "title": "Where's the Bug? Attention Probing for Scalable Fault Localization",
+   "authors": [
+    "Adam Stein",
+    "Arthur Wayne",
+    "Aaditya Naik",
+    "Mayur Naik",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WD6c8Fiq3m",
+   "pdf_url": "https://openreview.net/pdf?id=WD6c8Fiq3m"
+  },
+  {
+   "title": "Workflows vs Agents for Code Translation",
+   "authors": [
+    "Henry Gray",
+    "Octavian Udrea",
+    "Tom Yotam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U1emjvJ7Gi",
+   "pdf_url": "https://openreview.net/pdf?id=U1emjvJ7Gi"
+  }
+ ]
+}

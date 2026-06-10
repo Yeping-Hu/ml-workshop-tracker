@@ -1,0 +1,875 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/AI4Mat",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:14.913Z",
+ "paper_count": 78,
+ "papers": [
+  {
+   "title": "3D Multiphase Heterogeneous Microstructure Generation Using Conditional Latent Diffusion Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=fI3goGSRvq",
+   "pdf_url": "https://openreview.net/pdf?id=fI3goGSRvq"
+  },
+  {
+   "title": "A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning",
+   "authors": [
+    "Elton Pan",
+    "Soonhyoung Kwon",
+    "Sulin Liu",
+    "Mingrou Xie",
+    "Yifei Duan",
+    "Thorben Prein",
+    "Killian Sheriff",
+    "Yuriy Roman",
+    "Manuel Moliner",
+    "Rafael Gomez-Bombarelli",
+    "Elsa Olivetti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hy39qxU6CQ",
+   "pdf_url": "https://openreview.net/pdf?id=hy39qxU6CQ"
+  },
+  {
+   "title": "A Geometric Foundation Model for Crystalline Material Discovery",
+   "authors": [
+    "Shengchao Liu",
+    "Liang Yan",
+    "weitao Du",
+    "Zhuoxinran Li",
+    "Zhiling Zheng",
+    "Omar M. Yaghi",
+    "Christian Borgs",
+    "Hongyu Guo",
+    "Anima Anandkumar",
+    "Jennifer T Chayes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HdPg9WCDKZ",
+   "pdf_url": "https://openreview.net/pdf?id=HdPg9WCDKZ"
+  },
+  {
+   "title": "A Large Encoder-Decoder Polymer-Based Foundation Model",
+   "authors": [
+    "Eduardo Soares",
+    "Nathaniel Park",
+    "Emilio Vital Brazil",
+    "Victor Yukio Shirasuna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bptYWF8Uy6",
+   "pdf_url": "https://openreview.net/pdf?id=bptYWF8Uy6"
+  },
+  {
+   "title": "A Mamba-Based Foundation Model for Chemistry",
+   "authors": [
+    "Emilio Vital Brazil",
+    "Eduardo Soares",
+    "Victor Yukio Shirasuna",
+    "Renato Cerqueira",
+    "Dmitry Zubarev",
+    "Kristin Schmidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HTgCs0KSTl",
+   "pdf_url": "https://openreview.net/pdf?id=HTgCs0KSTl"
+  },
+  {
+   "title": "A Physics Enforced Neural Network to Predict Polymer Melt Viscosity",
+   "authors": [
+    "Ayush Jain",
+    "Rishi Gurnani",
+    "Arunkumar Rajan",
+    "Hang Jerry Qi",
+    "Rampi Ramprasad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZHxUnv3IY",
+   "pdf_url": "https://openreview.net/pdf?id=bZHxUnv3IY"
+  },
+  {
+   "title": "Accelerating Quantum Emitter Characterization with Latent Neural Ordinary Differential Equations",
+   "authors": [
+    "Andrew H. Proppe",
+    "Kin Long Kelvin Lee",
+    "Weiwei Sun",
+    "Chantalle J. Krajewska",
+    "Oliver Tye",
+    "Moungi Bawendi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ne82DXRNM9",
+   "pdf_url": "https://openreview.net/pdf?id=ne82DXRNM9"
+  },
+  {
+   "title": "Adaptive Representation of MOFs in Bayesian Optimization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=F0HI6RpPXx",
+   "pdf_url": "https://openreview.net/pdf?id=F0HI6RpPXx"
+  },
+  {
+   "title": "Advancing the ColabFit Exchange towards a Web-scale Data Source for Machine Learning Interatomic Potentials",
+   "authors": [
+    "Eric Fuemmeler",
+    "Gregory Wolfe",
+    "Amit Gupta",
+    "Joshua A. Vita",
+    "Ellad B. Tadmor",
+    "Stefano Martiniani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b8qZpGJIkw",
+   "pdf_url": "https://openreview.net/pdf?id=b8qZpGJIkw"
+  },
+  {
+   "title": "Applying Multi-Fidelity Bayesian Optimization in Chemistry: Open Challenges and Major Considerations",
+   "authors": [
+    "Edmund Judge",
+    "Mohammed Azzouzi",
+    "Austin M. Mroz",
+    "Antonio Del rio chanona",
+    "Kim E. Jelfs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TkqeXYTQq2",
+   "pdf_url": "https://openreview.net/pdf?id=TkqeXYTQq2"
+  },
+  {
+   "title": "Automated Atomic Force Microscopy Using Large Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=d05Ds7X0oI",
+   "pdf_url": "https://openreview.net/pdf?id=d05Ds7X0oI"
+  },
+  {
+   "title": "Automated, LLM enabled extraction of synthesis details for reticular materials from scientific literature",
+   "authors": [
+    "Viviane Torres da Silva",
+    "Alexandre Rademaker",
+    "Krystelle Lionti",
+    "Ronaldo Giro",
+    "Geisa Lima",
+    "Sandro Rama Fiorini",
+    "Marcelo Archanjo",
+    "Breno W S R Carvalho",
+    "Rodrigo Neumann Barros Ferreira",
+    "Anaximandro Souza",
+    "João Pedro Gandarela de Souza",
+    "Gabriela de Valnisio",
+    "Carmen Paz",
+    "Renato Cerqueira",
+    "Mathias B Steiner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cv9qUj5Jqa",
+   "pdf_url": "https://openreview.net/pdf?id=cv9qUj5Jqa"
+  },
+  {
+   "title": "Automatic solid form classification in pharmaceutical drug development",
+   "authors": [
+    "Julius Lange",
+    "Leonid Komissarov",
+    "Rene Lang",
+    "Dennis Dimo Enkelmann",
+    "Andrea Anelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qj3r17Rh2Z",
+   "pdf_url": "https://openreview.net/pdf?id=qj3r17Rh2Z"
+  },
+  {
+   "title": "Autonomous robotic experimentation system for powder X-ray diffraction",
+   "authors": [
+    "Yuto Yotsumoto",
+    "YusakuNakajima",
+    "Ryusei Takamoto",
+    "Yasuo Takeichi",
+    "Kanta Ono"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kjch1K48Im",
+   "pdf_url": "https://openreview.net/pdf?id=Kjch1K48Im"
+  },
+  {
+   "title": "Avoiding Post-Processing with Context: Texture Boundary Detection in Metallography",
+   "authors": [
+    "Inbal Cohen",
+    "Julien Robitaille",
+    "Francis Quintal Lauzon",
+    "Ofer Beeri",
+    "Shai Avidan",
+    "Gal Oren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OJForTLUC2",
+   "pdf_url": "https://openreview.net/pdf?id=OJForTLUC2"
+  },
+  {
+   "title": "Bayesian Optimization for Protein Sequence Design: Back to Simplicity with Gaussian Processes",
+   "authors": [
+    "Carolin Benjamins",
+    "Shikha Surana",
+    "Oliver Bent",
+    "Marius Lindauer",
+    "Paul Duckworth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zori4pHmFP",
+   "pdf_url": "https://openreview.net/pdf?id=zori4pHmFP"
+  },
+  {
+   "title": "Benchmarking of Universal Machine Learning Interatomic Potentials for Structural Relaxation",
+   "authors": [
+    "Carmelo Gonzales",
+    "Eric Fuemmeler",
+    "Ellad B. Tadmor",
+    "Stefano Martiniani",
+    "Santiago Miret"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fNyXCCZ0g6",
+   "pdf_url": "https://openreview.net/pdf?id=fNyXCCZ0g6"
+  },
+  {
+   "title": "Chemical Language Meets Geometric Graphs: A Multimodal Fusion Approach for Molecular Properties",
+   "authors": [
+    "Collin Francel",
+    "Massimiliano Lupo Pasini",
+    "Zachary R Fox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YVnTOmu9a8",
+   "pdf_url": "https://openreview.net/pdf?id=YVnTOmu9a8"
+  },
+  {
+   "title": "ChemLit-QA: A human evaluated dataset for chemistry RAG tasks",
+   "authors": [
+    "Geemi Wellawatte",
+    "Huixuan Guo",
+    "Magdalena Lederbauer",
+    "Anna Borisova",
+    "Matthew Hart",
+    "Marta Brucka",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6PoHVQeeHU",
+   "pdf_url": "https://openreview.net/pdf?id=6PoHVQeeHU"
+  },
+  {
+   "title": "Constrained Synthesis with Projected Diffusion Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=l13UI4nvGz",
+   "pdf_url": "https://openreview.net/pdf?id=l13UI4nvGz"
+  },
+  {
+   "title": "Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model",
+   "authors": [
+    "Yanpeng Ye",
+    "Jie Ren",
+    "Shaozhou Wang",
+    "Yuwei Wan",
+    "Yixuan Liu",
+    "Imran Razzak",
+    "Haofen Wang",
+    "Tong Xie",
+    "Wenjie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SuuaylwtZ3",
+   "pdf_url": "https://openreview.net/pdf?id=SuuaylwtZ3"
+  },
+  {
+   "title": "Contrastive Language–Structure Pre-training Driven by Materials Science Literature",
+   "authors": [
+    "Yuta Suzuki",
+    "Tatsunori Taniai",
+    "Ryo Igarashi",
+    "Kotaro Saito",
+    "Naoya Chiba",
+    "Yoshitaka Ushiku",
+    "Kanta Ono"
+   ],
+   "forum_url": "https://openreview.net/forum?id=31izDQjvAe",
+   "pdf_url": "https://openreview.net/pdf?id=31izDQjvAe"
+  },
+  {
+   "title": "Crystal Design Amidst Noisy DFT Signals: A Reinforcement Learning Approach",
+   "authors": [
+    "Prashant Govindarajan",
+    "Mathieu Reymond",
+    "Santiago Miret",
+    "Mariano Phielipp",
+    "Sarath Chandar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MO5bMbUD27",
+   "pdf_url": "https://openreview.net/pdf?id=MO5bMbUD27"
+  },
+  {
+   "title": "Deconstructing equivariant representations in molecular systems",
+   "authors": [
+    "Kin Long Kelvin Lee",
+    "Mikhail Galkin",
+    "Santiago Miret"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pshyLoyzRn",
+   "pdf_url": "https://openreview.net/pdf?id=pshyLoyzRn"
+  },
+  {
+   "title": "Deterministic global optimization for sample-efficient molecular design with generative machine learning",
+   "authors": [
+    "Jan G. Rittig",
+    "Malte Franke",
+    "Alexander Mitsos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=080FxzMwgg",
+   "pdf_url": "https://openreview.net/pdf?id=080FxzMwgg"
+  },
+  {
+   "title": "Dimension Deficit: Is 3D a Step Too Far for Optimizing Molecules?",
+   "authors": [
+    "Andres Guzman Cordero",
+    "Luca Thiede",
+    "Gary Tom",
+    "Alan Aspuru-Guzik",
+    "Felix Strieth-Kalthoff",
+    "Agustinus Kristiadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PLazBHIN8g",
+   "pdf_url": "https://openreview.net/pdf?id=PLazBHIN8g"
+  },
+  {
+   "title": "Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models",
+   "authors": [
+    "Jeff Guo",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J63EUbjhSw",
+   "pdf_url": "https://openreview.net/pdf?id=J63EUbjhSw"
+  },
+  {
+   "title": "Discovering Multi-Layer Films for Electromagnetic Interference Shielding and Passive Cooling with Multi-Objective Active Learning",
+   "authors": [
+    "Mingxuan Li",
+    "Jungtaek Kim",
+    "Paul Leu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2xnFU2iwYw",
+   "pdf_url": "https://openreview.net/pdf?id=2xnFU2iwYw"
+  },
+  {
+   "title": "Diversity-Based Two-Phase Pruning Strategy for Maximizing Image Segmentation Generalization with applications in Transmission Electron Microscopy",
+   "authors": [
+    "ZE-WEI YE",
+    "HUNG-WEI HSUEH",
+    "Shu-han Hsu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=juJrNuoXvI",
+   "pdf_url": "https://openreview.net/pdf?id=juJrNuoXvI"
+  },
+  {
+   "title": "Dynamic Beam Enumeration: A Bridge Between Generative Molecular Design and Library Screening",
+   "authors": [
+    "Victoire Lang",
+    "Jeff Guo",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yqc95PDN7h",
+   "pdf_url": "https://openreview.net/pdf?id=Yqc95PDN7h"
+  },
+  {
+   "title": "dZiner: Rational Inverse Design of Materials with AI Agents",
+   "authors": [
+    "Mehrad Ansari",
+    "Jeffrey Watchorn",
+    "Carla E. Brown",
+    "Joseph S Brown"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4GU8XOvaAp",
+   "pdf_url": "https://openreview.net/pdf?id=4GU8XOvaAp"
+  },
+  {
+   "title": "Efficient Autoencoder Pipeline for Discovering High Entropy Alloys with Molecular Dynamics Data",
+   "authors": [
+    "Amirhossein Naghdi Dorabati",
+    "Grzegorz Kaszuba",
+    "Stefanos Papanikolaou",
+    "Andrzej Jaszkiewicz",
+    "Piotr Sankowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3alljVgZYe",
+   "pdf_url": "https://openreview.net/pdf?id=3alljVgZYe"
+  },
+  {
+   "title": "Efficient Design-and-Control Automation with Reinforcement Learning and Adaptive Exploration",
+   "authors": [
+    "Jiajun Fan",
+    "Hongyao Tang",
+    "Michael Przystupa",
+    "Mariano Phielipp",
+    "Santiago Miret",
+    "Glen Berseth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=stiehhc5y6",
+   "pdf_url": "https://openreview.net/pdf?id=stiehhc5y6"
+  },
+  {
+   "title": "Epitaxial Thin Film Interface Imaging with Deep Learning",
+   "authors": [
+    "Ankit S. Disa",
+    "Pranav Kakhandiki",
+    "Yimeng Min"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sgwsZ3PqX7",
+   "pdf_url": "https://openreview.net/pdf?id=sgwsZ3PqX7"
+  },
+  {
+   "title": "Equivariant conditional diffusion model for exploring the chemical space around Vaska’s complex",
+   "authors": [
+    "François R J Cornet",
+    "Pratham Deshmukh",
+    "Bardi Benediktsson",
+    "Mikkel N. Schmidt",
+    "Arghya Bhowmik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ymnbjhdb4Q",
+   "pdf_url": "https://openreview.net/pdf?id=Ymnbjhdb4Q"
+  },
+  {
+   "title": "Evaluating Chemistry Prompts for Large-Language Model Fine-Tuning",
+   "authors": [
+    "Carmelo Gonzales",
+    "Michael Martin Pieler",
+    "Kevin Maik Jablonka",
+    "Santiago Miret"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cEkUia8neA",
+   "pdf_url": "https://openreview.net/pdf?id=cEkUia8neA"
+  },
+  {
+   "title": "Force Field Optimization by End-to-End Differentiable Atomistic Simulation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=l2iwVUTAEG",
+   "pdf_url": "https://openreview.net/pdf?id=l2iwVUTAEG"
+  },
+  {
+   "title": "Force-Controlled Robotic Mechanochemical Synthesis",
+   "authors": [
+    "YusakuNakajima",
+    "Kai Kawasaki",
+    "Yasuo Takeichi",
+    "Masashi Hamaya",
+    "Yoshitaka Ushiku",
+    "Kanta Ono"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GWxGA7jN47",
+   "pdf_url": "https://openreview.net/pdf?id=GWxGA7jN47"
+  },
+  {
+   "title": "Generating ideal synthetic data for 3D reconstruction of FIB tomography data using generative adversarial networks",
+   "authors": [
+    "Trushal Sardhara",
+    "Christian J Cyron",
+    "Martin Ritter",
+    "Roland Aydin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2H9QdPNUdW",
+   "pdf_url": "https://openreview.net/pdf?id=2H9QdPNUdW"
+  },
+  {
+   "title": "Graph Representation of Local Environments for Learning High-Entropy Alloy Properties",
+   "authors": [
+    "Hengrui Zhang",
+    "Ruishu Huang",
+    "Jie Chen",
+    "James Rondinelli",
+    "Wei Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qGz1A5w6FT",
+   "pdf_url": "https://openreview.net/pdf?id=qGz1A5w6FT"
+  },
+  {
+   "title": "HoneyComb: A Flexible LLM-Based Agent System for Materials Science",
+   "authors": [
+    "Huan Zhang",
+    "Yu Song",
+    "Ziyu Hou",
+    "Santiago Miret",
+    "Bang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eiseYB1PNl",
+   "pdf_url": "https://openreview.net/pdf?id=eiseYB1PNl"
+  },
+  {
+   "title": "Human-in-the-loop interface for Automated experiments in Electron Microscopy, Automated characterization",
+   "authors": [
+    "Utkarsh Pratiush",
+    "Gerd Duscher",
+    "Sergei Kalinin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AB4EuiXkAr",
+   "pdf_url": "https://openreview.net/pdf?id=AB4EuiXkAr"
+  },
+  {
+   "title": "If optimizing for general parameters in chemistry is useful, why is it hardly done?",
+   "authors": [
+    "Stefan P. Schmid",
+    "Ella Miray Rajaonson",
+    "Cher Tian Ser",
+    "Mohammad Haddadnia",
+    "Shi Xuan Leong",
+    "Alan Aspuru-Guzik",
+    "Agustinus Kristiadi",
+    "Kjell Jorner",
+    "Felix Strieth-Kalthoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZfL0poiEOe",
+   "pdf_url": "https://openreview.net/pdf?id=ZfL0poiEOe"
+  },
+  {
+   "title": "Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=ra3CxVuhUf",
+   "pdf_url": "https://openreview.net/pdf?id=ra3CxVuhUf"
+  },
+  {
+   "title": "Known Unknowns: Out-of-Distribution Property Prediction in Materials and Molecules",
+   "authors": [
+    "Nofit Segal",
+    "Aviv Netanyahu",
+    "Kevin P. Greenman",
+    "Pulkit Agrawal",
+    "Rafael Gomez-Bombarelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HkfnueE7Ae",
+   "pdf_url": "https://openreview.net/pdf?id=HkfnueE7Ae"
+  },
+  {
+   "title": "Large scale Extraction of Composition and Properties from Materials Tables",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=FhV4nlcwCb",
+   "pdf_url": "https://openreview.net/pdf?id=FhV4nlcwCb"
+  },
+  {
+   "title": "LatentDE: Latent-based Directed Evolution accelerated by Gradient Ascent for Protein Sequence Design",
+   "authors": [
+    "Thanh V. T. Tran",
+    "Nhat Khang Ngo",
+    "Viet Thanh Duy Nguyen",
+    "Hy Truong Son"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4YkbQGVWGF",
+   "pdf_url": "https://openreview.net/pdf?id=4YkbQGVWGF"
+  },
+  {
+   "title": "Learning to Optimize Molecules with a Chemical Language Model",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=FhxDKumovH",
+   "pdf_url": "https://openreview.net/pdf?id=FhxDKumovH"
+  },
+  {
+   "title": "Leveraging Large Language Models for Explaining Material Synthesis Mechanisms: The Foundation of Materials Discovery",
+   "authors": [
+    "Yingming Pu",
+    "Liping Huang",
+    "Tao Lin",
+    "Hongyu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I6jYRbaai8",
+   "pdf_url": "https://openreview.net/pdf?id=I6jYRbaai8"
+  },
+  {
+   "title": "Leveraging Pre-Trained LMs for Rapid and Accurate Structure Elucidation from 2D NMR Data",
+   "authors": [
+    "Susanna Di Vita",
+    "Florian Grötschla",
+    "Luca A Lanzendörfer",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t8qSHNCjuB",
+   "pdf_url": "https://openreview.net/pdf?id=t8qSHNCjuB"
+  },
+  {
+   "title": "LLaMat: Large Language Models for Materials Science Information Extraction",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=sbguXiDARx",
+   "pdf_url": "https://openreview.net/pdf?id=sbguXiDARx"
+  },
+  {
+   "title": "LLM4Mat-Bench: Benchmarking Large Language Models for Materials Property Prediction",
+   "authors": [
+    "Andre Niyongabo Rubungo",
+    "Kangming Li",
+    "Jason Hattrick-Simpers",
+    "Adji Bousso Dieng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TSAeQSv9RI",
+   "pdf_url": "https://openreview.net/pdf?id=TSAeQSv9RI"
+  },
+  {
+   "title": "MaCBench: A multimodal chemistry and materials science benchmark",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Q2PNocDcp6",
+   "pdf_url": "https://openreview.net/pdf?id=Q2PNocDcp6"
+  },
+  {
+   "title": "MatExpert: Decomposing Materials Discovery By Mimicking Human Experts",
+   "authors": [
+    "Qianggang Ding",
+    "Santiago Miret",
+    "Bang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=srVcm79DvD",
+   "pdf_url": "https://openreview.net/pdf?id=srVcm79DvD"
+  },
+  {
+   "title": "Microstructure modeling of deformed alloys using contrastive conditional generative adversarial networks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=y8m3cuHpSr",
+   "pdf_url": "https://openreview.net/pdf?id=y8m3cuHpSr"
+  },
+  {
+   "title": "ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=BcTNNBLLYc",
+   "pdf_url": "https://openreview.net/pdf?id=BcTNNBLLYc"
+  },
+  {
+   "title": "MolGen-Transformer: An open-source self-supervised model for Molecular Generation and Latent Space Exploration",
+   "authors": [
+    "Chih-Hsuan Yang",
+    "Rebekah Duke",
+    "Parker Delaney Sornberger",
+    "Moses Ogbaje",
+    "Chad Risko",
+    "Baskar Ganapathysubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wvoZnYhUsR",
+   "pdf_url": "https://openreview.net/pdf?id=wvoZnYhUsR"
+  },
+  {
+   "title": "MOTIFNet: Automating the Analysis of Amphiphile and Block Polymer Self-Assembly from SAXS Data",
+   "authors": [
+    "Daoyuan Li",
+    "Shuquan Cui",
+    "Mahesh Mahanthappa",
+    "Frank Bates",
+    "Timothy Lodge",
+    "Joern Ilja Siepmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y7xGDblSWF",
+   "pdf_url": "https://openreview.net/pdf?id=y7xGDblSWF"
+  },
+  {
+   "title": "Multi-modal cascade feature transfer for polymer property prediction",
+   "authors": [
+    "Kiichi Obuchi",
+    "Yuta Yahagi",
+    "Kota Matsui",
+    "Kiyohiko Toyama",
+    "Shukichi Tanaka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N80W91AdrW",
+   "pdf_url": "https://openreview.net/pdf?id=N80W91AdrW"
+  },
+  {
+   "title": "Multi-View Mixture-of-Experts for Predicting Molecular Properties Using SMILES, SELFIES, and Graph-Based Representations",
+   "authors": [
+    "Eduardo Soares",
+    "Indra Priyadarsini",
+    "Emilio Vital Brazil",
+    "Victor Yukio Shirasuna",
+    "Seiji Takeda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GvlfoNbaNZ",
+   "pdf_url": "https://openreview.net/pdf?id=GvlfoNbaNZ"
+  },
+  {
+   "title": "Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition",
+   "authors": [
+    "Yusei Ito",
+    "Yasuo Takeichi",
+    "Hideitsu Hino",
+    "Kanta Ono"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGPlKNtdZq",
+   "pdf_url": "https://openreview.net/pdf?id=PGPlKNtdZq"
+  },
+  {
+   "title": "Perovs-Dopants: Machine Learning Potentials for Doped Bulk Structures",
+   "authors": [
+    "Xiaoxiao Wang",
+    "Suehyun Park",
+    "Santiago Miret"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sEpHuS8CWQ",
+   "pdf_url": "https://openreview.net/pdf?id=sEpHuS8CWQ"
+  },
+  {
+   "title": "Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials",
+   "authors": [
+    "Thorben Prein",
+    "Fuzhan Rahmanian",
+    "Kesava Prasad Arul",
+    "Jasmin El-Wafi",
+    "Menelaos Panagiotis Fotiadis",
+    "Jan Heimann",
+    "Paul Weinmann",
+    "Yifei Duan",
+    "Elton Pan",
+    "Elsa Olivetti",
+    "Jennifer L.M. Rupp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VGsXQOTs1E",
+   "pdf_url": "https://openreview.net/pdf?id=VGsXQOTs1E"
+  },
+  {
+   "title": "RHAAPsody: RHEED Heuristic Adaptive Automation Platform Framework for Molecular Beam Epitaxy Synthesis",
+   "authors": [
+    "Sarah Akers",
+    "Henry W. Sprueill",
+    "Jenna Pope",
+    "Arman Ter-Petrosyan",
+    "Derek Hopkins",
+    "Ajay Harilal",
+    "Jijo Christudasjustus",
+    "Vinyay Amatya",
+    "Patrick Gemperline",
+    "Ryan Comes",
+    "Tiffany Kaspar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YBVv9khdyu",
+   "pdf_url": "https://openreview.net/pdf?id=YBVv9khdyu"
+  },
+  {
+   "title": "SAFE setup for generative molecular design",
+   "authors": [
+    "Yassir El Mesbahi",
+    "Emmanuel Noutahi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u4DtNSDAJ0",
+   "pdf_url": "https://openreview.net/pdf?id=u4DtNSDAJ0"
+  },
+  {
+   "title": "Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation",
+   "authors": [
+    "Jeff Guo",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9V6LdbxkDA",
+   "pdf_url": "https://openreview.net/pdf?id=9V6LdbxkDA"
+  },
+  {
+   "title": "Scaling autoregressive models for lattice thermodynamics",
+   "authors": [
+    "Xiaochen Du",
+    "Sulin Liu",
+    "Rafael Gomez-Bombarelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JynhVjza4n",
+   "pdf_url": "https://openreview.net/pdf?id=JynhVjza4n"
+  },
+  {
+   "title": "Scientific Knowledge Graph and Ontology Generation using Open Large Language Models",
+   "authors": [
+    "Alexandru Oarga",
+    "Matthew Hart",
+    "Andres M Bran",
+    "Magdalena Lederbauer",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wMMhffCxXZ",
+   "pdf_url": "https://openreview.net/pdf?id=wMMhffCxXZ"
+  },
+  {
+   "title": "SELF-BART : A Transformer-based Molecular Representation Model using SELFIES",
+   "authors": [
+    "Indra Priyadarsini",
+    "Seiji Takeda",
+    "Lisa Hamada",
+    "Emilio Vital Brazil",
+    "Eduardo Soares",
+    "Hajime Shinohara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2mtqQmF8y",
+   "pdf_url": "https://openreview.net/pdf?id=v2mtqQmF8y"
+  },
+  {
+   "title": "Sim2Real transfer for catalyst activity prediction",
+   "authors": [
+    "Yuta Yahagi",
+    "Kiichi Obuchi",
+    "Fumihiko Kosaka",
+    "Kota Matsui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YaZBZDvpBY",
+   "pdf_url": "https://openreview.net/pdf?id=YaZBZDvpBY"
+  },
+  {
+   "title": "Simultaneous Discovery of Reaction Coordinates and Committor Functions Using Equivariant Graph Neural Networks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=NX2ROvVb2Y",
+   "pdf_url": "https://openreview.net/pdf?id=NX2ROvVb2Y"
+  },
+  {
+   "title": "Spectro: A multi-modal approach for molecule elucidation using IR and NMR data",
+   "authors": [
+    "Edwin Chacko",
+    "Rudra Sondhi",
+    "Arnav Praveen",
+    "Kylie L. Luska",
+    "Rodrigo Vargas-Hernandez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K5U7D7YpN0",
+   "pdf_url": "https://openreview.net/pdf?id=K5U7D7YpN0"
+  },
+  {
+   "title": "SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models",
+   "authors": [
+    "Daniel Levy",
+    "Siba Smarak Panigrahi",
+    "Sékou-Oumar Kaba",
+    "Qiang Zhu",
+    "Mikhail Galkin",
+    "Santiago Miret",
+    "Siamak Ravanbakhsh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V7x2KZQn2v",
+   "pdf_url": "https://openreview.net/pdf?id=V7x2KZQn2v"
+  },
+  {
+   "title": "Symmetry-Constrained Generation of Diverse Low-Bandgap Molecules with Monte Carlo Tree Search",
+   "authors": [
+    "Akshay Subramanian",
+    "James Damewood",
+    "Juno Nam",
+    "Kevin P. Greenman",
+    "Avni P. Singhal",
+    "Rafael Gomez-Bombarelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fb1ZfcQrUw",
+   "pdf_url": "https://openreview.net/pdf?id=Fb1ZfcQrUw"
+  },
+  {
+   "title": "Towards Autonomous Nanomaterials Synthesis via Reaction-Diffusion Coupling",
+   "authors": [
+    "Andrew Ritchhart",
+    "Elias Nakouzi",
+    "Maxim Ziatdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zF5DoCGdZD",
+   "pdf_url": "https://openreview.net/pdf?id=zF5DoCGdZD"
+  },
+  {
+   "title": "Upsampling DINOv2 features for unsupervised vision tasks and weakly supervised materials segmentation",
+   "authors": [
+    "Ronan Docherty",
+    "Antonis Vamvakeros",
+    "Samuel J. Cooper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0ITfQrkv7y",
+   "pdf_url": "https://openreview.net/pdf?id=0ITfQrkv7y"
+  },
+  {
+   "title": "WyckoffTransformer: Generation of Symmetric Crystals",
+   "authors": [
+    "Nikita Kazeev",
+    "Ruiming Zhu",
+    "Ignat Romanov",
+    "Andrey E Ustyuzhanin",
+    "Shuya Yamazaki",
+    "Wei Nong",
+    "Kedar Hippalgaonkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jcy1bPOqrY",
+   "pdf_url": "https://openreview.net/pdf?id=Jcy1bPOqrY"
+  },
+  {
+   "title": "XRayPro: A self-supervised multimodal model for MOF application recommendations using PXRD and precursors",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=dduB0yFN3w",
+   "pdf_url": "https://openreview.net/pdf?id=dduB0yFN3w"
+  }
+ ]
+}

@@ -1,0 +1,566 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/MLNCP",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:48.600Z",
+ "paper_count": 48,
+ "papers": [
+  {
+   "title": "A cookbook for hardware-friendly implicit learning on static data",
+   "authors": [
+    "Maxence Ernoult",
+    "Rasmus Høier",
+    "Jack Kendall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aL5AlzWrf0",
+   "pdf_url": "https://openreview.net/pdf?id=aL5AlzWrf0"
+  },
+  {
+   "title": "A Diagonal State Space Model on Loihi 2 for Efficient Streaming Sequence Processing",
+   "authors": [
+    "Svea Marie Meyer",
+    "Philipp Weidel",
+    "Plank Philipp",
+    "Leobardo Campos-Macias",
+    "Sumit Bam Shrestha",
+    "Philipp Stratmann",
+    "Jonathan Timcheck",
+    "Mathis Richter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y3KvbnSklW",
+   "pdf_url": "https://openreview.net/pdf?id=Y3KvbnSklW"
+  },
+  {
+   "title": "A fast algorithm to simulate nonlinear resistive networks",
+   "authors": [
+    "Benjamin Scellier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PI6GP6VL67",
+   "pdf_url": "https://openreview.net/pdf?id=PI6GP6VL67"
+  },
+  {
+   "title": "A Fully Analog Pipeline for Portfolio Optimization",
+   "authors": [
+    "James S. Cummins",
+    "Natalia Berloff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mtkbTUVaV1",
+   "pdf_url": "https://openreview.net/pdf?id=mtkbTUVaV1"
+  },
+  {
+   "title": "A primer on in vitro biological neural networks",
+   "authors": [
+    "Frithjof Gressmann",
+    "Ashley Chen",
+    "Lily Hexuan Xie",
+    "Sarah Dowden",
+    "Nancy Amato",
+    "Lawrence Rauchwerger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RdFI2ogt1j",
+   "pdf_url": "https://openreview.net/pdf?id=RdFI2ogt1j"
+  },
+  {
+   "title": "Accelerating AI Performance using Anderson Extrapolation on GPUs",
+   "authors": [
+    "Saleem Abdul Fattah Ahmed Al Dajani",
+    "David Keyes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wkP2ZFRn9e",
+   "pdf_url": "https://openreview.net/pdf?id=wkP2ZFRn9e"
+  },
+  {
+   "title": "Advancing Neuromorphic Computing Algorithms and Systems with NeuroBench",
+   "authors": [
+    "Jason Yik",
+    "Charlotte Frenkel",
+    "Vijay Janapa Reddi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r3r5M5T6YK",
+   "pdf_url": "https://openreview.net/pdf?id=r3r5M5T6YK"
+  },
+  {
+   "title": "AIHWKIT-Lightning: A Scalable HW-Aware Training Toolkit for Analog In-Memory Computing",
+   "authors": [
+    "Julian Büchel",
+    "William Andrew Simon",
+    "Corey Lammie",
+    "Giovanni Acampa",
+    "Kaoutar El Maghraoui",
+    "Manuel Le Gallo",
+    "Abu Sebastian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QNdxOgGmhR",
+   "pdf_url": "https://openreview.net/pdf?id=QNdxOgGmhR"
+  },
+  {
+   "title": "Analog Bayesian neural networks are insensitive to the shape of the weight distribution",
+   "authors": [
+    "Ravi Ghanshyam Patel",
+    "Tianyao Patrick Xiao",
+    "Sapan Agarwal",
+    "Christopher Bennett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=soS5qgU7Yb",
+   "pdf_url": "https://openreview.net/pdf?id=soS5qgU7Yb"
+  },
+  {
+   "title": "Analog Computing for AI Sometimes Needs Correction by Digital Computing: Why and When",
+   "authors": [
+    "Changdae Kim",
+    "Daegun Yoon",
+    "Taehoon Kim",
+    "Yeonjeong Jeong",
+    "Kangho Kim",
+    "Kwangwon Koh",
+    "Eunji Pak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GebgnS1TdT",
+   "pdf_url": "https://openreview.net/pdf?id=GebgnS1TdT"
+  },
+  {
+   "title": "Analog Gradient Calculation of Optical Activation Function Material",
+   "authors": [
+    "Jakub Kostial",
+    "Filipe M. Ferreira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OF48FkZdlQ",
+   "pdf_url": "https://openreview.net/pdf?id=OF48FkZdlQ"
+  },
+  {
+   "title": "Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization",
+   "authors": [
+    "Pablo Loyola",
+    "Kento Hasegawa",
+    "Andrés Hoyos-Idrobo",
+    "Kazuo Ono",
+    "Toyotaro Suzumura",
+    "Yu Hirate",
+    "Masanao Yamaoka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zQndC6Uovb",
+   "pdf_url": "https://openreview.net/pdf?id=zQndC6Uovb"
+  },
+  {
+   "title": "Bulk Bitwise Accumulation in Commercial DRAM",
+   "authors": [
+    "Tatsuya Kubo",
+    "Masayuki Usui",
+    "Tomoya Nagatani",
+    "Daichi Tokuda",
+    "Lei Qu",
+    "Ting Cao",
+    "Shinya Takamaeda-Yamazaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5b4sUxqIqp",
+   "pdf_url": "https://openreview.net/pdf?id=5b4sUxqIqp"
+  },
+  {
+   "title": "Casting hybrid digital-analog training into hierarchical energy-based learning",
+   "authors": [
+    "Timothy Nest",
+    "Maxence Ernoult"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V2hUyxgAIR",
+   "pdf_url": "https://openreview.net/pdf?id=V2hUyxgAIR"
+  },
+  {
+   "title": "Deep activity propagation via weight initialization in spiking neural networks",
+   "authors": [
+    "Aurora Micheli",
+    "Olaf Booij",
+    "Jan van Gemert",
+    "Nergis Tomen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NNUMvNDknD",
+   "pdf_url": "https://openreview.net/pdf?id=NNUMvNDknD"
+  },
+  {
+   "title": "Designing Polaritonic Integrated Circuits for Quantum Processing",
+   "authors": [
+    "Mathias Van Regemortel",
+    "Wolfger Peelaers",
+    "Thomas Van Vaerenbergh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7jBGTxpLR8",
+   "pdf_url": "https://openreview.net/pdf?id=7jBGTxpLR8"
+  },
+  {
+   "title": "DQA: An Efficient Method for Deep Quantization of Deep Neural Network Activations",
+   "authors": [
+    "Wenhao Hu",
+    "Paul Henderson",
+    "José Cano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=esMnmm2VJh",
+   "pdf_url": "https://openreview.net/pdf?id=esMnmm2VJh"
+  },
+  {
+   "title": "Dyadic Learning in Recurrent and Feedforward Models",
+   "authors": [
+    "Rasmus Høier",
+    "Kirill Kalinin",
+    "Maxence Ernoult",
+    "Christopher Zach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LNfWowAErI",
+   "pdf_url": "https://openreview.net/pdf?id=LNfWowAErI"
+  },
+  {
+   "title": "Enabling On-Device Large Language Models with 3D-Stacked Memory",
+   "authors": [
+    "Lita Yang",
+    "Kavya Sreedhar",
+    "Huichu Liu",
+    "Edith Beigne"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P4LViaB8g0",
+   "pdf_url": "https://openreview.net/pdf?id=P4LViaB8g0"
+  },
+  {
+   "title": "Energy-Efficient Random Number Generation Using Stochastic Magnetic Tunnel Junctions",
+   "authors": [
+    "Nicolas Alder",
+    "Shivam Nitin Kajale",
+    "Milin Tunsiricharoengul",
+    "Deblina Sarkar",
+    "Ralf Herbrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QpW3dCOeD3",
+   "pdf_url": "https://openreview.net/pdf?id=QpW3dCOeD3"
+  },
+  {
+   "title": "Event-based backpropagation on the neuromorphic platform SpiNNaker2",
+   "authors": [
+    "Gabriel Béna",
+    "Timo Wunderlich",
+    "Mahmoud Akl",
+    "Bernhard Vogginger",
+    "Christian Mayr",
+    "Hector Andres Gonzalez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hpfJ4Xkjzr",
+   "pdf_url": "https://openreview.net/pdf?id=hpfJ4Xkjzr"
+  },
+  {
+   "title": "Federated Learning with Quantum Computing and Fully Homomorphic Encryption: A Novel Computing Paradigm Shift in Privacy-Preserving ML",
+   "authors": [
+    "Siddhant Dutta",
+    "Pavana P Karanth",
+    "Pedro Maciel Xavier",
+    "Iago Leal de Freitas",
+    "Nouhaila Innan",
+    "Sadok Ben Ben Yahia",
+    "Muhammad Shafique",
+    "David E. Bernal Neira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Is6AZWd0g5",
+   "pdf_url": "https://openreview.net/pdf?id=Is6AZWd0g5"
+  },
+  {
+   "title": "Gaussian Process Predictions with Uncertain Inputs Enabled by Uncertainty-Tracking Processor Architectures",
+   "authors": [
+    "Janith Petangoda",
+    "Chatura Samarakoon",
+    "Phillip Stanley-Marbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zKt7uVOttG",
+   "pdf_url": "https://openreview.net/pdf?id=zKt7uVOttG"
+  },
+  {
+   "title": "Hardware-Algorithm Co-Design for Hyperdimensional Computing Based on Memristive System-on-Chip",
+   "authors": [
+    "Yi Huang",
+    "Alireza Jaberi Rad",
+    "Qiangfei Xia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rRIZblLJHb",
+   "pdf_url": "https://openreview.net/pdf?id=rRIZblLJHb"
+  },
+  {
+   "title": "High-speed secure random number generator co-processors for privacy-preserving machine learning",
+   "authors": [
+    "Shannon Egan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8oraBCaYbm",
+   "pdf_url": "https://openreview.net/pdf?id=8oraBCaYbm"
+  },
+  {
+   "title": "Hyperspectral Compute-In-Memory: An Opto-Electronic Computing Architecture Enabling Compute Density Beyond PetaOPS/mm$^2$",
+   "authors": [
+    "Myoung-Gyun Suh",
+    "ByoungJun Park",
+    "Mostafa Honari Latifpour",
+    "Yoshihisa Yamamoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9wSCSUcajN",
+   "pdf_url": "https://openreview.net/pdf?id=9wSCSUcajN"
+  },
+  {
+   "title": "Improving Analog Neural Network Robustness: A Noise-Agnostic Approach with Explainable Regularizations",
+   "authors": [
+    "Alice Duque",
+    "Pedro Freire",
+    "Egor Manuylovich",
+    "Sergei K. Turitsyn",
+    "Jaroslaw E. Prilepsky",
+    "Dmitrii Stoliarov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MBfVwT3Cmr",
+   "pdf_url": "https://openreview.net/pdf?id=MBfVwT3Cmr"
+  },
+  {
+   "title": "Improving Deep Learning Speed and Performance through Synaptic Neural Balance",
+   "authors": [
+    "Antonios Alexos",
+    "Ian Domingo",
+    "Pierre Baldi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGsmSfvhAk",
+   "pdf_url": "https://openreview.net/pdf?id=gGsmSfvhAk"
+  },
+  {
+   "title": "Information Bottleneck of Quantum Neural Networks",
+   "authors": [
+    "Juexiao Wang",
+    "Myeongsu Kim",
+    "Sabre Kais"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ImFpv7IPWh",
+   "pdf_url": "https://openreview.net/pdf?id=ImFpv7IPWh"
+  },
+  {
+   "title": "Integrated Photonic Lattice Filter for Accelerating Deep Convolutional Networks",
+   "authors": [
+    "Matthew J. Filipovich",
+    "Folkert Horst",
+    "Bert Jan Offrein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=je1OSgHAXa",
+   "pdf_url": "https://openreview.net/pdf?id=je1OSgHAXa"
+  },
+  {
+   "title": "Legendre-SNN on Loihi-2: Evaluation and Insights",
+   "authors": [
+    "Ramashish Gaurav",
+    "Terrence C. Stewart",
+    "Yang Yi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wUUvWjdE0K",
+   "pdf_url": "https://openreview.net/pdf?id=wUUvWjdE0K"
+  },
+  {
+   "title": "Lie-Equivariant Quantum Graph Neural Networks",
+   "authors": [
+    "Jogi Suda Neto",
+    "Roy Thomas Forestano",
+    "Sergei Gleyzer",
+    "Kyoungchul Kong",
+    "Konstantin Matchev",
+    "Katia Matcheva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nl8BL2YIFY",
+   "pdf_url": "https://openreview.net/pdf?id=nl8BL2YIFY"
+  },
+  {
+   "title": "MoQ: Mixture-of-format Activation Quantization for Communication-efficient AI Inference System",
+   "authors": [
+    "Haonan Wang",
+    "Zeli Liu",
+    "Chao Fang",
+    "John Paul Walters",
+    "Stephen P. Crago"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MDfr3Eos44",
+   "pdf_url": "https://openreview.net/pdf?id=MDfr3Eos44"
+  },
+  {
+   "title": "Multi-Task Neural Network Mapping onto Analog-Digital Heterogeneous Accelerators",
+   "authors": [
+    "Hadjer Benmeziane",
+    "Corey Lammie",
+    "Athanasios Vasilopoulos",
+    "Irem Boybat",
+    "Manuel Le Gallo",
+    "Hsinyu Tsai",
+    "Kaoutar El Maghraoui",
+    "Abu Sebastian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KHpQDqYzrK",
+   "pdf_url": "https://openreview.net/pdf?id=KHpQDqYzrK"
+  },
+  {
+   "title": "N Multipliers for N Bits: Learning Bit Multipliers for Non-Uniform Quantization",
+   "authors": [
+    "Raghav Singhal",
+    "Anmol Biswas",
+    "Sivakumar Elangovan",
+    "Shreyas Sabnis",
+    "Udayan Ganguly"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FaAvDWtNVt",
+   "pdf_url": "https://openreview.net/pdf?id=FaAvDWtNVt"
+  },
+  {
+   "title": "Nanowire Neural Networks for time-series processing",
+   "authors": [
+    "Veronica Pistolesi",
+    "Andrea Ceni",
+    "Claudio Gallicchio",
+    "Gianluca Milano",
+    "Carlo Ricciardi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TM9xxxLhtO",
+   "pdf_url": "https://openreview.net/pdf?id=TM9xxxLhtO"
+  },
+  {
+   "title": "Noise Aware Finetuning for Analog Non-Linear Dot Product Engine",
+   "authors": [
+    "Lei Zhao",
+    "Luca Buonanno",
+    "Aishwarya Natarajan",
+    "Jim Ignowski",
+    "Giacomo Pedretti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hvimyM6JOe",
+   "pdf_url": "https://openreview.net/pdf?id=hvimyM6JOe"
+  },
+  {
+   "title": "On the role of noise in factorizers for disentangling distributed representations",
+   "authors": [
+    "Geethan Karunaratne",
+    "Michael Hersche",
+    "Abu Sebastian",
+    "Abbas Rahimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VYryqVqQEF",
+   "pdf_url": "https://openreview.net/pdf?id=VYryqVqQEF"
+  },
+  {
+   "title": "Photonic KAN: a Kolmogorov-Arnold Network Inspired Efficient Photonic Neuromorphic Architecture",
+   "authors": [
+    "Yiwei Peng",
+    "Sean Hooten",
+    "Thomas Van Vaerenbergh",
+    "Xian Xiao",
+    "Marco Fiorentino",
+    "Raymond G Beausoleil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xGymSunYzF",
+   "pdf_url": "https://openreview.net/pdf?id=xGymSunYzF"
+  },
+  {
+   "title": "Quantum Diffusion Model for Quark and Gluon Jet Generation",
+   "authors": [
+    "Mariia Baidachna",
+    "Sergei Gleyzer",
+    "Konstantin Matchev",
+    "Katia Matcheva",
+    "Kyoungchul Kong",
+    "Gopal Ramesh Dahale",
+    "Isabel Pedraza",
+    "Tom Magorsch",
+    "Rey Guadarrama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vUQLzDAdqt",
+   "pdf_url": "https://openreview.net/pdf?id=vUQLzDAdqt"
+  },
+  {
+   "title": "Quantum Equilibrium Propagation: gradient-descent training of quantum systems",
+   "authors": [
+    "Benjamin Scellier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r45kkG0N4m",
+   "pdf_url": "https://openreview.net/pdf?id=r45kkG0N4m"
+  },
+  {
+   "title": "Quantum Generative Adversarial Networks for High Energy Physics Simulations",
+   "authors": [
+    "Rey Guadarrama",
+    "Sergei Gleyzer",
+    "Konstantin Matchev",
+    "Katia Matcheva",
+    "Kyoungchul Kong",
+    "Gopal Ramesh Dahale",
+    "Mariia Baidachna",
+    "Haydee Hernández-Arellano",
+    "Isabel Pedraza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ty4X8TdevL",
+   "pdf_url": "https://openreview.net/pdf?id=ty4X8TdevL"
+  },
+  {
+   "title": "Regularizing the Infinite: Improved Generalization Performance with Deep Equilibrium Models",
+   "authors": [
+    "Babak Rahmani",
+    "Jannes Gladrow",
+    "Kirill Kalinin",
+    "Heiner Kremer",
+    "Christos Gkantsidis",
+    "Hitesh Ballani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZ0bDnnJ1E",
+   "pdf_url": "https://openreview.net/pdf?id=UZ0bDnnJ1E"
+  },
+  {
+   "title": "SLaNC: Static LayerNorm Calibration",
+   "authors": [
+    "Mahsa Salmani",
+    "Nikita Trukhanov",
+    "Ilya Soloveychik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lBTv0G9qVp",
+   "pdf_url": "https://openreview.net/pdf?id=lBTv0G9qVp"
+  },
+  {
+   "title": "Thermodynamic Bayesian Inference",
+   "authors": [
+    "Maxwell Aifer",
+    "Kaelan Donatella",
+    "Samuel Duffield",
+    "Denis Melanson",
+    "Phoebe Klett",
+    "Gavin Crooks",
+    "Antonio J Martinez",
+    "Patrick J. Coles"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XUi4y6ZurL",
+   "pdf_url": "https://openreview.net/pdf?id=XUi4y6ZurL"
+  },
+  {
+   "title": "Training Machine Learning Models with Ising Machines",
+   "authors": [
+    "Sayantan Pramanik",
+    "Kaumudibikash Goswami",
+    "Sourav Chatterjee",
+    "M Girish Chandra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Du5geIL4rM",
+   "pdf_url": "https://openreview.net/pdf?id=Du5geIL4rM"
+  },
+  {
+   "title": "Training Spiking Neural Networks via Augmented Direct Feedback Alignment",
+   "authors": [
+    "Yongbo Zhang",
+    "Katsuma Inoue",
+    "Mitsumasa Nakajima",
+    "Toshikazu Hashimoto",
+    "Yasuo Kuniyoshi",
+    "Kohei Nakajima"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YhRzDXOSBp",
+   "pdf_url": "https://openreview.net/pdf?id=YhRzDXOSBp"
+  },
+  {
+   "title": "Universal approximation capabilities of coherent diffractive systems",
+   "authors": [
+    "Lennart Schlieder",
+    "Valentin Volchkov",
+    "Alexander Song",
+    "Peer Fischer",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vBt5NazFes",
+   "pdf_url": "https://openreview.net/pdf?id=vBt5NazFes"
+  }
+ ]
+}

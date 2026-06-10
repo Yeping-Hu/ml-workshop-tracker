@@ -1,0 +1,677 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/SSL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:10.549Z",
+ "paper_count": 59,
+ "papers": [
+  {
+   "title": "$\\mathbb{X}$-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs",
+   "authors": [
+    "Vlad Sobal",
+    "Mark Ibrahim",
+    "Randall Balestriero",
+    "Vivien Cabannes",
+    "Diane Bouchacourt",
+    "Pietro Astolfi",
+    "Kyunghyun Cho",
+    "Yann LeCun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4bPpQrVhCj",
+   "pdf_url": "https://openreview.net/pdf?id=4bPpQrVhCj"
+  },
+  {
+   "title": "A Graph Matching Approach to Balanced Data Sub-Sampling for Self-Supervised Learning",
+   "authors": [
+    "Hugues Van Assel",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TsMdJULS9o",
+   "pdf_url": "https://openreview.net/pdf?id=TsMdJULS9o"
+  },
+  {
+   "title": "A Unifying Framework for Action-Conditional Self-Predictive Reinforcement Learning",
+   "authors": [
+    "Khimya Khetarpal",
+    "Zhaohan Daniel Guo",
+    "Bernardo Avila Pires",
+    "Yunhao Tang",
+    "Clare Lyle",
+    "Mark Rowland",
+    "Nicolas Heess",
+    "Diana L Borsa",
+    "Arthur Guez",
+    "Will Dabney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sN0BWH79Rs",
+   "pdf_url": "https://openreview.net/pdf?id=sN0BWH79Rs"
+  },
+  {
+   "title": "Adaptive Neighborhoods in Contrastive Regression Learning for Brain Age Prediction",
+   "authors": [
+    "Jakob Träuble",
+    "Lucy V Hiscox",
+    "Curtis Johnson",
+    "Carola-Bibiane Schönlieb",
+    "Gabriele S Kaminski Schierle",
+    "Angelica I Aviles-Rivero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=baCd27pGZv",
+   "pdf_url": "https://openreview.net/pdf?id=baCd27pGZv"
+  },
+  {
+   "title": "An Empirical Analysis of Speech Self-Supervised Learning at Multiple Resolutions",
+   "authors": [
+    "Theo Clark",
+    "Benedetta Cevoli",
+    "Eloy de Jong",
+    "Timofey Abramski",
+    "Jamie Dougherty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iO5ac2wU8D",
+   "pdf_url": "https://openreview.net/pdf?id=iO5ac2wU8D"
+  },
+  {
+   "title": "Anomaly Detection In The Wild: Can SSL Handle Strong Distribution Imbalances?",
+   "authors": [
+    "Daniel Otero",
+    "Rafael Mateus",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cVYBzbqWX5",
+   "pdf_url": "https://openreview.net/pdf?id=cVYBzbqWX5"
+  },
+  {
+   "title": "Benchmarking Self-Supervised Learning for Single-Cell Data",
+   "authors": [
+    "Philip Toma",
+    "Olga Ovcharenko",
+    "Imant Daunhawer",
+    "Julia E Vogt",
+    "Florian Barkmann",
+    "Valentina Boeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pj40OTjr5L",
+   "pdf_url": "https://openreview.net/pdf?id=pj40OTjr5L"
+  },
+  {
+   "title": "Boosting Unsupervised Segmentation Learning",
+   "authors": [
+    "Alp Eren SARI",
+    "Francesco Locatello",
+    "Paolo Favaro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qIlLOsZZi4",
+   "pdf_url": "https://openreview.net/pdf?id=qIlLOsZZi4"
+  },
+  {
+   "title": "Context-Aware Predictive Coding: A Representation Learning Framework for WiFi Sensing",
+   "authors": [
+    "Borna Barahimi",
+    "Hina Tabassum",
+    "Mohammad Omer",
+    "Omer Waqar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N53b4B4KPZ",
+   "pdf_url": "https://openreview.net/pdf?id=N53b4B4KPZ"
+  },
+  {
+   "title": "Data Augmentation Transformations for Self-Supervised Learning with Ultrasound",
+   "authors": [
+    "Blake VanBerlo",
+    "Alexander Wong",
+    "Jesse Hoey",
+    "Robert Arntfield"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VEv8pfcHK1",
+   "pdf_url": "https://openreview.net/pdf?id=VEv8pfcHK1"
+  },
+  {
+   "title": "Decoupling Vertical Federated Learning using Local Self-Supervision",
+   "authors": [
+    "Avi Amalanshu",
+    "Yash Sirvi",
+    "David I. Inouye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFdhJ1Imrp",
+   "pdf_url": "https://openreview.net/pdf?id=nFdhJ1Imrp"
+  },
+  {
+   "title": "DIETing: Self-Supervised Learning with Instance Discrimination Learns Identifiable Features",
+   "authors": [
+    "Attila Juhos",
+    "Alice Bizeul",
+    "Patrik Reizinger",
+    "Randall Balestriero",
+    "David Klindt",
+    "Mark Ibrahim",
+    "Julia E Vogt",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WWjYVP86JX",
+   "pdf_url": "https://openreview.net/pdf?id=WWjYVP86JX"
+  },
+  {
+   "title": "DRESS: Disentangled Representation-based Self-Supervised Meta-Learning for Diverse Tasks",
+   "authors": [
+    "Wei Cui",
+    "Yi Sui",
+    "Jesse C. Cresswell",
+    "Keyvan Golestan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AguQIV9CeN",
+   "pdf_url": "https://openreview.net/pdf?id=AguQIV9CeN"
+  },
+  {
+   "title": "EmbedSimScore: Advancing Protein Similarity Analysis with Structural and Contextual Embeddings",
+   "authors": [
+    "Gourab Saha",
+    "Md Toki Tahmid",
+    "Md Shamsuzzoha Bayzid"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cGyOgKT2fF",
+   "pdf_url": "https://openreview.net/pdf?id=cGyOgKT2fF"
+  },
+  {
+   "title": "Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning",
+   "authors": [
+    "Etai Littwin",
+    "Vimal Thilak",
+    "Anand Gopalakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IAqwCSv7kI",
+   "pdf_url": "https://openreview.net/pdf?id=IAqwCSv7kI"
+  },
+  {
+   "title": "Equivariant Representation Learning for Augmentation-based Self-Supervised Learning  via Image Reconstruction",
+   "authors": [
+    "Qin Wang",
+    "Kai Krajsek",
+    "Hanno Scharr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pGkdXvWx0E",
+   "pdf_url": "https://openreview.net/pdf?id=pGkdXvWx0E"
+  },
+  {
+   "title": "Explainable Audio-Visual Representation Learning via Prototypical Contrastive Masked Autoencoder",
+   "authors": [
+    "Yi Li",
+    "Plamen P Angelov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZLPVS0T4lc",
+   "pdf_url": "https://openreview.net/pdf?id=ZLPVS0T4lc"
+  },
+  {
+   "title": "For Perception Tasks: The Cost of LLM Pretraining by Next-Token Prediction Outweigh its Benefits",
+   "authors": [
+    "Randall Balestriero",
+    "Hai Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wYGBWOjq1Q",
+   "pdf_url": "https://openreview.net/pdf?id=wYGBWOjq1Q"
+  },
+  {
+   "title": "Improving OOD Generalization of Pre-trained Encoders via Aligned Embedding-Space Ensembles",
+   "authors": [
+    "Shuman Peng",
+    "Arash Khoeini",
+    "Sharan Vaswani",
+    "Martin Ester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cFVKoG7Xr3",
+   "pdf_url": "https://openreview.net/pdf?id=cFVKoG7Xr3"
+  },
+  {
+   "title": "In-Context Symmetries: Self-Supervised Learning through Contextual World Models",
+   "authors": [
+    "Sharut Gupta",
+    "Chenyu Wang",
+    "Yifei Wang",
+    "Tommi Jaakkola",
+    "Stefanie Jegelka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f2KX9LSZJJ",
+   "pdf_url": "https://openreview.net/pdf?id=f2KX9LSZJJ"
+  },
+  {
+   "title": "Influence Estimation in Self-Supervised Learning",
+   "authors": [
+    "Nidhin Harilal",
+    "Reza Akbarian Bafghi",
+    "Amit Kiran Rege",
+    "Maziar Raissi",
+    "Claire Monteleoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JcEizOYIGI",
+   "pdf_url": "https://openreview.net/pdf?id=JcEizOYIGI"
+  },
+  {
+   "title": "Informed Augmentation Selection Improves Tabular Contrastive Learning",
+   "authors": [
+    "Arash Khoeini",
+    "Shuman Peng",
+    "Martin Ester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GFu8qDtVQa",
+   "pdf_url": "https://openreview.net/pdf?id=GFu8qDtVQa"
+  },
+  {
+   "title": "Intra-video Positive Pairs in Self-Supervised Learning for Ultrasound",
+   "authors": [
+    "Blake VanBerlo",
+    "Alexander Wong",
+    "Jesse Hoey",
+    "Robert Arntfield"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VpB4NrileF",
+   "pdf_url": "https://openreview.net/pdf?id=VpB4NrileF"
+  },
+  {
+   "title": "Leveraging Audio and Visual Recurrence for Unsupervised Video Highlight Detection",
+   "authors": [
+    "Zahidul Islam",
+    "Sujoy Paul",
+    "Mrigank Rochan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=obpHnDbjHU",
+   "pdf_url": "https://openreview.net/pdf?id=obpHnDbjHU"
+  },
+  {
+   "title": "LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation",
+   "authors": [
+    "Aoqi Wu",
+    "weiquan Huang",
+    "Yifan Yang",
+    "Xufang Luo",
+    "Yuqing Yang",
+    "Chunyu Wang",
+    "Liang Hu",
+    "Xiyang Dai",
+    "Dongdong Chen",
+    "Chong Luo",
+    "Lili Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bNPyx0aNNs",
+   "pdf_url": "https://openreview.net/pdf?id=bNPyx0aNNs"
+  },
+  {
+   "title": "Masked Self-Supervised Pretraining for Semantic Segmentation of Dental Radiographs",
+   "authors": [
+    "Tejeswar Pokuri",
+    "Laalenthika Konthalapalli",
+    "Sarvesh Kumar",
+    "Karthik B. V. A. S."
+   ],
+   "forum_url": "https://openreview.net/forum?id=yUqQi8Pgl7",
+   "pdf_url": "https://openreview.net/pdf?id=yUqQi8Pgl7"
+  },
+  {
+   "title": "Maven: A Multimodal Foundation Model for Supernova Science",
+   "authors": [
+    "Gemma Zhang",
+    "Thomas Helfer",
+    "Alexander Thomas Gagliano",
+    "Siddharth Mishra-Sharma",
+    "V Ashley Villar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PqmjjjdHoC",
+   "pdf_url": "https://openreview.net/pdf?id=PqmjjjdHoC"
+  },
+  {
+   "title": "MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations",
+   "authors": [
+    "Benedikt Alkin",
+    "Lukas Miklautz",
+    "Sepp Hochreiter",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bvN7UVbrfP",
+   "pdf_url": "https://openreview.net/pdf?id=bvN7UVbrfP"
+  },
+  {
+   "title": "NARAIM: Native Aspect Ratio Autoregressive Image Models",
+   "authors": [
+    "Daniel Gallo Fernández",
+    "Robert van der Klis",
+    "Răzvan-Andrei Matișan",
+    "Janusz Partyka",
+    "Samuele Papa",
+    "Efstratios Gavves",
+    "Phillip Lippe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Iuh8VWU66",
+   "pdf_url": "https://openreview.net/pdf?id=7Iuh8VWU66"
+  },
+  {
+   "title": "Neural Embeddings Rank: Aligning 3D latent dynamics with movements",
+   "authors": [
+    "Chenggang Chen",
+    "Zhiyu Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kfknlqtd4V",
+   "pdf_url": "https://openreview.net/pdf?id=kfknlqtd4V"
+  },
+  {
+   "title": "Occam's Razor for Self Supervised Learning: What is Sufficient to Learn Good Representations?",
+   "authors": [
+    "Mark Ibrahim",
+    "David Klindt",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pjSWAgXj3i",
+   "pdf_url": "https://openreview.net/pdf?id=pjSWAgXj3i"
+  },
+  {
+   "title": "On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning",
+   "authors": [
+    "Bokun Wang",
+    "Yunwen Lei",
+    "Yiming Ying",
+    "Tianbao Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=djdGhswqSs",
+   "pdf_url": "https://openreview.net/pdf?id=djdGhswqSs"
+  },
+  {
+   "title": "On the Collapse Errors Induced by the Deterministic Sampler for Diffusion Models",
+   "authors": [
+    "Yi Zhang",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HKX2kKF1mn",
+   "pdf_url": "https://openreview.net/pdf?id=HKX2kKF1mn"
+  },
+  {
+   "title": "PabLO: Improving Semi-Supervised Learning with Pseudolabeling Optimization",
+   "authors": [
+    "Harit Vishwakarma",
+    "Yi Chen",
+    "Satya Sai Srinath Namburi GNVV",
+    "Sui Jiet Tay",
+    "Ramya Korlakai Vinayak",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v6sg2IfGyB",
+   "pdf_url": "https://openreview.net/pdf?id=v6sg2IfGyB"
+  },
+  {
+   "title": "Pearls from Pebbles: Improved Confidence Functions for Auto-labeling",
+   "authors": [
+    "Harit Vishwakarma",
+    "Yi Chen",
+    "Sui Jiet Tay",
+    "Satya Sai Srinath Namburi GNVV",
+    "Frederic Sala",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GYdBMBotgZ",
+   "pdf_url": "https://openreview.net/pdf?id=GYdBMBotgZ"
+  },
+  {
+   "title": "PiLaMIM: Toward Richer Visual Representations by Integrating Pixel and Latent Masked Image Modeling",
+   "authors": [
+    "Junmyeong Lee",
+    "Eui Jun Hwang",
+    "Sukmin Cho",
+    "Jong C. Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AjDkHJBAuH",
+   "pdf_url": "https://openreview.net/pdf?id=AjDkHJBAuH"
+  },
+  {
+   "title": "Representing Positional Information in Generative World Models for Object Manipulation",
+   "authors": [
+    "Stefano Ferraro",
+    "Pietro Mazzaglia",
+    "Tim Verbelen",
+    "Bart Dhoedt",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFMfIlevTP",
+   "pdf_url": "https://openreview.net/pdf?id=LFMfIlevTP"
+  },
+  {
+   "title": "Rethinking Patch Dependence for Masked Autoencoders",
+   "authors": [
+    "Letian Fu",
+    "Long Lian",
+    "Renhao Wang",
+    "Baifeng Shi",
+    "XuDong Wang",
+    "Adam Yala",
+    "Trevor Darrell",
+    "Alexei A Efros",
+    "Ken Goldberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dlrzRVmmb8",
+   "pdf_url": "https://openreview.net/pdf?id=dlrzRVmmb8"
+  },
+  {
+   "title": "Robust Self-Supervised Learning for Adversarial Attack Detection",
+   "authors": [
+    "Yi Li",
+    "Plamen P Angelov",
+    "Neeraj Suri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VSYnG9s2mo",
+   "pdf_url": "https://openreview.net/pdf?id=VSYnG9s2mo"
+  },
+  {
+   "title": "Self Supervised Learning Using Controlled Diffusion Image Augmentation",
+   "authors": [
+    "Judah A Goldfeder",
+    "Patrick Minwan Puma",
+    "Gabriel Guo",
+    "Gabriel Guerra Trigo",
+    "Hod Lipson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fy8Q63RX5i",
+   "pdf_url": "https://openreview.net/pdf?id=Fy8Q63RX5i"
+  },
+  {
+   "title": "Self-Supervised Bisimulation Action Chunk Representation for Efficient RL",
+   "authors": [
+    "Lei Shi",
+    "Jianye HAO",
+    "Hongyao Tang",
+    "Zibin Dong",
+    "YAN ZHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hNnATj3Ib3",
+   "pdf_url": "https://openreview.net/pdf?id=hNnATj3Ib3"
+  },
+  {
+   "title": "Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series",
+   "authors": [
+    "Ching Chang",
+    "Chan Chiao-Tung",
+    "Wei-Yao Wang",
+    "Wen-Chih Peng",
+    "Tien-Fu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GnME2Gx5H3",
+   "pdf_url": "https://openreview.net/pdf?id=GnME2Gx5H3"
+  },
+  {
+   "title": "Self-Supervised Pretext Tasks for Event Sequence Data from Detecting Misalignment",
+   "authors": [
+    "Yimu Wang",
+    "He Zhao",
+    "Ruizhi Deng",
+    "Frederick Tung",
+    "Greg Mori"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zc101QzXtw",
+   "pdf_url": "https://openreview.net/pdf?id=zc101QzXtw"
+  },
+  {
+   "title": "Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps",
+   "authors": [
+    "Xue Xia",
+    "Randall Balestriero",
+    "Tao Zhang",
+    "Lorenz Hurni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lL0SMKaKZL",
+   "pdf_url": "https://openreview.net/pdf?id=lL0SMKaKZL"
+  },
+  {
+   "title": "Seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models",
+   "authors": [
+    "Hafez Ghaemi",
+    "Eilif Benjamin Muller",
+    "Shahab Bakhtiari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MO1OLAKcsJ",
+   "pdf_url": "https://openreview.net/pdf?id=MO1OLAKcsJ"
+  },
+  {
+   "title": "SigCLR: Sigmoid Contrastive Learning of Visual Representations",
+   "authors": [
+    "Ömer Veysel Çağatan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8QCupLGDT9",
+   "pdf_url": "https://openreview.net/pdf?id=8QCupLGDT9"
+  },
+  {
+   "title": "Squeezing performance from pathology foundation models with chained hyperparameter searches",
+   "authors": [
+    "Joseph Cappadona",
+    "Ken Gary Zeng",
+    "Carlos Fernandez-Granda",
+    "Jan Witowski",
+    "Yann LeCun",
+    "Krzysztof J. Geras"
+   ],
+   "forum_url": "https://openreview.net/forum?id=opIx2SYw7r",
+   "pdf_url": "https://openreview.net/pdf?id=opIx2SYw7r"
+  },
+  {
+   "title": "Squeezing Water from a Stone: Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization",
+   "authors": [
+    "Deep Chakraborty",
+    "Tim G. J. Rudner",
+    "Erik Learned-Miller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rcNQBX6uZ1",
+   "pdf_url": "https://openreview.net/pdf?id=rcNQBX6uZ1"
+  },
+  {
+   "title": "Test-Time Adaptation for Video Highlight Detection",
+   "authors": [
+    "Zahidul Islam",
+    "Sujoy Paul",
+    "Mrigank Rochan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nzqmLjzaNt",
+   "pdf_url": "https://openreview.net/pdf?id=nzqmLjzaNt"
+  },
+  {
+   "title": "The Birth of Self Supervised Learning: A Supervised Theory",
+   "authors": [
+    "Randall Balestriero",
+    "Yann LeCun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NhYAjAAdQT",
+   "pdf_url": "https://openreview.net/pdf?id=NhYAjAAdQT"
+  },
+  {
+   "title": "Time-varying Representations of Longitudinal Biosignals using Self-supervised Learning",
+   "authors": [
+    "Sam Jean Perochon",
+    "Salar Abbaspourazad",
+    "Joseph Futoma",
+    "Andrew Miller",
+    "Guillermo Sapiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SMC0vyc677",
+   "pdf_url": "https://openreview.net/pdf?id=SMC0vyc677"
+  },
+  {
+   "title": "TSA on AutoPilot: Self-tuning Self-supervised Time Series Anomaly Detection",
+   "authors": [
+    "Boje Deforce",
+    "Meng-Chieh Lee",
+    "Bart Baesens",
+    "Estefanía Serral Asensio",
+    "Jaemin Yoo",
+    "Leman Akoglu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HmoNeNCmOj",
+   "pdf_url": "https://openreview.net/pdf?id=HmoNeNCmOj"
+  },
+  {
+   "title": "Two Is Better Than One: Aligned Clusters Improve Anomaly Detection",
+   "authors": [
+    "Alain Ryser",
+    "Thomas M. Sutter",
+    "Alexander Marx",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sSb7ZI2kS6",
+   "pdf_url": "https://openreview.net/pdf?id=sSb7ZI2kS6"
+  },
+  {
+   "title": "Uncovering RL Integration in SSL Loss: Objective-Specific Implications for Data-Efficient RL",
+   "authors": [
+    "Ömer Veysel Çağatan",
+    "Baris Akgun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZdY6Zylnkm",
+   "pdf_url": "https://openreview.net/pdf?id=ZdY6Zylnkm"
+  },
+  {
+   "title": "Uncovering the Risk of Model Collapsing in Self-Supervised Continual Test-time Adaptation",
+   "authors": [
+    "Trung-Hieu Hoang",
+    "MinhDuc Vo",
+    "Minh N. Do"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EFS2hfLuUF",
+   "pdf_url": "https://openreview.net/pdf?id=EFS2hfLuUF"
+  },
+  {
+   "title": "Unfolding Videos Dynamics via Taylor Expansion",
+   "authors": [
+    "Siyi Chen",
+    "Minkyu Choi",
+    "Zesen Zhao",
+    "Kuan Han",
+    "Qing Qu",
+    "Zhongming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UIr2AzpNtN",
+   "pdf_url": "https://openreview.net/pdf?id=UIr2AzpNtN"
+  },
+  {
+   "title": "Unsupervised Event Outlier Detection in Continuous Time",
+   "authors": [
+    "Somjit Nath",
+    "Kry Yik-Chau Lui",
+    "Siqi Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NBpiLwEUGI",
+   "pdf_url": "https://openreview.net/pdf?id=NBpiLwEUGI"
+  },
+  {
+   "title": "Variational Graph Contrastive Learning",
+   "authors": [
+    "Shifeng Xie",
+    "Jhony H. Giraldo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vo99uctEaA",
+   "pdf_url": "https://openreview.net/pdf?id=vo99uctEaA"
+  },
+  {
+   "title": "When Do We Not Need Larger Vision Models?",
+   "authors": [
+    "Baifeng Shi",
+    "Ziyang Wu",
+    "Maolin Mao",
+    "Xin Wang",
+    "Trevor Darrell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=998NbPvfrD",
+   "pdf_url": "https://openreview.net/pdf?id=998NbPvfrD"
+  }
+ ]
+}

@@ -1,0 +1,846 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/GlobalSouthML",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:52.703Z",
+ "paper_count": 82,
+ "papers": [
+  {
+   "title": "\"Less is More\" for AIGC Quality: A No-Reference IQA Model from Scratch",
+   "authors": [
+    "Sreejita Roy",
+    "Anurag Roychowdhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5T4SVxWa6q",
+   "pdf_url": "https://openreview.net/pdf?id=5T4SVxWa6q"
+  },
+  {
+   "title": "\"So, How Much Do LLMs Hallucinate on Low-Resource Languages?\" A Quantitative and Qualitative Analysis",
+   "authors": [
+    "Kushal Trivedi",
+    "Murtuza Shaikh",
+    "Sriyansh Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Rqpn3maW8",
+   "pdf_url": "https://openreview.net/pdf?id=9Rqpn3maW8"
+  },
+  {
+   "title": "A Co-Evolutionary Metaheuristic-HDBSCAN Framework for Feature Selection in eGFR-Based CKD Prediction",
+   "authors": [
+    "U.S. Samarasinghe",
+    "H. A. D. U. Perera",
+    "Lidhamullage Dhon Charles Shashikala Subhashini",
+    "Pubudu Upekshana Chulasiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RZ46FCWrkW",
+   "pdf_url": "https://openreview.net/pdf?id=RZ46FCWrkW"
+  },
+  {
+   "title": "ABO-Med: Accelerated Bilevel Optimization for Few-Shot Medical Image Classification",
+   "authors": [
+    "Ruoxuan Shi",
+    "Sheng Yang",
+    "Yating Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bjQikWev5U",
+   "pdf_url": "https://openreview.net/pdf?id=bjQikWev5U"
+  },
+  {
+   "title": "ADAL-R: Adaptive Drift-Aware Active Learning for Label-Efficient Streaming Regression",
+   "authors": [
+    "W.K.H. Hasara",
+    "J. H. D. S. P. Tissera",
+    "O. N. S. Senaweera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hFHQAzsLtT",
+   "pdf_url": "https://openreview.net/pdf?id=hFHQAzsLtT"
+  },
+  {
+   "title": "Adversarial Reasoning Manipulation in Small Language Models: Attack Taxonomy, Empirical Evaluation, and Detection Framework",
+   "authors": [
+    "Sandares Dhanujaya Fernando"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pO9XckwyAZ",
+   "pdf_url": "https://openreview.net/pdf?id=pO9XckwyAZ"
+  },
+  {
+   "title": "Agentic Tool-Augmented Translation for Low-Resource Sanskrit--English under Resource Constraints",
+   "authors": [
+    "Jintao Ma",
+    "Junwen SHEN",
+    "Xinyue WANG",
+    "Xuesai kong",
+    "Dengkui Hou",
+    "PENG HAOYU",
+    "lingxiang hu",
+    "Leqi LIU",
+    "Dun Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zfn7axZ2r3",
+   "pdf_url": "https://openreview.net/pdf?id=Zfn7axZ2r3"
+  },
+  {
+   "title": "Answer, Ask, or Escalate? Evaluating Public-Service Triage in Global South Languages",
+   "authors": [
+    "Neel Tushar Shah",
+    "Manglam Kartik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AeNUQGrs4w",
+   "pdf_url": "https://openreview.net/pdf?id=AeNUQGrs4w"
+  },
+  {
+   "title": "Are Explanations Faithful Across Skin Tones? Assessing Foundation-Model Dermatology Classifiers",
+   "authors": [
+    "Rosa Y. G. Paccotacya-Yanque"
+   ],
+   "forum_url": "https://openreview.net/forum?id=noBsUD7Tym",
+   "pdf_url": "https://openreview.net/pdf?id=noBsUD7Tym"
+  },
+  {
+   "title": "Balanced Fine-Tuning Is Not Enough: Latent Bias Mitigation in Speech Foundation Models",
+   "authors": [
+    "Utkarsh Sharma",
+    "Rajeev Ranjan Dwivedi",
+    "Vinod K. Kurmi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wasKc6UOLQ",
+   "pdf_url": "https://openreview.net/pdf?id=wasKc6UOLQ"
+  },
+  {
+   "title": "Beyond Echocardiography: Multimodal Deep Learning for Ejection Fraction Estimation from Standard ECG",
+   "authors": [
+    "Sudhanshu Gaurhar",
+    "Gurunath Parale",
+    "Tushar Shinde",
+    "Surender Deora",
+    "Anil Kumar Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YsLcyeDMtY",
+   "pdf_url": "https://openreview.net/pdf?id=YsLcyeDMtY"
+  },
+  {
+   "title": "Beyond Pixels: Embedding-Guided Keyframe Selection for VidLLMs",
+   "authors": [
+    "Sreejita Roy",
+    "Tushar Shinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ovga7jyBlD",
+   "pdf_url": "https://openreview.net/pdf?id=Ovga7jyBlD"
+  },
+  {
+   "title": "BiomedXPro: Prompt Optimization for Explainable Diagnosis with Biomedical Vision Language Models",
+   "authors": [
+    "Kaushitha Silva",
+    "Mansitha Eashwara",
+    "Sanduni Ubayasiri",
+    "Ruwan Tennakoon",
+    "Damayanthi Herath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P2lpAOMCio",
+   "pdf_url": "https://openreview.net/pdf?id=P2lpAOMCio"
+  },
+  {
+   "title": "Bodily Emotion Recognition on ABEE: A Diagnostic Baseline Study for Multi-Label Classification and VAD Regression",
+   "authors": [
+    "Rohan Saha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hHH9prMFM7",
+   "pdf_url": "https://openreview.net/pdf?id=hHH9prMFM7"
+  },
+  {
+   "title": "Bridging Fixed and Open-Vocabulary Segmentation in Remote Sensing via AI Orchestration",
+   "authors": [
+    "Ritik Kumar Das",
+    "Sudipan Saha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uBK0uj9Rss",
+   "pdf_url": "https://openreview.net/pdf?id=uBK0uj9Rss"
+  },
+  {
+   "title": "Bridging the Multilingual Gap in Educational Question Generation via Knowledge Distillation",
+   "authors": [
+    "Byambaa Bayarmandakh",
+    "Sahan Bulathwela"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dgGArMFV6k",
+   "pdf_url": "https://openreview.net/pdf?id=dgGArMFV6k"
+  },
+  {
+   "title": "Bridging the Visual Gap: Resource-Efficient VLM Adaptation for Meitei Mayek using Synthetic Multi-Modal Mixtures",
+   "authors": [
+    "Agniva Maiti",
+    "ADITYA TIWARI",
+    "Dwarikanath Mahapatra",
+    "Sudipta Roy",
+    "Yash Sinha",
+    "Dhruv Kumar",
+    "Murari Mandal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YpRwev7QKb",
+   "pdf_url": "https://openreview.net/pdf?id=YpRwev7QKb"
+  },
+  {
+   "title": "CAGrad-Lite : Robust Coreset-Aware Gradient Descent for Low-Data Regimes",
+   "authors": [
+    "Krishna Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KVgk3fLP7N",
+   "pdf_url": "https://openreview.net/pdf?id=KVgk3fLP7N"
+  },
+  {
+   "title": "Confusion-Aware Transfer Teacher Curriculum Learning Framework: Disentangling Scoring and Pacing Effects",
+   "authors": [
+    "Savini Kommalage",
+    "Sanka Mohottala",
+    "Asiri Gawesha Lindamulage",
+    "Dulara Madhusanka",
+    "Menan Velayuthan",
+    "Dharshana Kasthurirathna",
+    "Mahima Milinda Alwis Weerasinghe",
+    "Charith Abhayaratne"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vRWvEy9Phs",
+   "pdf_url": "https://openreview.net/pdf?id=vRWvEy9Phs"
+  },
+  {
+   "title": "Convolutional X-formers for Vision",
+   "authors": [
+    "Pranav Jeevan P",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P8TJeu80Jr",
+   "pdf_url": "https://openreview.net/pdf?id=P8TJeu80Jr"
+  },
+  {
+   "title": "Corpus Composition Matters: Mixing Synthetic and Real Data for Time-Series Foundation Model Pretraining",
+   "authors": [
+    "Aaryan Nagpal",
+    "Debdeep Sanyal",
+    "Murari Mandal",
+    "Dhruv Kumar",
+    "Saurabh Deshpande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5HtR0qhDSP",
+   "pdf_url": "https://openreview.net/pdf?id=5HtR0qhDSP"
+  },
+  {
+   "title": "CREST: Covariate-Regularized Emission Forecasting with Seasonal-Temporal Decomposition for Carbon Emission Prediction",
+   "authors": [
+    "Anushka Chaubey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGLyQp0S3b",
+   "pdf_url": "https://openreview.net/pdf?id=MGLyQp0S3b"
+  },
+  {
+   "title": "Curriculum Learning for Safety Alignment",
+   "authors": [
+    "Sandeep Kumar",
+    "Virginia Smith",
+    "Chhavi Yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d0GS56MzSw",
+   "pdf_url": "https://openreview.net/pdf?id=d0GS56MzSw"
+  },
+  {
+   "title": "CVarGD: Coreset-Variance-Aware Gradient Descent for Data-Scarce Image Classification",
+   "authors": [
+    "Amina Sadiq Omar",
+    "Yussuf Hassan Hamad",
+    "Saleh Haji Othman",
+    "Anwar Aziz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p2jRqtVfQW",
+   "pdf_url": "https://openreview.net/pdf?id=p2jRqtVfQW"
+  },
+  {
+   "title": "DAPQ: Defect-Aware Perceptual Quality Metric for Training-Free Augmentation in Industrial Anomaly Detection",
+   "authors": [
+    "Sreejita Roy",
+    "Tushar Shinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=703vraSZL7",
+   "pdf_url": "https://openreview.net/pdf?id=703vraSZL7"
+  },
+  {
+   "title": "Deep Microcompression: Structured Pruning and Bit-packed Quantization for Microcontrollers",
+   "authors": [
+    "Opegbemi Matthias Busoye",
+    "Tolulope Matthew Busoye",
+    "Eghonghon-aye Eigbe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zlmbrbXCsH",
+   "pdf_url": "https://openreview.net/pdf?id=zlmbrbXCsH"
+  },
+  {
+   "title": "Default Lock-In: A Compute-Economics Account of Cultural Homogenization in AI Writing Tools",
+   "authors": [
+    "Abhra Dubey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tUmmBc5qqe",
+   "pdf_url": "https://openreview.net/pdf?id=tUmmBc5qqe"
+  },
+  {
+   "title": "Efficient AI Deployment on Legacy Data Centers in the Global South",
+   "authors": [
+    "Kedir Yassin Hussen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VRFtSh5SBI",
+   "pdf_url": null
+  },
+  {
+   "title": "Efficient Data Selection for Split Neural Networks",
+   "authors": [
+    "Humaira Kousar",
+    "Hasnain Irshad Bhatti",
+    "Jaekyun Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lrwImWgQ5A",
+   "pdf_url": "https://openreview.net/pdf?id=lrwImWgQ5A"
+  },
+  {
+   "title": "Evaluating Indic Literary Creativity In LLMs through the Lens of the Shastras",
+   "authors": [
+    "Agniva Maiti",
+    "Aarsh Muley",
+    "ADITYA TIWARI",
+    "Dwarikanath Mahapatra",
+    "Sudipta Roy",
+    "Yash Sinha",
+    "Dhruv Kumar",
+    "Murari Mandal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J75kQOXNY9",
+   "pdf_url": "https://openreview.net/pdf?id=J75kQOXNY9"
+  },
+  {
+   "title": "Evaluation of Contextual Understanding in Large Language Models",
+   "authors": [
+    "Mamta Nallaretnam",
+    "Subavarshana Arumugam",
+    "Kithuni Wickramasinghe",
+    "Chamath Gunapala",
+    "Uthayasanker Thayasivam",
+    "Kamal Premaratne",
+    "pragatheeswaran vipulanandan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dHmHflavGU",
+   "pdf_url": "https://openreview.net/pdf?id=dHmHflavGU"
+  },
+  {
+   "title": "FairCore: Subgroup-Equitable Coreset Selection with Provable Fairness–Efficiency Tradeoffs",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi",
+    "Soham Batra",
+    "Laksh Patel",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MvHa9rQZLW",
+   "pdf_url": "https://openreview.net/pdf?id=MvHa9rQZLW"
+  },
+  {
+   "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+   "authors": [
+    "Manya Pandey",
+    "Dhruv Kumar",
+    "Murari Mandal",
+    "Saurabh Deshpande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uoPJ8tHhsj",
+   "pdf_url": "https://openreview.net/pdf?id=uoPJ8tHhsj"
+  },
+  {
+   "title": "GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts",
+   "authors": [
+    "Amir Hossein Kargaran",
+    "Nafiseh Nikeghbal",
+    "Jana Diesner",
+    "François Yvon",
+    "Hinrich Schuetze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E27ascmsKs",
+   "pdf_url": "https://openreview.net/pdf?id=E27ascmsKs"
+  },
+  {
+   "title": "HiBias: A Nine-Faceted Bias Annotation Dataset for Media Bias Detection in Hindi",
+   "authors": [
+    "Kushal Trivedi",
+    "Roshni Chakraborty",
+    "Murtuza Shaikh",
+    "Sriyansh Sharma",
+    "Subhoshri Pal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mtmaupy9F1",
+   "pdf_url": "https://openreview.net/pdf?id=mtmaupy9F1"
+  },
+  {
+   "title": "Human-Guided Causal Hypothesis Testing for Remote Sensing Anomaly Detection",
+   "authors": [
+    "Kaustubha V"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PX8fupKRPN",
+   "pdf_url": "https://openreview.net/pdf?id=PX8fupKRPN"
+  },
+  {
+   "title": "IDO: Incongruity-aware Distribution Optimization for Multimodal Fake News Detection",
+   "authors": [
+    "Hengyang Zhou",
+    "Rongman Hong",
+    "Yuxuan Zhou",
+    "Jing Wang",
+    "Zhaoyan Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a7lFt900rJ",
+   "pdf_url": "https://openreview.net/pdf?id=a7lFt900rJ"
+  },
+  {
+   "title": "IndiaCultureVL-Bench: Cultural Recognition and Prompt-Induced Collapse in Open Vision-Language Models",
+   "authors": [
+    "Suparnojit Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1tacYUOzk5",
+   "pdf_url": "https://openreview.net/pdf?id=1tacYUOzk5"
+  },
+  {
+   "title": "IndicDB - Benchmarking Multilingual Text-to-SQL Capabilities in Indian Languages",
+   "authors": [
+    "Aviral Dawar",
+    "Roshan Karanth",
+    "Vikram Goyal",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TxvO7MD8jZ",
+   "pdf_url": "https://openreview.net/pdf?id=TxvO7MD8jZ"
+  },
+  {
+   "title": "kilimoAI: Participatory Machine Learning for Low-Resource Crop Disease Detection in Tanzania",
+   "authors": [
+    "Neema Mduma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aBfDFfCtJM",
+   "pdf_url": "https://openreview.net/pdf?id=aBfDFfCtJM"
+  },
+  {
+   "title": "Latent Space Refusal Anchoring for Low-Resource African Languages: Mechanistic Safety Recovery Without Retraining",
+   "authors": [
+    "Godwin Abuh Faruna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4UwS3bn1fB",
+   "pdf_url": "https://openreview.net/pdf?id=4UwS3bn1fB"
+  },
+  {
+   "title": "LawChain: A Resource-Efficient Blueprint for Legal Information Retrieval in Low-Resource Jurisdictions",
+   "authors": [
+    "Ovindu Atukorala",
+    "Randeepa Appuhami",
+    "Nisansa de Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ICjZ10kLx8",
+   "pdf_url": "https://openreview.net/pdf?id=ICjZ10kLx8"
+  },
+  {
+   "title": "Learning to Correct: Efficient Image Super-Resolution via Fourier-Based Correction Maps",
+   "authors": [
+    "Gowthamaan Palani",
+    "Ganapathy Krishnamurthi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8bZfHe4SKk",
+   "pdf_url": "https://openreview.net/pdf?id=8bZfHe4SKk"
+  },
+  {
+   "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+   "authors": [
+    "Nathan Truong",
+    "Aryan Panda",
+    "Rayming Ye",
+    "Zoe Sun",
+    "Maheep Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iCtK659I6p",
+   "pdf_url": "https://openreview.net/pdf?id=iCtK659I6p"
+  },
+  {
+   "title": "Machine Learning Challenges in Intelligent Unmanned Aerial Vehicle Operations in Developing Economies",
+   "authors": [
+    "Isuru Munasinghe",
+    "Nethmi Kowshani Jayalath Pathirana",
+    "Charitha Dombawala",
+    "Akila Pemasiri",
+    "Asanka G. Perera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wMbWrdeywh",
+   "pdf_url": "https://openreview.net/pdf?id=wMbWrdeywh"
+  },
+  {
+   "title": "Med-Cam: Minimal Evidence for Explaining Medical Decision Making",
+   "authors": [
+    "Pirzada Suhail",
+    "Aditya Anand",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ILReuanzvp",
+   "pdf_url": "https://openreview.net/pdf?id=ILReuanzvp"
+  },
+  {
+   "title": "Memory-Efficient Partitioned DNN Inference on Resource-Constrained Android Crowds",
+   "authors": [
+    "Lakshani Manamperi",
+    "Thiwanka Pathirana",
+    "Disumi Pathirana",
+    "Nipun Viraj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LIGJVnL3ot",
+   "pdf_url": "https://openreview.net/pdf?id=LIGJVnL3ot"
+  },
+  {
+   "title": "MIC: Maximizing Informational Capacity in Adaptive Representations via Isotropic Subspace Alignment",
+   "authors": [
+    "Nguyen Hong Dang",
+    "Nhi Ngoc-Yen Nguyen",
+    "Hieu Pham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bhmUQVzgnS",
+   "pdf_url": "https://openreview.net/pdf?id=bhmUQVzgnS"
+  },
+  {
+   "title": "MoReg: Minimal-Overlap 3D Point Cloud Registration via Visibility-Aware Matching",
+   "authors": [
+    "Rushikesh Bhosale",
+    "Sundaram Muthu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Nj6VnPmHk",
+   "pdf_url": "https://openreview.net/pdf?id=8Nj6VnPmHk"
+  },
+  {
+   "title": "Normalizing Flow based Metric for Image Generation",
+   "authors": [
+    "Pranav Jeevan P",
+    "Neeraj Nixon",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GbctgoainK",
+   "pdf_url": "https://openreview.net/pdf?id=GbctgoainK"
+  },
+  {
+   "title": "On the Role of Intermediate Representations in Knowledge Distillation for Robust Generalization",
+   "authors": [
+    "Vaibhav Singh",
+    "Prateek Chanda",
+    "Ganesh Ramakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HpFfLwwCHj",
+   "pdf_url": "https://openreview.net/pdf?id=HpFfLwwCHj"
+  },
+  {
+   "title": "One Backbone, Two Flood Hazards: Cross-Basin CNN Forecasting of Tropical Cyclone Rainfall and Surge Potential",
+   "authors": [
+    "Jeni Mei",
+    "Dat Minh Hong",
+    "Samuel Belkadi",
+    "Robert Edwin Rouse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CX7tfPvYvB",
+   "pdf_url": "https://openreview.net/pdf?id=CX7tfPvYvB"
+  },
+  {
+   "title": "Open-Weight LLM Fine-Tuning Defenses are Susceptible to Simple Attacks",
+   "authors": [
+    "Kevin Kuo",
+    "Chhavi Yadav",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nj4JQVqfyr",
+   "pdf_url": "https://openreview.net/pdf?id=nj4JQVqfyr"
+  },
+  {
+   "title": "PatchXFormer: Bridging the Data Gap in Tropical Solar Power Forecasting for Equitable Renewable Energy",
+   "authors": [
+    "Chathushka Karunathilaka",
+    "Sandareka Wickramanayake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sx4C8o9dhj",
+   "pdf_url": "https://openreview.net/pdf?id=sx4C8o9dhj"
+  },
+  {
+   "title": "Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations",
+   "authors": [
+    "Halviti Kankanamge Yasantha Niroshana",
+    "Weijith Manula Wimalasiri",
+    "Chathuranga Hettiarachchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2IWkpoiMnr",
+   "pdf_url": "https://openreview.net/pdf?id=2IWkpoiMnr"
+  },
+  {
+   "title": "PhyJointNet: Attention-Guided Joint Segmentation & Classification of Breast Ultrasound with Latent Feature Augmentation",
+   "authors": [
+    "Nimalesh Elangovan",
+    "Tushar Shinde",
+    "Hitika Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4wmjG487uW",
+   "pdf_url": "https://openreview.net/pdf?id=4wmjG487uW"
+  },
+  {
+   "title": "Reducing Redundant Actions in ReAct Agents via Semantic Filtering",
+   "authors": [
+    "Ngoc-Tien Truong",
+    "Duc Nghia Do"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ifHBOY6ebv",
+   "pdf_url": "https://openreview.net/pdf?id=ifHBOY6ebv"
+  },
+  {
+   "title": "Refugee Watch: An Open-Source Framework for Climate-Resilient Humanitarian Analytics",
+   "authors": [
+    "Lisa Y.W. Tang",
+    "Wai Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qm5AksP80N",
+   "pdf_url": "https://openreview.net/pdf?id=qm5AksP80N"
+  },
+  {
+   "title": "Resolving Scale Conflict via Synchronized Multi-Stream Learning: A Framework for High-Fidelity Geospatial Mapping",
+   "authors": [
+    "Saloni Mohapatra",
+    "Akshat Srivastava",
+    "Pawni Saxena"
+   ],
+   "forum_url": "https://openreview.net/forum?id=knxcWFwsXR",
+   "pdf_url": "https://openreview.net/pdf?id=knxcWFwsXR"
+  },
+  {
+   "title": "Resource-Aware Prompting for Sinhala-Tamil Machine Translation: Methodological Insights for Compute-Limited Settings",
+   "authors": [
+    "Imanthi Okadini",
+    "Randil Pushpananda",
+    "Chamila Liyanage",
+    "Ruvan Weerasinghe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O35pISpwLw",
+   "pdf_url": "https://openreview.net/pdf?id=O35pISpwLw"
+  },
+  {
+   "title": "Retrieval Dwelling: A Principled Sampling Strategy for Exploiting Spurious State Exploration",
+   "authors": [
+    "Rohit Sinha",
+    "Saroj Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PI416ytC5E",
+   "pdf_url": "https://openreview.net/pdf?id=PI416ytC5E"
+  },
+  {
+   "title": "Router-Guided Data Selection for Efficient Deep Learning",
+   "authors": [
+    "Humaira Kousar",
+    "Hasnain Irshad Bhatti",
+    "Mohammad Mahdi Rahimi",
+    "Jaekyun Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wpk8n5oJhM",
+   "pdf_url": "https://openreview.net/pdf?id=wpk8n5oJhM"
+  },
+  {
+   "title": "Scale When Needed: Adaptive Neuron-level Mixed Precision Quantization Aware Training",
+   "authors": [
+    "Ayush K. Varshney",
+    "Konstantinos Vandikas",
+    "Sarunas Girdzijauskas",
+    "Adam Orucu",
+    "Aneta Vulgarakis Feljan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tZki6SMRH0",
+   "pdf_url": "https://openreview.net/pdf?id=tZki6SMRH0"
+  },
+  {
+   "title": "Seeing to Generalize: How Visual Data Corrects Binding Shortcuts",
+   "authors": [
+    "Nicolas Buzeta",
+    "Felipe del Rio",
+    "Cristian Hinostroza",
+    "Denis Parra",
+    "Hans Lobel",
+    "Rodrigo Toro Icarte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xHLFOiCbQs",
+   "pdf_url": "https://openreview.net/pdf?id=xHLFOiCbQs"
+  },
+  {
+   "title": "Seeing Without Light: A Benchmark Thermal Dataset for Robust Gesture Recognition",
+   "authors": [
+    "Aman Singh",
+    "Sajjan Singh",
+    "Bhashkar Kumar Kashyap",
+    "Akshay Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fWnyOTz0cT",
+   "pdf_url": "https://openreview.net/pdf?id=fWnyOTz0cT"
+  },
+  {
+   "title": "Semantics or Structure? Auditing Text Sensitivity in Multimodal Time-Series Forecasting",
+   "authors": [
+    "Karthik Sridhar",
+    "Atharva Gupta",
+    "Nishant Pradhan",
+    "Murari Mandal",
+    "Dhruv Kumar",
+    "Saurabh Deshpande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b6ge6PxZ9P",
+   "pdf_url": "https://openreview.net/pdf?id=b6ge6PxZ9P"
+  },
+  {
+   "title": "SETU: Optimal Event-Triggered Edge LLMs for Mental Health via Sequential Hypothesis Testing in Low-Resource Settings",
+   "authors": [
+    "Krish Bhatnagar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0DUDXeizd0",
+   "pdf_url": "https://openreview.net/pdf?id=0DUDXeizd0"
+  },
+  {
+   "title": "Shadow-Robust Interactive Whiteboard via YUV Preprocessing and MediaPipe Hand Tracking",
+   "authors": [
+    "H.N.Jithun Methusahan",
+    "Gayani Wickramarathna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2iXL6neuXg",
+   "pdf_url": "https://openreview.net/pdf?id=2iXL6neuXg"
+  },
+  {
+   "title": "Single-Token Compositional Interfaces for Productive Morphology in Global South Languages",
+   "authors": [
+    "Divyajot Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nOTIDVL2pi",
+   "pdf_url": "https://openreview.net/pdf?id=nOTIDVL2pi"
+  },
+  {
+   "title": "Spectral Representation Learning for Conditional Independence Testing",
+   "authors": [
+    "Alek Fröhlich",
+    "Vladimir R Kostic",
+    "Karim Lounici",
+    "Daniel Perazzo",
+    "Daniel Guimarães Tiezzi",
+    "Massimiliano Pontil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dnYtl4dSZZ",
+   "pdf_url": "https://openreview.net/pdf?id=dnYtl4dSZZ"
+  },
+  {
+   "title": "Stratified Coreset Selection for Data-Efficient Low-Resource African Language Sentiment Classification",
+   "authors": [
+    "Anubhav Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HebnsI3d8L",
+   "pdf_url": "https://openreview.net/pdf?id=HebnsI3d8L"
+  },
+  {
+   "title": "The Invisible Charter: Frontier AI as Colonial Infrastructure and the Case for Multi-Vector Sovereign Governance",
+   "authors": [
+    "Subramanyam Sahoo",
+    "Vinija Jain",
+    "Aman Chadha",
+    "Divya Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yVqzArU9ey",
+   "pdf_url": "https://openreview.net/pdf?id=yVqzArU9ey"
+  },
+  {
+   "title": "Understanding, Not Memorising: Hypernetwork-Based Weight Compression for Low-Resource Edge Deployment",
+   "authors": [
+    "Manojshyaam C J"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ka4mOHLdxw",
+   "pdf_url": "https://openreview.net/pdf?id=Ka4mOHLdxw"
+  },
+  {
+   "title": "Validation-Free Early Stopping for XGBoost via Spectral Saturation",
+   "authors": [
+    "Shahrizoda Jurakulova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ta4yNGNgjq",
+   "pdf_url": "https://openreview.net/pdf?id=ta4yNGNgjq"
+  },
+  {
+   "title": "Variance-Aware Quantized Multi-Scale Conformer for Efficient ECG Rhythm Classification on Resource-Constrained Devices",
+   "authors": [
+    "Sudhanshu Gaurhar",
+    "Tushar Shinde",
+    "Surender Deora",
+    "Anil Kumar Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AFKTBcvypx",
+   "pdf_url": "https://openreview.net/pdf?id=AFKTBcvypx"
+  },
+  {
+   "title": "VarNorm-GD: Gradient Variance Normalisation for Scarce-Data Image Classification",
+   "authors": [
+    "MUNUSAMY M",
+    "Sai Adith Prakash",
+    "Aryan Rajput"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7gfdpLtHRn",
+   "pdf_url": "https://openreview.net/pdf?id=7gfdpLtHRn"
+  },
+  {
+   "title": "VidAnimator: User-Guided Stylized 3D Character Animation from Human Videos",
+   "authors": [
+    "Xinwu Ye",
+    "JUN-HSIANG YAO",
+    "Jielin Feng",
+    "Xingyu Lan",
+    "Siming Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BE7K2Id7yh",
+   "pdf_url": "https://openreview.net/pdf?id=BE7K2Id7yh"
+  },
+  {
+   "title": "WaveMix: Resource-efficient Neural Network for Image Analysis",
+   "authors": [
+    "Pranav Jeevan P",
+    "Kavitha Viswanathan",
+    "Anandu A S",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ddcerLth5r",
+   "pdf_url": "https://openreview.net/pdf?id=ddcerLth5r"
+  },
+  {
+   "title": "When Compression Helps Transfer: Optimal Sparse Model Selection under Distribution Shift for Low-Resource Deployment",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Laksh Patel",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BacyBHNt6B",
+   "pdf_url": "https://openreview.net/pdf?id=BacyBHNt6B"
+  },
+  {
+   "title": "When Source Curricula Hurt: A Theory of Curriculum Transfer Under Distribution Shift for Low-Resource Learning",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=haqEaL2FhF",
+   "pdf_url": "https://openreview.net/pdf?id=haqEaL2FhF"
+  },
+  {
+   "title": "WhenSpecializationLoses: ADecisionBoundaryStudyofSarvam-1vs.Translate-TestforHindiNLP",
+   "authors": [
+    "Anuj Gautam",
+    "Anshika Gautam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EN0HulyiNF",
+   "pdf_url": "https://openreview.net/pdf?id=EN0HulyiNF"
+  },
+  {
+   "title": "Which Anatomy Matters Under Limited Labels? A Data-Efficient Anatomy-Aware Benchmark for Cardiac Pathology Prediction",
+   "authors": [
+    "HIMANSHU SINGH"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k9Fji177ky",
+   "pdf_url": "https://openreview.net/pdf?id=k9Fji177ky"
+  }
+ ]
+}

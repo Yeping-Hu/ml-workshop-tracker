@@ -1,0 +1,254 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/ScaleOPT",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:18.508Z",
+ "paper_count": 20,
+ "papers": [
+  {
+   "title": "A Flow-Based Solver for Large-Scale Combinatorial Optimization",
+   "authors": [
+    "Alexander Souza",
+    "Lucien Kern",
+    "Tiago Ferreiro Matos",
+    "Kai J. Schärer",
+    "Tristan Koning"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ooRy8lyqgh",
+   "pdf_url": "https://openreview.net/pdf?id=ooRy8lyqgh"
+  },
+  {
+   "title": "AdamHD: Decoupled Huber Decay Regularization for Language Model Pre-Training",
+   "authors": [
+    "Fu-Ming Guo",
+    "Yingfang Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YzsiTZ6tUm",
+   "pdf_url": "https://openreview.net/pdf?id=YzsiTZ6tUm"
+  },
+  {
+   "title": "AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library",
+   "authors": [
+    "Minwei Kong",
+    "Ao Qu",
+    "Xiaotong Guo",
+    "Wenbin Ouyang",
+    "Chonghe Jiang",
+    "Han Zheng",
+    "Yining Ma",
+    "Dingyi Zhuang",
+    "Yuhan Tang",
+    "Junyi Li",
+    "Hai Wang",
+    "Cathy Wu",
+    "Jinhua Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xEdavqGjRu",
+   "pdf_url": "https://openreview.net/pdf?id=xEdavqGjRu"
+  },
+  {
+   "title": "Alternative Learning Architecture for Solving AC-OPF via Supervised Relaxation and Cross Encoder",
+   "authors": [
+    "Doan Thanh Hien",
+    "Keunju Song",
+    "Kibaek Kim",
+    "Hongseok Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uJFF4bP97i",
+   "pdf_url": "https://openreview.net/pdf?id=uJFF4bP97i"
+  },
+  {
+   "title": "Deterministic Continuous Replacement: Fast and Stable Module Replacement in Pretrained Transformers",
+   "authors": [
+    "Rowan Bradbury",
+    "Aniket Srinivasan Ashok",
+    "Sai Ram Kasanagottu",
+    "Gunmay Jhingran",
+    "Shuai Meng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SnwvBxF2Tf",
+   "pdf_url": "https://openreview.net/pdf?id=SnwvBxF2Tf"
+  },
+  {
+   "title": "Entropy regularized subgame solving sequential Bayesian games with public actions",
+   "authors": [
+    "Sobhan Mohammadpour",
+    "Samuel Sokota",
+    "Brandon Gary Kaplowitz",
+    "J Zico Kolter",
+    "Noam Brown",
+    "Gabriele Farina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A67BeSdPIT",
+   "pdf_url": "https://openreview.net/pdf?id=A67BeSdPIT"
+  },
+  {
+   "title": "Forking Sequences",
+   "authors": [
+    "Willa Potosnak",
+    "Malcolm Wolff",
+    "Boris N. Oreshkin",
+    "Mengfei Cao",
+    "Michael W. Mahoney",
+    "Dmitry Efimov",
+    "Kin G. Olivares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tQ9VyGbGyp",
+   "pdf_url": "https://openreview.net/pdf?id=tQ9VyGbGyp"
+  },
+  {
+   "title": "GPU Implementation of Second-Order Linear and Nonlinear Programming Solvers",
+   "authors": [
+    "Alexis Montoison",
+    "François Pacaud",
+    "Sungho Shin",
+    "Mihai Anitescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OIXjLkgAFO",
+   "pdf_url": "https://openreview.net/pdf?id=OIXjLkgAFO"
+  },
+  {
+   "title": "GPU-Accelerated Primal Heuristics for Mixed Integer Programming",
+   "authors": [
+    "Akif Çördük",
+    "Piotr Sielski",
+    "Alice Boucher",
+    "Kumar Aatish"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JtwE7RMyFR",
+   "pdf_url": "https://openreview.net/pdf?id=JtwE7RMyFR"
+  },
+  {
+   "title": "GPU-based Split algorithm for Large-Scale CVRPSD",
+   "authors": [
+    "Jingyi Zhao",
+    "Linxin Yang",
+    "Haohua ZHANG",
+    "Tian Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WgumszYttk",
+   "pdf_url": "https://openreview.net/pdf?id=WgumszYttk"
+  },
+  {
+   "title": "Learning to optimize over linearly convergent algorithms: gotta characterize 'em all",
+   "authors": [
+    "Andrea Martin",
+    "Ian Manchester",
+    "Luca Furieri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ufjn21kA9x",
+   "pdf_url": "https://openreview.net/pdf?id=Ufjn21kA9x"
+  },
+  {
+   "title": "MID-L: Matrix-Interpolated Dropout Layer with Layer-wise Neuron Selection",
+   "authors": [
+    "Pouya Shaeri",
+    "Ariane Middel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ops57uDuJV",
+   "pdf_url": "https://openreview.net/pdf?id=ops57uDuJV"
+  },
+  {
+   "title": "MPAX: Mathematical Programming in JAX",
+   "authors": [
+    "Haihao Lu",
+    "Zedong Peng",
+    "Jinwen Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=swtYo5HMmU",
+   "pdf_url": "https://openreview.net/pdf?id=swtYo5HMmU"
+  },
+  {
+   "title": "Nonlinear Optimization with GPU-Accelerated Neural Network Constraints",
+   "authors": [
+    "Robert B. Parker",
+    "Oscar Dowson",
+    "Nicole LoGiudice",
+    "Manuel J Garcia",
+    "Russell Bent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Nf40tUjxL",
+   "pdf_url": "https://openreview.net/pdf?id=7Nf40tUjxL"
+  },
+  {
+   "title": "On the Expressivity of GNN for Solving Second Order Cone Programming",
+   "authors": [
+    "Ruizhe Li",
+    "Enming Liang",
+    "Minghua Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9F4SXMKJl1",
+   "pdf_url": "https://openreview.net/pdf?id=9F4SXMKJl1"
+  },
+  {
+   "title": "PEPFlow: A Python Library for the Workflow of Performance Estimation of Optimization Algorithms",
+   "authors": [
+    "Jaewook J. Suh",
+    "Bicheng Ying",
+    "Xin Jiang",
+    "Edward Duc Hien Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tJqsZZBmmB",
+   "pdf_url": "https://openreview.net/pdf?id=tJqsZZBmmB"
+  },
+  {
+   "title": "PRIME-RL: Async & Decentralized RL Training at Scale",
+   "authors": [
+    "Mika Senghaas",
+    "Fares Obeid",
+    "Sami Jaghouar",
+    "William Brown",
+    "Jack Min Ong",
+    "Andrew Baker",
+    "Justus Mattern",
+    "Daniel Auras",
+    "Jannik Straube",
+    "Manveer Basra",
+    "Aiman Ismail",
+    "Johannes Hagemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yk3ICpEbv8",
+   "pdf_url": "https://openreview.net/pdf?id=yk3ICpEbv8"
+  },
+  {
+   "title": "Quantum-Inspired Hamiltonian Descent for Mixed-Integer Quadratic Programming",
+   "authors": [
+    "Shreya Chaudhary",
+    "Jinglei Cheng",
+    "Samuel Kushnir",
+    "Jiaqi Leng",
+    "Pengyu Liu",
+    "Yuxiang Peng",
+    "Hanrui Wang",
+    "Xiaodi Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Z1zh7Fvvz",
+   "pdf_url": "https://openreview.net/pdf?id=9Z1zh7Fvvz"
+  },
+  {
+   "title": "Quantum-Inspired Tensor Network Methods for Quadratic Unconstrained Binary Optimization",
+   "authors": [
+    "Iago Leal de Freitas",
+    "João Victor Paim de Cerqueira Melo Souza",
+    "David E. Bernal Neira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EL002DTBRA",
+   "pdf_url": "https://openreview.net/pdf?id=EL002DTBRA"
+  },
+  {
+   "title": "ZeroShotOpt: Towards Zero-Shot Pretrained Models for Efficient Black-Box Optimization",
+   "authors": [
+    "Jamison Meindl",
+    "Yunsheng Tian",
+    "Tony Cui",
+    "Veronika Thost",
+    "Zhang-Wei Hong",
+    "Johannes P. Dürholt",
+    "Jie Chen",
+    "Wojciech Matusik",
+    "Mina Konakovic Lukovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z4UeQrXBpM",
+   "pdf_url": "https://openreview.net/pdf?id=Z4UeQrXBpM"
+  }
+ ]
+}

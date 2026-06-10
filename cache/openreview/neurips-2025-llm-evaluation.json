@@ -1,0 +1,2263 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/LLM_Evaluation",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:58.094Z",
+ "paper_count": 186,
+ "papers": [
+  {
+   "title": "\"It Doesn’t Know Anything About my Work\": Participatory Benchmarking and AI Evaluation in Applied Settings",
+   "authors": [
+    "Elizabeth Anne Watkins",
+    "Emanuel Moss",
+    "Ramesh Manuvinakurike",
+    "Christopher Persaud",
+    "Giuseppe Raffa",
+    "Lama Nachman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lqqe0ANOoa",
+   "pdf_url": "https://openreview.net/pdf?id=lqqe0ANOoa"
+  },
+  {
+   "title": "A Benchmark for Description-Based Evaluation of Social Bias in LLMs",
+   "authors": [
+    "Jinhao Pan",
+    "Kyle Li",
+    "Bowen Wei",
+    "Ziwei Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8jwukXbQO6",
+   "pdf_url": "https://openreview.net/pdf?id=8jwukXbQO6"
+  },
+  {
+   "title": "A Case for Centaur Evaluations",
+   "authors": [
+    "Andreas Haupt",
+    "Erik Brynjolfsson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KiuJy4lF9R",
+   "pdf_url": "https://openreview.net/pdf?id=KiuJy4lF9R"
+  },
+  {
+   "title": "A Multi-Aspect Evaluation of Dialogue in Pythia",
+   "authors": [
+    "Zixun Chen",
+    "Petr Babkin",
+    "Akshat Gupta",
+    "Gopala Anumanchipalli",
+    "Xiaomo Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SofAzLKVku",
+   "pdf_url": "https://openreview.net/pdf?id=SofAzLKVku"
+  },
+  {
+   "title": "A Protocol-Driven Platform for Agent-Agnostic Evaluation of LLM Agents",
+   "authors": [
+    "Cong Minh Tran",
+    "Issam Falih",
+    "Hatim CHAHDI",
+    "Romain DE LA SOUCHERE"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G9YKfCddN3",
+   "pdf_url": "https://openreview.net/pdf?id=G9YKfCddN3"
+  },
+  {
+   "title": "A Statistical Framework for Game-Based AI Evaluation",
+   "authors": [
+    "Felipe Maia Polo",
+    "Leshem Choshen",
+    "Yuekai Sun",
+    "Kristjan Greenewald"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1VWfIsRdZA",
+   "pdf_url": "https://openreview.net/pdf?id=1VWfIsRdZA"
+  },
+  {
+   "title": "A Systematic Evaluation of Preference Aggregation in Federated RLHF for Pluralistic Alignment of LLMs",
+   "authors": [
+    "Mahmoud Srewa",
+    "Tianyu Zhao",
+    "Salma Elmalaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vfP16cLfH0",
+   "pdf_url": "https://openreview.net/pdf?id=vfP16cLfH0"
+  },
+  {
+   "title": "Active Model Selection for Large Language Models",
+   "authors": [
+    "Yavuz Durmazkeser",
+    "Patrik Okanovic",
+    "Andreas Kirsch",
+    "Torsten Hoefler",
+    "Nezihe Merve Gürel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4cdU8Fjigl",
+   "pdf_url": "https://openreview.net/pdf?id=4cdU8Fjigl"
+  },
+  {
+   "title": "ADCA: Artifact-Based Dataset Creativity Assessment",
+   "authors": [
+    "Harrison Sims",
+    "Gabriel Ganberg",
+    "Robert McCormack",
+    "Svitlana Volkova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fjJgdvbefg",
+   "pdf_url": "https://openreview.net/pdf?id=fjJgdvbefg"
+  },
+  {
+   "title": "Adversarial Behavior in Research Settings: Conducting Sabotage Evaluations with RE-Bench",
+   "authors": [
+    "Harini Rajakumar",
+    "Vanessa Nwauwa",
+    "Kevin Zhu",
+    "Ashwinee Panda",
+    "Sunishchal Dev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uQSMUG55nq",
+   "pdf_url": "https://openreview.net/pdf?id=uQSMUG55nq"
+  },
+  {
+   "title": "AgentCaster: Reasoning-Guided Tornado Forecasting",
+   "authors": [
+    "Michael Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZTQNYngIyF",
+   "pdf_url": "https://openreview.net/pdf?id=ZTQNYngIyF"
+  },
+  {
+   "title": "Agentic Lean Auformalization (ALA) v1: An LLM collaborative approach to autoformalization in LEAN",
+   "authors": [
+    "Patricio Gallardo",
+    "Maziar Raissi",
+    "Ke Zhang",
+    "Sudhir Murthy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DNunBkhEUx",
+   "pdf_url": "https://openreview.net/pdf?id=DNunBkhEUx"
+  },
+  {
+   "title": "An Evaluation Study of Hybrid Methods for Multilingual PII Detection",
+   "authors": [
+    "Harshit Rajgarhia",
+    "Suryam Gupta",
+    "Asif Shaik",
+    "Gulipalli Praveen Kumar",
+    "Y Santhoshraj",
+    "Sanka Nithya Tanvy Nishitha",
+    "Abhishek Mukherji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z5Kdky6Cda",
+   "pdf_url": "https://openreview.net/pdf?id=Z5Kdky6Cda"
+  },
+  {
+   "title": "Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction",
+   "authors": [
+    "Huanxin Sheng",
+    "Xinyi Liu",
+    "Hangfeng He",
+    "Jieyu Zhao",
+    "Jian Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2FvbGJ2H3G",
+   "pdf_url": "https://openreview.net/pdf?id=2FvbGJ2H3G"
+  },
+  {
+   "title": "ASCII-Bench: Evaluating Language-Model-Based Understanding of Visually-Oriented Text",
+   "authors": [
+    "Kerry Luo",
+    "Joshua Peguero",
+    "Anvay Patil",
+    "Megan Van Overborg",
+    "Ryan Sarmiento",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=warAC5L7cH",
+   "pdf_url": "https://openreview.net/pdf?id=warAC5L7cH"
+  },
+  {
+   "title": "AssertBench: A Benchmark for LLM Resistance to User-Induced Factual Bias",
+   "authors": [
+    "Jaeho Lee",
+    "Atharv Chowdhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MMygJfFC8J",
+   "pdf_url": "https://openreview.net/pdf?id=MMygJfFC8J"
+  },
+  {
+   "title": "Attention, Please: Single-Head Cross-Attention for Unified LLM Routing",
+   "authors": [
+    "Roshini Pulishetty",
+    "Mani Kishan Ghantasala",
+    "Keerthy Kaushik Dasoju",
+    "Niti Mangwani",
+    "Vishal Garimella",
+    "Aditya Mate",
+    "Somya Chatterjee",
+    "Yue Kang",
+    "Ehi Nosakhare",
+    "Sadid A. Hasan",
+    "Soundararajan Srinivasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=umx1eszKC5",
+   "pdf_url": "https://openreview.net/pdf?id=umx1eszKC5"
+  },
+  {
+   "title": "Automated Capability Evaluation of Foundation Models",
+   "authors": [
+    "Arash Afkanpour",
+    "Omkar Dige",
+    "Fatemeh Tavakoli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=esr7NXddL0",
+   "pdf_url": "https://openreview.net/pdf?id=esr7NXddL0"
+  },
+  {
+   "title": "Automatic agent chaining for multimodal task support",
+   "authors": [
+    "Ramesh Manuvinakurike",
+    "Celal Savur",
+    "Emanuel Moss",
+    "Elizabeth Anne Watkins",
+    "Saurav Sahay",
+    "Giuseppe Raffa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m9NW99pM3v",
+   "pdf_url": "https://openreview.net/pdf?id=m9NW99pM3v"
+  },
+  {
+   "title": "Automatically Extracting Scientific Metrics with LLMs: A Case Study of ImageNet Papers",
+   "authors": [
+    "Mengli Duan",
+    "Michael Guerzhoy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p0DeYk22Xu",
+   "pdf_url": "https://openreview.net/pdf?id=p0DeYk22Xu"
+  },
+  {
+   "title": "Bayesian Evaluation of Blackbox LLM Behavior",
+   "authors": [
+    "Rachel Longjohn",
+    "Shang Wu",
+    "Saatvik Kher",
+    "Catarina G Belém",
+    "Padhraic Smyth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QXYPTeE4gc",
+   "pdf_url": "https://openreview.net/pdf?id=QXYPTeE4gc"
+  },
+  {
+   "title": "BEAR: Benchmarking Multimodal Language Models for Atomic Embodied Reasoning Abilities",
+   "authors": [
+    "Yu Qi",
+    "Haibo Zhao",
+    "Ziyu Guo",
+    "Siyuan Ma",
+    "Ziyan Chen",
+    "Yaokun Han",
+    "Renrui Zhang",
+    "Zitiantao Lin",
+    "Shiji Xin",
+    "Yijian Huang",
+    "Kai Cheng",
+    "Peiheng Wang",
+    "jiazheng liu",
+    "Jiayi Zhang",
+    "Yizhe Zhu",
+    "Wenqing Wang",
+    "Yiran Qin",
+    "Xupeng Zhu",
+    "Haojie Huang",
+    "Lawson L.S. Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nyOPsBzC1A",
+   "pdf_url": "https://openreview.net/pdf?id=nyOPsBzC1A"
+  },
+  {
+   "title": "Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark Evaluation",
+   "authors": [
+    "Yotam Perlitz",
+    "Ariel Gera",
+    "Ofir Arviv",
+    "Asaf Yehudai",
+    "Elron Bandel",
+    "Eyal Shnarch",
+    "Michal Shmueli-Scheuer",
+    "Leshem Choshen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JezpMjurwV",
+   "pdf_url": "https://openreview.net/pdf?id=JezpMjurwV"
+  },
+  {
+   "title": "Benchmarking and Standardization of Evaluation Protocols: A Feedback-Driven Framework Using LLM Judges to Gatekeep and Iteratively Improve Synthetic Benchmarks",
+   "authors": [
+    "FadillAmir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dJ01PpOozV",
+   "pdf_url": "https://openreview.net/pdf?id=dJ01PpOozV"
+  },
+  {
+   "title": "Benchmarking Overton Pluralism in LLMs",
+   "authors": [
+    "Elinor Poole-Dayan",
+    "Jiayi Wu",
+    "Jiaxin Pei",
+    "Michiel A. Bakker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mq3QUs7FAp",
+   "pdf_url": "https://openreview.net/pdf?id=Mq3QUs7FAp"
+  },
+  {
+   "title": "Beyond Accuracy: A Diagnostic Protocol for Fairly Evaluating Multimodal Reasoning",
+   "authors": [
+    "Shohreh Ghorbani",
+    "Chenyu Zhang",
+    "Minsol Kim",
+    "Jingyao Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2S7VgHrx20",
+   "pdf_url": "https://openreview.net/pdf?id=2S7VgHrx20"
+  },
+  {
+   "title": "Beyond Fertility: Analyzing STRR as a Metric for Multilingual Tokenization Evaluation",
+   "authors": [
+    "Mir Tafseer Nayeem",
+    "Sawsan Alqahtani",
+    "Md Tahmid Rahman Laskar",
+    "Tasnim Mohiuddin",
+    "M Saiful Bari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QphCVdMCyG",
+   "pdf_url": "https://openreview.net/pdf?id=QphCVdMCyG"
+  },
+  {
+   "title": "Beyond Steering: Evaluating Fine-Grained and Multi-Concept Control in LLMs",
+   "authors": [
+    "Arya Labroo",
+    "Ivaxi Sheth",
+    "Vyas Raina",
+    "Amaani Ahmed",
+    "Mario Fritz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zHoLvqFAJJ",
+   "pdf_url": "https://openreview.net/pdf?id=zHoLvqFAJJ"
+  },
+  {
+   "title": "Beyond the Singular: Revealing the Value of Multiple Generations in Benchmark Evaluation",
+   "authors": [
+    "Wenbo Zhang",
+    "Hengrui Cai",
+    "Wenyu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ch1l9zxSYD",
+   "pdf_url": "https://openreview.net/pdf?id=ch1l9zxSYD"
+  },
+  {
+   "title": "Beyond Western Politics: Cross-Cultural Benchmarks for Evaluating Partisan Associations in LLMs",
+   "authors": [
+    "Divyanshu Kumar",
+    "Ishita Gupta",
+    "Nitin Aravind Birur",
+    "Tanay Baswa",
+    "Sahil Agarwal",
+    "Prashanth Harshangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L5YAqrMdXa",
+   "pdf_url": "https://openreview.net/pdf?id=L5YAqrMdXa"
+  },
+  {
+   "title": "Bias in the Picture: Benchmarking VLMs with Social-Cue News Images and LLM-as-Judge Assessment",
+   "authors": [
+    "Aravind Narayanan",
+    "Vahid Reza Khazaie",
+    "Shaina Raza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ltpGz2ebWJ",
+   "pdf_url": "https://openreview.net/pdf?id=ltpGz2ebWJ"
+  },
+  {
+   "title": "BloomXplain: A Framework and Benchmark Dataset for Pedagogically Sound LLM-Generated Explanations Based on Bloom’s Taxonomy",
+   "authors": [
+    "Maria-Eleni Zoumpoulidi",
+    "Eleni Batsi",
+    "Georgios Paraskevopoulos",
+    "Vassilis Katsouros",
+    "Alexandros Potamianos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EMMPng2LLl",
+   "pdf_url": "https://openreview.net/pdf?id=EMMPng2LLl"
+  },
+  {
+   "title": "Born with a SilverSpoon? Investigating Socioeconomic Bias in LLMs",
+   "authors": [
+    "Smriti Singh",
+    "Shuvam Keshari",
+    "Vinija Jain",
+    "Aman Chadha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5WKuxSScJG",
+   "pdf_url": "https://openreview.net/pdf?id=5WKuxSScJG"
+  },
+  {
+   "title": "Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?",
+   "authors": [
+    "Bo Feng",
+    "Zhengfeng Lai",
+    "Shiyu Li",
+    "Zizhen Wang",
+    "Xiaoming Simon Wang",
+    "Ping Huang",
+    "Meng Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4KwGbbL1Dl",
+   "pdf_url": "https://openreview.net/pdf?id=4KwGbbL1Dl"
+  },
+  {
+   "title": "Breaking the Mirror: Examining Self-Preference in LLM Evaluators through Activation-Based Representations",
+   "authors": [
+    "Dani Roytburg",
+    "Matthew Bozoukov",
+    "Hongyu Fu",
+    "Matthew Nguyen",
+    "Jou Barzdukas",
+    "Narmeen Fatimah Oozeer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q82Pqka5sb",
+   "pdf_url": "https://openreview.net/pdf?id=q82Pqka5sb"
+  },
+  {
+   "title": "Building More Accountable Multi-Modal LLMs Through Spatially-Informed Visual Reasoning",
+   "authors": [
+    "Jing Wu",
+    "Suiyao Chen",
+    "Alexander Gutfraind",
+    "Inseok Heo",
+    "Shengjie Liu",
+    "Chen Li",
+    "Jeremy Curuksu",
+    "Michael Sharps"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dSp0PIHiT2",
+   "pdf_url": "https://openreview.net/pdf?id=dSp0PIHiT2"
+  },
+  {
+   "title": "Carbon- and System-Aware LoRA Scaling for On-Device LLMs via Hierarchical Multi-Objective Reinforcement Learnin",
+   "authors": [
+    "Dongqi Zheng",
+    "Wenjin Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jqFlRx1C8E",
+   "pdf_url": "https://openreview.net/pdf?id=jqFlRx1C8E"
+  },
+  {
+   "title": "Causally Quantifying the Effect of Test Set Contamination on Generative Benchmarks",
+   "authors": [
+    "Rylan Schaeffer",
+    "Brando Miranda",
+    "Joshua Kazdan",
+    "Ken Liu",
+    "Ahmed M Ahmed",
+    "Niloofar Mireshghallah",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RsmjshBEDP",
+   "pdf_url": "https://openreview.net/pdf?id=RsmjshBEDP"
+  },
+  {
+   "title": "CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments",
+   "authors": [
+    "Rishika Bhagwatkar",
+    "Syrielle Montariol",
+    "Angelika Romanou",
+    "Beatriz Borges",
+    "Irina Rish",
+    "Antoine Bosselut"
+   ],
+   "forum_url": "https://openreview.net/forum?id=37iISK64iZ",
+   "pdf_url": "https://openreview.net/pdf?id=37iISK64iZ"
+  },
+  {
+   "title": "CCWise: Carbon–Cost Aware Regional LLM Orchestration for Next-Gen Sustainable AI",
+   "authors": [
+    "Ratul Kishore Saha",
+    "Dheeraj Chahal",
+    "Rekha Singhal",
+    "Manoj Nambiar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vf4Gu3dtHC",
+   "pdf_url": "https://openreview.net/pdf?id=Vf4Gu3dtHC"
+  },
+  {
+   "title": "ChatChecker: A Framework for Dialogue System Testing Through Non-cooperative User Simulation",
+   "authors": [
+    "Roman Mayr",
+    "Michel Schimpf",
+    "Thomas Bohné"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0xjm8xGjIx",
+   "pdf_url": "https://openreview.net/pdf?id=0xjm8xGjIx"
+  },
+  {
+   "title": "ChEmREF: Evaluating Language Model Readiness for Chemical Emergency Response Assistance",
+   "authors": [
+    "Risha Surana",
+    "Qinyuan Ye",
+    "Swabha Swayamdipta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LC9IqxZwxM",
+   "pdf_url": "https://openreview.net/pdf?id=LC9IqxZwxM"
+  },
+  {
+   "title": "CHEMSETS: How Capable Are Chemistry LLMs?",
+   "authors": [
+    "Christoph Bartmann",
+    "Mykyta Ielanskyi",
+    "Johannes Schimunek",
+    "Philipp Seidl",
+    "Günter Klambauer",
+    "Sohvi Luukkonen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1eXWD5OUb1",
+   "pdf_url": "https://openreview.net/pdf?id=1eXWD5OUb1"
+  },
+  {
+   "title": "ChinaTravel: An Open-Ended Benchmark for Language Agents in Chinese Travel Planning",
+   "authors": [
+    "Jie-Jing Shao",
+    "Bo-Wen Zhang",
+    "Xiao-Wen Yang",
+    "Baizhi Chen",
+    "Siyu Han",
+    "Wen-Da Wei",
+    "Guohao Cai",
+    "Zhenhua Dong",
+    "Lan-Zhe Guo",
+    "Yu-Feng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wvOwmL0Sd8",
+   "pdf_url": "https://openreview.net/pdf?id=wvOwmL0Sd8"
+  },
+  {
+   "title": "CivicParse: A Benchmark and Pipeline for Structured Online Deliberation",
+   "authors": [
+    "Abhay Gupta",
+    "Mark Klein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4WgeuuOcIa",
+   "pdf_url": "https://openreview.net/pdf?id=4WgeuuOcIa"
+  },
+  {
+   "title": "Confident or Seek Stronger: Exploring Uncertainty-Based Small LM Routing From Benchmarking to Generalization",
+   "authors": [
+    "Yu-Neng Chuang",
+    "Leisheng Yu",
+    "Guanchu Wang",
+    "Lizhe Zhang",
+    "Ling Chang",
+    "Hongyi Liu",
+    "Zirui Liu",
+    "Xuanting Cai",
+    "Yang Sui",
+    "Vladimir Braverman",
+    "Xia Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pyjLRuheNU",
+   "pdf_url": "https://openreview.net/pdf?id=pyjLRuheNU"
+  },
+  {
+   "title": "Context-Masked Meta-Prompting for Privacy-Preserving LLM Adaptation in Finance",
+   "authors": [
+    "Sayash Raaj Hiraou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s2YPZBCXrM",
+   "pdf_url": "https://openreview.net/pdf?id=s2YPZBCXrM"
+  },
+  {
+   "title": "Culturally-Aware Conversations: A Framework & Benchmark for LLMs",
+   "authors": [
+    "Shreya Havaldar",
+    "Young Min Cho",
+    "Sunny Rai",
+    "Lyle Ungar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UFfSzu2Ayx",
+   "pdf_url": "https://openreview.net/pdf?id=UFfSzu2Ayx"
+  },
+  {
+   "title": "Data Centric Guard (DC-Guard) - A Framework for Trustworthy LLM Evaluation",
+   "authors": [
+    "Vishnu Vardhan Yadoji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4mqbmnWYAm",
+   "pdf_url": "https://openreview.net/pdf?id=4mqbmnWYAm"
+  },
+  {
+   "title": "DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis",
+   "authors": [
+    "Liana Patel",
+    "Negar Arabzadeh",
+    "Harshit Gupta",
+    "Ankita Sundar",
+    "Ion Stoica",
+    "Matei Zaharia",
+    "Carlos Guestrin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M4iVZtEDX4",
+   "pdf_url": "https://openreview.net/pdf?id=M4iVZtEDX4"
+  },
+  {
+   "title": "Demystify the Potential of Large Language Models as General-Purpose Surrogate Code Executors",
+   "authors": [
+    "Bohan Lyu",
+    "Siqiao Huang",
+    "Zichen Liang",
+    "Wenjia Yang",
+    "Qian Sun",
+    "Jiaming Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TwfiDXsT2C",
+   "pdf_url": "https://openreview.net/pdf?id=TwfiDXsT2C"
+  },
+  {
+   "title": "Depth as a Scaling Vector: Simple Pruning and Evaluation of Emergent Abilities in Pruned LLMs",
+   "authors": [
+    "Chang Liu",
+    "Arjun Choudhry",
+    "Yifu Cai",
+    "Nina Żukowska",
+    "Mononito Goswami",
+    "Artur Dubrawski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aP3sv2xrGH",
+   "pdf_url": "https://openreview.net/pdf?id=aP3sv2xrGH"
+  },
+  {
+   "title": "Detecting Data Contamination in LLMs via In-Context Learning",
+   "authors": [
+    "Michał Zawalski",
+    "Meriem Boubdir",
+    "Klaudia Bałazy",
+    "Besmira Nushi",
+    "Pablo Ribalta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eWObAa0Uaw",
+   "pdf_url": "https://openreview.net/pdf?id=eWObAa0Uaw"
+  },
+  {
+   "title": "Detecting Foreign Content in Self-Generated Text: A Recognition Study of Large Language Models",
+   "authors": [
+    "Shengyu Zhu",
+    "Tamika Bassman",
+    "Dat Tran",
+    "Aryaman Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yOnqLfSNzH",
+   "pdf_url": "https://openreview.net/pdf?id=yOnqLfSNzH"
+  },
+  {
+   "title": "Detecting Training Data of Large Language Models via Expectation Maximization",
+   "authors": [
+    "Gyuwan Kim",
+    "Yang Li",
+    "Evangelia Spiliopoulou",
+    "Jie Ma",
+    "Miguel Ballesteros",
+    "William Yang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZYIP2PhWyz",
+   "pdf_url": "https://openreview.net/pdf?id=ZYIP2PhWyz"
+  },
+  {
+   "title": "DHP Benchmark: Measuring Discernment Ability of LLM-as-a-Judge",
+   "authors": [
+    "Jiayi Yuan",
+    "Yicheng Wang",
+    "Yu-Neng Chuang",
+    "Zhuoer Wang",
+    "Mark Cusick",
+    "Param Kulkarni",
+    "Zhengping Ji",
+    "Xia Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xfnfOiXSao",
+   "pdf_url": "https://openreview.net/pdf?id=xfnfOiXSao"
+  },
+  {
+   "title": "Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base",
+   "authors": [
+    "Linxin Song",
+    "Xuwei Ding",
+    "Jieyu Zhang",
+    "Taiwei Shi",
+    "Ryotaro Shimizu",
+    "Rahul Gupta",
+    "Yang Liu",
+    "Jian Kang",
+    "Jieyu Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7B2FVLCweN",
+   "pdf_url": "https://openreview.net/pdf?id=7B2FVLCweN"
+  },
+  {
+   "title": "Do Large Language Models Know What They Are Capable Of?",
+   "authors": [
+    "Casey O. Barkan",
+    "Sidney Black",
+    "Oliver Sourbut"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IPGR4uXxvg",
+   "pdf_url": "https://openreview.net/pdf?id=IPGR4uXxvg"
+  },
+  {
+   "title": "Domain-Aware Scaling Laws Uncover Data Synergy",
+   "authors": [
+    "Kimia Hamidieh",
+    "Lester Mackey",
+    "David Alvarez-Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FndNAs9s0d",
+   "pdf_url": "https://openreview.net/pdf?id=FndNAs9s0d"
+  },
+  {
+   "title": "DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors",
+   "authors": [
+    "Yize Cheng",
+    "Wenxiao Wang",
+    "Mazda Moayeri",
+    "Soheil Feizi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YAlgfpQz4L",
+   "pdf_url": "https://openreview.net/pdf?id=YAlgfpQz4L"
+  },
+  {
+   "title": "Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?",
+   "authors": [
+    "Zexi Li",
+    "Xiangzhu Wang",
+    "William F. Shen",
+    "Meghdad Kurmanji",
+    "Xinchi Qiu",
+    "Dongqi Cai",
+    "Chao Wu",
+    "Nicholas D. Lane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=24CRRJuPM2",
+   "pdf_url": "https://openreview.net/pdf?id=24CRRJuPM2"
+  },
+  {
+   "title": "Evaluating AI Alignment Using Adapted Clinical Empathy Assessments",
+   "authors": [
+    "Cassandra Feilbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=27ChYqqXyP",
+   "pdf_url": "https://openreview.net/pdf?id=27ChYqqXyP"
+  },
+  {
+   "title": "Evaluating Cultural and Linguistic Alignment Across the LLMs",
+   "authors": [
+    "Yunxi Liu",
+    "Fuxiao Liu",
+    "Clara Fangfang Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S4qF7Yd8ao",
+   "pdf_url": "https://openreview.net/pdf?id=S4qF7Yd8ao"
+  },
+  {
+   "title": "Evaluating Evaluation Metrics – The Mirage of Hallucination Detection",
+   "authors": [
+    "Atharva Kulkarni",
+    "Yuan Zhang",
+    "Joel Ruben Antony Moniz",
+    "Xiou Ge",
+    "Bo-Hsiang Tseng",
+    "Dhivya Piraviperumal",
+    "Swabha Swayamdipta",
+    "Hong Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ANDl63YvYZ",
+   "pdf_url": "https://openreview.net/pdf?id=ANDl63YvYZ"
+  },
+  {
+   "title": "Evaluating Language Models' Evaluations of Games",
+   "authors": [
+    "Katherine M. Collins",
+    "Cedegao E. Zhang",
+    "Graham Todd",
+    "Lance Ying",
+    "Mauricio Barba da Costa",
+    "Ryan Liu",
+    "Adrian Weller",
+    "Ionatan Kuperwajs",
+    "Lionel Wong",
+    "Joshua B. Tenenbaum",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A216uPJtY4",
+   "pdf_url": "https://openreview.net/pdf?id=A216uPJtY4"
+  },
+  {
+   "title": "Evaluating LLM Story Generation through Large-scale Network Analysis on Social Structures",
+   "authors": [
+    "Hiroshi Nonaka",
+    "K. E. Perry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ae4UeGI021",
+   "pdf_url": "https://openreview.net/pdf?id=Ae4UeGI021"
+  },
+  {
+   "title": "Evaluating LLM-as-a-Judge under Multilingual, Multimodal and Multi-domain Constraints",
+   "authors": [
+    "Shreyansh Padarha",
+    "Elizaveta Semenova",
+    "Bertie Vidgen",
+    "Adam Mahdi",
+    "Scott A. Hale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cAIjWwoZNf",
+   "pdf_url": "https://openreview.net/pdf?id=cAIjWwoZNf"
+  },
+  {
+   "title": "Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing",
+   "authors": [
+    "Syed Mahbubul Huq",
+    "Daniel Brito-Pacheco",
+    "Daniel Sikar",
+    "RAJESH MOJUMDER",
+    "Christopher Child",
+    "Tillman Weyde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mz5uv4orm8",
+   "pdf_url": "https://openreview.net/pdf?id=Mz5uv4orm8"
+  },
+  {
+   "title": "Evaluating LLMs' Language Confusion in Code-switching Context",
+   "authors": [
+    "Juhyun Oh",
+    "Haneul Yoo",
+    "Alice Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AeF3mMb8cu",
+   "pdf_url": "https://openreview.net/pdf?id=AeF3mMb8cu"
+  },
+  {
+   "title": "Evaluation and Benchmarking Suite for Financial Large Language Models and Agents",
+   "authors": [
+    "Shengyuan Lin",
+    "Jaisal Patel",
+    "Qinchuan Zhang",
+    "Kaiwen He",
+    "Keyi Wang",
+    "Yan Wang",
+    "Matt White",
+    "Kairong Xiao",
+    "Xiao-Yang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sSY4h3MFUB",
+   "pdf_url": "https://openreview.net/pdf?id=sSY4h3MFUB"
+  },
+  {
+   "title": "Evaluation Under Imperfect Benchmarks and Ratings: A Case Study in Text Simplification",
+   "authors": [
+    "Joseph Liu",
+    "Yoonsoo Nam",
+    "Xinyue Cui",
+    "Swabha Swayamdipta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ok4RwKoM39",
+   "pdf_url": "https://openreview.net/pdf?id=Ok4RwKoM39"
+  },
+  {
+   "title": "Extending AutoCompressors via Surprisal-Based Dynamic Segmentation",
+   "authors": [
+    "Srivishnu Ramamurthi",
+    "Richard Xu",
+    "Raine Ma",
+    "Dawson Park",
+    "David Guo",
+    "Charles Duong",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WD3NyoCnoK",
+   "pdf_url": "https://openreview.net/pdf?id=WD3NyoCnoK"
+  },
+  {
+   "title": "FEval-TTC: Fair Evaluation Protocol for Test-Time Compute",
+   "authors": [
+    "Pavel Rumiantsev",
+    "Soumyasundar Pal",
+    "Yingxue Zhang",
+    "Mark Coates"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fj9Ge7TdrY",
+   "pdf_url": "https://openreview.net/pdf?id=Fj9Ge7TdrY"
+  },
+  {
+   "title": "From Acceleration to Saturation: Scaling Behavior of Bootstrapped Language Model Pretraining",
+   "authors": [
+    "Seng Pei Liew",
+    "Takuya Kato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PhsneSYvWK",
+   "pdf_url": "https://openreview.net/pdf?id=PhsneSYvWK"
+  },
+  {
+   "title": "From Bias to Balance: How Multilingual Dataset Composition Affects Tokenizer Performance Across Languages",
+   "authors": [
+    "Aishwarya Selvamurugan",
+    "Raj Dandekar",
+    "Rajat Dandekar",
+    "Sreedath Panat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kIRynQytBj",
+   "pdf_url": "https://openreview.net/pdf?id=kIRynQytBj"
+  },
+  {
+   "title": "From Many Voices to One: Statistically Principled Aggregation of LLM Judges",
+   "authors": [
+    "Jitian Zhao",
+    "Changho Shin",
+    "Tzu-Heng Huang",
+    "Satya Sai Srinath Namburi GNVV",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XdcofpTCyq",
+   "pdf_url": "https://openreview.net/pdf?id=XdcofpTCyq"
+  },
+  {
+   "title": "GASLIGHTBENCH: Quantifying LLM Susceptibility to Social Prompting",
+   "authors": [
+    "Xuanzhe Yao",
+    "Sahil Ghosh",
+    "Gareth Lee",
+    "William H. Logian",
+    "Lening Nick Cui",
+    "Ellie Podoshev",
+    "Swarit Srivastava",
+    "Michael Li",
+    "Aaron Sandoval",
+    "Sean O'Brien",
+    "Michael Saxon",
+    "Sunishchal Dev",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0BYRYwGCbK",
+   "pdf_url": "https://openreview.net/pdf?id=0BYRYwGCbK"
+  },
+  {
+   "title": "Generation-Time vs. Post-hoc Citation: A Holistic Evaluation of LLM Attribution",
+   "authors": [
+    "Yash Saxena",
+    "Raviteja Bommireddy",
+    "Ankur Padia",
+    "Manas Gaur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iQyfHmqRJR",
+   "pdf_url": "https://openreview.net/pdf?id=iQyfHmqRJR"
+  },
+  {
+   "title": "GermanPartiesQA: Benchmarking Commercial Large Language Models and AI Companions for Political Alignment and Sycophancy",
+   "authors": [
+    "Jan Batzner",
+    "Volker Stocker",
+    "Stefan Schmid",
+    "Gjergji Kasneci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ItANpexz4h",
+   "pdf_url": "https://openreview.net/pdf?id=ItANpexz4h"
+  },
+  {
+   "title": "GUARD: Guiding Unbiased Alignment through Reward Debiasing",
+   "authors": [
+    "Advay Samnerkar",
+    "Doelle Bhattacharya",
+    "Kailash Ranganathan",
+    "Ashwinee Panda",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tGQ80Wi84R",
+   "pdf_url": "https://openreview.net/pdf?id=tGQ80Wi84R"
+  },
+  {
+   "title": "Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models",
+   "authors": [
+    "Mufei Li",
+    "Dongqi Fu",
+    "Limei Wang",
+    "Si Zhang",
+    "Hanqing Zeng",
+    "Kaan Sancak",
+    "Ruizhong Qiu",
+    "Haoyu Peter Wang",
+    "Xiaoxin He",
+    "Xavier Bresson",
+    "Yinglong Xia",
+    "Chonglin Sun",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wON1mDtXG1",
+   "pdf_url": "https://openreview.net/pdf?id=wON1mDtXG1"
+  },
+  {
+   "title": "HORIZON: A Benchmark for In-the-wild User Behaviour Modeling",
+   "authors": [
+    "Arnav Goel",
+    "Pranjal A Chitale",
+    "Bhawna Paliwal",
+    "Bishal Santra",
+    "Amit Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kpt0qegTx7",
+   "pdf_url": "https://openreview.net/pdf?id=Kpt0qegTx7"
+  },
+  {
+   "title": "How Benchmark Prediction from Fewer Data Misses the Mark",
+   "authors": [
+    "Guanhua Zhang",
+    "Florian E. Dorner",
+    "Moritz Hardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3pUtKEctwR",
+   "pdf_url": "https://openreview.net/pdf?id=3pUtKEctwR"
+  },
+  {
+   "title": "How Many Instructions Can LLMs Follow at Once?",
+   "authors": [
+    "Daniel Jaroslawicz",
+    "Brendan Whiting",
+    "Parth Shah",
+    "Karime Maamari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UnWroaGuOa",
+   "pdf_url": "https://openreview.net/pdf?id=UnWroaGuOa"
+  },
+  {
+   "title": "How to Get Your LLM to Generate Challenging Problems for Evaluation",
+   "authors": [
+    "Arkil Patel",
+    "Siva Reddy",
+    "Dzmitry Bahdanau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AQm9quyPHU",
+   "pdf_url": "https://openreview.net/pdf?id=AQm9quyPHU"
+  },
+  {
+   "title": "Human-Centric Framework for Large Multimodal Models Evaluation",
+   "authors": [
+    "Shaina Raza",
+    "Aravind Narayanan",
+    "Vahid Reza Khazaie",
+    "Ashmal Vayani",
+    "Mukund Sayeeganesh Chettiar",
+    "Deval Pandya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xx9t6pe1Pk",
+   "pdf_url": "https://openreview.net/pdf?id=Xx9t6pe1Pk"
+  },
+  {
+   "title": "Husky Hold'em Benchmark: Can LLMs Design Competitive Poker Bots?",
+   "authors": [
+    "Bhavesh Kumar",
+    "Hoang Doan Nguyen",
+    "Roger Jin",
+    "Ryan Teknium",
+    "Jeffrey Quesnelle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jARUSddVIB",
+   "pdf_url": "https://openreview.net/pdf?id=jARUSddVIB"
+  },
+  {
+   "title": "HypoTermInstruct: Instructing Large Language Models not to Hallucinate",
+   "authors": [
+    "CEM ULUOGLAKCI",
+    "Tugba Taskaya Temizel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pfmacmILs2",
+   "pdf_url": "https://openreview.net/pdf?id=pfmacmILs2"
+  },
+  {
+   "title": "Improving Automated LLM Evaluation by Introducing Personas in LLM Red-Teaming",
+   "authors": [
+    "Wesley Deng",
+    "Sunnie S. Y. Kim",
+    "Akshita Jha",
+    "Ken Holstein",
+    "Motahhare Eslami",
+    "Lauren Wilcox",
+    "Leon Alexander Gatys"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q3zYGHp2hl",
+   "pdf_url": "https://openreview.net/pdf?id=Q3zYGHp2hl"
+  },
+  {
+   "title": "In-Context Learning for Esoteric Programming Languages: Evaluating and Enhancing LLM Reasoning Without Fine-Tuning",
+   "authors": [
+    "Saraswathy Amjith",
+    "Michael X. Wang",
+    "Arul Kolla",
+    "Jayson Lynch",
+    "Neil Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u6iFnIttKP",
+   "pdf_url": "https://openreview.net/pdf?id=u6iFnIttKP"
+  },
+  {
+   "title": "In-Context Meta-Learning with Large Language Models for Automated Model and Hyperparameter Selection",
+   "authors": [
+    "Youssef Attia El Hili",
+    "Albert Thomas",
+    "Abdelhakim Benechehab",
+    "Corentin Léger",
+    "Corinne Ancourt",
+    "Balázs Kégl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ppo2SETqcE",
+   "pdf_url": "https://openreview.net/pdf?id=Ppo2SETqcE"
+  },
+  {
+   "title": "JOINTMMSAFE: A Combinatorial Safety Benchmark for Multimodal Foundation Models",
+   "authors": [
+    "Shruti Palaskar",
+    "Leon Alexander Gatys",
+    "Mona Abdelrahman",
+    "Mar Jacobo",
+    "Laurence F Lindsey",
+    "Gunnar Lund",
+    "Yang Xu",
+    "Navid Shiee",
+    "Jeffrey P. Bigham",
+    "Charles Maalouf",
+    "Joseph Yitan Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FlhWkxIBS0",
+   "pdf_url": "https://openreview.net/pdf?id=FlhWkxIBS0"
+  },
+  {
+   "title": "Justice in Judgment: Unveiling (Hidden) Bias in LLM-Assisted Peer Reviews",
+   "authors": [
+    "Sai Suresh Macharla Vasu",
+    "Ivaxi Sheth",
+    "Hui-Po Wang",
+    "Ruta Binkyte",
+    "Mario Fritz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iXvaR93WqE",
+   "pdf_url": "https://openreview.net/pdf?id=iXvaR93WqE"
+  },
+  {
+   "title": "Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale",
+   "authors": [
+    "Bowen Jiang",
+    "Zhuoqun Hao",
+    "Young Min Cho",
+    "Bryan Li",
+    "Yuan Yuan",
+    "Sihao Chen",
+    "Lyle Ungar",
+    "Camillo Jose Taylor",
+    "Dan Roth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RheZHR1LSA",
+   "pdf_url": "https://openreview.net/pdf?id=RheZHR1LSA"
+  },
+  {
+   "title": "Knowledge Collapse in LLMs: When Fluency Survives but Facts Fail under Recursive Synthetic Training",
+   "authors": [
+    "Figarri Keisha",
+    "Zekun Wu",
+    "Ze Wang",
+    "Adriano Koshiyama",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yj0a1UQ5uY",
+   "pdf_url": "https://openreview.net/pdf?id=Yj0a1UQ5uY"
+  },
+  {
+   "title": "LaTeXBench: Judge-Only Evaluation of LaTeX Generation, Minimal-Edit Compliance, and Blind Contrast Errors",
+   "authors": [
+    "Ishaan Gangwani",
+    "Soham Sen",
+    "Aayam Bansal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BgEJ42eE23",
+   "pdf_url": "https://openreview.net/pdf?id=BgEJ42eE23"
+  },
+  {
+   "title": "Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models",
+   "authors": [
+    "Huan Song",
+    "Deeksha Razdan",
+    "Yiyue Qian",
+    "Arijit Ghosh Chowdhury",
+    "Parth Patwa",
+    "Aman Chadha",
+    "Shinan Zhang",
+    "Sharlina Keshava",
+    "Hannah R Marlowe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZJHWMfLNdY",
+   "pdf_url": "https://openreview.net/pdf?id=ZJHWMfLNdY"
+  },
+  {
+   "title": "LinguaMark: Do Multimodal Models Speak Fairly? A Benchmark-Based Evaluation",
+   "authors": [
+    "Ananya Raval",
+    "Aravind Narayanan",
+    "Vahid Reza Khazaie",
+    "Shaina Raza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IgYvpjyG47",
+   "pdf_url": "https://openreview.net/pdf?id=IgYvpjyG47"
+  },
+  {
+   "title": "LLMs as Judges for Domain-Specific Text: Evidence from Drilling Reports",
+   "authors": [
+    "Abdallah Benzine",
+    "Soumyadipta Sengupta",
+    "Sebastiaan Buiting",
+    "Imane Khaouja",
+    "Yahia Salaheldin Shaaban",
+    "Amine EL KHAIR"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zK2akNuseU",
+   "pdf_url": "https://openreview.net/pdf?id=zK2akNuseU"
+  },
+  {
+   "title": "LLMs Show Surface-Form Brittleness Under Paraphrase Stress Tests",
+   "authors": [
+    "Juan Miguel Navarro Carranza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aEQ1jjqfqa",
+   "pdf_url": "https://openreview.net/pdf?id=aEQ1jjqfqa"
+  },
+  {
+   "title": "LLMs vs. Traditional Sentiment Tools in Psychology: An Evaluation on Belgian-Dutch Narratives",
+   "authors": [
+    "Ratna Kandala",
+    "Katie Hoemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v0zWMAMUut",
+   "pdf_url": "https://openreview.net/pdf?id=v0zWMAMUut"
+  },
+  {
+   "title": "MAGNET: Mathematical Assurance of Generative AI Network Evaluation Toolkit",
+   "authors": [
+    "Jon Crall",
+    "David Joy",
+    "Roderic Collins",
+    "Benjamin Fenelon",
+    "Anthony Hoogs",
+    "Brian H Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZypC0qCMhT",
+   "pdf_url": "https://openreview.net/pdf?id=ZypC0qCMhT"
+  },
+  {
+   "title": "MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains",
+   "authors": [
+    "Xuying Ning",
+    "Dongqi Fu",
+    "Tianxin Wei",
+    "Mengting Ai",
+    "Jiaru Zou",
+    "Ting-Wei Li",
+    "Jingrui He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S2zaYgT7Ic",
+   "pdf_url": "https://openreview.net/pdf?id=S2zaYgT7Ic"
+  },
+  {
+   "title": "MEAL: A Multi-dimensional Evaluation of Alignment Techniques for LLMs",
+   "authors": [
+    "Muneeza Azmat",
+    "Momin Abbas",
+    "Maysa Macedo",
+    "Marcelo Carpinette Grave",
+    "Luan Soares de Souza",
+    "Tiago Lemos de Araujo Machado",
+    "Rogério Abreu de Paula",
+    "Raya Horesh",
+    "Yixin Chen",
+    "Heloisa Candello",
+    "Rebecka Nordenlöw",
+    "Aminat Adebiyi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dEBZACND4A",
+   "pdf_url": "https://openreview.net/pdf?id=dEBZACND4A"
+  },
+  {
+   "title": "Measurement to Meaning: A Validity-Centered Framework for AI Evaluation",
+   "authors": [
+    "Olawale Elijah Salaudeen",
+    "Anka Reuel",
+    "Ahmed M Ahmed",
+    "Suhana Bedi",
+    "Zachary Robertson",
+    "Sudharsan Sundar",
+    "Benjamin W. Domingue",
+    "Angelina Wang",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Bw6uC49QF",
+   "pdf_url": "https://openreview.net/pdf?id=2Bw6uC49QF"
+  },
+  {
+   "title": "MedBrowseComp: Benchmarking Medical Deep Research and Computer Use",
+   "authors": [
+    "Shan Chen",
+    "Pedro José Ferreira Moreira",
+    "Yuxin Xiao",
+    "Samuel Schmidgall",
+    "Jeremy L. Warner",
+    "Hugo Aerts",
+    "Thomas Hartvigsen",
+    "Jack Gallifant",
+    "Danielle Bitterman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D6aX3H10z5",
+   "pdf_url": "https://openreview.net/pdf?id=D6aX3H10z5"
+  },
+  {
+   "title": "Medical AI Consensus: A Multi-Agent Framework for  Radiology Report Generation and Evaluation",
+   "authors": [
+    "Ahmed Tamer El Boardy",
+    "Ghada Khoriba",
+    "Essam Rashed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BwvWrnPzfZ",
+   "pdf_url": "https://openreview.net/pdf?id=BwvWrnPzfZ"
+  },
+  {
+   "title": "MermaidSeqBench: An Evaluation Benchmark for LLM-to-Mermaid Sequence Diagram Generation",
+   "authors": [
+    "Basel Shbita",
+    "Farhan Ahmed",
+    "Chad DeLuca"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cGXircO5gy",
+   "pdf_url": "https://openreview.net/pdf?id=cGXircO5gy"
+  },
+  {
+   "title": "Metrics for Holistic Evaluation of LLM Reasoning about Action, Change, and Planning",
+   "authors": [
+    "Anil B Murthy",
+    "Jaron Mink",
+    "Lindsay Sanneman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wdMJrRLnjg",
+   "pdf_url": "https://openreview.net/pdf?id=wdMJrRLnjg"
+  },
+  {
+   "title": "Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs",
+   "authors": [
+    "Ilham Wicaksono",
+    "Zekun Wu",
+    "Rahul Patel",
+    "Theo King",
+    "Adriano Koshiyama",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bo9FcSnrVP",
+   "pdf_url": "https://openreview.net/pdf?id=Bo9FcSnrVP"
+  },
+  {
+   "title": "MiSCHiEF: A Benchmark in Minimal-Pairs of Safety and Culture for Holistic Evaluation of Fine-Grained Image-Caption Alignment",
+   "authors": [
+    "Sagarika Banerjee",
+    "Tangatar Madi",
+    "Advait Swaminathan",
+    "Nguyen Dao Minh Anh",
+    "Shivank Garg",
+    "Kevin Zhu",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HYV1YwQgOB",
+   "pdf_url": "https://openreview.net/pdf?id=HYV1YwQgOB"
+  },
+  {
+   "title": "Mitigating Self-Preference by Authorship Obfuscation",
+   "authors": [
+    "Taslim Mahbub",
+    "Shi Feng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8II1ZSRKwQ",
+   "pdf_url": "https://openreview.net/pdf?id=8II1ZSRKwQ"
+  },
+  {
+   "title": "MonitorLLM: Real-Time Structural and Bias Evaluation of Generative AI through Knowledge Graphs",
+   "authors": [
+    "Mohd Ariful Haque",
+    "kishor datta gupta",
+    "Roy George"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nq79ZWIeFk",
+   "pdf_url": "https://openreview.net/pdf?id=nq79ZWIeFk"
+  },
+  {
+   "title": "MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation",
+   "authors": [
+    "Aditya Aggarwal",
+    "Mehul Agarwal",
+    "Arnav Goel",
+    "Medha Hira",
+    "Anubha Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qqMeIQkIc4",
+   "pdf_url": "https://openreview.net/pdf?id=qqMeIQkIc4"
+  },
+  {
+   "title": "Narrow RL Induces Broad Behavior Changes in LLMs",
+   "authors": [
+    "Jo J. Jiao",
+    "Austin C. Kozlowski",
+    "James Evans"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dPE0mEjUzp",
+   "pdf_url": "https://openreview.net/pdf?id=dPE0mEjUzp"
+  },
+  {
+   "title": "Network Dynamics Reasoning: A Novel Benchmark for Evaluating Multi-Step Inference in Large Language Models",
+   "authors": [
+    "Andrew Bae",
+    "Saaketh Bhojanam",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hM2rkFHbXI",
+   "pdf_url": "https://openreview.net/pdf?id=hM2rkFHbXI"
+  },
+  {
+   "title": "No Question, No Passage, No Problem: Investigating Artifact Exploitation and Reasoning in Multiple-Choice Reading Comprehension",
+   "authors": [
+    "Anthony Cui",
+    "Rohan Raj Butani",
+    "Theodore Oltean"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uaaEJQggQD",
+   "pdf_url": "https://openreview.net/pdf?id=uaaEJQggQD"
+  },
+  {
+   "title": "No-Human in the Loop: Agentic Evaluation at Scale for Recommendation",
+   "authors": [
+    "Tao Zhang",
+    "Kehui Yao",
+    "Luyi Ma",
+    "Reza Yousefi Maragheh",
+    "Jiao Chen",
+    "Kai Zhao",
+    "Jianpeng Xu",
+    "Evren Korpeoglu",
+    "Sushant Kumar",
+    "Kannan Achan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oNMJsavLe8",
+   "pdf_url": "https://openreview.net/pdf?id=oNMJsavLe8"
+  },
+  {
+   "title": "On Evaluating Methods vs. Evaluating Models",
+   "authors": [
+    "Olawale Elijah Salaudeen",
+    "Florian E. Dorner",
+    "Peter Hase"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8yg3XadfIZ",
+   "pdf_url": "https://openreview.net/pdf?id=8yg3XadfIZ"
+  },
+  {
+   "title": "OpenGovCorpus: Evaluating LLMs on Citizen Query Tasks",
+   "authors": [
+    "Neil Majithia",
+    "Rajat Shinde",
+    "Manil Maskey",
+    "Elena Simperl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xlM43QwUqs",
+   "pdf_url": "https://openreview.net/pdf?id=xlM43QwUqs"
+  },
+  {
+   "title": "OPTiCAL: An Abstract Positional Reasoning Benchmark for Vision Language Models",
+   "authors": [
+    "Christopher Driggers-Ellis",
+    "Gabriel Ayoubi",
+    "Christan Grant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wnOIAbFE6X",
+   "pdf_url": "https://openreview.net/pdf?id=wnOIAbFE6X"
+  },
+  {
+   "title": "Paraphrasing Away Malicious Tokens: Improving LLM Finetuning Safety by Filtering Spurious Correlation",
+   "authors": [
+    "Marcel Mateos Salles",
+    "Praney Goyal",
+    "Pradyut Sekhsaria",
+    "Hai Huang",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7fM4Q0TLgZ",
+   "pdf_url": "https://openreview.net/pdf?id=7fM4Q0TLgZ"
+  },
+  {
+   "title": "PEBBLE: A Pedagogical and SRL-Aware Benchmark for Evaluating LLM Tutors",
+   "authors": [
+    "Ishaan Gangwani",
+    "Harrish Ayyanar",
+    "Arjun Rawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ffvNvoJVgE",
+   "pdf_url": "https://openreview.net/pdf?id=ffvNvoJVgE"
+  },
+  {
+   "title": "Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects",
+   "authors": [
+    "Gunmay Handa",
+    "Zekun Wu",
+    "Adriano Koshiyama",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TWbcIU0DBr",
+   "pdf_url": "https://openreview.net/pdf?id=TWbcIU0DBr"
+  },
+  {
+   "title": "Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025",
+   "authors": [
+    "Jiahao Qiu",
+    "Jingzhe Shi",
+    "Xinzhe Juan",
+    "Zelin Zhao",
+    "Jiayi Geng",
+    "Shilong Liu",
+    "Hongru WANG",
+    "Sanfeng Wu",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFOPbP4oAF",
+   "pdf_url": "https://openreview.net/pdf?id=wFOPbP4oAF"
+  },
+  {
+   "title": "PosterSum: A Multimodal Benchmark for Scientific Poster Summarization",
+   "authors": [
+    "Rohit Saxena",
+    "Pasquale Minervini",
+    "Frank Keller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TwUBgJDwQV",
+   "pdf_url": "https://openreview.net/pdf?id=TwUBgJDwQV"
+  },
+  {
+   "title": "Precision Shapes Personality: The Hidden Cost of Quantization in Sub-Billion-LLMs",
+   "authors": [
+    "Soham Sen",
+    "Ishaan Gangwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NTYYggoTXR",
+   "pdf_url": "https://openreview.net/pdf?id=NTYYggoTXR"
+  },
+  {
+   "title": "Precursors, Proxies, and Predictive Models for Long-Horizon Tasks",
+   "authors": [
+    "Samuel F. Brown",
+    "Jaco Du Toit",
+    "Leo Hyams",
+    "Daniil Anisimov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bfX0oa2XDr",
+   "pdf_url": "https://openreview.net/pdf?id=bfX0oa2XDr"
+  },
+  {
+   "title": "Predicting Emergent Software Engineering Capabilities by Fine-tuning",
+   "authors": [
+    "Jason J Jackson",
+    "Terry Huang",
+    "Henry Velasquez",
+    "Kevin Zhu",
+    "Sunishchal Dev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EwchHtwavV",
+   "pdf_url": "https://openreview.net/pdf?id=EwchHtwavV"
+  },
+  {
+   "title": "Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation Awareness",
+   "authors": [
+    "Lang Xiong",
+    "Nishant Bhargava",
+    "Jeremy Chang",
+    "Jianhang Hong",
+    "Haihao Liu",
+    "Vasu Sharma",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XDPBKEwWO5",
+   "pdf_url": "https://openreview.net/pdf?id=XDPBKEwWO5"
+  },
+  {
+   "title": "Probing Reasoning Flaws and Safety Hierarchies with Chain-of-Thought Difference Amplification",
+   "authors": [
+    "Kamesh R"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mLbqX4Z6Pu",
+   "pdf_url": "https://openreview.net/pdf?id=mLbqX4Z6Pu"
+  },
+  {
+   "title": "Progress over Points: Reframing LM Benchmarks Around Scientific Objectives",
+   "authors": [
+    "Alwin Jin",
+    "Sean M. Hendryx",
+    "Vaskar Nath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pd49jnssUi",
+   "pdf_url": "https://openreview.net/pdf?id=pd49jnssUi"
+  },
+  {
+   "title": "Prompt Genotyping: Quantifying the Evaluation Gap Between Synthetic Benchmarks and Real LLM Performance",
+   "authors": [
+    "Sohum Mehta",
+    "Saaketh Bhojanam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WCNAcIKREG",
+   "pdf_url": "https://openreview.net/pdf?id=WCNAcIKREG"
+  },
+  {
+   "title": "PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning",
+   "authors": [
+    "Tatsuki Kawakami",
+    "Kazuki Egashira",
+    "Atsuyuki Miyai",
+    "Go Irie",
+    "Kiyoharu Aizawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VRUW4qIdoc",
+   "pdf_url": "https://openreview.net/pdf?id=VRUW4qIdoc"
+  },
+  {
+   "title": "R3: Robust Rubric-Agnostic Reward Models",
+   "authors": [
+    "David Anugraha",
+    "Zilu Tang",
+    "Lester James Validad Miranda",
+    "Hanyang Zhao",
+    "Shou-Yi Hung",
+    "Mohammad Rifqi Farhansyah",
+    "Garry Kuwanto",
+    "Derry Tanti Wijaya",
+    "Genta Indra Winata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XSRjNChTST",
+   "pdf_url": "https://openreview.net/pdf?id=XSRjNChTST"
+  },
+  {
+   "title": "RADAR: Mechanistic Pathways for Detecting Data Contamination in LLM Evaluation",
+   "authors": [
+    "Ashish Kattamuri",
+    "Harshwardhan Fartale",
+    "Arpita Vats",
+    "Rahul Raja",
+    "Ishita Prasad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d0di5jC9kb",
+   "pdf_url": "https://openreview.net/pdf?id=d0di5jC9kb"
+  },
+  {
+   "title": "Recovery-Bench: Evaluating Agentic Recovery from Mistakes",
+   "authors": [
+    "Shangyin Tan",
+    "Kevin Lin",
+    "Koushik Sen",
+    "Matei Zaharia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8FZRnDgDxq",
+   "pdf_url": "https://openreview.net/pdf?id=8FZRnDgDxq"
+  },
+  {
+   "title": "Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check",
+   "authors": [
+    "Sungjun Cho",
+    "Dasol Hwang",
+    "Frederic Sala",
+    "Sangheum Hwang",
+    "Kyunghyun Cho",
+    "Sungmin Cha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kzcFIXJJ85",
+   "pdf_url": "https://openreview.net/pdf?id=kzcFIXJJ85"
+  },
+  {
+   "title": "RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models",
+   "authors": [
+    "Aashiq Muhamed",
+    "Leonardo F. R. Ribeiro",
+    "Markus Dreyer",
+    "Virginia Smith",
+    "Mona T. Diab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZR72ArmSS",
+   "pdf_url": "https://openreview.net/pdf?id=EZR72ArmSS"
+  },
+  {
+   "title": "RELIC: Evaluating Compositional Instruction Following via Language Recognition",
+   "authors": [
+    "Jackson Petty",
+    "Michael Y. Hu",
+    "Wentao Wang",
+    "Shauli Ravfogel",
+    "William Merrill",
+    "Tal Linzen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lhf1MlcbKx",
+   "pdf_url": "https://openreview.net/pdf?id=lhf1MlcbKx"
+  },
+  {
+   "title": "RepliBench: Evaluating the Autonomous Replication Capabilities of Language Model Agents",
+   "authors": [
+    "Sidney Black",
+    "Asa Cooper Stickland",
+    "Jake Pencharz",
+    "Oliver Sourbut",
+    "Michael Schmatz",
+    "Jay Bailey",
+    "Ollie Matthews",
+    "Ben Millwood",
+    "Alex Remedios",
+    "Alan Cooney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kPj8DeJij2",
+   "pdf_url": "https://openreview.net/pdf?id=kPj8DeJij2"
+  },
+  {
+   "title": "Rethinking Kernel Program Repair: Benchmarking and Enhancing LLMs with RGym",
+   "authors": [
+    "Kareem Shehada",
+    "Yifan Wu",
+    "Wyatt D. Feng",
+    "Adithya Iyer",
+    "Gryphon Kumfert",
+    "Yangruibo Ding",
+    "Zhiyun Qian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NY4wv5C39G",
+   "pdf_url": "https://openreview.net/pdf?id=NY4wv5C39G"
+  },
+  {
+   "title": "Rethinking MCQ Benchmarks: Mandatory Reasoning Evaluation Reveals Significant Performance Drops in Large Language Models",
+   "authors": [
+    "Yue Zhang",
+    "Nhan Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U0WNteGf73",
+   "pdf_url": "https://openreview.net/pdf?id=U0WNteGf73"
+  },
+  {
+   "title": "Retrieval Capabilities of Large Language Models Scale with Pretraining FLOPs",
+   "authors": [
+    "Jacob Portes",
+    "Connor Jennings",
+    "Erica Ji Yuen",
+    "Sasha Doubov",
+    "Michael Carbin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QrEC5DMFOI",
+   "pdf_url": "https://openreview.net/pdf?id=QrEC5DMFOI"
+  },
+  {
+   "title": "Reward Model Overoptimisation in Iterated RLHF",
+   "authors": [
+    "Lorenz Wolf",
+    "Robert Kirk",
+    "Mirco Musolesi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dhRVSveEW7",
+   "pdf_url": "https://openreview.net/pdf?id=dhRVSveEW7"
+  },
+  {
+   "title": "RIMO: An Easy-to-Evaluate, Hard-to-Solve Olympiad Benchmark for Advanced Mathematical Reasoning",
+   "authors": [
+    "Ziye Chen",
+    "Chengwei Qin",
+    "Yao Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AEJeZbi8uQ",
+   "pdf_url": "https://openreview.net/pdf?id=AEJeZbi8uQ"
+  },
+  {
+   "title": "RULERv2: From Basic Retrieval to Complex Reasoning, A Bottom-Up Benchmark for Long-Context Evaluation",
+   "authors": [
+    "Cheng-Ping Hsieh",
+    "Faisal Ladhak",
+    "Krishna C Puvvada",
+    "Boris Ginsburg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZU9tRffRSA",
+   "pdf_url": "https://openreview.net/pdf?id=ZU9tRffRSA"
+  },
+  {
+   "title": "SAGE: A Realistic Benchmark for Semantic Understanding",
+   "authors": [
+    "Samarth Goel",
+    "Reagan Lee",
+    "Kannan Ramchandran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p4f2G2XXR4",
+   "pdf_url": "https://openreview.net/pdf?id=p4f2G2XXR4"
+  },
+  {
+   "title": "SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas",
+   "authors": [
+    "Anjiang Wei",
+    "Yuheng Wu",
+    "Yingjia Wan",
+    "Tarun Suresh",
+    "Huanmi Tan",
+    "Zhanke Zhou",
+    "Sanmi Koyejo",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SpOZXaIQQL",
+   "pdf_url": "https://openreview.net/pdf?id=SpOZXaIQQL"
+  },
+  {
+   "title": "Scaling Laws for Upcycling Mixture-of-Experts Language Models",
+   "authors": [
+    "Seng Pei Liew",
+    "Takuya Kato",
+    "Sho Takase"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iPWpAQeag6",
+   "pdf_url": "https://openreview.net/pdf?id=iPWpAQeag6"
+  },
+  {
+   "title": "Schema Lineage Extraction at Scale: Multilingual Pipelines, Composite Evaluation, and Language-Model Benchmarks",
+   "authors": [
+    "Jiaqi Yin",
+    "Yi-Wei Chen",
+    "MENG-LUNG LEE",
+    "Xiya Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c1EAJwrfJ7",
+   "pdf_url": "https://openreview.net/pdf?id=c1EAJwrfJ7"
+  },
+  {
+   "title": "Search-Time Data Contamination",
+   "authors": [
+    "Ziwen Han",
+    "Meher Mankikar",
+    "Julian Michael",
+    "Zifan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FBoIUyY3wX",
+   "pdf_url": "https://openreview.net/pdf?id=FBoIUyY3wX"
+  },
+  {
+   "title": "Self-Correction Bench: Revealing the Self-Correction Blind Spot in LLMs",
+   "authors": [
+    "Ken Tsui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dLz0bnmL2r",
+   "pdf_url": "https://openreview.net/pdf?id=dLz0bnmL2r"
+  },
+  {
+   "title": "Self-Evaluating LLMs for Multi-Step Tasks: Stepwise Confidence Estimation for Failure Detection",
+   "authors": [
+    "Vaibhav Mavi",
+    "Shubh Jaroria",
+    "Weiqi Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AWL1j8u2PH",
+   "pdf_url": "https://openreview.net/pdf?id=AWL1j8u2PH"
+  },
+  {
+   "title": "Silent Tokens, Loud Effects: Padding in LLMs",
+   "authors": [
+    "Rom Himelstein",
+    "Amit LeVi",
+    "Yonatan Belinkov",
+    "Avi Mendelson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4mdjtUrm5S",
+   "pdf_url": "https://openreview.net/pdf?id=4mdjtUrm5S"
+  },
+  {
+   "title": "Small Changes, Large Consequences: Analyzing the Allocational Fairness of LLMs in Hiring Contexts",
+   "authors": [
+    "Preethi Seshadri",
+    "Hongyu Chen",
+    "Sameer Singh",
+    "Seraphina Goldfarb-Tarrant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VVv5I3VnMl",
+   "pdf_url": "https://openreview.net/pdf?id=VVv5I3VnMl"
+  },
+  {
+   "title": "Smarter Sampling for LLM Judges: Reliable Evaluation on a Budget",
+   "authors": [
+    "Alyssa Unell",
+    "Natalie Dullerud",
+    "Nigam Shah",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2aBTwSOL0e",
+   "pdf_url": "https://openreview.net/pdf?id=2aBTwSOL0e"
+  },
+  {
+   "title": "SWE-InfraBench: Evaluating Language Models on Cloud Infrastructure Code",
+   "authors": [
+    "Natalia Tarasova",
+    "Enrique Balp-Straffon",
+    "Aleksei Iancheruk",
+    "Yevhenii Sielskyi",
+    "Nikita Kozodoi",
+    "Liam H. Byrne",
+    "Jack Butler",
+    "Dayuan jiang",
+    "Marcin Czelej",
+    "Andrew Ang",
+    "Yash Shah",
+    "Roi Blanco",
+    "Sergei Ivanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XX0ciUwfXa",
+   "pdf_url": "https://openreview.net/pdf?id=XX0ciUwfXa"
+  },
+  {
+   "title": "Sycophancy Claims about Language Models: The Missing Human-in-the-Loop",
+   "authors": [
+    "Jan Batzner",
+    "Volker Stocker",
+    "Stefan Schmid",
+    "Gjergji Kasneci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v5Akllkc8i",
+   "pdf_url": "https://openreview.net/pdf?id=v5Akllkc8i"
+  },
+  {
+   "title": "T-FIX: Text-Based Explanations with Features Interpretable to eXperts",
+   "authors": [
+    "Shreya Havaldar",
+    "Helen Jin",
+    "Chaehyeon Kim",
+    "Anton Xue",
+    "Weiqiu You",
+    "Gary E. Weissman",
+    "Rajat Deo",
+    "Sameed Ahmed M. Khatana",
+    "Helen Qu",
+    "Marco Gatti",
+    "Daniel A Hashimoto",
+    "Amin Madani",
+    "Masao Sako",
+    "Bhuvnesh Jain",
+    "Lyle Ungar",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GqZdYLuGPl",
+   "pdf_url": "https://openreview.net/pdf?id=GqZdYLuGPl"
+  },
+  {
+   "title": "Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLMs",
+   "authors": [
+    "Sankalp Tattwadarshi Swain",
+    "Anshika Krishnatray",
+    "Dhruv Kumar",
+    "Jagat Sesh Challa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yRI48ttSKp",
+   "pdf_url": "https://openreview.net/pdf?id=yRI48ttSKp"
+  },
+  {
+   "title": "The Contamination Paradox: Why Test Set Leakage Can Be Both Potent and Negligible",
+   "authors": [
+    "Rylan Schaeffer",
+    "Ken Liu",
+    "Brando Miranda",
+    "Ahmed M Ahmed",
+    "Niloofar Mireshghallah",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ajr8YtfhVO",
+   "pdf_url": "https://openreview.net/pdf?id=Ajr8YtfhVO"
+  },
+  {
+   "title": "The Impact of Post-training on Data Contamination",
+   "authors": [
+    "Muhammed Yusuf Kocyigit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SnPmnvMQ3k",
+   "pdf_url": "https://openreview.net/pdf?id=SnPmnvMQ3k"
+  },
+  {
+   "title": "The Measure of All Measures: Quantifying LLM Benchmark Quality",
+   "authors": [
+    "Jihan Yao",
+    "Peter Jin",
+    "Ke Bao",
+    "Qiaolin Yu",
+    "Khushi Bhardwaj",
+    "Chang Su",
+    "Jialei Wang",
+    "YIKAI ZHU",
+    "Sugam Devare",
+    "Damon Mosk-Aoyama",
+    "Zhen Dong",
+    "Venkat Krishna Srinivasan",
+    "Yineng Zhang",
+    "Oleksii Kuchaiev",
+    "Jiantao Jiao",
+    "Banghua Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HpnGmTIs7Z",
+   "pdf_url": "https://openreview.net/pdf?id=HpnGmTIs7Z"
+  },
+  {
+   "title": "The Narcissus Hypothesis: Descending to the Rung of Illusion",
+   "authors": [
+    "Riccardo Cadei",
+    "Christian Internò"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I9CJp7hcZI",
+   "pdf_url": "https://openreview.net/pdf?id=I9CJp7hcZI"
+  },
+  {
+   "title": "The Ouroboros of Benchmarking: Reasoning Evaluation in an Era of Saturation",
+   "authors": [
+    "İbrahim Ethem Deveci",
+    "Duygu Ataman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0zDiyIGCFT",
+   "pdf_url": "https://openreview.net/pdf?id=0zDiyIGCFT"
+  },
+  {
+   "title": "The Price of Progress: Algorithmic Efficiency and the Falling Cost of AI Inference",
+   "authors": [
+    "Hans Gundlach",
+    "Jayson Lynch",
+    "Matthias Mertens",
+    "Neil Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JEsU87WUUb",
+   "pdf_url": "https://openreview.net/pdf?id=JEsU87WUUb"
+  },
+  {
+   "title": "The Shepherd Test: How Will SuperIntelligent Agents Balance Care and Control in Asymmetric Relationships?",
+   "authors": [
+    "Djallel Bouneffouf",
+    "Matthew Riemer",
+    "Kush R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U3hKRlcAlQ",
+   "pdf_url": "https://openreview.net/pdf?id=U3hKRlcAlQ"
+  },
+  {
+   "title": "The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation",
+   "authors": [
+    "Zarreen Reza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Larp1U1Mq",
+   "pdf_url": "https://openreview.net/pdf?id=5Larp1U1Mq"
+  },
+  {
+   "title": "Towards Dynamic KV-Cache Compression: Fine-Grained Evaluation of Key and Value Ranks in LLMs",
+   "authors": [
+    "Jian Chen",
+    "Zhuoran Wang",
+    "Jiayu Qin",
+    "Ming Li",
+    "Meng Wang",
+    "Changyou Chen",
+    "Yin Chen",
+    "Qizhen Weng",
+    "Yirui Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0noVRtnzJt",
+   "pdf_url": "https://openreview.net/pdf?id=0noVRtnzJt"
+  },
+  {
+   "title": "Towards Multilingual Mechanistic Interpretability",
+   "authors": [
+    "Yanan Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b0MT0rtHYA",
+   "pdf_url": "https://openreview.net/pdf?id=b0MT0rtHYA"
+  },
+  {
+   "title": "Towards Real-World Evaluation of Agentic Work in Freelance Marketplaces",
+   "authors": [
+    "Mattie Terzolo",
+    "Darvin Yi",
+    "Teng Liu",
+    "Lance Hasson",
+    "Ayan Sinha",
+    "Pablo N. Mendes",
+    "Andrew Rabinovich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=be76fus1ou",
+   "pdf_url": "https://openreview.net/pdf?id=be76fus1ou"
+  },
+  {
+   "title": "Towards Transparent Reasoning: What Drives Faithfulness in Large Language Models?",
+   "authors": [
+    "Teague McMillan",
+    "Gabriele Dominici",
+    "Martin Gjoreski",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZ1uEHz4nH",
+   "pdf_url": "https://openreview.net/pdf?id=EZ1uEHz4nH"
+  },
+  {
+   "title": "Train-before-Test Harmonizes Language Model Rankings",
+   "authors": [
+    "Guanhua Zhang",
+    "Ricardo Dominguez-Olmedo",
+    "Moritz Hardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GhgsQTb8p9",
+   "pdf_url": "https://openreview.net/pdf?id=GhgsQTb8p9"
+  },
+  {
+   "title": "TrolleyBench: Evaluating Emergent Moral Reasoning and Consistency in LLMs",
+   "authors": [
+    "Andrew Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=27j9XJQV5O",
+   "pdf_url": "https://openreview.net/pdf?id=27j9XJQV5O"
+  },
+  {
+   "title": "Uncertainty Quantification for Language Models: Standardizing and Evaluating Black-Box, White-Box, LLM Judge, and Ensemble Scorers",
+   "authors": [
+    "Dylan Bouchard",
+    "Mohit Singh Chauhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HZ7qyXMTlw",
+   "pdf_url": "https://openreview.net/pdf?id=HZ7qyXMTlw"
+  },
+  {
+   "title": "UQ: Assessing Language Models on Unsolved Questions",
+   "authors": [
+    "Fan Nie",
+    "Ken Liu",
+    "Zihao Wang",
+    "Rui Sun",
+    "Wei Liu",
+    "Weijia Shi",
+    "Huaxiu Yao",
+    "Linjun Zhang",
+    "Andrew Y. Ng",
+    "James Zou",
+    "Sanmi Koyejo",
+    "Yejin Choi",
+    "Percy Liang",
+    "Niklas Muennighoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XP43TIdfm6",
+   "pdf_url": "https://openreview.net/pdf?id=XP43TIdfm6"
+  },
+  {
+   "title": "VLM-SlideEval: Evaluating VLMs on Structured Comprehension and Perturbation Sensitivity in PPT",
+   "authors": [
+    "Hyeonsu B Kang",
+    "Yuwei Bao",
+    "Anjan Goswami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DRACd7p5ur",
+   "pdf_url": "https://openreview.net/pdf?id=DRACd7p5ur"
+  },
+  {
+   "title": "When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation",
+   "authors": [
+    "Xunyi Jiang",
+    "Dingyi Chang",
+    "Xin Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WRMjVoJfCY",
+   "pdf_url": "https://openreview.net/pdf?id=WRMjVoJfCY"
+  },
+  {
+   "title": "When LLM Meets Time Series: Can LLMs Perform Multistep Time Series Reasoning and Inference",
+   "authors": [
+    "Wen Ye",
+    "Jinbo Liu",
+    "Defu Cao",
+    "Wei Yang",
+    "Yan Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRKkE4E9P5",
+   "pdf_url": "https://openreview.net/pdf?id=oRKkE4E9P5"
+  },
+  {
+   "title": "Where Did It All Go Wrong? A Hierarchical Look into Multi-Agent Error Attribution",
+   "authors": [
+    "Adi Banerjee",
+    "Anirudh Nair",
+    "Tarik Borogovac"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0MyUdq7wLe",
+   "pdf_url": "https://openreview.net/pdf?id=0MyUdq7wLe"
+  },
+  {
+   "title": "Who Routes the Router: Rethinking the Evaluation of LLM Routing Systems",
+   "authors": [
+    "Jiayi Yuan",
+    "Yifan Lu",
+    "Rixin Liu",
+    "Yu-Neng Chuang",
+    "Hongyi Liu",
+    "Shaochen Zhong",
+    "Yang Sui",
+    "Guanchu Wang",
+    "Jiarong Xing",
+    "Xia Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EEPostHMtF",
+   "pdf_url": "https://openreview.net/pdf?id=EEPostHMtF"
+  },
+  {
+   "title": "Who’s the Impostor? Multi‑Agent Social Deduction for Evaluating LLM Social Reasoning",
+   "authors": [
+    "Xiang Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UiUd5LAoq9",
+   "pdf_url": "https://openreview.net/pdf?id=UiUd5LAoq9"
+  },
+  {
+   "title": "Whose Personae? Synthetic Persona Experiments in LLM Research and Pathways to Transparency",
+   "authors": [
+    "Jan Batzner",
+    "Volker Stocker",
+    "Bingjun Tang",
+    "Anusha Natarajan",
+    "Qinhao Chen",
+    "Stefan Schmid",
+    "Gjergji Kasneci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CoXlnmE1eb",
+   "pdf_url": "https://openreview.net/pdf?id=CoXlnmE1eb"
+  },
+  {
+   "title": "Why Do Multi-Agent LLM Systems Fail?",
+   "authors": [
+    "Mert Cemri",
+    "Melissa Z Pan",
+    "Shuyi Yang",
+    "Lakshya A Agrawal",
+    "Bhavya Chopra",
+    "Rishabh Tiwari",
+    "Kurt Keutzer",
+    "Aditya Parameswaran",
+    "Dan Klein",
+    "Kannan Ramchandran",
+    "Matei Zaharia",
+    "Joseph E. Gonzalez",
+    "Ion Stoica"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MqBzKkb8eK",
+   "pdf_url": "https://openreview.net/pdf?id=MqBzKkb8eK"
+  },
+  {
+   "title": "YKSBench: Stress-Testing Multimodal Models with Exam-Style Questions",
+   "authors": [
+    "Egemen Sert",
+    "Seyda Ertekin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qgAjoo3cJE",
+   "pdf_url": "https://openreview.net/pdf?id=qgAjoo3cJE"
+  }
+ ]
+}

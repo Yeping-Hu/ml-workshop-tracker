@@ -1,0 +1,1497 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/CompLearn",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:32.593Z",
+ "paper_count": 135,
+ "papers": [
+  {
+   "title": "A Compositional Calculus for Semantic Synergy in Language Model Embeddings",
+   "authors": [
+    "Abel Jansma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sMUVXkAksS",
+   "pdf_url": "https://openreview.net/pdf?id=sMUVXkAksS"
+  },
+  {
+   "title": "A mathematical theory of balancing relational generalization and memorization",
+   "authors": [
+    "Luke Cheng",
+    "Samuel Lippl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R2w2CEUjwp",
+   "pdf_url": null
+  },
+  {
+   "title": "A Theory of Atomic Features and Four Testable Predictions",
+   "authors": [
+    "Kenny Peng",
+    "Jon Kleinberg",
+    "Nikhil Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hn1G2xEk9M",
+   "pdf_url": null
+  },
+  {
+   "title": "Actionable Interpretability Must Be Defined in Terms of Symmetries: A Compositional Probabilistic Approach",
+   "authors": [
+    "Pietro Barbiero",
+    "Mateo Espinosa Zarlenga",
+    "Francesco Giannini",
+    "Alberto Termine",
+    "Filippo Bonchi",
+    "Mateja Jamnik",
+    "Giuseppe Marra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H4fV9zy3eh",
+   "pdf_url": null
+  },
+  {
+   "title": "Adaptive Minds: Empowering Agents with LoRA-as-Tools",
+   "authors": [
+    "Pavan C Shekar",
+    "Aswanth Krishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CsY81Fp8HH",
+   "pdf_url": "https://openreview.net/pdf?id=CsY81Fp8HH"
+  },
+  {
+   "title": "Adaptive Recurrence as Algorithmic Time for Length Generalization in Addition",
+   "authors": [
+    "Imran Ibrahimli",
+    "Stefan Wermter",
+    "Jae Hee Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XW18V4H9sq",
+   "pdf_url": "https://openreview.net/pdf?id=XW18V4H9sq"
+  },
+  {
+   "title": "Additive Relational Bindings in Transformers: What Sparse Autoencoders Miss",
+   "authors": [
+    "Sebastian Hönig",
+    "Kushal Jain",
+    "Su Ji Park",
+    "Bart Bussmann",
+    "Patrick Leask"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UHqGHqDD6y",
+   "pdf_url": null
+  },
+  {
+   "title": "Ask, Don’t Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+   "authors": [
+    "Sangwoo Cho",
+    "Kushal Chawla",
+    "Pengshan Cai",
+    "Zefang Liu",
+    "Chenyang Zhu",
+    "Shi-Xiong Zhang",
+    "Sambit Sahu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tJytD1JIkR",
+   "pdf_url": null
+  },
+  {
+   "title": "Atomic Chess Reveals Compositional Reasoning Failures in LLMs",
+   "authors": [
+    "Ryan Co",
+    "Karthik Reddy Konuganti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Aeqrxt99JW",
+   "pdf_url": null
+  },
+  {
+   "title": "Attractor Inversion: A Geometric Account of Adversarial Manipulation in Human Decision-Making",
+   "authors": [
+    "Leo Lorence George",
+    "Anushri Iyer",
+    "Abhishek Bakshi",
+    "Pavan Kulkarni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QWF4vjNl1u",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection",
+   "authors": [
+    "Jinhan Li",
+    "Kexian Tang",
+    "Yihan Xu",
+    "Zhuorui Ye",
+    "Kaifeng Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gequ8WzMdQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Biregular Sparse Initialization Shifts the Rate and Shape of Compositional Escape in Sequential Arithmetic Curricula",
+   "authors": [
+    "Clément Castellon",
+    "Arindam Biswas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rVk2CBi14h",
+   "pdf_url": null
+  },
+  {
+   "title": "CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents",
+   "authors": [
+    "Hanna Foerster",
+    "Tom Blanchard",
+    "Kristina Nikolić",
+    "Ilia Shumailov",
+    "Cheng Zhang",
+    "Robert D. Mullins",
+    "Nicolas Papernot",
+    "Florian Tramèr",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uD8ZLoi44s",
+   "pdf_url": null
+  },
+  {
+   "title": "Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds",
+   "authors": [
+    "Gael Gendron",
+    "Joze M. Rozanec",
+    "Michael J. Witbrock",
+    "Gillian Dobbie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hKsqdFFbd9",
+   "pdf_url": null
+  },
+  {
+   "title": "Causal-JEPA: Learning World Models through Object-Level Latent Masking",
+   "authors": [
+    "Heejeong Nam",
+    "Quentin Le Lidec",
+    "Lucas Maes",
+    "Yann LeCun",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zKhi6pqma9",
+   "pdf_url": null
+  },
+  {
+   "title": "CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits",
+   "authors": [
+    "Jiahang Sun",
+    "Zhiwei Shang",
+    "Zhipiao Liu",
+    "Hongwei Yang",
+    "XIE GUOQING",
+    "Shuang Qiu",
+    "Zhongxiang Dai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gEZ8gWc9LW",
+   "pdf_url": null
+  },
+  {
+   "title": "Chain-of-Thought Gradient Descent",
+   "authors": [
+    "Hong-Yu Chen",
+    "Venkat Sripad Ganti",
+    "Jerry Yao-Chieh Hu",
+    "Hude Liu",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FtDlELTr1X",
+   "pdf_url": null
+  },
+  {
+   "title": "Circuit Modularity Predicts Compositional Generalization:  Theory and Evidence from Transformers",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HM2mJLaC7J",
+   "pdf_url": null
+  },
+  {
+   "title": "Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries",
+   "authors": [
+    "Hong Kiat Tan",
+    "Shariar Kabir",
+    "Swastik Agrawal",
+    "Sai V R Chereddy",
+    "Sriram Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LmkgcUJA8N",
+   "pdf_url": null
+  },
+  {
+   "title": "ClinSeekAgent: Automating Multi-modal Evidence Seeking for Agentic Clinical Reasoning",
+   "authors": [
+    "Juncheng Wu",
+    "Letian Zhang",
+    "Yuhan Wang",
+    "Haoqin Tu",
+    "Hardy Chen",
+    "Zijun Wang",
+    "Cihang Xie",
+    "Yuyin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E8Td0WHTC0",
+   "pdf_url": "https://openreview.net/pdf?id=E8Td0WHTC0"
+  },
+  {
+   "title": "CLIP Models Generalize Less Than Compositional Benchmarks Suggest",
+   "authors": [
+    "Shuman Peng",
+    "Arnas Uselis",
+    "Darina Koishigarina",
+    "Martin Ester",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C8MlQkr4bw",
+   "pdf_url": null
+  },
+  {
+   "title": "CMAG: Concept-Scaffolded Retrieval for Marketplace Avatar Generation",
+   "authors": [
+    "Rajeev Goel",
+    "Jason Ding",
+    "Phani Harish Wajjala",
+    "Pavan K. Turaga",
+    "Tejaswi Gowda",
+    "Krishna C. Garikipati"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TYleNCubrl",
+   "pdf_url": null
+  },
+  {
+   "title": "Code-enabled language models can outperform reasoning models on diverse tasks",
+   "authors": [
+    "Cedegao E. Zhang",
+    "Cédric Colas",
+    "Gabriel Poesia",
+    "Joshua B. Tenenbaum",
+    "Jacob Andreas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRK55epMT5",
+   "pdf_url": null
+  },
+  {
+   "title": "COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization",
+   "authors": [
+    "Yassine Taoudi-Benchekroun",
+    "Klim Troyan",
+    "Pascal Josef Sager",
+    "Stefan Gerber",
+    "Lukas Tuggener",
+    "Thilo Stadelmann",
+    "Benjamin F Grewe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qKGuqB5SAv",
+   "pdf_url": "https://openreview.net/pdf?id=qKGuqB5SAv"
+  },
+  {
+   "title": "CompFlow: Composing Velocity Fields for Multi-Condition Generation",
+   "authors": [
+    "Luca Miglior",
+    "Vincenzo Gervasi",
+    "Davide Bacciu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JdQTzZewsy",
+   "pdf_url": "https://openreview.net/pdf?id=JdQTzZewsy"
+  },
+  {
+   "title": "Compositional Adversarial Training for Robust Visual Watermarking",
+   "authors": [
+    "Anirudh Satheesh",
+    "Michael-Andrei Panaitescu-Liess",
+    "Andrew Ye Xu",
+    "Georgios Milis",
+    "Heng Huang",
+    "Zikui Cai",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kvIRrhiddY",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Agentic Formulation Search for Open-Vocabulary Audio-Visual Event Localization",
+   "authors": [
+    "Beomgwon Jo",
+    "Sunchan Park",
+    "Kyeongbo Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KsY99GYUcq",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional by Design: Background-Invariant Representations via Linear Additivity in VLMs",
+   "authors": [
+    "Youssef Zaazou",
+    "Mark Thomas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BG8YVqIjiP",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Consistency-Guided Decoding for Three-Way Logical Question Answering",
+   "authors": [
+    "Tianyi Huang",
+    "Ming Ren Hou",
+    "Jiaheng Su",
+    "Yutong Zhang",
+    "Ziling Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YGMXm4g0fI",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Evolutionary Probing of LLM Safety Alignment",
+   "authors": [
+    "Ashish Baghel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=isNK1CR3B9",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Failure in Audio-Visual LLMs: Late-Layer Prior Dominance Under Cross-modal Conflict",
+   "authors": [
+    "Adarsh Sudheer",
+    "David Li",
+    "Omar El-Banna",
+    "Ishaan Kodarapu",
+    "Arjun Bahuguna",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eFKraXN8se",
+   "pdf_url": "https://openreview.net/pdf?id=eFKraXN8se"
+  },
+  {
+   "title": "Compositional Investigation: Why Reasoning Enables Tool-Using Agents to Fix What They Diagnose",
+   "authors": [
+    "Dhatri C",
+    "Tadisetty Sai Yashwanth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XvcxneQwGI",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Neuro-Symbolic Reasoning",
+   "authors": [
+    "Anugyan Das",
+    "Omkar Ghugarkar",
+    "Vishvesh G Bhat",
+    "Asad Aali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SKZjII9dqa",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Self-Improvement",
+   "authors": [
+    "Changho Shin",
+    "Daiwei Chen",
+    "John Cooper",
+    "Brenden Lake",
+    "Frederic Sala",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZB9acNCHSh",
+   "pdf_url": "https://openreview.net/pdf?id=ZB9acNCHSh"
+  },
+  {
+   "title": "Compositional Skill Acquisition in Agentic Pipelines via Reinforcement Learning and Knowledge Distillation",
+   "authors": [
+    "Akshaykumar",
+    "Tadisetty Sai Yashwanth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=32Oh7K2IyC",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Skill Chaining and Policy Blending for Hard Exploration in the BRIO Labyrinth Game",
+   "authors": [
+    "Young-Min Kim",
+    "Bo-Yeong Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gmWKx7EJw5",
+   "pdf_url": null
+  },
+  {
+   "title": "Compositional Skill Execution in LLM Multi-Agent Systems: A Comparative Study of Collaboration Architectures for Long-Horizon Tasks",
+   "authors": [
+    "Mihyang Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ncaXiESpzV",
+   "pdf_url": "https://openreview.net/pdf?id=ncaXiESpzV"
+  },
+  {
+   "title": "Compositional Underdetermination in AI Agents: When Behavioral Success Is Not Compositional Evidence",
+   "authors": [
+    "Aviral Srivastava",
+    "Sourav Panda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ppPZIv8IDD",
+   "pdf_url": null
+  },
+  {
+   "title": "Concepts in Motion: Temporal Concept Bottleneck Model for Interpretable Video Classification",
+   "authors": [
+    "Patrick Knab",
+    "Sascha Marton",
+    "Philipp Johannes Schubert",
+    "Drago Andres Guggiana Nilo",
+    "Christian Bartelt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K9icgPuRRF",
+   "pdf_url": "https://openreview.net/pdf?id=K9icgPuRRF"
+  },
+  {
+   "title": "Count Me If You Can: Geometric Failure Modes in Language Model Counting",
+   "authors": [
+    "Nicholas Bai",
+    "Ayushi Mehrotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8PAXj6x6zn",
+   "pdf_url": null
+  },
+  {
+   "title": "CUA-Skill: Developing Computer Using Agents with a Skill Framework",
+   "authors": [
+    "Tianyi Chen",
+    "Yinheng Li",
+    "Michael Solodko",
+    "Sen Wang",
+    "Nan Jiang",
+    "Junheng Hao",
+    "Tingyuan Cui",
+    "Jongwoo Ko",
+    "Sara Abdali",
+    "Suzhen Zheng",
+    "Pashmina Cameron",
+    "Justin Wagle",
+    "Kazuhito Koishida"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ltKBkEEa4e",
+   "pdf_url": "https://openreview.net/pdf?id=ltKBkEEa4e"
+  },
+  {
+   "title": "Dimensionality Controls When Modularity Helps in Continual Learning",
+   "authors": [
+    "Kathrin Korte",
+    "Christian Medeiros Adriano",
+    "Joachim Winther Pedersen",
+    "Eleni Nisioti",
+    "Sebastian Risi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PMBgWcrYfh",
+   "pdf_url": null
+  },
+  {
+   "title": "Direction-Conditioned Policies via Compositional Subgoal Scoring for Online Goal-Conditioned Reinforcement Learning",
+   "authors": [
+    "Swaminathan S K",
+    "Damiya Gondha",
+    "Theyanesh Eswaramoorthy Rajahkrishnan",
+    "Aritra Hazra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WksFWDQXY6",
+   "pdf_url": null
+  },
+  {
+   "title": "Dissociating Decodability and Causal Use in Bracket-Sequence Transformers",
+   "authors": [
+    "Aryan Sharma",
+    "Cutter Dawes",
+    "Shivam Raval"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K0bJd9m9zJ",
+   "pdf_url": null
+  },
+  {
+   "title": "Do Thinking Tokens Help with Safety?",
+   "authors": [
+    "Narutatsu Ri",
+    "Abhishek Panigrahi",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oFIHNHAF1f",
+   "pdf_url": null
+  },
+  {
+   "title": "Don't Trust Stubborn Neighbors: A Security Framework for Agentic Networks",
+   "authors": [
+    "Samira Abedini",
+    "Sina Mavali",
+    "Lea Schönherr",
+    "Martin Pawelczyk",
+    "Rebekka Burkholz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ifqasRRoVw",
+   "pdf_url": null
+  },
+  {
+   "title": "DPMI: A Principled Index for Neural Polysemanticity via Dirichlet Process Mixture Modeling",
+   "authors": [
+    "Manan Gupta",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5A5ZX44DUg",
+   "pdf_url": null
+  },
+  {
+   "title": "Dual-Resolution Recursive Energy: Certified Contract–Expand Inference for Sequential Decision Making",
+   "authors": [
+    "Haozhou Gao",
+    "ZENG JIARUI",
+    "Wendi Ren",
+    "Yanwen Liu",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mg9dZK2RX0",
+   "pdf_url": null
+  },
+  {
+   "title": "Emergent Compositional Skills in Mixture-of-Experts VLAs",
+   "authors": [
+    "Shlok Shah",
+    "Rhiaan Jhaveri",
+    "Tharun Kumar Tiruppali Kalidoss",
+    "Chirayu Nimonkar",
+    "Ishaan Javali",
+    "Dhruv Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PfUF22tb6X",
+   "pdf_url": null
+  },
+  {
+   "title": "Emergent Social Intelligence Risks in Generative Multi-Agent Systems",
+   "authors": [
+    "Yue Huang",
+    "Yu Jiang",
+    "Wenjie Wang",
+    "Haomin Zhuang",
+    "Xiaonan Luo",
+    "Yuchen Ma",
+    "Zhangchen Xu",
+    "Zichen Chen",
+    "Nuno Moniz",
+    "Zinan Lin",
+    "Pin-Yu Chen",
+    "Nitesh V. Chawla",
+    "Nouha Dziri",
+    "Huan Sun",
+    "Xiangliang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jg9BGDTsxt",
+   "pdf_url": "https://openreview.net/pdf?id=Jg9BGDTsxt"
+  },
+  {
+   "title": "Entropy-Aware GUI Grounding: From Failure Analysis to Improved Localization",
+   "authors": [
+    "Chengxin Liu",
+    "Moon Ye-Bin",
+    "Tae-Hyun Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l5r6H6bhsm",
+   "pdf_url": null
+  },
+  {
+   "title": "Evolution of Cooperation in LLM Societies : A Multi-Lingual Examination",
+   "authors": [
+    "Kriti Mahajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QcYLAh3lYb",
+   "pdf_url": null
+  },
+  {
+   "title": "Evolutionary System Prompt Learning for Reinforcement Learning in LLMs",
+   "authors": [
+    "Lunjun Zhang",
+    "Ryan Chen",
+    "Bradly C. Stadie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=46SiHbmU1f",
+   "pdf_url": null
+  },
+  {
+   "title": "Explaining is Harder Than Predicting Alone: Evaluating Concept-based Explanations of MLLMs as ICL Visual Classifiers",
+   "authors": [
+    "Carmen Quiles Ramírez",
+    "Leticia Lorena Rodriguez",
+    "Nicolas Martorell",
+    "Natalia Díaz-Rodríguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YMsoofgj67",
+   "pdf_url": null
+  },
+  {
+   "title": "Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models",
+   "authors": [
+    "Sajad Movahedi",
+    "Shlomo Libo Feigin",
+    "Vera Milovanović",
+    "Alexander Theus",
+    "Thomas Hofmann",
+    "Valentina Boeva",
+    "T. Konstantin Rusch",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8HeM93bcCq",
+   "pdf_url": null
+  },
+  {
+   "title": "FormalImG: Evaluating Structural Compositional Generalization for T2I Models",
+   "authors": [
+    "Hong-Jie You",
+    "Jie-Jing Shao",
+    "Xiao-Wen Yang",
+    "Zhi-Fan Wu",
+    "Lin-Han Jia",
+    "Lan-Zhe Guo",
+    "Yu-Feng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pR27pW6KQ1",
+   "pdf_url": "https://openreview.net/pdf?id=pR27pW6KQ1"
+  },
+  {
+   "title": "From Composition to Compositionality: Discovering Reusable Structure in Polyphonic Music Embeddings",
+   "authors": [
+    "Zhijin Guo",
+    "Richard Freedman",
+    "Martha Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bz0G4MOEHG",
+   "pdf_url": null
+  },
+  {
+   "title": "From Mechanistic to Compositional Interpretability",
+   "authors": [
+    "Ward Gauderis",
+    "Thomas Dooms",
+    "Steven T. Homer",
+    "Kola Ayonrinde",
+    "Geraint A. Wiggins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6iSu031PCi",
+   "pdf_url": null
+  },
+  {
+   "title": "From Numbers to Narratives: Goal-Oriented Summarization of Machine Learning Model Differences",
+   "authors": [
+    "Nam Hyeon-Woo",
+    "Tae-Hyun Oh",
+    "Zeynep Akata",
+    "Stephan Alaniz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TrJ8NBXcfc",
+   "pdf_url": null
+  },
+  {
+   "title": "From Self-Preservation to Peer-Preservation: A Staged Framing of Preservation-Oriented Misalignment in Frontier Models",
+   "authors": [
+    "Rundong Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=flXRYTkSHk",
+   "pdf_url": "https://openreview.net/pdf?id=flXRYTkSHk"
+  },
+  {
+   "title": "Fusion is the New Mutation: Bandit-Guided Evolution on Workflow Graphs",
+   "authors": [
+    "Zhiwei Shang",
+    "Jiahang Sun",
+    "Mingrong Gong",
+    "Mingze Kong",
+    "Zikun Qu",
+    "Pingchen Lu",
+    "Junhao Dong",
+    "Zhipiao Liu",
+    "Hongwei Yang",
+    "XIE GUOQING",
+    "Yao Shu",
+    "Zhongxiang Dai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QjmYj6LKTR",
+   "pdf_url": null
+  },
+  {
+   "title": "Gating Enables Curvature: A Geometric Expressivity Gap in Attention",
+   "authors": [
+    "Satwik Bathula",
+    "Anand Joshi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WwLWxe2JVO",
+   "pdf_url": null
+  },
+  {
+   "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+   "authors": [
+    "Anand Kamat",
+    "Daniel Blake",
+    "Brent M. Werness"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y7me4HZQls",
+   "pdf_url": "https://openreview.net/pdf?id=y7me4HZQls"
+  },
+  {
+   "title": "Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DeCompBench",
+   "authors": [
+    "Vikhyath Kothamasu",
+    "Virginia Smith",
+    "Chhavi Yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HsRcy3jNuS",
+   "pdf_url": null
+  },
+  {
+   "title": "HINT: Task Demonstrations for Hierarchical Inference in Abstract Reasoning",
+   "authors": [
+    "Nirlipta Pande",
+    "Georg Niess",
+    "Julian Gutheil",
+    "Roman Kern",
+    "Robert Legenstein",
+    "Robert Peharz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9eE9OWN5Uf",
+   "pdf_url": null
+  },
+  {
+   "title": "How does RL Post-training Induce Skill Composition? A Case Study on Countdown",
+   "authors": [
+    "Simon Park",
+    "Simran Kaur",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ncp6JF7XCx",
+   "pdf_url": null
+  },
+  {
+   "title": "How Many Features Can a Language Model Store Under the Linear Representation Hypothesis?",
+   "authors": [
+    "Nikhil Garg",
+    "Jon Kleinberg",
+    "Kenny Peng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8hvgk6Ssyd",
+   "pdf_url": null
+  },
+  {
+   "title": "IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints",
+   "authors": [
+    "Kyeong Seon Kim",
+    "Jiyeon Son",
+    "Tae-Hyun Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zdfed8pwuk",
+   "pdf_url": null
+  },
+  {
+   "title": "Improving the Compositionality of Triplet-Based Neural Algorithmic Reasoners",
+   "authors": [
+    "Stjepan Požgaj",
+    "Dobrik Georgiev Georgiev",
+    "Marin Šilić",
+    "Goran Delac",
+    "Klemo Vladimir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tFwJ1FMrbZ",
+   "pdf_url": null
+  },
+  {
+   "title": "In-Context Learning Amplifies a Latent Compositional Circuit",
+   "authors": [
+    "Melissa Wessel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XV5M1FS5M1",
+   "pdf_url": null
+  },
+  {
+   "title": "Installing and Obstructing Heuristics: Learning Dynamics in Nim",
+   "authors": [
+    "Leo Villani",
+    "Sultan Daniels",
+    "Ijin Yu",
+    "Anant Sahai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kull6mg0vR",
+   "pdf_url": null
+  },
+  {
+   "title": "Introspective Coupling: LMs Explain Themselves Better Than Training Targets",
+   "authors": [
+    "Zifan Carl Guo",
+    "Laura Ruis",
+    "Jacob Andreas",
+    "Belinda Z. Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6J25xPearK",
+   "pdf_url": null
+  },
+  {
+   "title": "Irreducible Supervision Enables Compositional Generalization in Post-Training",
+   "authors": [
+    "Ellen Ma",
+    "Nikhil Anand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=guVocuLqiQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Language Elicits Emergent Symbol Processing in Vision Foundation Models",
+   "authors": [
+    "Jung-Chun Liu",
+    "Naihao Deng",
+    "Joyce Chai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E2jGVaMUDC",
+   "pdf_url": null
+  },
+  {
+   "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+   "authors": [
+    "Mariya I. Vasileva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a6r2ECEVls",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Compositional Tasks via Trigger Compositions: Using Scratchpads as Pre-Answer Workspaces",
+   "authors": [
+    "Heejin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FZsFCo7kGz",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Theorize the World from Observation",
+   "authors": [
+    "Doojin Baek",
+    "Gyubin Lee",
+    "Junyeob Baek",
+    "Hosung Lee",
+    "Sungjin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eKqSYd9IdW",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning What’s Missing: Failure-Driven Skill Discovery via Predicate Bridges",
+   "authors": [
+    "Yanwen Liu",
+    "Wendi Ren",
+    "Haozhou Gao",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QHBbqj8vNx",
+   "pdf_url": null
+  },
+  {
+   "title": "LGPro: Language-Guided Prototype Discovery for Compositional Zero-Shot Learning",
+   "authors": [
+    "Anna-Alina Bondarets",
+    "Taras Rumezhak",
+    "Volodymyr Karpiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WvvVykgPDL",
+   "pdf_url": "https://openreview.net/pdf?id=WvvVykgPDL"
+  },
+  {
+   "title": "Logit Grafting: The Post-Training Delta is Sparse, Portable, and Powerful",
+   "authors": [
+    "Apurv Verma",
+    "Binh-Nguyen Nguyen",
+    "Hai Phan",
+    "Lingxiao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yWJLnCEKBI",
+   "pdf_url": null
+  },
+  {
+   "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+   "authors": [
+    "Omkar Ghugarkar",
+    "Vishvesh G Bhat",
+    "Muhammad Ahmed Mohsin",
+    "Asad Aali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMpE5w5W8N",
+   "pdf_url": null
+  },
+  {
+   "title": "Meaning Representations as Variational Quantum Circuits",
+   "authors": [
+    "Tilen Gaetano Limbäck-Stokin",
+    "Tanishka Birdavade",
+    "Kin Ian Lo",
+    "Mehrnoosh Sadrzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f9UkhvAZje",
+   "pdf_url": null
+  },
+  {
+   "title": "Measuring the Limits of Continual Learning for LLMs",
+   "authors": [
+    "Nimit Kalra",
+    "Narutatsu Ri",
+    "Zerzar Bukhari",
+    "Ang Li",
+    "Sanae Lotfi",
+    "Liam H Fowl",
+    "Micah Goldblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QIJgTW3Qd2",
+   "pdf_url": null
+  },
+  {
+   "title": "Mitigating Over-Personalization in Language Models via Structured Memory",
+   "authors": [
+    "Hakeem Hannoon",
+    "Andrew Zhao",
+    "Mihir Narayan",
+    "Sharvin Goyal",
+    "Ivaxi Sheth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MBtPTZHtvN",
+   "pdf_url": null
+  },
+  {
+   "title": "MKEvolve: A Modular Multi-Agent Framework for Kernel Code Generation",
+   "authors": [
+    "Jason Yoo",
+    "Rajarshi Saha",
+    "Tao Yu",
+    "Shaowei Zhu",
+    "Wei Tang",
+    "Youngsuk Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8EKm6SPwq7",
+   "pdf_url": null
+  },
+  {
+   "title": "MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning",
+   "authors": [
+    "Wenhui Huang",
+    "Changhe Chen",
+    "Han Qi",
+    "Chen Lv",
+    "Yilun Du",
+    "Heng Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3jek2zD3Rh",
+   "pdf_url": null
+  },
+  {
+   "title": "Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?",
+   "authors": [
+    "Franka Bause",
+    "Jonas Niederle",
+    "Martin Pawelczyk",
+    "Rebekka Burkholz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2VkQ5OgvDa",
+   "pdf_url": null
+  },
+  {
+   "title": "MultiVulnBench: A Large-Scale Benchmark for Count Bias in LLM-Based Multi-Vulnerability Detection",
+   "authors": [
+    "Manan Gupta",
+    "Chinmay Pushkar",
+    "Sanchit Kabra",
+    "Dhruv Kumar",
+    "Jagat Sesh Challa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DGPhiq9Vch",
+   "pdf_url": null
+  },
+  {
+   "title": "Noise-Tolerant Verification of Compositional Boolean Recovery",
+   "authors": [
+    "Pranay Jha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rOuUpMXyvH",
+   "pdf_url": null
+  },
+  {
+   "title": "Not Just RLHF: Why Alignment Alone Won't Fix Multi-Agent Sycophancy",
+   "authors": [
+    "Adarsh Kumarappan",
+    "Ananya Mujoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1Xatp7nc4",
+   "pdf_url": null
+  },
+  {
+   "title": "Nouns, Not Modifiers: OpenVLA Parses Objects but Fails at Spatial Composition",
+   "authors": [
+    "Jin Yoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QfmNSiTkqB",
+   "pdf_url": null
+  },
+  {
+   "title": "On the Role of Learned Alignment Matrices in LatentMAS",
+   "authors": [
+    "Spursh Deshpande",
+    "Wenhao Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=manXhfpRH3",
+   "pdf_url": null
+  },
+  {
+   "title": "Operads for compositional reasoning in LLMs",
+   "authors": [
+    "Nathaniel Bottman",
+    "Kyle Richardson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O0ZoV1yvEC",
+   "pdf_url": null
+  },
+  {
+   "title": "Playing Devil’s Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+   "authors": [
+    "Ishaan Kelkar",
+    "Nebras Alam",
+    "Vikram Kakaria",
+    "Madhur Panwar",
+    "Vasu Sharma",
+    "Maheep Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SlXKeoJsMM",
+   "pdf_url": null
+  },
+  {
+   "title": "Policy Transfer for Hierarchical Goal-Conditioned Reinforcement Learning",
+   "authors": [
+    "Usman Islam",
+    "Zhixun Chen",
+    "Stefanos Leonardos",
+    "Matteo Leonetti",
+    "Yali Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w0Xtn8ryD7",
+   "pdf_url": null
+  },
+  {
+   "title": "Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders",
+   "authors": [
+    "Shunchang Liu",
+    "Xin Chen",
+    "Belen Martin Urcelay",
+    "Francesco Croce"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VVqtSpuwXI",
+   "pdf_url": null
+  },
+  {
+   "title": "Reasoning as State Transition: A Representational Analysis of Reasoning Evolution in Large Language Models",
+   "authors": [
+    "Siyuan Zhang",
+    "Jialian Li",
+    "Yichi Zhang",
+    "Xiao Yang",
+    "Yinpeng Dong",
+    "Hang Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XjTNbRWp3S",
+   "pdf_url": null
+  },
+  {
+   "title": "Reasoning Phases Are Continuous, Not Discrete: Evidence from Switching Linear Dynamical Systems Applied to Chain-of-Thought Residual Streams",
+   "authors": [
+    "Manan Gupta",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5zrmHynvNv",
+   "pdf_url": null
+  },
+  {
+   "title": "Reasoning with Neologisms: Can Soft Tokens Learn Composable Reasoning Skills Without Forgetting?",
+   "authors": [
+    "Antonin Berthon",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9GwiWk3X4c",
+   "pdf_url": null
+  },
+  {
+   "title": "Reflection Anchors for Interpretable Compositional Visual Reasoning in Multimodal Reinforcement Learning",
+   "authors": [
+    "Xuan Gong",
+    "Hanbo Huang",
+    "Hao Zheng",
+    "Yiran Zhang",
+    "Wenbin Dai",
+    "Weishu Zhao",
+    "Shiyu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ntMmMXGVwZ",
+   "pdf_url": "https://openreview.net/pdf?id=ntMmMXGVwZ"
+  },
+  {
+   "title": "Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent",
+   "authors": [
+    "Sriram Balasubramanian",
+    "Soheil Feizi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jqMi5kE6GJ",
+   "pdf_url": null
+  },
+  {
+   "title": "RL Post-Training Builds Compositional Reasoning Strategies",
+   "authors": [
+    "Azwar Abdulsalam",
+    "Nishil Patel",
+    "Andrew M Saxe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=axxZ7UfwZo",
+   "pdf_url": null
+  },
+  {
+   "title": "Safety Cost of Steering Vectors Is Separable and Reducible",
+   "authors": [
+    "Yuxiao Li",
+    "Gjergji Kasneci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u3azKjl3sb",
+   "pdf_url": null
+  },
+  {
+   "title": "Sample Complexity of Scientific Discovery: PAC Learnability of Compositional Function Trees",
+   "authors": [
+    "Şuayp Talha Kocabay",
+    "Talha Rüzgar Akkuş",
+    "Kerem Yalçın"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7KspWvH0w9",
+   "pdf_url": null
+  },
+  {
+   "title": "Separable Representations of Task Complexity and Deliberation in Reasoning Language Models.",
+   "authors": [
+    "Xuan-Quang Nguyen",
+    "Hieu M. Vu",
+    "Dung Viet Nguyen",
+    "Hai Tuan Luu",
+    "Linh Duy Tran",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TMVWAFDtEo",
+   "pdf_url": null
+  },
+  {
+   "title": "Sparse Autoencoders Find Causal, Lineage-Specific Context Features in Chromatin Foundation Models",
+   "authors": [
+    "Nicole Ching",
+    "Ayushi Mehrotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rGwcMct0zv",
+   "pdf_url": null
+  },
+  {
+   "title": "Sparse Memory Finetuning as a Low-Forgetting Alternative to LoRA and Full Finetuning",
+   "authors": [
+    "Prakhar Gupta",
+    "Garv Shah",
+    "Satyam Goyal",
+    "Anirudh Kanchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=24OvODLFpZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Spatial Compositional Counterfactuals in Concept Bottleneck Models",
+   "authors": [
+    "Ran Eisenberg",
+    "Ofir Lindenbaum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MsE7qpzEeL",
+   "pdf_url": "https://openreview.net/pdf?id=MsE7qpzEeL"
+  },
+  {
+   "title": "Spatially Stable GUI Grounding via Zoom Consistency Loss",
+   "authors": [
+    "Moon Ye-Bin",
+    "Jiyeon Son",
+    "Tae-Hyun Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MP8tq1qLU0",
+   "pdf_url": null
+  },
+  {
+   "title": "Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+   "authors": [
+    "Vitória Barin-Pacela",
+    "Shruti Joshi",
+    "Isabela Camacho",
+    "Simon Lacoste-Julien",
+    "David Klindt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3NN3ehMKxW",
+   "pdf_url": null
+  },
+  {
+   "title": "Struct-to-Reason: Enhancing Video Understanding of Vision-Language Models by Decoupling Perception and Reasoning via Structured Summary",
+   "authors": [
+    "Hengyu Liu",
+    "Chenxin Li",
+    "Wenbo Hu",
+    "Zhiqin Yang",
+    "Yuxin Chen",
+    "Ying Shan",
+    "Brandon Y. Feng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFPzRayY1Z",
+   "pdf_url": null
+  },
+  {
+   "title": "Structure over Pixels: Learning Variable-Length Visual Programs",
+   "authors": [
+    "Piotr Wyrwinski",
+    "Kacper Dobek",
+    "Krzysztof Krawiec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GHqVMqPGgq",
+   "pdf_url": null
+  },
+  {
+   "title": "Successor Re-grounding Audits Compositional Rollout Mismatch in Neuro-Symbolic Search",
+   "authors": [
+    "Miroslav Lžičař"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hyjbg3c5rs",
+   "pdf_url": null
+  },
+  {
+   "title": "TAME the BALROG: Task-Adaptive Modular Evolution framework for Game Agents",
+   "authors": [
+    "Ola Aleksandra Pasieka",
+    "Dominika Woszczyk",
+    "Antoine Cully",
+    "Borja G. León"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8244eskFLR",
+   "pdf_url": null
+  },
+  {
+   "title": "The Compositional Generalization Gap in Named Entity Recognition: Static Benchmarks Overestimate Transferable Performance",
+   "authors": [
+    "Varun Kotte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CvSk6qs8nv",
+   "pdf_url": null
+  },
+  {
+   "title": "The Spurious Composition Problem: Conditional Independence as a Necessary and Sufficient Condition for Systematic Generalization",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Soham Batra",
+    "Laksh Patel",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=54b7GJJ4Uz",
+   "pdf_url": null
+  },
+  {
+   "title": "The Theory and Practice of MAP Inference over Non-Convex Constraints",
+   "authors": [
+    "Leander Kurscheidt",
+    "Gabriele Masina",
+    "Roberto Sebastiani",
+    "Antonio Vergari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a2l9quh2ma",
+   "pdf_url": null
+  },
+  {
+   "title": "THEIA: Learning Complete Kleene Three-Valued Logic in a Pure-Neural Modular Architecture",
+   "authors": [
+    "Augustus Haoyang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vntVeRpTe0",
+   "pdf_url": null
+  },
+  {
+   "title": "Toward Compositional Latent Action Interfaces for Generalizable Agents",
+   "authors": [
+    "Heejeong Nam",
+    "Chandradithya S Jonnalagadda",
+    "Harshit Aggarwal",
+    "Eric Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ydAdMQ1ovJ",
+   "pdf_url": null
+  },
+  {
+   "title": "Tracking Training Phases in Compositional Learning with Task-Agnostic Measures",
+   "authors": [
+    "Niclas Dern",
+    "Selma Mazioud",
+    "Jakob Heiss",
+    "Avrajit Ghosh",
+    "Curtis James McDonald",
+    "Gabriel Clara",
+    "Bin Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tNWw6sXmwP",
+   "pdf_url": null
+  },
+  {
+   "title": "Universality, Composition Generalization, and Algorithm Emulation All In-Context",
+   "authors": [
+    "Jerry Yao-Chieh Hu",
+    "Hong-Yu Chen",
+    "Po-Chiao Lin",
+    "Maojiang Su",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qOCTnhx4il",
+   "pdf_url": null
+  },
+  {
+   "title": "Unsafe Only in Combination: Interaction-Barrier Shielding for Tool-Using LLM Agents",
+   "authors": [
+    "Rishabh Bhattacharya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2QHWcC0UC",
+   "pdf_url": null
+  },
+  {
+   "title": "Unsupervised Decomposition with Recombination-Consistent Diffusion Models",
+   "authors": [
+    "Archer Wang",
+    "Emile Timothy Anand",
+    "Yilun Du",
+    "Marin Soljacic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tKNSa3OE6r",
+   "pdf_url": null
+  },
+  {
+   "title": "VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring",
+   "authors": [
+    "Kairui Zhang",
+    "Ziwen Yu",
+    "Zahraa S. Abdallah",
+    "Martha Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zj4NqaShSf",
+   "pdf_url": null
+  },
+  {
+   "title": "Visual Counterfactual Explanations with Compositional Generative Models",
+   "authors": [
+    "Daniil Kirilenko",
+    "Dario Fenoglio",
+    "Martin Gjoreski",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vASRrtTJIi",
+   "pdf_url": null
+  },
+  {
+   "title": "What Do Latent Agents Actually Represent? Interpreting Hidden-State Communication in Multi-Agent Systems",
+   "authors": [
+    "Wenhao Lu",
+    "Spursh Deshpande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UJdeo8SM7F",
+   "pdf_url": null
+  },
+  {
+   "title": "What makes the whole? Probing Attribute-Level Compositionality in LLM Judges",
+   "authors": [
+    "Savita Bhat",
+    "Vasudeva Varma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xd9qriSZQh",
+   "pdf_url": null
+  },
+  {
+   "title": "When Do Diffusion Models learn to Generate Multiple Objects?",
+   "authors": [
+    "Yujin Jeong",
+    "Arnas Uselis",
+    "Iro Laina",
+    "Seong Joon Oh",
+    "Anna Rohrbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FOYyvHK8f4",
+   "pdf_url": null
+  },
+  {
+   "title": "When Do Multi-Agent Systems Outperform? Analysing the Learning Efficiency of Agentic Systems",
+   "authors": [
+    "Junwei Su",
+    "Chuan Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=unqT9ufGXa",
+   "pdf_url": null
+  },
+  {
+   "title": "When Does Composition Compose? A PAC-Theoretic Framework for Compositional Faithfulness, Safety Certificates, and Training Dynamics",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FMMPkAAHHb",
+   "pdf_url": null
+  },
+  {
+   "title": "When Does Disentanglement Enable Compositional Generalization? A Transfer Bound and Its Empirical Validation",
+   "authors": [
+    "Rishi Ashish Shah",
+    "Shivaay Dhondiyal",
+    "Sarthak Pandey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nl7vgE31k8",
+   "pdf_url": null
+  },
+  {
+   "title": "When to Re-Plan: Subgoal Persistence in Hierarchical Latent Reasoning",
+   "authors": [
+    "Ayushi Chadha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7n485sq1xH",
+   "pdf_url": null
+  },
+  {
+   "title": "Where’s the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions",
+   "authors": [
+    "Nicole H. Ma",
+    "Nick Rui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bDaBVKOxMN",
+   "pdf_url": "https://openreview.net/pdf?id=bDaBVKOxMN"
+  },
+  {
+   "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video LLMs",
+   "authors": [
+    "Jongseo Lee",
+    "Hyuntak Lee",
+    "Sunghun Kim",
+    "Sooa Kim",
+    "Jihoon Chung",
+    "Jinwoo Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZtC6nZFV7Y",
+   "pdf_url": null
+  },
+  {
+   "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+   "authors": [
+    "Zijun Wang",
+    "Haoqin Tu",
+    "Letian Zhang",
+    "Hardy Chen",
+    "Juncheng Wu",
+    "Xiangyan Liu",
+    "Zhenlong Yuan",
+    "Tianyu Pang",
+    "Michael Qizhe Shieh",
+    "Fengze Liu",
+    "Zeyu Zheng",
+    "Huaxiu Yao",
+    "Yuyin Zhou",
+    "Cihang Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kWeKYMTMVZ",
+   "pdf_url": null
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/TerraBytes",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:10.514Z",
+ "paper_count": 23,
+ "papers": [
+  {
+   "title": "AirCast: Improving Air Pollution Forecasting Through Multi-Variable Data Alignment",
+   "authors": [
+    "Vishal Nedungadi",
+    "Muhammad Akhtar Munir",
+    "Marc Rußwurm",
+    "Ron Sarafian",
+    "Ioannis N. Athanasiadis",
+    "Yinon Rudich",
+    "Fahad Shahbaz Khan",
+    "Salman Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bUJt8lifOT",
+   "pdf_url": "https://openreview.net/pdf?id=bUJt8lifOT"
+  },
+  {
+   "title": "Deploying Geospatial Foundation Models in the Real World: Lessons from WorldCereal",
+   "authors": [
+    "Christina Butsko",
+    "Gabriel Tseng",
+    "Kristof Van Tricht",
+    "Giorgia Milli",
+    "David Rolnick",
+    "Ruben Cartuyvels",
+    "Inbal Becker Reshef",
+    "Zoltan Szantoi",
+    "Hannah Kerner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eHW9HWitP0",
+   "pdf_url": "https://openreview.net/pdf?id=eHW9HWitP0"
+  },
+  {
+   "title": "End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning",
+   "authors": [
+    "Shengjie Liu",
+    "Lu Zhang",
+    "Siqin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zMIlyzDf3p",
+   "pdf_url": "https://openreview.net/pdf?id=zMIlyzDf3p"
+  },
+  {
+   "title": "Enhancing Generative Seismic Modeling via Paired Dataset Construction Method",
+   "authors": [
+    "Jaehyuk Lee",
+    "Jaeheun Jung",
+    "Hanyoung Kim",
+    "Chang-Hae Jung",
+    "Donghun Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JmT8P9nudc",
+   "pdf_url": "https://openreview.net/pdf?id=JmT8P9nudc"
+  },
+  {
+   "title": "Galileo: Learning Global & Local Features of Many Remote Sensing Modalities",
+   "authors": [
+    "Gabriel Tseng",
+    "Anthony Fuller",
+    "Marlena Reil",
+    "Henry Herzog",
+    "Patrick Beukema",
+    "Favyen Bastani",
+    "James R Green",
+    "Evan Shelhamer",
+    "Hannah Kerner",
+    "David Rolnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a2Qn7lTYWL",
+   "pdf_url": "https://openreview.net/pdf?id=a2Qn7lTYWL"
+  },
+  {
+   "title": "GeoCrossBench: Cross-Band Generalization for Remote Sensing",
+   "authors": [
+    "Hakob Tamazyan",
+    "Ani Vanyan",
+    "Alvard Barseghyan",
+    "Anna Khosrovyan",
+    "Evan Shelhamer",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7MNndxX1Xq",
+   "pdf_url": "https://openreview.net/pdf?id=7MNndxX1Xq"
+  },
+  {
+   "title": "High-Performance Lightweight Vision Models for Land Cover Classification with Coresets and Compression",
+   "authors": [
+    "Tushar Shinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fZ6Jj51tNj",
+   "pdf_url": "https://openreview.net/pdf?id=fZ6Jj51tNj"
+  },
+  {
+   "title": "High-Resolution LFMC Maps for Wildfire Risk From Multimodal Earth Observation Data",
+   "authors": [
+    "Patrick Alan Johnson",
+    "Gabriel Tseng",
+    "Yawen Zhang",
+    "Heather Heward",
+    "Virginia Sjahli",
+    "Favyen Bastani",
+    "Joseph Redmon",
+    "Patrick Beukema"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DxVmDkRYTV",
+   "pdf_url": "https://openreview.net/pdf?id=DxVmDkRYTV"
+  },
+  {
+   "title": "Label-Efficient Hyperspectral Image Classification via Spectral FiLM Modulation of Low-Level Pretrained Diffusion Features",
+   "authors": [
+    "Yuzhen Hu",
+    "Biplab Banerjee",
+    "Saurabh Prasad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l9wTrSu9i9",
+   "pdf_url": "https://openreview.net/pdf?id=l9wTrSu9i9"
+  },
+  {
+   "title": "Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models",
+   "authors": [
+    "Isaac Corley",
+    "Lakshay Sharma",
+    "Ruth Crasto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ab70e2WB19",
+   "pdf_url": "https://openreview.net/pdf?id=ab70e2WB19"
+  },
+  {
+   "title": "Less is More? Data Specialization for Self-Supervised Remote Sensing Models",
+   "authors": [
+    "Alvard Barseghyan",
+    "Ani Vanyan",
+    "Hakob Tamazyan",
+    "Evan Shelhamer",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2nS8UcH2VG",
+   "pdf_url": "https://openreview.net/pdf?id=2nS8UcH2VG"
+  },
+  {
+   "title": "Open-source federated learning across multi cloud environment",
+   "authors": [
+    "Leonardo P. Tizzei",
+    "Gabrielle Nyirjesy",
+    "Levente J Klein",
+    "Theodore van Kessel",
+    "Maciel Zortea",
+    "Marcus Freitag",
+    "ILDAR KHABIBRAKHMANOV",
+    "Hendrik Hamann",
+    "Kamal Das"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qcEiUMXZTn",
+   "pdf_url": "https://openreview.net/pdf?id=qcEiUMXZTn"
+  },
+  {
+   "title": "Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data",
+   "authors": [
+    "Akram Zaytar",
+    "Caleb Robinson",
+    "Girmaw Abebe Tadesse",
+    "Tammy Glazer",
+    "Gilles HACHEME",
+    "Anthony Ortiz",
+    "Rahul M Dodhia",
+    "Juan M Lavista Ferres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kqse3quRaX",
+   "pdf_url": "https://openreview.net/pdf?id=Kqse3quRaX"
+  },
+  {
+   "title": "Resampling Augmentation for Time Series Contrastive Learning: Application to Remote Sensing",
+   "authors": [
+    "Antoine Saget",
+    "Baptiste Lafabregue",
+    "Antoine Cornuéjols",
+    "Pierre Gançarski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K2AIo78B9V",
+   "pdf_url": "https://openreview.net/pdf?id=K2AIo78B9V"
+  },
+  {
+   "title": "Shaping Fine-Tuning of Geospatial Foundation Models: Effects of Label Availability and Temporal Resolution",
+   "authors": [
+    "Giovanni Castiglioni",
+    "Nicolás Gonzalo Isla Fernández",
+    "Cristian Buc Calderon",
+    "Javiera Castillo Navarro",
+    "Sébastien Lefèvre",
+    "Valentin Barriere"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLTEaA2mtC",
+   "pdf_url": "https://openreview.net/pdf?id=CLTEaA2mtC"
+  },
+  {
+   "title": "Smoothing Continual Segmentation Oscillations with Latent Domain PPCA Decoder",
+   "authors": [
+    "Marie-Ange Boum",
+    "Pierre Fournier",
+    "Dawa Derksen",
+    "Stéphane Herbin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gLzh8JDIpp",
+   "pdf_url": "https://openreview.net/pdf?id=gLzh8JDIpp"
+  },
+  {
+   "title": "The Cloud-Based Geospatial Benchmark: Challenges and LLM Evaluation",
+   "authors": [
+    "Jeffrey A. Cardille",
+    "Renee Johnston",
+    "Simon Ilyushchenko",
+    "Johan Kartiwa",
+    "Zahra Shamsi",
+    "Matthew Abraham",
+    "Khashayar Azad",
+    "Kainath Ahmed",
+    "Emma Bergeron Quick",
+    "Nuala Caughie",
+    "Noah Jencz",
+    "Karen Dyson",
+    "Andrea Puzzi Nicolau",
+    "Maria Fernanda Lopez-Ornelas",
+    "David Saah",
+    "Michael Brenner",
+    "Subhashini Venugopalan",
+    "Sameera S Ponda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oaYShIy3Xe",
+   "pdf_url": "https://openreview.net/pdf?id=oaYShIy3Xe"
+  },
+  {
+   "title": "The Missing Piece: Standardising for AI-ready Earth Observation Datasets",
+   "authors": [
+    "Cesar Aybar",
+    "Julio Contreras",
+    "Chen Ma",
+    "Oscar J. Pellicer-Valero",
+    "Gonzalo Mateo-García",
+    "Luis Gómez-Chova",
+    "Gustau Camps-Valls",
+    "Nils Lehmann",
+    "Mikolaj Czerkawski",
+    "David Montero",
+    "Miguel D. Mahecha",
+    "Ingrid Aybar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HV6F0dsGLK",
+   "pdf_url": "https://openreview.net/pdf?id=HV6F0dsGLK"
+  },
+  {
+   "title": "Towards LLM Agents for Earth Observation",
+   "authors": [
+    "Chia Hsiang Kao",
+    "Wenting Zhao",
+    "Shreelekha Revankar",
+    "Samuel Speas",
+    "Snehal Bhagat",
+    "Rajeev Datta",
+    "Cheng Perng Phoo",
+    "Utkarsh Mall",
+    "Carl Vondrick",
+    "Kavita Bala",
+    "Bharath Hariharan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ozeeVxfNd",
+   "pdf_url": "https://openreview.net/pdf?id=1ozeeVxfNd"
+  },
+  {
+   "title": "Towards Scalable Foundation Model for Multi-modal and Multi-spectral Geospatial Data",
+   "authors": [
+    "Haozhe Si",
+    "Yuxuan Wan",
+    "Minh N. Do",
+    "Deepak Vasisht",
+    "Han Zhao",
+    "Hendrik Hamann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PuOclbrcO6",
+   "pdf_url": "https://openreview.net/pdf?id=PuOclbrcO6"
+  },
+  {
+   "title": "Transfer Learning for Onboard Cloud Segmentation in Thermal Earth Observation: From Landsat to a CubeSat Constellation",
+   "authors": [
+    "Niklas Wölki",
+    "Lukas Kondmann",
+    "Christian Mollière",
+    "Martin Langer",
+    "Julia Gottfriedsen",
+    "Martin Werner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XEfg5YE5Mw",
+   "pdf_url": "https://openreview.net/pdf?id=XEfg5YE5Mw"
+  },
+  {
+   "title": "Using Multiple Input Modalities can Improve Data-Efficiency and O.O.D. Generalization for ML with Satellite Imagery",
+   "authors": [
+    "Arjun Rao",
+    "Esther Rolf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p5nSQMPUyo",
+   "pdf_url": "https://openreview.net/pdf?id=p5nSQMPUyo"
+  },
+  {
+   "title": "Where are the Whales: A Human-in-the-loop Detection Method for Identifying Whales in High-resolution Satellite Imagery",
+   "authors": [
+    "Caleb Robinson",
+    "Kimberly T. Goetz",
+    "Christin B. Khan",
+    "Meredith Sackett",
+    "Kathleen Leonard",
+    "Rahul M Dodhia",
+    "Juan M Lavista Ferres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qn3Zsu35Fu",
+   "pdf_url": "https://openreview.net/pdf?id=Qn3Zsu35Fu"
+  }
+ ]
+}

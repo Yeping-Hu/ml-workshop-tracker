@@ -1,0 +1,650 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/ICBINB",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:15.762Z",
+ "paper_count": 56,
+ "papers": [
+  {
+   "title": "A Pilot Study on Doubt Robustness of LLMs in Clinical Prediction Explanation",
+   "authors": [
+    "Juhwan Choi",
+    "Sangchul Hahn",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YDjSctpsix",
+   "pdf_url": "https://openreview.net/pdf?id=YDjSctpsix"
+  },
+  {
+   "title": "AI-rithmetic",
+   "authors": [
+    "Alex Bie",
+    "Travis Dick",
+    "Alex Kulesza",
+    "Prabhakar Raghavan",
+    "Vinod Raman",
+    "Sergei Vassilvitskii"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YxOkL3k8qx",
+   "pdf_url": "https://openreview.net/pdf?id=YxOkL3k8qx"
+  },
+  {
+   "title": "Attention Sinks as Internal Signals for Hallucination Detection in Large Language Models",
+   "authors": [
+    "Jakub Binkowski",
+    "Kamil Adamczewski",
+    "Tomasz Jan Kajdanowicz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LtCoXJmBVK",
+   "pdf_url": "https://openreview.net/pdf?id=LtCoXJmBVK"
+  },
+  {
+   "title": "Barriers to Pareto Steerability in Preference-Conditioned LLM Alignment",
+   "authors": [
+    "Fatemeh Nourzad",
+    "Daouda Sow",
+    "Yingbin Liang",
+    "Ming Shi",
+    "Ming Zhang",
+    "Yunxuan Li",
+    "Eylem Ekici",
+    "Ness Shroff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GVlh3flsqF",
+   "pdf_url": "https://openreview.net/pdf?id=GVlh3flsqF"
+  },
+  {
+   "title": "Beyond Continuity: Challenges of Context Switching in Multi-Turn Dialogue with LLMs",
+   "authors": [
+    "Aditya Sinha",
+    "Harald Steck",
+    "Vito Claudio Ostuni",
+    "Matteo Rinaldi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UbJKvxKAmZ",
+   "pdf_url": "https://openreview.net/pdf?id=UbJKvxKAmZ"
+  },
+  {
+   "title": "Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models",
+   "authors": [
+    "Hicham Eddoubi",
+    "Umar Faruk Abdullahi",
+    "Fadi Hassan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HcRJvRHkYW",
+   "pdf_url": "https://openreview.net/pdf?id=HcRJvRHkYW"
+  },
+  {
+   "title": "Bigger Is Not Better Under Differential Privacy: Optimization Failure at Eleven-Billion Scale in Vision–Language Model Fine-Tuning",
+   "authors": [
+    "Tzuen Su",
+    "Li-Hong Guo",
+    "Yangmi Su",
+    "Cheng-Yen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vPCqkiUovf",
+   "pdf_url": "https://openreview.net/pdf?id=vPCqkiUovf"
+  },
+  {
+   "title": "Can LLMs Perceive Time? An Empirical Investigation",
+   "authors": [
+    "Aniketh Garikaparthi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x8nL1qVPD0",
+   "pdf_url": "https://openreview.net/pdf?id=x8nL1qVPD0"
+  },
+  {
+   "title": "Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?",
+   "authors": [
+    "Apratim Bhattacharyya",
+    "Bicheng Xu",
+    "Sanjay Haresh",
+    "Reza Pourreza",
+    "Litian Liu",
+    "Sunny Panchal",
+    "Pulkit Madan",
+    "Leonid Sigal",
+    "Roland Memisevic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VQ2PtrOAfV",
+   "pdf_url": "https://openreview.net/pdf?id=VQ2PtrOAfV"
+  },
+  {
+   "title": "Challenges in Inference-Time Scaling with Uncertainty-Aware Tree Search",
+   "authors": [
+    "Jacopo Minniti",
+    "Neil Band",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tOSQtPmfGE",
+   "pdf_url": "https://openreview.net/pdf?id=tOSQtPmfGE"
+  },
+  {
+   "title": "Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning",
+   "authors": [
+    "Maggie Ziyu Huan",
+    "Yuetai Li",
+    "Tianyu Zheng",
+    "Xiaoyu Xu",
+    "Seungone Kim",
+    "Minxin Du",
+    "Radha Poovendran",
+    "Graham Neubig",
+    "Xiang Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sB6WgjbiJa",
+   "pdf_url": "https://openreview.net/pdf?id=sB6WgjbiJa"
+  },
+  {
+   "title": "Don't Retrieve, Generate: Prompting LLMs for Synthetic Training Data in Dense Retrieval",
+   "authors": [
+    "Aarush Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H4Kc3jzYjm",
+   "pdf_url": "https://openreview.net/pdf?id=H4Kc3jzYjm"
+  },
+  {
+   "title": "EoRA: Fine-tuning-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation",
+   "authors": [
+    "Shih-Yang Liu",
+    "Maksim Khadkevich",
+    "Nai Chit FUNG",
+    "Charbel Sakr",
+    "Chao-Han Huck Yang",
+    "Chien-Yi Wang",
+    "Saurav Muralidharan",
+    "Hongxu Yin",
+    "Kwang-Ting Cheng",
+    "Jan Kautz",
+    "Yu-Chiang Frank Wang",
+    "Pavlo Molchanov",
+    "Min-Hung Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D3YNi5AN6h",
+   "pdf_url": "https://openreview.net/pdf?id=D3YNi5AN6h"
+  },
+  {
+   "title": "EsoLang-Bench: Evaluating Genuine Reasoning in Large Language Models via Esoteric Programming Languages",
+   "authors": [
+    "Aman Sharma",
+    "Paras Chopra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7KG8ERuf1K",
+   "pdf_url": "https://openreview.net/pdf?id=7KG8ERuf1K"
+  },
+  {
+   "title": "Evaluating Ill-Defined Tasks in Large Language Models",
+   "authors": [
+    "Yi Zhou",
+    "Basel Shbita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ehkR5vMh9K",
+   "pdf_url": "https://openreview.net/pdf?id=ehkR5vMh9K"
+  },
+  {
+   "title": "Evaluation-Conditioned Trojan Attack",
+   "authors": [
+    "Zihan Zhu",
+    "Hanlin Zhang",
+    "Giovanni D'Antonio",
+    "Anton Tsitsulin",
+    "Sham M. Kakade",
+    "Vahab Mirrokni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zyzJ8Vka0D",
+   "pdf_url": "https://openreview.net/pdf?id=zyzJ8Vka0D"
+  },
+  {
+   "title": "Fairness Failure Modes of Multimodal LLMs",
+   "authors": [
+    "Canyu Chen",
+    "Anglin Cai",
+    "Joan Nwatu",
+    "Yale Li",
+    "Han Liu",
+    "Jessica Hullman",
+    "Rada Mihalcea",
+    "Kathleen McKeown",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sWOnyDjDcR",
+   "pdf_url": "https://openreview.net/pdf?id=sWOnyDjDcR"
+  },
+  {
+   "title": "FLUFFINJECTOR: DIAGNOSING LOGICAL CONSISTENCY FAILURES IN CHAIN-OF-THOUGHT REWARD MODELS",
+   "authors": [
+    "Varshith Vijjapu",
+    "Krishiv Ray",
+    "Archana Vaidheeswaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H7Nv5fC5nw",
+   "pdf_url": "https://openreview.net/pdf?id=H7Nv5fC5nw"
+  },
+  {
+   "title": "I Can't Believe It Can't Count: Vision-Language Models Fail at Basic Enumeration Beyond the Subitizing Range",
+   "authors": [
+    "Amirhossein Afsharrad",
+    "Seyed Shahabeddin Mousavi",
+    "Sanjay Lall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oHhyAAncuj",
+   "pdf_url": "https://openreview.net/pdf?id=oHhyAAncuj"
+  },
+  {
+   "title": "I Can't Believe It's Not Robust: Catastrophic Collapse of Safety Classifiers under Embedding Drift",
+   "authors": [
+    "Subramanyam Sahoo",
+    "Vinija Jain",
+    "Divya Chaudhary",
+    "Aman Chadha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lw0XliO84P",
+   "pdf_url": "https://openreview.net/pdf?id=Lw0XliO84P"
+  },
+  {
+   "title": "I Can’t Believe It’s Not Safer: Preference–Safety Disassociation in Clinical LLM Evaluation",
+   "authors": [
+    "Fay Elhassan",
+    "David Sasu",
+    "Lars Henning Klein",
+    "Alexandra V. Kulinkina",
+    "Mary-Anne Hartley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tIoPDldvsc",
+   "pdf_url": "https://openreview.net/pdf?id=tIoPDldvsc"
+  },
+  {
+   "title": "I Can't Believe LLMs Still Can't Write Drama: Multi-Dimensional Failures in Script Continuation",
+   "authors": [
+    "Shijian Ma",
+    "Yunqi Huang",
+    "Lin Yan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9sVGZgUIFz",
+   "pdf_url": "https://openreview.net/pdf?id=9sVGZgUIFz"
+  },
+  {
+   "title": "Improving Proxy Transfer via Intermediate Proxy Tuning",
+   "authors": [
+    "Kevin Kuo",
+    "Ayush Sehgal",
+    "Robert Pare",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V4RHtOVkZ4",
+   "pdf_url": "https://openreview.net/pdf?id=V4RHtOVkZ4"
+  },
+  {
+   "title": "Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure",
+   "authors": [
+    "Viliana Devbunova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=deBzv2S7HZ",
+   "pdf_url": "https://openreview.net/pdf?id=deBzv2S7HZ"
+  },
+  {
+   "title": "Knowing Is Not Seeing. Limits of Physical Problem Solving in VLMs",
+   "authors": [
+    "Karim Elmaaroufi",
+    "Kevin Chon",
+    "Justin Svegliato",
+    "Lakshya A Agrawal",
+    "Matei Zaharia",
+    "Sanjit A. Seshia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NVQPjVNXI9",
+   "pdf_url": "https://openreview.net/pdf?id=NVQPjVNXI9"
+  },
+  {
+   "title": "Language-Dependent Miscalibration in Multilingual LLM Evaluators",
+   "authors": [
+    "Ej Zhou",
+    "Lucas Resck",
+    "Zheng Hui",
+    "Anna Korhonen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vvnTA1aReN",
+   "pdf_url": "https://openreview.net/pdf?id=vvnTA1aReN"
+  },
+  {
+   "title": "Learning State-Tracking from Code: REPL Traces and Probabilistic Automata",
+   "authors": [
+    "Julien Siems",
+    "Riccardo Grazzi",
+    "Kirill Kalinin",
+    "Hitesh Ballani",
+    "Babak Rahmani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZO92hNK7VC",
+   "pdf_url": "https://openreview.net/pdf?id=ZO92hNK7VC"
+  },
+  {
+   "title": "Limits of Difficulty Scaling: Hard Samples Yield Diminishing Returns in GRPO-Tuned SLMs",
+   "authors": [
+    "Suraj Yadav",
+    "Siddharth Yadav",
+    "Parth Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=765Ncc3tQe",
+   "pdf_url": "https://openreview.net/pdf?id=765Ncc3tQe"
+  },
+  {
+   "title": "Lost in Translation: Why SOTA LLMs Struggle with French NLU Frontiers",
+   "authors": [
+    "David Beauchemin",
+    "Yan Tremblay",
+    "Mohamed Amine Youssef",
+    "Richard Khoury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kgGuDl6oIj",
+   "pdf_url": "https://openreview.net/pdf?id=kgGuDl6oIj"
+  },
+  {
+   "title": "More Than a Quick Glance: Overcoming the Greedy Bias in KV-Cache Compression",
+   "authors": [
+    "Aryan Sood",
+    "Tanvi Sharma",
+    "Vansh Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fAeRWQLSmj",
+   "pdf_url": "https://openreview.net/pdf?id=fAeRWQLSmj"
+  },
+  {
+   "title": "NON-MONOTONICITY AND CATASTROPHIC RISK OF PROMPT INTERVENTIONS IN ADVERSARIAL LLM CONTROL",
+   "authors": [
+    "Koki Inoue",
+    "Naoya Takashima",
+    "Hayato Fujihara",
+    "SHUYA HIGUCHI",
+    "Kota Shimomura",
+    "Ryuta Shimogauchi",
+    "Takayoshi Yamashita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HPw77rwbrb",
+   "pdf_url": "https://openreview.net/pdf?id=HPw77rwbrb"
+  },
+  {
+   "title": "Not All Time Is Gregorian: Evaluating LLMs on Cultural Calendar Systems",
+   "authors": [
+    "Deepon Halder",
+    "Adish Pandya",
+    "Raj Dabre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fDeClO4ue0",
+   "pdf_url": "https://openreview.net/pdf?id=fDeClO4ue0"
+  },
+  {
+   "title": "One Step Forward, Two Steps Back: Regression Errors and Cost Inefficiencies in LLM Iterative Refinement for Code Generation",
+   "authors": [
+    "Lucas Teixeira Borges",
+    "RICARDO RIOS"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LeFnGXqPhG",
+   "pdf_url": "https://openreview.net/pdf?id=LeFnGXqPhG"
+  },
+  {
+   "title": "Probing and Steering Chain-of-Thought Unfaithfulness in Language Models",
+   "authors": [
+    "Giovanni Maria Occhipinti",
+    "Alessandro Abate",
+    "Nandi Schoots"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JL8sNbnSWK",
+   "pdf_url": "https://openreview.net/pdf?id=JL8sNbnSWK"
+  },
+  {
+   "title": "QuanBench Plus: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
+   "authors": [
+    "Ali Slim",
+    "Haydar Hamieh",
+    "Jawad Kotaich",
+    "Yehya Ghosn",
+    "Mahdi Chehimi",
+    "Hasan Abed Al Kader Hammoud",
+    "Ammar Mohanna",
+    "Bernard Ghanem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F3oZEssoRk",
+   "pdf_url": "https://openreview.net/pdf?id=F3oZEssoRk"
+  },
+  {
+   "title": "Query Timing Produces Opposite Positional Biases Between LLMs and Humans",
+   "authors": [
+    "Jasin Cekinmez",
+    "Addison J. Wu",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IgMZ1qT7iR",
+   "pdf_url": "https://openreview.net/pdf?id=IgMZ1qT7iR"
+  },
+  {
+   "title": "Random Is Hard to Beat: Active Selection in Online DPO with Modern LLMs",
+   "authors": [
+    "Giyeong Oh",
+    "Junghyun Lee",
+    "Jaehyun Park",
+    "Youngjae Yu",
+    "Wonho Bae",
+    "Junhyug Noh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mgJA1v9j9Z",
+   "pdf_url": "https://openreview.net/pdf?id=mgJA1v9j9Z"
+  },
+  {
+   "title": "Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG",
+   "authors": [
+    "Martin Asenov",
+    "Kenza Benkirane",
+    "Daniel Goldwater",
+    "Aneiss Ghodsi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yhl3fJ6FmU",
+   "pdf_url": "https://openreview.net/pdf?id=Yhl3fJ6FmU"
+  },
+  {
+   "title": "Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting",
+   "authors": [
+    "Ishaan Watts",
+    "Catherine Li",
+    "Sachin Goyal",
+    "Jacob Mitchell Springer",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Wyq3xFFUT",
+   "pdf_url": "https://openreview.net/pdf?id=3Wyq3xFFUT"
+  },
+  {
+   "title": "Spatial Reasoning is Not a Free Lunch: A Controlled Study on LLaVA",
+   "authors": [
+    "Nahid Alam",
+    "Leema Krishna Murali",
+    "Siddhant Bharadwaj",
+    "Patrick Liu",
+    "Timothy Chung",
+    "Drishti Sharma",
+    "Akshata",
+    "Kranthi Kiran GV",
+    "Wesley Tam",
+    "Bala Krishna S Vegesna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ovk8pFHLfu",
+   "pdf_url": "https://openreview.net/pdf?id=ovk8pFHLfu"
+  },
+  {
+   "title": "Style over Substance: LLM-as-a-Judge Fails to Evaluate Multi-Party Social Dialogue",
+   "authors": [
+    "Kunal Samanta",
+    "Faisal Tareque Shohan",
+    "Amine Trabelsi",
+    "Richard Khoury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QXDuX4E2uX",
+   "pdf_url": "https://openreview.net/pdf?id=QXDuX4E2uX"
+  },
+  {
+   "title": "Synthetic Error Injection Fails to Elicit Self-Correction In Language Models",
+   "authors": [
+    "David Xing Wu",
+    "Shreyas Kapur",
+    "Anant Sahai",
+    "Stuart Russell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S2gMXQvgy4",
+   "pdf_url": "https://openreview.net/pdf?id=S2gMXQvgy4"
+  },
+  {
+   "title": "The $\\Psi$ Paradox in Extreme Superposition: When ETF Alignment Does Not Predict Language Model Generalization",
+   "authors": [
+    "Hyunjun Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wfd5V3WTZ4",
+   "pdf_url": "https://openreview.net/pdf?id=Wfd5V3WTZ4"
+  },
+  {
+   "title": "The Anatomy of Uncertainty in LLMs",
+   "authors": [
+    "Aditya Taparia",
+    "Ransalu Senanayake",
+    "Kowshik Thopalli",
+    "Vivek Narayanaswamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0GYclsjLUb",
+   "pdf_url": "https://openreview.net/pdf?id=0GYclsjLUb"
+  },
+  {
+   "title": "The Continuous Space Gap: Why VLMs Fail in Continuous Geometric Reasoning",
+   "authors": [
+    "Yikun Zong",
+    "Cheston Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=By89vT3e33",
+   "pdf_url": "https://openreview.net/pdf?id=By89vT3e33"
+  },
+  {
+   "title": "The Cost of Consistency: Why Cross-Plane Contrastive Learning Fails to Bridge the Gap Between MedSAM-3 and nnU-Net",
+   "authors": [
+    "Madhu Shree Aravindan",
+    "Aaditi V Bajpai",
+    "Ramamoorthy Sriramulu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MFP1dwt3Hk",
+   "pdf_url": "https://openreview.net/pdf?id=MFP1dwt3Hk"
+  },
+  {
+   "title": "The Limits of Long-Context Reasoning in Automated Bug Fixing",
+   "authors": [
+    "Ravi Shanker Raju",
+    "Mengmeng Ji",
+    "Shubhangi Upasani",
+    "Bo Li",
+    "Urmish Thakker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ga19Uze57b",
+   "pdf_url": "https://openreview.net/pdf?id=Ga19Uze57b"
+  },
+  {
+   "title": "The Low-Frequency Trap: Why Scaling Doesn't Solve Simple Temporal Counting",
+   "authors": [
+    "Sarvesh Baskar",
+    "Muhammad R. Islam",
+    "Zikui Cai",
+    "Ankit Nakhawa",
+    "Anirudh Satheesh",
+    "Tom Goldstein",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r6kwHy6oeO",
+   "pdf_url": "https://openreview.net/pdf?id=r6kwHy6oeO"
+  },
+  {
+   "title": "The Missing Red Line: How Commercial Pressure Erodes AI Safety Boundaries",
+   "authors": [
+    "Nora Petrova",
+    "John Burden"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ev58E64j0n",
+   "pdf_url": "https://openreview.net/pdf?id=ev58E64j0n"
+  },
+  {
+   "title": "The Selective Safety Trap: How LLMs Scaling and Alignment Fail to Generalize Across Minority Demographics",
+   "authors": [
+    "Iago Alves Brito",
+    "Walcy Rios",
+    "Julia Soares Dollis",
+    "Diogo Fernandes Costa Silva",
+    "Arlindo Rodrigues Galvão Filho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3oV1EhPSn2",
+   "pdf_url": "https://openreview.net/pdf?id=3oV1EhPSn2"
+  },
+  {
+   "title": "Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap",
+   "authors": [
+    "Yueqian Lin",
+    "Zhengmian Hu",
+    "Qinsi Wang",
+    "Yudong Liu",
+    "Hengfan Zhang",
+    "Jayakumar Subramanian",
+    "Nikos Vlassis",
+    "Hai Helen Li",
+    "Yiran Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g7bY03Vsuj",
+   "pdf_url": "https://openreview.net/pdf?id=g7bY03Vsuj"
+  },
+  {
+   "title": "When can you TRUST Large Language Models?",
+   "authors": [
+    "Radu Paradovschi",
+    "Darvin Yi",
+    "Andrew Rabinovich",
+    "Zhao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5EIiw8AePD",
+   "pdf_url": "https://openreview.net/pdf?id=5EIiw8AePD"
+  },
+  {
+   "title": "When Lie Detectors Learn Model Identity: Confounds in Black-Box Sandbagging Detection",
+   "authors": [
+    "Lin Yulong",
+    "Pablo Bernabeu-Perez",
+    "Benjamin Arnav",
+    "Lennie Wells",
+    "Mary Phuong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rb7BWE6qFE",
+   "pdf_url": "https://openreview.net/pdf?id=rb7BWE6qFE"
+  },
+  {
+   "title": "When Rubrics Backfire: Systematic Preference Drift in LLM Judges",
+   "authors": [
+    "Ruomeng Ding",
+    "Yifei Pang",
+    "He Sun",
+    "Yizhong Wang",
+    "Steven Wu",
+    "Zhun Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2SjhmdF9Sw",
+   "pdf_url": "https://openreview.net/pdf?id=2SjhmdF9Sw"
+  },
+  {
+   "title": "WHEN STABILITY FAILS: HIDDEN FAILURE MODES OF LLMS IN DATA-CONSTRAINED SCIENTIFIC DECISION-MAKING",
+   "authors": [
+    "Nazia Riasat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vf8vs2ibso",
+   "pdf_url": "https://openreview.net/pdf?id=vf8vs2ibso"
+  },
+  {
+   "title": "Why Large Language Models Fail for Hausa Educational Content: Cascading Errors from Translation to Speech to Comprehension",
+   "authors": [
+    "Honour-Jesus Bezaleel",
+    "Pearse Jim",
+    "Moses Daudu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CDUmuLCDVw",
+   "pdf_url": "https://openreview.net/pdf?id=CDUmuLCDVw"
+  }
+ ]
+}

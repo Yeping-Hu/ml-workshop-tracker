@@ -1,0 +1,487 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/NeuroAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:50.967Z",
+ "paper_count": 43,
+ "papers": [
+  {
+   "title": "A call for intrinsic learning",
+   "authors": [
+    "Andy Kitchen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SimFKxPelz",
+   "pdf_url": "https://openreview.net/pdf?id=SimFKxPelz"
+  },
+  {
+   "title": "A Hopfield network model of neuromodulatory arousal state",
+   "authors": [
+    "Mohammed Abdal Monium Osman",
+    "Kai Fox",
+    "Joshua Isaac Stern"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sMhh9O7erA",
+   "pdf_url": "https://openreview.net/pdf?id=sMhh9O7erA"
+  },
+  {
+   "title": "A Walsh Hadamard Derived Linear Vector Symbolic Architecture",
+   "authors": [
+    "Mohammad Mahmudul Alam",
+    "Alexander Oberle",
+    "Edward Raff",
+    "Stella Biderman",
+    "Tim Oates",
+    "James Holt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8PUy9xVjby",
+   "pdf_url": "https://openreview.net/pdf?id=8PUy9xVjby"
+  },
+  {
+   "title": "Asynchronous Hebbian/anti-Hebbian networks",
+   "authors": [
+    "Henrique Reis Aguiar",
+    "Matthias H. Hennig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xxdUVzOPWe",
+   "pdf_url": "https://openreview.net/pdf?id=xxdUVzOPWe"
+  },
+  {
+   "title": "Beyond Directed Acyclic Computation Graph with Cyclic Neural Network",
+   "authors": [
+    "Liangwei Yang",
+    "Hengrui Zhang",
+    "Weizhi Zhang",
+    "Zihe Song",
+    "Jing Ma",
+    "Jiawei Zhang",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YSJW2qNTlk",
+   "pdf_url": "https://openreview.net/pdf?id=YSJW2qNTlk"
+  },
+  {
+   "title": "Brain in the Dark: Design Principles for Neuromimetic Inference under the Free Energy Principle",
+   "authors": [
+    "Mehran Hossein Zadeh Bazargani",
+    "Szymon Urbas",
+    "Karl Friston"
+   ],
+   "forum_url": "https://openreview.net/forum?id=noN17FcjMB",
+   "pdf_url": "https://openreview.net/pdf?id=noN17FcjMB"
+  },
+  {
+   "title": "Common visual learning constraints in transformers and newborn brains: Evidence from line drawings",
+   "authors": [
+    "Lalit Pandey",
+    "Samantha Marie Waters Wood",
+    "Justin Newell Wood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vHqwunHvRN",
+   "pdf_url": "https://openreview.net/pdf?id=vHqwunHvRN"
+  },
+  {
+   "title": "Decoupling the Contributions of Spatio-Temporal Coding: From ANNs to SNNs",
+   "authors": [
+    "Yihao Li",
+    "Hanle Zheng",
+    "Jiaxin Guo",
+    "Lei Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uzFLOMJPH4",
+   "pdf_url": "https://openreview.net/pdf?id=uzFLOMJPH4"
+  },
+  {
+   "title": "Doing More with Less: Computational Role of Information Structure in Neural Networks based on Entropy Maximization",
+   "authors": [
+    "Alexandre Pitti",
+    "Claudio Weidmann",
+    "Krzysztof Lebioda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hUUa9Jpwk0",
+   "pdf_url": "https://openreview.net/pdf?id=hUUa9Jpwk0"
+  },
+  {
+   "title": "Dyadic Learning in Recurrent and Feedforward Models",
+   "authors": [
+    "Rasmus Høier",
+    "Kirill Kalinin",
+    "Maxence Ernoult",
+    "Christopher Zach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kTiaRgZ3gt",
+   "pdf_url": "https://openreview.net/pdf?id=kTiaRgZ3gt"
+  },
+  {
+   "title": "Dynamics Based Neural Encoding with Inter-Intra Region Connectivity",
+   "authors": [
+    "Mai Gamal",
+    "Mohamed Rashad Abdel Hamid",
+    "Eman Ehab Nasef",
+    "Seif Eldawlatly",
+    "Mennatullah Siam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LG2qgcQ5T5",
+   "pdf_url": "https://openreview.net/pdf?id=LG2qgcQ5T5"
+  },
+  {
+   "title": "Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building",
+   "authors": [
+    "Jaedong Hwang",
+    "Zhang-Wei Hong",
+    "Eric R Chen",
+    "Akhilan Boopathy",
+    "Pulkit Agrawal",
+    "Ila R Fiete"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bmUUynN7Rm",
+   "pdf_url": "https://openreview.net/pdf?id=bmUUynN7Rm"
+  },
+  {
+   "title": "Hierarchical Control of Reaching Movements Via Compositional Gain Modulation",
+   "authors": [
+    "Alessandro Salatiello",
+    "Martin A. Giese"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X3be6c7LYG",
+   "pdf_url": "https://openreview.net/pdf?id=X3be6c7LYG"
+  },
+  {
+   "title": "Homeostasis-aware Direct Spike Encoding for Deep Spiking Neural Networks",
+   "authors": [
+    "Yechan Kang",
+    "Mingyeong Seo",
+    "Jeonghee Jo",
+    "Hyun Jae Jang",
+    "Jongkil Park",
+    "Jaewook Kim",
+    "Suyoun Lee",
+    "Jinkyu Kim",
+    "Seongsik Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uvsa7vFWcT",
+   "pdf_url": "https://openreview.net/pdf?id=Uvsa7vFWcT"
+  },
+  {
+   "title": "How do Active Dendrite Networks Mitigate Catastrophic Forgetting?",
+   "authors": [
+    "Sankarshan Damle",
+    "Satya Lokam",
+    "Navin Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NoMgGHzJEG",
+   "pdf_url": "https://openreview.net/pdf?id=NoMgGHzJEG"
+  },
+  {
+   "title": "Improving out-of-distribution generalization by mimicking the human visual diet.",
+   "authors": [
+    "Spandan Madan",
+    "You Li",
+    "Mengmi Zhang",
+    "Hanspeter Pfister",
+    "Gabriel Kreiman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvhkdGwQ19",
+   "pdf_url": "https://openreview.net/pdf?id=RvhkdGwQ19"
+  },
+  {
+   "title": "Invariant Spatiotemporal Representation Learning for Cross-patient Seizure Classification",
+   "authors": [
+    "Yuntian Wu",
+    "Yuntian Yang",
+    "Jiabao Sean Xiao",
+    "Chuan Zhou",
+    "Haochen Sui",
+    "Haoxuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ex6wAivo7G",
+   "pdf_url": "https://openreview.net/pdf?id=Ex6wAivo7G"
+  },
+  {
+   "title": "Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding",
+   "authors": [
+    "Po-Chen Kuo",
+    "Han Hou",
+    "Will Dabney",
+    "Edgar Y. Walker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rtwbxaEtvd",
+   "pdf_url": "https://openreview.net/pdf?id=rtwbxaEtvd"
+  },
+  {
+   "title": "Liquid Resistance Liquid Capacitance Networks",
+   "authors": [
+    "Mónika Farsang",
+    "Sophie A. Neubauer",
+    "Radu Grosu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DzCxA1iovy",
+   "pdf_url": "https://openreview.net/pdf?id=DzCxA1iovy"
+  },
+  {
+   "title": "Multiple temporal credit assignment rules achieve comparable neural data similarity",
+   "authors": [
+    "Yuhan Helena Liu",
+    "Guangyu Robert Yang",
+    "Christopher J Cueva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kEKkagB98d",
+   "pdf_url": "https://openreview.net/pdf?id=kEKkagB98d"
+  },
+  {
+   "title": "Natural Language-guided Neural Encoding Benchmark for Vision",
+   "authors": [
+    "Taha Razzaq",
+    "Hisan Naeem",
+    "Asim Iqbal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sGLqjAVep4",
+   "pdf_url": "https://openreview.net/pdf?id=sGLqjAVep4"
+  },
+  {
+   "title": "Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift",
+   "authors": [
+    "Kingson Man",
+    "Antonio Damasio",
+    "Hartmut Neven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ryVUkFPfdF",
+   "pdf_url": "https://openreview.net/pdf?id=ryVUkFPfdF"
+  },
+  {
+   "title": "NetFormer: An interpretable model for recovering identity and structure in neural population dynamics",
+   "authors": [
+    "Wuwei Zhang",
+    "Ziyu Lu",
+    "Trung Le",
+    "Hao Wang",
+    "Uygar Sümbül",
+    "Eric Todd SheaBrown",
+    "Lu Mi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YqRy8LlCwt",
+   "pdf_url": "https://openreview.net/pdf?id=YqRy8LlCwt"
+  },
+  {
+   "title": "Neural Embedding Ranks: Aligning 3D latent dynamics with movement for long-term decoding",
+   "authors": [
+    "Chenggang Chen",
+    "Zhiyu Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bhEbz31fRG",
+   "pdf_url": "https://openreview.net/pdf?id=bhEbz31fRG"
+  },
+  {
+   "title": "Neuron-Astrocyte Associative Memory",
+   "authors": [
+    "Leo Kozachkov",
+    "Jean-Jacques Slotine",
+    "Dmitry Krotov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h1pL7JiKsA",
+   "pdf_url": "https://openreview.net/pdf?id=h1pL7JiKsA"
+  },
+  {
+   "title": "Not so griddy: Internal representations of RNNs path integrating more than one agent",
+   "authors": [
+    "William T Redman",
+    "Francisco Acosta",
+    "Santiago Acosta-Mendoza",
+    "Nina Miolane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HX0e4xDsg9",
+   "pdf_url": "https://openreview.net/pdf?id=HX0e4xDsg9"
+  },
+  {
+   "title": "Parallel Decision-Making yields Disentangled World Models: Impact and Implications",
+   "authors": [
+    "Pantelis Vafidis",
+    "Aman Bhargava",
+    "Antonio Rangel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LWPoA68TFT",
+   "pdf_url": "https://openreview.net/pdf?id=LWPoA68TFT"
+  },
+  {
+   "title": "Partial observation can induce mechanistic mismatches in data-constrained RNNs",
+   "authors": [
+    "William Qian",
+    "Jacob A Zavatone-Veth",
+    "Benjamin Samuel Ruben",
+    "Cengiz Pehlevan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sNPrj9y70u",
+   "pdf_url": "https://openreview.net/pdf?id=sNPrj9y70u"
+  },
+  {
+   "title": "Path Divergence Objective: Boundedly-Rational Decision Making in Partially Observable Environments",
+   "authors": [
+    "Tomáš Gavenčiak",
+    "David Hyland",
+    "Lancelot Da Costa",
+    "Michael J. Wooldridge",
+    "Jan Kulveit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4dc15FtIaD",
+   "pdf_url": "https://openreview.net/pdf?id=4dc15FtIaD"
+  },
+  {
+   "title": "Population Transformer: Learning Population-level Representations of Intracranial Activity",
+   "authors": [
+    "Geeling Chau",
+    "Christopher Wang",
+    "Sabera J Talukder",
+    "Vighnesh Subramaniam",
+    "Saraswati Soedarmadji",
+    "Yisong Yue",
+    "Boris Katz",
+    "Andrei Barbu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hVYGABOWY1",
+   "pdf_url": "https://openreview.net/pdf?id=hVYGABOWY1"
+  },
+  {
+   "title": "Predictive Coding Graphs are a Superset of Feedforward Neural Networks",
+   "authors": [
+    "Björn van Zwol"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J36z3R0sNq",
+   "pdf_url": "https://openreview.net/pdf?id=J36z3R0sNq"
+  },
+  {
+   "title": "Predictive Learning Induces Probabilistic Cognitive Maps",
+   "authors": [
+    "Yeowon Kim",
+    "Yul HR Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O9bbw7BLmP",
+   "pdf_url": "https://openreview.net/pdf?id=O9bbw7BLmP"
+  },
+  {
+   "title": "Proliferation of cosine-tuning in both artificial spiking and cortical neural networks during learning",
+   "authors": [
+    "Tengjun Liu",
+    "Yansong Chua",
+    "Yiwei Zhang",
+    "Yuxiao Ning",
+    "Guihua Wan",
+    "Zijun Wan",
+    "Shaomin Zhang",
+    "Weidong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TYk2ygbsqp",
+   "pdf_url": "https://openreview.net/pdf?id=TYk2ygbsqp"
+  },
+  {
+   "title": "Prospective Learning: Learning for a Dynamic Future",
+   "authors": [
+    "Ashwin De Silva",
+    "Rahul Ramesh",
+    "Rubing Yang",
+    "Siyu Yu",
+    "Joshua T Vogelstein",
+    "Pratik Chaudhari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jv3is7S152",
+   "pdf_url": "https://openreview.net/pdf?id=Jv3is7S152"
+  },
+  {
+   "title": "RNN Replay: Leakage and Underdamped Dynamics",
+   "authors": [
+    "Josue Casco-Rodriguez",
+    "Richard Baraniuk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oe3aBqmaQp",
+   "pdf_url": "https://openreview.net/pdf?id=Oe3aBqmaQp"
+  },
+  {
+   "title": "SynapsNet: Enhancing Neuronal Population Dynamics Modeling via Learning Functional Connectivity",
+   "authors": [
+    "Parsa Delavari",
+    "Ipek Oruc",
+    "Timothy H Murphy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DQTWA7Zn8w",
+   "pdf_url": "https://openreview.net/pdf?id=DQTWA7Zn8w"
+  },
+  {
+   "title": "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning",
+   "authors": [
+    "Dulhan Jayalath",
+    "Gilad Landau",
+    "Brendan Shillingford",
+    "Mark Woolrich",
+    "Oiwi Parker Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=difYimVjC9",
+   "pdf_url": "https://openreview.net/pdf?id=difYimVjC9"
+  },
+  {
+   "title": "The Role of Cortical Varibility in Supporting Few-shot Generalization: Theory and Empirical Evidence",
+   "authors": [
+    "Praveen Venkatesh",
+    "Jiaqi Shang",
+    "Corbett C Bennett",
+    "Sam Gale",
+    "Greggory Robert Heller",
+    "Tamina Keira Ramirez",
+    "Severine Durand",
+    "Eric Todd SheaBrown",
+    "Shawn R Olsen",
+    "Stefan Mihalas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2FWkTBtSWJ",
+   "pdf_url": "https://openreview.net/pdf?id=2FWkTBtSWJ"
+  },
+  {
+   "title": "Towards zero-shot adaptation of predictive models of neurons encoding posterior probability",
+   "authors": [
+    "Suhas Shrinivasan",
+    "Ralf M Haefner",
+    "Fabian H. Sinz",
+    "Edgar Y. Walker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9duWgO4HuQ",
+   "pdf_url": "https://openreview.net/pdf?id=9duWgO4HuQ"
+  },
+  {
+   "title": "Uncovering Neural Encoding Variability with Infinite Gaussian Process Factor Analysis",
+   "authors": [
+    "Changmin Yu",
+    "Máté Lengyel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RUkMMpiSbM",
+   "pdf_url": "https://openreview.net/pdf?id=RUkMMpiSbM"
+  },
+  {
+   "title": "Value of Information and Reward Specification in Active Inference and POMDPs",
+   "authors": [
+    "Ran Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZyQvVHlRLD",
+   "pdf_url": "https://openreview.net/pdf?id=ZyQvVHlRLD"
+  },
+  {
+   "title": "What should a neuron aim for? Designing local objective functions based on information theory",
+   "authors": [
+    "Andreas Christian Schneider",
+    "Valentin Neuhaus",
+    "David Alexander Ehrlich",
+    "Alexander S Ecker",
+    "Abdullah Makkeh",
+    "Viola Priesemann",
+    "Michael Wibral"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bs7056BKVf",
+   "pdf_url": "https://openreview.net/pdf?id=Bs7056BKVf"
+  },
+  {
+   "title": "Why learn if you can infer? Robot arm control with Hierarchical Active Inference",
+   "authors": [
+    "Corrado Pezzato",
+    "Christopher Buckley",
+    "Tim Verbelen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VOUzuCeNVi",
+   "pdf_url": "https://openreview.net/pdf?id=VOUzuCeNVi"
+  }
+ ]
+}

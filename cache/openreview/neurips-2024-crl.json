@@ -1,0 +1,417 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/CRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:28.974Z",
+ "paper_count": 37,
+ "papers": [
+  {
+   "title": "A Causality-Inspired Spatial-Temporal Return Decomposition Approach for Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Yudi Zhang",
+    "Yali Du",
+    "Biwei Huang",
+    "Meng Fang",
+    "Mykola Pechenizkiy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tlNkThyt18",
+   "pdf_url": "https://openreview.net/pdf?id=tlNkThyt18"
+  },
+  {
+   "title": "A Novel Application of SCMs to Time Series Counterfactual Estimation in the Pharmaceutical Industry",
+   "authors": [
+    "Tomas Garriga",
+    "Gerard Sanz",
+    "Eduard Serrahima de Cambra",
+    "Axel Brando"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zh8WGoQYRt",
+   "pdf_url": "https://openreview.net/pdf?id=zh8WGoQYRt"
+  },
+  {
+   "title": "A Shadow Variable Approach to Causal Decision Making with One-sided Feedback",
+   "authors": [
+    "Jianing Chu",
+    "Shu Yang",
+    "Wenbin Lu",
+    "PULAK GHOSH"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IbTZy5so6a",
+   "pdf_url": "https://openreview.net/pdf?id=IbTZy5so6a"
+  },
+  {
+   "title": "Beyond Causal Discovery for Astronomy: Learning Meaningful Representations with Independent Component Analysis",
+   "authors": [
+    "Zehao Jin",
+    "Mario Pasquato",
+    "Benjamin L. Davis",
+    "Andrea Maccio",
+    "Yashar Hezaveh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bygf3JeFDb",
+   "pdf_url": "https://openreview.net/pdf?id=Bygf3JeFDb"
+  },
+  {
+   "title": "Causal Discovery in Linear Models with Unobserved Variables and Measurement Error",
+   "authors": [
+    "Yuqin Yang",
+    "Mohamed S Nafea",
+    "Negar Kiyavash",
+    "Kun Zhang",
+    "AmirEmad Ghassami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L1Zfs3wgCg",
+   "pdf_url": "https://openreview.net/pdf?id=L1Zfs3wgCg"
+  },
+  {
+   "title": "Causal Inference under Differential Privacy: Challenges and Mitigation Strategies",
+   "authors": [
+    "Amirhossein Farzam",
+    "Guillermo Sapiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eRGO2XLO66",
+   "pdf_url": "https://openreview.net/pdf?id=eRGO2XLO66"
+  },
+  {
+   "title": "Causal Order Discovery based on Monotonic SCMs",
+   "authors": [
+    "Ali Izadi",
+    "Martin Ester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H4HiE54x8f",
+   "pdf_url": "https://openreview.net/pdf?id=H4HiE54x8f"
+  },
+  {
+   "title": "Causal Representation Learning for Cross-Patient Seizure Classification",
+   "authors": [
+    "Chunyuan Zheng",
+    "Yan Lyu",
+    "Taojun Hu",
+    "Xiaoxin Liu",
+    "Xiao-Hua Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SPn3D5I52v",
+   "pdf_url": "https://openreview.net/pdf?id=SPn3D5I52v"
+  },
+  {
+   "title": "Causal Retrieval with Semantic Consideration",
+   "authors": [
+    "Hyunseo Shin",
+    "Wonseok Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JuylcmuDu4",
+   "pdf_url": "https://openreview.net/pdf?id=JuylcmuDu4"
+  },
+  {
+   "title": "CSRec: Rethinking Sequential Recommendation from A Causal Perspective.",
+   "authors": [
+    "Xiaoyu Liu",
+    "Jiaxin Yuan",
+    "Yuhang Zhou",
+    "Jingling Li",
+    "Furong Huang",
+    "Wei Ai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xQsG4PizpV",
+   "pdf_url": "https://openreview.net/pdf?id=xQsG4PizpV"
+  },
+  {
+   "title": "DAG-aware Transformer for Causal Effect Estimation",
+   "authors": [
+    "Manqing Liu",
+    "David Remy Bellamy",
+    "Andrew Beam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sG6tdKozS7",
+   "pdf_url": "https://openreview.net/pdf?id=sG6tdKozS7"
+  },
+  {
+   "title": "Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data",
+   "authors": [
+    "Sophia M Rein",
+    "Jing Li",
+    "Miguel Hernan",
+    "Andrew Beam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vaq838CcYV",
+   "pdf_url": "https://openreview.net/pdf?id=vaq838CcYV"
+  },
+  {
+   "title": "Differentiable Causal Discovery for Latent Hierarchical Causal Models",
+   "authors": [
+    "Parjanya Prajakta Prashant",
+    "Ignavier Ng",
+    "Kun Zhang",
+    "Biwei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xCMWKnqon3",
+   "pdf_url": "https://openreview.net/pdf?id=xCMWKnqon3"
+  },
+  {
+   "title": "Estimating Treatment Effect across Heterogeneous Data Sources: An Instrumental Variable Approach",
+   "authors": [
+    "Haotian Wang",
+    "Haoxuan Li",
+    "Wenjing Yang",
+    "Hao Zou",
+    "Wanrong Huang",
+    "Kun Kuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MoK5EjILUk",
+   "pdf_url": "https://openreview.net/pdf?id=MoK5EjILUk"
+  },
+  {
+   "title": "From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding",
+   "authors": [
+    "Henri Arno",
+    "Paloma Rabaey",
+    "Thomas Demeester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wizeKpiYOb",
+   "pdf_url": "https://openreview.net/pdf?id=wizeKpiYOb"
+  },
+  {
+   "title": "General Causal Imputation via Synthetic Interventions",
+   "authors": [
+    "Marco Jiralerspong",
+    "Thomas Jiralerspong",
+    "Vedant Shah",
+    "Dhanya Sridhar",
+    "Gauthier Gidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lY0BBfQ4TE",
+   "pdf_url": "https://openreview.net/pdf?id=lY0BBfQ4TE"
+  },
+  {
+   "title": "Improving Causal Transplant Outcomes through Dynamic Organ Offer Estimation",
+   "authors": [
+    "Alessandro Marchese",
+    "Hans de Ferrante",
+    "Jeroen Berrevoets",
+    "Sam Verboven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UKiqOj7G7I",
+   "pdf_url": "https://openreview.net/pdf?id=UKiqOj7G7I"
+  },
+  {
+   "title": "Interaction Asymmetry: A General Principle for Learning Composable Abstractions",
+   "authors": [
+    "Jack Brady",
+    "Julius von Kügelgen",
+    "Sebastien Lachapelle",
+    "Simon Buchholz",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t8k90FgiOV",
+   "pdf_url": "https://openreview.net/pdf?id=t8k90FgiOV"
+  },
+  {
+   "title": "Learning Joint Interventional Effects from Single-Variable Interventions in Additive Models",
+   "authors": [
+    "Armin Kekić",
+    "Sergio Hernan Garrido Mejia",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tm6ihtCwSC",
+   "pdf_url": "https://openreview.net/pdf?id=tm6ihtCwSC"
+  },
+  {
+   "title": "Leveraging a Simulator for Learning Causal Representations for CATE from Post-Treatment Covariates",
+   "authors": [
+    "Lokesh Nagalapatti",
+    "Pranava Singhal",
+    "Avishek Ghosh",
+    "Sunita Sarawagi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u0jY6W22HL",
+   "pdf_url": "https://openreview.net/pdf?id=u0jY6W22HL"
+  },
+  {
+   "title": "LLMs as Emotion Analyzers for Causal Models: Partial Identification with Fuzzy Interval Data",
+   "authors": [
+    "Huidi Ma",
+    "Wendao Xue",
+    "Yifan Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nXZOHRLEaq",
+   "pdf_url": "https://openreview.net/pdf?id=nXZOHRLEaq"
+  },
+  {
+   "title": "MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment",
+   "authors": [
+    "Ziyan Wang",
+    "Yali Du",
+    "Yudi Zhang",
+    "Meng Fang",
+    "Biwei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q4j90OcaEI",
+   "pdf_url": "https://openreview.net/pdf?id=q4j90OcaEI"
+  },
+  {
+   "title": "On Domain Generalization Datasets as Proxy Benchmarks for Causal Representation Learning",
+   "authors": [
+    "Olawale Elijah Salaudeen",
+    "Nicole Chiou",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LbFK9pUlA5",
+   "pdf_url": "https://openreview.net/pdf?id=LbFK9pUlA5"
+  },
+  {
+   "title": "On the role of prognostic factors and effect modifiers in structural causal models",
+   "authors": [
+    "Rianne M. Schouten"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SROG5JLi2N",
+   "pdf_url": "https://openreview.net/pdf?id=SROG5JLi2N"
+  },
+  {
+   "title": "Pilot Analysis for: Learning to Encode Multi-level Dynamics in Effect Heterogeneity Estimation",
+   "authors": [
+    "Fucheng Warren Zhu",
+    "Connor Thomas Jerzak",
+    "Adel Daoud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IYmHx29Pmr",
+   "pdf_url": "https://openreview.net/pdf?id=IYmHx29Pmr"
+  },
+  {
+   "title": "Robust Domain Generalisation with Causal Invariant Bayesian Neural Networks",
+   "authors": [
+    "Gael Gendron",
+    "Michael Witbrock",
+    "Gillian Dobbie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PjF5vmWeNg",
+   "pdf_url": "https://openreview.net/pdf?id=PjF5vmWeNg"
+  },
+  {
+   "title": "Robust Multi-view Co-expression Network Inference",
+   "authors": [
+    "Teodora Pandeva",
+    "Martijs Johannes Jonker",
+    "Leendert Hamoen",
+    "Joris Mooij",
+    "Patrick Forré"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p4uNaqE4Im",
+   "pdf_url": "https://openreview.net/pdf?id=p4uNaqE4Im"
+  },
+  {
+   "title": "Score-Based Interaction Testing in Pairwise Experiments",
+   "authors": [
+    "Jana Osea",
+    "Zuheng Xu",
+    "Cian Eastwood",
+    "Jason Hartford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kaIkk7yN3z",
+   "pdf_url": "https://openreview.net/pdf?id=kaIkk7yN3z"
+  },
+  {
+   "title": "Since Faithfulness Fails: The Performance Limits of Neural Causal Discovery",
+   "authors": [
+    "Mateusz Olko",
+    "Mateusz Gajewski",
+    "Joanna Wojciechowska",
+    "Łukasz Kuciński",
+    "Mikołaj Morzy",
+    "Piotr Sankowski",
+    "Piotr Miłoś"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rfp5kJL623",
+   "pdf_url": "https://openreview.net/pdf?id=rfp5kJL623"
+  },
+  {
+   "title": "Spectral Representation for Causal Estimation with Hidden Confounders",
+   "authors": [
+    "Tongzheng Ren",
+    "Haotian Sun",
+    "Antoine Moulin",
+    "Arthur Gretton",
+    "Bo Dai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rlGKrX96cE",
+   "pdf_url": "https://openreview.net/pdf?id=rlGKrX96cE"
+  },
+  {
+   "title": "Systems with Switching Causal Relations: A Meta-Causal Perspective",
+   "authors": [
+    "Moritz Willig",
+    "Tim Tobiasch",
+    "Florian Peter Busch",
+    "Jonas Seng",
+    "Devendra Singh Dhami",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aMuFZK7Tl8",
+   "pdf_url": "https://openreview.net/pdf?id=aMuFZK7Tl8"
+  },
+  {
+   "title": "Teaching Invariance Using Privileged Mediation Information",
+   "authors": [
+    "Dylan Zapzalka",
+    "Maggie Makar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MfmQPUVl1T",
+   "pdf_url": "https://openreview.net/pdf?id=MfmQPUVl1T"
+  },
+  {
+   "title": "Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series",
+   "authors": [
+    "Thomas Schwarz",
+    "Cecilia Casolo",
+    "Niki Kilbertus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PJ9H8e8Wfq",
+   "pdf_url": "https://openreview.net/pdf?id=PJ9H8e8Wfq"
+  },
+  {
+   "title": "Uncovering Latent Causal Structures from Spatiotemporal Data",
+   "authors": [
+    "Kun Wang",
+    "Sumanth Varambally",
+    "Duncan Watson-Parris",
+    "Yian Ma",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4GuPT5Y86K",
+   "pdf_url": "https://openreview.net/pdf?id=4GuPT5Y86K"
+  },
+  {
+   "title": "Unifying Causal Representation Learning with the Invariance Principle",
+   "authors": [
+    "Dingling Yao",
+    "Dario Rancati",
+    "Riccardo Cadei",
+    "Marco Fumero",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O4vOPw9ZcT",
+   "pdf_url": "https://openreview.net/pdf?id=O4vOPw9ZcT"
+  },
+  {
+   "title": "Unsupervised Causal Abstraction",
+   "authors": [
+    "Yuchen Zhu",
+    "Sergio Hernan Garrido Mejia",
+    "Bernhard Schölkopf",
+    "Michel Besserve"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BP0e8RvFwd",
+   "pdf_url": "https://openreview.net/pdf?id=BP0e8RvFwd"
+  },
+  {
+   "title": "Zero-Shot Learning of Causal Models",
+   "authors": [
+    "Divyat Mahajan",
+    "Jannes Gladrow",
+    "Agrin Hilmkil",
+    "Cheng Zhang",
+    "Meyer Scetbon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yk0UIuRmyz",
+   "pdf_url": "https://openreview.net/pdf?id=Yk0UIuRmyz"
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Red_Teaming_GenAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:00.222Z",
+ "paper_count": 38,
+ "papers": [
+  {
+   "title": "A Formal Framework for Assessing and Mitigating Emergent Security Risks in Generative AI Models: Bridging Theory and Dynamic Risk Mitigation",
+   "authors": [
+    "Aviral Srivastava",
+    "Sourav Panda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2wZJJOItPz",
+   "pdf_url": "https://openreview.net/pdf?id=2wZJJOItPz"
+  },
+  {
+   "title": "A Realistic Threat Model for Large Language Model Jailbreaks",
+   "authors": [
+    "Valentyn Boreiko",
+    "Alexander Panfilov",
+    "Vaclav Voracek",
+    "Matthias Hein",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VUWOpnG3vp",
+   "pdf_url": "https://openreview.net/pdf?id=VUWOpnG3vp"
+  },
+  {
+   "title": "Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models",
+   "authors": [
+    "Hongfu Liu",
+    "Yuxi Xie",
+    "Ye Wang",
+    "Michael Shieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LHKPrcKzgf",
+   "pdf_url": "https://openreview.net/pdf?id=LHKPrcKzgf"
+  },
+  {
+   "title": "Adversarial Negotiation Dynamics in Generative Language Models",
+   "authors": [
+    "Arinbjörn Kolbeinsson",
+    "Benedikt Kolbeinsson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hs4TpneACp",
+   "pdf_url": "https://openreview.net/pdf?id=Hs4TpneACp"
+  },
+  {
+   "title": "Algorithmic Oversight for Deceptive Reasoning",
+   "authors": [
+    "Ege Onur Taga",
+    "Mingchen Li",
+    "Yongqi Chen",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4jXxNymZU4",
+   "pdf_url": "https://openreview.net/pdf?id=4jXxNymZU4"
+  },
+  {
+   "title": "Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs",
+   "authors": [
+    "Aly M. Kassem",
+    "Omar Mahmoud",
+    "Niloofar Mireshghallah",
+    "Hyunwoo Kim",
+    "Yulia Tsvetkov",
+    "Yejin Choi",
+    "Sherif Saad",
+    "Santu Rana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PRzU4NWxly",
+   "pdf_url": "https://openreview.net/pdf?id=PRzU4NWxly"
+  },
+  {
+   "title": "An Adversarial Perspective on Machine Unlearning for AI Safety",
+   "authors": [
+    "Jakub Łucki",
+    "Boyi Wei",
+    "Yangsibo Huang",
+    "Peter Henderson",
+    "Florian Tramèr",
+    "Javier Rando"
+   ],
+   "forum_url": "https://openreview.net/forum?id=crF0NFfKWG",
+   "pdf_url": "https://openreview.net/pdf?id=crF0NFfKWG"
+  },
+  {
+   "title": "Attack Atlas: A Practitioner's Perspective on Challenges and Pitfalls in Red Teaming GenAI",
+   "authors": [
+    "Ambrish Rawat",
+    "Stefan Schoepf",
+    "Giulio Zizzo",
+    "Giandomenico Cornacchia",
+    "Muhammad Zaid Hameed",
+    "Kieran Fraser",
+    "Erik Miehling",
+    "Beat Buesser",
+    "Elizabeth M. Daly",
+    "Mark Purcell",
+    "Prasanna Sattigeri",
+    "Pin-Yu Chen",
+    "Kush R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xQOna5pRLv",
+   "pdf_url": "https://openreview.net/pdf?id=xQOna5pRLv"
+  },
+  {
+   "title": "Between the Bars: Gradient-based Jailbreaks are Bugs that induce Features",
+   "authors": [
+    "Kaivalya Hariharan",
+    "Uzay Girit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i0tMl7ECsW",
+   "pdf_url": "https://openreview.net/pdf?id=i0tMl7ECsW"
+  },
+  {
+   "title": "Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding",
+   "authors": [
+    "Haneul Yoo",
+    "Yongjin Yang",
+    "Hwaran Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BJChoAAryc",
+   "pdf_url": "https://openreview.net/pdf?id=BJChoAAryc"
+  },
+  {
+   "title": "CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation",
+   "authors": [
+    "Tong Chen",
+    "Akari Asai",
+    "Niloofar Mireshghallah",
+    "Sewon Min",
+    "James Grimmelmann",
+    "Yejin Choi",
+    "Hannaneh Hajishirzi",
+    "Luke Zettlemoyer",
+    "Pang Wei Koh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L57d1kIMzq",
+   "pdf_url": "https://openreview.net/pdf?id=L57d1kIMzq"
+  },
+  {
+   "title": "Curiosity-driven Red teaming for Large Language Models",
+   "authors": [
+    "Zhang-Wei Hong",
+    "Idan Shenfeld",
+    "Tsun-Hsuan Wang",
+    "Yung-Sung Chuang",
+    "Aldo Pareja",
+    "James R. Glass",
+    "Akash Srivastava",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J2no5aZ5qG",
+   "pdf_url": "https://openreview.net/pdf?id=J2no5aZ5qG"
+  },
+  {
+   "title": "Decoding Biases: An Analysis of Automated Methods and Metrics for Gender Bias Detection in Language Models",
+   "authors": [
+    "Shachi H. Kumar",
+    "Saurav Sahay",
+    "Sahisnu Mazumder",
+    "Eda Okur",
+    "Ramesh Manuvinakurike",
+    "Nicole Marie Beckage",
+    "Hsuan Su",
+    "Hung-yi Lee",
+    "Lama Nachman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tIYMiYz6Bf",
+   "pdf_url": "https://openreview.net/pdf?id=tIYMiYz6Bf"
+  },
+  {
+   "title": "Decompose, Recompose, and Conquer: Multi-modal LLMs are Vulnerable to Compositional Adversarial Attacks in Multi-Image Queries",
+   "authors": [
+    "Julius Broomfield",
+    "George Ingebretsen",
+    "Reihaneh Iranmanesh",
+    "Sara Pieri",
+    "Ethan Kosak-Hine",
+    "Tom Gibbs",
+    "Reihaneh Rabbany",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TJND4kO0WV",
+   "pdf_url": "https://openreview.net/pdf?id=TJND4kO0WV"
+  },
+  {
+   "title": "Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning",
+   "authors": [
+    "Alex Beutel",
+    "Kai Yuanqing Xiao",
+    "Johannes Heidecke",
+    "Lilian Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wYUM9FnQJs",
+   "pdf_url": "https://openreview.net/pdf?id=wYUM9FnQJs"
+  },
+  {
+   "title": "Does Refusal Training in LLMs Generalize to the Past Tense?",
+   "authors": [
+    "Maksym Andriushchenko",
+    "Nicolas Flammarion"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MMq1003bB3",
+   "pdf_url": "https://openreview.net/pdf?id=MMq1003bB3"
+  },
+  {
+   "title": "Failures to Find Transferable Image Jailbreaks Between Vision-Language Models",
+   "authors": [
+    "Rylan Schaeffer",
+    "Dan Valentine",
+    "Luke Bailey",
+    "James Chua",
+    "Zane Durante",
+    "Cristobal Eyzaguirre",
+    "Joe Benton",
+    "Brando Miranda",
+    "Henry Sleight",
+    "Tony Tong Wang",
+    "John Hughes",
+    "Rajashree Agrawal",
+    "Mrinank Sharma",
+    "Scott Emmons",
+    "Sanmi Koyejo",
+    "Ethan Perez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QyG1H6Euk8",
+   "pdf_url": "https://openreview.net/pdf?id=QyG1H6Euk8"
+  },
+  {
+   "title": "Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage",
+   "authors": [
+    "Md Rafi Ur Rashid",
+    "Jing Liu",
+    "Toshiaki Koike-Akino",
+    "Shagufta Mehnaz",
+    "Ye Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X3POPfIxux",
+   "pdf_url": "https://openreview.net/pdf?id=X3POPfIxux"
+  },
+  {
+   "title": "iART - Imitation guided Automated Red Teaming",
+   "authors": [
+    "Sajad Mousavi",
+    "Desik Rengarajan",
+    "Ashwin Ramesh Babu",
+    "Vineet Gundecha",
+    "Avisek Naug",
+    "Sahand Ghorbanpour",
+    "Ricardo Luna Gutierrez",
+    "Antonio Guillen",
+    "Paolo Faraboschi",
+    "Soumyendu Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NgzQg9HFLg",
+   "pdf_url": "https://openreview.net/pdf?id=NgzQg9HFLg"
+  },
+  {
+   "title": "Infecting LLM Agents via Generalizable Adversarial Attack",
+   "authors": [
+    "Weichen Yu",
+    "Kai Hu",
+    "Tianyu Pang",
+    "Chao Du",
+    "Min Lin",
+    "Matt Fredrikson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=udsmFGMwlp",
+   "pdf_url": "https://openreview.net/pdf?id=udsmFGMwlp"
+  },
+  {
+   "title": "Interactive Semantic Interventions for VLMs: Breaking VLMs with Human Ingenuity",
+   "authors": [
+    "Lukas Klein",
+    "Kenza Amara",
+    "Carsten T. Lüth",
+    "Hendrik Strobelt",
+    "Mennatallah El-Assady",
+    "Paul F Jaeger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ph7K9SFx9O",
+   "pdf_url": "https://openreview.net/pdf?id=ph7K9SFx9O"
+  },
+  {
+   "title": "Keep on Swimming: Real Attackers Only Need Partial Knowledge of a Multi-Model System",
+   "authors": [
+    "Julian Collado",
+    "Kevin Stangl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tJ3uaAaJaE",
+   "pdf_url": "https://openreview.net/pdf?id=tJ3uaAaJaE"
+  },
+  {
+   "title": "Large Language Model Detoxification: Data and Metric Solutions",
+   "authors": [
+    "SungJoo Byun",
+    "Hyopil Shin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gbpqc4gH9H",
+   "pdf_url": "https://openreview.net/pdf?id=gbpqc4gH9H"
+  },
+  {
+   "title": "Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning",
+   "authors": [
+    "Seanie Lee",
+    "Minsu Kim",
+    "Lynn Cherif",
+    "David Dobre",
+    "Juho Lee",
+    "Sung Ju Hwang",
+    "Kenji Kawaguchi",
+    "Gauthier Gidel",
+    "Yoshua Bengio",
+    "Nikolay Malkin",
+    "Moksh Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nnGITZZw9N",
+   "pdf_url": "https://openreview.net/pdf?id=nnGITZZw9N"
+  },
+  {
+   "title": "Lessons From Red Teaming 100 Generative AI Products",
+   "authors": [
+    "Blake Bullwinkel",
+    "Amanda J. Minnich",
+    "Shiven Chawla",
+    "Gary David Lopez Munoz",
+    "Martin Pouliot",
+    "Whitney Maxwell",
+    "Joris de Gruyter",
+    "Katherine Pratt",
+    "Saphir Qi",
+    "Nina Chikanov",
+    "Roman Lutz",
+    "Raja Sekhar Rao Dheekonda",
+    "Bolor-Erdene Jagdagdorj",
+    "Rich Lundeen",
+    "Sam Vaughan",
+    "Victoria Westerhoff",
+    "Pete Bryan",
+    "Ram Shankar Siva Kumar",
+    "Yonatan Zunger",
+    "Mark Russinovich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=auiAIKsJXg",
+   "pdf_url": "https://openreview.net/pdf?id=auiAIKsJXg"
+  },
+  {
+   "title": "LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet",
+   "authors": [
+    "Nathaniel Li",
+    "Ziwen Han",
+    "Ian Steneker",
+    "Willow E. Primack",
+    "Riley Goodside",
+    "Hugh Zhang",
+    "Zifan Wang",
+    "Cristina Menghini",
+    "Summer Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZmQX402jWC",
+   "pdf_url": "https://openreview.net/pdf?id=ZmQX402jWC"
+  },
+  {
+   "title": "LLM-Assisted Red Teaming of Diffusion Models through \"Failures Are Fated, But Can Be Faded\"",
+   "authors": [
+    "Som Sagar",
+    "Aditya Taparia",
+    "Ransalu Senanayake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=COUulQLNE2",
+   "pdf_url": "https://openreview.net/pdf?id=COUulQLNE2"
+  },
+  {
+   "title": "MedAIScout: Automated Retrieval of Known Machine Learning Vulnerabilities in Medical Applications",
+   "authors": [
+    "Athish Pranav Dharmalingam",
+    "Gargi Mitra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=utPmTD3w3f",
+   "pdf_url": "https://openreview.net/pdf?id=utPmTD3w3f"
+  },
+  {
+   "title": "Plentiful Jailbreaks with String Compositions",
+   "authors": [
+    "Brian R.Y. Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LpDuW1nDL7",
+   "pdf_url": "https://openreview.net/pdf?id=LpDuW1nDL7"
+  },
+  {
+   "title": "Rethinking LLM Memorization through the Lens of Adversarial Compression",
+   "authors": [
+    "Avi Schwarzschild",
+    "Zhili Feng",
+    "Pratyush Maini",
+    "Zachary Chase Lipton",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oMOoNzcuFO",
+   "pdf_url": "https://openreview.net/pdf?id=oMOoNzcuFO"
+  },
+  {
+   "title": "SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming",
+   "authors": [
+    "Anurakt Kumar",
+    "Divyanshu Kumar",
+    "Jatan Loya",
+    "Nitin Aravind Birur",
+    "Tanay Baswa",
+    "Sahil Agarwal",
+    "Prashanth Harshangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ftHy6rA8LL",
+   "pdf_url": "https://openreview.net/pdf?id=ftHy6rA8LL"
+  },
+  {
+   "title": "Semantic Membership Inference Attack against Large Language Models",
+   "authors": [
+    "Hamid Mozaffari",
+    "Virendra Marathe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pHEGIrqcNx",
+   "pdf_url": "https://openreview.net/pdf?id=pHEGIrqcNx"
+  },
+  {
+   "title": "SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization",
+   "authors": [
+    "Hanxi Guo",
+    "Siyuan Cheng",
+    "Guanhong Tao",
+    "Guangyu Shen",
+    "ZHUO ZHANG",
+    "Shengwei An",
+    "Kaiyuan Zhang",
+    "Xiangyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QPdVqbcBgi",
+   "pdf_url": "https://openreview.net/pdf?id=QPdVqbcBgi"
+  },
+  {
+   "title": "Stability Evaluation of Large Language Models via Distributional Perturbation Analysis",
+   "authors": [
+    "Jiashuo Liu",
+    "Jiajin Li",
+    "Peng Cui",
+    "Jose Blanchet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cXADLtYkQq",
+   "pdf_url": "https://openreview.net/pdf?id=cXADLtYkQq"
+  },
+  {
+   "title": "Steganography in Large Language Models: Investigating Emergence and Mitigations",
+   "authors": [
+    "Yohan Mathew",
+    "Robert McCarthy",
+    "Ollie Matthews",
+    "Joan Velja",
+    "Nandi Schoots",
+    "Dylan Cope"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WwGWMAktQY",
+   "pdf_url": "https://openreview.net/pdf?id=WwGWMAktQY"
+  },
+  {
+   "title": "Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints",
+   "authors": [
+    "Jonathan Nöther",
+    "Adish Singla",
+    "Goran Radanovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ubHqq3qpZD",
+   "pdf_url": "https://openreview.net/pdf?id=ubHqq3qpZD"
+  },
+  {
+   "title": "TOFU: A Task of Fictitious Unlearning for LLMs",
+   "authors": [
+    "Pratyush Maini",
+    "Zhili Feng",
+    "Avi Schwarzschild",
+    "Zachary Chase Lipton",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P8seBluN3c",
+   "pdf_url": "https://openreview.net/pdf?id=P8seBluN3c"
+  },
+  {
+   "title": "What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks",
+   "authors": [
+    "Nathalie Maria Kirch",
+    "Severin Field",
+    "Stephen Casper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6CaDi1RRS1",
+   "pdf_url": "https://openreview.net/pdf?id=6CaDi1RRS1"
+  }
+ ]
+}

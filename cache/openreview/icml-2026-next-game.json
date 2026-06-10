@@ -1,0 +1,655 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/NExT-Game",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:02.037Z",
+ "paper_count": 64,
+ "papers": [
+  {
+   "title": "A Causal Approach to Game Theory",
+   "authors": [
+    "Aurghya Maiti",
+    "Prateek Jain",
+    "Elias Bareinboim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M4snBwmVtn",
+   "pdf_url": "https://openreview.net/pdf?id=M4snBwmVtn"
+  },
+  {
+   "title": "A Minimal Decision Capacity Threshold Prevents Catastrophic Exploitation in Self-Play RL",
+   "authors": [
+    "Arahan Kujur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zKRQHRcmng",
+   "pdf_url": "https://openreview.net/pdf?id=zKRQHRcmng"
+  },
+  {
+   "title": "Adversarial Training with Large Step Sizes: Implicit Bias and Evolution of Sharpness",
+   "authors": [
+    "Yi Feng",
+    "Andrea Paudice",
+    "Stratis Skoulakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HLq4IwkUJv",
+   "pdf_url": "https://openreview.net/pdf?id=HLq4IwkUJv"
+  },
+  {
+   "title": "AgentSociety: Incentivizing Agentic Social Intelligence",
+   "authors": [
+    "Aditya Vema Reddy Kesari",
+    "Krishna Reddy Kesari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZFxoLhycA",
+   "pdf_url": "https://openreview.net/pdf?id=TZFxoLhycA"
+  },
+  {
+   "title": "AlphaZero in Sparsely Rewarded Games: Limits and Auxiliary Supervision",
+   "authors": [
+    "Brent Kong",
+    "Tejas Ram",
+    "Tony Yue YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UTuYL2AkcU",
+   "pdf_url": "https://openreview.net/pdf?id=UTuYL2AkcU"
+  },
+  {
+   "title": "Attention as Natural Gradient: In-Context Mirror Descent for Opponent Modelling",
+   "authors": [
+    "Alexander Chernyavskiy",
+    "Natalia Gusarova",
+    "Aleksandra Vatian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W1Ta00wVlK",
+   "pdf_url": "https://openreview.net/pdf?id=W1Ta00wVlK"
+  },
+  {
+   "title": "Bayesian Persuasion with a Risk-Conscious Receiver",
+   "authors": [
+    "Yujing Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TB9NhkX4Uu",
+   "pdf_url": "https://openreview.net/pdf?id=TB9NhkX4Uu"
+  },
+  {
+   "title": "Bellman-Local Lyapunov Barriers for Exact Stationary Nash Learning in Discounted Perfect-Information Stochastic Games",
+   "authors": [
+    "Manoj Saravanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=277YGRqIOn",
+   "pdf_url": "https://openreview.net/pdf?id=277YGRqIOn"
+  },
+  {
+   "title": "Beyond Scalar Rewards: Dense Feedback for LLM Policy Synthesis in Sequential Social Dilemmas",
+   "authors": [
+    "Victor Gallego"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cnBEqoLMFz",
+   "pdf_url": "https://openreview.net/pdf?id=cnBEqoLMFz"
+  },
+  {
+   "title": "Beyond Task Success: Evaluating Cooperation in LLM-Based Multi Agent Systems",
+   "authors": [
+    "Ashish Raj Shekhar",
+    "Saniya Mulla",
+    "Upasana Biswas",
+    "Priyanuj Bordoloi",
+    "Vivek Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vcpVCPAsSP",
+   "pdf_url": "https://openreview.net/pdf?id=vcpVCPAsSP"
+  },
+  {
+   "title": "Bridging Game Theory and Transformer Routing: Mean Field Equilibria for Mixture of Experts",
+   "authors": [
+    "Nevroz Sen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mtaa2o5aVc",
+   "pdf_url": "https://openreview.net/pdf?id=Mtaa2o5aVc"
+  },
+  {
+   "title": "COMRAD: A Benchmark for Embodied Cooperative Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Khoi H.B. Nguyen",
+    "Dimitar Zhivkov Zhekov",
+    "Tristan Tomilin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXau6dlyV4",
+   "pdf_url": "https://openreview.net/pdf?id=bXau6dlyV4"
+  },
+  {
+   "title": "Designing Training Objectives for Iterative Reasoning Agents: Dense Supervision as an Adaptive Mechanism",
+   "authors": [
+    "Bao N Nguyen Truong",
+    "Hoyeon Chang",
+    "Alexander Rubinstein",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eghyVQKpEV",
+   "pdf_url": "https://openreview.net/pdf?id=eghyVQKpEV"
+  },
+  {
+   "title": "Do Prompted Strategic Personas Influence Decision Making in Large Language Models? A Chess-Based Experimental Study",
+   "authors": [
+    "AADIT SHAH",
+    "Yash Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iFtBu00knb",
+   "pdf_url": "https://openreview.net/pdf?id=iFtBu00knb"
+  },
+  {
+   "title": "Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines",
+   "authors": [
+    "Xiyang Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qAqRaJb7Jy",
+   "pdf_url": "https://openreview.net/pdf?id=qAqRaJb7Jy"
+  },
+  {
+   "title": "EMAgnet: Parameter-Space EMA Regularization for Policy Gradient Self-Play in Large Games",
+   "authors": [
+    "Tristan Maidment",
+    "JB Lanier",
+    "Chase McDonald",
+    "Nathan Tsang",
+    "Eugene Vinitsky",
+    "Roy Fox",
+    "Albert Wang",
+    "Wesley N. Kerr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x5lMkhguw2",
+   "pdf_url": "https://openreview.net/pdf?id=x5lMkhguw2"
+  },
+  {
+   "title": "EngineLab: Evaluating Strategic Generalization Under Rule Shifts",
+   "authors": [
+    "Tianyi Evans Gu",
+    "Lucas Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFNDnnuTSf",
+   "pdf_url": "https://openreview.net/pdf?id=xFNDnnuTSf"
+  },
+  {
+   "title": "Equilibrium Selection in Multi-Agent Policy Gradients via Opponent-Aware Basin Entry",
+   "authors": [
+    "Yevhen Shcherbinin",
+    "Arina Redina",
+    "Maxim Kalpin",
+    "Vlad Kochetov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gxrPZFFD9h",
+   "pdf_url": "https://openreview.net/pdf?id=gxrPZFFD9h"
+  },
+  {
+   "title": "Failure Modes in AI Retraining Dynamics",
+   "authors": [
+    "Kiarash Banihashem",
+    "Natalie Collina",
+    "Aleksandrs Slivkins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CPV8DL8jvv",
+   "pdf_url": "https://openreview.net/pdf?id=CPV8DL8jvv"
+  },
+  {
+   "title": "Fair Robust Strategic Classification under Decision-Dependent Cost Uncertainty",
+   "authors": [
+    "Sura Alhanouti",
+    "Guzin Bayraksan",
+    "Parinaz Naghizadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C1zfSQbsmp",
+   "pdf_url": "https://openreview.net/pdf?id=C1zfSQbsmp"
+  },
+  {
+   "title": "First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint",
+   "authors": [
+    "Ziqi Liu",
+    "Kiljae Lee",
+    "Yuan Zhang",
+    "Weijing Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lXebi6hKvs",
+   "pdf_url": "https://openreview.net/pdf?id=lXebi6hKvs"
+  },
+  {
+   "title": "From Risk Scoring to Risk Allocation:  A Density-Driven Framework for Diverse Monitoring in Multi-Agent Systems",
+   "authors": [
+    "Zhaohui Geoffrey Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QjMIOBxlKS",
+   "pdf_url": "https://openreview.net/pdf?id=QjMIOBxlKS"
+  },
+  {
+   "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+   "authors": [
+    "Pepijn Cobben",
+    "Xuanqiang Angelo Huang",
+    "Thao Amelia Pham",
+    "Isabel Dahlgren",
+    "Bernhard Schölkopf",
+    "Terry Jingchen Zhang",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RNunzKtXKk",
+   "pdf_url": "https://openreview.net/pdf?id=RNunzKtXKk"
+  },
+  {
+   "title": "In-Context Credit Assignment via the Core",
+   "authors": [
+    "Keegan Harris",
+    "Siddharth Prasad",
+    "Asher Trockman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a739ubV0kh",
+   "pdf_url": "https://openreview.net/pdf?id=a739ubV0kh"
+  },
+  {
+   "title": "Incentive design in sequential statistical protocols",
+   "authors": [
+    "Drew T Nguyen",
+    "Alireza Fallah",
+    "Michael I. Jordan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VKt5UOOYCK",
+   "pdf_url": "https://openreview.net/pdf?id=VKt5UOOYCK"
+  },
+  {
+   "title": "Kantian Equilibrium in the Age of Multi-Agent Systems",
+   "authors": [
+    "Ivan Samoylenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hizxbjrwxO",
+   "pdf_url": "https://openreview.net/pdf?id=hizxbjrwxO"
+  },
+  {
+   "title": "Learned Coordination Conventions in Cooperative MARL: Measuring the Translation Gap Between Theory-Informed Roles and Learned Routing",
+   "authors": [
+    "Yoosung Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JpqbBp9xzK",
+   "pdf_url": "https://openreview.net/pdf?id=JpqbBp9xzK"
+  },
+  {
+   "title": "Learning Bidding Strategies for Karma Economies in Realistic Traffic Settings with Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Anastasia Psarou",
+    "Kevin Riehl",
+    "Matej Jusup",
+    "Anastasios Kouvelas",
+    "Michail A. Makridis",
+    "Rafal Kucharski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3wYiSIWiNd",
+   "pdf_url": "https://openreview.net/pdf?id=3wYiSIWiNd"
+  },
+  {
+   "title": "Learning to Diffuse: Mechanism Design in Social Networks with Information Propagation Costs",
+   "authors": [
+    "Sebastiano Messina",
+    "Tatjana Chavdarova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YORmPd1hO2",
+   "pdf_url": "https://openreview.net/pdf?id=YORmPd1hO2"
+  },
+  {
+   "title": "Learning to Mediate Equilibrium Selection in LLM Games",
+   "authors": [
+    "Miao Liu",
+    "Matthew Riemer",
+    "Maria Chang",
+    "Murray Campbell",
+    "Djallel Bouneffouf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6ydgxgMHct",
+   "pdf_url": "https://openreview.net/pdf?id=6ydgxgMHct"
+  },
+  {
+   "title": "LERA: LLM-Enhanced RAG for Ad Auction in Generative Chatbots",
+   "authors": [
+    "Haoran Sun",
+    "Xinrui Song",
+    "Xinyu Zhang",
+    "Zhaohua Chen",
+    "Xu Chu",
+    "Zhilin Zhang",
+    "Chuan Yu",
+    "Jian Xu",
+    "Bo Zheng",
+    "Xiaotie Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1qBCuQMX9l",
+   "pdf_url": "https://openreview.net/pdf?id=1qBCuQMX9l"
+  },
+  {
+   "title": "MafiaPersona: A Multi-Agent Adversarial Benchmark for Evaluating Persona Persistence in Large Language Models",
+   "authors": [
+    "Ojaswi Prakash",
+    "Dhruv Kumar",
+    "Murari Mandal",
+    "Mohan Kankanhalli",
+    "Yash Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WLqC8PfnSc",
+   "pdf_url": "https://openreview.net/pdf?id=WLqC8PfnSc"
+  },
+  {
+   "title": "Markov Chain from Human Feedback",
+   "authors": [
+    "Takuya Koriyama",
+    "Tengyuan Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=za14NItnbS",
+   "pdf_url": "https://openreview.net/pdf?id=za14NItnbS"
+  },
+  {
+   "title": "Mechanism Design for Multi-Agent Alpha Discovery: Optimizing Agent Distribution in Heterogeneous LLM Markets",
+   "authors": [
+    "Ajitabh Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mbstEcHW0R",
+   "pdf_url": "https://openreview.net/pdf?id=mbstEcHW0R"
+  },
+  {
+   "title": "Multi-Agent Reinforcement Learning of Karma Bidding Strategies",
+   "authors": [
+    "Kevin Riehl",
+    "Anastasia Psarou",
+    "Robert Müller",
+    "Fan Wu",
+    "Patrick Langer",
+    "Robert Jakob",
+    "Gabor Hollbeck",
+    "Anastasios Kouvelas",
+    "Rafal Kucharski",
+    "Michail A. Makridis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HaUUF2Eq87",
+   "pdf_url": "https://openreview.net/pdf?id=HaUUF2Eq87"
+  },
+  {
+   "title": "Nash Bargaining for Gate-Free Mixture-of-Experts",
+   "authors": [
+    "Abien Fred Agarap",
+    "Inigo Miguel Benavides",
+    "Sara Ann Venturina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ch2bGAfmG5",
+   "pdf_url": "https://openreview.net/pdf?id=ch2bGAfmG5"
+  },
+  {
+   "title": "Neural Algorithmic Reasoning for Nash Equilibrium",
+   "authors": [
+    "Mateusz Kuba Korytkowski",
+    "Dobrik Georgiev Georgiev",
+    "Davide Buffelli",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VEiW6CwFsE",
+   "pdf_url": "https://openreview.net/pdf?id=VEiW6CwFsE"
+  },
+  {
+   "title": "No-Regret Learning in Bayesian Stackelberg Games with Unknown Follower Types",
+   "authors": [
+    "Matteo Bollini",
+    "Francesco Bacchiocchi",
+    "Samuel Coutts",
+    "Matteo Castiglioni",
+    "Alberto Marchesi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KLhSCC9XAG",
+   "pdf_url": "https://openreview.net/pdf?id=KLhSCC9XAG"
+  },
+  {
+   "title": "Non-Linear Strategic Classification Made Practical",
+   "authors": [
+    "Jack Geary",
+    "Henry Gouk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jIu59gIIfY",
+   "pdf_url": "https://openreview.net/pdf?id=jIu59gIIfY"
+  },
+  {
+   "title": "Opponent Modeling and Value of Information in Deep Reinforcement Learning for the Iterated Prisoner’s Dilemma",
+   "authors": [
+    "Oleksii Ignatenko",
+    "Nazarii Tkach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jiBoYmPAcm",
+   "pdf_url": "https://openreview.net/pdf?id=jiBoYmPAcm"
+  },
+  {
+   "title": "Optimism as a Vulnerability: Deceptive Stackelberg Control of UCB Bandit Followers",
+   "authors": [
+    "Şuayp Talha Kocabay",
+    "Kerem Yalçın",
+    "Talha Rüzgar Akkuş"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v7g9PoQ2vI",
+   "pdf_url": "https://openreview.net/pdf?id=v7g9PoQ2vI"
+  },
+  {
+   "title": "PALS: Preference-guided Active Automata Learning for Symbolic Reinforcement Learning in Games",
+   "authors": [
+    "William Peter Fishell",
+    "Sam Kouteili",
+    "Mark Paul Santolucito",
+    "Christian Scaff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jRUJpASPQJ",
+   "pdf_url": "https://openreview.net/pdf?id=jRUJpASPQJ"
+  },
+  {
+   "title": "Parametric Open Source Games",
+   "authors": [
+    "Aleksandar Todorov",
+    "Jesse ten Napel",
+    "Alexander Müller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RY3KgxzWjw",
+   "pdf_url": "https://openreview.net/pdf?id=RY3KgxzWjw"
+  },
+  {
+   "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+   "authors": [
+    "Pratham Singla",
+    "Shivank Garg",
+    "VIHAN SINGH"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UEWzrlFyBF",
+   "pdf_url": "https://openreview.net/pdf?id=UEWzrlFyBF"
+  },
+  {
+   "title": "PoolBench:Benchmarking Large Language Models on Continuous Physical Action Selection in Eight-Ball Pool",
+   "authors": [
+    "Prapti Patra",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jnm3crnaAA",
+   "pdf_url": "https://openreview.net/pdf?id=Jnm3crnaAA"
+  },
+  {
+   "title": "Position: Alignment Needs Rule-Class Routing Before Preference Learning",
+   "authors": [
+    "Zezheng Lin",
+    "Jinhao Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xYjugYyhMH",
+   "pdf_url": "https://openreview.net/pdf?id=xYjugYyhMH"
+  },
+  {
+   "title": "Power and Limitations of Aggregation in Compound AI Systems",
+   "authors": [
+    "Nivasini Ananthakrishnan",
+    "Meena Jagadeesan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JikB7ZlNdt",
+   "pdf_url": "https://openreview.net/pdf?id=JikB7ZlNdt"
+  },
+  {
+   "title": "Preference-Based Distributed Welfare Maximization: A Game-Theoretic Approach",
+   "authors": [
+    "Antoine Bergerault",
+    "Anna Maria Maddux",
+    "Andreas Schlaginhaufen",
+    "Maryam Kamgarpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CAS7aInVos",
+   "pdf_url": "https://openreview.net/pdf?id=CAS7aInVos"
+  },
+  {
+   "title": "Scaling Laws for Strategic Interactions",
+   "authors": [
+    "Joie Zhang",
+    "Danqi Chen",
+    "Peter Henderson",
+    "Lewis Hammond"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8DB0njD7mK",
+   "pdf_url": "https://openreview.net/pdf?id=8DB0njD7mK"
+  },
+  {
+   "title": "Seeing Through Distractions: Stable Attribution via the Core",
+   "authors": [
+    "Sai Ganesh Nagarajan",
+    "Toshinori Yamauchi",
+    "Hiroshi Kera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QX2FcC7Lto",
+   "pdf_url": "https://openreview.net/pdf?id=QX2FcC7Lto"
+  },
+  {
+   "title": "Self-Play Reinforcement Learning under Imperfect Information in Big 2",
+   "authors": [
+    "Aalok Patwa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kw6yK5xwTh",
+   "pdf_url": "https://openreview.net/pdf?id=kw6yK5xwTh"
+  },
+  {
+   "title": "Sequential Minimax Games as Stacked Martingale Optimal Transport",
+   "authors": [
+    "Ethan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4MJXl86Nyy",
+   "pdf_url": "https://openreview.net/pdf?id=4MJXl86Nyy"
+  },
+  {
+   "title": "Signaling in Data Markets via Free Samples",
+   "authors": [
+    "Nivasini Ananthakrishnan",
+    "Alireza Fallah",
+    "Michael I. Jordan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=utOxVc3q33",
+   "pdf_url": "https://openreview.net/pdf?id=utOxVc3q33"
+  },
+  {
+   "title": "Stackelberg Mean-Field Games for Adaptive Cancer Therapy",
+   "authors": [
+    "Arash Mehrjou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GgdgeVTj6q",
+   "pdf_url": "https://openreview.net/pdf?id=GgdgeVTj6q"
+  },
+  {
+   "title": "Strategic Testing in Games",
+   "authors": [
+    "Angelos Korakitis",
+    "Christos Tzamos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sgbg1nkcjF",
+   "pdf_url": "https://openreview.net/pdf?id=sgbg1nkcjF"
+  },
+  {
+   "title": "Superhuman AI for Generals.io Using Self-Play Reinforcement Learning",
+   "authors": [
+    "Matej Straka",
+    "Martin Schmid"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rb79jWnVDX",
+   "pdf_url": "https://openreview.net/pdf?id=Rb79jWnVDX"
+  },
+  {
+   "title": "The Clone Game: Strategic Ecology for Monoculture-Resistant AI Agents",
+   "authors": [
+    "Muhammet Anil Yagiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OymItBoiYn",
+   "pdf_url": "https://openreview.net/pdf?id=OymItBoiYn"
+  },
+  {
+   "title": "The computational complexity of computing refunds",
+   "authors": [
+    "Stelios Drakontaeidis",
+    "Christos Tzamos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CGf7dsmDac",
+   "pdf_url": "https://openreview.net/pdf?id=CGf7dsmDac"
+  },
+  {
+   "title": "The Cost of Blind Confidence: Opponent Modeling under Imperfect Information",
+   "authors": [
+    "Andrea Menta",
+    "Francesca Maifredi",
+    "Matteo Papini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HeBSHjUkqk",
+   "pdf_url": "https://openreview.net/pdf?id=HeBSHjUkqk"
+  },
+  {
+   "title": "The Price of Over-Delegation: Stackelberg Liability Design for Agentic AI Handoffs",
+   "authors": [
+    "Tomoya Hoshino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oR9NEviIsX",
+   "pdf_url": "https://openreview.net/pdf?id=oR9NEviIsX"
+  },
+  {
+   "title": "The Symmetry Trap: Parametric Equilibria and the Welfare Cost of Architectural Monoculture",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Soham Batra",
+    "Mithil Shah",
+    "Tanush Ajay Shastry",
+    "Akshath Sharma",
+    "Laksh Patel",
+    "Aarav Lala",
+    "Andrew Bae"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sh6JElv35s",
+   "pdf_url": "https://openreview.net/pdf?id=sh6JElv35s"
+  },
+  {
+   "title": "Towards Learning Representations of Policies in Two-Player Zero-Sum Games",
+   "authors": [
+    "Kevin A. Wang",
+    "Kevin Yang",
+    "Arjun Prakash",
+    "Amy Greenwald"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AnJGQHrq7m",
+   "pdf_url": "https://openreview.net/pdf?id=AnJGQHrq7m"
+  },
+  {
+   "title": "When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games",
+   "authors": [
+    "Jerick Shi",
+    "Terry Jingchen Zhang",
+    "Bernhard Schölkopf",
+    "Vincent Conitzer",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v8nYIkYjY0",
+   "pdf_url": "https://openreview.net/pdf?id=v8nYIkYjY0"
+  },
+  {
+   "title": "Zero Shot Coordination for Sparse Reward Tasks with Diverse Reward Shapings",
+   "authors": [
+    "Keenan Powell",
+    "Peihong Yu",
+    "Pratap Tokekar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t0YrSBcjX7",
+   "pdf_url": "https://openreview.net/pdf?id=t0YrSBcjX7"
+  }
+ ]
+}

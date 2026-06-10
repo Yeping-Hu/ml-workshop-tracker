@@ -1,0 +1,924 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/GRaM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:01.953Z",
+ "paper_count": 82,
+ "papers": [
+  {
+   "title": "(Deep) Generative Geodesics",
+   "authors": [
+    "Beomsu Kim",
+    "Michael Anthony Puthawala",
+    "Jong Chul Ye",
+    "Emanuele Sansone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hOOMfL20GK",
+   "pdf_url": "https://openreview.net/pdf?id=hOOMfL20GK"
+  },
+  {
+   "title": "3D Shape Completion with Test-Time Training",
+   "authors": [
+    "Michael Schopf-Kuester",
+    "Zorah Lähner",
+    "Michael Moeller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E7B97EiFYl",
+   "pdf_url": "https://openreview.net/pdf?id=E7B97EiFYl"
+  },
+  {
+   "title": "A Coding-Theoretic Analysis of Hyperspherical Prototypical Learning Geometry",
+   "authors": [
+    "Martin Lindström",
+    "Borja Rodríguez Gálvez",
+    "Ragnar Thobaben",
+    "Mikael Skoglund"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SEJacmw893",
+   "pdf_url": "https://openreview.net/pdf?id=SEJacmw893"
+  },
+  {
+   "title": "A Geometric Framework for Understanding Memorization in Generative Models",
+   "authors": [
+    "Brendan Leigh Ross",
+    "Hamidreza Kamkari",
+    "Zhaoyan Liu",
+    "Tongzi Wu",
+    "George Stein",
+    "Gabriel Loaiza-Ganem",
+    "Jesse C. Cresswell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sGHeIefdvL",
+   "pdf_url": "https://openreview.net/pdf?id=sGHeIefdvL"
+  },
+  {
+   "title": "A Simple and Expressive Graph Neural Network Based Method for Structural Link Representation",
+   "authors": [
+    "Veronica Lachi",
+    "Francesco Ferrini",
+    "Antonio Longa",
+    "Bruno Lepri",
+    "Andrea Passerini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EGGSCLyVrz",
+   "pdf_url": "https://openreview.net/pdf?id=EGGSCLyVrz"
+  },
+  {
+   "title": "A Theoretical Formulation of Many-body Message Passing Neural Networks",
+   "authors": [
+    "Jiatong Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aR7R8Odhdx",
+   "pdf_url": "https://openreview.net/pdf?id=aR7R8Odhdx"
+  },
+  {
+   "title": "Adaptive Sampling for Continuous Group Equivariant Neural Networks",
+   "authors": [
+    "Berfin Inal",
+    "Gabriele Cesa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fZNgsw405c",
+   "pdf_url": "https://openreview.net/pdf?id=fZNgsw405c"
+  },
+  {
+   "title": "Aligned Diffusion Models for Retrosynthesis",
+   "authors": [
+    "Najwa Laabid",
+    "Severi Rissanen",
+    "Markus Heinonen",
+    "Arno Solin",
+    "Vikas Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fcF0Kal3Tc",
+   "pdf_url": "https://openreview.net/pdf?id=fcF0Kal3Tc"
+  },
+  {
+   "title": "Alignment of MPNNs and Graph Transformers",
+   "authors": [
+    "Bao Nguyen",
+    "Anjana Yodaiken",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MgugfaFubY",
+   "pdf_url": "https://openreview.net/pdf?id=MgugfaFubY"
+  },
+  {
+   "title": "All Roads Lead to Rome? Exploring Representational Similarities Between Latent Spaces of Generative Image Models",
+   "authors": [
+    "Charumathi Badrinath",
+    "Usha Bhalla",
+    "Alex Oesterling",
+    "Suraj Srinivas",
+    "Himabindu Lakkaraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TStbsymots",
+   "pdf_url": "https://openreview.net/pdf?id=TStbsymots"
+  },
+  {
+   "title": "An Equivariant Flow Matching Framework for Learning Molecular Crystallization",
+   "authors": [
+    "Shengchao Liu",
+    "Liang Yan",
+    "Hongyu Guo",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lCVqpQvr4l",
+   "pdf_url": "https://openreview.net/pdf?id=lCVqpQvr4l"
+  },
+  {
+   "title": "Approximate natural gradient in Gaussian processes with non-log-concave likelihoods",
+   "authors": [
+    "Marcelo Hartmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=utIPrShTD3",
+   "pdf_url": "https://openreview.net/pdf?id=utIPrShTD3"
+  },
+  {
+   "title": "Asynchrony Invariance Loss Functions for Graph Neural Networks",
+   "authors": [
+    "Pablo Monteagudo-Lago",
+    "Arielle Rosinski",
+    "Andrew Joseph Dudzik",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eeEMjpO2Kv",
+   "pdf_url": "https://openreview.net/pdf?id=eeEMjpO2Kv"
+  },
+  {
+   "title": "Bias-inducing geometries: exactly solvable data model with fairness implications",
+   "authors": [
+    "Stefano Sarao Mannelli",
+    "Federica Gerace",
+    "Negar Rostamzadeh",
+    "Luca Saglietti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oupizzpMpY",
+   "pdf_url": "https://openreview.net/pdf?id=oupizzpMpY"
+  },
+  {
+   "title": "Bundle Neural Networks for message diffusion on graphs",
+   "authors": [
+    "Jacob Bamberger",
+    "Federico Barbero",
+    "Xiaowen Dong",
+    "Michael M. Bronstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cbgTxJYZYD",
+   "pdf_url": "https://openreview.net/pdf?id=cbgTxJYZYD"
+  },
+  {
+   "title": "Commute-Time-Optimised Graphs for GNNs",
+   "authors": [
+    "Igor Sterner",
+    "Shiye Su",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=la4IsppfsQ",
+   "pdf_url": "https://openreview.net/pdf?id=la4IsppfsQ"
+  },
+  {
+   "title": "Consistency models with learned idempotent boundary conditions",
+   "authors": [
+    "Gianluigi Silvestri",
+    "Luca Ambrogioni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xEmAfDjXY6",
+   "pdf_url": "https://openreview.net/pdf?id=xEmAfDjXY6"
+  },
+  {
+   "title": "Constructing gauge-invariant neural networks for scientific applications",
+   "authors": [
+    "Manos Theodosis",
+    "Demba E. Ba",
+    "Nima Dehmamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1fwEsyICb3",
+   "pdf_url": "https://openreview.net/pdf?id=1fwEsyICb3"
+  },
+  {
+   "title": "CoordConformer: Heterogenous EEG datasets decoding using Transformers",
+   "authors": [
+    "Sharat Patil",
+    "Robin Tibor Schirrmeister",
+    "Frank Hutter",
+    "Tonio Ball"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RlYWwZXlsJ",
+   "pdf_url": "https://openreview.net/pdf?id=RlYWwZXlsJ"
+  },
+  {
+   "title": "Decoder ensembling for learned latent geometries",
+   "authors": [
+    "Stas Syrota",
+    "Pablo Moreno-Muñoz",
+    "Søren Hauberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9f094PBy4P",
+   "pdf_url": "https://openreview.net/pdf?id=9f094PBy4P"
+  },
+  {
+   "title": "Decomposed Linear Dynamical Systems (dLDS) for identifying the latent dynamics underlying high-dimensional time-series",
+   "authors": [
+    "Noga Mudrik",
+    "Yenho Chen",
+    "Eva Yezerets",
+    "Christopher John Rozell",
+    "Adam Shabti Charles"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Z28SbJ4fg",
+   "pdf_url": "https://openreview.net/pdf?id=5Z28SbJ4fg"
+  },
+  {
+   "title": "Dirac--Bianconi Graph Neural Networks - Enabling long-range graph predictions",
+   "authors": [
+    "Christian Nauck",
+    "Rohan Gorantla",
+    "Michael Lindner",
+    "Konstantin Schürholt",
+    "Antonia S J S Mey",
+    "Frank Hellmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mZzE0xh1QW",
+   "pdf_url": "https://openreview.net/pdf?id=mZzE0xh1QW"
+  },
+  {
+   "title": "E(n) Equivariant Message Passing Cellular Networks",
+   "authors": [
+    "Veljko Kovac",
+    "Erik J Bekkers",
+    "Pietro Lio",
+    "Floor Eijkelboom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p2Q9l9Hx6S",
+   "pdf_url": "https://openreview.net/pdf?id=p2Q9l9Hx6S"
+  },
+  {
+   "title": "Energy-based Hopfield Boosting for Out-of-Distribution Detection",
+   "authors": [
+    "Claus Hofmann",
+    "Simon Lucas Schmid",
+    "Bernhard Lehner",
+    "Daniel Klotz",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qj2vm95t6m",
+   "pdf_url": "https://openreview.net/pdf?id=qj2vm95t6m"
+  },
+  {
+   "title": "Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification",
+   "authors": [
+    "Abihith Kothapalli",
+    "Ashkan Shahbazi",
+    "Xinran Liu",
+    "Robert Sheng",
+    "Soheil Kolouri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6cHYvELCeU",
+   "pdf_url": "https://openreview.net/pdf?id=6cHYvELCeU"
+  },
+  {
+   "title": "Gaussian Process-Based Representation Learning via Timeseries Symmetries",
+   "authors": [
+    "Petar Bevanda",
+    "Max Beier",
+    "Armin Lederer",
+    "Alexandre Capone",
+    "Stefan Georg Sosnowski",
+    "Sandra Hirche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9qDuVMAxK3",
+   "pdf_url": "https://openreview.net/pdf?id=9qDuVMAxK3"
+  },
+  {
+   "title": "Geometric algebra transformers for large 3D meshes via cross-attention",
+   "authors": [
+    "Julian Suk",
+    "Pim De Haan",
+    "Baris Imre",
+    "Jelmer M. Wolterink"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T2bBUlaJTA",
+   "pdf_url": "https://openreview.net/pdf?id=T2bBUlaJTA"
+  },
+  {
+   "title": "Geometric Wireless Simulation with Equivariant Transformers",
+   "authors": [
+    "Thomas Hehn",
+    "Markus Peschl",
+    "Tribhuvanesh Orekondy",
+    "Arash Behboodi",
+    "Johann Brehmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dlz5lzhpE7",
+   "pdf_url": "https://openreview.net/pdf?id=dlz5lzhpE7"
+  },
+  {
+   "title": "Geometry Aware Deep Learning for Integrated Closed-shell and Open-shell Systems",
+   "authors": [
+    "Beom Seok Kang",
+    "Vignesh C Bhethanabotla",
+    "Mohammadamin Tavakoli",
+    "William Goddard",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XC9IoAsyEN",
+   "pdf_url": "https://openreview.net/pdf?id=XC9IoAsyEN"
+  },
+  {
+   "title": "Geometry Fidelity for Spherical Images",
+   "authors": [
+    "Anders Christensen",
+    "Nooshin Mojab",
+    "Khushman Patel",
+    "Karan Ahuja",
+    "Zeynep Akata",
+    "Ole Winther",
+    "Mar Gonzalez-Franco",
+    "Andrea Colaco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EIalaUy2zE",
+   "pdf_url": "https://openreview.net/pdf?id=EIalaUy2zE"
+  },
+  {
+   "title": "Geometry-Aware Autoencoders for Metric Learning and Generative Modeling on Data Manifolds",
+   "authors": [
+    "Xingzhi Sun",
+    "Danqi Liao",
+    "Kincaid MacDonald",
+    "Yanlei Zhang",
+    "Guillaume Huguet",
+    "Guy Wolf",
+    "Ian Adelstein",
+    "Tim G. J. Rudner",
+    "Smita Krishnaswamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EYQZjMcn4l",
+   "pdf_url": "https://openreview.net/pdf?id=EYQZjMcn4l"
+  },
+  {
+   "title": "Geometry-informed Neural Networks",
+   "authors": [
+    "Arturs Berzins",
+    "Andreas Radler",
+    "Sebastian Sanokowski",
+    "Sepp Hochreiter",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ow4L0VlHMQ",
+   "pdf_url": "https://openreview.net/pdf?id=ow4L0VlHMQ"
+  },
+  {
+   "title": "GLAudio Listens to the Sound of the Graph",
+   "authors": [
+    "Aurelio Sulser",
+    "Johann Wenckstern",
+    "Clara Kümpel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ll1iIFmY7n",
+   "pdf_url": "https://openreview.net/pdf?id=ll1iIFmY7n"
+  },
+  {
+   "title": "Graph Convolutional Networks for Learning Laplace-Beltrami Operators",
+   "authors": [
+    "Yingying Wu",
+    "Roger Fu",
+    "Richard Peng",
+    "Qifeng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K2L88RnYl7",
+   "pdf_url": "https://openreview.net/pdf?id=K2L88RnYl7"
+  },
+  {
+   "title": "Improving Equivariant Networks with Probabilistic Symmetry Breaking",
+   "authors": [
+    "Hannah Lawrence",
+    "Vasco Portilheiro",
+    "Yan Zhang",
+    "Sékou-Oumar Kaba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1VlRaXNMWO",
+   "pdf_url": "https://openreview.net/pdf?id=1VlRaXNMWO"
+  },
+  {
+   "title": "InfoNCE: Identifying the Gap Between Theory and Practice",
+   "authors": [
+    "Evgenia Rusak",
+    "Patrik Reizinger",
+    "Attila Juhos",
+    "Oliver Bringmann",
+    "Roland S. Zimmermann",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sYoGm14cle",
+   "pdf_url": "https://openreview.net/pdf?id=sYoGm14cle"
+  },
+  {
+   "title": "Invertible Temper Modeling using Normalizing Flows and the Effects of Structure Preserving Loss",
+   "authors": [
+    "Tegan Emerson",
+    "Henry Kvinge",
+    "Keerti Sahithi Kappagantula",
+    "Sylvia Howland"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KYSx40LThd",
+   "pdf_url": "https://openreview.net/pdf?id=KYSx40LThd"
+  },
+  {
+   "title": "Joint Diffusion Processes as an Inductive Bias in Sheaf Neural Networks",
+   "authors": [
+    "Ferran Hernandez Caralt",
+    "Guillermo Bernardez",
+    "Iulia Duta",
+    "Eduard Alarcon",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0xkPQvpXIS",
+   "pdf_url": "https://openreview.net/pdf?id=0xkPQvpXIS"
+  },
+  {
+   "title": "Latent functional maps",
+   "authors": [
+    "Marco Fumero",
+    "Marco Pegoraro",
+    "Valentino Maiorca",
+    "Francesco Locatello",
+    "Emanuele Rodolà"
+   ],
+   "forum_url": "https://openreview.net/forum?id=po70K5ss8B",
+   "pdf_url": "https://openreview.net/pdf?id=po70K5ss8B"
+  },
+  {
+   "title": "Learning Diffeomorphic Lyapunov Functions from Data",
+   "authors": [
+    "Samuel Tesfazgi",
+    "Leonhard Sprandl",
+    "Sandra Hirche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DUjZJe7wfF",
+   "pdf_url": "https://openreview.net/pdf?id=DUjZJe7wfF"
+  },
+  {
+   "title": "Learning symmetries via weight-sharing with doubly stochastic tensors",
+   "authors": [
+    "Putri A Van der Linden",
+    "Alejandro García Castellanos",
+    "Sharvaree Vadgama",
+    "Thijs P. Kuipers",
+    "Erik J Bekkers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S8nQlS9q9x",
+   "pdf_url": "https://openreview.net/pdf?id=S8nQlS9q9x"
+  },
+  {
+   "title": "Leveraging Topological Guidance for Improved Knowledge Distillation",
+   "authors": [
+    "Eun Som Jeon",
+    "Rahul Khurana",
+    "Aishani Pathak",
+    "Pavan K. Turaga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TB6G5Nj1F4",
+   "pdf_url": "https://openreview.net/pdf?id=TB6G5Nj1F4"
+  },
+  {
+   "title": "Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space",
+   "authors": [
+    "Mohamed Amine Ketata",
+    "Nicholas Gao",
+    "Johanna Sommer",
+    "Tom Wollschläger",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gjjuVDX7YJ",
+   "pdf_url": "https://openreview.net/pdf?id=gjjuVDX7YJ"
+  },
+  {
+   "title": "Lorentzian Residual Neural Networks",
+   "authors": [
+    "Neil He",
+    "Menglin Yang",
+    "Rex Ying"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WRWKy1M77y",
+   "pdf_url": "https://openreview.net/pdf?id=WRWKy1M77y"
+  },
+  {
+   "title": "Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design",
+   "authors": [
+    "Shengchao Liu",
+    "Liang Yan",
+    "weitao Du",
+    "Weiyang Liu",
+    "Hongyu Guo",
+    "Christian Borgs",
+    "Jennifer T Chayes",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tmUsGCMX8w",
+   "pdf_url": "https://openreview.net/pdf?id=tmUsGCMX8w"
+  },
+  {
+   "title": "Meta Flow Matching:  Integrating Vector Fields on the Wasserstein Manifold",
+   "authors": [
+    "Lazar Atanackovic",
+    "Xi Zhang",
+    "Brandon Amos",
+    "Mathieu Blanchette",
+    "Leo J Lee",
+    "Yoshua Bengio",
+    "Alexander Tong",
+    "Kirill Neklyudov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f9GsKvLdzs",
+   "pdf_url": "https://openreview.net/pdf?id=f9GsKvLdzs"
+  },
+  {
+   "title": "Metric Learning for Clifford Group Equivariant Neural Networks",
+   "authors": [
+    "Riccardo Ali",
+    "Paulina Kulytė",
+    "Haitz Sáez de Ocáriz Borde",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4tw1U41t6Q",
+   "pdf_url": "https://openreview.net/pdf?id=4tw1U41t6Q"
+  },
+  {
+   "title": "Mixed-Curvature Decision Trees and Random Forests",
+   "authors": [
+    "Philippe Chlenski",
+    "Quentin Chu",
+    "Itsik Pe'er"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7R8xrX5tJV",
+   "pdf_url": "https://openreview.net/pdf?id=7R8xrX5tJV"
+  },
+  {
+   "title": "Multivector Neurons: Better and Faster O(n)-Equivariant Clifford GNNs",
+   "authors": [
+    "Cong Liu",
+    "David Ruhe",
+    "Patrick Forré"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F03nrnuGuj",
+   "pdf_url": "https://openreview.net/pdf?id=F03nrnuGuj"
+  },
+  {
+   "title": "On Fairly Comparing Group Equivariant Networks",
+   "authors": [
+    "Lucas Roos",
+    "Rodney Stephen Kroon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oUv5chwioZ",
+   "pdf_url": "https://openreview.net/pdf?id=oUv5chwioZ"
+  },
+  {
+   "title": "On The Local Geometry of Deep Generative Manifolds",
+   "authors": [
+    "Ahmed Imtiaz Humayun",
+    "Ibtihel Amara",
+    "Candice Schumann",
+    "Golnoosh Farnadi",
+    "Negar Rostamzadeh",
+    "Mohammad Havaei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZLpVLcwM1v",
+   "pdf_url": "https://openreview.net/pdf?id=ZLpVLcwM1v"
+  },
+  {
+   "title": "On the Matter of Embeddings Dispersion on Hyperspheres",
+   "authors": [
+    "Evgeniia Tokarchuk",
+    "Hua Chang Bakker",
+    "Vlad Niculae"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yh4IjSjAhQ",
+   "pdf_url": "https://openreview.net/pdf?id=yh4IjSjAhQ"
+  },
+  {
+   "title": "Path Complex Neural Network for Molecular Property Prediction",
+   "authors": [
+    "Longlong Li",
+    "Xiang LIU",
+    "Guanghui Wang",
+    "Yu Guang Wang",
+    "KELIN XIA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FlnGcMp6FL",
+   "pdf_url": "https://openreview.net/pdf?id=FlnGcMp6FL"
+  },
+  {
+   "title": "Permutation Tree Invariant Neural Architectures",
+   "authors": [
+    "Johannes Urban",
+    "Sebastian Tschiatschek",
+    "Nils Morten Kriege"
+   ],
+   "forum_url": "https://openreview.net/forum?id=300jk8rHJb",
+   "pdf_url": "https://openreview.net/pdf?id=300jk8rHJb"
+  },
+  {
+   "title": "Probabilistic World Modeling with Asymmetric Distance Measure",
+   "authors": [
+    "Meng Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CicB77dH1d",
+   "pdf_url": "https://openreview.net/pdf?id=CicB77dH1d"
+  },
+  {
+   "title": "Relaxed Equivariant Graph Neural Networks",
+   "authors": [
+    "Elyssa Hofgard",
+    "Rui Wang",
+    "Robin Walters",
+    "Tess Smidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eVB1fn37Ay",
+   "pdf_url": "https://openreview.net/pdf?id=eVB1fn37Ay"
+  },
+  {
+   "title": "Revisiting Random Walks for Learning on Graphs",
+   "authors": [
+    "Jinwoo Kim",
+    "Olga Zaghen",
+    "Ayhan Suleymanzade",
+    "Youngmin Ryou",
+    "Seunghoon Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nm4ddm0jfJ",
+   "pdf_url": "https://openreview.net/pdf?id=Nm4ddm0jfJ"
+  },
+  {
+   "title": "RIO-CPD: A Riemannian Geometric Method for Correlation-aware Online Change Point Detection",
+   "authors": [
+    "Chengyuan Deng",
+    "Zhengzhang Chen",
+    "Xujiang Zhao",
+    "Haoyu Wang",
+    "Junxiang Wang",
+    "Haifeng Chen",
+    "Jie Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zYEFafdc2U",
+   "pdf_url": "https://openreview.net/pdf?id=zYEFafdc2U"
+  },
+  {
+   "title": "Scalable Local Intrinsic Dimension Estimation with Diffusion Models",
+   "authors": [
+    "Hamidreza Kamkari",
+    "Brendan Leigh Ross",
+    "Rasa Hosseinzadeh",
+    "Jesse C. Cresswell",
+    "Gabriel Loaiza-Ganem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=89R5ZB5rc6",
+   "pdf_url": "https://openreview.net/pdf?id=89R5ZB5rc6"
+  },
+  {
+   "title": "SCENE-Net V2: Interpretable Multiclass 3D Scene Understanding with Geometric Priors",
+   "authors": [
+    "Diogo Mateus Lavado",
+    "Claudia Soares",
+    "Alessandra Micheletti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6pKRn6tttu",
+   "pdf_url": "https://openreview.net/pdf?id=6pKRn6tttu"
+  },
+  {
+   "title": "SE(3)-Hyena Operator for Scalable Equivariant Learning",
+   "authors": [
+    "Artem Moskalev",
+    "Mangal Prakash",
+    "Rui Liao",
+    "Tommaso Mansi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rUXsKeN6dG",
+   "pdf_url": "https://openreview.net/pdf?id=rUXsKeN6dG"
+  },
+  {
+   "title": "SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration",
+   "authors": [
+    "Chien Erh Lin",
+    "Minghan Zhu",
+    "Maani Ghaffari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dDP6m3p9gj",
+   "pdf_url": "https://openreview.net/pdf?id=dDP6m3p9gj"
+  },
+  {
+   "title": "Self-Supervised Detection of Perfect and Partial Input-Dependent Symmetries",
+   "authors": [
+    "Alonso Urbano",
+    "David W. Romero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iB9U8b2rTI",
+   "pdf_url": "https://openreview.net/pdf?id=iB9U8b2rTI"
+  },
+  {
+   "title": "Sheaf Diffusion Goes Nonlinear: Enhancing GNNs with Adaptive Sheaf Laplacians",
+   "authors": [
+    "Olga Zaghen",
+    "Antonio Longa",
+    "Steve Azzolin",
+    "Lev Telyatnikov",
+    "Andrea Passerini",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGQtGV5gPO",
+   "pdf_url": "https://openreview.net/pdf?id=MGQtGV5gPO"
+  },
+  {
+   "title": "SINR: Equivariant Neural Vector Fields",
+   "authors": [
+    "David Ruhe",
+    "Patrick Forré"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LgWZvbcjM1",
+   "pdf_url": "https://openreview.net/pdf?id=LgWZvbcjM1"
+  },
+  {
+   "title": "Stability Analysis of Equivariant Convolutional Representations Through The Lens of Equivariant Multi-layered CKNs",
+   "authors": [
+    "Soutrik Roy Chowdhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A9CRCxZ4FU",
+   "pdf_url": "https://openreview.net/pdf?id=A9CRCxZ4FU"
+  },
+  {
+   "title": "Stitching Manifolds: Leveraging Interaction to Compose Object Representations into Scenes.",
+   "authors": [
+    "Hamza Keurti",
+    "Bernhard Schölkopf",
+    "Pau Vilimelis Aceituno",
+    "Benjamin F Grewe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=roehAtQlGX",
+   "pdf_url": "https://openreview.net/pdf?id=roehAtQlGX"
+  },
+  {
+   "title": "Strongly Isomorphic Neural Optimal Transport Across Incomparable Spaces",
+   "authors": [
+    "Athina Sotiropoulou",
+    "David Alvarez-Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uRySKj54Pg",
+   "pdf_url": "https://openreview.net/pdf?id=uRySKj54Pg"
+  },
+  {
+   "title": "Temporal Graph Rewiring with Expander Graphs",
+   "authors": [
+    "Katarina Petrović",
+    "Shenyang Huang",
+    "Farimah Poursafaei",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LN9fe4CWIH",
+   "pdf_url": "https://openreview.net/pdf?id=LN9fe4CWIH"
+  },
+  {
+   "title": "The Geometry of Diffusion Models: Tubular Neighbourhoods and Singularities",
+   "authors": [
+    "Kotaro Sakamoto",
+    "Ryosuke Sakamoto",
+    "Masato Tanabe",
+    "Masatomo Akagawa",
+    "Yusuke Hayashi",
+    "Manato Yaguchi",
+    "Masahiro Suzuki",
+    "Yutaka Matsuo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YTBE6mJBY7",
+   "pdf_url": "https://openreview.net/pdf?id=YTBE6mJBY7"
+  },
+  {
+   "title": "The NGT200 Dataset - Geometric Multi-View Isolated Sign Recognition",
+   "authors": [
+    "Oline Ranum",
+    "David Wessels",
+    "Gomèr Otterspeer",
+    "Erik J Bekkers",
+    "Floris Roelofsen",
+    "Jari I. Andersen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=idkNzTC67X",
+   "pdf_url": "https://openreview.net/pdf?id=idkNzTC67X"
+  },
+  {
+   "title": "The Price of Freedom: Exploring Tradeoffs between Expressivity and Computational Efficiency in Equivariant Tensor Products",
+   "authors": [
+    "YuQing Xie",
+    "Ameya Daigavane",
+    "Mit Kotak",
+    "Tess Smidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0HHidbjwcf",
+   "pdf_url": "https://openreview.net/pdf?id=0HHidbjwcf"
+  },
+  {
+   "title": "Theoretical Analyses of Hyperparameter Selection in Graph-Based Semi-Supervised Learning",
+   "authors": [
+    "Ally Yalei Du",
+    "Eric Huang",
+    "Dravyansh Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eTzYggLsDD",
+   "pdf_url": "https://openreview.net/pdf?id=eTzYggLsDD"
+  },
+  {
+   "title": "Topological and Dynamical Representations for Radio Frequency Signal Classification",
+   "authors": [
+    "Tegan Emerson",
+    "Timothy Doster",
+    "Colin C Olson",
+    "Audun Myers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WlxdwFVOGj",
+   "pdf_url": "https://openreview.net/pdf?id=WlxdwFVOGj"
+  },
+  {
+   "title": "Topology-Informed Graph Transformer",
+   "authors": [
+    "Yun Young Choi",
+    "Sun Woo Park",
+    "Minho Lee",
+    "Youngho Woo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O5q2B2sGZe",
+   "pdf_url": "https://openreview.net/pdf?id=O5q2B2sGZe"
+  },
+  {
+   "title": "Towards General Geometries for Embedding Knowledge Graphs",
+   "authors": [
+    "Samuel G. Fadel",
+    "Tino Paulsen",
+    "Sebastian Mair"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L7C0XG9eSM",
+   "pdf_url": "https://openreview.net/pdf?id=L7C0XG9eSM"
+  },
+  {
+   "title": "Transferability for Graph Convolutional Networks",
+   "authors": [
+    "Christian Koke",
+    "Abhishek Saroha",
+    "Yuesong Shen",
+    "Marvin Eisenberger",
+    "Michael M. Bronstein",
+    "Daniel Cremers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rKEdfcaqYX",
+   "pdf_url": "https://openreview.net/pdf?id=rKEdfcaqYX"
+  },
+  {
+   "title": "UHCone: Universal Hyperbolic Cone For Implicit Hierarchical Learning",
+   "authors": [
+    "Menglin Yang",
+    "Jiahong Liu",
+    "Irwin King",
+    "Rex Ying"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BBgop7vYvX",
+   "pdf_url": "https://openreview.net/pdf?id=BBgop7vYvX"
+  },
+  {
+   "title": "Understanding Hallucinations in Diffusion Models through Mode Interpolation",
+   "authors": [
+    "Sumukh K Aithal",
+    "Pratyush Maini",
+    "Zachary Chase Lipton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0uFyHzdN64",
+   "pdf_url": "https://openreview.net/pdf?id=0uFyHzdN64"
+  },
+  {
+   "title": "Unsupervised Ground Metric Learning with Tree Wasserstein Distance",
+   "authors": [
+    "Kira Michaela Düsterwald",
+    "Makoto Yamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OD60D539Q9",
+   "pdf_url": "https://openreview.net/pdf?id=OD60D539Q9"
+  },
+  {
+   "title": "Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks",
+   "authors": [
+    "Yoav Gelberg",
+    "Tycho F. A. van der Ouderaa",
+    "Mark van der Wilk",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VCVnhR4x4v",
+   "pdf_url": "https://openreview.net/pdf?id=VCVnhR4x4v"
+  },
+  {
+   "title": "What Makes a Machine Learning Task a Good Candidate for an Equivariant Network?",
+   "authors": [
+    "Scott Mahan",
+    "Davis Brown",
+    "Timothy Doster",
+    "Henry Kvinge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=46vfUIfIo1",
+   "pdf_url": "https://openreview.net/pdf?id=46vfUIfIo1"
+  }
+ ]
+}

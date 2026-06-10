@@ -1,0 +1,650 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/PUT",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:05.833Z",
+ "paper_count": 55,
+ "papers": [
+  {
+   "title": "Accurate Parameter-Efficient Test-Time Adaptation for Time Series Forecasting",
+   "authors": [
+    "Heitor Rapela Medeiros",
+    "Hossein Sharifi-Noghabi",
+    "Gabriel L. Oliveira",
+    "Saghar Irandoust"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uFj4EL4GTB",
+   "pdf_url": "https://openreview.net/pdf?id=uFj4EL4GTB"
+  },
+  {
+   "title": "Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion",
+   "authors": [
+    "Frederick Shpilevskiy",
+    "Saiyue Lyu",
+    "Krishnamurthy Dj Dvijotham",
+    "Mathias Lécuyer",
+    "Pierre-Andre Noel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HsjVQUnWZo",
+   "pdf_url": "https://openreview.net/pdf?id=HsjVQUnWZo"
+  },
+  {
+   "title": "Adaptive Monocular Depth Estimation with Masked Image Consistency",
+   "authors": [
+    "Damian Sójka",
+    "Marc Masana",
+    "Bartłomiej Twardowski",
+    "Sebastian Cygert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qqTYN7O5w5",
+   "pdf_url": "https://openreview.net/pdf?id=qqTYN7O5w5"
+  },
+  {
+   "title": "AdaptMI: Adaptive Skill-based In-context Math Instructions for Small Language Models",
+   "authors": [
+    "Yinghui He",
+    "Abhishek Panigrahi",
+    "Yong Lin",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bGpQIzIuts",
+   "pdf_url": "https://openreview.net/pdf?id=bGpQIzIuts"
+  },
+  {
+   "title": "Agentic Adversarial QA for Improving Domain-Specific LLMs",
+   "authors": [
+    "Vincent Grari",
+    "ciprian tomoiaga",
+    "Sylvain Lamprier",
+    "Tatsunori Hashimoto",
+    "Marcin Detyniecki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5tAyBL4nF8",
+   "pdf_url": "https://openreview.net/pdf?id=5tAyBL4nF8"
+  },
+  {
+   "title": "An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination",
+   "authors": [
+    "Sukanya Patra",
+    "Souhaib Ben Taieb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FT5eOdWSWN",
+   "pdf_url": "https://openreview.net/pdf?id=FT5eOdWSWN"
+  },
+  {
+   "title": "Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning",
+   "authors": [
+    "Shenao Zhang",
+    "Yaqing Wang",
+    "Yinxiao Liu",
+    "Tianqi Liu",
+    "Peter Grabowski",
+    "Eugene Ie",
+    "Zhaoran Wang",
+    "Yunxuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hBCT56A4s4",
+   "pdf_url": "https://openreview.net/pdf?id=hBCT56A4s4"
+  },
+  {
+   "title": "Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization",
+   "authors": [
+    "Joschka Braun",
+    "Carsten Eickhoff",
+    "Seyed Ali Bahrainian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LuY0TfjhMH",
+   "pdf_url": "https://openreview.net/pdf?id=LuY0TfjhMH"
+  },
+  {
+   "title": "Causal Fine-Tuning of Pre-trained Language Models for Robust Test Time Adaptation",
+   "authors": [
+    "Jialin Yu",
+    "Yuxiang Zhou",
+    "Yulan He",
+    "Nevin L. Zhang",
+    "Junchi Yu",
+    "Philip Torr",
+    "Ricardo Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RqqC7wwq3X",
+   "pdf_url": "https://openreview.net/pdf?id=RqqC7wwq3X"
+  },
+  {
+   "title": "CCC: Enhancing Video Generation via Structured MLLM Feedback",
+   "authors": [
+    "Jing Gu",
+    "Ashwin Nagarajan",
+    "Tejas Polu",
+    "Kaizhi Zheng",
+    "Ruijian Zha",
+    "Jie Yang",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B4eaJfAbCP",
+   "pdf_url": "https://openreview.net/pdf?id=B4eaJfAbCP"
+  },
+  {
+   "title": "Context Tuning for In-Context Optimization",
+   "authors": [
+    "Jack Lu",
+    "Ryan Teehan",
+    "Zhenbang Yang",
+    "Mengye Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vREbTuy408",
+   "pdf_url": "https://openreview.net/pdf?id=vREbTuy408"
+  },
+  {
+   "title": "Diffusion Tree Sampling: Scalable inference‑time alignment of diffusion models",
+   "authors": [
+    "Vineet Jain",
+    "Kusha Sareen",
+    "Mohammad Pedramfar",
+    "Siamak Ravanbakhsh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C7t0WRrxY4",
+   "pdf_url": "https://openreview.net/pdf?id=C7t0WRrxY4"
+  },
+  {
+   "title": "Distilling Prompts at Test-Time for Multimodal Few-Shot Learning",
+   "authors": [
+    "Akash Gupta",
+    "Amos Storkey",
+    "Mirella Lapata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5AygbzgRc5",
+   "pdf_url": "https://openreview.net/pdf?id=5AygbzgRc5"
+  },
+  {
+   "title": "DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptation",
+   "authors": [
+    "Yunbei Zhang",
+    "Akshay Mehra",
+    "Shuaicheng Niu",
+    "Jihun Hamm"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E5MQRICtwq",
+   "pdf_url": "https://openreview.net/pdf?id=E5MQRICtwq"
+  },
+  {
+   "title": "e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs",
+   "authors": [
+    "Amrith Setlur",
+    "Matthew Y. R. Yang",
+    "Charlie Victor Snell",
+    "Jeremiah Greer",
+    "Ian Wu",
+    "Virginia Smith",
+    "Max Simchowitz",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eIoACmXLN4",
+   "pdf_url": "https://openreview.net/pdf?id=eIoACmXLN4"
+  },
+  {
+   "title": "GRIP: In-Parameter Graph Reasoning through Fine-Tuning Large Language Models",
+   "authors": [
+    "Jiarui Feng",
+    "Yixin Chen",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WacW4lC4du",
+   "pdf_url": "https://openreview.net/pdf?id=WacW4lC4du"
+  },
+  {
+   "title": "Inference-Time Alignment via Hypothesis Reweighting",
+   "authors": [
+    "Yoonho Lee",
+    "Jonathan Williams",
+    "Henrik Marklund",
+    "Archit Sharma",
+    "Eric Mitchell",
+    "Anikait Singh",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tl2nXqQSQJ",
+   "pdf_url": "https://openreview.net/pdf?id=tl2nXqQSQJ"
+  },
+  {
+   "title": "JEDI: The Force of Jensen-Shannon Divergence in Disentangling Diffusion Models",
+   "authors": [
+    "Eric Tillmann Bill",
+    "Enis Simsar",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HVQ3wL2jPI",
+   "pdf_url": "https://openreview.net/pdf?id=HVQ3wL2jPI"
+  },
+  {
+   "title": "Keep the Alignment, Skip the Overhead: Lightweight Instruction Alignment for Continually Trained LLMs",
+   "authors": [
+    "Ishan Jindal",
+    "Badrinath chandana",
+    "Pranjal Bharti",
+    "Lakkidi Vinay",
+    "SACHIN DEV SHARMA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qE0lPCBkD4",
+   "pdf_url": "https://openreview.net/pdf?id=qE0lPCBkD4"
+  },
+  {
+   "title": "Language Model Personalization via Reward Factorization",
+   "authors": [
+    "Idan Shenfeld",
+    "Felix Faltings",
+    "Pulkit Agrawal",
+    "Aldo Pacchiano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iEmv4Icaxr",
+   "pdf_url": "https://openreview.net/pdf?id=iEmv4Icaxr"
+  },
+  {
+   "title": "Language System: A Lightweight Ranking Framework for Language Models",
+   "authors": [
+    "Chenheng Zhang",
+    "Tianqi Du",
+    "Jizhe Zhang",
+    "Mingqing Xiao",
+    "Yifei Wang",
+    "Yisen Wang",
+    "Zhouchen Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LsHxOnNmqk",
+   "pdf_url": "https://openreview.net/pdf?id=LsHxOnNmqk"
+  },
+  {
+   "title": "Learning to Self-Correct through Chain-of-Thought Verification",
+   "authors": [
+    "Bradley Guo",
+    "Jingwen Gu",
+    "Jin Peng Zhou",
+    "Wen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AbO4lCvlo3",
+   "pdf_url": "https://openreview.net/pdf?id=AbO4lCvlo3"
+  },
+  {
+   "title": "Leto: Modeling Multivariate Time Series with Memorizing at Test Time",
+   "authors": [
+    "Ali Behrouz",
+    "Daniel Yiming Cao",
+    "Ali Parviz",
+    "Michele Santacatterina",
+    "Ramin Zabih"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5zVJbLFoF4",
+   "pdf_url": "https://openreview.net/pdf?id=5zVJbLFoF4"
+  },
+  {
+   "title": "LIFT: Improving Long Context Understanding of Large Language Models through Long Input Fine-Tuning",
+   "authors": [
+    "Yansheng Mao",
+    "Yufei Xu",
+    "Jiaqi Li",
+    "Fanxu Meng",
+    "Haotong Yang",
+    "Zilong Zheng",
+    "Xiyuan Wang",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4iwLkuH1Qe",
+   "pdf_url": "https://openreview.net/pdf?id=4iwLkuH1Qe"
+  },
+  {
+   "title": "Lightweight Online Adaption for Time Series Foundation Model Forecasts",
+   "authors": [
+    "Thomas L Lee",
+    "William Toner",
+    "Martin Asenov",
+    "Artjom Joosen",
+    "Rajkarn Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ohJDcNM33o",
+   "pdf_url": "https://openreview.net/pdf?id=ohJDcNM33o"
+  },
+  {
+   "title": "LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models",
+   "authors": [
+    "Yuto Kojima",
+    "Jiarui Xu",
+    "Xueyan Zou",
+    "Xiaolong Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P2XhjOJL7Z",
+   "pdf_url": "https://openreview.net/pdf?id=P2XhjOJL7Z"
+  },
+  {
+   "title": "MADCAT: Combating Malware Detection Under Concept Drift with Test-Time Adaptation",
+   "authors": [
+    "Eunjin Roh",
+    "Yigitcan Kaya",
+    "Christopher Kruegel",
+    "Giovanni Vigna",
+    "Sanghyun Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a4fQhKVbYV",
+   "pdf_url": "https://openreview.net/pdf?id=a4fQhKVbYV"
+  },
+  {
+   "title": "Mitigating Forgetting in Low Rank Adaptation",
+   "authors": [
+    "Joanna Sliwa",
+    "Frank Schneider",
+    "Philipp Hennig",
+    "José Miguel Hernández-Lobato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W3caXQAjcu",
+   "pdf_url": "https://openreview.net/pdf?id=W3caXQAjcu"
+  },
+  {
+   "title": "Monitoring Risks in Test-Time Adaptation",
+   "authors": [
+    "Mona Schirmer",
+    "Metod Jazbec",
+    "Christian A. Naesseth",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k14ktterKG",
+   "pdf_url": "https://openreview.net/pdf?id=k14ktterKG"
+  },
+  {
+   "title": "N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs",
+   "authors": [
+    "Ilya Zisman",
+    "Alexander Nikulin",
+    "Viacheslav Sinii",
+    "Denis Tarasov",
+    "Lyubaykin Nikita",
+    "Andrei Polubarov",
+    "Igor Kiselev",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3XuRWF6GAV",
+   "pdf_url": "https://openreview.net/pdf?id=3XuRWF6GAV"
+  },
+  {
+   "title": "On Distributional Robustness of In-Context Learning for Text Classification",
+   "authors": [
+    "Carolina Hatanpää",
+    "Noah A. Smith",
+    "Sachin Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fJgOCX5rDp",
+   "pdf_url": "https://openreview.net/pdf?id=fJgOCX5rDp"
+  },
+  {
+   "title": "On Training-Test (Mis)alignment in Unsupervised Combinatorial Optimization: Observation, Empirical Exploration, and Analysis",
+   "authors": [
+    "Fanchen Bu",
+    "Kijung Shin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oIxyCU56Tt",
+   "pdf_url": "https://openreview.net/pdf?id=oIxyCU56Tt"
+  },
+  {
+   "title": "Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention",
+   "authors": [
+    "Haonan Wang",
+    "Brian K Chen",
+    "Li Siquan",
+    "Liang Xinhe",
+    "Tianyang Hu",
+    "Hwee Kuan Lee",
+    "Kenji Kawaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GBwx1ej47e",
+   "pdf_url": "https://openreview.net/pdf?id=GBwx1ej47e"
+  },
+  {
+   "title": "Prune ’n Predict: Optimizing LLM Decision-making with Conformal Prediction",
+   "authors": [
+    "Harit Vishwakarma",
+    "Alan Mishler",
+    "Thomas Cook",
+    "Niccolo Dalmasso",
+    "Natraj Raman",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D8T4coOy51",
+   "pdf_url": "https://openreview.net/pdf?id=D8T4coOy51"
+  },
+  {
+   "title": "Reasoning as an Adaptive Defense for Safety",
+   "authors": [
+    "Taeyoun Kim",
+    "Fahim Tajwar",
+    "Aditi Raghunathan",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tSdDrU08sa",
+   "pdf_url": "https://openreview.net/pdf?id=tSdDrU08sa"
+  },
+  {
+   "title": "Rejection Sampling Based Fine Tuning Secretly Performs PPO",
+   "authors": [
+    "Gautham Govind Anil",
+    "Dheeraj Mysore Nagaraj",
+    "Karthikeyan Shanmugam",
+    "Sanjay Shakkottai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yQ2UivKlir",
+   "pdf_url": "https://openreview.net/pdf?id=yQ2UivKlir"
+  },
+  {
+   "title": "Replacing thinking with tool usage enables reasoning in small language models",
+   "authors": [
+    "Corrado Rainone",
+    "Tim Bakker",
+    "Roland Memisevic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NYjcTm7y6A",
+   "pdf_url": "https://openreview.net/pdf?id=NYjcTm7y6A"
+  },
+  {
+   "title": "Right Question is Already Half the Answer: Fully Unsupervisedd LLM Reasoning Incentization",
+   "authors": [
+    "Qingyang Zhang",
+    "Haitao Wu",
+    "Changqing Zhang",
+    "Peilin Zhao",
+    "Yatao Bian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fhRTlmoElb",
+   "pdf_url": "https://openreview.net/pdf?id=fhRTlmoElb"
+  },
+  {
+   "title": "Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval",
+   "authors": [
+    "Taiye Chen",
+    "Zeming Wei",
+    "Ang Li",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tEGPXBa9NM",
+   "pdf_url": "https://openreview.net/pdf?id=tEGPXBa9NM"
+  },
+  {
+   "title": "Scalable Temporal Domain Generalization via Prompting",
+   "authors": [
+    "Sepidehsadat Hosseini",
+    "Mengyao Zhai",
+    "Hossein Hajimirsadeghi",
+    "Frederick Tung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rLtRz14ptH",
+   "pdf_url": "https://openreview.net/pdf?id=rLtRz14ptH"
+  },
+  {
+   "title": "Scaling Textual Gradients via Sampling-Based Momentum",
+   "authors": [
+    "Zixin Ding",
+    "Junyuan Hong",
+    "Jiachen T. Wang",
+    "Zinan Lin",
+    "Zhangyang Wang",
+    "Yuxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hd8KbY52FF",
+   "pdf_url": "https://openreview.net/pdf?id=Hd8KbY52FF"
+  },
+  {
+   "title": "Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks",
+   "authors": [
+    "Vishnu Sarukkai",
+    "Zhiqiang Xie",
+    "Kayvon Fatahalian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YurjMGGTTj",
+   "pdf_url": "https://openreview.net/pdf?id=YurjMGGTTj"
+  },
+  {
+   "title": "Shift-Aware Test Time Adaptation and Benchmarking for Time-Series Forecasting",
+   "authors": [
+    "Shivam Grover",
+    "Ali Etemad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a399SmgWGl",
+   "pdf_url": "https://openreview.net/pdf?id=a399SmgWGl"
+  },
+  {
+   "title": "SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation",
+   "authors": [
+    "Jihyun Yu",
+    "Yoojin Oh",
+    "Wonho Bae",
+    "Mingyu Kim",
+    "Junhyug Noh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iV0WBCDGcx",
+   "pdf_url": "https://openreview.net/pdf?id=iV0WBCDGcx"
+  },
+  {
+   "title": "SwiTTA: Switching Domain Experts and Aggregating Contextual Features Towards Realistic Test-Time Adaptation",
+   "authors": [
+    "Chaoqun Du",
+    "Jiayi Guo",
+    "Yulin Wang",
+    "Gao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f86cDIc7yw",
+   "pdf_url": "https://openreview.net/pdf?id=f86cDIc7yw"
+  },
+  {
+   "title": "Temporal Sampling for Forgotten Reasoning in LLMs",
+   "authors": [
+    "Yuetai Li",
+    "Zhangchen Xu",
+    "Fengqing Jiang",
+    "Bhaskar Ramasubramanian",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Xiang Yue",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J0HWRSSpSJ",
+   "pdf_url": "https://openreview.net/pdf?id=J0HWRSSpSJ"
+  },
+  {
+   "title": "Test Time Adaptation Using Adaptive Quantile Recalibration",
+   "authors": [
+    "Paria Mehrbod",
+    "Pedro Vianna",
+    "geraldin nanfack",
+    "Guy Wolf",
+    "Eugene Belilovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vaYroILsQj",
+   "pdf_url": "https://openreview.net/pdf?id=vaYroILsQj"
+  },
+  {
+   "title": "Test-Time Adaptation for Generalizable Task Progress Estimation",
+   "authors": [
+    "Christos Ziakas",
+    "Alessandra Russo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DZzKLUDoQu",
+   "pdf_url": "https://openreview.net/pdf?id=DZzKLUDoQu"
+  },
+  {
+   "title": "Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo",
+   "authors": [
+    "Chinmay Pani",
+    "Zijing Ou",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iA8VFr9ax3",
+   "pdf_url": "https://openreview.net/pdf?id=iA8VFr9ax3"
+  },
+  {
+   "title": "Test-time Offline Reinforcement Learning on Goal-related Experience",
+   "authors": [
+    "Marco Bagatella",
+    "Mert Albaba",
+    "Jonas Hübotter",
+    "Georg Martius",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2oVZrfwVCM",
+   "pdf_url": "https://openreview.net/pdf?id=2oVZrfwVCM"
+  },
+  {
+   "title": "The Curious Language Model: Strategic Test-Time Information Acquisition",
+   "authors": [
+    "Michael Cooper",
+    "Rohan Wadhawan",
+    "John Michael Giorgi",
+    "Chenhao Tan",
+    "Davis Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Bfo9L5ayn",
+   "pdf_url": "https://openreview.net/pdf?id=1Bfo9L5ayn"
+  },
+  {
+   "title": "UniTTA: Unified Benchmark and Versatile Framework Towards Realistic Test-Time Adaptation",
+   "authors": [
+    "Chaoqun Du",
+    "Jiayi Guo",
+    "Yulin Wang",
+    "Gao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qmi7gVQ0TE",
+   "pdf_url": "https://openreview.net/pdf?id=Qmi7gVQ0TE"
+  },
+  {
+   "title": "Value Conditioned Policy Fine Tuning for Test Time Domain Adaptation",
+   "authors": [
+    "Harit Pandya",
+    "Ignas Budvytis",
+    "Rudra P. K. Poudel",
+    "Stephan Liwicki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MvP0kntGmC",
+   "pdf_url": "https://openreview.net/pdf?id=MvP0kntGmC"
+  },
+  {
+   "title": "When and How Unlabeled Data Provably Improve In-Context Learning",
+   "authors": [
+    "Yingcong Li",
+    "Xiangyu Chang",
+    "Muti Kara",
+    "Xiaofeng Liu",
+    "Amit Roy-Chowdhury",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RScsSyHEZJ",
+   "pdf_url": "https://openreview.net/pdf?id=RScsSyHEZJ"
+  },
+  {
+   "title": "Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics",
+   "authors": [
+    "Maksim Bobrin",
+    "Ilya Zisman",
+    "Alexander Nikulin",
+    "Dmitry V. Dylov",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1jonPSrREu",
+   "pdf_url": "https://openreview.net/pdf?id=1jonPSrREu"
+  }
+ ]
+}

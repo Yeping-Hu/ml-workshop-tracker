@@ -1,0 +1,506 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/WSL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:54.692Z",
+ "paper_count": 45,
+ "papers": [
+  {
+   "title": "A Model Zoo of Vision Transformers",
+   "authors": [
+    "Damian Falk",
+    "Léo Meynent",
+    "Florence Pfammatter",
+    "Konstantin Schürholt",
+    "Damian Borth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HyTVpctexy",
+   "pdf_url": null
+  },
+  {
+   "title": "A Model Zoo on Phase Transitions in Neural Networks",
+   "authors": [
+    "Konstantin Schürholt",
+    "Léo Meynent",
+    "Yefan Zhou",
+    "Yaoqing Yang",
+    "Damian Borth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HJJhDR6n3l",
+   "pdf_url": null
+  },
+  {
+   "title": "A Single Global Merging Suffices: Recovering Centralized Learning  Performance in Decentralized Learning",
+   "authors": [
+    "Tongtian Zhu",
+    "Tianyu Zhang",
+    "Mingze Wang",
+    "Zhanpeng Zhou",
+    "Can Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lWGMbJRCtQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space",
+   "authors": [
+    "Vinicius Hernandes",
+    "Thomas Spriggs",
+    "Saqar Khaleefah",
+    "Eliska Greplova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2KDbboC207",
+   "pdf_url": null
+  },
+  {
+   "title": "Adversarial Robustness in Parameter-Space Classifiers",
+   "authors": [
+    "Tamir Shor",
+    "Ethan Fetaya",
+    "Chaim Baskin",
+    "Alex M. Bronstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YICyBtCoZw",
+   "pdf_url": null
+  },
+  {
+   "title": "ARC: Anchored Representation Clouds for High-Resolution INR Classification",
+   "authors": [
+    "Joost Luijmes",
+    "Alexander Gielisse",
+    "Roman Knyazhitskiy",
+    "Jan van Gemert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CoUC4xDWvW",
+   "pdf_url": null
+  },
+  {
+   "title": "Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights",
+   "authors": [
+    "Jonathan Kahana",
+    "Or Nathan",
+    "Eliahu Horwitz",
+    "Yedid Hoshen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fJESU1M2qj",
+   "pdf_url": null
+  },
+  {
+   "title": "Can We Optimize Deep RL Policy Weights as Trajectory Modeling?",
+   "authors": [
+    "Hongyao Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EFgQSKCIgf",
+   "pdf_url": null
+  },
+  {
+   "title": "Collaborative Time Series Imputation through Meta-learned Implicit Neural Representations",
+   "authors": [
+    "Tong Nie",
+    "Wei Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zklPa3cNu9",
+   "pdf_url": null
+  },
+  {
+   "title": "Compressive Meta-Learning",
+   "authors": [
+    "Daniel Mas Montserrat",
+    "David Bonet",
+    "Maria Perera",
+    "Xavier Giró-i-Nieto",
+    "Alexander G. Ioannidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8T6Id4k9id",
+   "pdf_url": null
+  },
+  {
+   "title": "Cost-Efficient Continual Learning with Sufficient Exemplar Memory",
+   "authors": [
+    "Dong Kyu Cho",
+    "Taesup Moon",
+    "Rumi Chunara",
+    "Kyunghyun Cho",
+    "Sungmin Cha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8M497c82CF",
+   "pdf_url": null
+  },
+  {
+   "title": "Dataset Size Recovery from Fine-Tuned Model Weights",
+   "authors": [
+    "Mohammad Salama",
+    "Jonathan Kahana",
+    "Eliahu Horwitz",
+    "Yedid Hoshen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eSdxkSNbfZ",
+   "pdf_url": null
+  },
+  {
+   "title": "End-to-End Synthesis of Neural Programs in Weight Space",
+   "authors": [
+    "Wenhao Li",
+    "Yudong Xu",
+    "Elias Boutros Khalil",
+    "Scott Sanner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tzf3XUg0Q5",
+   "pdf_url": null
+  },
+  {
+   "title": "Equivariant Neural Functional Networks for Transformers",
+   "authors": [
+    "Hoang V. Tran",
+    "Thieu Vo",
+    "An Nguyen The",
+    "Tho Tran Huu",
+    "Minh-Khoi Nguyen-Nhat",
+    "Thanh Tran",
+    "Duy-Tung Pham",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qwba5wUtYr",
+   "pdf_url": null
+  },
+  {
+   "title": "Finding Stable Subnetworks at Initialization with Dataset Distillation",
+   "authors": [
+    "Luke McDermott",
+    "Rahul Parhi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vqDO42qeUa",
+   "pdf_url": null
+  },
+  {
+   "title": "Flow to Learn: Flow Matching on Neural Network Parameters",
+   "authors": [
+    "Daniel Saragih",
+    "Deyu Cao",
+    "Tejas Balaji",
+    "Ashwin Santhosh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r0ynTstq3c",
+   "pdf_url": null
+  },
+  {
+   "title": "Fusion of Graph Neural Networks via Optimal Transport",
+   "authors": [
+    "Weronika Ormaniec",
+    "Michael Vollenweider",
+    "Elisa Hoskovec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GRArRb4wzl",
+   "pdf_url": null
+  },
+  {
+   "title": "GNNMERGE: MERGING OF GNN MODELS WITHOUT ACCESSING TRAINING DATA",
+   "authors": [
+    "Vipul Garg",
+    "Ishita Thakre",
+    "Sayan Ranu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DIYMPC16Pi",
+   "pdf_url": null
+  },
+  {
+   "title": "GradMetaNet: An Equivariant Architecture for Learning on Gradients",
+   "authors": [
+    "Yoav Gelberg",
+    "Yam Eitan",
+    "Aviv Navon",
+    "Aviv Shamsian",
+    "Theo Putterman",
+    "Haggai Maron"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vLq615Cpmn",
+   "pdf_url": null
+  },
+  {
+   "title": "Hyper-Align: Efficient Modality Alignment via Hypernetworks",
+   "authors": [
+    "Jaisidh Singh",
+    "Diganta Misra",
+    "Boris Knyazev",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dyRHRxcgXX",
+   "pdf_url": null
+  },
+  {
+   "title": "Improving Learning to Optimize Using Parameter Symmetries",
+   "authors": [
+    "Guy Zamir",
+    "Aryan Dokania",
+    "Bo Zhao",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QokQg5vbKk",
+   "pdf_url": null
+  },
+  {
+   "title": "Instruction-Guided Autoregressive Neural Network Parameter Generation",
+   "authors": [
+    "Bedionita Soro",
+    "Bruno Andreis",
+    "Song Chong",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QutFK34ea1",
+   "pdf_url": null
+  },
+  {
+   "title": "Integrating Meta-Trained Hypernetworks with GBDTs and Retrieval for Tabular Data",
+   "authors": [
+    "David Bonet",
+    "Marçal Comajoan Cara",
+    "Alvaro Calafell",
+    "Daniel Mas Montserrat",
+    "Alexander G. Ioannidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=09gh2RWvqC",
+   "pdf_url": null
+  },
+  {
+   "title": "Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces",
+   "authors": [
+    "Yihuai Hong",
+    "Lei Yu",
+    "Haiqin Yang",
+    "Shauli Ravfogel",
+    "Mor Geva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7bziDC4uQo",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models",
+   "authors": [
+    "Theo Putterman",
+    "Derek Lim",
+    "Yoav Gelberg",
+    "Stefanie Jegelka",
+    "Haggai Maron"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MZmPapNtih",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning on Model Weights using Tree Experts",
+   "authors": [
+    "Eliahu Horwitz",
+    "Bar Cavia",
+    "Jonathan Kahana",
+    "Yedid Hoshen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vLeAC2q0dk",
+   "pdf_url": null
+  },
+  {
+   "title": "Mimetic Initialization Helps State Space Models Learn to Recall",
+   "authors": [
+    "Asher Trockman",
+    "Hrayr Harutyunyan",
+    "J Zico Kolter",
+    "Sanjiv Kumar",
+    "Srinadh Bhojanapalli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nerNr9fjfD",
+   "pdf_url": null
+  },
+  {
+   "title": "Mimetic Initialization of MLPs",
+   "authors": [
+    "Asher Trockman",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tgYAdsdB9q",
+   "pdf_url": null
+  },
+  {
+   "title": "Model Assembly Learning with Heterogeneous Layer Weight Merging",
+   "authors": [
+    "Yi-Kai Zhang",
+    "Jin Wang",
+    "Xu-Xiang Zhong",
+    "De-Chuan Zhan",
+    "Han-Jia Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T3tcaDgdaW",
+   "pdf_url": null
+  },
+  {
+   "title": "Model Diffusion for Certifiable Few-shot Transfer Learning",
+   "authors": [
+    "Fady Rezk",
+    "Royson Lee",
+    "Henry Gouk",
+    "Timothy Hospedales",
+    "Minyoung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bqekdoe5CK",
+   "pdf_url": null
+  },
+  {
+   "title": "On Symmetries in Convolutional Weights",
+   "authors": [
+    "Bilal Alsallakh",
+    "Timothy J Wroge",
+    "Vivek Miglani",
+    "Narine Kokhlikyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ilVH35l4Y6",
+   "pdf_url": null
+  },
+  {
+   "title": "On the internal representations of graph metanetworks",
+   "authors": [
+    "Taesun Yeom",
+    "Jaeho Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WAyD9ZPuk6",
+   "pdf_url": null
+  },
+  {
+   "title": "ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction",
+   "authors": [
+    "Tong Zhou",
+    "Shijin Duan",
+    "Gaowen Liu",
+    "Charles Fleming",
+    "Ramana Rao Kompella",
+    "Shaolei Ren",
+    "Xiaolin Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HbeugZAj4q",
+   "pdf_url": null
+  },
+  {
+   "title": "Recursive Self-Similarity in Deep Weight Spaces of Neural Architectures: A Fractal and Coarse Geometry Perspective",
+   "authors": [
+    "Ambarish Moharil",
+    "Indika Kumara",
+    "Majid Mohammadi",
+    "Damian Andrew Tamburri",
+    "Willem-Jan van den Heuvel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SB3WnII8d8",
+   "pdf_url": null
+  },
+  {
+   "title": "Scaling Up Parameter Generation: A Recurrent Diffusion Approach",
+   "authors": [
+    "Kai Wang",
+    "Dongwen Tang",
+    "Wangbo Zhao",
+    "Konstantin Schürholt",
+    "Zhangyang Wang",
+    "Yang You"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i87XBNGkF7",
+   "pdf_url": null
+  },
+  {
+   "title": "Shape Generation via Weight Space Learning",
+   "authors": [
+    "Maximilian Plattner",
+    "Arturs Berzins",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rC2aMcQWW5",
+   "pdf_url": null
+  },
+  {
+   "title": "Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction",
+   "authors": [
+    "Léo Meynent",
+    "Ivan Melev",
+    "Konstantin Schürholt",
+    "Goeran Kauermann",
+    "Damian Borth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=APsHrpqO3W",
+   "pdf_url": null
+  },
+  {
+   "title": "TeleLoRA: Teleporting Alignment across Large Language Models for Trojan Mitigation",
+   "authors": [
+    "Xiao Lin",
+    "Manoj Acharya",
+    "Anirban Roy",
+    "Susmit Jha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k8fBrpRD9j",
+   "pdf_url": null
+  },
+  {
+   "title": "Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization",
+   "authors": [
+    "Zexi Li",
+    "Lingzhi Gao",
+    "Chao Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sg4OTjUPgB",
+   "pdf_url": null
+  },
+  {
+   "title": "The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE",
+   "authors": [
+    "Andrei Chernov",
+    "Oleg Novitskij"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DBBwaFMADi",
+   "pdf_url": null
+  },
+  {
+   "title": "The Impact of Model Zoo Size and Composition on Weight Space Learning",
+   "authors": [
+    "Damian Falk",
+    "Konstantin Schürholt",
+    "Damian Borth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fp6EPW47hJ",
+   "pdf_url": null
+  },
+  {
+   "title": "The Space Between: On Folding, Symmetries and Sampling",
+   "authors": [
+    "Michal Lewandowski",
+    "Bernhard Heinzl",
+    "Raphael Pisoni",
+    "Bernhard A. Moser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rcPj90K7t6",
+   "pdf_url": null
+  },
+  {
+   "title": "Uncovering Latent Chain of Thought Vectors in Large Language Models",
+   "authors": [
+    "Jason Zhang",
+    "Scott W Viteri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ICuIdJzBPm",
+   "pdf_url": null
+  },
+  {
+   "title": "Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations",
+   "authors": [
+    "Uvini Balasuriya Mudiyanselage",
+    "Woojin Cho",
+    "Minju Jo",
+    "Noseong Park",
+    "Kookjin Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d2tuf1C8Vm",
+   "pdf_url": null
+  },
+  {
+   "title": "Vanishing Feature: Diagnosing Model Merging and Beyond",
+   "authors": [
+    "Xingyu Qu",
+    "Samuel Horváth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q9DioLSXDL",
+   "pdf_url": null
+  }
+ ]
+}

@@ -15,7 +15,6 @@
     "Can Ergen",
     "Nir Yosef"
    ],
-   "abstract": "Spatial transcriptomics enables studying cellular interactions by measuring gene expression in situ while preserving tissue context. Within tissues, distinct cellular niches define micro-environments that influence cell states and function. A fundamental task in spatial transcriptomics is identifying differentially expressed genes within a specific cell type across different niches to quantify context-dependent cell state variation. Despite advances in cell segmentation algorithms, the persisting problem of the wrong assignment of molecules to cells can obscure the analysis by introducing spurious differentially expressed genes that originate from neighboring cells rather than the group of interest. Here, we introduce 2DE, a probabilistic framework designed to refine spatial differential expression analyses by filtering out genes that are over-expressed due to local contamination rather than true cell-intrinsic expression. 2DE operates downstream of any differential expression method, filtering irrelevant genes by considering gene over-expression relative to the expression in the neighborhood and returning marker confidence scores. In a study of human breast cancer, we demonstrate that 2DE improves the precision of the discoveries.",
    "forum_url": "https://openreview.net/forum?id=7Jxb5zfcZn",
    "pdf_url": "https://openreview.net/pdf?id=7Jxb5zfcZn"
   },
@@ -27,7 +26,6 @@
     "Jinge Ma",
     "Daniel J. Klionsky"
    ],
-   "abstract": "Data-driven approaches to genomic discovery have been accelerated by emerging efforts in machine learning. However, due to the inherent complexity of genomic data, it can be challenging to model or utilize the data and their intricate relationships. In this work, we propose a framework for genomic prediction utilizing information from various genomic databases. We use a knowledge graph following existing work to extract gene representations and either use XGBoost or construct a graph to rank feature importance. By filtering key features and computing relevancy scores with genes that are known to be associated or unassociated with a specified area, we recommend unlabeled gene candidates with a high likelihood of association for further genomic research. We demonstrate how this framework works by applying it to autophagy genomics, illustrating its potential as a powerful recommendation system for genomic discovery.",
    "forum_url": "https://openreview.net/forum?id=RdHLANURna",
    "pdf_url": "https://openreview.net/pdf?id=RdHLANURna"
   },
@@ -35,13 +33,12 @@
    "title": "A Scalable LLM Framework for Therapeutic Biomarker Discovery: Grounding Q/A Generation in Knowledge Graphs and Literature",
    "authors": [
     "Marc Boubnovski Martell",
-    "Kaspar Märtens",
+    "Kaspar M\u00e4rtens",
     "Lawrence Phillips",
     "Daniel Keitley",
     "Maria Dermit",
     "Julien Fauqueur"
    ],
-   "abstract": "Therapeutic biomarkers are crucial in biomedical research and clinical decision-making, yet the field lacks standardized datasets and evaluation methods for complex, context-dependent questions. To address this, we integrate large language models (LLMs) with knowledge graphs (KGs) to filter PubMed abstracts, summarize biomarker contexts, and generate a high-quality synthetic Q/A dataset. Our approach mirrors biomarker scientists' workflows, decomposing question generation into classification, named entity recognition (NER), and summarization. We release a 24k high quality Q/A dataset and show through ablation studies that incorporating NER and summarization improves performance over using abstracts alone. Evaluating multiple LLMs, we find that while models achieve 96\\% accuracy on multiple-choice questions, performance drops to 69\\% on open-ended Q/A, highlighting the need for synthetic data to address the issue of novel discovery. By addressing a critical resource gap, this work provides a scalable tool for biomarker research and demonstrates AI’s broader potential in scientific discovery.",
    "forum_url": "https://openreview.net/forum?id=ClewUE4sUK",
    "pdf_url": "https://openreview.net/pdf?id=ClewUE4sUK"
   },
@@ -52,7 +49,6 @@
     "Peter Tino",
     "Nicole E Wheeler"
    ],
-   "abstract": "This paper proposes a feature selection framework for machine learning–based bacterial genome-wide association studies aimed at uncovering resistance-causing traits. Using a well-characterized Staphylococcus aureus pangenome as a ground truth for causal‐variant labels, we demonstrate improved control for population structure and enhanced interpretability through the explicit incorporation of genomic context derived from graph-structured data, based on the compacted de Bruijn graph for an assembled pangenome. Our framework successfully uncovers resistance-causing traits for 9 of 14 antibiotics using a significantly reduced feature set, while preserving genomic marker identifiability via unique mappings between the encoded feature space and sequential representations that tag specific genomic loci.",
    "forum_url": "https://openreview.net/forum?id=YaEozn3y0G",
    "pdf_url": "https://openreview.net/pdf?id=YaEozn3y0G"
   },
@@ -63,7 +59,6 @@
     "Pierre Boyeau",
     "Nir Yosef"
    ],
-   "abstract": "Large Language Models (LLMs) have the ability to utlilize expert knowledge and simulate human thinking, which potentially makes them instrumental for a variety of scientific tasks. However, since scientific data is heterogeneous, often presented in the form of unordered tables, bridging the gap between unstructured non-textual data and the language processing capabilities of LLMs remains an open challenge. Agentic AI offers a promising approach by enabling LLMs to interactively query datasets for relevant information. Here, we explore the application of this agentic paradigm to single-cell transcriptomic analysis, with a specific focus on cell type annotation. Our results show that when LLMs are equipped with data-querying capabilities, their performance in annotating cell types improves significantly compared to single-shot prompting. Furthermore, we provide a proof of concept illustration of how our method can be used to integrate diverse single-cell datasets (e.g., cell census), ensuring consistent annotation across multiple sources, facilitating meta-analysis across big sample cohorts.",
    "forum_url": "https://openreview.net/forum?id=DjxLkshuSx",
    "pdf_url": "https://openreview.net/pdf?id=DjxLkshuSx"
   },
@@ -78,7 +73,6 @@
     "Gabriele Gut",
     "Charlotte Bunne"
    ],
-   "abstract": "Spatial proteomics technologies have transformed our understanding of complex tissue architectures by enabling simultaneous analysis of multiple molecular markers and their spatial organization. The high dimensionality of these data, varying marker combinations across experiments and heterogeneous study designs pose unique challenges for computational analysis. Here, we present Virtual Tissues (VirTues), a foundation model framework for biological tissues that operates across the molecular, cellular and tissue scale. VirTues introduces innovations in transformer architecture design, including a novel tokenization scheme that captures both spatial and marker dimensions, and attention mechanisms that scale to high-dimensional multiplex data while maintaining interpretability. Trained on diverse cancer and non-cancer tissue datasets, VirTues demonstrates strong generalization capabilities without task-specific fine-tuning, enabling cross-study analysis and novel marker integration. As a generalist model, VirTues outperforms existing approaches across clinical diagnostics, biological discovery and patient case retrieval tasks, while providing insights into tissue function and disease mechanisms.",
    "forum_url": "https://openreview.net/forum?id=Rr2opkycEu",
    "pdf_url": "https://openreview.net/pdf?id=Rr2opkycEu"
   },
@@ -90,7 +84,6 @@
     "Sangseon Lee",
     "Sun Kim"
    ],
-   "abstract": "Drug discovery is a complex and resource-intensive process requiring the design of molecules that possess specific chemical and biological properties, such as high binding affinity and drug-likeness. Fragment-based drug discovery (FBDD) has gained prominence as a strategy for efficiently identifying lead compounds by deconstructing molecules into smaller fragments. However, existing approaches face challenges in fully leveraging the relationships between molecules and their constituent fragments, especially in optimizing molecular properties. In this paper, we introduce Molecule-Fragment Representation Alignment space for RL-based Generation (M-FRAG), a novel framework that harmonizes molecule and fragment embeddings in a shared, property-driven space. By aligning fragments with their molecular context, M-FRAG ensures that fragment selection is optimized both for chemical feasibility and the desired molecular properties. Using reinforcement learning, M-FRAG generates chemically realistic molecules optimized for target properties while also providing interpretability for individual fragments during the molecule generation process. Experimental results demonstrate that M-FRAG outperforms existing methods in terms of optimization, diversity, and chemical validity, positioning it as a powerful tool for the efficient and transparent generation of drug-like molecules.",
    "forum_url": "https://openreview.net/forum?id=lwK6AaIAJB",
    "pdf_url": "https://openreview.net/pdf?id=lwK6AaIAJB"
   },
@@ -100,11 +93,10 @@
     "Pablo Rodenas Ruiz",
     "Ali Saadat",
     "Timothy T. Tran",
-    "Oliver Müller Smedt",
+    "Oliver M\u00fcller Smedt",
     "Peng Zhang",
     "Jacques Fellay"
    ],
-   "abstract": "Accurate prediction of RNA branch points is critical for understanding splicing mechanisms and identifying variants that may lead to genetic diseases. Despite their biological importance, few computational methods have been developed for reliably identifying branch points. In this work, we fine-tune several RNA language models for branch point prediction. The top-performing model, ERNIE-RNA, achieved an $F_1$ score of 0.811, a sequence accuracy of 0.790, and an average precision score of 0.868, outperforming previous leading models. These results showcase the potential of RNA-specific language models in capturing the subtle sequence features relevant to splicing. Our findings suggest that extended training and hyperparameter tuning could yield additional performance gains, positioning this study as a strong baseline for future research in RNA splicing.",
    "forum_url": "https://openreview.net/forum?id=Q15Dg5lQou",
    "pdf_url": "https://openreview.net/pdf?id=Q15Dg5lQou"
   },
@@ -114,7 +106,6 @@
     "Mahbuba Tasmin",
     "Anna G. Green"
    ],
-   "abstract": "To combat the rise of antibiotic-resistant $\\textit{Mycobacterium tuberculosis}$, genotype-based diagnosis of resistance is critical, as it could substantially speed time to treatment. However, machine learning efforts at genotype-based resistance prediction are hindered by limited sequence diversity and high redundancy in genomic datasets, complicating model generalization. Here, we introduce a dataset of $\\textit{M. tuberculosis}$ sequences for nine key resistance-associated genes and corresponding resistance phenotypes, performing genotype de-duplication to mitigate the effects of data leakage. This study introduces a Fused Ridge approach that moves beyond sequence-only prediction by introducing protein structure constraints. We compare to baseline Ridge regression and zero-shot mutation effect prediction using ESM-2 embeddings. Our results show that Fused Ridge achieves the highest mean AUC (0.766), outperforming Ridge regression (0.755) and ESM-2-based log-likelihood ratio scoring (0.603). It also exhibits improved precision and recall in identifying resistance-conferring variants, particularly for genes such as $\\textit{gyrA}$ and $\\textit{rpoB}$, likely due to the strong association between the 3D location of mutations and resistance. The fusion penalty enforces smoothness in regression coefficients for spatially adjacent residues, embedding biological knowledge into the predictive framework, and improves generalization in sparse and highly redundant datasets.",
    "forum_url": "https://openreview.net/forum?id=cwi0o5rrVG",
    "pdf_url": "https://openreview.net/pdf?id=cwi0o5rrVG"
   },
@@ -125,7 +116,6 @@
     "Yasser Poreesmaiel",
     "Junfeng Jiao"
    ],
-   "abstract": "Large Language Models (LLMs) are increasingly used in medicine, but the traditional factual/hallucinatory distinction fails to reflect the evolving nature of medical knowledge. This paper critiques that binary and proposes a refined, three-tiered classification: (1) Currently Verifiable Responses, (2) Tentatively Examinable Responses, and (3) Predictive Responses. This framework introduces a veridicality gradient and emphasizes temporal verifiability, enabling more accurate evaluation, reducing clinical risk, and supporting adaptive model calibration. Ultimately, it promotes the development of safer and more epistemically responsible medical AI systems.",
    "forum_url": "https://openreview.net/forum?id=B4KMAqeTfv",
    "pdf_url": "https://openreview.net/pdf?id=B4KMAqeTfv"
   },
@@ -137,7 +127,6 @@
     "Asher Moldwin",
     "Amarda Shehu"
    ],
-   "abstract": "Transformer-based language models have shown promise in genomics but face challenges unique to DNA, such as sequence lengths spanning hundreds of millions of base pairs and subtle long-range dependencies. Although next-token prediction remains the predominant pre-training objective (inherited from NLP), recent research suggests that multi-objective frameworks can better capture complex structure. In this work, we explore whether the Birdie framework, a reinforcement learning-based, mixture-of-objectives pre-training strategy, can similarly benefit genomic foundation models. We compare a slightly modified Birdie approach with a purely autoregressive, next token prediction baseline on standard Nucleotide Transformer benchmarks. Our results show performance gains in the DNA domain, indicating that mixture-of-objectives training could be a promising alternative to next token prediction only pre-training for genomic sequence modeling.",
    "forum_url": "https://openreview.net/forum?id=Gg0850bgBy",
    "pdf_url": "https://openreview.net/pdf?id=Gg0850bgBy"
   },
@@ -150,7 +139,6 @@
     "Rex Liu",
     "Matt Thomson"
    ],
-   "abstract": "Cellular interactions form the fundamental/core circuits that drive development, physiology, and disease within tissues. Advances in spatial genomics (SG) and artificial intelligence (AI) offer unprecedented opportunities to computationally analyze and predict the behavior of cell intricate networks, and to identify interactions that drive disease states. However, challenges arise in both \\textit{methodology} and \\textit{scalability}: \\textbf{(i)} how to computationally characterize complicated cellular interactions of multi-scale nature, where chemical genes/circuits in individual cells process information and drive interactions among large numbers of diverse cell types, and \\textbf{(ii)} how to scale up the pipeline to accommodate the increasing volumes of SG data that map transcriptome-scale gene expression and spatial proximity across millions of cells. In this paper, we introduce the \\textbf{Cellular Interaction Foundation Model} (\\textbf{CIFM}), an AI foundation model functioning to analyze and simulate cellular interactions within living tissues. In the CIFM pipeline, we explicitly capture and embed interactions of cells within microenvironments by leveraging the powerful and scalable geometric graph neural network model, and optimize the characterization of cellular interactions with a novel self-supervised learning objective -- we train it to infer gene expressions of cells based upon their surrounding microenvironments. As a result, we construct CIFM with 100 millio…",
    "forum_url": "https://openreview.net/forum?id=hy12KXLT0K",
    "pdf_url": "https://openreview.net/pdf?id=hy12KXLT0K"
   },
@@ -164,7 +152,6 @@
     "Yeongmin Kim",
     "Chanyoung Park"
    ],
-   "abstract": "The hypergraph data structure has been used to represent the multiway interactions of a set of genes of a genetic pathway. Since genes within each genetic pathway collaboratively perform a biological function, the functional context of a pathway (i.e., the interaction context of a hyperedge), which is often unannotated, needs to be captured. However, most existing hypergraph neural networks fail to reflect the interaction context of each hyperedge due to their limited ability to capture important or relevant factors. In this paper, we propose a simple yet effective hyperedge disentangling method, Natural-HNN, which captures the interaction context of a hyperedge. We introduce a novel guidance mechanism for hyperedge disentanglement based on the naturality condition in category theory. In our experiments, we applied our model to hypergraphs of genetic pathways for the cancer subtype classification task and demonstrated that our model outperforms baseline approaches by capturing the functional semantic similarity of genetic pathways.",
    "forum_url": "https://openreview.net/forum?id=uZ6B53QSHZ",
    "pdf_url": "https://openreview.net/pdf?id=uZ6B53QSHZ"
   },
@@ -173,7 +160,6 @@
    "authors": [
     "Qifei Wang"
    ],
-   "abstract": "Applying machine learning to cellular data presents several challenges. One such challenge is making the methods interpretable concerning both the cellular information and its context. Another less-explored challenge is the accurate representation of cells outside existing references, referred to as out-of-distribution (OOD) cells. OOD cells arise from physiological conditions (e.g., diseased vs. healthy) or technical variations (e.g., single-cell references vs. spatial queries). Inspired by the Global Workspace Theory in cognitive neuroscience, we introduce CellMemory, a bottlenecked Transformer with improved generalization designed for the hierarchical interpretation of OOD cells. CellMemory outperforms large-scale foundation models pre-trained on tens of millions of cells, even without pre-training. Moreover, it robustly characterizes malignant cells and their founder cells across different patients, revealing cellular changes caused by the diseases. We further propose leveraging CellMemory’s capacity to integrate multi-modalities and phenotypic information, advancing toward the construction of VIRTUAL ORGAN.",
    "forum_url": "https://openreview.net/forum?id=e5uLntjTeD",
    "pdf_url": "https://openreview.net/pdf?id=e5uLntjTeD"
   },
@@ -184,21 +170,19 @@
     "Wei Chen",
     "Sinan Keten"
    ],
-   "abstract": "The properties of biological materials like proteins and nucleic acids are largely determined by their primary sequence. Certain segments in the sequence strongly influence specific functions, identifying these segments, or so-called motifs, is challenging due to the complexity of sequential data. While deep learning (DL) models can accurately capture sequence-property relationships, the degree of nonlinearity in these models limits the assessment of monomer contributions to a property - a critical step in identifying key motifs. Recent advances in explainable AI (XAI) offer attention and gradient-based methods for estimating monomeric contributions. However, these methods are primarily applied to classification tasks, such as binding site identification, where they achieve limited accuracy (40–45\\%) and rely on qualitative evaluations. To address these limitations, we introduce a DL model with interpretable steps, enabling direct tracing of monomeric contributions. Inspired by the masking technique commonly used in vision and language processing domains, we propose a new metric ($\\mathcal{I}$) for quantitative evaluation on datasets mainly containing distinct properties of anti-cancer peptides (ACP), antimicrobial peptides (AMP), and collagen. Our model exhibits 22\\% higher explainability than the gradient and attention-based state-of-the-art models, recognizes critical motifs (RRR, RRI, and RSS) that significantly destabilize ACPs, and identifies motifs in AMPs that are 50\\…",
    "forum_url": "https://openreview.net/forum?id=4JGIrEGfYz",
    "pdf_url": "https://openreview.net/pdf?id=4JGIrEGfYz"
   },
   {
    "title": "Curly Flow Matching for Learning Non-gradient Field Dynamics",
    "authors": [
-    "Katarina Petrović",
+    "Katarina Petrovi\u0107",
     "Lazar Atanackovic",
     "Kacper Kapusniak",
     "Michael M. Bronstein",
     "Joey Bose",
     "Alexander Tong"
    ],
-   "abstract": "Modeling the transport dynamics of natural processes from population-level observations is a ubiquitous problem that arises in the natural sciences. A key challenge in these settings is making important modeling assumptions over the scientific process at hand that enable faithful learning of governing dynamics that mimic actual system behavior. Traditionally, the de-facto assumption present in approaches relies on the principle of least action that result in gradient field dynamics, that lead to trajectories that minimize an energy functional between two probability measures. However, many real world systems such as cell cycles in single-cell RNA are known to exhibit non-gradient, periodic behavior, which fundamentally cannot be captured by current state-of-the-art methods such as optimal transport based conditional flow matching. In this paper, we introduce Curly Flow Matching (Curly-FM), a novel approach that is capable of learning non-gradient field dynamics by designing and solving a Schrödinger bridge problem with a reference process with non-zero drift---in stark contrast from zero-drift reference processes---which is constructed using inferred velocities in addition to population snapshot data. We instantiate Curly-FM by solving the single-cell trajectory inference problem with approximate velocities inferred using RNA velocity. We demonstrate that Curly-FM can learn trajectories that match both RNA velocity and population marginals. Curly-FM expands flow matching mode…",
    "forum_url": "https://openreview.net/forum?id=Cv84fXtQPJ",
    "pdf_url": "https://openreview.net/pdf?id=Cv84fXtQPJ"
   },
@@ -211,7 +195,6 @@
     "David L. Bentley",
     "Mihaela van der Schaar"
    ],
-   "abstract": "The analysis of DNA sequences has become increasingly critical in numerous fields, from evolutionary biology to understanding gene regulation and disease mechanisms. While machine learning approaches to DNA sequence classification, particularly deep neural networks, achieve remarkable performance, they typically operate as black boxes, severely limiting their utility for scientific discovery and biological insight. Decision trees offer a promising direction for interpretable DNA sequence analysis, yet they suffer from a fundamental limitation: considering individual raw features in isolation at each split limits their expressivity, which results in prohibitive tree depths that hinder both interpretability and generalization performance. We address this challenge by introducing $\\texttt{DEFT}$, a novel framework that adaptively generates high-level sequence features during tree construction. $\\texttt{DEFT}$ leverages large language models to propose biologically-informed features tailored to the local sequence distributions at each node and to iteratively refine them with a reflection mechanism. Through a comprehensive case study on RNA polymerase II pausing prediction, we demonstrate that $\\texttt{DEFT}$ discovers human-interpretable sequence features which are highly predictive of pausing, providing insights into this complex phenomenon.",
    "forum_url": "https://openreview.net/forum?id=433YQo03lM",
    "pdf_url": "https://openreview.net/pdf?id=433YQo03lM"
   },
@@ -226,7 +209,6 @@
     "Liisi Laaniste",
     "Sera Aylin Cakiroglu"
    ],
-   "abstract": "Genome-scale perturbation cell atlases are an exciting new resource for understanding the transcriptomic and phenotypic impact of single-gene activation or knockdown. However, in terms of differentially expressed genes identified, the signal detected in these data atlases is low, leading to the exclusion of most data from downstream analyses. Recent advances in single-cell foundation models have shown promise in capturing complex biological insights. However, their application to perturbation analysis, especially in predicting perturbed single-cell transcriptomes, remains limited. In this paper, we focus on learning representations of single-cell transcriptomes that capture subtle, yet important, transcriptome-wide changes, and we propose a novel fine-tuning strategy using contrastive learning to leverage single-cell foundation models for this task. We pre-train a single-cell foundation model and fine-tune on a genome-scale perturbation dataset using a contrastive loss, which minimises the distance between cell embeddings from unperturbed cells while maximising between perturbed and unperturbed cells. We validate and test the model on unseen perturbations, demonstrating its ability to identify global biologically meaningful transcriptional changes that may not be captured by traditional differential expression methods. Our approach provides a novel framework for analysing single-cell perturbation data and offers a more effective means of identifying perturbations that drive s…",
    "forum_url": "https://openreview.net/forum?id=xBxjRdkof9",
    "pdf_url": "https://openreview.net/pdf?id=xBxjRdkof9"
   },
@@ -239,7 +221,6 @@
     "Augustin Luna",
     "Tianfan Fu"
    ],
-   "abstract": "Advancements in large language models (LLMs) allow them to address diverse questions using human-like interfaces. Still, limitations in their training prevent them from answering accurately in scenarios that could benefit from multiple perspectives. Multi-agent systems allow the resolution of questions to enhance result consistency and reliability. While drug-target interaction (DTI) prediction is important for drug discovery, existing approaches face challenges due to complex biological systems and the lack of interpretability needed for clinical applications. DrugAgent is a multi-agent LLM system for DTI prediction that combines multiple specialized perspectives with transparent reasoning. Our system adapts and extends existing multi-agent frameworks by (1) applying coordinator-based architecture to the DTI domain, (2) integrating domain-specific data sources, including ML predictions, knowledge graphs, and literature evidence, and (3) incorporating Chain-of-Thought (CoT) and ReAct (Reason+Act) frameworks for transparent DTI reasoning. We conducted comprehensive experiments using a kinase inhibitor dataset, where our multi-agent LLM method outperformed the non-reasoning multi-agent model (GPT-4o mini) by 45% in F1 score (0.514 vs 0.355). Through ablation studies, we demonstrated the contributions of each agent, with the AI agent being the most impactful, followed by the KG agent and search agent. Most importantly, our approach provides detailed, human-interpretable reasonin…",
    "forum_url": "https://openreview.net/forum?id=QcujughqCJ",
    "pdf_url": "https://openreview.net/pdf?id=QcujughqCJ"
   },
@@ -252,7 +233,6 @@
     "Justin Cosentino",
     "Farhad I Hormozdiari"
    ],
-   "abstract": "Electrocardiograms (ECGs) are fundamental to cardiac diagnostics, providing noninvasive insights into cardiovascular conditions. Recent advancements in deep learning have led to foundation models (FMs) capable of learning powerful representations of ECG signals. However, these models often fail to fully exploit the periodic nature and diagnostic frequency bands of ECGs, leading to inefficiencies in computational cost and interpretability. We propose a novel ECG foundation model that learns nested embeddings, where each subset of dimensions encodes progressively higher-frequency information. By explicitly modeling frequency structures and applying a correlation penalty, the method achieves compact, high-rank representations that reduce model size without sacrificing performance. We evaluate our approach on two large-scale datasets for embedding redundancy and prediction performance on downstream clinical tasks such as arrhythmia classification, and cardiac condition detection. We observe similar prediction performance AUROC scores and lower embedding redundancy, offering a computationally efficient and interpretable framework for ECG analysis. Finally, the representations obtained from our model in UK Biobank data capture known cardiovascular variants and detect novel loci, which can be applied to drug discovery.",
    "forum_url": "https://openreview.net/forum?id=k4P5JXv69b",
    "pdf_url": "https://openreview.net/pdf?id=k4P5JXv69b"
   },
@@ -266,7 +246,6 @@
     "Gabriele Scalia",
     "Tommaso Biancalani"
    ],
-   "abstract": "Predicting transcriptional responses to novel drugs provides a unique opportunity to accelerate biomedical research and advance drug discovery efforts. However, the inherent complexity and high dimensionality of cellular responses, combined with the extremely limited available experimental data, makes the task challenging. In this study, we leverage single-cell foundation models (FMs) pre-trained on tens of millions of single cells, encompassing multiple cell types, states, and disease annotations, to address molecular perturbation prediction. We introduce a drug-conditional adapter that allows efficient fine-tuning by training less than 1% of the original foundation model, thus enabling molecular conditioning while preserving the rich biological representation learned during pre-training. The proposed strategy allows not only the prediction of cellular responses to novel drugs, but also the zero-shot generalization to unseen cell lines. We establish a robust evaluation framework to assess model performance across different generalization tasks, demonstrating state-of-the-art results across all settings, with significant improvements in the few-shot and zero-shot generalization to new cell lines compared to existing baselines.",
    "forum_url": "https://openreview.net/forum?id=XYbl2uefvm",
    "pdf_url": "https://openreview.net/pdf?id=XYbl2uefvm"
   },
@@ -280,7 +259,6 @@
     "Angel X Chang",
     "Graham W. Taylor"
    ],
-   "abstract": "Masked language modelling (MLM) as a pretraining objective has been widely adopted in genomic sequence modelling. While pretrained models can successfully serve as encoders for various downstream tasks, the distribution shift between pretraining and inference detrimentally impacts performance, as the pretraining task is to map [MASK] tokens to predictions, yet the [MASK] is absent during downstream applications. This means the encoder does not prioritize its encodings of non-[MASK] tokens, and expends parameters and compute on work only relevant to the MLM task, despite this being irrelevant at deployment time. In this work, we propose a modified encoder-decoder architecture based on the masked autoencoder framework, designed to address this inefficiency within a BERT-based transformer. We empirically show that the resulting mismatch is particularly detrimental in genomic pipelines where models are often used for feature extraction without fine-tuning. We evaluate our approach on the BIOSCAN-5M dataset, comprising over 2 million unique DNA barcodes. We achieve substantial performance gains in both closed-world and open-world classification tasks when compared against causal models and bidirectional architectures pretrained with MLM tasks. The code repository is available at https://github.com/bioscan-ml/BarcodeMAE.",
    "forum_url": "https://openreview.net/forum?id=Kx3tpVG4M7",
    "pdf_url": "https://openreview.net/pdf?id=Kx3tpVG4M7"
   },
@@ -292,7 +270,6 @@
     "Irem Boybat",
     "William Andrew Simon"
    ],
-   "abstract": "The ability to quickly and accurately identify microbial species in a sample, known as metagenomic profiling, is critical across various fields, from healthcare to environmental science. This paper introduces a novel method to profile signals coming from sequencing devices in parallel with determining their nucleotide sequences, a process known as basecalling, via a multi-task deep neural network for simultaneous basecalling and multi-class genome classification. We introduce a new multi-objective loss strategy where basecalling and classification losses are back-propagated separately, with model weights combined for the shared layers, and a pre-configured ranking strategy allowing top-$\\textit{K}$ species accuracy, giving users flexibility to choose between higher accuracy or lower latency at identifying the species. We achieve state-of-the-art basecalling accuracies, while multi-class classification accuracies meet and exceed the results of state-of-the-art binary classifiers, attaining an average of 92.5\\%/98.9\\% accuracy at identifying the top-1/3 species among a total of 17 genomes in the Wick bacterial dataset. This work has implications for future studies in metagenomic profiling by accelerating the bottleneck step of matching the DNA sequence to the correct genome.",
    "forum_url": "https://openreview.net/forum?id=bgM738EDYS",
    "pdf_url": "https://openreview.net/pdf?id=bgM738EDYS"
   },
@@ -301,7 +278,6 @@
    "authors": [
     "KRITIKA CHUGH"
    ],
-   "abstract": "This study presents a framework that leverages retrieval augmented generation (RAG) to enhance the interpretation and analysis of complex bioinformatics data in Escherichia coli (E.coli) genomics. By integrating bioinformatics tools including pairwise alignment, NCBI annotation, multiple sequence alignment (MSA) with large language models (LLMs) such as GPT o3-mini, Gemini 2.0 Advanced Flash Thinking Experimental model, and Grok 3, our approach combines real-time data retrieval with dynamic natural language generation. This integration enables the conversion of raw computational output into coherent and accessible narratives, facilitating a deeper understanding of genomic organization and gene function. The RAG framework augments LLM capabilities by retrieving the latest domain-specific knowledge, which is then used to refine and contextualize the insights generated. Through custom prompt engineering, our system synthesizes diverse datasets to highlight key aspects of genomic variation, conserved synteny, and annotation consistency across multiple E. coli strains. In general, our work demonstrates that integrating RAG with traditional bioinformatics methods offers a powerful, scalable solution to transform complex genomic datasets into actionable biological insights, paving the way for more efficient and accurate genomic analysis in microbial research.",
    "forum_url": "https://openreview.net/forum?id=Q74mey5NZl",
    "pdf_url": "https://openreview.net/pdf?id=Q74mey5NZl"
   },
@@ -309,9 +285,8 @@
    "title": "ESM-Effect: An Effective and Efficient Fine-Tuning Framework towards accurate prediction of Mutation's Functional Effect",
    "authors": [
     "Moritz Glaser",
-    "Johannes Brägelmann"
+    "Johannes Br\u00e4gelmann"
    ],
-   "abstract": "Predicting functional properties of mutations like the change in enzyme activity remains challenging and is not well captured by traditional pathogenicity prediction. Yet such functional predictions are crucial in areas like targeted cancer therapy where some drugs may only be administered if a mutation causes an increase in enzyme activity. Current approaches either leverage static Protein-Language Model (PLM) embeddings or complex multi-modal features (e.g., static PLM embeddings, structure, and evolutionary data) and either (1) fall short in accuracy or (2) involve complex data processing and pre-training. Standardized datasets and metrics for robust benchmarking would benefit model development but do not yet exist for functional effect prediction. To address these challenges we develop ESM-Effect, an optimized PLM-based functional effect prediction framework through extensive ablation studies. ESM-Effect fine-tunes ESM2 PLM with an inductive bias regression head to achieve state-of-the-art performance. It surpasses the multi-modal state-of-the-art method PreMode, indicating redundancy of structural and evolutionary features, while training 6.7-times faster. In addition, we develop a benchmarking framework with robust test datasets and strategies, and propose a novel metric for prediction accuracy termed relative Bin-Mean Error (rBME): rBME emphasizes prediction accuracy in challenging, non-clustered, and rare gain-of-function regions and correlates more intuitively with m…",
    "forum_url": "https://openreview.net/forum?id=kY3zOTMtjU",
    "pdf_url": "https://openreview.net/pdf?id=kY3zOTMtjU"
   },
@@ -321,7 +296,6 @@
     "Ali Saadat",
     "Jacques Fellay"
    ],
-   "abstract": "Advancements in DNA language models (DNA-LMs) have improved phenotype prediction from DNA sequences, yet the roles of zygosity and genetic variation (GV) remain underexplored. In this study we quantify their effects on gene expression prediction as an example of variation-sensitive phenotype, showing that baseline models benefit from zygosity- and GV-aware encoding, while DNA-LMs struggle to utilize them. These findings underscore the need for integrating biologically meaningful features like zygosity and GV in DNA-LM pretraining to better capture genetic diversity and improve variant interpretation.",
    "forum_url": "https://openreview.net/forum?id=wW6jhSMTEg",
    "pdf_url": "https://openreview.net/pdf?id=wW6jhSMTEg"
   },
@@ -330,7 +304,6 @@
    "authors": [
     "Amber Qayum Hawabaz"
    ],
-   "abstract": "In the rapidly evolving field of Genomics AI, fairness and generalization are critical challenges, especially when AI systems rely on Active Learning (AL) to optimize data selection. Traditional AL methods, while effective in selecting informative samples, often overlook fairness considerations, leading to biased models that fail to generalize across diverse populations. This paper introduces Fairness-Aware Causal Active Learning for Genomics AI (FACA-GEN), a novel framework that integrates fairness-aware AL, Causal Representation Learning (CRL), and Reinforcement Learning (RL) to address these issues. FACA-GEN dynamically selects training samples while optimizing for both fairness and causal validity, ensuring that models do not rely on biased proxies like race or ethnicity. We employ multi-objective optimization to balance informativeness, fairness, and causal validity, using RL to adaptively adjust fairness constraints over time. Additionally, we introduce Causal Consistency Loss to enforce the learning of true genetic markers and mitigate shortcut biases. Our approach actively selects samples based on informativeness, fairness, and causal relevance, overcoming bias and shortcut learning prevalent in genomics AI. Through experiments on genomics datasets, we demonstrate that FACA-GEN significantly improves model fairness and generalization, offering a more robust and equitable solution for AI-driven biology. The results show significant improvements in fairness metrics (Dem…",
    "forum_url": "https://openreview.net/forum?id=HrU10YCDoh",
    "pdf_url": "https://openreview.net/pdf?id=HrU10YCDoh"
   },
@@ -341,7 +314,6 @@
     "Justin Milner",
     "Natalie Stanley"
    ],
-   "abstract": "Longitudinal single-cell data has spurred the development of computational trajectory models with the power to make time-resolved, testable predictions about cell fates. As ”real-time” trajectory inference methods proliferate, there is a growing need for tools that integrate their inherently high-dimensional outputs. In this work, we propose a novel strategy to facilitate downstream analysis of single-cell optimal-transport trajectory models, by constructing feature vectors that contain information about a cell’s state across the entirety of its trajectory. This approach leverages kernel mean embedding of distributions to create trajectory features with applications in several domains, including cell clustering and comparison of perturbation response trajectories. We demonstrate how k-means clustering on trajectory features produces interpretable clusters that respect the underlying cell trajectories. Furthermore, we develop a divergence metric between single-cell trajectories based on the maximum mean discrepancy (MMD). We use this trajectory divergence to show that modeling perturbation trajectories may help uncover experimentally interesting perturbations at higher significance levels than by comparing perturbation responses at only a single time point.",
    "forum_url": "https://openreview.net/forum?id=N9uuyDEUIY",
    "pdf_url": "https://openreview.net/pdf?id=N9uuyDEUIY"
   },
@@ -352,7 +324,6 @@
     "Andres Potapczynski",
     "Andrew Gordon Wilson"
    ],
-   "abstract": "To predict and understand the causes of disease, geneticists build models that predict how a genetic variant impacts phenotype from genomic features. There is a vast amount of data available from the large projects that have sequence hundreds of thousands of genomes; yet, state-of-the-art models, like LD score regression, cannot leverage this data as they lack flexibility due to their simplifying assumptions. These models use simplifying assumptions to avoid solving the large linear algebra problems introduced by the genomic correlation matrices. In this paper, we leverage modern fast linear algebra techniques to develop WASP (genome Wide Association Studies with Preconditioned iteration), a method to train large and flexible neural network models. On semi-synthetic and real data we show that WASP better predicts phenotype and better recovers its functional causes compared to LD score regression. Finally, we show that training larger WASP models on larger data leads to better explanations of phenotypes.",
    "forum_url": "https://openreview.net/forum?id=8SBZU35mxb",
    "pdf_url": "https://openreview.net/pdf?id=8SBZU35mxb"
   },
@@ -366,7 +337,6 @@
     "Olga Kardymon",
     "Veniamin Fishman"
    ],
-   "abstract": "Inference of gene structure and location based on genome sequences, also known as \\textit{de novo} gene annotation, is a critical first step in biological research. However, rules of encoding gene structure in the DNA sequence are complex and poorly understood, often necessitating the use of costly transcriptomic data to achieve accurate gene annotation. Here, we present GENATATOR --- Genome Annotator Using the GENA DNA Language Model --- an advanced machine learning tool for inferring gene annotations directly from DNA sequences. Unlike previous approaches that rely on explicitly defined gene segmentation rules derived from protein-coding sequences, GENATATOR learns how to infer gene structure directly from the data. This enables GENATATOR to perform correct segmentation for previously untraceable class of non-coding transcripts and identify subset of protein-coding genes missed by other models, achieving top performance in the gene segmentation benchmarks. Finally, with in-depth analysis of GENATATOR’s model embeddings and predictions, we reveal how DNA language models utilize memory to learn the biological rules underlying gene encoding.",
    "forum_url": "https://openreview.net/forum?id=sla2edDxc3",
    "pdf_url": "https://openreview.net/pdf?id=sla2edDxc3"
   },
@@ -374,13 +344,12 @@
    "title": "Gene Set Function Discovery with LLM-Based Agents and Knowledge Retrieval",
    "authors": [
     "Daniela Pinto Veizaga",
-    "Aécio Santos",
+    "A\u00e9cio Santos",
     "Juliana Freire",
     "Wenke Liu",
     "Sarah Keegan",
     "David Fenyo"
    ],
-   "abstract": "Advancements in high-throughput technologies have generated complex biomedical datasets, posing significant challenges for knowledge discovery. Traditional tools like Gene Set Enrichment Analysis (GSEA) and over-representation analysis (ORA) map gene sets to known pathways but are limited in their ability to uncover novel biological-mechanisms, often relying on manual interpretation to synthesize insights. While large language models (LLMs) aid in summarization, they lack transparency, adaptability to new knowledge, and integration with computational tools. To address these challenges, we introduce $\\texttt{Discovera}$, an agentic system that combines LLMs with established computational bioinformatics pipelines, and retrieval-augmented generation (RAG) to support mechanistic discovery. $\\texttt{Discovera}$ bridges the gap between computation and interpretation, enabling users to explore hypotheses grounded in data and literature. We demonstrate the utility of $\\texttt{Discovera}$ in the context of endometrial carcinoma research, where it supports functional enrichment analysis and the summarization of potential mechanisms of action for gene sets associated with an observed phenotype.",
    "forum_url": "https://openreview.net/forum?id=mpvp5KP8fR",
    "pdf_url": "https://openreview.net/pdf?id=mpvp5KP8fR"
   },
@@ -392,7 +361,6 @@
     "Rohola Zandie",
     "Elazer R Edelman"
    ],
-   "abstract": "Foundation models have emerged as powerful tools for analyzing single-cell RNA sequencing (scRNA-seq) data. However, selecting informative gene features for both input to the model and analysis in the output remains a critical challenge. Traditional feature selection methods filter on the basis of highly variable genes and analyze them using differential distribution, but they often struggle with scalability and robustness in heterogeneous, high-dimensional datasets. In this study, we explore the limitations of conventional feature selection techniques in the context of a multimodal foundation model and propose alternative gradient-based attribution techniques on learned feature embeddings to improve feature selection. We demonstrate how our selection strategy enhances model performance, overcomes the limitations of traditional approaches, and holds the potential to reveal the inherent polygenicity of diseases.",
    "forum_url": "https://openreview.net/forum?id=1MPTY6JaQc",
    "pdf_url": "https://openreview.net/pdf?id=1MPTY6JaQc"
   },
@@ -410,7 +378,6 @@
     "Ling Zhu",
     "Junbin Gao"
    ],
-   "abstract": "Understanding the progression of disease at the molecular level usually requires capturing both the structural dependencies between pathways and the temporal dynamics of how diseases evolve. In this work, we resolve the former challenge by developing a biologically informed graph-forming method to efficiently construct pathway graphs for subjects from our newly curated transcriptomic dataset of JR5558 mice that spontaneously develop neovascularization beneath their retinas. We then developed Graph-level Pseudotime Analysis (GPA) to infer graph-level trajectories that reveal how the disease progresses at the population level rather than in individual subjects. Based on the trajectories estimated by GPA, we identify the most sensitive pathways that drive transitions between disease stages. In addition, we measure changes in pathway features using neural stochastic differential equations (SDEs), which enable us to formally define and compute pathway stability and disease bifurcation points (points of no return)—two fundamental problems in research on disease progression. We have extended our theory to allow pathways to interact with each other, enabling a more comprehensive and multi-faceted characterization of disease phenotypes. Comprehensive experimental results demonstrate the effectiveness of our framework in reconstructing pathway dynamics, identifying critical transitions, and providing novel insights into the mechanistic understanding of the evolution of disease.",
    "forum_url": "https://openreview.net/forum?id=zeIFBzx1hf",
    "pdf_url": "https://openreview.net/pdf?id=zeIFBzx1hf"
   },
@@ -421,7 +388,6 @@
     "Tianfan Fu",
     "Augustin Luna"
    ],
-   "abstract": "Explainability is necessary for many tasks in biomedical research. Recent explainability methods have focused on attention, gradient, and Shapley value. These do not handle data with strong associated prior knowledge and fail to constrain explainability results based on known relationships between predictive features. We propose GraphPINE, a graph neural network (GNN) architecture leveraging domain-specific prior knowledge to initialize node importance optimized during training for drug response prediction. Typically, a manual post-prediction step examines literature (i.e., prior knowledge) to understand returned predictive features. While node importance can be obtained for gradient and attention after prediction, node importance from these methods lacks complementary prior knowledge; GraphPINE seeks to overcome this limitation. GraphPINE differs from other GNN gating methods by utilizing an LSTM-like sequential format. We introduce an importance propagation layer that unifies 1) updates for feature matrix and node importance and 2) uses GNN-based graph propagation of feature values. This initialization and updating mechanism allows for informed feature learning and improved graph representation. We apply GraphPINE to cancer drug response prediction using drug screening and gene data collected for over 5,000 gene nodes included in a gene-gene graph with a drug-target interaction (DTI) graph for initial importance. The gene-gene graph and DTIs were obtained from curated sourc…",
    "forum_url": "https://openreview.net/forum?id=nZ8IjQcJsD",
    "pdf_url": "https://openreview.net/pdf?id=nZ8IjQcJsD"
   },
@@ -434,7 +400,6 @@
     "Mangal Prakash",
     "Rui Liao"
    ],
-   "abstract": "The biological functions of RNA arise from the interplay of sequence (1D), secondary structure (2D), and tertiary structure (3D). While existing machine learning models typically rely on sequence-based representations, recent studies suggest that integrating structural information can improve predictive performance, especially in low-data regimes. However, different representations have trade-offs—3D models are sensitive to noise, whereas sequence-based models are more robust to sequencing noise but lack structural insights. To address this, we introduce HARMONY, a framework that dynamically integrates 1D, 2D, and 3D representations, and seamlessly adapts to diverse real-world scenarios. Our experiments demonstrate that HARMONY consistently outperforms existing baselines across multiple RNA property prediction tasks on established benchmarks, offering a robust and generalizable approach to RNA modeling.",
    "forum_url": "https://openreview.net/forum?id=U3Ejoy1BG2",
    "pdf_url": "https://openreview.net/pdf?id=U3Ejoy1BG2"
   },
@@ -445,7 +410,6 @@
     "Mathieu Klop",
     "Maxime Allard"
    ],
-   "abstract": "mRNA-based vaccines have become a major focus in the pharmaceutical industry. The coding sequence as well as the Untranslated Regions (UTRs) of an mRNA can strongly influence translation efficiency, stability, degradation, and other factors that collectively determine a vaccine’s effectiveness. However, optimizing mRNA sequences for those properties remains a complex challenge. Existing deep learning models often focus solely on coding region optimization, overlooking the UTRs. We present Helix-mRNA, a structured state-space-based and attention hybrid model to address these challenges. In addition to a first pre-training, a second pre-training stage allows us to specialise the model with high-quality data. We employ single nucleotide tokenization of mRNA sequences with codon separation, ensuring prior biological and structural information from the original mRNA sequence is not lost. Our model, Helix-mRNA, outperforms existing methods in analysing both UTRs and coding region properties. It can process sequences 6x longer than current approaches while using only 10\\% of the parameters of existing foundation models. Its predictive capabilities extend to all mRNA regions. We open-source the model (https://github.com/helicalAI/helical) and model weights (https://huggingface.co/helical-ai/helix-mRNA)",
    "forum_url": "https://openreview.net/forum?id=Ky0CkFiVhu",
    "pdf_url": "https://openreview.net/pdf?id=Ky0CkFiVhu"
   },
@@ -456,7 +420,6 @@
     "zhien wu",
     "Chunfu Xu"
    ],
-   "abstract": "Large-scale screening and high-throughput experimental data generation are essential for advancing AI-driven genomics research. However, these processes are generally constrained by the length limitation of chip-synthesized oligo-pools ($<300$ bp). In addition, synthesizing gene-sized DNA sequences at scale remains economically unfeasible, making it difficult to validate the experimental performance of certain machine learning models or to generate new datasets for further training. To address this challenge, we developed a novel method for the high-throughput assembly of gene-sized DNA sequences, starting from cost-effective chip-synthesized oligo-pools. In contrast to Polymerase Cycling Assembly (PCA), we employed Golden Gate Assembly (GGA) to facilitate the ligation of short DNA fragments. This approach enabled us to successfully assemble high-quality DNA libraries containing up to 96 gene-sized sequences (600 bp) in a single-pot reaction, with convenient retrieval of individual sequences. If numerous reactions are conducted in parallel---for example, in a 96-well plate---we can readily assemble up to 9,216 (96 x 96) genes. When combined with advances in automation technologies, this enables the efficient and cost-effective synthesis of gene-sized DNA sequences at scale, thereby accelerating the generation of experimental data for the Machine Learning community.",
    "forum_url": "https://openreview.net/forum?id=SrPaXJdYmP",
    "pdf_url": "https://openreview.net/pdf?id=SrPaXJdYmP"
   },
@@ -479,7 +442,6 @@
     "Haiguang Liu",
     "Tao Qin"
    ],
-   "abstract": "Advances in natural language processing and large language models have sparked growing interest in modeling DNA, often referred to as the “language of life”. However, DNA modeling poses unique challenges. First, it requires the ability to process ultra-long DNA sequences while preserving single-nucleotide resolution, as individual nucleotides play a critical role in DNA function. Second, success in this domain requires excelling at both generative and understanding tasks: generative tasks hold potential for therapeutic and industrial applications, while understanding tasks provide crucial insights into biological mechanisms and diseases. To address these challenges, we propose HybriDNA, a decoder-only DNA language model that incorporates a hybrid Transformer-Mamba2 architecture, seamlessly integrating the strengths of attention mechanisms with selective state-space models. This hybrid design enables HybriDNA to efficiently process DNA sequences up to 131kb in length with single-nucleotide resolution. HybriDNA achieves state-of-the-art performance across 33 DNA understanding datasets curated from the BEND, GUE, and LRB benchmarks, and demonstrates exceptional capability in generating synthetic cis-regulatory elements (CREs) with desired properties. Furthermore, we show that HybriDNA adheres to expected scaling laws, with performance improving consistently as the model scales from 300M to 3B and 7B parameters. These findings underscore HybriDNA’s versatility and its potential t…",
    "forum_url": "https://openreview.net/forum?id=BJ2uCHIfEW",
    "pdf_url": "https://openreview.net/pdf?id=BJ2uCHIfEW"
   },
@@ -494,7 +456,6 @@
     "Mangal Prakash",
     "Rui Liao"
    ],
-   "abstract": "Inferring Gene Regulatory Networks (GRNs) from gene expression data is crucial for understanding biological processes. While supervised models are reported to achieve high performance for this task, they rely on costly ground truth (GT) labels and risk learning gene-specific biases—such as class imbalances of GT interactions—rather than true regulatory mechanisms. To address these issues, we introduce InfoSEM, an unsupervised generative model that leverages textual gene embeddings as informative priors, improving GRN inference without GT labels. InfoSEM can also integrate GT labels as an additional prior when available, avoiding biases and further enhancing performance. Additionally, we propose a biologically motivated benchmarking framework that better reflects real-world applications such as biomarker discovery and reveals learned biases of existing supervised methods. InfoSEM outperforms existing models by 38.5% across four datasets using textual embeddings prior and further boosts performance by 11.1% when integrating labeled data as priors.",
    "forum_url": "https://openreview.net/forum?id=0Tivf6L5eA",
    "pdf_url": "https://openreview.net/pdf?id=0Tivf6L5eA"
   },
@@ -506,7 +467,6 @@
     "Jiacheng Liu",
     "Eugene Shakhnovich"
    ],
-   "abstract": "Early detection of high-fitness SARS-CoV-2 variants is crucial for pandemic response, yet limited experimental resources hinder timely identification. We propose an active learning framework that integrates a protein language model, a Gaussian process with uncertainty estimation, and a biophysical model to predict the fitness of novel receptor-binding domain (RBD) variants in a few-shot learning setting. Our approach prioritizes the most informative variants for experimental characterization, accelerating high-fitness variant detection by up to 5× compared to random sampling while testing fewer than 1\\% of all possible variants. Benchmarking on deep mutational scans, we show that our method identifies evolutionarily significant sites, particularly those facilitating antibody escape. We systematically compare different acquisition strategies and demonstrate that incorporating uncertainty-driven exploration enhances coverage of the mutational landscape, enabling the discovery of evolutionarily distant yet high-risk variants. Our results suggest that this framework could serve as an efficient early warning system for identifying concerning SARS-CoV-2 variants before they achieve widespread circulation.",
    "forum_url": "https://openreview.net/forum?id=4YMUZ49lB3",
    "pdf_url": "https://openreview.net/pdf?id=4YMUZ49lB3"
   },
@@ -519,7 +479,6 @@
     "Olga Kalinina",
     "Alina Bazarova"
    ],
-   "abstract": "In a living cell, DNA replication begins at multiple genomic sites called replication origins. Identifying these origins and their underlying base sequence composition is crucial for understanding replication process. Existing machine learning methods for origin prediction often require labor-intensive feature engineering or lack interpretability. Here, we employ DNABERT to predict yeast replication origins and uncover sequence motifs by combining attention maps with MEME, a classical bioinformatics tool. Our approach eliminates manual feature extraction and identifies biologically relevant motifs across datasets of varying complexity. This work advances interpretable machine learning in genomics, offering a potentially generalizable framework for origin prediction and motif discovery.",
    "forum_url": "https://openreview.net/forum?id=7Fk9OnBziL",
    "pdf_url": "https://openreview.net/pdf?id=7Fk9OnBziL"
   },
@@ -531,19 +490,17 @@
     "Huanjing Liu",
     "Pingzhao Hu"
    ],
-   "abstract": "COVID-19 affects individuals differently, with some experiencing severe symptoms while others remain asymptomatic. Identifying genetic determinants behind this variability can improve disease management, resource allocation, and public health decisions. Traditional approaches like genome-wide association studies and polygenic risk scores offer limited interpretability and predictive accuracy. In this study, we developed an computational framework that involves deep generative model and xAI to predict COVID-19 severity based on whole-genome data. Our framework identified 72 significant genetic markers and achieved an improved prediction performance (ROC-AUC = 0.64) using whole-genome data from 6752 samples in Canada’s CGEn HostSeq project. Among these markers, 50 are novel, linked to hematopoietic stem cell differentiation, lung fibrosis, and SARS-CoV-2 mitochondrial interactions. This study introduces an interpretable AI tool for personalized COVID-19 severity prediction.",
    "forum_url": "https://openreview.net/forum?id=BBXNA1mQCW",
    "pdf_url": "https://openreview.net/pdf?id=BBXNA1mQCW"
   },
   {
    "title": "LangPert: LLM-Driven Contextual Synthesis for Unseen Perturbation Prediction",
    "authors": [
-    "Kaspar Märtens",
+    "Kaspar M\u00e4rtens",
     "Marc Boubnovski Martell",
     "Cesar A. Prada-Medina",
     "Rory Donovan-Maiye"
    ],
-   "abstract": "Systematic genetic perturbation provides critical insights into cell functioning, yet predicting their cellular effects remains a major challenge. Despite advances in computational approaches, accurately modelling cellular responses to unseen perturbations continues to be difficult. Large Language Models (LLMs) have shown promise in biological applications by synthesizing scientific knowledge, but their direct application to high-dimensional gene expression data has been impractical due to numerical limitations. We propose LangPert, a novel hybrid framework that leverages LLMs to guide a downstream k-nearest neighbors (kNN) aggregator, combining biological reasoning with efficient numerical inference. We demonstrate that LangPert achieves state-of-the-art performance on single-gene perturbation prediction tasks across multiple datasets.",
    "forum_url": "https://openreview.net/forum?id=Tmx4o3Jg55",
    "pdf_url": "https://openreview.net/pdf?id=Tmx4o3Jg55"
   },
@@ -551,12 +508,11 @@
    "title": "Large Language Models for Zero-shot Inference of Causal Structures in Biology",
    "authors": [
     "Izzy Newsham",
-    "Luka Kovačević",
+    "Luka Kova\u010devi\u0107",
     "Richard Moulange",
     "Nan Rosemary Ke",
     "Sach Mukherjee"
    ],
-   "abstract": "Genes, proteins and other biological entities influence one another via causal molecular networks. Causal relationships in such networks are mediated by complex and diverse mechanisms, through latent variables, and are often specific to cellular context. It remains challenging to characterise such networks in practice. Here, we present a novel framework to evaluate the ability of large language models (LLMs) for zero-shot inference of causal relationships in biology. In particular, we systematically evaluate causal claims obtained from an LLM using real-world interventional data. This is done over one hundred variables and thousands of causal hypotheses. Furthermore, we consider several prompting and retrieval-augmentation strategies, including large, and potentially conflicting, collections of articles. Our results show that with tailored augmentation and prompting, even relatively small LLMs can capture meaningful aspects of causal structure in biological systems. This supports the notion that LLMs could act as orchestration tools in biological discovery, by helping to distil current knowledge in ways amenable to downstream analysis. Our approach to assessing LLMs with respect to experimental data is relevant for a broad range of problems at the intersection of causal learning, LLMs and scientific discovery.",
    "forum_url": "https://openreview.net/forum?id=dj0Oz1NsAI",
    "pdf_url": "https://openreview.net/pdf?id=dj0Oz1NsAI"
   },
@@ -565,7 +521,6 @@
    "authors": [
     "Heman Shakeri"
    ],
-   "abstract": "Cancer cells exploit non-equilibrium signaling dynamics to develop transient drug resistance through mechanisms that conventional equilibrium-based analyses cannot detect. We present a probabilistic framework integrating live-cell biosensor data with asynchronous multi-omics snapshots to learn these adaptive states. Using data from BRAF-V600E melanoma as a model system, we demonstrate how such learning scheme characterize competing timescales drive resistance mechanisms: rapid post-translational feedback (minutes) versus delayed transcriptional regulation (hours), including RAF dimer rewiring, DUSP-mediated ERK reactivation pulses, and NRAS^Q61K-dependent EGFR recycling. Our approach further combines multi-marginal Schrödinger bridges for distribution alignment with the extracted dynamical patterns from live-cell trajectories. Each step of the algorithm is validated with real-data and further validation is through in silico melanoma models. This framework could help identify therapeutic windows that delay progression to persistent resistant states and targeting adaptive plasticity across cancer types.",
    "forum_url": "https://openreview.net/forum?id=0I1LsQEMin",
    "pdf_url": "https://openreview.net/pdf?id=0I1LsQEMin"
   },
@@ -574,12 +529,11 @@
    "authors": [
     "Jonas Schweisthal",
     "Dennis Frauen",
-    "Maresa Schröder",
+    "Maresa Schr\u00f6der",
     "Konstantin Hess",
     "Niki Kilbertus",
     "Stefan Feuerriegel"
    ],
-   "abstract": "Reliable estimation of treatment effects from observational data is important in many disciplines such as medicine. However, estimation is challenging when unconfoundedness as a standard assumption in the causal inference literature is violated. In this work, we leverage arbitrary (potentially high-dimensional) instruments to estimate bounds on the conditional average treatment effect (CATE). Our contributions are three-fold: (1) We propose a novel approach for partial identification through a mapping of instruments to a discrete representation space so that we yield valid bounds on the CATE. This is crucial for reliable decision-making in real-world applications. (2) We derive a two-step procedure that learns tight bounds using a tailored neural partitioning of the latent instrument space. As a result, we avoid instability issues due to numerical approximations or adversarial training. Furthermore, our procedure aims to reduce the estimation variance in finite-sample settings to yield more reliable estimates. (3) We show theoretically that our procedure obtains valid bounds while reducing estimation variance. We further perform extensive experiments to demonstrate the effectiveness across various settings. Overall, our procedure offers a novel path for practitioners to make use of potentially high-dimensional instruments (e.g., as in Mendelian randomization).",
    "forum_url": "https://openreview.net/forum?id=v71XmFAHAE",
    "pdf_url": "https://openreview.net/pdf?id=v71XmFAHAE"
   },
@@ -591,7 +545,6 @@
     "Michael Levitt",
     "Gal Oren"
    ],
-   "abstract": "RNA editing is a critical regulatory process that diversifies the transcriptome by altering nucleotide sequences in messenger RNA molecules. We propose a novel framework for predicting adenosine-to-inosine (A-to-I) RNA editing sites by leveraging a specialized fine-tuned GPT-4o-mini model and a tissue-specific liver dataset. Grounding our approach in the high expression levels of ADAR1 in liver tissue, we avoid confounding factors from other ADAR isoforms and complex multi-tissue data. We categorize editing levels into progressively narrower thresholds (1%, 5%, 10%, and 15%) and introduce continual fine-tuning (CFT) to guide the model step-by-step from low-editing (1%) to high-editing (15%) scenarios. Compared to static fine-tuning (SFT) on a single threshold, our multi-stage method incrementally refines the model's ability to distinguish editing features and demonstrates superior performance over base GPT-3.5/4o-mini models across various configurations. We further show that employing strict, non-overlapping threshold bins facilitates clearer distinctions between edited and non-edited sites, consequently improves performance. In contrast, reducing the distinction between edited and non-edited classes significantly degrades classification accuracy. These findings underscore the importance of biologically appropriate data partitioning and continual, threshold-based fine-tuning in enhancing the predictive power of generative language models for RNA editing. Our study paves the …",
    "forum_url": "https://openreview.net/forum?id=L2jj5ekPxa",
    "pdf_url": "https://openreview.net/pdf?id=L2jj5ekPxa"
   },
@@ -601,12 +554,11 @@
     "Tarek M Zikry",
     "Genevera I. Allen"
    ],
-   "abstract": "To visualize and analyze high-dimensional biological data, scientists often turn to manifold learning and dimensionality reduction techniques such as tSNE and UMAP. However, these methods (1) are non-projective, which means that new data cannot be projected on the manifold without refitting, and (2) lack the explainability to help practitioners understand which features drive manifold locations and neighborhoods. In practice, scientists often must turn to marginal distributions along a manifold or expert annotations to explain reduced dimension data. Here, we present Local Interpretable Manifold Explanations for Dimension Evaluations (LIMEADE), a surrogate model integrated with a dimensionality reduction method, similar to the LIME surrogate used in classification and regression models. We define LIMEADE as a group lasso-regularized multi-task regression problem that identifies sparse linear projections of the data aligning with local neighborhoods of the manifold space. When applied to single-cell proteomics data, LIMEADE effectively extracts biologically meaningful features, providing a more interpretable approach to feature selection and dimensionality reduction.",
    "forum_url": "https://openreview.net/forum?id=kmLV911L80",
    "pdf_url": "https://openreview.net/pdf?id=kmLV911L80"
   },
   {
-   "title": "LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs – Evaluation through Synthetic Data Generation",
+   "title": "LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs \u2013 Evaluation through Synthetic Data Generation",
    "authors": [
     "Tejumade Afonja",
     "Ivaxi Sheth",
@@ -617,7 +569,6 @@
     "Matthias Becker",
     "Mario Fritz"
    ],
-   "abstract": "Gene regulatory networks (GRNs) represent the causal relationships between transcription factors (TFs) and target genes in single-cell RNA sequencing (scRNA-seq) data. Understanding these networks is crucial for uncovering disease mechanisms and identifying therapeutic targets. In this work, we investigate the potential of large language models (LLMs) for GRN discovery, leveraging their learned biological knowledge alone or in combination with traditional statistical methods. We develop a task-based evaluation strategy to address the challenge of unavailable ground truth causal graphs. Specifically, we use the GRNs suggested by LLMs to guide causal synthetic data generation and compare the resulting data against the original dataset. Our statistical and biological assessments show that LLMs can support statistical modeling and data synthesis for biological research.",
    "forum_url": "https://openreview.net/forum?id=bgGZIBF6Kx",
    "pdf_url": "https://openreview.net/pdf?id=bgGZIBF6Kx"
   },
@@ -626,7 +577,6 @@
    "authors": [
     "Sajib Acharjee Dip"
    ],
-   "abstract": "Pathogen identification from genomic sequences is vital for disease surveillance, antimicrobial resistance monitoring, and vaccine development. While Large Language Models (LLMs) excel in genomic sequence modeling, existing approaches prioritize accuracy over efficiency, leading to high memory overhead, long training times, and scalability issues. We introduce LoFTPat, a structurally constrained fine-tuning framework that integrates Low-Rank Adaptation within PathoLM’s self-attention layers, enabling efficient task-specific weight modulation. LoFTPat reduces training time by 4.02\\%, GPU memory usage by 64.3\\%, and trainable parameters by 99.24\\%, while surpassing full fine-tuning approaches with +0.44\\% accuracy, +0.44\\% F1 score, +0.02\\% AUC-ROC, and +0.52\\% balanced accuracy. It efficiently adapts to short- and long-read sequences, demonstrating strong generalization across bacterial and viral pathogens. By optimizing feature transformations with minimal parameter overhead, LoFTPat offers a scalable, computationally efficient framework for large-scale pathogen classification and genomic analysis.",
    "forum_url": "https://openreview.net/forum?id=Su1I7Z64hC",
    "pdf_url": "https://openreview.net/pdf?id=Su1I7Z64hC"
   },
@@ -640,7 +590,6 @@
     "Heng Ji",
     "Gabriele Scalia"
    ],
-   "abstract": "Bridging biomolecular modeling with natural language information, particularly through large language models (LLMs), has recently emerged as a promising interdisciplinary research area. LLMs, having been trained on large corpora of scientific documents, demonstrate significant potential in understanding and reasoning about biomolecules by providing enriched contextual and domain knowledge. However, the extent to which LLM-driven insights can improve performance on complex predictive tasks (e.g., toxicity) remains unclear. Further, the extent to which $\\textit{relevant}$ knowledge can be extracted from LLMs also remains unknown. In this study, we present Molecule Caption Arena: the first comprehensive benchmark of LLM-augmented molecular property prediction. We evaluate over twenty LLMs, including both general-purpose and domain-specific molecule captioners, across diverse prediction tasks. To this goal, we introduce a novel, battle-based rating system for molecule captioners. Our findings confirm the ability of LLM-extracted knowledge to enhance state-of-the-art molecular representations, with notable model-, prompt-, and dataset-specific variations.",
    "forum_url": "https://openreview.net/forum?id=BjAxwETx9V",
    "pdf_url": "https://openreview.net/pdf?id=BjAxwETx9V"
   },
@@ -654,7 +603,6 @@
     "Liisi Laaniste",
     "Aylin Cakiroglu"
    ],
-   "abstract": "Recent advances in applying deep learning in genomics include DNA-language and single-cell foundation models. However, these models take only one data type as input. We introduce dynamic token adaptation and demonstrate how it allows combining these models to predict gene regulation at single-cell level in different genetic contexts. Although the method is generalisable, we focus on an illustrative example by training an adapter from DNA-sequence embeddings to a single-cell foundation model's token embedding space. As qualitative evaluation, we assess the impact of DNA sequence changes on the model’s learned gene regulatory networks by mutating the transcriptional start site of the transcription factor \\textit{GATA4} \\textit{in silico}, observing predicted expression changes in its target genes in fetal cardiomyocytes.",
    "forum_url": "https://openreview.net/forum?id=PdbfAKWZs3",
    "pdf_url": "https://openreview.net/pdf?id=PdbfAKWZs3"
   },
@@ -664,7 +612,6 @@
     "Stephen M. Asiedu",
     "David Watson"
    ],
-   "abstract": "Causal discovery in multi-omic datasets is crucial for understanding the bigger picture of gene regulatory mechanisms but remains challenging due to high dimensionality, differentiation of direct from indirect relationships, and hidden confounders. We introduce GENESIS (GEne Network inference from Expression SIgnals and SNPs), a constraint-based algorithm that leverages the natural causal precedence of genotypes to infer ancestral relationships in transcriptomic data. Unlike traditional causal discovery methods that start with a fully connected graph, GENESIS initializes an empty ancestrality matrix and iteratively populates it with direct, indirect or non-causal relationships using a series of provably sound marginal and conditional independence tests. By integrating genotypes as fixed causal anchors, GENESIS provides a principled “head start” to classical causal discovery algorithms, restricting the search space to biologically plausible edges. We test GENESIS on synthetic and real-world genomic datasets. This framework offers a powerful avenue for uncovering causal pathways in complex traits, with promising applications to functional genomics, drug discovery, and precision medicine.",
    "forum_url": "https://openreview.net/forum?id=M5fIK5mDqd",
    "pdf_url": "https://openreview.net/pdf?id=M5fIK5mDqd"
   },
@@ -677,7 +624,6 @@
     "Vedant Sandhu",
     "Jason J. Pitt"
    ],
-   "abstract": "Cancer genomes possess diverse mutational patterns across multiple profiles, including single base substitutions (SBS), small insertions and deletions (ID), copy number variations (CN), and structural variants (SV). These profiles provide distinct, yet complementary perspectives to understanding a tumor's genomic landscape, which is essential for optimal patient care. Learning unified representations across this complex mutational landscape can reveal deeper insights into cancer biology, therapeutic interventions, and patient stratification. We present MutEmbed, a self-supervised framework that uses attention mechanisms to weigh and integrate information across mutational profiles, capturing their latent biological interdependencies. We use SBS, ID, CN, and SV calls for samples from the Pan-cancer Analysis of Whole Genomes (PCAWG) dataset (n = 2748). Using MutEmbed, we derive embeddings for each sample and demonstrate their biological relevance by analyzing cancer-type specific clustering patterns and enrichment patterns with DNA damage and repair pathway activities.",
    "forum_url": "https://openreview.net/forum?id=iLo7Qj6Pfx",
    "pdf_url": "https://openreview.net/pdf?id=iLo7Qj6Pfx"
   },
@@ -690,7 +636,6 @@
     "Jonas Maaskola",
     "Nir Yosef"
    ],
-   "abstract": "Spatial transcriptomics offers unprecedented insights into tissue organization, yet current methods often overlook transitional zones between cellular niches. We introduce NOLAN, a self-supervised framework that goes beyond detecting discrete niches to capture the continuous spectrum of tissue organization patterns. NOLAN learns cell representations informed by their neighborhoods, capturing variation within niches and across their boundaries. Using these representations, NOLAN constructs a graph-based abstraction of the tissue, modeling it as a network of interconnected regions bridged by transitional zones. Applying NOLAN to a multi-cancer spatial transcriptomics atlas, we uncover a landscape of both tissue-specific and shared cellular niches. Crucially, NOLAN reveals the continuous gradients of gene expression and cell type composition across these transitional zones, showcasing the ability of NOLAN to build a common coordinate system of tissues in an integrative analysis.",
    "forum_url": "https://openreview.net/forum?id=DzlhvkuFqz",
    "pdf_url": "https://openreview.net/pdf?id=DzlhvkuFqz"
   },
@@ -700,7 +645,6 @@
     "Azmine Toushik Wasi",
     "Mahfuz Ahmed Anik"
    ],
-   "abstract": "High-throughput sequencing has greatly advanced cancer research, but a major gap remains in connecting TCGA transcriptomic data with detailed metabolomic profiles. This disconnect limits our understanding of metabolic changes that drive tumor progression and resistance to treatment. To address this, we introduce the Pathway-Attentive GAN (PathGAN), a new framework that combines transformer-based attention mechanisms with a GNN discriminator to generate realistic and biologically relevant metabolite profiles as a case study. We validate these profiles using COBRApy-based flux balance analysis to ensure they align with key metabolic pathways. By linking transcriptomics and metabolomics, PathGAN improves our understanding of tumor metabolism and provides valuable insights for cancer therapy. We believe this work can offer a powerful tool for precision oncology, helping to develop more targeted and effective treatments.",
    "forum_url": "https://openreview.net/forum?id=aDqhVBvHHZ",
    "pdf_url": "https://openreview.net/pdf?id=aDqhVBvHHZ"
   },
@@ -716,7 +660,6 @@
     "Hao Zhou",
     "Wei-Ying Ma"
    ],
-   "abstract": "Structure-Based Drug Design (SBDD) is crucial for identifying bioactive molecules. Recent deep generative models are faced with challenges in geometric structure modeling. A major bottleneck lies in the twisted probability path of multi-modalities—continuous 3D positions and discrete 2D topologies—which jointly determine molecular geometries. By establishing the fact that noise schedules decide the Variational Lower Bound (VLB) for the twisted probability path, we propose VLB-Optimal Scheduling (VOS) strategy in this under-explored area, which optimizes VLB as a path integral for SBDD. Our model effectively enhances molecular geometries and interaction modeling, achieving state-of-the-art PoseBusters passing rate of 95.9\\% on CrossDock, more than 10\\% improvement upon strong baselines, while unlocking the potential of repurposing SBDD model as docking method, with 44.0\\% RMSD $<$ 2\\r{A} on PoseBusters V2.",
    "forum_url": "https://openreview.net/forum?id=R2LTPle31d",
    "pdf_url": "https://openreview.net/pdf?id=R2LTPle31d"
   },
@@ -728,7 +671,6 @@
     "Justin Kinney",
     "Peter K Koo"
    ],
-   "abstract": "Deep neural networks (DNNs) have improved our ability to predict regulatory activity from DNA sequences, providing valuable insights into gene regulation. However, these models often fail to generalize to sequences underrepresented in their training data, limiting applications like variant effect prediction and de novo sequence design. This limitation reflects a bias toward natural variation across the genome, making DNNs vulnerable to covariate shifts, where test sequences diverge statistically from the training distribution. Here, we introduce PIONEER, a computational platform that simulates functional genomics experiments to systematically benchmark and optimize training data composition through iterative AI-experiment cycles. Using PIONEER, we compare sequence proposal strategies—including active learning and random baselines—evaluating their impact on model generalization across increasing levels of covariate shift. To ensure a fair comparison, we also assess each approach within a fixed experimental budget, accounting for DNA synthesis costs. PIONEER provides a scalable and extensible framework for optimizing training data composition to enhance model generalization, advancing applications in regulatory genomics, synthetic biology, and precision medicine.",
    "forum_url": "https://openreview.net/forum?id=EIiM0eCjoz",
    "pdf_url": "https://openreview.net/pdf?id=EIiM0eCjoz"
   },
@@ -741,7 +683,6 @@
     "Sangseon Lee",
     "Sun Kim"
    ],
-   "abstract": "The advent of generative AI now enables large-scale $\\textit{de novo}$ design of molecules, but identifying viable drug candidates among them remains an open problem. Existing drug-likeness prediction methods often rely on ambiguous negative sets or purely structural features, limiting their ability to accurately classify drugs from non-drugs. In this work, we introduce BounDr.E: a novel modeling of drug-likeness as a compact space surrounding approved drugs through a dynamic deep one-class boundary approach. Specifically, we enrich the chemical space through biomedical knowledge alignment, and then iteratively tighten the drug-like boundary by pushing non-drug-like compounds outside via an Expectation-Maximization (EM)-like process. Empirically, BounDr.E achieves 10\\% F1-score improvement over the previous state-of-the-art and demonstrates robust cross-dataset performance, including zero-shot toxic compound filtering. Additionally, we showcase its effectiveness through comprehensive case studies in large-scale $\\textit{in silico}$ screening.",
    "forum_url": "https://openreview.net/forum?id=G2zzdbgKxl",
    "pdf_url": "https://openreview.net/pdf?id=G2zzdbgKxl"
   },
@@ -752,7 +693,6 @@
     "Pietro Lio",
     "Xiao Zhang"
    ],
-   "abstract": "Genome-scale metabolic modeling enables omic data integration through mathematical simulation and has become an indispensable cornerstone for understanding cellular metabolism. Traditional analysis tools, such as mechanistic modeling and flux balance analysis, require deep domain expertise to specify the kinetic parameters or significant manual effort to acquire fluxomic data to formulate the constrained optimization problem. To circumvent the above limitations, we develop a novel metabolic dynamics modeling framework, which learns a structured neural ODE process (SNODEP) model to predict the time-varying flux and balance distributions by leveraging the more accessible single-cell RNA sequencing (scRNA-seq) technology. Compared with ML-based alternatives, our method achieves enhanced prediction performance, not only due to the intrinsic suitability of neural ODE for modeling dynamics-governed time series data but also because the design of SNODEP explicitly accounts for the destructive measurement process of scRNA-seq and the sequential dependence between context points. Comprehensive evaluations across $4$ metabolic pathways ($340$ experiments in total) show that our method can predict future gene expression, flux, and balance dynamics well, even generalizing to more challenging settings of irregularly sampled data and unseen gene knockout configurations. We hope our work can catalyze the development of more robust and scalable models for metabolic pathway analysis.",
    "forum_url": "https://openreview.net/forum?id=hs1AWLx6U5",
    "pdf_url": "https://openreview.net/pdf?id=hs1AWLx6U5"
   },
@@ -763,7 +703,6 @@
     "Souvik Kundu",
     "Eric P. Xing"
    ],
-   "abstract": "3D structure-conditioned protein sequence generation, also known as protein inverse folding, is a key challenge in computational biology. While large language models for proteins have made significant strides, they cannot dynamically integrate rich multimodal representations from existing datasets, specifically the combined information of 3D structure and 1D sequence. Additionally, as datasets grow, these models require retraining, leading to inefficiencies. In this paper, we introduce PRISM, a novel retrieval-augmented generation (RAG) framework that enhances protein sequence design by dynamically incorporating fine-grained multimodal representations from a larger set of known structure-sequence pairs. Our experiments demonstrate that PRISM significantly outperforms state-of-the-art techniques in sequence recovery, emphasizing the advantages of incorporating fine-grained, multimodal retrieval-augmented generation in protein design.",
    "forum_url": "https://openreview.net/forum?id=F8bxhsUsLO",
    "pdf_url": "https://openreview.net/pdf?id=F8bxhsUsLO"
   },
@@ -776,7 +715,6 @@
     "Qifan Wang",
     "Wei Wang"
    ],
-   "abstract": "Understanding biological processes, drug development, and biotechnological advancements requires a detailed analysis of protein structures and functions, a task that is inherently complex and time-consuming in traditional protein research. To streamline this process, we introduce ProteinGPT, a state-of-the-art multimodal large language model for proteins, which allows users to upload protein sequences and/or structures for comprehensive proteins analysis and responsive inquiries. ProteinGPT seamlessly integrates protein sequence and structure encoders with linear projection layers to ensure precise representation adaptation. It leverages a large language model (LLM) to generate accurate and contextually relevant responses. To train ProteinGPT, we construct a large-scale dataset of 132,092 proteins, each annotated with 20-30 property tags and 5-10 QA pairs per protein, and optimized the instruction-tuning process using GPT-4o. Experiments demonstrate that ProteinGPT effectively generates informative responses to protein-related questions, achieving high performance on both semantic and lexical metrics. It significantly outperforms baseline models and general-purpose LLMs in understanding and responding to protein-related queries.",
    "forum_url": "https://openreview.net/forum?id=qWlqfjGVWX",
    "pdf_url": "https://openreview.net/pdf?id=qWlqfjGVWX"
   },
@@ -790,7 +728,6 @@
     "Chanyoung Park",
     "Gabriele Scalia"
    ],
-   "abstract": "Recent advances in large language models (LLMs) have shown great potential to accelerate drug discovery. However, the specialized nature of biochemical data often necessitates costly domain-specific fine-tuning, posing critical challenges. First, it hinders the application of more flexible general-purpose LLMs in cutting-edge drug discovery tasks. More importantly, it impedes the rapid integration of the vast amounts of scientific data continuously generated through experiments and research. To investigate these challenges, we propose CLADD, a retrieval-augmented generation (RAG)-empowered agentic system tailored to drug discovery tasks. Through the collaboration of multiple LLM agents, CLADD dynamically retrieves information from biomedical knowledge bases, contextualizes query molecules, and integrates relevant evidence to generate responses; all without the need for domain-specific fine-tuning. Crucially, we tackle key obstacles in applying RAG workflows to biochemical data, including data heterogeneity, ambiguity, and multi-source integration. We demonstrate the flexibility and effectiveness of this framework across a variety of drug discovery tasks, showing that it outperforms general-purpose and domain-specific LLMs as well as traditional deep learning approaches.",
    "forum_url": "https://openreview.net/forum?id=XjxO0Ayj01",
    "pdf_url": "https://openreview.net/pdf?id=XjxO0Ayj01"
   },
@@ -800,7 +737,6 @@
     "Damiano Sgarbossa",
     "Anne-Florence Bitbol"
    ],
-   "abstract": "Protein language models are significantly advancing the modeling of sequence-function relationships. However, most of them are not directly informed of homology and evolutionary relationships between protein sequences. Here, we propose a method to make them homology-aware. We introduce RAG‐ESM, a retrieval‐augmented framework that allows to condition pretrained ESM2 protein language models on homologous sequences, using a minimal number of additional cross‐attention parameters and minimal computational cost. We show that RAG‐ESM models outperform larger ESM2 models for masked amino acid prediction. We find that sequence alignment capabilities spontaneously emerge in specific cross‐attention heads of RAG-ESM. By using a discrete diffusion objective for training, and by conditioning on homologs during inference, RAG‐ESM reaches state-of-the-art performance for conditional protein sequence generation and motif scaffolding, among sequence-based models. Our method thus possesses strong potential for scalable, efficient and controlled protein engineering.",
    "forum_url": "https://openreview.net/forum?id=i4vevaqugi",
    "pdf_url": "https://openreview.net/pdf?id=i4vevaqugi"
   },
@@ -820,7 +756,6 @@
     "Allison R Greenplate",
     "Dokyoon Kim"
    ],
-   "abstract": "Agentic AI research assistants, enabled by augmenting large language models with code-execution and tool-use abilities, promise to transform scientific workflows and accelerate biomedical research. In this study, we share preliminary results from our work in evaluating LLM agent capabilities in genomics. We design a simple bioinformatic research agent augmented with tool calls and code execution and instructed with a high-level task-agnostic system prompt. We implement this agent with three frontier-level LLMs: GPT-4o, o3-mini, and Claude 3.5 Sonnet, and compare their performance. We evaluate the performance of our agents in labeling cell types in clustered high-resolution transcriptomic data, a traditionally time-intensive task requiring both manual effort and domain expertise. Our agents are able to accurately complete this task, although performance fluctuates over multiple iterations due to hallucination. Overall, our results indicate that LLM agents are capable of autonomously planning and executing genomic analyses with only high-level direction. We are encouraged by these early results and look forward to extending these evaluations in future work.",
    "forum_url": "https://openreview.net/forum?id=kD8LptrZ7v",
    "pdf_url": "https://openreview.net/pdf?id=kD8LptrZ7v"
   },
@@ -832,7 +767,6 @@
     "Francesco Di Giovanni",
     "Michael M. Bronstein"
    ],
-   "abstract": "Incorporating equivariance as an inductive bias into deep learning architectures to take advantage of the data symmetry has been successful in multiple applications, such as chemistry and dynamical systems. In particular, roto-translations are crucial for effectively modeling geometric graphs and molecules, where understanding the 3D structures enhances generalization. However, equivariant models often pose challenges due to their higher computational complexity. In this paper, we introduce REMUL, a training procedure for approximating equivariance with multitask learning. We show that unconstrained models (which do not build equivariance into the architecture) can learn approximate symmetries by minimizing an additional simple equivariance loss. By formulating equivariance as a new learning objective, we can control the level of approximate equivariance in the model. Our method achieves competitive performance compared to equivariant baselines while being $10 \\times$ faster at inference and $2.5 \\times$ at training.",
    "forum_url": "https://openreview.net/forum?id=8kZSO4WbTh",
    "pdf_url": "https://openreview.net/pdf?id=8kZSO4WbTh"
   },
@@ -852,7 +786,6 @@
     "Debora Susan Marks",
     "Pascal Notin"
    ],
-   "abstract": "Predicting the structure and the effects of mutations in RNA are pivotal for numerous biological and medical applications. However, the evaluation of machine learning-based RNA models has been hampered by disparate and limited experimental datasets, along with inconsistent model performances across different RNA types. To address these limitations, we introduce RNAGym, a comprehensive and large-scale benchmark specifically tailored for RNA fitness and structure prediction. This benchmark suite includes over 30 standardized deep mutational scanning assays, covering hundreds of thousands of mutations, and curated RNA structure datasets. We have developed a robust evaluation framework that integrates multiple metrics suitable for both predictive tasks while accounting for the inherent limitations of experimental methods. RNAGym is designed to facilitate a systematic comparison of RNA models, offering an essential resource to enhance the development and understanding of these models within the computational biology community.",
    "forum_url": "https://openreview.net/forum?id=EXq8TWHJHI",
    "pdf_url": "https://openreview.net/pdf?id=EXq8TWHJHI"
   },
@@ -863,7 +796,6 @@
     "Yarin Gal",
     "Pascal Notin"
    ],
-   "abstract": "Protein language models have emerged as powerful tools for learning rich representations of proteins, enhancing performance across various downstream tasks such as structure prediction, mutation effects prediction, and homology detection. Their ability to learn complex distributions over protein sequences also shows significant potential for designing novel and functional proteins, with broad applications in therapeutics, new materials, and sustainability. Given the vastness of the protein sequence space, efficient exploration methods are critical to the success of protein engineering efforts. However, the methodologies for effectively sampling from these models to achieve core protein design objectives remain underexplored and have predominantly relied on techniques initially developed for Natural Language Processing tasks. In this work, we first develop a comprehensive *in silico* protein design evaluation framework to systematically compare different sampling methods. After a thorough review of existing sampling strategies for language models, we introduce several approaches specifically tailored for protein design. We then evaluate these strategies using our *in silico* benchmark, investigating the effects of key hyperparameters and providing practical guidance on the relative strengths of each method depending on design objectives.",
    "forum_url": "https://openreview.net/forum?id=lHRETQDSVu",
    "pdf_url": "https://openreview.net/pdf?id=lHRETQDSVu"
   },
@@ -876,7 +808,6 @@
     "Mikhail Burtsev",
     "Veniamin Fishman"
    ],
-   "abstract": "In this study, we explore fine-tuning of Genomic Language Models (GLM) to predict phenotypic traits directly from genomic sequence, without prior knowledge about causative loci or molecular mechanisms linking genotype to phenotype. As a case study, we focus on sex prediction, a well-defined genomic feature associated with the presence of the Y chromosome in most mammals. We adapt a pre-trained GENA-LM model for trait prediction by introducing a sequence chunk classification component with cross-attention, enabling the model to process larger genomic contexts. Training and evaluation on human and mouse genomes demonstrate that the model does not require high-quality reference genome assembly and converges even when the fraction of genomic signal associated with phenotype is below 1%. Prediction accuracy improves with increased sequencing depth, highlighting the scalability of GLMs for genome-wide tasks. Furthermore, a multi-species model effectively learns sex-specific signals for both human and mouse, confirming its cross-species predictive ability. Ablation studies demonstrate that the model relies on the Y chromosome for sex prediction, that aligns with real biological principles. Our findings highlight the applicability of GLMs for trait prediction in long and fragmented genomic data.",
    "forum_url": "https://openreview.net/forum?id=gF3pYd4DmN",
    "pdf_url": "https://openreview.net/pdf?id=gF3pYd4DmN"
   },
@@ -892,7 +823,6 @@
     "Jingjing Liu",
     "Wei-Ying Ma"
    ],
-   "abstract": "Generative modeling of discrete variables is challenging yet crucial for applications in natural language processing and biological sequence design. We introduce the Shortlisting Model (SLM), a novel simplex-based diffusion model inspired by progressive candidate pruning. SLM operates on simplex centroids, reducing complexity and enhancing scalability. Additionally, SLM incorporates a flexible implementation of classifier-free guidance, enhancing unconditional generation performance. Extensive experiments in DNA promoter and enhancer design, and protein design demonstrate SLM's competitive performance and scalability.",
    "forum_url": "https://openreview.net/forum?id=eZh2UyeMrg",
    "pdf_url": "https://openreview.net/pdf?id=eZh2UyeMrg"
   },
@@ -903,7 +833,6 @@
     "Zhao Yang",
     "Bing Su"
    ],
-   "abstract": "Inspired by the success of unsupervised pre-training paradigms, researchers have applied these approaches to DNA pre-training. However, we argue that these approaches alone yield suboptimal results because pure DNA sequences lack sufficient information, since their functions are regulated by genomic profiles like chromatin accessibility. Here, we demonstrate that supervised training for genomic profile prediction serves as a more effective alternative to pure sequence pre-training. Furthermore, considering the multi-species and multi-profile nature of genomic profile prediction, we introduce our **S**pecies-**P**rofile **A**daptive **C**ollaborative **E**xperts (SPACE) that leverages Mixture of Experts (MoE) to better capture the relationships between DNA sequences across different species and genomic profiles, thereby learning more effective DNA representations. Through extensive experiments across various tasks, our model achieves state-of-the-art performance, establishing that DNA models trained with supervised genomic profiles serve as powerful DNA representation learners.",
    "forum_url": "https://openreview.net/forum?id=o50KFyep7O",
    "pdf_url": "https://openreview.net/pdf?id=o50KFyep7O"
   },
@@ -915,7 +844,6 @@
     "Na Cai",
     "Francesco Paolo Casale"
    ],
-   "abstract": "Spatial transcriptomics allows for the study of gene expression within its spatial context, yet current spatial methods for differential expression require the definition of specific discrete regions of interest across the analyzed sections, which limits their applicability and statistical power. To address this limitation, we introduce SpaceDX, the first framework for spatial differential expression that automatically localizes regions of interest without requiring tissue registration or manual annotations. SpaceDX employs an attention mechanism to detect tissue contexts exhibiting differential gene expression and uses a hierarchical Bayesian framework to overcome the typical challenge of low sample sizes in spatial datasets. We first applied SpaceDX to a structured mouse brain dataset consisting of Visium sections from 38 animals, comparing stressed and control groups. Since the brain has well-defined anatomical regions, we could benchmark SpaceDX against traditional differential expression methods that rely on predefined regions, showing a 110% increase in significant gene detection and the automatic localization of regions exhibiting these differences. Next, we tested SpaceDX on a less structured dataset, specifically using sections from patients with inflammatory skin disease, where it successfully identified regions of interest exhibiting differential gene expression, demonstrating its broad applicability.",
    "forum_url": "https://openreview.net/forum?id=A8EkdmRBYX",
    "pdf_url": "https://openreview.net/pdf?id=A8EkdmRBYX"
   },
@@ -926,7 +854,6 @@
     "Dianzhuo Wang",
     "Eugene Shakhnovich"
    ],
-   "abstract": "Predicting protein binding affinities across large combinatorial mutation spaces remains a critical challenge in molecular biology, particularly for understanding viral evolution and antibody interactions. While combinatorial mutagenesis experiments provide valuable data for training predictive models, they are typically limited due to experimental constraints. This creates a significant gap in our ability to predict the effects of more extensive mutation combinations, such as those observed in emerging SARS-CoV-2 variants. We present ProxiClust, which strategically combines smaller combinatorial mutagenesis experiments to enable accurate predictions across larger combinatorial spaces. Our approach leverages the spatial proximity of amino acid residues to identify potential epistatic interactions, using these relationships to optimize the design of manageable-sized combinatorial experiments. By combining just two small combinatorial datasets, we achieve accurate binding affinity predictions across substantially larger mutation spaces ($R^2\\approx0.8$), with performance strongly correlated with capture of high-order epistatic effects. We validated our method in five different protein-protein interaction datasets, including binding of SARS-CoV-2 receptor binding domain (RBD) to various antibodies and cellular receptors, as well as influenza RBD-antibody interactions. This work provides a practical framework for extending the predictive power of combinatorial mutagenesis beyond …",
    "forum_url": "https://openreview.net/forum?id=BZIxe22wEO",
    "pdf_url": "https://openreview.net/pdf?id=BZIxe22wEO"
   },
@@ -941,9 +868,8 @@
     "Mahmoud Zahran",
     "Narsis A. Kiani",
     "David Gomez-Cabrero",
-    "Jesper Tegnér"
+    "Jesper Tegn\u00e9r"
    ],
-   "abstract": "Zero-shot learning (ZSL) for cell-type classification in spatially resolved transcriptomics remains underexplored, particularly when integrating spatial context with marker gene semantics. Here, we introduce SPELL (Spatial Prompt-Enhanced Zero-Shot Learning), combining graph autoencoder (GAE)-derived spatial embeddings with chain-of-thought (CoT) prompting for zero-shot classification. SPELL uses a spatial k-nearest neighbor graph to encode local cellular neighborhoods and generates interpretable prompts that integrate marker gene expression and the spatial embedding norms. We evaluated SPELL across five state-of-the-art zero-shot LLM classifiers on MERFISH, MIBI-TOF, and Stereo-seq datasets for cell-type classification. Guided by only expression values and spatial context, the two BART models solved the classification task surprisingly well (distilbart-mnli-12-1i 64\\% accuracy on the MERFISH, bart-large-mnli achieved 52\\% accuracy on MIBI-TOF dataset). Interestingly, removing the spatial context from the CoT prompt revealed a significant performance drop (20 – 24 \\% drop in accuracy), underscoring spatial information's critical role in zero-shot learning. Our work bridges spatial omics with LLM reasoning,enabling flexible adaptation and offering robust cell-type classification across diverse datasets without task-specific fine-tuning while maintaining biological interpretability.",
    "forum_url": "https://openreview.net/forum?id=Sh88LK85AR",
    "pdf_url": "https://openreview.net/pdf?id=Sh88LK85AR"
   },
@@ -951,14 +877,13 @@
    "title": "stDiffusion: A Diffusion Based Model for Generative Spatial Transcriptomics",
    "authors": [
     "Sumeer Ahmad Khan",
-    "Xabier Martínez de Morentin",
+    "Xabier Mart\u00ednez de Morentin",
     "Vincenzo Lagani",
     "Robert Lehmann",
     "Narsis A. Kiani",
     "David Gomez-Cabrero",
-    "Jesper Tegnér"
+    "Jesper Tegn\u00e9r"
    ],
-   "abstract": "Spatial Transcriptomics (ST) allows deep characterization of the 2D organization of expression data within tissue slices. The ST technology provides a tissue contextualization of deep single-cell profiles. Recently, numerous computational and machine learning methods have addressed challenges such as data quality, augmentation, annotation, and the development of integrative platforms for data analysis. In contrast, here we ask whether unseen spatial transcriptomics data can be predicted and if we can interpolate novel transcriptomic slices. To this end, we adopt a denoising diffusion probabilistic-based model (DDPM) to demonstrate the learning of generative ST models for several tissues. Furthermore, our generative diffusion model interpolates (predicts) unseen slices located “between” the collected finite number of ST slices. This methodology sets the stage for learning predictive deep 3D models of tissues from a finite number of spatial transcriptomics slices, thus heralding the advent of AI-augmented spatial transcriptomics.",
    "forum_url": "https://openreview.net/forum?id=c8TWaIW0FU",
    "pdf_url": "https://openreview.net/pdf?id=c8TWaIW0FU"
   },
@@ -971,7 +896,6 @@
     "Janna Hastings",
     "Jacques Fellay"
    ],
-   "abstract": "Being able to broadly predict the function of novel metabolites based on their structures has applications in systems biology, environmental monitoring and drug discovery. To date, machine learning models aiming to predict functional characteristics of metabolites have largely been limited in scope to predicting single functions, or only a small number of functions simultaneously. Using the Human Metabolome Database as a source for a wider range of functional annotations, we assess the feasibility of predicting metabolite functions more broadly, as defined by four elements, namely location, role, the process it is involved in, and its physiological effect. We evaluated three graph neural network architectures to predict available functional ontology terms. Among the models tested, the Graph Attention Network, incorporating embeddings from the pre-trained ChemBERTa model to predict the process metabolites are involved in, achieved the highest performance with an F1-score of 0.889 and a recall of 0.903. The model identified function-associated structural patterns within metabolite families, demonstrating the potential for interpretably predicting metabolite functions from structural information.",
    "forum_url": "https://openreview.net/forum?id=N5nhleVGAi",
    "pdf_url": "https://openreview.net/pdf?id=N5nhleVGAi"
   },
@@ -993,7 +917,6 @@
     "Aviv Regev",
     "Romain Lopez"
    ],
-   "abstract": "Real-world datasets often combine data collected under different experimental conditions. This yields larger datasets, but also introduces spurious correlations that make it difficult to model the phenomena of interest. We address this by learning two embeddings to independently represent the phenomena of interest and the spurious correlations. The embedding representing the phenomena of interest is correlated with the target variable $y$, and is invariant to the environment variable $e$. In contrast, the embedding representing the spurious correlations is correlated with $e$. The invariance to $e$ is difficult to achieve on real-world datasets. Our primary contribution is an algorithm called Supervised Contrastive Block Disentanglement (SCBD) that effectively enforces this invariance. It is based purely on Supervised Contrastive Learning, and applies to real-world data better than existing approaches. We empirically validate SCBD on the real-world problem of batch correction. Using a dataset of 26 million Optical Pooled Screening images, we learn embeddings for \\num{5050} genetic perturbations that are nearly free of technical artifacts that arise from unintended variation across wells.",
    "forum_url": "https://openreview.net/forum?id=cd8QEKFzOQ",
    "pdf_url": "https://openreview.net/pdf?id=cd8QEKFzOQ"
   },
@@ -1008,7 +931,6 @@
     "Tommaso Andreani",
     "Douglas McCloskey"
    ],
-   "abstract": "In this study, we present Talk2Biomodels (T2B) and Talk2KnowledgeGraphs (T2KG) as open-source, user-friendly, large language model-based agentic AI platforms designed to democratize access to computational models of disease processes using natural language. T2B and T2KG eschew the traditional graphical user interface (GUI) and minimally adaptable workflow in favour of a modern agentic framework to provide a dynamic and immersive experience to explore the biology of disease in silico and how different treatment options can be efficacious in different virtual patient populations. T2B supports models encoded in the open-source community format Systems Biology Markup Language (SBML) for quantitative prediction of patient biomarkers and integrates with biomedical knowledge graphs to provide qualitative insights not captured in the computational model. A use case in precision medicine is presented to demonstrate how experts and non-experts in computational biology and data science can benefit from T2B and T2KG.",
    "forum_url": "https://openreview.net/forum?id=av4QhBNeZo",
    "pdf_url": "https://openreview.net/pdf?id=av4QhBNeZo"
   },
@@ -1020,7 +942,6 @@
     "Benedikt von Querfurth",
     "Charlotte Bunne"
    ],
-   "abstract": "The clinical routine has access to an ever-expanding repertoire of diagnostic tests, ranging from routine imaging to sophisticated molecular profiling technologies. Foundation models have recently emerged as powerful tools for extracting and integrating diagnostic information from these diverse clinical tests, advancing the idea of comprehensive patient digital twins. However, it remains unclear how to select and design tests that ensure foundation models can extract the necessary information for accurate diagnosis. We introduce MAVIS (Multi-modal Active VIew Selection), a reinforcement learning framework that unifies modality selection and feature selection into a single decision process. By leveraging foundation models, MAVIS dynamically determines which diagnostic tests to perform and in what sequence, adapting to individual patient characteristics. Experiments on real-world datasets across multiple clinical tasks demonstrate that MAVIS outperforms conventional approaches in both diagnostic accuracy and uncertainty reduction, while reducing testing costs by over 80%, suggesting a promising direction for optimizing clinical workflows through intelligent test design and selection.",
    "forum_url": "https://openreview.net/forum?id=aNmZ9s6BZV",
    "pdf_url": "https://openreview.net/pdf?id=aNmZ9s6BZV"
   },
@@ -1030,7 +951,6 @@
     "Rushmila Shehreen Khan",
     "Md. Shahriar Karim"
    ],
-   "abstract": "Information transmission by diffusing particles is crucial in many biophysical and artificial systems. The factors that make a diffusive model an optimal choice in a given context remain elusive and vital in narrowing the search space for context-specific applications. This study explores a class of diffusion-reaction paradigms on different performance objectives. Precisely, we compare the robustness, characteristic length scale, and stochastic variability of the competing transport models considering the mesoscopic and microscopic views of the transport, asking whether the entrapment of diffusing molecules improves the reliability of the diffusive transport models.",
    "forum_url": "https://openreview.net/forum?id=36mqwnxtnK",
    "pdf_url": "https://openreview.net/pdf?id=36mqwnxtnK"
   },
@@ -1042,7 +962,6 @@
     "Sun Kim",
     "Sangseon Lee"
    ],
-   "abstract": "Accurate prediction of personalized drug response is critical for precision oncology, yet limited clinical data forces reliance on preclinical datasets. However, fundamental biological differences between preclinical cell lines and patient tumors hinder direct knowledge transfer. In this work, we introduce THERAPI, a novel tumor heterogeneity-aware Domain Adaptation (DA) framework that represents patient tumors as weighted combinations of multiple cell lines with tissue-specific context. Along with our comprehensive gene expression modeling by integrating drug-induced perturbation-based and rank-based representations, THERAPI outperforms both DA-free and DA-based models and generalizes robustly to an external dataset, highlighting its potential for applications in precision medicine.",
    "forum_url": "https://openreview.net/forum?id=prYPSWtKCC",
    "pdf_url": "https://openreview.net/pdf?id=prYPSWtKCC"
   },
@@ -1054,7 +973,6 @@
     "Ziqi Tang",
     "Peter K Koo"
    ],
-   "abstract": "Deep neural networks (DNNs) have advanced predictive modeling for regulatory genomics, but challenges remain in ensuring the reliability of their predictions and understanding the key factors behind their decision making. Here, we introduce DEGU (Distilling Ensembles for Genomic Uncertainty-aware models), a method that integrates ensemble learning and knowledge distillation to improve the robustness and explainability of DNN predictions. DEGU distills the predictions of an ensemble of DNNs into a single model, capturing both the average of the ensemble's predictions and the variability across them, with the latter representing epistemic (or model-based) uncertainty. DEGU also includes an optional auxiliary task to estimate aleatoric, or data-based, uncertainty by modeling variability across experimental replicates. By applying DEGU across various functional genomic prediction tasks, we demonstrate that DEGU-trained models inherit the performance benefits of ensembles in a single model, with improved generalization to out-of-distribution sequences and more consistent explanations of cis-regulatory mechanisms through attribution analysis. Moreover, DEGU-trained models provide calibrated uncertainty estimates, with conformal prediction offering coverage guarantees under minimal assumptions. Overall, DEGU paves the way for robust and trustworthy applications of deep learning in genomics research.",
    "forum_url": "https://openreview.net/forum?id=YZBEBxtXyU",
    "pdf_url": "https://openreview.net/pdf?id=YZBEBxtXyU"
   },
@@ -1066,7 +984,6 @@
     "Tommaso Biancalani",
     "Alex M Tseng"
    ],
-   "abstract": "Deep neural networks (DNNs) have achieved remarkable success in predicting transcription factor (TF) binding from high-throughput genome profiling data. Since TF binding is primarily driven by sequence motifs, understanding how DNNs make accurate predictions could help identify these motifs and their logical syntax. However, the black-box nature of DNNs complicates interpretation. Most post-hoc methods evaluate the importance of each base pair in isolation, often resulting in noise since they overlook the fact that motifs are contiguous regions. Additionally, these methods fail to capture the complex interactions between different motifs. To address these challenges, we propose Motif Explainer Models (MEMs), a novel explanation method that uses sufficiency and necessity to identify important motifs and their syntax. MEMs excel at identifying multiple disjoint motifs across DNA sequences, overcoming limitations of existing methods. Moreover, by accurately pinpointing sufficient and necessary motifs, MEMs can reveal the logical syntax that governs genomic regulation.",
    "forum_url": "https://openreview.net/forum?id=0X2jafslBR",
    "pdf_url": "https://openreview.net/pdf?id=0X2jafslBR"
   },
@@ -1076,7 +993,6 @@
     "Sajib Acharjee Dip",
     "Liqing Zhang"
    ],
-   "abstract": "Single-nucleus RNA sequencing (snRNA-seq) provides insights into gene expression in complex tissues but suffers from lower resolution compared to single-cell RNA sequencing (scRNA-seq). To bridge this gap, we propose scWC-GAN, a Wasserstein CycleGAN-based model that translates snRNA-seq data into high-resolution scRNA-seq profiles. Our method leverages Earth Mover’s Distance (EMD) for cycle consistency and a latent feature-preserving generator to capture transcriptomic structures better. Through extensive evaluation, scWC-GAN outperforms baseline models in FID score and SSIM, demonstrating its ability to generate biologically meaningful data. While challenges remain in fine-grained cell-type resolution, our results suggest scWC-GAN as a promising tool for cross-modality single-cell data translation, enhancing downstream analysis in genomics.",
    "forum_url": "https://openreview.net/forum?id=4nh51vZXUr",
    "pdf_url": "https://openreview.net/pdf?id=4nh51vZXUr"
   },
@@ -1087,7 +1003,6 @@
     "Vivek Das",
     "Anders Krogh"
    ],
-   "abstract": "Generative models implicitly learn underlying dynamics of data and can do more than just reconstruction. By leveraging output gradients with respect to the latent dimensions, we explore a simple approach to infer arbitrary perturbation effects which generates interpretive flow maps within high-dimensional biological datasets. By applying this method to several cases in single-cell RNA-sequencing, we demonstrate its use in inferring effects from knockdown, overexpression, toxin response and embryonic development. This approach can further add global structure to dimensionality reductions which normally only preserve local patterns. Needing only a decoder, our method simplifies analyses, is applicable to already trained models, and offers clearer insights into cellular dynamics without complex setups. In turn, this gives a more straightforward interpretation of results, making it easier to discern underlying biological pathways with easily understandable visual representations. Code available on https://github.com/yhsure/perturbations.",
    "forum_url": "https://openreview.net/forum?id=NYumxueWx2",
    "pdf_url": "https://openreview.net/pdf?id=NYumxueWx2"
   },
@@ -1098,7 +1013,6 @@
     "Iaroslav Chelombitko",
     "Aleksey Komissarov"
    ],
-   "abstract": "The emergence of telomere-to-telomere (T2T) genome assemblies has opened new avenues for comparative genomics, yet effective tokenization strategies for genomic sequences remain underexplored. In this pilot study, we apply Byte-Pair Encoding (BPE) to nine T2T primate genomes—including three human assemblies—by training independent BPE tokenizers with a fixed vocabulary of 512,000 tokens using our custom tool, dnaBPE. Our analysis reveals that only 11,569 tokens are shared across all assemblies, while nearly 991,854 tokens are unique to a single genome, indicating a rapid decline in shared vocabulary with increasing assembly comparisons. Moreover, phylogenetic trees derived from token overlap failed to recapitulate established primate relationships, a discrepancy attributed to the disproportionate influence of species-specific high-copy repetitive elements. These findings underscore the dual nature of BPE tokenization: while it effectively compresses repetitive sequences, its sensitivity to high-copy elements limits its utility as a universal tool for comparative genomics. We discuss potential hybrid strategies and repeat-masking approaches to refine genomic tokenization, emphasizing the need for domain-specific adaptations in the development of large-scale genomic language models. The dnaBPE tool used in this study is open-source and available at https://github.com/aglabx/dnaBPE.",
    "forum_url": "https://openreview.net/forum?id=rDPEBwGVnY",
    "pdf_url": "https://openreview.net/pdf?id=rDPEBwGVnY"
   }

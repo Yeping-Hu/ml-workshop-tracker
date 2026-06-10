@@ -151,7 +151,7 @@ const portalLabel: Record<string, string> = {
         </ol>
       </section>
     )}
-    {!cache && w.openreview_venue_id && (
+    {(!cache || !(cache.papers?.length > 0)) && w.openreview_venue_id && (
       <section>
         <h2>Accepted papers</h2>
         <p class="muted">

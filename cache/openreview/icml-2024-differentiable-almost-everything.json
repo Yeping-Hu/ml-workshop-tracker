@@ -1,0 +1,479 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/Differentiable_Almost_Everything",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:57.340Z",
+ "paper_count": 43,
+ "papers": [
+  {
+   "title": "(Almost) Smooth Sailing: Towards Numerical Stability of Neural Networks Through Differentiable Regularization of the Condition Number",
+   "authors": [
+    "Rossen Nenov",
+    "Daniel Haider",
+    "Peter Balazs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OJkyvJXk2B",
+   "pdf_url": "https://openreview.net/pdf?id=OJkyvJXk2B"
+  },
+  {
+   "title": "$\\bf{\\Phi}_\\textrm{Flow}$: Differentiable Simulations for Machine Learning",
+   "authors": [
+    "Philipp Holl",
+    "Nils Thuerey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8OwEipM38F",
+   "pdf_url": "https://openreview.net/pdf?id=8OwEipM38F"
+  },
+  {
+   "title": "A Differentiable Approach to Multi-scale Brain Modeling",
+   "authors": [
+    "Chaoming Wang",
+    "Muyang Lyu",
+    "Tianqiu Zhang",
+    "Sichao He",
+    "Si Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a6cpnxdGq7",
+   "pdf_url": "https://openreview.net/pdf?id=a6cpnxdGq7"
+  },
+  {
+   "title": "A Differentiable Topological Notion of Local Maxima for Keypoint Detection",
+   "authors": [
+    "Giovanni Barbarani",
+    "Francesco Vaccarino",
+    "Gabriele Trivigno",
+    "Marco Guerra",
+    "Gabriele Berton",
+    "Carlo Masone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6uLyD1ZvGk",
+   "pdf_url": "https://openreview.net/pdf?id=6uLyD1ZvGk"
+  },
+  {
+   "title": "A framework for differentiable Supervised Graph Prediction",
+   "authors": [
+    "Paul KRZAKALA",
+    "Junjie Yang",
+    "Rémi Flamary",
+    "Florence d'Alché-Buc",
+    "Charlotte Laclau",
+    "Matthieu Labeau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7XJDKEg3ct",
+   "pdf_url": "https://openreview.net/pdf?id=7XJDKEg3ct"
+  },
+  {
+   "title": "Analyzing and Improving Surrogate Gradient Training in Binary Neural Networks Using Dynamical Systems Theory",
+   "authors": [
+    "Rainer Engelken",
+    "Larry Abbott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4dgGqMJxlT",
+   "pdf_url": "https://openreview.net/pdf?id=4dgGqMJxlT"
+  },
+  {
+   "title": "BiPer: Binary Neural Networks using a Periodic Function",
+   "authors": [
+    "Edwin Vargas",
+    "Claudia V. Correa",
+    "Carlos Hinojosa",
+    "Henry Arguello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0RbmoUI6FG",
+   "pdf_url": "https://openreview.net/pdf?id=0RbmoUI6FG"
+  },
+  {
+   "title": "BMapEst: Estimation of Brain Tissue Probability Maps using a Differentiable MRI Simulator",
+   "authors": [
+    "Utkarsh Gupta",
+    "Emmanouil Nikolakakis",
+    "Moritz Zaiss",
+    "Razvan Marinescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IsK3w6f4iA",
+   "pdf_url": "https://openreview.net/pdf?id=IsK3w6f4iA"
+  },
+  {
+   "title": "BPNAS: Bayesian Progressive Neural Architecture Search",
+   "authors": [
+    "Hyunwoong Chang",
+    "Anirban Samaddar",
+    "Sandeep Madireddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5PvmQnPMPZ",
+   "pdf_url": "https://openreview.net/pdf?id=5PvmQnPMPZ"
+  },
+  {
+   "title": "CGMTorch: A Framework for Gradient-based Design of Computational Granular Metamaterials",
+   "authors": [
+    "Atoosa Parsa",
+    "Corey OHern",
+    "Rebecca Kramer-Bottiglio",
+    "Josh Bongard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QEHTtCXxRH",
+   "pdf_url": "https://openreview.net/pdf?id=QEHTtCXxRH"
+  },
+  {
+   "title": "Decoupled Differentiable Neural Architecture Search: Memory-Efficient Differentiable NAS via Disentangled Search Space",
+   "authors": [
+    "Libin Hou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=89Rhpuz1qV",
+   "pdf_url": "https://openreview.net/pdf?id=89Rhpuz1qV"
+  },
+  {
+   "title": "Differentiable Approximations of Fair OWA Optimization",
+   "authors": [
+    "My H Dinh",
+    "James Kotary",
+    "Ferdinando Fioretto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NBt4ZBOFth",
+   "pdf_url": "https://openreview.net/pdf?id=NBt4ZBOFth"
+  },
+  {
+   "title": "Differentiable Cluster Graph Neural Network",
+   "authors": [
+    "Yanfei Dong",
+    "Mohammed Haroon Dupty",
+    "Lambert Deng",
+    "Zhuanghua Liu",
+    "Yong Liang Goh",
+    "Wee Sun Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RiVjdUNl3P",
+   "pdf_url": "https://openreview.net/pdf?id=RiVjdUNl3P"
+  },
+  {
+   "title": "Differentiable Cost-Parameterized Monge Map Estimators",
+   "authors": [
+    "Samuel Howard",
+    "George Deligiannidis",
+    "Patrick Rebeschini",
+    "James Thornton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZ71nFrwBt",
+   "pdf_url": "https://openreview.net/pdf?id=UZ71nFrwBt"
+  },
+  {
+   "title": "Differentiable Iterated Function Systems",
+   "authors": [
+    "Cory Braker Scott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lENNB7ukG9",
+   "pdf_url": "https://openreview.net/pdf?id=lENNB7ukG9"
+  },
+  {
+   "title": "Differentiable Local Intrinsic Dimension Estimation with Diffusion Models",
+   "authors": [
+    "Hamidreza Kamkari",
+    "Brendan Leigh Ross",
+    "Rasa Hosseinzadeh",
+    "Jesse C. Cresswell",
+    "Gabriel Loaiza-Ganem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=byl3YSs1Vr",
+   "pdf_url": "https://openreview.net/pdf?id=byl3YSs1Vr"
+  },
+  {
+   "title": "Differentiable Mapper for Topological Optimization of Data Representation",
+   "authors": [
+    "Ziyad Oulhaj",
+    "Mathieu Carrière",
+    "Bertrand Michel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nIefLiWbYo",
+   "pdf_url": "https://openreview.net/pdf?id=nIefLiWbYo"
+  },
+  {
+   "title": "Differentiable Short-Time Fourier Transform: A Time-Frequency Layer with Learnable Parameters",
+   "authors": [
+    "Maxime Leiber",
+    "yosra marnissi",
+    "Axel Barrau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3kknpl4C7r",
+   "pdf_url": "https://openreview.net/pdf?id=3kknpl4C7r"
+  },
+  {
+   "title": "Differentiable Soft Min-Max Loss to Restrict Weight Range for Model Quantization",
+   "authors": [
+    "Arnav Kundu",
+    "Chungkuk Yoo",
+    "Minsik Cho",
+    "Saurabh Adya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ytPyPIypM6",
+   "pdf_url": "https://openreview.net/pdf?id=ytPyPIypM6"
+  },
+  {
+   "title": "Differentiable Weighted Automata",
+   "authors": [
+    "Anand Balakrishnan",
+    "Jyotirmoy V. Deshmukh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k2hIQYqHTh",
+   "pdf_url": "https://openreview.net/pdf?id=k2hIQYqHTh"
+  },
+  {
+   "title": "Differentiable Wireless Simulation with Geometric Transformers",
+   "authors": [
+    "Thomas Hehn",
+    "Markus Peschl",
+    "Tribhuvanesh Orekondy",
+    "Arash Behboodi",
+    "Johann Brehmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HlhU6aVPhk",
+   "pdf_url": "https://openreview.net/pdf?id=HlhU6aVPhk"
+  },
+  {
+   "title": "DiffFit: Differentiable Fitting of Molecule Structures to a Cryo-EM Map",
+   "authors": [
+    "Deng Luo",
+    "Zainab Alsuwaykit",
+    "Dawar Khan",
+    "Ondrej Strnad",
+    "Tobias Isenberg",
+    "Ivan Viola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8PO8XmVWbw",
+   "pdf_url": "https://openreview.net/pdf?id=8PO8XmVWbw"
+  },
+  {
+   "title": "End-to-end Differentiable Model of Robot-terrain Interactions",
+   "authors": [
+    "Ruslan Agishev",
+    "Vladimír Kubelka",
+    "Martin Pecka",
+    "Tomas Svoboda",
+    "Karel Zimmermann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XuVysF8Aon",
+   "pdf_url": "https://openreview.net/pdf?id=XuVysF8Aon"
+  },
+  {
+   "title": "Energy-based Hopfield Boosting for Out-of-Distribution Detection",
+   "authors": [
+    "Claus Hofmann",
+    "Simon Lucas Schmid",
+    "Bernhard Lehner",
+    "Daniel Klotz",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Y1Wvstt2S",
+   "pdf_url": "https://openreview.net/pdf?id=1Y1Wvstt2S"
+  },
+  {
+   "title": "Enhancing Concept-based Learning with Logic",
+   "authors": [
+    "Deepika Vemuri",
+    "Gautham Bellamkonda",
+    "Vineeth N. Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FUZYp83y4M",
+   "pdf_url": "https://openreview.net/pdf?id=FUZYp83y4M"
+  },
+  {
+   "title": "Generalizing Convolution to Point Clouds",
+   "authors": [
+    "Davide Bacciu",
+    "Francesco Landolfi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TXwDtUmiaj",
+   "pdf_url": "https://openreview.net/pdf?id=TXwDtUmiaj"
+  },
+  {
+   "title": "Heterogeneous Federated Zeroth-Order Optimization using Gradient Surrogates",
+   "authors": [
+    "Yao Shu",
+    "Xiaoqiang Lin",
+    "Zhongxiang Dai",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8E2YX0vf05",
+   "pdf_url": "https://openreview.net/pdf?id=8E2YX0vf05"
+  },
+  {
+   "title": "How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent",
+   "authors": [
+    "Konstantin Riedl",
+    "Timo Klock",
+    "Carina Geldhauser",
+    "Massimo Fornasier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DkBBoKup22",
+   "pdf_url": "https://openreview.net/pdf?id=DkBBoKup22"
+  },
+  {
+   "title": "Implicit Diffusion: Efficient Optimization through Stochastic Sampling",
+   "authors": [
+    "Pierre Marion",
+    "Anna Korba",
+    "Peter Bartlett",
+    "Mathieu Blondel",
+    "Valentin De Bortoli",
+    "Arnaud Doucet",
+    "Felipe Llinares-López",
+    "Courtney Paquette",
+    "Quentin Berthet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LMFBzRD8HY",
+   "pdf_url": "https://openreview.net/pdf?id=LMFBzRD8HY"
+  },
+  {
+   "title": "Learning Set Functions with Implicit Differentiation",
+   "authors": [
+    "Gözde Özcan",
+    "Chengzhi Shi",
+    "Stratis Ioannidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dKO2BVdYZM",
+   "pdf_url": "https://openreview.net/pdf?id=dKO2BVdYZM"
+  },
+  {
+   "title": "Learning to Design Data-structures: A Case Study of Nearest Neighbor Search",
+   "authors": [
+    "Omar Salemohamed",
+    "Vatsal Sharan",
+    "Shivam Garg",
+    "Laurent Charlin",
+    "Gregory Valiant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFUCX2zEHC",
+   "pdf_url": "https://openreview.net/pdf?id=wFUCX2zEHC"
+  },
+  {
+   "title": "MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation",
+   "authors": [
+    "Alexandre Hayderi",
+    "Amin Saberi",
+    "Ellen Vitercik",
+    "Anders Wikum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GplTbfyPux",
+   "pdf_url": "https://openreview.net/pdf?id=GplTbfyPux"
+  },
+  {
+   "title": "Parallelising Differentiable Algorithms Removes the Scalar Bottleneck: A Case Study",
+   "authors": [
+    "Euan Ong",
+    "Ferenc Huszár",
+    "Pietro Lio",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ppQUHfuwa",
+   "pdf_url": "https://openreview.net/pdf?id=5ppQUHfuwa"
+  },
+  {
+   "title": "PICT: Adaptive GPU Accelerated Differentiable Fluid Simulation for Machine Learning",
+   "authors": [
+    "Aleksandra Franz",
+    "Nils Thuerey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qmo0xJ4c4U",
+   "pdf_url": "https://openreview.net/pdf?id=qmo0xJ4c4U"
+  },
+  {
+   "title": "Relaxing Graph Transformers for Adversarial Attacks",
+   "authors": [
+    "Philipp Foth",
+    "Lukas Gosch",
+    "Simon Geisler",
+    "Leo Schwinn",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w4SCoxaCCv",
+   "pdf_url": "https://openreview.net/pdf?id=w4SCoxaCCv"
+  },
+  {
+   "title": "Revisiting Score Function Estimators for $k$-Subset Sampling",
+   "authors": [
+    "Klas Wijk",
+    "Ricardo Vinuesa Motilva",
+    "Hossein Azizpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=opr1ijTcj7",
+   "pdf_url": "https://openreview.net/pdf?id=opr1ijTcj7"
+  },
+  {
+   "title": "SA-DQAS: Self-attention Enhanced Differentiable Quantum Architecture Search",
+   "authors": [
+    "Yize Sun",
+    "Jiarui Liu",
+    "Zixin Wu",
+    "Zifeng Ding",
+    "Yunpu Ma",
+    "Thomas Seidl",
+    "Volker Tresp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cJh5sQcQF2",
+   "pdf_url": "https://openreview.net/pdf?id=cJh5sQcQF2"
+  },
+  {
+   "title": "Stable Differentiable Causal Discovery",
+   "authors": [
+    "Achille Nazaret",
+    "Justin Hong",
+    "Elham Azizi",
+    "David Blei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IMGhy0dL2T",
+   "pdf_url": "https://openreview.net/pdf?id=IMGhy0dL2T"
+  },
+  {
+   "title": "Structure- and Function-Aware Substitution Matrices via Differentiable Graph Matching",
+   "authors": [
+    "Paolo Pellizzoni",
+    "Carlos Oliver",
+    "Karsten Borgwardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3rhFYEg4v1",
+   "pdf_url": "https://openreview.net/pdf?id=3rhFYEg4v1"
+  },
+  {
+   "title": "Symbolic Autoencoding for Self-Supervised Sequence Learning",
+   "authors": [
+    "Mohammad Hossein Amani",
+    "Nicolas Baldwin",
+    "Amin Mansouri",
+    "Martin Josifoski",
+    "Maxime Peyrard",
+    "Robert West"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UYwVqRtxN4",
+   "pdf_url": "https://openreview.net/pdf?id=UYwVqRtxN4"
+  },
+  {
+   "title": "Transforming a Non-Differentiable Rasterizer into a Differentiable One with Stochastic Gradient Estimation",
+   "authors": [
+    "Thomas Deliot",
+    "Eric Heitz",
+    "Laurent Belcour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w9Pjv2X0fe",
+   "pdf_url": "https://openreview.net/pdf?id=w9Pjv2X0fe"
+  },
+  {
+   "title": "Using gradients to check sensitivity of MCMC-based analyses to removing data",
+   "authors": [
+    "Tin D. Nguyen",
+    "Ryan James Giordano",
+    "Rachael Meager",
+    "Tamara Broderick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bCPhVcq9Mj",
+   "pdf_url": "https://openreview.net/pdf?id=bCPhVcq9Mj"
+  },
+  {
+   "title": "You Shall Pass: Dealing with the Zero-Gradient Problem in Predict and Optimize for Convex Optimization",
+   "authors": [
+    "Grigorii Veviurko",
+    "Wendelin Boehmer",
+    "Mathijs de Weerdt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vmnfrrLATL",
+   "pdf_url": "https://openreview.net/pdf?id=vmnfrrLATL"
+  }
+ ]
+}

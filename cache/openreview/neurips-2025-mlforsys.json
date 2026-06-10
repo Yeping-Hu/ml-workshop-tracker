@@ -1,0 +1,301 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/MLForSys",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:04.015Z",
+ "paper_count": 41,
+ "papers": [
+  {
+   "title": "A Data-driven ML Approach for Maximizing Performance in LLM-Adapter Serving",
+   "authors": [
+    "Ferran Agullo",
+    "Joan Oliveras Torra",
+    "Chen Wang",
+    "Alberto Gutierrez-Torre",
+    "Olivier Tardieu",
+    "Alaa Youssef",
+    "Jordi Torres",
+    "Josep Lluis Berral"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ok9Y1cKNFy",
+   "pdf_url": "https://openreview.net/pdf?id=ok9Y1cKNFy"
+  },
+  {
+   "title": "A Joint Learning Approach to Hardware Caching and Prefetching",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=1tpq5TFopY",
+   "pdf_url": "https://openreview.net/pdf?id=1tpq5TFopY"
+  },
+  {
+   "title": "Advancing Routing-Awareness in Analog ICs Floorplanning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=GquvFYiq6z",
+   "pdf_url": "https://openreview.net/pdf?id=GquvFYiq6z"
+  },
+  {
+   "title": "Adversarial Query Synthesis via Bayesian Optimization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=WOiY7ZMIIN",
+   "pdf_url": "https://openreview.net/pdf?id=WOiY7ZMIIN"
+  },
+  {
+   "title": "Agentic Bridge Framework: Closing the Gap Between Agentic Capability and Performance Benchmarks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Rv664iOMNv",
+   "pdf_url": "https://openreview.net/pdf?id=Rv664iOMNv"
+  },
+  {
+   "title": "An Early Exploration of Deep-Learning-Driven Prefetching for Far Memory",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=EO3qyTPnk8",
+   "pdf_url": "https://openreview.net/pdf?id=EO3qyTPnk8"
+  },
+  {
+   "title": "An Expert in Residence: LLM Agents for Always-On Operating System Tuning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7dhlgPp8ni",
+   "pdf_url": "https://openreview.net/pdf?id=7dhlgPp8ni"
+  },
+  {
+   "title": "APCE: Adaptive Progressive Context Expansion for Long Context Processing",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=elPCZJzjHd",
+   "pdf_url": "https://openreview.net/pdf?id=elPCZJzjHd"
+  },
+  {
+   "title": "ASAP: an Agentic Solution to Auto-optimize Performance of Large-Scale LLM Training",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=n0JqgyQhtR",
+   "pdf_url": "https://openreview.net/pdf?id=n0JqgyQhtR"
+  },
+  {
+   "title": "Attention-Informed Surrogates for Navigating Power-Performance Trade-offs in HPC",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=R0Vc9lnDd5",
+   "pdf_url": "https://openreview.net/pdf?id=R0Vc9lnDd5"
+  },
+  {
+   "title": "Automated Multi-Agent Workflows for RTL Design",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=S4Fqovim3F",
+   "pdf_url": "https://openreview.net/pdf?id=S4Fqovim3F"
+  },
+  {
+   "title": "Carbon-Aware RL-LLM Control for Energy-Efficient Liquid-Cooled HPC Data Centers",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=V9U3msKImw",
+   "pdf_url": "https://openreview.net/pdf?id=V9U3msKImw"
+  },
+  {
+   "title": "DataSwift: Smart Choices for Safe Query Optimization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=MOIElxhyaQ",
+   "pdf_url": "https://openreview.net/pdf?id=MOIElxhyaQ"
+  },
+  {
+   "title": "Forecasting machine degradation of GPU Clusters",
+   "authors": [
+    "Shengnan Cai",
+    "Shuxin Nie",
+    "Zhehui Chen",
+    "Nupur Gulalkari",
+    "George Vanica",
+    "Chetna Jain",
+    "Sethuraman Sankaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=18LJsdjevt",
+   "pdf_url": "https://openreview.net/pdf?id=18LJsdjevt"
+  },
+  {
+   "title": "GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=20gUeZrBiv",
+   "pdf_url": "https://openreview.net/pdf?id=20gUeZrBiv"
+  },
+  {
+   "title": "How Should We Evaluate Data Deletion in Graph-Based ANN Indexes?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=lnaC19Pd30",
+   "pdf_url": "https://openreview.net/pdf?id=lnaC19Pd30"
+  },
+  {
+   "title": "InfraGym: Empowering LLM Agents for Real-World Computer System Optimization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=4BxM63tTgc",
+   "pdf_url": "https://openreview.net/pdf?id=4BxM63tTgc"
+  },
+  {
+   "title": "Learning to Shard: RL for Co-optimizing the Parallelism Degrees and Per-operator Sharding Dimensions in Distributed LLM Inference",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=8qrDMNPy0O",
+   "pdf_url": "https://openreview.net/pdf?id=8qrDMNPy0O"
+  },
+  {
+   "title": "Leveraging Large Language Models to Enhance Machine-Learning-Driven HPC Job Scheduling",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=XZo2PbGrW9",
+   "pdf_url": "https://openreview.net/pdf?id=XZo2PbGrW9"
+  },
+  {
+   "title": "LLM-Box : An Agentic Framework for Guided Black-Box Optimization in Mapping LLMs onto Specialized Hardware Accelerators",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=W2htGuo9de",
+   "pdf_url": "https://openreview.net/pdf?id=W2htGuo9de"
+  },
+  {
+   "title": "LLM-Guided Autoscheduling for Large-Scale Sparse Machine Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7H9qWe8lLO",
+   "pdf_url": "https://openreview.net/pdf?id=7H9qWe8lLO"
+  },
+  {
+   "title": "LLMVisor: A Real-Time Latency Attribution Model for Multi-Tenant LLM Serving",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=VeAJmE2ZJU",
+   "pdf_url": "https://openreview.net/pdf?id=VeAJmE2ZJU"
+  },
+  {
+   "title": "Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents",
+   "authors": [
+    "Derek Lilienthal",
+    "Sanghyun Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RtwZmyXJS8",
+   "pdf_url": "https://openreview.net/pdf?id=RtwZmyXJS8"
+  },
+  {
+   "title": "ML-Guided Cold Plate Design and Thermal Analysis for Liquid-Cooled HPC Servers",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=cBbD7EYbjL",
+   "pdf_url": "https://openreview.net/pdf?id=cBbD7EYbjL"
+  },
+  {
+   "title": "MoE-GPS: Guidlines for Prediction Strategy with Expert Duplication in MoE Load Balancing",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=VCh5vBSxxb",
+   "pdf_url": "https://openreview.net/pdf?id=VCh5vBSxxb"
+  },
+  {
+   "title": "MXNorm: Reusing block scales for efficient tensor normalisation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=RAFywmBRDV",
+   "pdf_url": "https://openreview.net/pdf?id=RAFywmBRDV"
+  },
+  {
+   "title": "NetGent : Agent-Based Automation of Network Application Workflows",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=73yIPzwJXT",
+   "pdf_url": "https://openreview.net/pdf?id=73yIPzwJXT"
+  },
+  {
+   "title": "NeuSym-HLS: Learning-Driven Symbolic Distillation in High-Level Synthesis of Hardware Accelerators",
+   "authors": [
+    "Chung-Mou Pan",
+    "Salma Elmalaki",
+    "Yasser Shoukry",
+    "Sitao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LyyoH5rpS8",
+   "pdf_url": "https://openreview.net/pdf?id=LyyoH5rpS8"
+  },
+  {
+   "title": "Optimized Learned Count-Min Sketch",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=N6Z6IqD2ZO",
+   "pdf_url": "https://openreview.net/pdf?id=N6Z6IqD2ZO"
+  },
+  {
+   "title": "OptRot: Mitigating Weight Outliers via Data-Free Rotations for Post-Training Quantization",
+   "authors": [
+    "Advait Gadhikar",
+    "Riccardo Grazzi",
+    "James Hensman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4uwRaBhjHY",
+   "pdf_url": "https://openreview.net/pdf?id=4uwRaBhjHY"
+  },
+  {
+   "title": "PORT: Efficient Training-Free Online Routing for High-Volume Multi-LLM Serving",
+   "authors": [
+    "Fangzhou Wu",
+    "Sandeep Silwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B0iFlb0h4n",
+   "pdf_url": "https://openreview.net/pdf?id=B0iFlb0h4n"
+  },
+  {
+   "title": "QAQ: Query-adaptive Mixed-precision Quantization for Large Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=dpHfDasG44",
+   "pdf_url": "https://openreview.net/pdf?id=dpHfDasG44"
+  },
+  {
+   "title": "Retrieval on Verilog Repositories: A Knowledge-Graph Based Solution",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=plT0OmkRuN",
+   "pdf_url": "https://openreview.net/pdf?id=plT0OmkRuN"
+  },
+  {
+   "title": "Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems",
+   "authors": [
+    "Prathamesh Devadiga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gQ3pomz6UN",
+   "pdf_url": "https://openreview.net/pdf?id=gQ3pomz6UN"
+  },
+  {
+   "title": "Small, Fast, and Certain: Developing a Specialized Verilog Code Completion Solution for the Enterprise",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=jeMPDd4gjl",
+   "pdf_url": "https://openreview.net/pdf?id=jeMPDd4gjl"
+  },
+  {
+   "title": "Sustainable Control of Geo-Distributed Datacenters by Distilling Numerical Experts into Adaptive LLM Agents",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=yvikkn0OD3",
+   "pdf_url": "https://openreview.net/pdf?id=yvikkn0OD3"
+  },
+  {
+   "title": "SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=a5aJi9OAr0",
+   "pdf_url": "https://openreview.net/pdf?id=a5aJi9OAr0"
+  },
+  {
+   "title": "Towards Agentic OS: An LLM Agent Framework for Linux Schedulers",
+   "authors": [
+    "YUSHENG ZHENG",
+    "YanPeng Hu",
+    "Wei Zhang",
+    "Andi Quinn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m559zeh9y8",
+   "pdf_url": "https://openreview.net/pdf?id=m559zeh9y8"
+  },
+  {
+   "title": "Towards Automatically Optimizing Retrieval Augmented AI Systems",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=an17DUVvuS",
+   "pdf_url": "https://openreview.net/pdf?id=an17DUVvuS"
+  },
+  {
+   "title": "Ultra-Efficient Decoding for End-to-End Neural Compression and Reconstruction",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=f42vfSVPjY",
+   "pdf_url": "https://openreview.net/pdf?id=f42vfSVPjY"
+  },
+  {
+   "title": "When to Reason: Semantic Router for vLLM",
+   "authors": [
+    "Chen Wang",
+    "Xunzhuo Liu",
+    "Yuhan Liu",
+    "Yue Zhu",
+    "Xiangxi Mo",
+    "Junchen Jiang",
+    "Huamin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGeOrfovNn",
+   "pdf_url": "https://openreview.net/pdf?id=MGeOrfovNn"
+  }
+ ]
+}

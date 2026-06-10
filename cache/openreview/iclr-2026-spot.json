@@ -1,0 +1,854 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/SPOT",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:38.314Z",
+ "paper_count": 64,
+ "papers": [
+  {
+   "title": "A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation",
+   "authors": [
+    "Xiaocan Li",
+    "Zheng Shen",
+    "Shiliang Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CgtMJGtYnr",
+   "pdf_url": "https://openreview.net/pdf?id=CgtMJGtYnr"
+  },
+  {
+   "title": "Actor-Curator: Scalable Adaptive Curriculum Learning for LLM Post-Training",
+   "authors": [
+    "Zhengyao Gu",
+    "Jonathan Light",
+    "Raul Astudillo",
+    "Ziyu Ye",
+    "Langzhou He",
+    "Wei Cheng",
+    "Santiago Paternain",
+    "Philip S. Yu",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ticD6IcBQi",
+   "pdf_url": "https://openreview.net/pdf?id=ticD6IcBQi"
+  },
+  {
+   "title": "Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum",
+   "authors": [
+    "Gaotang Li",
+    "Ruizhong Qiu",
+    "Xiusi Chen",
+    "Heng Ji",
+    "Hanghang Tong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qZx8a6nhw0",
+   "pdf_url": "https://openreview.net/pdf?id=qZx8a6nhw0"
+  },
+  {
+   "title": "Beyond Scalar Critics: A Distributional Perspective on Reinforcement Learning with Verifiable Rewards for LLMs",
+   "authors": [
+    "Jinyi Liu",
+    "Yiboyun Chen",
+    "Hongyao Tang",
+    "Yi Ma",
+    "Shuyue Hu",
+    "Yang Chen",
+    "Fei Ni",
+    "Qiaosheng Zhang",
+    "LEI BAI",
+    "YAN ZHENG",
+    "Jianye HAO"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3e46ayVUgj",
+   "pdf_url": "https://openreview.net/pdf?id=3e46ayVUgj"
+  },
+  {
+   "title": "BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills",
+   "authors": [
+    "Atharv Sonwane",
+    "Isadora White",
+    "Hyunji Lee",
+    "Matheus Pereira",
+    "Lucas Caccia",
+    "Minseon Kim",
+    "Zhengyan Shi",
+    "Chinmay Singh",
+    "Alessandro Sordoni",
+    "Marc-Alexandre Côté",
+    "Xingdi Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LwpxZdSbS6",
+   "pdf_url": "https://openreview.net/pdf?id=LwpxZdSbS6"
+  },
+  {
+   "title": "Challenges in Inference-Time Scaling with Uncertainty-Aware Tree Search",
+   "authors": [
+    "Jacopo Minniti",
+    "Neil Band",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=opjf792dUq",
+   "pdf_url": "https://openreview.net/pdf?id=opjf792dUq"
+  },
+  {
+   "title": "CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning",
+   "authors": [
+    "Tianshi Xu",
+    "Yuteng Chen",
+    "Meng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bWPhJpPlnc",
+   "pdf_url": "https://openreview.net/pdf?id=bWPhJpPlnc"
+  },
+  {
+   "title": "Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision",
+   "authors": [
+    "Dulhan Jayalath",
+    "Shashwat Goel",
+    "Thomas Foster",
+    "Parag Jain",
+    "Suchin Gururangan",
+    "Cheng Zhang",
+    "Anirudh Goyal",
+    "Alan Schelten"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yj2FKXfUNJ",
+   "pdf_url": "https://openreview.net/pdf?id=Yj2FKXfUNJ"
+  },
+  {
+   "title": "Compute-Efficient GRPO Training",
+   "authors": [
+    "Rajat Ghosh",
+    "Vaishnavi Bhargava",
+    "Debojyoti Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sURYpV9lTp",
+   "pdf_url": "https://openreview.net/pdf?id=sURYpV9lTp"
+  },
+  {
+   "title": "Corecraft: Training Generalizable Agents on High-Fidelity RL Environments",
+   "authors": [
+    "Sushant Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x9RfuBUWf3",
+   "pdf_url": "https://openreview.net/pdf?id=x9RfuBUWf3"
+  },
+  {
+   "title": "Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking",
+   "authors": [
+    "Muhammad Khalifa",
+    "Zohaib Khan",
+    "Omer Tafveez",
+    "Hao Peng",
+    "Lu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cMosWesrZh",
+   "pdf_url": "https://openreview.net/pdf?id=cMosWesrZh"
+  },
+  {
+   "title": "Counterfactual Credit Assignment for Policy Optimization",
+   "authors": [
+    "Mykola Khandoga",
+    "Rui Yuan",
+    "Vinay kumar Sankarapu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ujPTwAb21H",
+   "pdf_url": "https://openreview.net/pdf?id=ujPTwAb21H"
+  },
+  {
+   "title": "Coverage Improvement and Fast Convergence of On-policy Preference Learning",
+   "authors": [
+    "Juno Kim",
+    "Jihun Yun",
+    "Jason D. Lee",
+    "Kwang-Sung Jun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=REwEUPnwfC",
+   "pdf_url": "https://openreview.net/pdf?id=REwEUPnwfC"
+  },
+  {
+   "title": "CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing",
+   "authors": [
+    "Zarif Ikram",
+    "Arad Firouzkouhi",
+    "Stephen Tu",
+    "Mahdi Soltanolkotabi",
+    "Paria Rashidinejad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1I3Tf4Fs9b",
+   "pdf_url": "https://openreview.net/pdf?id=1I3Tf4Fs9b"
+  },
+  {
+   "title": "DELTA4: Sparse Matrix-Vector Multiplication for Low Sparsity",
+   "authors": [
+    "Vladimír Macko",
+    "Vladimír Boža"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WnLnTrcMK9",
+   "pdf_url": "https://openreview.net/pdf?id=WnLnTrcMK9"
+  },
+  {
+   "title": "DGPO: Decoupled Gradient Policy Optimization for RLVR in LLMs",
+   "authors": [
+    "Xiaoliang Fu",
+    "Jiaye Lin",
+    "Yangyi Fang",
+    "Cong Qin",
+    "Chaowen Hu",
+    "Binbin Zheng",
+    "Zekai Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AU37MqplU4",
+   "pdf_url": "https://openreview.net/pdf?id=AU37MqplU4"
+  },
+  {
+   "title": "DIRICHLET-PRIOR SHAPING: GUIDING EXPERT SPECIALIZATION IN UPCYCLED MOES",
+   "authors": [
+    "Leyla Mirvakhabova",
+    "Babak Ehteshami Bejnordi",
+    "Gaurav Kumar",
+    "Hanxue Liang",
+    "Wanru Zhao",
+    "Paul N. Whatmough"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ipyC1reGr0",
+   "pdf_url": "https://openreview.net/pdf?id=ipyC1reGr0"
+  },
+  {
+   "title": "Efficient and Stable Scaling of Reinforcement Learning for LLMs via Dynamic Allocation and Gradient Modulation",
+   "authors": [
+    "Yangyi Fang",
+    "Jiaye Lin",
+    "Xiaoliang Fu",
+    "Cong Qin",
+    "Haolin Shi",
+    "Chaowen Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tm4XJqs2ie",
+   "pdf_url": "https://openreview.net/pdf?id=Tm4XJqs2ie"
+  },
+  {
+   "title": "Efficient RL Training for LLMs with Experience Replay",
+   "authors": [
+    "Charles Arnal",
+    "Vivien Cabannes",
+    "Taco Cohen",
+    "Julia Kempe",
+    "Rémi Munos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9XPTMzw95c",
+   "pdf_url": "https://openreview.net/pdf?id=9XPTMzw95c"
+  },
+  {
+   "title": "Entropy-Aware On-Policy Distillation of Language Models",
+   "authors": [
+    "Woogyeol Jin",
+    "Taywon Min",
+    "Yongjin Yang",
+    "Swanand Ravindra Kadhe",
+    "Yi Zhou",
+    "Dennis Wei",
+    "Nathalie Baracaldo",
+    "Kimin Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WSRQ37tzk1",
+   "pdf_url": "https://openreview.net/pdf?id=WSRQ37tzk1"
+  },
+  {
+   "title": "Escaping the Mode: Multi Answer Reinforcement Learning in LMs",
+   "authors": [
+    "Isha Puri",
+    "Mehul Damani",
+    "Idan Shenfeld",
+    "Marzyeh Ghassemi",
+    "Jacob Andreas",
+    "Yoon Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T4CbbTr6aL",
+   "pdf_url": "https://openreview.net/pdf?id=T4CbbTr6aL"
+  },
+  {
+   "title": "Execution-Grounded Credit Assignment for GRPO in Code Generation",
+   "authors": [
+    "Abhijit Kumar",
+    "Shikhar Gupta",
+    "Natalya Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nqkVB5EVXJ",
+   "pdf_url": "https://openreview.net/pdf?id=nqkVB5EVXJ"
+  },
+  {
+   "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
+   "authors": [
+    "Yuda Song",
+    "Lili Chen",
+    "Fahim Tajwar",
+    "Rémi Munos",
+    "Deepak Pathak",
+    "Drew Bagnell",
+    "Aarti Singh",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=om12baYnKM",
+   "pdf_url": "https://openreview.net/pdf?id=om12baYnKM"
+  },
+  {
+   "title": "F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare",
+   "authors": [
+    "Daniil Plyusov",
+    "Alexey Gorbatovski",
+    "Boris Shaposhnikov",
+    "Viacheslav Sinii",
+    "Alexey Malakhov",
+    "Daniil Gavrilov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DWS8VtJt6a",
+   "pdf_url": "https://openreview.net/pdf?id=DWS8VtJt6a"
+  },
+  {
+   "title": "Federated Agent Reinforcement Learning",
+   "authors": [
+    "Canyu Chen",
+    "Kangyu Zhu",
+    "Zhaorun Chen",
+    "Zhanhui Zhou",
+    "Shizhe Diao",
+    "Yiping Lu",
+    "Tian Li",
+    "Manling Li",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8xn8ag7wHS",
+   "pdf_url": "https://openreview.net/pdf?id=8xn8ag7wHS"
+  },
+  {
+   "title": "From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning",
+   "authors": [
+    "Sitao Cheng",
+    "Xunjian Yin",
+    "Ruiwen Zhou",
+    "Yuxuan Li",
+    "Xinyi Wang",
+    "Liangming Pan",
+    "William Yang Wang",
+    "Victor Zhong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CKijGdvOdd",
+   "pdf_url": "https://openreview.net/pdf?id=CKijGdvOdd"
+  },
+  {
+   "title": "GEOMA: Geometric and Econometric Objectives for Multi-Reward Alignment",
+   "authors": [
+    "Taneesh Gupta",
+    "Pragya Srivastava",
+    "Rahul Madhavan",
+    "Karthikeyan Shanmugam",
+    "Aravindan Raghuveer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Adevc4M0L",
+   "pdf_url": "https://openreview.net/pdf?id=0Adevc4M0L"
+  },
+  {
+   "title": "Hierarchical Agenda Reasoning for Strategic Multi-Turn Dialogue Agents",
+   "authors": [
+    "Marwa Abdulhai",
+    "Ryan Cheng",
+    "Aryansh Shrivastava",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p144zx4bO0",
+   "pdf_url": "https://openreview.net/pdf?id=p144zx4bO0"
+  },
+  {
+   "title": "Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?",
+   "authors": [
+    "Shuibai Zhang",
+    "Junhyuck Kim",
+    "Gyeongman Kim",
+    "Jaewoong Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eiOwyAa2O1",
+   "pdf_url": "https://openreview.net/pdf?id=eiOwyAa2O1"
+  },
+  {
+   "title": "IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL",
+   "authors": [
+    "Zhoujun Cheng",
+    "Yutao Xie",
+    "Yuxiao Qu",
+    "Amrith Setlur",
+    "Shibo Hao",
+    "Varad Pimpalkhute",
+    "Tongtong Liang",
+    "Feng Yao",
+    "Zhengzhong Liu",
+    "Eric P. Xing",
+    "Virginia Smith",
+    "Ruslan Salakhutdinov",
+    "Zhiting Hu",
+    "Taylor W. Killian",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vGFkqge205",
+   "pdf_url": "https://openreview.net/pdf?id=vGFkqge205"
+  },
+  {
+   "title": "Jointly Reinforcing Diversity and Quality in Language Model Generations",
+   "authors": [
+    "Tianjian Li",
+    "Yiming Zhang",
+    "Ping Yu",
+    "Swarnadeep Saha",
+    "Daniel Khashabi",
+    "Jason E Weston",
+    "Jack Lanchantin",
+    "Tianlu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zW70rGMPuy",
+   "pdf_url": "https://openreview.net/pdf?id=zW70rGMPuy"
+  },
+  {
+   "title": "Learning Discriminative Process Reward Models without Step Labels",
+   "authors": [
+    "Kingsley Kim",
+    "Haolin Liu",
+    "Chen-Yu Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=df3p10k2kq",
+   "pdf_url": "https://openreview.net/pdf?id=df3p10k2kq"
+  },
+  {
+   "title": "Learning Useful Supervision for Reinforcement Learning in Reasoning Models",
+   "authors": [
+    "Liang Chen",
+    "Xueting Han",
+    "Li Shen",
+    "Jing Bai",
+    "Kam-Fai Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d4Ye1zahB4",
+   "pdf_url": "https://openreview.net/pdf?id=d4Ye1zahB4"
+  },
+  {
+   "title": "Making Complex Reasoning Student-Friendly: A Hybrid LLM-to-SLM Distillation Framework",
+   "authors": [
+    "Yongjin Yang",
+    "Yinghui He",
+    "Jiarui Liu",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6jP5PDOmqN",
+   "pdf_url": "https://openreview.net/pdf?id=6jP5PDOmqN"
+  },
+  {
+   "title": "Maximum Likelihood Reinforcement Learning",
+   "authors": [
+    "Fahim Tajwar",
+    "Guanning Zeng",
+    "Yueer Zhou",
+    "Yuda Song",
+    "Daman Arora",
+    "Yiding Jiang",
+    "Jeff Schneider",
+    "Ruslan Salakhutdinov",
+    "Haiwen Feng",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kz71xmKjG9",
+   "pdf_url": "https://openreview.net/pdf?id=Kz71xmKjG9"
+  },
+  {
+   "title": "Mix Early, Forget Less: Data Mixing During Pretraining Builds Resistance to Forgetting",
+   "authors": [
+    "Lawrence Feng",
+    "Gaurav Rohit Ghosal",
+    "Jacob Mitchell Springer",
+    "Ziqian Zhong",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=01tsSYNgsL",
+   "pdf_url": "https://openreview.net/pdf?id=01tsSYNgsL"
+  },
+  {
+   "title": "Near-Optimal Regret for KL-Regularized Multi-Armed Bandits",
+   "authors": [
+    "Kaixuan Ji",
+    "Qingyue Zhao",
+    "Heyang Zhao",
+    "Qiwei Di",
+    "Quanquan Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3oK7QsbybJ",
+   "pdf_url": "https://openreview.net/pdf?id=3oK7QsbybJ"
+  },
+  {
+   "title": "NyoomFloat12: Lossless 12-bit Weight Compression for Post-Training Inference",
+   "authors": [
+    "Sylvie Liberman",
+    "Tianyi Zhang",
+    "Daniel Y Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yYFj1E1mSZ",
+   "pdf_url": "https://openreview.net/pdf?id=yYFj1E1mSZ"
+  },
+  {
+   "title": "On quantizing the state of the Muon optimizer",
+   "authors": [
+    "Aman Gupta",
+    "Rafael Celente",
+    "Abhishek Shivanna",
+    "Daniel Thomas Braithwaite",
+    "Gregory Dexter",
+    "Shao Tang",
+    "Hiroto Udagawa",
+    "Daniel Silva",
+    "Rohan Ramanath",
+    "Sathiya Keerthi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sIaFnXGG0w",
+   "pdf_url": "https://openreview.net/pdf?id=sIaFnXGG0w"
+  },
+  {
+   "title": "Prescriptive Scaling Reveals the Evolution of Language Model Capabilities",
+   "authors": [
+    "Hanlin Zhang",
+    "Jikai Jin",
+    "Vasilis Syrgkanis",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bqj2ew46Va",
+   "pdf_url": "https://openreview.net/pdf?id=Bqj2ew46Va"
+  },
+  {
+   "title": "Privileged Information Distillation for Language Models",
+   "authors": [
+    "Emiliano Penaloza",
+    "Dheeraj Vattikonda",
+    "Nicolas Gontier",
+    "Alexandre Lacoste",
+    "Laurent Charlin",
+    "Massimo Caccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FbJu6NEBQR",
+   "pdf_url": "https://openreview.net/pdf?id=FbJu6NEBQR"
+  },
+  {
+   "title": "QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources",
+   "authors": [
+    "Zhikai Li",
+    "Xiaoxuan Liu",
+    "Banghua Zhu",
+    "Zhen Dong",
+    "Kurt Keutzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PcKjjZOnfc",
+   "pdf_url": "https://openreview.net/pdf?id=PcKjjZOnfc"
+  },
+  {
+   "title": "Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck",
+   "authors": [
+    "Fabio Valerio Massoli",
+    "Andrey Kuzmin",
+    "Arash Behboodi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=98sbP0T8ck",
+   "pdf_url": "https://openreview.net/pdf?id=98sbP0T8ck"
+  },
+  {
+   "title": "Reasoning Cache: Learning to Extrapolate to Long Lengths via Short-Length RL",
+   "authors": [
+    "Ian Wu",
+    "Yuxiao Qu",
+    "Amrith Setlur",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9C1eq3ixB9",
+   "pdf_url": "https://openreview.net/pdf?id=9C1eq3ixB9"
+  },
+  {
+   "title": "Recontextualization Mitigates Specification Gaming without Modifying the Specification",
+   "authors": [
+    "Ariana Azarbal",
+    "Victor Gillioz",
+    "Vladimir Ivanov",
+    "Bryce Woodworth",
+    "jacob drori",
+    "Nevan Wichers",
+    "Aram Ebtekar",
+    "Alex Cloud",
+    "Alexander Matt Turner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dBUBOhYXgz",
+   "pdf_url": "https://openreview.net/pdf?id=dBUBOhYXgz"
+  },
+  {
+   "title": "Reinforcement Learning via Self-Distillation",
+   "authors": [
+    "Jonas Hübotter",
+    "Frederike Lübeck",
+    "Lejs Deen Behric",
+    "Anton Baumann",
+    "Marco Bagatella",
+    "Daniel Marta",
+    "Ido Hakimi",
+    "Idan Shenfeld",
+    "Thomas Kleine Buening",
+    "Carlos Guestrin",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k8DcHShsrJ",
+   "pdf_url": "https://openreview.net/pdf?id=k8DcHShsrJ"
+  },
+  {
+   "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+   "authors": [
+    "Amrith Setlur",
+    "Zijian Wang",
+    "Andrew Cohen",
+    "Paria Rashidinejad",
+    "Sang Michael Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u2VIFcSKU6",
+   "pdf_url": "https://openreview.net/pdf?id=u2VIFcSKU6"
+  },
+  {
+   "title": "RewardFlow: Topology-Aware Reward Propagation on State Graphs  for Agentic RL with Large Language Models",
+   "authors": [
+    "Xiao Feng",
+    "Bo Han",
+    "Zhanke Zhou",
+    "Jiaqi Fan",
+    "Jiangchao Yao",
+    "Ka Ho Li",
+    "Dahai Yu",
+    "Michael Ng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qJ284O3B0L",
+   "pdf_url": "https://openreview.net/pdf?id=qJ284O3B0L"
+  },
+  {
+   "title": "RL Excursions during Pre-training: How early is too early for On-policy Learning?",
+   "authors": [
+    "Rachit Bansal",
+    "Clara Mohri",
+    "Tian Qin",
+    "David Alvarez-Melis",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0kM7ndb38",
+   "pdf_url": "https://openreview.net/pdf?id=m0kM7ndb38"
+  },
+  {
+   "title": "RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism",
+   "authors": [
+    "Zhong Guan",
+    "Haoran Sun",
+    "Yongjian Guo",
+    "shuai di",
+    "Xiaodong Bai",
+    "Jing Long",
+    "Tianyun Zhao",
+    "LUOMINGXI",
+    "Hongke Zhao",
+    "Likang Wu",
+    "Xiaotie Deng",
+    "Xi Xiao",
+    "Sheng Wen",
+    "Yicheng Gong",
+    "Junwu Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IWS9pJKnlI",
+   "pdf_url": "https://openreview.net/pdf?id=IWS9pJKnlI"
+  },
+  {
+   "title": "Scaling Reward Modeling without Human Supervision",
+   "authors": [
+    "Jingxuan Fan",
+    "Yueying Li",
+    "Zhenting Qi",
+    "Dinghuai Zhang",
+    "Kianté Brantley",
+    "Sham M. Kakade",
+    "Hanlin Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JmMkngNbGh",
+   "pdf_url": "https://openreview.net/pdf?id=JmMkngNbGh"
+  },
+  {
+   "title": "Scaling Search-Augmented LLM Reasoning via Adaptive Information Control",
+   "authors": [
+    "Siheng Xiong",
+    "Oguzhan Gungordu",
+    "Blair Johnson",
+    "James Clayton Kerce",
+    "Faramarz Fekri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nGEWOtne5c",
+   "pdf_url": "https://openreview.net/pdf?id=nGEWOtne5c"
+  },
+  {
+   "title": "Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA",
+   "authors": [
+    "Hai Huang",
+    "Yann LeCun",
+    "Randall Balestriero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPGmawJ5uH",
+   "pdf_url": "https://openreview.net/pdf?id=oPGmawJ5uH"
+  },
+  {
+   "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
+   "authors": [
+    "Abhranil Chandra",
+    "Ayush Agrawal",
+    "Arian Hosseini",
+    "Sebastian Fischmeister",
+    "Rishabh Agarwal",
+    "Navin Goyal",
+    "Aaron Courville"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NZgSRU0LD3",
+   "pdf_url": "https://openreview.net/pdf?id=NZgSRU0LD3"
+  },
+  {
+   "title": "Sparse Attention for Efficient LLM Reinforcement Learning",
+   "authors": [
+    "Yang Zhou",
+    "Ranajoy Sadhukhan",
+    "Zhaofeng Sun",
+    "Zhuoming Chen",
+    "Souvik Kundu",
+    "Saket Dingliwal",
+    "Sai Muralidhar Jayanthi",
+    "Aram Galstyan",
+    "Haizhong Zheng",
+    "Beidi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vMrhhCAgCA",
+   "pdf_url": "https://openreview.net/pdf?id=vMrhhCAgCA"
+  },
+  {
+   "title": "TestSmith: Reinforcement Learning for Unit Test Generation with Synthetic Perturbations",
+   "authors": [
+    "Stanley Yu",
+    "Roger Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sDGHDxp1Z8",
+   "pdf_url": "https://openreview.net/pdf?id=sDGHDxp1Z8"
+  },
+  {
+   "title": "TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments",
+   "authors": [
+    "Zhangchen Xu",
+    "Adriana Meza Soria",
+    "Shawn Tan",
+    "Anurag Roy",
+    "Ashish Sunil Agrawal",
+    "Radha Poovendran",
+    "Rameswar Panda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3zrBvf9NLn",
+   "pdf_url": "https://openreview.net/pdf?id=3zrBvf9NLn"
+  },
+  {
+   "title": "Towards Understanding the Benefits of Online Imitation Learning",
+   "authors": [
+    "Huaqing Zhang",
+    "Jingchu Gai",
+    "Juno Kim",
+    "Bingbin Liu",
+    "Andrej Risteski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gVKMVAkKeu",
+   "pdf_url": "https://openreview.net/pdf?id=gVKMVAkKeu"
+  },
+  {
+   "title": "Training-Free Dynamic Upcycling of Expert Language Models",
+   "authors": [
+    "Eros Fanì",
+    "Oguzhan Ersoy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D6EhxUagX7",
+   "pdf_url": "https://openreview.net/pdf?id=D6EhxUagX7"
+  },
+  {
+   "title": "V1: Unifying Generation and Self-Verification for Parallel Reasoners",
+   "authors": [
+    "Harman Singh",
+    "Xiuyu Li",
+    "Kusha Sareen",
+    "Monishwaran Maheswaran",
+    "Sijun Tan",
+    "Xiaoxia Wu",
+    "Junxiong Wang",
+    "Alpay Ariyak",
+    "Qingyang Wu",
+    "Samir Khaki",
+    "Rishabh Tiwari",
+    "Long Lian",
+    "Yucheng Lu",
+    "Boyi Li",
+    "Alane Suhr",
+    "Ben Athiwaratkun",
+    "Kurt Keutzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZUFJQrZuRp",
+   "pdf_url": "https://openreview.net/pdf?id=ZUFJQrZuRp"
+  },
+  {
+   "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+   "authors": [
+    "Dongfu Jiang",
+    "Yi Lu",
+    "Zhuofeng Li",
+    "Zhiheng Lyu",
+    "Ping Nie",
+    "Haozhe Wang",
+    "Alex Su",
+    "Hui Chen",
+    "Kai Zou",
+    "Chao Du",
+    "Tianyu Pang",
+    "Wenhu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pcmPnp84vz",
+   "pdf_url": "https://openreview.net/pdf?id=pcmPnp84vz"
+  },
+  {
+   "title": "Weight Decay Improves Language Model Plasticity",
+   "authors": [
+    "Tessa Han",
+    "Sebastian Bordt",
+    "Hanlin Zhang",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=39sAm5aTYZ",
+   "pdf_url": "https://openreview.net/pdf?id=39sAm5aTYZ"
+  },
+  {
+   "title": "Weight Space Detection of Backdoors in LoRA Adapters",
+   "authors": [
+    "David Puertolas Merenciano",
+    "Ekaterina Vasyagina",
+    "Raghav Dixit",
+    "Kevin Zhu",
+    "Ruizhe Li",
+    "Maheep Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x1UDCd6Pjp",
+   "pdf_url": "https://openreview.net/pdf?id=x1UDCd6Pjp"
+  },
+  {
+   "title": "When Tokens Decay and Turns Amplify: A Dual-Granularity Framework for Multi-Turn Preference Optimization",
+   "authors": [
+    "Yangyi Fang",
+    "Jiaye Lin",
+    "Xiaoliang Fu",
+    "Haolin Shi",
+    "Cong Qin",
+    "Chaowen Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Myu5llSHkO",
+   "pdf_url": "https://openreview.net/pdf?id=Myu5llSHkO"
+  }
+ ]
+}

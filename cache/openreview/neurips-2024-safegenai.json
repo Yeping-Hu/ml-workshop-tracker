@@ -1,0 +1,2085 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/SafeGenAi",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:03.707Z",
+ "paper_count": 171,
+ "papers": [
+  {
+   "title": "$\\textit{Who Speaks Matters}$: Analysing the Influence of the Speaker’s Ethnicity on Hate Classification",
+   "authors": [
+    "Ananya Malik",
+    "Kartik Sharma",
+    "Lynnette Hui Xian Ng",
+    "Shaily Bhatt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UCLQTzpJ7k",
+   "pdf_url": "https://openreview.net/pdf?id=UCLQTzpJ7k"
+  },
+  {
+   "title": "A Closer Look at System Message Robustness",
+   "authors": [
+    "Norman Mu",
+    "Jonathan Lu",
+    "Michael Lavery",
+    "David Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YZqDyqYwFf",
+   "pdf_url": "https://openreview.net/pdf?id=YZqDyqYwFf"
+  },
+  {
+   "title": "A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage",
+   "authors": [
+    "Rui Xin",
+    "Niloofar Mireshghallah",
+    "Shuyue Stella Li",
+    "Michael Duan",
+    "Hyunwoo Kim",
+    "Yejin Choi",
+    "Yulia Tsvetkov",
+    "Sewoong Oh",
+    "Pang Wei Koh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3JLtuCozOU",
+   "pdf_url": "https://openreview.net/pdf?id=3JLtuCozOU"
+  },
+  {
+   "title": "A Probabilistic Generative Method for Safe Physical System Control Problems",
+   "authors": [
+    "Peiyan Hu",
+    "Xiaowei Qian",
+    "Wenhao Deng",
+    "Rui Wang",
+    "Haodong Feng",
+    "Ruiqi Feng",
+    "Tao Zhang",
+    "Long Wei",
+    "Yue Wang",
+    "Zhi-Ming Ma",
+    "Tailin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OkPDLLNLnM",
+   "pdf_url": "https://openreview.net/pdf?id=OkPDLLNLnM"
+  },
+  {
+   "title": "A Three-Branch Checks-and-Balances Framework for Context-Aware Ethical Alignment of Large Language Models",
+   "authors": [
+    "Edward Y Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o2afWIxjKD",
+   "pdf_url": "https://openreview.net/pdf?id=o2afWIxjKD"
+  },
+  {
+   "title": "Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI",
+   "authors": [
+    "Ramneet Kaur",
+    "Colin Samplawski",
+    "Adam D. Cobb",
+    "Anirban Roy",
+    "Brian Matejek",
+    "Manoj Acharya",
+    "Daniel Elenius",
+    "Alexander Michael Berenbeim",
+    "John A. Pavlik",
+    "Nathaniel D. Bastian",
+    "Susmit Jha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z3DS4Pcxct",
+   "pdf_url": "https://openreview.net/pdf?id=Z3DS4Pcxct"
+  },
+  {
+   "title": "AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment",
+   "authors": [
+    "Pankayaraj Pathmanathan",
+    "Udari Madhushani Sehwag",
+    "Michael-Andrei Panaitescu-Liess",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FdQBJu2e4d",
+   "pdf_url": "https://openreview.net/pdf?id=FdQBJu2e4d"
+  },
+  {
+   "title": "Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs",
+   "authors": [
+    "Giulio Zizzo",
+    "Giandomenico Cornacchia",
+    "Kieran Fraser",
+    "Muhammad Zaid Hameed",
+    "Ambrish Rawat",
+    "Beat Buesser",
+    "Mark Purcell",
+    "Pin-Yu Chen",
+    "Prasanna Sattigeri",
+    "Kush R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a44MiSFw6G",
+   "pdf_url": "https://openreview.net/pdf?id=a44MiSFw6G"
+  },
+  {
+   "title": "Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting",
+   "authors": [
+    "Fuqiang Liu",
+    "Sicong Jiang",
+    "Luis Miranda-Moreno",
+    "Seongjin Choi",
+    "Lijun Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Jbzz0L9z0",
+   "pdf_url": "https://openreview.net/pdf?id=6Jbzz0L9z0"
+  },
+  {
+   "title": "AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails",
+   "authors": [
+    "Shaona Ghosh",
+    "Prasoon Varshney",
+    "Makesh Narsimhan Sreedhar",
+    "Aishwarya Padmakumar",
+    "Traian Rebedea",
+    "Jibin Rajan Varghese",
+    "Christopher Parisien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0MvGCv35wi",
+   "pdf_url": "https://openreview.net/pdf?id=0MvGCv35wi"
+  },
+  {
+   "title": "AI Red Teaming through the Lens of Measurement Theory",
+   "authors": [
+    "Alexandra Chouldechova",
+    "A. Feder Cooper",
+    "Abhinav Palia",
+    "Dan Vann",
+    "Chad Atalla",
+    "Hannah Washington",
+    "Emily Sheng",
+    "Hanna Wallach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KEggQCeDUA",
+   "pdf_url": "https://openreview.net/pdf?id=KEggQCeDUA"
+  },
+  {
+   "title": "An Examination of AI-Generated Text Detectors Across Multiple Domains and Models",
+   "authors": [
+    "Brian Tufts",
+    "Xuandong Zhao",
+    "Lei Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pu41DTYo2f",
+   "pdf_url": "https://openreview.net/pdf?id=Pu41DTYo2f"
+  },
+  {
+   "title": "An Undetectable Watermark for Generative Image Models",
+   "authors": [
+    "Sam Gunn",
+    "Xuandong Zhao",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IvVejHGCX2",
+   "pdf_url": "https://openreview.net/pdf?id=IvVejHGCX2"
+  },
+  {
+   "title": "Anchored Optimization and Contrastive Revisions: Addressing Reward Hacking in Alignment",
+   "authors": [
+    "Karel D'Oosterlinck",
+    "Winnie Xu",
+    "Chris Develder",
+    "Thomas Demeester",
+    "Amanpreet Singh",
+    "Christopher Potts",
+    "Douwe Kiela",
+    "Shikib Mehri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4aS8UeUbiC",
+   "pdf_url": "https://openreview.net/pdf?id=4aS8UeUbiC"
+  },
+  {
+   "title": "AnyPrefer: An Automatic Framework for Preference Data Synthesis",
+   "authors": [
+    "Yiyang Zhou",
+    "Zhaoyang Wang",
+    "Tianle Wang",
+    "Shangyu Xing",
+    "Peng Xia",
+    "Bo Li",
+    "Kaiyuan Zheng",
+    "Zijian Zhang",
+    "Zhaorun Chen",
+    "Wenhao Zheng",
+    "Xuchao Zhang",
+    "Chetan Bansal",
+    "Weitong Zhang",
+    "Ying Wei",
+    "Mohit Bansal",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u2Y8LiJe5V",
+   "pdf_url": "https://openreview.net/pdf?id=u2Y8LiJe5V"
+  },
+  {
+   "title": "Applying Refusal-Vector Ablation to Llama 3.1 70B Agents",
+   "authors": [
+    "Simon Lermen",
+    "Mateusz Dziemian",
+    "Govind Pimpale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UaEIzSQeCL",
+   "pdf_url": "https://openreview.net/pdf?id=UaEIzSQeCL"
+  },
+  {
+   "title": "Applying Sparse Autoencoders to Unlearn Knowledge in Language Models",
+   "authors": [
+    "Eoin Farrell",
+    "Yeu-Tong Lau",
+    "Arthur Conmy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i4z0HrBiIA",
+   "pdf_url": "https://openreview.net/pdf?id=i4z0HrBiIA"
+  },
+  {
+   "title": "Auditing Empirical Privacy Protection of Private LLM Adaptations",
+   "authors": [
+    "Lorenzo Rossi",
+    "Bartłomiej Marek",
+    "Vincent Hanke",
+    "Xun Wang",
+    "Michael Backes",
+    "Adam Dziedzic",
+    "Franziska Boenisch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vFIC8Le5UH",
+   "pdf_url": "https://openreview.net/pdf?id=vFIC8Le5UH"
+  },
+  {
+   "title": "Auto-Enhance: Towards a Meta-Benchmark to Evaluate AI Agents' Ability to Improve Other Agents",
+   "authors": [
+    "Samuel F. Brown",
+    "Basil Labib",
+    "Codruta Lugoj",
+    "Sai Sasank Y"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YAhyaNEoy9",
+   "pdf_url": "https://openreview.net/pdf?id=YAhyaNEoy9"
+  },
+  {
+   "title": "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks",
+   "authors": [
+    "Yifan Zeng",
+    "Yiran Wu",
+    "Xiao Zhang",
+    "Huazheng Wang",
+    "Qingyun Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WMwoSLAENS",
+   "pdf_url": "https://openreview.net/pdf?id=WMwoSLAENS"
+  },
+  {
+   "title": "Buffer Overflow in Mixture of Experts",
+   "authors": [
+    "Jamie Hayes",
+    "Ilia Shumailov",
+    "Itay Yona"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SKWidEjUgU",
+   "pdf_url": "https://openreview.net/pdf?id=SKWidEjUgU"
+  },
+  {
+   "title": "Can Editing LLMs Inject Harm?",
+   "authors": [
+    "Canyu Chen",
+    "Baixiang Huang",
+    "Zekun Li",
+    "Zhaorun Chen",
+    "Shiyang Lai",
+    "Xiongxiao Xu",
+    "Jia-Chen Gu",
+    "Jindong Gu",
+    "Huaxiu Yao",
+    "Chaowei Xiao",
+    "Xifeng Yan",
+    "William Yang Wang",
+    "Philip Torr",
+    "Dawn Song",
+    "Kai Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=edCz9pEu16",
+   "pdf_url": "https://openreview.net/pdf?id=edCz9pEu16"
+  },
+  {
+   "title": "Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective",
+   "authors": [
+    "Andrew Jesson",
+    "Nicolas Beltran-Velez",
+    "David Blei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kExt2d4aLo",
+   "pdf_url": "https://openreview.net/pdf?id=kExt2d4aLo"
+  },
+  {
+   "title": "Can Knowledge Editing Really Correct Hallucinations?",
+   "authors": [
+    "Baixiang Huang",
+    "Canyu Chen",
+    "Xiongxiao Xu",
+    "Ali Payani",
+    "Kai Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hlo1XDAlki",
+   "pdf_url": "https://openreview.net/pdf?id=hlo1XDAlki"
+  },
+  {
+   "title": "Can LLMs Verify Arabic Claims? Evaluating the Arabic Fact-Checking Abilities of Multilingual LLMs",
+   "authors": [
+    "Ayushman Gupta",
+    "Aryan Singhal",
+    "Thomas Law",
+    "Veekshith Rao",
+    "Evan Duan",
+    "Ryan Luo Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3bdJJaxiwt",
+   "pdf_url": "https://openreview.net/pdf?id=3bdJJaxiwt"
+  },
+  {
+   "title": "Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity",
+   "authors": [
+    "David Williams-King",
+    "Linh Le",
+    "Adam Oberman",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QO7dF42YEb",
+   "pdf_url": "https://openreview.net/pdf?id=QO7dF42YEb"
+  },
+  {
+   "title": "ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates",
+   "authors": [
+    "Fengqing Jiang",
+    "Zhangchen Xu",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6z2xa5Plw7",
+   "pdf_url": "https://openreview.net/pdf?id=6z2xa5Plw7"
+  },
+  {
+   "title": "Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates",
+   "authors": [
+    "Xiaosen Zheng",
+    "Tianyu Pang",
+    "Chao Du",
+    "Qian Liu",
+    "Jing Jiang",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IWUTRfu1Qp",
+   "pdf_url": "https://openreview.net/pdf?id=IWUTRfu1Qp"
+  },
+  {
+   "title": "Choose Your Anchor Wisely: Effective Unlearning Diffusion Models via Concept Reconditioning",
+   "authors": [
+    "Jingyu Zhu",
+    "Ruiqi Zhang",
+    "Licong Lin",
+    "Song Mei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8naq3XyGQe",
+   "pdf_url": "https://openreview.net/pdf?id=8naq3XyGQe"
+  },
+  {
+   "title": "CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept",
+   "authors": [
+    "YuXuan Wu",
+    "Bonaventure F. P. Dossou",
+    "Dianbo Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yf6gOqJiYd",
+   "pdf_url": "https://openreview.net/pdf?id=yf6gOqJiYd"
+  },
+  {
+   "title": "Concept Denoising Score Matching for Responsible Text-to-Image Generation",
+   "authors": [
+    "Silpa Vadakkeeveetil Sreelatha",
+    "Sauradip Nag",
+    "Serge Belongie",
+    "Muhammad Awais",
+    "Anjan Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iwOdPBePxL",
+   "pdf_url": "https://openreview.net/pdf?id=iwOdPBePxL"
+  },
+  {
+   "title": "Concept Unlearning for Large Language Models",
+   "authors": [
+    "Tomoya Yamashita",
+    "Takayuki Miura",
+    "Yuuki Yamanaka",
+    "Toshiki Shibahara",
+    "Masanori Yamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nU7Se8oIPJ",
+   "pdf_url": "https://openreview.net/pdf?id=nU7Se8oIPJ"
+  },
+  {
+   "title": "Controllable Generation via Locally Constrained Resampling",
+   "authors": [
+    "Kareem Ahmed",
+    "Kai-Wei Chang",
+    "Guy Van den Broeck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v091fzXTu0",
+   "pdf_url": "https://openreview.net/pdf?id=v091fzXTu0"
+  },
+  {
+   "title": "CoS: Enhancing Personalization and Mitigating Bias with Context Steering",
+   "authors": [
+    "Sashrika Pandey",
+    "Jerry Zhi-Yang He",
+    "Mariah L Schrum",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ll195XCBK6",
+   "pdf_url": "https://openreview.net/pdf?id=Ll195XCBK6"
+  },
+  {
+   "title": "CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion",
+   "authors": [
+    "Joshua Kazdan",
+    "Hao Sun",
+    "Jiaqi Han",
+    "Felix Petersen",
+    "Frederick Vu",
+    "Stefano Ermon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=11rBTp8vL6",
+   "pdf_url": "https://openreview.net/pdf?id=11rBTp8vL6"
+  },
+  {
+   "title": "Cream: Consistency Regularized Self-Rewarding Language Models",
+   "authors": [
+    "Zhaoyang Wang",
+    "Weilei He",
+    "Zhiyuan Liang",
+    "Xuchao Zhang",
+    "Chetan Bansal",
+    "Ying Wei",
+    "Weitong Zhang",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oaWajnM93y",
+   "pdf_url": "https://openreview.net/pdf?id=oaWajnM93y"
+  },
+  {
+   "title": "Datasets for Navigating Sensitive Topics in Peference Data and Recommendations",
+   "authors": [
+    "Amelia Kovacs",
+    "Jerry Chee",
+    "Kimia Kazemian",
+    "Sarah Dean"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RIkR9fDA2Y",
+   "pdf_url": "https://openreview.net/pdf?id=RIkR9fDA2Y"
+  },
+  {
+   "title": "Debiasing Large Vision-Language Models by Ablating Protected Attribute Representations",
+   "authors": [
+    "Neale Ratzlaff",
+    "Matthew Lyle Olson",
+    "Musashi Hinck",
+    "Shao-Yen Tseng",
+    "Vasudev Lal",
+    "Phillip Howard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pRgFPLFXUz",
+   "pdf_url": "https://openreview.net/pdf?id=pRgFPLFXUz"
+  },
+  {
+   "title": "Decoding Diffusion: A Scalable Framework for Unsupervised Analysis of Latent Space Biases and Representations Using Natural Language Prompts",
+   "authors": [
+    "E. Zhixuan Zeng",
+    "Yuhao Chen",
+    "Alexander Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EALy79qg9l",
+   "pdf_url": "https://openreview.net/pdf?id=EALy79qg9l"
+  },
+  {
+   "title": "DeepInception: Hypnotize Large Language Model to Be Jailbreaker",
+   "authors": [
+    "Xuan Li",
+    "Zhanke Zhou",
+    "Jianing Zhu",
+    "Jiangchao Yao",
+    "Tongliang Liu",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bYa0BhKR4q",
+   "pdf_url": "https://openreview.net/pdf?id=bYa0BhKR4q"
+  },
+  {
+   "title": "Designing Physical-World Universal Attacks on Vision Transformers",
+   "authors": [
+    "Mingzhen Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DqBPk7887N",
+   "pdf_url": "https://openreview.net/pdf?id=DqBPk7887N"
+  },
+  {
+   "title": "Detecting Origin Attribution for Text-to-Image Diffusion Models in RGB and Beyond",
+   "authors": [
+    "Katherine Xu",
+    "Lingzhi Zhang",
+    "Jianbo Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pkp0CdLHLz",
+   "pdf_url": "https://openreview.net/pdf?id=pkp0CdLHLz"
+  },
+  {
+   "title": "Differential Privacy of Cross-Attention with Provable Guarantee",
+   "authors": [
+    "Yingyu Liang",
+    "Zhenmei Shi",
+    "Zhao Song",
+    "Yufa Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GttuYQVARs",
+   "pdf_url": "https://openreview.net/pdf?id=GttuYQVARs"
+  },
+  {
+   "title": "Differentially Private Attention Computation",
+   "authors": [
+    "Yeqi Gao",
+    "Zhao Song",
+    "Xin Yang",
+    "Yufa Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dj70ulvXDo",
+   "pdf_url": "https://openreview.net/pdf?id=dj70ulvXDo"
+  },
+  {
+   "title": "Differentially Private Sequential Data Synthesis with Structured State Space Models and Diffusion Models",
+   "authors": [
+    "Tomoya Matsumoto",
+    "Takayuki Miura",
+    "Toshiki Shibahara",
+    "Masanobu Kii",
+    "Kazuki Iwahana",
+    "Osamu Saisho",
+    "Shingo Okamura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ntsBXjkjm7",
+   "pdf_url": "https://openreview.net/pdf?id=ntsBXjkjm7"
+  },
+  {
+   "title": "DiffTextPure: Defending Large Language Models with Diffusion Purifiers",
+   "authors": [
+    "Huanran Chen",
+    "Ziruo Wang",
+    "Yihan Yang",
+    "Shuo Zhang",
+    "Zeming Wei",
+    "Fusheng Jin",
+    "Yinpeng Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ks5lAv8QDn",
+   "pdf_url": "https://openreview.net/pdf?id=ks5lAv8QDn"
+  },
+  {
+   "title": "Do LLMs estimate uncertainty well in instruction-following?",
+   "authors": [
+    "Juyeon Heo",
+    "Miao Xiong",
+    "Christina Heinze-Deml",
+    "Jaya Narain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nYb1zHSjRx",
+   "pdf_url": "https://openreview.net/pdf?id=nYb1zHSjRx"
+  },
+  {
+   "title": "Does Refusal Training in LLMs Generalize to the Past Tense?",
+   "authors": [
+    "Maksym Andriushchenko",
+    "Nicolas Flammarion"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GA3fegXGwy",
+   "pdf_url": "https://openreview.net/pdf?id=GA3fegXGwy"
+  },
+  {
+   "title": "Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?",
+   "authors": [
+    "Sravanti Addepalli",
+    "Yerram Varun",
+    "Arun Suggala",
+    "Karthikeyan Shanmugam",
+    "Prateek Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0YdEK1Dnbn",
+   "pdf_url": "https://openreview.net/pdf?id=0YdEK1Dnbn"
+  },
+  {
+   "title": "Dynamic Negative Guidance of Diffusion Models: Towards Immediate Content Removal",
+   "authors": [
+    "Felix Koulischer",
+    "Johannes Deleu",
+    "Gabriel Raya",
+    "Thomas Demeester",
+    "Luca Ambrogioni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A2UpLzwDz5",
+   "pdf_url": "https://openreview.net/pdf?id=A2UpLzwDz5"
+  },
+  {
+   "title": "EchoQA: A Large Collection of Instruction Tuning Data for Echocardiogram Reports",
+   "authors": [
+    "Lama Moukheiber",
+    "Mira Moukheiber",
+    "Dana Moukheiber",
+    "Jae-Woo Ju",
+    "Hyung-Chul Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XRoSyj1ttU",
+   "pdf_url": "https://openreview.net/pdf?id=XRoSyj1ttU"
+  },
+  {
+   "title": "Efficient and Effective Uncertainty Quantification for LLMs",
+   "authors": [
+    "Miao Xiong",
+    "Andrea Santilli",
+    "Michael Kirchhof",
+    "Adam Golinski",
+    "Sinead Williamson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QKRLH57ATT",
+   "pdf_url": "https://openreview.net/pdf?id=QKRLH57ATT"
+  },
+  {
+   "title": "Efficiently Identifying Watermarked Segments in Mixed-Source Texts",
+   "authors": [
+    "Xuandong Zhao",
+    "Chenwen Liao",
+    "Yu-Xiang Wang",
+    "Lei Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6jDPXFtebD",
+   "pdf_url": "https://openreview.net/pdf?id=6jDPXFtebD"
+  },
+  {
+   "title": "Energy-Based Conceptual Diffusion Model",
+   "authors": [
+    "Yi Qin",
+    "Xinyue Xu",
+    "Hao Wang",
+    "Xiaomeng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UKCPaTcJAo",
+   "pdf_url": "https://openreview.net/pdf?id=UKCPaTcJAo"
+  },
+  {
+   "title": "EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?",
+   "authors": [
+    "Aakriti Agrawal",
+    "Mucong Ding",
+    "Zora Che",
+    "Chenghao Deng",
+    "Anirudh Satheesh",
+    "John Langford",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QD6g6EgcrG",
+   "pdf_url": "https://openreview.net/pdf?id=QD6g6EgcrG"
+  },
+  {
+   "title": "Epistemic Integrity in Large Language Models",
+   "authors": [
+    "Bijean Ghafouri",
+    "Shahrad Mohammadzadeh",
+    "James Zhou",
+    "Pratheeksha Nair",
+    "Jacob-Junqi Tian",
+    "Mayank Goel",
+    "Reihaneh Rabbany",
+    "Jean-François Godbout",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o3wQbxRaKo",
+   "pdf_url": "https://openreview.net/pdf?id=o3wQbxRaKo"
+  },
+  {
+   "title": "Exploring Memorization and Copyright Violation in Frontier LLMs: A Study of the New York Times v. OpenAI 2023 Lawsuit",
+   "authors": [
+    "Joshua Freeman",
+    "Chloe Rippe",
+    "Edoardo Debenedetti",
+    "Maksym Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C66DBl9At8",
+   "pdf_url": "https://openreview.net/pdf?id=C66DBl9At8"
+  },
+  {
+   "title": "Extracting Unlearned Information from LLMs with Activation Steering",
+   "authors": [
+    "Atakan Seyitoğlu",
+    "Aleksei Kuvshinov",
+    "Leo Schwinn",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RuufZiUWUq",
+   "pdf_url": "https://openreview.net/pdf?id=RuufZiUWUq"
+  },
+  {
+   "title": "Fair Image Generation from Pre-trained Models by Probabilistic Modeling",
+   "authors": [
+    "Mahdi Ahmadi",
+    "John Leland",
+    "Agneet Chatterjee",
+    "YooJung Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e7zwwncDYr",
+   "pdf_url": "https://openreview.net/pdf?id=e7zwwncDYr"
+  },
+  {
+   "title": "Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy",
+   "authors": [
+    "Benedict Aaron Tjandra",
+    "Muhammed Razzak",
+    "Jannik Kossen",
+    "Kunal Handa",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oYfYgDeSkj",
+   "pdf_url": "https://openreview.net/pdf?id=oYfYgDeSkj"
+  },
+  {
+   "title": "Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects",
+   "authors": [
+    "Abdurrahman Zeybey",
+    "Mehmet Ergezer",
+    "Tommy Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9BJrckdxTl",
+   "pdf_url": "https://openreview.net/pdf?id=9BJrckdxTl"
+  },
+  {
+   "title": "GenAudit: Fixing Factual Errors in Language Model Outputs with Evidence",
+   "authors": [
+    "Kundan Krishna",
+    "Sanjana Ramprasad",
+    "Prakhar Gupta",
+    "Byron C Wallace",
+    "Zachary Chase Lipton",
+    "Jeffrey P. Bigham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pclph6ekMP",
+   "pdf_url": "https://openreview.net/pdf?id=pclph6ekMP"
+  },
+  {
+   "title": "GRE Score: Generative Risk Evaluation for Large Language Models",
+   "authors": [
+    "ZAITANG LI",
+    "Mohamed MOUHAJIR",
+    "Pin-Yu Chen",
+    "Tsung-Yi Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p3LSDQ0bxt",
+   "pdf_url": "https://openreview.net/pdf?id=p3LSDQ0bxt"
+  },
+  {
+   "title": "GuardFormer: Guardrail Instruction Pretraining for Efficient SafeGuarding",
+   "authors": [
+    "James O' Neill",
+    "Santhosh Subramanian",
+    "Eric Lin",
+    "Abishek Satish",
+    "Vaikkunth Mugunthan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vr31i9pzQk",
+   "pdf_url": "https://openreview.net/pdf?id=vr31i9pzQk"
+  },
+  {
+   "title": "H-Space Sparse Autoencoders",
+   "authors": [
+    "Ayodeji Ijishakin",
+    "Ming Liang Ang",
+    "Levente Baljer",
+    "Daniel Chee Hian Tan",
+    "Hugo Laurence Fry",
+    "Ahmed Abdulaal",
+    "Aengus Lynch",
+    "James H. Cole"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zKhpACcPdb",
+   "pdf_url": "https://openreview.net/pdf?id=zKhpACcPdb"
+  },
+  {
+   "title": "Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training",
+   "authors": [
+    "Shahrad Mohammadzadeh",
+    "Juan David Guerra",
+    "Marco Bonizzato",
+    "Reihaneh Rabbany",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZAMQmPeKLR",
+   "pdf_url": "https://openreview.net/pdf?id=ZAMQmPeKLR"
+  },
+  {
+   "title": "HarmLevelBench: Evaluating Harm-Level Compliance and the Impact of Quantization on Model Alignment",
+   "authors": [
+    "Yannis Belkhiter",
+    "Giulio Zizzo",
+    "Sergio Maffeis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jjn2Stwf9s",
+   "pdf_url": "https://openreview.net/pdf?id=Jjn2Stwf9s"
+  },
+  {
+   "title": "Has My System Prompt Been Used? Large Language Model Prompt Membership Inference",
+   "authors": [
+    "Roman Levin",
+    "Valeriia Cherepanova",
+    "Abhimanyu Hans",
+    "Avi Schwarzschild",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dEzL1kHlpc",
+   "pdf_url": "https://openreview.net/pdf?id=dEzL1kHlpc"
+  },
+  {
+   "title": "HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection",
+   "authors": [
+    "Theo King",
+    "Zekun Wu",
+    "Adriano Koshiyama",
+    "Emre Kazim",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=arh91riKiQ",
+   "pdf_url": "https://openreview.net/pdf?id=arh91riKiQ"
+  },
+  {
+   "title": "Hidden in Plain Text: Emergence & Mitigation of Steganographic Collusion in LLMs",
+   "authors": [
+    "Yohan Mathew",
+    "Ollie Matthews",
+    "Robert McCarthy",
+    "Joan Velja",
+    "Christian Schroeder de Witt",
+    "Dylan Cope",
+    "Nandi Schoots"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EIlXcRQKxo",
+   "pdf_url": "https://openreview.net/pdf?id=EIlXcRQKxo"
+  },
+  {
+   "title": "Hidden in the Noise: Two-Stage Robust Watermarking for Images",
+   "authors": [
+    "Kasra Arabi",
+    "Benjamin Feuer",
+    "R. Teal Witter",
+    "Chinmay Hegde",
+    "Niv Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vJFWtQU7MB",
+   "pdf_url": "https://openreview.net/pdf?id=vJFWtQU7MB"
+  },
+  {
+   "title": "Honesty to Subterfuge: In-Context Reinforcement Learning Can Make Honest Models Reward Hack",
+   "authors": [
+    "Leo McKee-Reid",
+    "Christoph Sträter",
+    "Maria Angelica Martinez",
+    "Joe Needham",
+    "Mikita Balesni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NvhyJOWM8k",
+   "pdf_url": "https://openreview.net/pdf?id=NvhyJOWM8k"
+  },
+  {
+   "title": "How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompt",
+   "authors": [
+    "Yusu Qian",
+    "Haotian Zhang",
+    "Yinfei Yang",
+    "Zhe Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BGY6LWN8bh",
+   "pdf_url": "https://openreview.net/pdf?id=BGY6LWN8bh"
+  },
+  {
+   "title": "How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold",
+   "authors": [
+    "Sahil Verma",
+    "Royi Rassin",
+    "Arnav Mohanty Das",
+    "Gantavya Bhatt",
+    "Preethi Seshadri",
+    "Chirag Shah",
+    "Jeff Bilmes",
+    "Hannaneh Hajishirzi",
+    "Yanai Elazar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VYXYFftsOn",
+   "pdf_url": "https://openreview.net/pdf?id=VYXYFftsOn"
+  },
+  {
+   "title": "How new data pollutes LLM knowledge and how to dilute it",
+   "authors": [
+    "Chen Sun",
+    "Renat Aksitov",
+    "Andrey Zhmoginov",
+    "Nolan Andrew Miller",
+    "Max Vladymyrov",
+    "Ulrich Rueckert",
+    "Been Kim",
+    "Mark Sandler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LA0ep4kKD0",
+   "pdf_url": "https://openreview.net/pdf?id=LA0ep4kKD0"
+  },
+  {
+   "title": "How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?",
+   "authors": [
+    "Saeid Asgari",
+    "Joseph George Lambourne",
+    "Alana Mongkhounsavath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a9YUNiU2tp",
+   "pdf_url": "https://openreview.net/pdf?id=a9YUNiU2tp"
+  },
+  {
+   "title": "HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere",
+   "authors": [
+    "Hatef Otroshi Shahreza",
+    "Sébastien Marcel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0hUhbpP7G",
+   "pdf_url": "https://openreview.net/pdf?id=m0hUhbpP7G"
+  },
+  {
+   "title": "Identifying and Addressing Delusions for Target-Directed Decision Making",
+   "authors": [
+    "Harry Zhao",
+    "Tristan Sylvain",
+    "Doina Precup",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ojP0XBSFyT",
+   "pdf_url": "https://openreview.net/pdf?id=ojP0XBSFyT"
+  },
+  {
+   "title": "Imitation guided Automated Red Teaming",
+   "authors": [
+    "Desik Rengarajan",
+    "Sajad Mousavi",
+    "Ashwin Ramesh Babu",
+    "Vineet Gundecha",
+    "Avisek Naug",
+    "Sahand Ghorbanpour",
+    "Antonio Guillen",
+    "Ricardo Luna Gutierrez",
+    "Soumyendu Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fkOZjYwm2R",
+   "pdf_url": "https://openreview.net/pdf?id=fkOZjYwm2R"
+  },
+  {
+   "title": "Improving LLM Group Fairness on Tabular Data via In-Context Learning",
+   "authors": [
+    "Valeriia Cherepanova",
+    "Chia-Jung Lee",
+    "Nil-Jana Akpinar",
+    "Riccardo Fogliato",
+    "Martin Andres Bertran",
+    "Michael Kearns",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fj4xtN6xQS",
+   "pdf_url": "https://openreview.net/pdf?id=fj4xtN6xQS"
+  },
+  {
+   "title": "IncogniText: Privacy-enhancing Conditional Text Anonymization via LLM-based Private Attribute Randomization",
+   "authors": [
+    "Ahmed Frikha",
+    "Nassim Walha",
+    "Krishna Kanth Nakka",
+    "Ricardo Mendes",
+    "Xue Jiang",
+    "Xuebing Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JRifjkHove",
+   "pdf_url": "https://openreview.net/pdf?id=JRifjkHove"
+  },
+  {
+   "title": "Inference, Fast and Slow: Reinterpreting VAEs for OOD Detection",
+   "authors": [
+    "Sicong Huang",
+    "Jiawei He",
+    "Kry Yik-Chau Lui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K1VpgaYPnX",
+   "pdf_url": "https://openreview.net/pdf?id=K1VpgaYPnX"
+  },
+  {
+   "title": "Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups",
+   "authors": [
+    "Charvi Rastogi",
+    "Tian Huey Teh",
+    "Pushkar Mishra",
+    "Roma Patel",
+    "Zoe Ashwood",
+    "Aida Mostafazadeh Davani",
+    "Mark Diaz",
+    "Michela Paganini",
+    "Alicia Parrish",
+    "Ding Wang",
+    "Vinodkumar Prabhakaran",
+    "Lora Aroyo",
+    "Verena Rieser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8TI0lUrJBP",
+   "pdf_url": "https://openreview.net/pdf?id=8TI0lUrJBP"
+  },
+  {
+   "title": "Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy",
+   "authors": [
+    "Tong Wu",
+    "Shujian Zhang",
+    "Kaiqiang Song",
+    "Silei Xu",
+    "Sanqiang Zhao",
+    "Ravi Agrawal",
+    "Sathish Reddy Indurthi",
+    "Chong Xiang",
+    "Prateek Mittal",
+    "Wenxuan Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F84XpixkGt",
+   "pdf_url": "https://openreview.net/pdf?id=F84XpixkGt"
+  },
+  {
+   "title": "Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent",
+   "authors": [
+    "Linfeng He",
+    "Yiming Sun",
+    "Sihao Wu",
+    "Jiaxu Liu",
+    "Xiaowei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v8fYRyerUS",
+   "pdf_url": "https://openreview.net/pdf?id=v8fYRyerUS"
+  },
+  {
+   "title": "Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Investigation of VLM Failure",
+   "authors": [
+    "Lukas Klein",
+    "Kenza Amara",
+    "Carsten T. Lüth",
+    "Hendrik Strobelt",
+    "Mennatallah El-Assady",
+    "Paul F Jaeger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3kMucCYhYN",
+   "pdf_url": "https://openreview.net/pdf?id=3kMucCYhYN"
+  },
+  {
+   "title": "INTERPRETABILITY OF LLM DECEPTION: UNIVERSAL MOTIF",
+   "authors": [
+    "Wannan Yang",
+    "Gyorgy Buzsaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DRWCDFsb2e",
+   "pdf_url": "https://openreview.net/pdf?id=DRWCDFsb2e"
+  },
+  {
+   "title": "INVESTIGATING ANNOTATOR BIAS IN LARGE LANGUAGE MODELS FOR HATE SPEECH DETECTION",
+   "authors": [
+    "Amit Das",
+    "Zheng Zhang",
+    "Najib Hasan",
+    "Souvika Sarkar",
+    "Fatemeh Jamshidi",
+    "Tathagata Bhattacharya",
+    "Mostafa Rahgouy",
+    "Nilanjana Raychawdhary",
+    "Dongji Feng",
+    "Vinija Jain",
+    "Aman Chadha",
+    "Mary Sandage",
+    "Lauramarie Pope",
+    "Gerry Dozier",
+    "Cheryl Seals"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Epo8F2pkXp",
+   "pdf_url": "https://openreview.net/pdf?id=Epo8F2pkXp"
+  },
+  {
+   "title": "Investigating Implicit Bias in Large Language Models: A Large-Scale Study of Over 50 LLMs",
+   "authors": [
+    "Divyanshu Kumar",
+    "Umang Jain",
+    "Sahil Agarwal",
+    "Prashanth Harshangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tYDn5pGs5P",
+   "pdf_url": "https://openreview.net/pdf?id=tYDn5pGs5P"
+  },
+  {
+   "title": "Investigating LLM Memorization: Bridging Trojan Detection and Training Data Extraction",
+   "authors": [
+    "Manoj Acharya",
+    "Xiao Lin",
+    "Susmit Jha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l974YvnzU5",
+   "pdf_url": "https://openreview.net/pdf?id=l974YvnzU5"
+  },
+  {
+   "title": "Is What You Ask For What You Get? Investigating Concept Associations in Text-to-Image Models",
+   "authors": [
+    "Salma Abdel Magid",
+    "Weiwei Pan",
+    "Simon Warchol",
+    "Grace Guo",
+    "Junsik Kim",
+    "Wanhua Li",
+    "Mahia Rahman",
+    "Hanspeter Pfister"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C0l7BxHO1z",
+   "pdf_url": "https://openreview.net/pdf?id=C0l7BxHO1z"
+  },
+  {
+   "title": "Is Your Paper Being Reviewed by an LLM? Investigating AI Text Detectability in Peer Review",
+   "authors": [
+    "Sungduk Yu",
+    "Man Luo",
+    "Avinash Madasu",
+    "Vasudev Lal",
+    "Phillip Howard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f2G7C2fKxV",
+   "pdf_url": "https://openreview.net/pdf?id=f2G7C2fKxV"
+  },
+  {
+   "title": "Jogging the Memory of Unlearned LLMs Through Targeted Relearning Attacks",
+   "authors": [
+    "Shengyuan Hu",
+    "Yiwei Fu",
+    "Steven Wu",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YulEbrG99x",
+   "pdf_url": "https://openreview.net/pdf?id=YulEbrG99x"
+  },
+  {
+   "title": "Just rephrase it! Uncertainty estimation in closed-source language models via multiple rephrased queries",
+   "authors": [
+    "Adam X. Yang",
+    "Chen Chen",
+    "Konstantinos Pitas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H07cNSsg5e",
+   "pdf_url": "https://openreview.net/pdf?id=H07cNSsg5e"
+  },
+  {
+   "title": "Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge",
+   "authors": [
+    "Jiayi Ye",
+    "Yanbo Wang",
+    "Yue Huang",
+    "Dongping Chen",
+    "Qihui Zhang",
+    "Nuno Moniz",
+    "Tian Gao",
+    "Werner Geyer",
+    "Chao Huang",
+    "Pin-Yu Chen",
+    "Nitesh V Chawla",
+    "Xiangliang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wtscPS2zJH",
+   "pdf_url": "https://openreview.net/pdf?id=wtscPS2zJH"
+  },
+  {
+   "title": "Keep on Swimming: Real Attackers Only Need Partial Knowledge of a Multi-Model System",
+   "authors": [
+    "Julian Collado",
+    "Kevin Stangl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pUrvCtIxFV",
+   "pdf_url": "https://openreview.net/pdf?id=pUrvCtIxFV"
+  },
+  {
+   "title": "Language Models Can Articulate Their Implicit Goals",
+   "authors": [
+    "Jan Betley",
+    "Xuchan Bao",
+    "Martín Soto",
+    "Anna Sztyber-Betley",
+    "James Chua",
+    "Owain Evans"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZNQY8DfcH",
+   "pdf_url": "https://openreview.net/pdf?id=UZNQY8DfcH"
+  },
+  {
+   "title": "Large Language Model Benchmarks Do Not Test Reliability",
+   "authors": [
+    "Joshua Vendrow",
+    "Edward Vendrow",
+    "Sara Beery",
+    "Aleksander Madry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XSeN6xZtZ9",
+   "pdf_url": "https://openreview.net/pdf?id=XSeN6xZtZ9"
+  },
+  {
+   "title": "Lexically-constrained automated prompt augmentation: A case study using adversarial T2I data",
+   "authors": [
+    "Jessica Quaye",
+    "Alicia Parrish",
+    "Oana Inel",
+    "Minsuk Kahng",
+    "Charvi Rastogi",
+    "Hannah Rose Kirk",
+    "Jess Tsang",
+    "Nathan L Clement",
+    "Rafael Mosquera",
+    "Juan Manuel Ciro",
+    "Vijay Janapa Reddi",
+    "Lora Aroyo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qw9N1ObLR2",
+   "pdf_url": "https://openreview.net/pdf?id=qw9N1ObLR2"
+  },
+  {
+   "title": "LLM Improvement for Jailbreak Defense: Analysis Through the Lens of Over-Refusal",
+   "authors": [
+    "Swetasudha Panda",
+    "Naveen Jafer Nizar",
+    "Michael L Wick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rXReIKbm5e",
+   "pdf_url": "https://openreview.net/pdf?id=rXReIKbm5e"
+  },
+  {
+   "title": "LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users",
+   "authors": [
+    "Elinor Poole-Dayan",
+    "Deb Roy",
+    "Jad Kabbara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fqd7ruf0Fm",
+   "pdf_url": "https://openreview.net/pdf?id=Fqd7ruf0Fm"
+  },
+  {
+   "title": "LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning",
+   "authors": [
+    "Xiang Li",
+    "Qianli Shen",
+    "Haonan Wang",
+    "Kenji Kawaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1R9V2oWSjh",
+   "pdf_url": "https://openreview.net/pdf?id=1R9V2oWSjh"
+  },
+  {
+   "title": "Measuring Steerability in Large Language Models",
+   "authors": [
+    "Trenton Chang",
+    "Jenna Wiens",
+    "Tobias Schnabel",
+    "Adith Swaminathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y2J5dAqcJW",
+   "pdf_url": "https://openreview.net/pdf?id=y2J5dAqcJW"
+  },
+  {
+   "title": "MED: Exploring LLM Memorization of Encrypted Data",
+   "authors": [
+    "Panagiotis Christodoulou",
+    "Giulio Zizzo",
+    "Sergio Maffeis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PyjNg6Y5WG",
+   "pdf_url": "https://openreview.net/pdf?id=PyjNg6Y5WG"
+  },
+  {
+   "title": "Memorization Detection Benchmark for Generative Image models",
+   "authors": [
+    "Marc Molina",
+    "Felice Burn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AR1Q9RXn0i",
+   "pdf_url": "https://openreview.net/pdf?id=AR1Q9RXn0i"
+  },
+  {
+   "title": "miniCodeProps: a Minimal Benchmark for Proving Code Properties",
+   "authors": [
+    "Evan Lohn",
+    "Sean Welleck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6QFe3vPbYZ",
+   "pdf_url": "https://openreview.net/pdf?id=6QFe3vPbYZ"
+  },
+  {
+   "title": "Mitigating Hallucinations in LVLMs via Summary-Guided Decoding",
+   "authors": [
+    "Kyungmin Min",
+    "Minbeom Kim",
+    "Kang-il Lee",
+    "Dongryeol Lee",
+    "Kyomin Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n8LngbP25R",
+   "pdf_url": "https://openreview.net/pdf?id=n8LngbP25R"
+  },
+  {
+   "title": "Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance",
+   "authors": [
+    "Linxi Zhao",
+    "Yihe Deng",
+    "Weitong Zhang",
+    "Quanquan Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0ydFYtfALv",
+   "pdf_url": "https://openreview.net/pdf?id=0ydFYtfALv"
+  },
+  {
+   "title": "Mix Data or Merge Models? Optimizing for Performance and Safety in Multilingual Contexts",
+   "authors": [
+    "Aakanksha",
+    "Arash Ahmadian",
+    "Seraphina Goldfarb-Tarrant",
+    "Beyza Ermis",
+    "Marzieh Fadaee",
+    "Sara Hooker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L1Hxp8ktiT",
+   "pdf_url": "https://openreview.net/pdf?id=L1Hxp8ktiT"
+  },
+  {
+   "title": "MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models",
+   "authors": [
+    "Peng Xia",
+    "Kangyu Zhu",
+    "Haoran Li",
+    "Tianze Wang",
+    "Weijia Shi",
+    "Sheng Wang",
+    "Linjun Zhang",
+    "James Zou",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OjUumZhV3s",
+   "pdf_url": "https://openreview.net/pdf?id=OjUumZhV3s"
+  },
+  {
+   "title": "MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in LLMs",
+   "authors": [
+    "Saeid Asgari",
+    "Aliasghar Khani",
+    "Amir Hosein Khasahmadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3W2RQMdVXF",
+   "pdf_url": "https://openreview.net/pdf?id=3W2RQMdVXF"
+  },
+  {
+   "title": "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity",
+   "authors": [
+    "Rheeya Uppaal",
+    "Apratim Dey",
+    "Yiting He",
+    "Yiqiao Zhong",
+    "Junjie Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2I821Dypa2",
+   "pdf_url": "https://openreview.net/pdf?id=2I821Dypa2"
+  },
+  {
+   "title": "Model Manipulation Attacks Enable More Rigorous Evaluations of LLM Capabilities",
+   "authors": [
+    "Zora Che",
+    "Stephen Casper",
+    "Anirudh Satheesh",
+    "Rohit Gandikota",
+    "Domenic Rosati",
+    "Stewart Slocum",
+    "Lev E McKinney",
+    "Zichu Wu",
+    "Zikui Cai",
+    "Bilal Chughtai",
+    "Daniel Filan",
+    "Furong Huang",
+    "Dylan Hadfield-Menell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XmvgWEjkhG",
+   "pdf_url": "https://openreview.net/pdf?id=XmvgWEjkhG"
+  },
+  {
+   "title": "Model Pairing Using Embedding Translation for Backdoor Attack Detection on Open-Set Classification Tasks",
+   "authors": [
+    "Alexander Unnervik",
+    "Hatef Otroshi Shahreza",
+    "Anjith George",
+    "Sébastien Marcel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wSpFTuqSRF",
+   "pdf_url": "https://openreview.net/pdf?id=wSpFTuqSRF"
+  },
+  {
+   "title": "MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning",
+   "authors": [
+    "Jiali Cheng",
+    "Hadi Amiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FCfY1wYkn9",
+   "pdf_url": "https://openreview.net/pdf?id=FCfY1wYkn9"
+  },
+  {
+   "title": "MultiVerse: Exposing Large Language Model Alignment Problems in Diverse Worlds",
+   "authors": [
+    "Xiaolong Jin",
+    "ZHUO ZHANG",
+    "Guangyu Shen",
+    "Hanxi Guo",
+    "Kaiyuan Zhang",
+    "Siyuan Cheng",
+    "Xiangyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UIqnbwwFUB",
+   "pdf_url": "https://openreview.net/pdf?id=UIqnbwwFUB"
+  },
+  {
+   "title": "Network Inversion for Training-Like Data Reconstruction",
+   "authors": [
+    "Pirzada Suhail",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rJy9ytRnep",
+   "pdf_url": "https://openreview.net/pdf?id=rJy9ytRnep"
+  },
+  {
+   "title": "NMT-Obfuscator Attack: Ignore a sentence in translation with only one word",
+   "authors": [
+    "Sahar Sadrizadeh",
+    "César Descalzo",
+    "Ljiljana Dolamic",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P7K39Wh5As",
+   "pdf_url": "https://openreview.net/pdf?id=P7K39Wh5As"
+  },
+  {
+   "title": "On a Spurious Interaction between Uncertainty Scores and Answer Evaluation Metrics in Generative QA Tasks",
+   "authors": [
+    "Andrea Santilli",
+    "Miao Xiong",
+    "Michael Kirchhof",
+    "Pau Rodriguez",
+    "Federico Danieli",
+    "Xavier Suau",
+    "Luca Zappella",
+    "Sinead Williamson",
+    "Adam Golinski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jGtL0JFdeD",
+   "pdf_url": "https://openreview.net/pdf?id=jGtL0JFdeD"
+  },
+  {
+   "title": "On Calibration of LLM-based Guard Models for Reliable Content Moderation",
+   "authors": [
+    "Hongfu Liu",
+    "Hengguan Huang",
+    "Hao Wang",
+    "Xiangming Gu",
+    "Ye Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WariAWh7Ih",
+   "pdf_url": "https://openreview.net/pdf?id=WariAWh7Ih"
+  },
+  {
+   "title": "Permute-and-Flip: An optimally stable and watermarkable decoder for LLMs",
+   "authors": [
+    "Xuandong Zhao",
+    "Lei Li",
+    "Yu-Xiang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lpIe3Z3Upg",
+   "pdf_url": "https://openreview.net/pdf?id=lpIe3Z3Upg"
+  },
+  {
+   "title": "PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models",
+   "authors": [
+    "Michael-Andrei Panaitescu-Liess",
+    "Pankayaraj Pathmanathan",
+    "Yigitcan Kaya",
+    "Zora Che",
+    "Bang An",
+    "Sicheng Zhu",
+    "Aakriti Agrawal",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZXgvPANlwe",
+   "pdf_url": "https://openreview.net/pdf?id=ZXgvPANlwe"
+  },
+  {
+   "title": "PopAlign: Population-Level Alignment for Fair Text-to-Image Generation",
+   "authors": [
+    "Shufan Li",
+    "Harkanwar Singh",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OH5xp2W43y",
+   "pdf_url": "https://openreview.net/pdf?id=OH5xp2W43y"
+  },
+  {
+   "title": "Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data",
+   "authors": [
+    "Spencer Whitehead",
+    "Jacob Phillips",
+    "Sean M. Hendryx"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c9YjpshxhX",
+   "pdf_url": "https://openreview.net/pdf?id=c9YjpshxhX"
+  },
+  {
+   "title": "Preserving Safety in Fine-Tuned Large Language Models: A Systematic Evaluation and Mitigation Strategy",
+   "authors": [
+    "Tsung-Huan Yang",
+    "Ko-Wei Huang",
+    "Yung-Hui Li",
+    "Lun-Wei Ku"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SJCirqo9MK",
+   "pdf_url": "https://openreview.net/pdf?id=SJCirqo9MK"
+  },
+  {
+   "title": "Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack",
+   "authors": [
+    "Xide Xu",
+    "Muhammad Atif Butt",
+    "Sandesh Kamath",
+    "Bogdan Raducanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bmzFH3QpbW",
+   "pdf_url": "https://openreview.net/pdf?id=bmzFH3QpbW"
+  },
+  {
+   "title": "Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption",
+   "authors": [
+    "Leo de Castro",
+    "Antigoni Polychroniadou",
+    "Daniel Escudero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rs7h1od6ov",
+   "pdf_url": "https://openreview.net/pdf?id=Rs7h1od6ov"
+  },
+  {
+   "title": "Pruning for Robust Concept Erasing in Diffusion Models",
+   "authors": [
+    "Tianyun Yang",
+    "Ziniu Li",
+    "Juan Cao",
+    "Chang Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jD1eWpUMOf",
+   "pdf_url": "https://openreview.net/pdf?id=jD1eWpUMOf"
+  },
+  {
+   "title": "Red Teaming Language-Conditioned Robot Models via Vision Language Models",
+   "authors": [
+    "Sathwik Karnik",
+    "Zhang-Wei Hong",
+    "Nishant Abhangi",
+    "Yen-Chen Lin",
+    "Tsun-Hsuan Wang",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cSAMf9czc4",
+   "pdf_url": "https://openreview.net/pdf?id=cSAMf9czc4"
+  },
+  {
+   "title": "Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models",
+   "authors": [
+    "Neel Jain",
+    "Aditya Shrivastava",
+    "Chenyang Zhu",
+    "Daben Liu",
+    "Alfy Samuel",
+    "Ashwinee Panda",
+    "Anoop Kumar",
+    "Micah Goldblum",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vx7reBU6WQ",
+   "pdf_url": "https://openreview.net/pdf?id=vx7reBU6WQ"
+  },
+  {
+   "title": "Representation Collapsing Problems  in Vector Quantization",
+   "authors": [
+    "Wenhao Zhao",
+    "Qiran Zou",
+    "Rushi Shah",
+    "Dianbo Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2aOEiTfcZ4",
+   "pdf_url": "https://openreview.net/pdf?id=2aOEiTfcZ4"
+  },
+  {
+   "title": "Retention Score: Quantifying Jailbreak Risks for Vision Language Models",
+   "authors": [
+    "ZAITANG LI",
+    "Pin-Yu Chen",
+    "Tsung-Yi Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uvxUswwfTc",
+   "pdf_url": "https://openreview.net/pdf?id=uvxUswwfTc"
+  },
+  {
+   "title": "Rethinking Adversarial Attacks as Protection Against Diffusion-based Mimicry",
+   "authors": [
+    "Haotian Xue",
+    "Yongxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DlB3Ahx2Hm",
+   "pdf_url": "https://openreview.net/pdf?id=DlB3Ahx2Hm"
+  },
+  {
+   "title": "RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation",
+   "authors": [
+    "Kaiqu Liang",
+    "Haimin Hu",
+    "Ryan Liu",
+    "Thomas L. Griffiths",
+    "Jaime Fernández Fisac"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Io0ECcgFkh",
+   "pdf_url": "https://openreview.net/pdf?id=Io0ECcgFkh"
+  },
+  {
+   "title": "Rule-Guided Language Model Alignment for Text Generation Management in Industrial Use Cases",
+   "authors": [
+    "Shunichi Akatsuka",
+    "Aman Kumar",
+    "Xian Yeow Lee",
+    "Lasitha Vidyaratne",
+    "Dipanjan Dipak Ghosh",
+    "Ahmed K. Farahat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=824Dioj1OC",
+   "pdf_url": "https://openreview.net/pdf?id=824Dioj1OC"
+  },
+  {
+   "title": "Safe and Sound: Evaluating Language Models for Bias Mitigation and Understanding",
+   "authors": [
+    "Shaina Raza",
+    "Oluwanifemi Bamgbose",
+    "Shardul Ghuge",
+    "Deval Pandya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tenEMKmT50",
+   "pdf_url": "https://openreview.net/pdf?id=tenEMKmT50"
+  },
+  {
+   "title": "Safe Decision Transformer with Learning-based Constraints",
+   "authors": [
+    "Ruhan Wang",
+    "Dongruo Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FPRHvvEAZf",
+   "pdf_url": "https://openreview.net/pdf?id=FPRHvvEAZf"
+  },
+  {
+   "title": "Safety-Aware Fine-Tuning of Large Language Models",
+   "authors": [
+    "Hyeong Kyu Choi",
+    "Xuefeng Du",
+    "Yixuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SqL94fLSM7",
+   "pdf_url": "https://openreview.net/pdf?id=SqL94fLSM7"
+  },
+  {
+   "title": "SCIURus: Shared Circuits for Interpretable Uncertainty Representations in Language Models",
+   "authors": [
+    "Carter Teplica",
+    "Yixin Liu",
+    "Arman Cohan",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NIiSSgJ1Z8",
+   "pdf_url": "https://openreview.net/pdf?id=NIiSSgJ1Z8"
+  },
+  {
+   "title": "Self-Preference Bias in LLM-as-a-Judge",
+   "authors": [
+    "Koki Wataoka",
+    "Tsubasa Takahashi",
+    "Ryokan Ri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tLZZZIgPJX",
+   "pdf_url": "https://openreview.net/pdf?id=tLZZZIgPJX"
+  },
+  {
+   "title": "Self-Supervised Bisimulation Action Chunk Representation for Efficient RL",
+   "authors": [
+    "Lei Shi",
+    "Jianye HAO",
+    "Hongyao Tang",
+    "Zibin Dong",
+    "YAN ZHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4i6RilTlhI",
+   "pdf_url": "https://openreview.net/pdf?id=4i6RilTlhI"
+  },
+  {
+   "title": "Semantic Membership Inference Attack against Large Language Models",
+   "authors": [
+    "Hamid Mozaffari",
+    "Virendra Marathe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I7S3Pf7Idl",
+   "pdf_url": "https://openreview.net/pdf?id=I7S3Pf7Idl"
+  },
+  {
+   "title": "Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models",
+   "authors": [
+    "Wenda Li",
+    "Huijie Zhang",
+    "Qing Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HqKFOBk5gS",
+   "pdf_url": "https://openreview.net/pdf?id=HqKFOBk5gS"
+  },
+  {
+   "title": "Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning",
+   "authors": [
+    "Chongyu Fan",
+    "Jiancheng Liu",
+    "Licong Lin",
+    "Jinghan Jia",
+    "Ruiqi Zhang",
+    "Song Mei",
+    "Sijia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pVACX02m0p",
+   "pdf_url": "https://openreview.net/pdf?id=pVACX02m0p"
+  },
+  {
+   "title": "Simulation System Towards Solving Societal-Scale Manipulation",
+   "authors": [
+    "Maximilian Puelma Touzel",
+    "Sneheel Sarangi",
+    "Austin Welch",
+    "Gayatri K",
+    "Dan Zhao",
+    "Zachary Yang",
+    "Hao Yu",
+    "Tom Gibbs",
+    "Ethan Kosak-Hine",
+    "Andreea Musulan",
+    "Camille Thibault",
+    "Busra Tugce Gurbuz",
+    "Reihaneh Rabbany",
+    "Jean-François Godbout",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KGedqGQpTR",
+   "pdf_url": "https://openreview.net/pdf?id=KGedqGQpTR"
+  },
+  {
+   "title": "Smoothed Embeddings for Robust Language Models",
+   "authors": [
+    "Ryo Hase",
+    "Md Rafi Ur Rashid",
+    "Ashley Lewis",
+    "Jing Liu",
+    "Toshiaki Koike-Akino",
+    "Kieran Parsons",
+    "Ye Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GkBRng3Hl9",
+   "pdf_url": "https://openreview.net/pdf?id=GkBRng3Hl9"
+  },
+  {
+   "title": "SolidMark: Evaluating Image Memorization in Generative Models",
+   "authors": [
+    "Nicky Kriplani",
+    "Minh Pham",
+    "Gowthami Somepalli",
+    "Chinmay Hegde",
+    "Niv Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=59zTxNtI80",
+   "pdf_url": "https://openreview.net/pdf?id=59zTxNtI80"
+  },
+  {
+   "title": "Steering Without Side Effects: Improving Post-Deployment Control of Language Models",
+   "authors": [
+    "Asa Cooper Stickland",
+    "Alexander Lyzhov",
+    "Jacob Pfau",
+    "Salsabila Mahdi",
+    "Samuel R. Bowman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tfXIZ8P4ZU",
+   "pdf_url": "https://openreview.net/pdf?id=tfXIZ8P4ZU"
+  },
+  {
+   "title": "Stronger Universal and Transfer Attacks by Suppressing Refusals",
+   "authors": [
+    "David Huang",
+    "Avidan Shah",
+    "Alexandre Araujo",
+    "David Wagner",
+    "Chawin Sitawarin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eIBWRAbhND",
+   "pdf_url": "https://openreview.net/pdf?id=eIBWRAbhND"
+  },
+  {
+   "title": "Targeted Unlearning with Single Layer Unlearning Gradient",
+   "authors": [
+    "Zikui Cai",
+    "Yaoteng Tan",
+    "M. Salman Asif"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ePKuQQwCGm",
+   "pdf_url": "https://openreview.net/pdf?id=ePKuQQwCGm"
+  },
+  {
+   "title": "Testing the Limits of Jailbreaking Defenses with the Purple Problem",
+   "authors": [
+    "Taeyoun Kim",
+    "Suhas Kotha",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=abfi2EuPB0",
+   "pdf_url": "https://openreview.net/pdf?id=abfi2EuPB0"
+  },
+  {
+   "title": "The effect of fine-tuning on language model toxicity",
+   "authors": [
+    "Will Hawkins",
+    "Brent Mittelstadt",
+    "Chris Russell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YXaFxrMbVk",
+   "pdf_url": "https://openreview.net/pdf?id=YXaFxrMbVk"
+  },
+  {
+   "title": "The Empirical Impact of Data Sanitization on Language Models",
+   "authors": [
+    "Anwesan Pal",
+    "Radhika Bhargava",
+    "Kyle Hinsz",
+    "Jacques Esterhuizen",
+    "Sudipta Bhattacharya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jron0NaeFt",
+   "pdf_url": "https://openreview.net/pdf?id=Jron0NaeFt"
+  },
+  {
+   "title": "The Impact of Inference Acceleration Strategies on Bias of Large Language Models",
+   "authors": [
+    "Elisabeth Kirsten",
+    "Ivan Habernal",
+    "Vedant Nanda",
+    "Muhammad Bilal Zafar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uOjOm1XPTY",
+   "pdf_url": "https://openreview.net/pdf?id=uOjOm1XPTY"
+  },
+  {
+   "title": "The Probe Paradigm: A Theoretical Foundation for Explaining Generative Models",
+   "authors": [
+    "Amit Kiran Rege"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s6P4W7QTD4",
+   "pdf_url": "https://openreview.net/pdf?id=s6P4W7QTD4"
+  },
+  {
+   "title": "The Structural Safety Generalization Problem",
+   "authors": [
+    "Tom Gibbs",
+    "Julius Broomfield",
+    "George Ingebretsen",
+    "Ethan Kosak-Hine",
+    "Tia Nasir",
+    "Jason Zhang",
+    "Reihaneh Iranmanesh",
+    "Sara Pieri",
+    "Reihaneh Rabbany",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pc0xDwbdCq",
+   "pdf_url": "https://openreview.net/pdf?id=pc0xDwbdCq"
+  },
+  {
+   "title": "Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models",
+   "authors": [
+    "Xiaomeng Hu",
+    "Pin-Yu Chen",
+    "Tsung-Yi Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aGOi2ClcVv",
+   "pdf_url": "https://openreview.net/pdf?id=aGOi2ClcVv"
+  },
+  {
+   "title": "Towards a Theory of AI Personhood",
+   "authors": [
+    "Francis Rhys Ward"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DOBYnbx1xr",
+   "pdf_url": "https://openreview.net/pdf?id=DOBYnbx1xr"
+  },
+  {
+   "title": "Towards Inference-time Category-wise Safety Steering for Large Language Models",
+   "authors": [
+    "Amrita Bhattacharjee",
+    "Shaona Ghosh",
+    "Traian Rebedea",
+    "Christopher Parisien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EkQRNLPFcn",
+   "pdf_url": "https://openreview.net/pdf?id=EkQRNLPFcn"
+  },
+  {
+   "title": "Towards Resource Efficient and Interpretable Bias Mitigation in Natural Language Generation",
+   "authors": [
+    "Schrasing Tong",
+    "Eliott Zemour",
+    "Rawisara Lohanimit",
+    "Lalana Kagal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PjUoztugza",
+   "pdf_url": "https://openreview.net/pdf?id=PjUoztugza"
+  },
+  {
+   "title": "Towards Safe and Honest AI Agents with Neural Self-Other Overlap",
+   "authors": [
+    "Marc Carauleanu",
+    "Michael Vaiana",
+    "Judd Rosenblatt",
+    "Cameron Berg",
+    "Diogo S de Lucena"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wcvCSfrEho",
+   "pdf_url": "https://openreview.net/pdf?id=wcvCSfrEho"
+  },
+  {
+   "title": "Towards Scalable Exact Machine Unlearning Using Parameter-Efficient Fine-Tuning",
+   "authors": [
+    "Somnath Basu Roy Chowdhury",
+    "Krzysztof Marcin Choromanski",
+    "Arijit Sehanobish",
+    "Kumar Avinava Dubey",
+    "Snigdha Chaturvedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C9MkQGzeIm",
+   "pdf_url": "https://openreview.net/pdf?id=C9MkQGzeIm"
+  },
+  {
+   "title": "Universal Jailbreak Backdoors in Large Language Model Alignment",
+   "authors": [
+    "Thomas Baumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YORB5To0x4",
+   "pdf_url": "https://openreview.net/pdf?id=YORB5To0x4"
+  },
+  {
+   "title": "Unlearning in- vs. out-of-distribution data in LLMs under gradient-based methods",
+   "authors": [
+    "Teodora Baluta",
+    "Pascal Lamblin",
+    "Daniel Tarlow",
+    "Fabian Pedregosa",
+    "Gintare Karolina Dziugaite"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3SK2Nn3SNv",
+   "pdf_url": "https://openreview.net/pdf?id=3SK2Nn3SNv"
+  },
+  {
+   "title": "Variational Diffusion Unlearning: a variational inference framework for unlearning in diffusion models",
+   "authors": [
+    "Subhodip Panda",
+    "Varun M S",
+    "Shreyans Jain",
+    "Sarthak Kumar Maharana",
+    "Prathosh AP"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B2wDjiED9V",
+   "pdf_url": "https://openreview.net/pdf?id=B2wDjiED9V"
+  },
+  {
+   "title": "Waste Not, Want Not; Recycled Gumbel Noise Improves Consistency in Natural Language Generation",
+   "authors": [
+    "Damien De Mijolla",
+    "Hannan Saddiq",
+    "Kim Moore"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y1qs2Td9Sh",
+   "pdf_url": "https://openreview.net/pdf?id=Y1qs2Td9Sh"
+  },
+  {
+   "title": "Weak-to-Strong Confidence Prediction",
+   "authors": [
+    "Yukai Yang",
+    "Tracy Yixin Zhu",
+    "Marco Morucci",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eAQZ9jTVIf",
+   "pdf_url": "https://openreview.net/pdf?id=eAQZ9jTVIf"
+  },
+  {
+   "title": "What do we learn from inverting CLIP models?",
+   "authors": [
+    "Hamid Kazemi",
+    "Atoosa Chegini",
+    "Jonas Geiping",
+    "Soheil Feizi",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GD23U1SWik",
+   "pdf_url": "https://openreview.net/pdf?id=GD23U1SWik"
+  },
+  {
+   "title": "What You See Is What You Get: Entity-Aware Summarization for Reliable Sponsored Search",
+   "authors": [
+    "Xiao Liang",
+    "Xinyu Hu",
+    "Simiao Zuo",
+    "Jimi He",
+    "Yu Wang",
+    "Victor Ye Dong",
+    "Yeyun Gong",
+    "Kushal S. Dave",
+    "Yi Liu",
+    "Qiang Lou",
+    "Shao-Lun Huang",
+    "Jian Jiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LWz0kw3l0b",
+   "pdf_url": "https://openreview.net/pdf?id=LWz0kw3l0b"
+  },
+  {
+   "title": "Which LLMs are Difficult to Detect? A Detailed Analysis of Potential Factors Contributing to Difficulties in LLM Text Detection",
+   "authors": [
+    "Shantanu Thorat",
+    "Tianbao Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=khB83LpPgH",
+   "pdf_url": "https://openreview.net/pdf?id=khB83LpPgH"
+  },
+  {
+   "title": "Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models",
+   "authors": [
+    "Tiejin Chen",
+    "Kaishen Wang",
+    "Hua Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t5z1WcB1cz",
+   "pdf_url": "https://openreview.net/pdf?id=t5z1WcB1cz"
+  }
+ ]
+}

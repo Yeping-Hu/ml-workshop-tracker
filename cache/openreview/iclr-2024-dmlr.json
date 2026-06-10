@@ -1,0 +1,518 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/DMLR",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:46:55.418Z",
+ "paper_count": 85,
+ "papers": [
+  {
+   "title": "AdaDemo: Data-Efficient Demonstration Expansion for Generalist Robotic Agent",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=AXwNIj8J0k",
+   "pdf_url": "https://openreview.net/pdf?id=AXwNIj8J0k"
+  },
+  {
+   "title": "Analyzing Diffusion Models on Synthesizing Training Datasets",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=MDoK6ofaNb",
+   "pdf_url": "https://openreview.net/pdf?id=MDoK6ofaNb"
+  },
+  {
+   "title": "Annotating Ambiguous Images:  General Annotation Strategy for High-Quality Data with Real-World Biomedical Validation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=gii9qgtvsL",
+   "pdf_url": "https://openreview.net/pdf?id=gii9qgtvsL"
+  },
+  {
+   "title": "Annotation Sensitivity: Drivers of Training Data Quality",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=6G7n68ISLV",
+   "pdf_url": "https://openreview.net/pdf?id=6G7n68ISLV"
+  },
+  {
+   "title": "Atomic Data Groups: An issue in train-test splits for the real world as demonstrated through digital hardware design",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=8JfQnNEX3K",
+   "pdf_url": "https://openreview.net/pdf?id=8JfQnNEX3K"
+  },
+  {
+   "title": "Autoregressive activity prediction for low-data drug discovery",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=eLg88qUVFT",
+   "pdf_url": "https://openreview.net/pdf?id=eLg88qUVFT"
+  },
+  {
+   "title": "Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=wClLNAyQqs",
+   "pdf_url": "https://openreview.net/pdf?id=wClLNAyQqs"
+  },
+  {
+   "title": "Beyond Scale: The Diversity Coefficient as a Data Quality Metric for Variability in Natural Language Data",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=tgkWxsOapD",
+   "pdf_url": "https://openreview.net/pdf?id=tgkWxsOapD"
+  },
+  {
+   "title": "Bidirectional Long-Range Parser for Sequential Data Understanding",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=eszZjfJAvR",
+   "pdf_url": "https://openreview.net/pdf?id=eszZjfJAvR"
+  },
+  {
+   "title": "Birbal: An efficient 7B instruct-model fine-tuned with curated datasets",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=wGvflAGXSb",
+   "pdf_url": "https://openreview.net/pdf?id=wGvflAGXSb"
+  },
+  {
+   "title": "Building Scalable Video Understanding Benchmarks through Sports",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=W51boqExvq",
+   "pdf_url": "https://openreview.net/pdf?id=W51boqExvq"
+  },
+  {
+   "title": "Calibrated prediction of scarce adverse drug reaction labels with conditional neural processes",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qTI4by32pl",
+   "pdf_url": "https://openreview.net/pdf?id=qTI4by32pl"
+  },
+  {
+   "title": "CLE-SMOTE: Addressing Extreme Imbalanced Data Classification with Contrastive Learning-Enhanced SMOTE",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=e641mv2xsf",
+   "pdf_url": "https://openreview.net/pdf?id=e641mv2xsf"
+  },
+  {
+   "title": "Coactive Learning for Large Language Models using Implicit User Feedback",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Q7cwVnRWAs",
+   "pdf_url": "https://openreview.net/pdf?id=Q7cwVnRWAs"
+  },
+  {
+   "title": "Combining Time Series Modalities to Create Endpoint-driven Patient Records",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=0NZOSSBZCi",
+   "pdf_url": "https://openreview.net/pdf?id=0NZOSSBZCi"
+  },
+  {
+   "title": "Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=dAq4SxWzlU",
+   "pdf_url": "https://openreview.net/pdf?id=dAq4SxWzlU"
+  },
+  {
+   "title": "Corrective Machine Unlearning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=nTkp3Omb7L",
+   "pdf_url": "https://openreview.net/pdf?id=nTkp3Omb7L"
+  },
+  {
+   "title": "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=S33IFOa8Yl",
+   "pdf_url": "https://openreview.net/pdf?id=S33IFOa8Yl"
+  },
+  {
+   "title": "Data Distribution Valuation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=oUUokjhAZw",
+   "pdf_url": "https://openreview.net/pdf?id=oUUokjhAZw"
+  },
+  {
+   "title": "Data-Efficient Multi-Modal Contrastive Learning: Prioritizing Data Quality over Quantity",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=EEc0r4Befa",
+   "pdf_url": "https://openreview.net/pdf?id=EEc0r4Befa"
+  },
+  {
+   "title": "Denoising Drug Discovery ADMET Data for Improved Regression Task Performance",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=fXgSQm4lA6",
+   "pdf_url": "https://openreview.net/pdf?id=fXgSQm4lA6"
+  },
+  {
+   "title": "Deploying Data Selection Techniques on Dynamic Datasets",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=CytNIWMFKN",
+   "pdf_url": "https://openreview.net/pdf?id=CytNIWMFKN"
+  },
+  {
+   "title": "Distributional Dataset Distillation with Subtask Decomposition",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=jM6hBJ7AcF",
+   "pdf_url": "https://openreview.net/pdf?id=jM6hBJ7AcF"
+  },
+  {
+   "title": "Empowering Large Language Models for Textual Data Augmentation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=JCuWXk9HGq",
+   "pdf_url": "https://openreview.net/pdf?id=JCuWXk9HGq"
+  },
+  {
+   "title": "Enabling High Data Throughput Reinforcement Learning on GPUs: A Domain Agnostic Framework for Data-Driven Scientific Research",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=oXbSJlItM0",
+   "pdf_url": "https://openreview.net/pdf?id=oXbSJlItM0"
+  },
+  {
+   "title": "Enhanced Variational Autoencoder Estimation from Incomplete Data using Mixture Variational Families",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=U0inyhGPW3",
+   "pdf_url": "https://openreview.net/pdf?id=U0inyhGPW3"
+  },
+  {
+   "title": "Environment-adjusted Topic Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qQi4p3G0yS",
+   "pdf_url": "https://openreview.net/pdf?id=qQi4p3G0yS"
+  },
+  {
+   "title": "Exploring the Efficacy of Meta-Learning: Unveiling Superior Data Diversity Utilization of MAML Over Pre-training",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=RDpDFzijX4",
+   "pdf_url": "https://openreview.net/pdf?id=RDpDFzijX4"
+  },
+  {
+   "title": "Feedback-guided Data Synthesis for Imbalanced Classification",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=zKc9PAJol3",
+   "pdf_url": "https://openreview.net/pdf?id=zKc9PAJol3"
+  },
+  {
+   "title": "Fractals as Pre-training Datasets for Anomaly Detection and Localization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=NIn92D7Qos",
+   "pdf_url": "https://openreview.net/pdf?id=NIn92D7Qos"
+  },
+  {
+   "title": "From Categories to Classifier: Name-Only Continual Learning by Exploring the Web",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=VxjmZ64id7",
+   "pdf_url": "https://openreview.net/pdf?id=VxjmZ64id7"
+  },
+  {
+   "title": "FTFT: efficient and robust Fine-Tuning by transFerring Training Dynamics",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=mAYfmHv068",
+   "pdf_url": "https://openreview.net/pdf?id=mAYfmHv068"
+  },
+  {
+   "title": "Genetic Learning for Designing Sim-to-Real Data Augmentations",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=02urt8Hb3n",
+   "pdf_url": "https://openreview.net/pdf?id=02urt8Hb3n"
+  },
+  {
+   "title": "GitChameleon: Breaking the version barrier for code generation models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=kcsalW0cqf",
+   "pdf_url": "https://openreview.net/pdf?id=kcsalW0cqf"
+  },
+  {
+   "title": "Graph Kernel Convolutions for Interpretable Classification",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=rqAWkn2gGl",
+   "pdf_url": "https://openreview.net/pdf?id=rqAWkn2gGl"
+  },
+  {
+   "title": "GRASP-GCN: Graph-Shape Prioritization for Neural Architecture Search under Distribution Shifts",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qeUa7MkRTC",
+   "pdf_url": "https://openreview.net/pdf?id=qeUa7MkRTC"
+  },
+  {
+   "title": "H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=4lxPsxpYBc",
+   "pdf_url": "https://openreview.net/pdf?id=4lxPsxpYBc"
+  },
+  {
+   "title": "Heterogeneous Normal Classes Pose a Challenge for Anomaly Detection",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=kTGZgqO2jv",
+   "pdf_url": "https://openreview.net/pdf?id=kTGZgqO2jv"
+  },
+  {
+   "title": "Identifying Spurious Correlations Early in Training through the Lens of Simplicity Bias",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=t3LBgI4Uw2",
+   "pdf_url": "https://openreview.net/pdf?id=t3LBgI4Uw2"
+  },
+  {
+   "title": "Improving Semantic Segmentation Models through Synthetic Data Generation via Diffusion Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=plwBVSnEgL",
+   "pdf_url": "https://openreview.net/pdf?id=plwBVSnEgL"
+  },
+  {
+   "title": "Information Compensation: A Fix for Any-scale Dataset Distillation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=2SnmKd1JK4",
+   "pdf_url": "https://openreview.net/pdf?id=2SnmKd1JK4"
+  },
+  {
+   "title": "Interpretable Graph Neural Networks for Tabular Data",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=45gND6LtCz",
+   "pdf_url": "https://openreview.net/pdf?id=45gND6LtCz"
+  },
+  {
+   "title": "Is a picture of a bird a bird? A mixed-methods approach to understanding diverse human perspectives and ambiguity in machine vision models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=hHDatgFKXS",
+   "pdf_url": "https://openreview.net/pdf?id=hHDatgFKXS"
+  },
+  {
+   "title": "Is margin all you need? An extensive empirical study of deep active learning on tabular data",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7nWZkf0CJP",
+   "pdf_url": "https://openreview.net/pdf?id=7nWZkf0CJP"
+  },
+  {
+   "title": "Language Models as Science Tutors",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=AiEMmbUrOK",
+   "pdf_url": "https://openreview.net/pdf?id=AiEMmbUrOK"
+  },
+  {
+   "title": "Learning Galaxy Intrinsic Alignment Correlations",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=BTiIPYEXWY",
+   "pdf_url": "https://openreview.net/pdf?id=BTiIPYEXWY"
+  },
+  {
+   "title": "Learning representations of learning representations",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=2OObXL3AaZ",
+   "pdf_url": "https://openreview.net/pdf?id=2OObXL3AaZ"
+  },
+  {
+   "title": "Learning to Rank for One-Round Active Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=eCWcgaoTS2",
+   "pdf_url": "https://openreview.net/pdf?id=eCWcgaoTS2"
+  },
+  {
+   "title": "Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=m3z2pOh174",
+   "pdf_url": "https://openreview.net/pdf?id=m3z2pOh174"
+  },
+  {
+   "title": "LLM-Guided Counterfactual Data Generation for Fairer AI",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=GHb3qK0V3b",
+   "pdf_url": "https://openreview.net/pdf?id=GHb3qK0V3b"
+  },
+  {
+   "title": "Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=X5l8bqk5K8",
+   "pdf_url": "https://openreview.net/pdf?id=X5l8bqk5K8"
+  },
+  {
+   "title": "Measuring Diversity in Datasets",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=d0gIHwLs9p",
+   "pdf_url": "https://openreview.net/pdf?id=d0gIHwLs9p"
+  },
+  {
+   "title": "Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=DsIVw0grNu",
+   "pdf_url": "https://openreview.net/pdf?id=DsIVw0grNu"
+  },
+  {
+   "title": "Multi-model evaluation with labeled and unlabeled data",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=V2hIP8q1ly",
+   "pdf_url": "https://openreview.net/pdf?id=V2hIP8q1ly"
+  },
+  {
+   "title": "On the Scalability of GNNs for Molecular Graphs",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=zYZZFpRebP",
+   "pdf_url": "https://openreview.net/pdf?id=zYZZFpRebP"
+  },
+  {
+   "title": "One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7vkz7cKd1X",
+   "pdf_url": "https://openreview.net/pdf?id=7vkz7cKd1X"
+  },
+  {
+   "title": "OODRobustBench: a benchmark and large-scale analysis of adversarial robustness under distribution shift",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7ZJCv00Zu1",
+   "pdf_url": "https://openreview.net/pdf?id=7ZJCv00Zu1"
+  },
+  {
+   "title": "Open Domain Generalization with a Single Network by Regularization Exploiting Pre-trained Features",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=cammpwFvmQ",
+   "pdf_url": "https://openreview.net/pdf?id=cammpwFvmQ"
+  },
+  {
+   "title": "PointSAGE : Mesh-independent superresolution approach to fluid flow predictions",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=MmUfbFD8J0",
+   "pdf_url": "https://openreview.net/pdf?id=MmUfbFD8J0"
+  },
+  {
+   "title": "PRE: Vision-Language Prompt Learning with Reparameterization Encoder",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=I7plXUkBkm",
+   "pdf_url": "https://openreview.net/pdf?id=I7plXUkBkm"
+  },
+  {
+   "title": "Pretraining Probabilistic Models for Scalable Precision Agriculture",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=tPPm5OKdFy",
+   "pdf_url": "https://openreview.net/pdf?id=tPPm5OKdFy"
+  },
+  {
+   "title": "Private Data Measurements for Decentralized Data Markets",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=YdI2TULi8E",
+   "pdf_url": "https://openreview.net/pdf?id=YdI2TULi8E"
+  },
+  {
+   "title": "Pushing the Decision Boundaries: Discovering New Classes in Audio Data",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=WYEgGQSNAp",
+   "pdf_url": "https://openreview.net/pdf?id=WYEgGQSNAp"
+  },
+  {
+   "title": "QualEval: Qualitative Evaluation for Model Improvement",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=32BEyESc3N",
+   "pdf_url": "https://openreview.net/pdf?id=32BEyESc3N"
+  },
+  {
+   "title": "Quantifying the Importance of Data Alignment in Downstream Model Performance",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=pXTDfeBIPj",
+   "pdf_url": "https://openreview.net/pdf?id=pXTDfeBIPj"
+  },
+  {
+   "title": "QuRating: Selecting High-Quality Data for Training Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=LYxyZPU6MK",
+   "pdf_url": "https://openreview.net/pdf?id=LYxyZPU6MK"
+  },
+  {
+   "title": "Re-evaluating Retrosynthesis Algorithms with Syntheseus",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=I9huj1zxRj",
+   "pdf_url": "https://openreview.net/pdf?id=I9huj1zxRj"
+  },
+  {
+   "title": "Retail-786k: a Large-Scale Dataset for Visual Entity Matching",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=jr3nlhNvO4",
+   "pdf_url": "https://openreview.net/pdf?id=jr3nlhNvO4"
+  },
+  {
+   "title": "Step-DAD: Semi-Amortized Policy-Based Bayesian Experimental Design",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Ca0QWJne7H",
+   "pdf_url": "https://openreview.net/pdf?id=Ca0QWJne7H"
+  },
+  {
+   "title": "Style-Content Disentanglement Under Conditional Shift",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Vc0JULfod7",
+   "pdf_url": "https://openreview.net/pdf?id=Vc0JULfod7"
+  },
+  {
+   "title": "The Science of Data Filtering: Data Curation cannot be Compute Agnostic",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=OtRjFnRnEu",
+   "pdf_url": "https://openreview.net/pdf?id=OtRjFnRnEu"
+  },
+  {
+   "title": "TOTEM: Tokenized Time Series Embeddings for General Time Series Analysis",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=YNH32H6owA",
+   "pdf_url": "https://openreview.net/pdf?id=YNH32H6owA"
+  },
+  {
+   "title": "Towards Algorithmic Fairness by means of Instance-level Data Re-weighting based on Shapley Values",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=ivf1QaxEGQ",
+   "pdf_url": "https://openreview.net/pdf?id=ivf1QaxEGQ"
+  },
+  {
+   "title": "Towards Efficient Active Learning in NLP via Pretrained Representations",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=nEF6d64WYR",
+   "pdf_url": "https://openreview.net/pdf?id=nEF6d64WYR"
+  },
+  {
+   "title": "Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=gXprdL2EIW",
+   "pdf_url": "https://openreview.net/pdf?id=gXprdL2EIW"
+  },
+  {
+   "title": "Towards Quantifying the Effect of Datasets for Benchmarking: A Look at Tabular Machine Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=ACLLU9nQ2E",
+   "pdf_url": "https://openreview.net/pdf?id=ACLLU9nQ2E"
+  },
+  {
+   "title": "Towards Robust Data Pruning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=vc82Kmtbry",
+   "pdf_url": "https://openreview.net/pdf?id=vc82Kmtbry"
+  },
+  {
+   "title": "Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=isxrydTH8w",
+   "pdf_url": "https://openreview.net/pdf?id=isxrydTH8w"
+  },
+  {
+   "title": "Unveiling the Intertwined Relationship Between Essential Sparsity and Robustness in Large Pre-trained Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=hN9vWadAYH",
+   "pdf_url": "https://openreview.net/pdf?id=hN9vWadAYH"
+  },
+  {
+   "title": "Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=1vCAi53AVj",
+   "pdf_url": "https://openreview.net/pdf?id=1vCAi53AVj"
+  },
+  {
+   "title": "Verified Training for Counterfactual Explanation Robustness under Data Shift",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Y6bfPN9BFr",
+   "pdf_url": "https://openreview.net/pdf?id=Y6bfPN9BFr"
+  },
+  {
+   "title": "VTruST: Controllable value function based subset selection for Data-Centric Trustworthy AI",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=cAc3xKxYX9",
+   "pdf_url": "https://openreview.net/pdf?id=cAc3xKxYX9"
+  },
+  {
+   "title": "When is Off-Policy Evaluation Useful? A Data-Centric Perspective",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=xIx7QXt1WM",
+   "pdf_url": "https://openreview.net/pdf?id=xIx7QXt1WM"
+  },
+  {
+   "title": "WINDSET: Weather Insights and Novel Data for Systematic Evaluation and Testing",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=JZDnsKaVGE",
+   "pdf_url": "https://openreview.net/pdf?id=JZDnsKaVGE"
+  },
+  {
+   "title": "You can't handle the (dirty) truth: Data-centric insights improve pseudo-labeling",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=6IKH76T2cW",
+   "pdf_url": "https://openreview.net/pdf?id=6IKH76T2cW"
+  }
+ ]
+}

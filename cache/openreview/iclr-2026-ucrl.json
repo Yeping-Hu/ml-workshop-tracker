@@ -1,0 +1,304 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/UCRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:45.783Z",
+ "paper_count": 26,
+ "papers": [
+  {
+   "title": "An Information-Theoretic Approach to Benign Leakage in Static Concept Embedding Models",
+   "authors": [
+    "Tianchao Li",
+    "Shujian Yu",
+    "Robert Jenssen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hY60e1tgJf",
+   "pdf_url": "https://openreview.net/pdf?id=hY60e1tgJf"
+  },
+  {
+   "title": "Automated Concept Discovery for LLM-as-a-Judge Preference Analysis",
+   "authors": [
+    "James Wedgwood",
+    "Chhavi Yadav",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xk0jEx8CO0",
+   "pdf_url": "https://openreview.net/pdf?id=Xk0jEx8CO0"
+  },
+  {
+   "title": "Automatic Interpretation of Visual Concepts",
+   "authors": [
+    "Felix Meissen",
+    "Kenza Bouzid",
+    "Tristan Lazard",
+    "Shruthi Bannur",
+    "Daniel C. Castro",
+    "Javier Alvarez-Valle",
+    "Stephanie Hyland"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AOXh7qS5mQ",
+   "pdf_url": "https://openreview.net/pdf?id=AOXh7qS5mQ"
+  },
+  {
+   "title": "Causality Guided Representation Learning for Cross-Style Hate Speech Detection",
+   "authors": [
+    "Chengshuai Zhao",
+    "Shu Wan",
+    "Paras Sheth",
+    "Karan Patwa",
+    "K. Selcuk Candan",
+    "huan liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vJlbeNEO2x",
+   "pdf_url": "https://openreview.net/pdf?id=vJlbeNEO2x"
+  },
+  {
+   "title": "Concept Bottleneck Diffusion for Steerable Generation",
+   "authors": [
+    "Eric Enouen",
+    "sainyam galhotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yP7ReFvRGN",
+   "pdf_url": "https://openreview.net/pdf?id=yP7ReFvRGN"
+  },
+  {
+   "title": "Continual learning and refinement of causal models through dynamic predicate invention",
+   "authors": [
+    "Enrique Crespo-Fernandez",
+    "Oliver Ray",
+    "Telmo M Silva Filho",
+    "Peter Flach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jJbzfjODQt",
+   "pdf_url": "https://openreview.net/pdf?id=jJbzfjODQt"
+  },
+  {
+   "title": "Decomposing Representation Drift via Interventions",
+   "authors": [
+    "Thomas Y Chen",
+    "Daniel Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kkXyytBHnL",
+   "pdf_url": "https://openreview.net/pdf?id=kkXyytBHnL"
+  },
+  {
+   "title": "Diagnosing and Fixing Latent Recovery in Sparse Autoencoders",
+   "authors": [
+    "Zhenyu Zhu",
+    "Marco Fumero",
+    "Francesco Locatello",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hl3rEn7S4P",
+   "pdf_url": "https://openreview.net/pdf?id=Hl3rEn7S4P"
+  },
+  {
+   "title": "Digging Deeper: Learning Multi-Level Concept Hierarchies",
+   "authors": [
+    "Oscar Hill",
+    "Mateo Espinosa Zarlenga",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GGBRe4yegd",
+   "pdf_url": "https://openreview.net/pdf?id=GGBRe4yegd"
+  },
+  {
+   "title": "Do Monolingual Language Models Learn Cross-Lingual Universal Conceptual Representations?",
+   "authors": [
+    "Suchir Salhan",
+    "Ej Zhou",
+    "Paula Buttery"
+   ],
+   "forum_url": "https://openreview.net/forum?id=frKa6ujOyE",
+   "pdf_url": "https://openreview.net/pdf?id=frKa6ujOyE"
+  },
+  {
+   "title": "Dynamics Reveals Structure: Challenging the Linear Propagation Assumption",
+   "authors": [
+    "Hoyeon Chang",
+    "Bálint Mucsányi",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SDPIeRCS4p",
+   "pdf_url": "https://openreview.net/pdf?id=SDPIeRCS4p"
+  },
+  {
+   "title": "Extracting Representations in LLMs Robust to Distribution Shifts",
+   "authors": [
+    "Sweta Karlekar",
+    "Claudia Shi",
+    "Aahlad Manas Puli",
+    "Carolina Zheng",
+    "Maggie Makar",
+    "John Bowlan",
+    "Michal Kucer",
+    "David Blei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KzH1cLVU1R",
+   "pdf_url": "https://openreview.net/pdf?id=KzH1cLVU1R"
+  },
+  {
+   "title": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations",
+   "authors": [
+    "Bryce Grant",
+    "Peng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eub5YrhExo",
+   "pdf_url": "https://openreview.net/pdf?id=eub5YrhExo"
+  },
+  {
+   "title": "Identifiable Estimation of Causal Concept Effects under Visual Latent Confounding",
+   "authors": [
+    "Thomas Melistas",
+    "Damian Machlanski",
+    "Kurt Butler",
+    "Angelos Korakitis",
+    "Nikos Spyrou",
+    "Athanasios Vlontzos",
+    "Yannis Panagakis",
+    "Sotirios A. Tsaftaris",
+    "Giorgos Papanastasiou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YgbhhZUExr",
+   "pdf_url": "https://openreview.net/pdf?id=YgbhhZUExr"
+  },
+  {
+   "title": "Multi-shot AutoInterp: Agents Can Explain Complex Features By Refining Explanations",
+   "authors": [
+    "Kamal Maher",
+    "Simon Elias Schrader",
+    "Kola Ayonrinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vdqWT76nNW",
+   "pdf_url": "https://openreview.net/pdf?id=vdqWT76nNW"
+  },
+  {
+   "title": "Navigating the Concept Space of Language Models",
+   "authors": [
+    "Wilson Marcilio-Jr",
+    "Danilo Medeiros Eler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGxUxV5Yot",
+   "pdf_url": "https://openreview.net/pdf?id=MGxUxV5Yot"
+  },
+  {
+   "title": "NEUROLOGIC: From Neural Representations to Interpretable Logic Rules",
+   "authors": [
+    "Chuqin Geng",
+    "Anqi Xing",
+    "Li Zhang",
+    "Ziyu Zhao",
+    "Jingkai Xu",
+    "Yuhe Jiang",
+    "Xujie Si"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OALBiGMXFZ",
+   "pdf_url": "https://openreview.net/pdf?id=OALBiGMXFZ"
+  },
+  {
+   "title": "On the Existence and Behavior of Secondary Attention Sinks",
+   "authors": [
+    "Jeffrey T. H. Wong",
+    "Cheng Zhang",
+    "Louis Mahon",
+    "Wayne Luk",
+    "Anton Isopoussu",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2DmhKvGLSC",
+   "pdf_url": "https://openreview.net/pdf?id=2DmhKvGLSC"
+  },
+  {
+   "title": "One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations",
+   "authors": [
+    "Sripad Karne"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d4nlLQAaDp",
+   "pdf_url": "https://openreview.net/pdf?id=d4nlLQAaDp"
+  },
+  {
+   "title": "Post-hoc Self-explanation of CNNs",
+   "authors": [
+    "Ahcene Boubekki",
+    "Line H Clemmensen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cKw94d39J0",
+   "pdf_url": "https://openreview.net/pdf?id=cKw94d39J0"
+  },
+  {
+   "title": "Post-hoc Stochastic Concept Bottleneck Models",
+   "authors": [
+    "Wiktor Hoffmann",
+    "Sonia Laguna",
+    "Moritz Vandenhirtz",
+    "Emanuele Palumbo",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5dLnX0JYvf",
+   "pdf_url": "https://openreview.net/pdf?id=5dLnX0JYvf"
+  },
+  {
+   "title": "Self-Interpretable Concept Representations: Training Lightweight Adapters on Vector-Label Pairs",
+   "authors": [
+    "Keenan Pepper",
+    "Alex McKenzie",
+    "Florin Pop",
+    "Stijn Servaes",
+    "Martin Leitgab",
+    "Michael Vaiana",
+    "Judd Rosenblatt",
+    "Michael S. A. Graziano",
+    "Diogo S de Lucena"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aGh5bAZW39",
+   "pdf_url": "https://openreview.net/pdf?id=aGh5bAZW39"
+  },
+  {
+   "title": "Simulating Concept Bottlenecks with Vision-Language Models",
+   "authors": [
+    "Karim Galliamov",
+    "Ilya Pershin",
+    "Ivan Titov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aswvIu1Vgw",
+   "pdf_url": "https://openreview.net/pdf?id=aswvIu1Vgw"
+  },
+  {
+   "title": "SSCD: Sparse Semantic Concept Defense Against Semantic Adversarial Attacks to Image Classifiers",
+   "authors": [
+    "Nghia Nguyen",
+    "Darshan Thaker",
+    "Konstantinos Emmanouilidis",
+    "Tianjiao Ding",
+    "Rene Vidal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lxdEaU2dMp",
+   "pdf_url": "https://openreview.net/pdf?id=lxdEaU2dMp"
+  },
+  {
+   "title": "Syntax-Preserving Hyperbolic Visual-Semantic Embeddings",
+   "authors": [
+    "Genji Ohara",
+    "Daiki Yoshikawa",
+    "Takashi Matsubara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SLzs4QiEql",
+   "pdf_url": "https://openreview.net/pdf?id=SLzs4QiEql"
+  },
+  {
+   "title": "VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection",
+   "authors": [
+    "Aditya Taparia",
+    "Noel Ngu",
+    "Mario Leiva",
+    "Joshua Shay Kricheli",
+    "John Corcoran",
+    "Nathaniel D. Bastian",
+    "Gerardo Simari",
+    "Paulo Shakarian",
+    "Ransalu Senanayake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JMClg6fZLd",
+   "pdf_url": "https://openreview.net/pdf?id=JMClg6fZLd"
+  }
+ ]
+}

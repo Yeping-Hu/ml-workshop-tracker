@@ -1,0 +1,670 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/TF2M",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:24.538Z",
+ "paper_count": 58,
+ "papers": [
+  {
+   "title": "A deeper look at depth pruning of LLMs",
+   "authors": [
+    "Shoaib Ahmed Siddiqui",
+    "Xin Dong",
+    "Greg Heinrich",
+    "Thomas Breuel",
+    "Jan Kautz",
+    "David Krueger",
+    "Pavlo Molchanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9B7ayWclwN",
+   "pdf_url": "https://openreview.net/pdf?id=9B7ayWclwN"
+  },
+  {
+   "title": "A Theoretical Understanding of Self-Correction through In-context Alignment",
+   "authors": [
+    "Yifei Wang",
+    "Yuyang Wu",
+    "Zeming Wei",
+    "Stefanie Jegelka",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bPvmY5agQ0",
+   "pdf_url": "https://openreview.net/pdf?id=bPvmY5agQ0"
+  },
+  {
+   "title": "Active Preference Optimization for Sample Efficient RLHF",
+   "authors": [
+    "Nirjhar Das",
+    "Souradip Chakraborty",
+    "Aldo Pacchiano",
+    "Sayak Ray Chowdhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uSCvfYNn0s",
+   "pdf_url": "https://openreview.net/pdf?id=uSCvfYNn0s"
+  },
+  {
+   "title": "Attention Is All You Need But You Don’t Need All Of It For Inference of Large Language Models",
+   "authors": [
+    "Georgy Tyukin",
+    "Gbetondji Jean-Sebastien Dovonon",
+    "Jean Kaddour",
+    "Pasquale Minervini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QSCU5YFqbM",
+   "pdf_url": "https://openreview.net/pdf?id=QSCU5YFqbM"
+  },
+  {
+   "title": "Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement",
+   "authors": [
+    "Yunzhen Feng",
+    "Elvis Dohmatob",
+    "Pu Yang",
+    "Francois Charton",
+    "Julia Kempe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iqoqtNyVta",
+   "pdf_url": "https://openreview.net/pdf?id=iqoqtNyVta"
+  },
+  {
+   "title": "Decoding-Time Language Model Alignment with Multiple Objectives",
+   "authors": [
+    "Ruizhe Shi",
+    "Yifang Chen",
+    "Yushi Hu",
+    "Alisa Liu",
+    "Hannaneh Hajishirzi",
+    "Noah A. Smith",
+    "Simon Shaolei Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RmGvEmttB7",
+   "pdf_url": "https://openreview.net/pdf?id=RmGvEmttB7"
+  },
+  {
+   "title": "Detrimental Memories in Transfer Learning",
+   "authors": [
+    "Amal Alnouri",
+    "Timothy J Wroge",
+    "Bilal Alsallakh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mALjVQZV8N",
+   "pdf_url": "https://openreview.net/pdf?id=mALjVQZV8N"
+  },
+  {
+   "title": "Do LLM Agents Have Regret? A Case Study in Online Learning and Games",
+   "authors": [
+    "Chanwoo Park",
+    "Xiangyu Liu",
+    "Asuman E. Ozdaglar",
+    "Kaiqing Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H7wgwoXfaA",
+   "pdf_url": "https://openreview.net/pdf?id=H7wgwoXfaA"
+  },
+  {
+   "title": "Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers",
+   "authors": [
+    "Yibo Jiang",
+    "Goutham Rajendran",
+    "Pradeep Kumar Ravikumar",
+    "Bryon Aragam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pAMbTXnBO0",
+   "pdf_url": "https://openreview.net/pdf?id=pAMbTXnBO0"
+  },
+  {
+   "title": "Efficient Document Ranking with Learnable Late Interactions",
+   "authors": [
+    "Himanshu Jain",
+    "Ziwei Ji",
+    "Sashank J. Reddi",
+    "Ankit Singh Rawat",
+    "Felix Yu",
+    "Aditya Krishna Menon",
+    "Sadeep Jayasumana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ryWMImTdhJ",
+   "pdf_url": "https://openreview.net/pdf?id=ryWMImTdhJ"
+  },
+  {
+   "title": "Fast Machine Unlearning via Robust Training",
+   "authors": [
+    "Youssef Allouah",
+    "Joshua Kazdan",
+    "Rachid Guerraoui",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hqGqoj0ClN",
+   "pdf_url": "https://openreview.net/pdf?id=hqGqoj0ClN"
+  },
+  {
+   "title": "Fine-Tuning Large Language Models with User-Level Differential Privacy",
+   "authors": [
+    "Zachary Charles",
+    "Arun Ganesh",
+    "Ryan McKenna",
+    "Hugh Brendan McMahan",
+    "Nicole Elyse Mitchell",
+    "Krishna Pillutla",
+    "J Keith Rush"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pb7TFHQtjw",
+   "pdf_url": "https://openreview.net/pdf?id=Pb7TFHQtjw"
+  },
+  {
+   "title": "Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models",
+   "authors": [
+    "Adway Girish",
+    "Alliot Nagle",
+    "Ashok Vardhan Makkuva",
+    "Marco Bondaschi",
+    "Michael Gastpar",
+    "Hyeji Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ecmrk5PEjy",
+   "pdf_url": "https://openreview.net/pdf?id=ecmrk5PEjy"
+  },
+  {
+   "title": "Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment",
+   "authors": [
+    "Jiaxiang Li",
+    "Siliang Zeng",
+    "Hoi To Wai",
+    "Chenliang Li",
+    "Alfredo Garcia",
+    "Mingyi Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xmFHPCU1rY",
+   "pdf_url": "https://openreview.net/pdf?id=xmFHPCU1rY"
+  },
+  {
+   "title": "Hallmarks of Optimization Trajectories in Neural Networks and LLMs: Directional Exploration and Redundancy",
+   "authors": [
+    "Sidak Pal Singh",
+    "Bobby He",
+    "Thomas Hofmann",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T24VrBNQD3",
+   "pdf_url": "https://openreview.net/pdf?id=T24VrBNQD3"
+  },
+  {
+   "title": "How Do Nonlinear Transformers Acquire Generalization-Guaranteed CoT Ability?",
+   "authors": [
+    "Hongkang Li",
+    "Meng Wang",
+    "Songtao Lu",
+    "Xiaodong Cui",
+    "Pin-Yu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HizDrDvxLP",
+   "pdf_url": "https://openreview.net/pdf?id=HizDrDvxLP"
+  },
+  {
+   "title": "How Do Transformers Fill in the Blanks? A Case Study on Matrix Completion",
+   "authors": [
+    "Pulkit Gopalani",
+    "Ekdeep Singh Lubana",
+    "Wei Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nHLLbHgOJ7",
+   "pdf_url": "https://openreview.net/pdf?id=nHLLbHgOJ7"
+  },
+  {
+   "title": "How Transformers Learn Diverse Attention Correlations in Masked Vision Pretraining",
+   "authors": [
+    "Yu Huang",
+    "Zixin Wen",
+    "Yuejie Chi",
+    "Yingbin Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vCoU3hq3bZ",
+   "pdf_url": "https://openreview.net/pdf?id=vCoU3hq3bZ"
+  },
+  {
+   "title": "How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression",
+   "authors": [
+    "Xingwu Chen",
+    "Lei Zhao",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jf3cUzHNGQ",
+   "pdf_url": "https://openreview.net/pdf?id=jf3cUzHNGQ"
+  },
+  {
+   "title": "Implementability of Information Elicitation Mechanisms with Pre-Trained Language Models",
+   "authors": [
+    "Zachary Robertson",
+    "Hannah Cha",
+    "Andrew Sheha",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QqMnRGlRJk",
+   "pdf_url": "https://openreview.net/pdf?id=QqMnRGlRJk"
+  },
+  {
+   "title": "Implicit Optimization Bias of Next-token Prediction in Linear Models",
+   "authors": [
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bumn03wydT",
+   "pdf_url": "https://openreview.net/pdf?id=bumn03wydT"
+  },
+  {
+   "title": "Implicit Regularization of Sharpness-Aware Minimization for Scale-Invariant Problems",
+   "authors": [
+    "Bingcong Li",
+    "Liang Zhang",
+    "Niao He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=chI7jvNkwK",
+   "pdf_url": "https://openreview.net/pdf?id=chI7jvNkwK"
+  },
+  {
+   "title": "ImportanceWeighted Multi-Draft Speculative Sampling",
+   "authors": [
+    "Ashish J Khisti",
+    "Arash Behravesh",
+    "Hassan Dbouk",
+    "Arash Behboodi",
+    "Roland Memisevic",
+    "Christos Louizos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BhE1AvOT7s",
+   "pdf_url": "https://openreview.net/pdf?id=BhE1AvOT7s"
+  },
+  {
+   "title": "In-Context Learning from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Training Data Structure",
+   "authors": [
+    "Kevin Christian Wibisono",
+    "Yixin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=55DHL6rJwK",
+   "pdf_url": "https://openreview.net/pdf?id=55DHL6rJwK"
+  },
+  {
+   "title": "In-Context Learning with Representations: Contextual Generalization of Trained Transformers",
+   "authors": [
+    "Tong Yang",
+    "Yu Huang",
+    "Yingbin Liang",
+    "Yuejie Chi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fShWHkLX3o",
+   "pdf_url": "https://openreview.net/pdf?id=fShWHkLX3o"
+  },
+  {
+   "title": "Local to Global: Learning Dynamics and Effect of Initialization for Transformers",
+   "authors": [
+    "Ashok Vardhan Makkuva",
+    "Marco Bondaschi",
+    "Chanakya Ekbote",
+    "Adway Girish",
+    "Alliot Nagle",
+    "Hyeji Kim",
+    "Michael Gastpar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OYoCJPwbfC",
+   "pdf_url": "https://openreview.net/pdf?id=OYoCJPwbfC"
+  },
+  {
+   "title": "Meta-optimization for Deep Learning via Nonstochastic Control",
+   "authors": [
+    "Xinyi Chen",
+    "Evan Dogariu",
+    "Zhou Lu",
+    "Elad Hazan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pnztIkduMn",
+   "pdf_url": "https://openreview.net/pdf?id=pnztIkduMn"
+  },
+  {
+   "title": "Mission Impossible: A Statistical Perspective on Jailbreaking LLMs",
+   "authors": [
+    "Jingtong Su",
+    "Julia Kempe",
+    "Karen Ullrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zsFDswUZBA",
+   "pdf_url": "https://openreview.net/pdf?id=zsFDswUZBA"
+  },
+  {
+   "title": "Modeling the Plurality of Human Preferences via Ideal Points",
+   "authors": [
+    "Daiwei Chen",
+    "Yi Chen",
+    "Aniket Rege",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qfhBieX3jv",
+   "pdf_url": "https://openreview.net/pdf?id=qfhBieX3jv"
+  },
+  {
+   "title": "Models That Prove Their Own Correctness",
+   "authors": [
+    "Noga Amit",
+    "Shafi Goldwasser",
+    "Orr Paradise",
+    "Guy N. Rothblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yCm00lPmBo",
+   "pdf_url": "https://openreview.net/pdf?id=yCm00lPmBo"
+  },
+  {
+   "title": "MSAMamba: Adapting Subquadratic Models To Long-Context DNA MSA Analysis",
+   "authors": [
+    "Vishrut Thoutam",
+    "Dina Ellsworth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PogdVDgGFT",
+   "pdf_url": "https://openreview.net/pdf?id=PogdVDgGFT"
+  },
+  {
+   "title": "Multilingual Compression Parity: How Efficiently Large Language Models Represent Information Across Languages?",
+   "authors": [
+    "Alexander Tsvetkov",
+    "Alon Kipnis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZt1WbkCiT",
+   "pdf_url": "https://openreview.net/pdf?id=LZt1WbkCiT"
+  },
+  {
+   "title": "On Provable Length and Compositional Generalization",
+   "authors": [
+    "Kartik Ahuja",
+    "Amin Mansouri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xuwtmXiHMT",
+   "pdf_url": "https://openreview.net/pdf?id=xuwtmXiHMT"
+  },
+  {
+   "title": "On the Power of Convolution Augmented Transformer",
+   "authors": [
+    "Mingchen Li",
+    "Xuechen Zhang",
+    "Yixiao Huang",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NE0fWjq928",
+   "pdf_url": "https://openreview.net/pdf?id=NE0fWjq928"
+  },
+  {
+   "title": "One-Shot Safety Alignment for Large Language Models via Optimal Dualization",
+   "authors": [
+    "Xinmeng Huang",
+    "Shuo Li",
+    "Edgar Dobriban",
+    "Osbert Bastani",
+    "Hamed Hassani",
+    "Dongsheng Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7rKQ2kVPpd",
+   "pdf_url": "https://openreview.net/pdf?id=7rKQ2kVPpd"
+  },
+  {
+   "title": "PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models",
+   "authors": [
+    "Junsong Chen",
+    "Simian Luo",
+    "Enze Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dyi0hXiQ9R",
+   "pdf_url": "https://openreview.net/pdf?id=Dyi0hXiQ9R"
+  },
+  {
+   "title": "Preference Learning Algorithms Do Not Learn Preference Rankings",
+   "authors": [
+    "Angelica Chen",
+    "Sadhika Malladi",
+    "Lily H Zhang",
+    "Xinyi Chen",
+    "Qiuyi Zhang",
+    "Rajesh Ranganath",
+    "Kyunghyun Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OeDz9gPN0h",
+   "pdf_url": "https://openreview.net/pdf?id=OeDz9gPN0h"
+  },
+  {
+   "title": "Progressive distillation improves feature learning via implicit curriculum",
+   "authors": [
+    "Abhishek Panigrahi",
+    "Bingbin Liu",
+    "Sadhika Malladi",
+    "Andrej Risteski",
+    "Surbhi Goel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6389TDcgOo",
+   "pdf_url": "https://openreview.net/pdf?id=6389TDcgOo"
+  },
+  {
+   "title": "Rethinking Invariance in In-context Learning",
+   "authors": [
+    "Lizhe Fang",
+    "Yifei Wang",
+    "Khashayar Gatmiry",
+    "Lei Fang",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xSDqxxILWg",
+   "pdf_url": "https://openreview.net/pdf?id=xSDqxxILWg"
+  },
+  {
+   "title": "RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation",
+   "authors": [
+    "Chanwoo Park",
+    "Mingyang Liu",
+    "Dingwen Kong",
+    "Kaiqing Zhang",
+    "Asuman E. Ozdaglar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8XI7AGByAp",
+   "pdf_url": "https://openreview.net/pdf?id=8XI7AGByAp"
+  },
+  {
+   "title": "SAIL: Self-improving Efficient Online Alignment of Large Language Models",
+   "authors": [
+    "Mucong Ding",
+    "Souradip Chakraborty",
+    "Vibhu Agrawal",
+    "Zora Che",
+    "Alec Koppel",
+    "Mengdi Wang",
+    "Amrit Bedi",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9m8dF6oAsd",
+   "pdf_url": "https://openreview.net/pdf?id=9m8dF6oAsd"
+  },
+  {
+   "title": "Self-Play Preference Optimization for Language Model Alignment",
+   "authors": [
+    "Yue Wu",
+    "Zhiqing Sun",
+    "Huizhuo Yuan",
+    "Kaixuan Ji",
+    "Yiming Yang",
+    "Quanquan Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cY2oerMjcW",
+   "pdf_url": "https://openreview.net/pdf?id=cY2oerMjcW"
+  },
+  {
+   "title": "Setting the Record Straight on Transformer Oversmoothing",
+   "authors": [
+    "Gbetondji Jean-Sebastien Dovonon",
+    "Michael M. Bronstein",
+    "Matt Kusner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PxtmoC24yJ",
+   "pdf_url": "https://openreview.net/pdf?id=PxtmoC24yJ"
+  },
+  {
+   "title": "Sparse network initialization using deterministic Ramanujan graphs",
+   "authors": [
+    "Arindam Biswas",
+    "Suryam Arnav Kalra",
+    "Pabitra Mitra",
+    "BISWAJIT BASU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MehPKPYbLA",
+   "pdf_url": "https://openreview.net/pdf?id=MehPKPYbLA"
+  },
+  {
+   "title": "State Space Models are Comparable to Transformers in Estimating Functions with Dynamic Smoothness",
+   "authors": [
+    "Naoki Nishikawa",
+    "Taiji Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t7a9R0fIMC",
+   "pdf_url": "https://openreview.net/pdf?id=t7a9R0fIMC"
+  },
+  {
+   "title": "The Geometry of Categorical and Hierarchical Concepts in Large Language Models",
+   "authors": [
+    "Kiho Park",
+    "Yo Joong Choe",
+    "Yibo Jiang",
+    "Victor Veitch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ydxUTXxdJk",
+   "pdf_url": "https://openreview.net/pdf?id=ydxUTXxdJk"
+  },
+  {
+   "title": "Transformer Designs for In-Context Learning in Foundation Models for Time Series Forecasting with Covariates",
+   "authors": [
+    "Afrin Dange",
+    "Vaibhav Raj",
+    "Praneeth Netrapalli",
+    "Sunita Sarawagi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cEMQhGJfcP",
+   "pdf_url": "https://openreview.net/pdf?id=cEMQhGJfcP"
+  },
+  {
+   "title": "Transformer Efficiently Learns Low-dimensional Target Functions In-context",
+   "authors": [
+    "Yujin Song",
+    "Denny Wu",
+    "Kazusato Oko",
+    "Taiji Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hlcmJRzuUG",
+   "pdf_url": "https://openreview.net/pdf?id=hlcmJRzuUG"
+  },
+  {
+   "title": "Transformers are Minimax Optimal Nonparametric In-Context Learners",
+   "authors": [
+    "Juno Kim",
+    "Tai Nakamaki",
+    "Taiji Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WZyWbtu39H",
+   "pdf_url": "https://openreview.net/pdf?id=WZyWbtu39H"
+  },
+  {
+   "title": "Transformers need glasses! Information over-squashing in language tasks",
+   "authors": [
+    "Federico Barbero",
+    "Andrea Banino",
+    "Steven Kapturowski",
+    "Dharshan Kumaran",
+    "João Guilherme Madeira Araújo",
+    "Alex Vitvitskyi",
+    "Razvan Pascanu",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPEfOzN6ZY",
+   "pdf_url": "https://openreview.net/pdf?id=qPEfOzN6ZY"
+  },
+  {
+   "title": "Unavoidable Learning Constraints Alter the Foundations of Direct Preference Optimization",
+   "authors": [
+    "David Wipf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kofno31ckd",
+   "pdf_url": "https://openreview.net/pdf?id=Kofno31ckd"
+  },
+  {
+   "title": "Understanding and Minimising Outlier Features in Neural Network Training",
+   "authors": [
+    "Bobby He",
+    "Lorenzo Noci",
+    "Daniele Paliotta",
+    "Imanol Schlag",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fGpM8aBY1K",
+   "pdf_url": "https://openreview.net/pdf?id=fGpM8aBY1K"
+  },
+  {
+   "title": "Understanding and Mitigating Tokenization Bias in Language Models",
+   "authors": [
+    "Buu Phan",
+    "Marton Havasi",
+    "Matthew J. Muckley",
+    "Karen Ullrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OqfdrBj1y1",
+   "pdf_url": "https://openreview.net/pdf?id=OqfdrBj1y1"
+  },
+  {
+   "title": "Understanding the Role of Equivariance in Self-supervised Learning",
+   "authors": [
+    "Yifei Wang",
+    "Kaiwen Hu",
+    "Sharut Gupta",
+    "Ziyu Ye",
+    "Yisen Wang",
+    "Stefanie Jegelka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yLpuruMZHE",
+   "pdf_url": "https://openreview.net/pdf?id=yLpuruMZHE"
+  },
+  {
+   "title": "Unified Taxonomy in AI Safety: Watermarks, Adversarial Defenses, and Transferable Attacks",
+   "authors": [
+    "Grzegorz Gluch",
+    "Sai Ganesh Nagarajan",
+    "Berkant Turan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WMaFRiggwV",
+   "pdf_url": "https://openreview.net/pdf?id=WMaFRiggwV"
+  },
+  {
+   "title": "Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models",
+   "authors": [
+    "Sanae Lotfi",
+    "Yilun Kuang",
+    "Marc Anton Finzi",
+    "Brandon Amos",
+    "Micah Goldblum",
+    "Andrew Gordon Wilson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cQWsTeTSkZ",
+   "pdf_url": "https://openreview.net/pdf?id=cQWsTeTSkZ"
+  },
+  {
+   "title": "Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers",
+   "authors": [
+    "Siyu Chen",
+    "Heejune Sheen",
+    "Tianhao Wang",
+    "Zhuoran Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PY9GJihfl7",
+   "pdf_url": "https://openreview.net/pdf?id=PY9GJihfl7"
+  },
+  {
+   "title": "Zero-Shot Generalization of GNNs over Distinct Attribute Domains",
+   "authors": [
+    "Yangyi Shen",
+    "Beatrice Bevilacqua",
+    "Joshua Robinson",
+    "Charilaos Kanatsoulis",
+    "Jure Leskovec",
+    "Bruno Ribeiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W4Q4SwCjgY",
+   "pdf_url": "https://openreview.net/pdf?id=W4Q4SwCjgY"
+  }
+ ]
+}

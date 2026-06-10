@@ -1,0 +1,404 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/CCFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:33.722Z",
+ "paper_count": 34,
+ "papers": [
+  {
+   "title": "Balancing Synthetic Data and Replay for Enhancing Task-Specific Capabilities",
+   "authors": [
+    "Urs Spiegelhalter",
+    "Jörg K.H. Franke",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1eBJJMGDwa",
+   "pdf_url": "https://openreview.net/pdf?id=1eBJJMGDwa"
+  },
+  {
+   "title": "Continual Learning of Domain Knowledge from Human Feedback in Text-to-SQL",
+   "authors": [
+    "Thomas Cook",
+    "Kelly Patel",
+    "Sivapriya Vellaichamy",
+    "Saba Rahimi",
+    "Zhen Zeng",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d98kSd3taW",
+   "pdf_url": "https://openreview.net/pdf?id=d98kSd3taW"
+  },
+  {
+   "title": "Continual Pre-training of MoEs: How robust is your router?",
+   "authors": [
+    "Benjamin Thérien",
+    "Charles-Étienne Joseph",
+    "Zain Sarwar",
+    "Ashwinee Panda",
+    "Anirban Das",
+    "Shi-Xiong Zhang",
+    "Stephen Rawls",
+    "Sambit Sahu",
+    "Eugene Belilovsky",
+    "Irina Rish"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TKJAZh4SXA",
+   "pdf_url": "https://openreview.net/pdf?id=TKJAZh4SXA"
+  },
+  {
+   "title": "Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection",
+   "authors": [
+    "Mohammad Mahdi Moradi",
+    "Hossam Amer",
+    "Sudhir Mudur",
+    "Weiwei Zhang",
+    "Yang Liu",
+    "Walid Ahmed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6ahliSpvQ0",
+   "pdf_url": "https://openreview.net/pdf?id=6ahliSpvQ0"
+  },
+  {
+   "title": "CurLL: Curriculum Learning of Language Models",
+   "authors": [
+    "Pavan Kalyan Tankala",
+    "Shubhra Mishra",
+    "Satya Lokam",
+    "Navin Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nGLgLTu9eg",
+   "pdf_url": "https://openreview.net/pdf?id=nGLgLTu9eg"
+  },
+  {
+   "title": "Curriculum Learning as Transport: Training Along Wasserstein Geodesics",
+   "authors": [
+    "Changho Shin",
+    "David Alvarez-Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vksN9ocqqh",
+   "pdf_url": "https://openreview.net/pdf?id=vksN9ocqqh"
+  },
+  {
+   "title": "Do Language Models Robustly Acquire New Knowledge?",
+   "authors": [
+    "Harshay Shah",
+    "Badih Ghazi",
+    "Yangsibo Huang",
+    "Ravi Kumar",
+    "Da Yu",
+    "Chiyuan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8NQPcdw7ja",
+   "pdf_url": "https://openreview.net/pdf?id=8NQPcdw7ja"
+  },
+  {
+   "title": "ELLA: Efficient Lifelong Learning for Adapters in Large Language Models",
+   "authors": [
+    "Shristi Das Biswas",
+    "Yue Zhang",
+    "Anwesan Pal",
+    "Radhika Bhargava",
+    "Kaushik Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A0XWBtBfFU",
+   "pdf_url": "https://openreview.net/pdf?id=A0XWBtBfFU"
+  },
+  {
+   "title": "Embedding‑to‑Prefix: Continual Personalization with Large Language Models",
+   "authors": [
+    "Bernd Huber",
+    "Ghazal Fazelnia",
+    "Andreas Damianou",
+    "Sebastian Peleato",
+    "Maksym Lefarov",
+    "Praveen Chandar",
+    "Marco De Nadai",
+    "Mounia Lalmas",
+    "Paul N. Bennett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f2bUGyJMX4",
+   "pdf_url": "https://openreview.net/pdf?id=f2bUGyJMX4"
+  },
+  {
+   "title": "EWC-Guided Diffusion Replay for Exemplar-Free Continual Learning in Medical Imaging",
+   "authors": [
+    "Anoushka Harit",
+    "William Prew",
+    "Zhongtian Sun",
+    "Florian Markowetz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KOX8YBcdjR",
+   "pdf_url": "https://openreview.net/pdf?id=KOX8YBcdjR"
+  },
+  {
+   "title": "Exploring Continual Distillation of Teachers from Different Domains",
+   "authors": [
+    "Nicolas Michel",
+    "Maorong Wang",
+    "Jiangpeng He",
+    "Toshihiko Yamasaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FDKI0KU7Dc",
+   "pdf_url": "https://openreview.net/pdf?id=FDKI0KU7Dc"
+  },
+  {
+   "title": "Exploring The Effectiveness of Test Time Learning In LLMs for Long Contexts",
+   "authors": [
+    "Nizar Islah",
+    "Irina Rish",
+    "Eilif B. Muller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IsbtaJ3IrJ",
+   "pdf_url": "https://openreview.net/pdf?id=IsbtaJ3IrJ"
+  },
+  {
+   "title": "Harnessing Quantum Principles for Parameter-Efficient Continual Learning",
+   "authors": [
+    "Xiaobing Yu",
+    "Weiwei Ma",
+    "Jin Yang",
+    "Peijie Qiu",
+    "Xiao Wu",
+    "Pan Xiao",
+    "Xiaofeng Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fUhf3SZcdU",
+   "pdf_url": "https://openreview.net/pdf?id=fUhf3SZcdU"
+  },
+  {
+   "title": "HyperAdapt: Simple High-Rank Adaptation",
+   "authors": [
+    "Abel Gurung",
+    "Joseph Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qXUZ5ndtBR",
+   "pdf_url": "https://openreview.net/pdf?id=qXUZ5ndtBR"
+  },
+  {
+   "title": "Information-Geometric Perspectives on Merging Variational Foundation Models",
+   "authors": [
+    "Nour Jamoussi",
+    "Giuseppe Serra",
+    "Photios A. Stavrou",
+    "Marios Kountouris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=efn2tH86Gf",
+   "pdf_url": "https://openreview.net/pdf?id=efn2tH86Gf"
+  },
+  {
+   "title": "IPA: An Information-Preserving Input Projection Framework for Model Adaptation",
+   "authors": [
+    "Yuan Yin",
+    "Shashanka Venkataramanan",
+    "Tuan-Hung Vu",
+    "Andrei Bursuc",
+    "Matthieu Cord"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZJqhsEETC9",
+   "pdf_url": "https://openreview.net/pdf?id=ZJqhsEETC9"
+  },
+  {
+   "title": "Mapping Post-Training Forgetting in Language Models at Scale",
+   "authors": [
+    "Jackson Harmon",
+    "Andreas Hochlehnert",
+    "Matthias Bethge",
+    "Ameya Prabhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=znzsM56COB",
+   "pdf_url": "https://openreview.net/pdf?id=znzsM56COB"
+  },
+  {
+   "title": "Per-Axis Weight Deltas for Frequent Model Updates",
+   "authors": [
+    "Stefan Kuyumdzhiev",
+    "Radostin Cholakov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ohIRnuWtSd",
+   "pdf_url": "https://openreview.net/pdf?id=ohIRnuWtSd"
+  },
+  {
+   "title": "Pre-training Limited Memory Language Models with Internal and External Knowledge",
+   "authors": [
+    "Linxi Zhao",
+    "Sofian Zalouk",
+    "Christian Belardi",
+    "Justin Lovelace",
+    "Jin Peng Zhou",
+    "Kilian Q Weinberger",
+    "Yoav Artzi",
+    "Jennifer J. Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YIAdhVpXPh",
+   "pdf_url": "https://openreview.net/pdf?id=YIAdhVpXPh"
+  },
+  {
+   "title": "Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation Awareness",
+   "authors": [
+    "Lang Xiong",
+    "Nishant Bhargava",
+    "Jeremy Chang",
+    "Jianhang Hong",
+    "Haihao Liu",
+    "Vasu Sharma",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xsF0XtBkmq",
+   "pdf_url": "https://openreview.net/pdf?id=xsF0XtBkmq"
+  },
+  {
+   "title": "PTPP-Aware Adaptation Scaling Laws: Predicting Domain-Adaptation Performance at Unseen Pre-Training Budgets",
+   "authors": [
+    "Etienne Goffinet",
+    "Shane Bergsma",
+    "Avraham Sheinin",
+    "Natalia Vassilieva",
+    "Preslav Nakov",
+    "Gurpreet Gosal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2u1xaPgbnU",
+   "pdf_url": "https://openreview.net/pdf?id=2u1xaPgbnU"
+  },
+  {
+   "title": "Retrieval Capabilities of Large Language Models Scale with Pretraining FLOPs",
+   "authors": [
+    "Jacob Portes",
+    "Connor Jennings",
+    "Erica Ji Yuen",
+    "Sasha Doubov",
+    "Michael Carbin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5p2Cko6xUl",
+   "pdf_url": "https://openreview.net/pdf?id=5p2Cko6xUl"
+  },
+  {
+   "title": "Revisiting Warm-Start Training: No Generalization Loss under Standard Training Schemes",
+   "authors": [
+    "Hongjoon Ahn",
+    "Jinu Hyeon",
+    "Hyeonseop Shin",
+    "Taesup Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=243zzBgRLm",
+   "pdf_url": "https://openreview.net/pdf?id=243zzBgRLm"
+  },
+  {
+   "title": "RL's Razor: Why On-Policy Reinforcement Learning Forgets Less",
+   "authors": [
+    "Idan Shenfeld",
+    "Jyothish Pari",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GO0X9nQot3",
+   "pdf_url": "https://openreview.net/pdf?id=GO0X9nQot3"
+  },
+  {
+   "title": "Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization",
+   "authors": [
+    "Filip Sondej",
+    "Yushi Yang",
+    "Mikolaj Kniejski",
+    "Marcel Windys"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AIfgTZRdWM",
+   "pdf_url": "https://openreview.net/pdf?id=AIfgTZRdWM"
+  },
+  {
+   "title": "Sample-Efficient Parametric Learning from Natural Language",
+   "authors": [
+    "Parth Asawa",
+    "Alex Dimakis",
+    "Matei Zaharia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aSlqvOkS8U",
+   "pdf_url": "https://openreview.net/pdf?id=aSlqvOkS8U"
+  },
+  {
+   "title": "Sculpting [CLS] Features for Foundation Model-Based Class-Incremental Learning",
+   "authors": [
+    "Murat Onur Yildirim",
+    "Elif Ceren Gok Yildirim",
+    "Joaquin Vanschoren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vwEGYYAyzP",
+   "pdf_url": "https://openreview.net/pdf?id=vwEGYYAyzP"
+  },
+  {
+   "title": "Slim Adaptation Modules: A Simple yet Strong Baseline for Continual Foundation Models",
+   "authors": [
+    "Elif Ceren Gok Yildirim",
+    "Murat Onur Yildirim",
+    "Joaquin Vanschoren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xTsKOrDDcV",
+   "pdf_url": "https://openreview.net/pdf?id=xTsKOrDDcV"
+  },
+  {
+   "title": "Specialization after Generalization: Towards Understanding Test-Time Training in Foundation Models",
+   "authors": [
+    "Jonas Hübotter",
+    "Patrik Wolf",
+    "Aleksandr Shevchenko",
+    "Dennis Jüni",
+    "Andreas Krause",
+    "Gil Kur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7XcO3ICFjG",
+   "pdf_url": "https://openreview.net/pdf?id=7XcO3ICFjG"
+  },
+  {
+   "title": "TEMPiRL: Foundational Compounding Temporal Drift Theory for Temporal-Graph Adaptation in Large Language Models",
+   "authors": [
+    "Arnav Sharma",
+    "Karthik Srikumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dux58yUgUC",
+   "pdf_url": "https://openreview.net/pdf?id=Dux58yUgUC"
+  },
+  {
+   "title": "Unlearning That Lasts: Utility-Preserving, Robust, and almost Irreversible Forgetting in LLMs",
+   "authors": [
+    "Naman Deep Singh",
+    "Maximilian Müller",
+    "Francesco Croce",
+    "Matthias Hein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bl8lQupaKW",
+   "pdf_url": "https://openreview.net/pdf?id=bl8lQupaKW"
+  },
+  {
+   "title": "Vocabulary Customization for Efficient Domain‑Specific LLM Deployment",
+   "authors": [
+    "Christian Herold",
+    "Michael Kozielski",
+    "Nicholas Santavas",
+    "Yannick Versley",
+    "Shahram Khadivi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t76J1Mczom",
+   "pdf_url": "https://openreview.net/pdf?id=t76J1Mczom"
+  },
+  {
+   "title": "When Data Falls Short: Grokking Below the Critical Threshold",
+   "authors": [
+    "Vaibhav Singh",
+    "Eugene Belilovsky",
+    "Rahaf Aljundi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y30qd5Nakq",
+   "pdf_url": "https://openreview.net/pdf?id=y30qd5Nakq"
+  },
+  {
+   "title": "When Less is More: 8-bit Quantization Improves Continual Learning in Large Language Models",
+   "authors": [
+    "Michael Shihong Zhang",
+    "Rishi Adi Ruia",
+    "Arnav Kewalram",
+    "Saathvik Dharmapuram",
+    "Utkarsh Sharma",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kgfTFgPxQ9",
+   "pdf_url": "https://openreview.net/pdf?id=kgfTFgPxQ9"
+  }
+ ]
+}

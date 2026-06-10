@@ -1,0 +1,957 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/AIM-FM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:17.488Z",
+ "paper_count": 81,
+ "papers": [
+  {
+   "title": "A Benchmark for Long-Form Medical Question Answering",
+   "authors": [
+    "Pedram Hosseini",
+    "Jessica M. Sin",
+    "Bing Ren",
+    "Bryceton G. Thomas",
+    "Elnaz Nouri",
+    "Ali Farahanchi",
+    "Saeed Hassanpour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Qba6OeW9a",
+   "pdf_url": "https://openreview.net/pdf?id=8Qba6OeW9a"
+  },
+  {
+   "title": "A self-supervised framework for learning whole slide representations",
+   "authors": [
+    "Xinhai Hou",
+    "Cheng Jiang",
+    "Akhil Kondepudi",
+    "Yiwei Lyu",
+    "Asadur Zaman Chowdury",
+    "Honglak Lee",
+    "Todd C Hollon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JHZfCc0kt5",
+   "pdf_url": "https://openreview.net/pdf?id=JHZfCc0kt5"
+  },
+  {
+   "title": "A Self-Supervised Model for Multi-modal Stroke Risk Prediction",
+   "authors": [
+    "Camille Delgrange",
+    "Olga V. Demler",
+    "Samia Mora",
+    "bjoern menze",
+    "Ezequiel De la Rosa",
+    "Neda Davoudi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ST72dbOvwx",
+   "pdf_url": "https://openreview.net/pdf?id=ST72dbOvwx"
+  },
+  {
+   "title": "A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis",
+   "authors": [
+    "Yue Yang",
+    "Mona Gandhi",
+    "Yufei Wang",
+    "Yifan Wu",
+    "Michael S Yao",
+    "Chris Callison-Burch",
+    "James Gee",
+    "Mark Yatskar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OV6WbQFmOr",
+   "pdf_url": "https://openreview.net/pdf?id=OV6WbQFmOr"
+  },
+  {
+   "title": "Adaptive Reasoning and Acting in Medical Language Agents",
+   "authors": [
+    "Abhishek Dutta",
+    "Yen-Che Hsiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oqu1ZrZNbb",
+   "pdf_url": "https://openreview.net/pdf?id=oqu1ZrZNbb"
+  },
+  {
+   "title": "An Autonomous Dual-channel Entity Recognition Method for Chinese Acupuncture",
+   "authors": [
+    "Changshuai Zhang",
+    "Yuxin Zhang",
+    "Wenjun Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MLM7PCI3pB",
+   "pdf_url": "https://openreview.net/pdf?id=MLM7PCI3pB"
+  },
+  {
+   "title": "Anatomical 3D Style Transfer Enabling Efficient Federated Learning with Extremely Low Communication Costs",
+   "authors": [
+    "Yuto Shibata",
+    "Yasunori Kudo",
+    "Yohei Sugawara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y4meVteVx1",
+   "pdf_url": "https://openreview.net/pdf?id=y4meVteVx1"
+  },
+  {
+   "title": "Application of Contrastive Learning on ECG Data: Evaluating Performance in Japanese and Classification with Around 100 Labels",
+   "authors": [
+    "Junichiro Takahashi",
+    "JingChuan Guan",
+    "Masataka sato",
+    "Kaito Baba",
+    "Kazuto Haruguchi",
+    "Daichi Nagashima",
+    "Satoshi Kodera",
+    "NORIHIKO TAKEDA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KzryCCOrWs",
+   "pdf_url": "https://openreview.net/pdf?id=KzryCCOrWs"
+  },
+  {
+   "title": "Armadillo: Robust Secure Aggregation for Federated Learning with Input Validation",
+   "authors": [
+    "Yiping Ma",
+    "Yue Guo",
+    "Harish Karthikeyan",
+    "Antigoni Polychroniadou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pEBHXDNte5",
+   "pdf_url": "https://openreview.net/pdf?id=pEBHXDNte5"
+  },
+  {
+   "title": "Assessment of Medical Foundation Models for Survival Prediction with Whole Slide Images",
+   "authors": [
+    "Elena Spirina Menand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFUeXBi7Di",
+   "pdf_url": "https://openreview.net/pdf?id=xFUeXBi7Di"
+  },
+  {
+   "title": "ASTRID - An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems",
+   "authors": [
+    "Mohita Chowdhury",
+    "Yajie Vera He",
+    "Ernest Lim",
+    "Aisling Higham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=16auS2jEmU",
+   "pdf_url": "https://openreview.net/pdf?id=16auS2jEmU"
+  },
+  {
+   "title": "Best of Both Worlds: Harmonizing LLM Capabilities in Decision-Making and Question-Answering for Treatment Regimes",
+   "authors": [
+    "Hongxuan Liu",
+    "Zhiyao Luo",
+    "Tingting Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=afu9qhp7md",
+   "pdf_url": "https://openreview.net/pdf?id=afu9qhp7md"
+  },
+  {
+   "title": "Biomedical SAM-2: Segment Anything in Biomedical Images and Videos",
+   "authors": [
+    "Zhiling Yan",
+    "Weixiang Sun",
+    "Rong Zhou",
+    "Zhengqing Yuan",
+    "Kai Zhang",
+    "Yiwei Li",
+    "Sekeun Kim",
+    "Sifan Song",
+    "Hui Ren",
+    "Tianming Liu",
+    "Quanzheng Li",
+    "Xiang Li",
+    "Lifang He",
+    "Lichao Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xaPv4b8z2D",
+   "pdf_url": "https://openreview.net/pdf?id=xaPv4b8z2D"
+  },
+  {
+   "title": "Catching the Spikes:  Heteroscedastic Uncertainty Quantification for Enhanced Malaria Prediction",
+   "authors": [
+    "Feng Chen",
+    "Qi Qi",
+    "Jiayu Qiu",
+    "Kemeng Zhang",
+    "Xiang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AfSxGUAghL",
+   "pdf_url": "https://openreview.net/pdf?id=AfSxGUAghL"
+  },
+  {
+   "title": "Cell Instance Segmentation with Large Vision Model for Circulating Aberrant Cells Identification through Fluorescence In Situ Hybridization Images",
+   "authors": [
+    "Zhenyu REN",
+    "Huajia Wang",
+    "Yinglan Kuang",
+    "Xing Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MfkeKsz5yb",
+   "pdf_url": "https://openreview.net/pdf?id=MfkeKsz5yb"
+  },
+  {
+   "title": "Cell ontology guided transcriptome foundation model",
+   "authors": [
+    "Xinyu Yuan",
+    "Zhihao Zhan",
+    "Zuobai Zhang",
+    "Manqi Zhou",
+    "Jianan Zhao",
+    "Boyu Han",
+    "Yue Li",
+    "Jian Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7rR6RAUaoC",
+   "pdf_url": "https://openreview.net/pdf?id=7rR6RAUaoC"
+  },
+  {
+   "title": "Classification of Melanoma Skin Cancer with Ensemble Learning and Stratified K-Fold Validation",
+   "authors": [
+    "Shanker Ram",
+    "Yajat Nagaraj Kiran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iKBFmG6zVP",
+   "pdf_url": "https://openreview.net/pdf?id=iKBFmG6zVP"
+  },
+  {
+   "title": "Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases",
+   "authors": [
+    "Mercy Nyamewaa Asiedu",
+    "Nenad Tomasev",
+    "Chintan Ghate",
+    "Tiya Tiyasirichokchai",
+    "Awa Dieng",
+    "Geoffrey Siwo",
+    "Steve Adudans",
+    "Oluwatosin Wuraola Akande",
+    "Katherine A Heller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P3y0RnVxNT",
+   "pdf_url": "https://openreview.net/pdf?id=P3y0RnVxNT"
+  },
+  {
+   "title": "Controlling for Unobserved Confounding with Large Language Model Classification of Patient Smoking Status",
+   "authors": [
+    "Samuel Lee",
+    "Zach Wood-Doughty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cMU0bCxC1Q",
+   "pdf_url": "https://openreview.net/pdf?id=cMU0bCxC1Q"
+  },
+  {
+   "title": "Data Adaptive Few-shot Multi-label Segmentation with Foundation Model",
+   "authors": [
+    "Gurunath Reddy",
+    "Dattesh D. Shanbhag",
+    "Deepa Anand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PEYRH1XRg2",
+   "pdf_url": "https://openreview.net/pdf?id=PEYRH1XRg2"
+  },
+  {
+   "title": "DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification",
+   "authors": [
+    "Ying Jin",
+    "Zhuoran Zhou",
+    "Haoquan Fang",
+    "Jenq-Neng Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=usaZldTu1v",
+   "pdf_url": "https://openreview.net/pdf?id=usaZldTu1v"
+  },
+  {
+   "title": "Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning",
+   "authors": [
+    "Xiaodan Xing",
+    "Junzhi Ning",
+    "Yang Nan",
+    "Guang Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ikjMY2zAHO",
+   "pdf_url": "https://openreview.net/pdf?id=ikjMY2zAHO"
+  },
+  {
+   "title": "Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging",
+   "authors": [
+    "Yuzhe Yang",
+    "Yujia Liu",
+    "Xin Liu",
+    "Wei Wu",
+    "Shwetak Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lskRxsyb4l",
+   "pdf_url": "https://openreview.net/pdf?id=lskRxsyb4l"
+  },
+  {
+   "title": "Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources",
+   "authors": [
+    "Issey Sukeda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zQtNbljfK6",
+   "pdf_url": "https://openreview.net/pdf?id=zQtNbljfK6"
+  },
+  {
+   "title": "DiversityMedQA: A Benchmark for Assessing Demographic Biases in Medical Diagnosis using Large Language Models",
+   "authors": [
+    "Rajat Rawat",
+    "Hudson McBride",
+    "Rajarshi Ghosh",
+    "Dhiyaan Chakkresh Nirmal",
+    "Jong Moon",
+    "Dhruv Alamari",
+    "Kevin Zhu",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oKx6TwzJ68",
+   "pdf_url": "https://openreview.net/pdf?id=oKx6TwzJ68"
+  },
+  {
+   "title": "DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing",
+   "authors": [
+    "Alexander Bienstock",
+    "Ujjwal Kumar",
+    "Antigoni Polychroniadou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QIBeslmsgy",
+   "pdf_url": "https://openreview.net/pdf?id=QIBeslmsgy"
+  },
+  {
+   "title": "Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study",
+   "authors": [
+    "Jonah Kömen",
+    "Hannah Marienwald",
+    "Jonas Dippel",
+    "Julius Hense"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ty0ZlJOZQ0",
+   "pdf_url": "https://openreview.net/pdf?id=Ty0ZlJOZQ0"
+  },
+  {
+   "title": "Do Large Language Models have Shared Weaknesses in Medical Question Answering?",
+   "authors": [
+    "Andrew Michael Bean",
+    "Karolina Korgul",
+    "Felix Krones",
+    "Robert McCraith",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZjQ04tsRQl",
+   "pdf_url": "https://openreview.net/pdf?id=ZjQ04tsRQl"
+  },
+  {
+   "title": "Enhancing Interpretability and Fairness in Medical Foundation Models: A Generative Approach for Explainable and Bias-Mitigated Medical Image Analysis",
+   "authors": [
+    "Carlos Minutti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T2wOaTwyk8",
+   "pdf_url": "https://openreview.net/pdf?id=T2wOaTwyk8"
+  },
+  {
+   "title": "Enhancing Medical NLP Systems: Integrating Upstash Vector and BGE-M3 for Accurate and Ethical Healthcare Data Management with Reduced Bias",
+   "authors": [
+    "Binxi Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CazAhuonhf",
+   "pdf_url": "https://openreview.net/pdf?id=CazAhuonhf"
+  },
+  {
+   "title": "Enhancing Trust in AI-Driven Dermatology: CLIP for Explainable Skin Lesion Diagnosis",
+   "authors": [
+    "Sadia Kamal",
+    "Tim Oates"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wG1RIBqybl",
+   "pdf_url": "https://openreview.net/pdf?id=wG1RIBqybl"
+  },
+  {
+   "title": "Explaining Chest X-ray Pathology Models using Textual Concepts",
+   "authors": [
+    "Vijay Sadashivaiah",
+    "Pingkun Yan",
+    "James Hendler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2jCBOYTRvO",
+   "pdf_url": "https://openreview.net/pdf?id=2jCBOYTRvO"
+  },
+  {
+   "title": "Explaining Clusters Using Minimal Weighted Edge Coverage",
+   "authors": [
+    "NIMA SAFAEI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=89ulpsHCvU",
+   "pdf_url": "https://openreview.net/pdf?id=89ulpsHCvU"
+  },
+  {
+   "title": "Exploring Fairness in Long-Term Prediction of Type 2 Diabetes Microvascular Complications",
+   "authors": [
+    "Elizabeth Remfry",
+    "Rafael Henkin",
+    "Zainab Awan",
+    "Rohini Mathur",
+    "Michael R Barnes",
+    "Aakanksha Naik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uIrmnUFwVM",
+   "pdf_url": "https://openreview.net/pdf?id=uIrmnUFwVM"
+  },
+  {
+   "title": "Fairness Of AI Models in vector embedded Chest X-ray representations",
+   "authors": [
+    "Gebreyowhans Hailekiros Bahre",
+    "Hassan Hamidi",
+    "Francesco Calimeri",
+    "Andrew Sellergren",
+    "Leo Anthony Celi",
+    "Laleh Seyyed-Kalantari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ea6fKd679N",
+   "pdf_url": "https://openreview.net/pdf?id=Ea6fKd679N"
+  },
+  {
+   "title": "Federated Self-Supervised Single-cell Clustering of scRNA-seq Data",
+   "authors": [
+    "Shentong Mo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fIuOJnA9Rw",
+   "pdf_url": "https://openreview.net/pdf?id=fIuOJnA9Rw"
+  },
+  {
+   "title": "Gaze-Assisted Medical Image Segmentation",
+   "authors": [
+    "Leila Khaertdinova",
+    "Ilya Pershin",
+    "Tatyana Shmykova",
+    "Bulat Ibragimov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8DpWe1zqQJ",
+   "pdf_url": "https://openreview.net/pdf?id=8DpWe1zqQJ"
+  },
+  {
+   "title": "Generative AI in the Hospital: A Participatory Assessment of Healthcare Needs and Challenges",
+   "authors": [
+    "Giorgia Carra",
+    "Bogdan Kulynych",
+    "François Bastardot",
+    "Noémie Boillat-Blanco",
+    "Jean Louis Raisaro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uu2ZHgPCsu",
+   "pdf_url": "https://openreview.net/pdf?id=Uu2ZHgPCsu"
+  },
+  {
+   "title": "Going beyond H&E and Oncology: how do Histopathology Foundation Models perform for multi-stain IHC & Immunology?",
+   "authors": [
+    "Amaya Gallagher-Syed",
+    "ELENA PONTARINI",
+    "Myles J. Lewis",
+    "Gregory Slabaugh",
+    "Michael R Barnes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sH2AJnCFUD",
+   "pdf_url": "https://openreview.net/pdf?id=sH2AJnCFUD"
+  },
+  {
+   "title": "GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM",
+   "authors": [
+    "Keshav Bimbraw",
+    "Ye Wang",
+    "Jing Liu",
+    "Toshiaki Koike-Akino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k1x4G8NttM",
+   "pdf_url": "https://openreview.net/pdf?id=k1x4G8NttM"
+  },
+  {
+   "title": "Hetero-UNet: Heterogeneous Transformer with Mamba for Medical Image Segmentation",
+   "authors": [
+    "Zhiling Yan",
+    "Yixin Liu",
+    "Xiang Li",
+    "Lichao Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lLc8qTQxuO",
+   "pdf_url": "https://openreview.net/pdf?id=lLc8qTQxuO"
+  },
+  {
+   "title": "How Does Diverse Interpretability of Textual Prompts Impact Medical Vision-Language Zero-Shot Tasks?",
+   "authors": [
+    "Sicheng Wang",
+    "Che Liu",
+    "Rossella Arcucci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KnYz2sz40Y",
+   "pdf_url": "https://openreview.net/pdf?id=KnYz2sz40Y"
+  },
+  {
+   "title": "Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection",
+   "authors": [
+    "Bowen Tian",
+    "Zhengyang Xu",
+    "Zihao Yin",
+    "JingyingWang",
+    "Yutao Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RcRDNHYwNN",
+   "pdf_url": "https://openreview.net/pdf?id=RcRDNHYwNN"
+  },
+  {
+   "title": "Integrating Image Interpretation and Textual Context for Improved Breast Imaging Classification",
+   "authors": [
+    "Halil Ibrahim Gulluk",
+    "Olivier Gevaert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sqom7PZBxe",
+   "pdf_url": "https://openreview.net/pdf?id=Sqom7PZBxe"
+  },
+  {
+   "title": "Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection",
+   "authors": [
+    "Samir Kassam",
+    "Angelo Markham",
+    "Katie Vo",
+    "Yashas Revanakara",
+    "Kevin Zhu",
+    "Michael Lam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eoI9e2puCU",
+   "pdf_url": "https://openreview.net/pdf?id=eoI9e2puCU"
+  },
+  {
+   "title": "JRadiEvo: A Japanese Radiology Report Generation Model  Enhanced by Evolutionary Optimization of Model Merging",
+   "authors": [
+    "Kaito Baba",
+    "Ryota Yagi",
+    "Junichiro Takahashi",
+    "Risa Kishikawa",
+    "Satoshi Kodera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H1osvc7tMP",
+   "pdf_url": "https://openreview.net/pdf?id=H1osvc7tMP"
+  },
+  {
+   "title": "Learning biologically relevant features in a pathology foundation model using sparse autoencoders",
+   "authors": [
+    "Nhat Minh Le",
+    "Neel Patel",
+    "Ciyue Shen",
+    "Blake Martin",
+    "Alfred Eng",
+    "Chintan Shah",
+    "Sean Grullon",
+    "Dinkar Juyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=daV16mhUBd",
+   "pdf_url": "https://openreview.net/pdf?id=daV16mhUBd"
+  },
+  {
+   "title": "Leveraging Multimodal Machine Learning for Predictive Diagnostics of Adolescent Mental Health Disorders",
+   "authors": [
+    "Ankit Rao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fXKvyAKriE",
+   "pdf_url": "https://openreview.net/pdf?id=fXKvyAKriE"
+  },
+  {
+   "title": "Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection",
+   "authors": [
+    "Hooman Ramezani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gSzJIdcPNA",
+   "pdf_url": "https://openreview.net/pdf?id=gSzJIdcPNA"
+  },
+  {
+   "title": "M3H: Multimodal Multitask Machine Learning for Healthcare",
+   "authors": [
+    "Dimitris Bertsimas",
+    "Yu Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rXoQyPYXJ0",
+   "pdf_url": "https://openreview.net/pdf?id=rXoQyPYXJ0"
+  },
+  {
+   "title": "MambaHealth: A Lightweight Foundation Model for Efficient Drug Recommendation",
+   "authors": [
+    "Yuda Wang",
+    "Xuxin He",
+    "Shengxin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LWXi4leVdV",
+   "pdf_url": "https://openreview.net/pdf?id=LWXi4leVdV"
+  },
+  {
+   "title": "Masked Modeling for Single-cell Clustering of scRNA‐seq Data",
+   "authors": [
+    "Shentong Mo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B8w5mh55ZU",
+   "pdf_url": "https://openreview.net/pdf?id=B8w5mh55ZU"
+  },
+  {
+   "title": "Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation",
+   "authors": [
+    "Yuxiang Luo",
+    "Qing Xu",
+    "Jinglei Feng",
+    "Guangwu Qian",
+    "Wenting Duan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZL1Vb8LuE1",
+   "pdf_url": "https://openreview.net/pdf?id=ZL1Vb8LuE1"
+  },
+  {
+   "title": "Medical Imaging Complexity and its Effects on GAN Performance",
+   "authors": [
+    "William Cagas",
+    "Chan Ko",
+    "Blake T. Hsiao",
+    "Shryuk Grandhi",
+    "Rishi Bhattacharya",
+    "Kevin Zhu",
+    "Michael Lam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=67KltRivVe",
+   "pdf_url": "https://openreview.net/pdf?id=67KltRivVe"
+  },
+  {
+   "title": "MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models",
+   "authors": [
+    "Mohammad Shahab Sepehri",
+    "Zalan Fabian",
+    "Maryam Soltanolkotabi",
+    "Mahdi Soltanolkotabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tFoR6yh62F",
+   "pdf_url": "https://openreview.net/pdf?id=tFoR6yh62F"
+  },
+  {
+   "title": "MSA-LM: Integrating DNA-level Inductive Biases into DNA Language Models",
+   "authors": [
+    "Vishrut Thoutam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BKhe0lMV81",
+   "pdf_url": "https://openreview.net/pdf?id=BKhe0lMV81"
+  },
+  {
+   "title": "Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities",
+   "authors": [
+    "Konstantin Hemker",
+    "Nikola Simidjievski",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9cxUBU2NXB",
+   "pdf_url": "https://openreview.net/pdf?id=9cxUBU2NXB"
+  },
+  {
+   "title": "Necessity of Uncertainty Quantification for Audio-driven Healthcare Diagnosis",
+   "authors": [
+    "Shubham Kulkarni",
+    "Hideaki Watanabe",
+    "Fuminori Homma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=auDyPaXbOG",
+   "pdf_url": "https://openreview.net/pdf?id=auDyPaXbOG"
+  },
+  {
+   "title": "Neural machine translation of clinical procedure codes for medical diagnosis and uncertainty quantification",
+   "authors": [
+    "Pei-Hung Chung",
+    "Shuhan He",
+    "Norawit Kijpaisalratana",
+    "Abdel Badih el Ariss",
+    "Byung-Jun Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9YqkMRYRRf",
+   "pdf_url": "https://openreview.net/pdf?id=9YqkMRYRRf"
+  },
+  {
+   "title": "PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals",
+   "authors": [
+    "Ruiyi Wang",
+    "Stephanie Milani",
+    "Jamie C. Chiu",
+    "Jiayin Zhi",
+    "Shaun M. Eack",
+    "Travis Labrum",
+    "Samuel M Murphy",
+    "Nev Jones",
+    "Kate V Hardy",
+    "Hong Shen",
+    "Fei Fang",
+    "Zhiyu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dioZuYsYgS",
+   "pdf_url": "https://openreview.net/pdf?id=dioZuYsYgS"
+  },
+  {
+   "title": "PICASO: Secure Aggregation for Federated Learning with Minimal Synchronization",
+   "authors": [
+    "Harish Karthikeyan",
+    "Antigoni Polychroniadou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B7E7bRB2ry",
+   "pdf_url": "https://openreview.net/pdf?id=B7E7bRB2ry"
+  },
+  {
+   "title": "Precise Lens Status Classification via Projection Tuning for Efficient Adaptation to Data Shifts in Small Cataract Image Datasets",
+   "authors": [
+    "Ji Young Byun",
+    "Jordan M Shuff",
+    "Kunal S Parikh",
+    "Rama Chellappa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMeDPv58rd",
+   "pdf_url": "https://openreview.net/pdf?id=CMeDPv58rd"
+  },
+  {
+   "title": "ProMISe: Promptable Medical Image Segmentation using SAM",
+   "authors": [
+    "Jinfeng Wang",
+    "Sifan Song",
+    "Xinkun Wang",
+    "yiyi wang",
+    "Yiyi Miao",
+    "Jionglong Su",
+    "S Kevin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=apG2vDGpN5",
+   "pdf_url": "https://openreview.net/pdf?id=apG2vDGpN5"
+  },
+  {
+   "title": "Promoting cross-modal representations to improve multimodal foundation models for physiological signals",
+   "authors": [
+    "Ching Fang",
+    "Christopher Michael Sandino",
+    "Behrooz Mahasseni",
+    "Juri Minxha",
+    "Hadi Pouransari",
+    "Erdrin Azemi",
+    "Ali Moin",
+    "Ellen L. Zippi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HNQxrUOvX4",
+   "pdf_url": "https://openreview.net/pdf?id=HNQxrUOvX4"
+  },
+  {
+   "title": "QViSTA: A Novel Quantum Vision Transformer for Early Multi-Stage Alzheimer’s Diagnosis Using Optimized Variational Quantum Circuits",
+   "authors": [
+    "Aryan Singhal",
+    "Hursh Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6x9BJmr2lB",
+   "pdf_url": "https://openreview.net/pdf?id=6x9BJmr2lB"
+  },
+  {
+   "title": "Random Token Fusion for Multi-View Medical Diagnosis",
+   "authors": [
+    "Jingyu Guo",
+    "Christos Matsoukas",
+    "Fredrik Strand",
+    "Kevin Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JPcL8COjHy",
+   "pdf_url": "https://openreview.net/pdf?id=JPcL8COjHy"
+  },
+  {
+   "title": "Reliability in AI-Assisted Critical Care: Assessing Large Language Model Robustness and Instruction Following for Cardiac Arrest Identification",
+   "authors": [
+    "Ugurcan Vurgun",
+    "Sy Hwang",
+    "Danielle L. Mowery"
+   ],
+   "forum_url": "https://openreview.net/forum?id=psOWQZbI6Z",
+   "pdf_url": "https://openreview.net/pdf?id=psOWQZbI6Z"
+  },
+  {
+   "title": "Research Journey of Generative Protein Modeling",
+   "authors": [
+    "Xinhui Chen",
+    "Yiwen Yuan",
+    "Joseph Liu",
+    "Chak Tou Leong",
+    "Zhen Xie",
+    "Xiaoye Zhu",
+    "Ying Chen",
+    "Songyue Chen",
+    "Chenyi Wang",
+    "Kun Li",
+    "Jie Zhang",
+    "Zuchao Li",
+    "Jiaqi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MP9duQu47c",
+   "pdf_url": "https://openreview.net/pdf?id=MP9duQu47c"
+  },
+  {
+   "title": "RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction",
+   "authors": [
+    "Yuwei Zhang",
+    "Tong Xia",
+    "Aaqib Saeed",
+    "Cecilia Mascolo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2PTUImirs5",
+   "pdf_url": "https://openreview.net/pdf?id=2PTUImirs5"
+  },
+  {
+   "title": "SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting",
+   "authors": [
+    "Jie Xu",
+    "LiXiaokang",
+    "Chengyuyue",
+    "Chen Ma",
+    "Yi Guo",
+    "Yuanyuan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IjZI80PUdr",
+   "pdf_url": "https://openreview.net/pdf?id=IjZI80PUdr"
+  },
+  {
+   "title": "Sentiment Reasoning for Healthcare",
+   "authors": [
+    "Khai-Nguyen Nguyen",
+    "Khai Le-Duc",
+    "Bach Phan Tat",
+    "Le Duy",
+    "Jerry Ngo",
+    "Long Vo-Dang",
+    "Anh Totti Nguyen",
+    "Hy Truong Son"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WYn6YIjR41",
+   "pdf_url": "https://openreview.net/pdf?id=WYn6YIjR41"
+  },
+  {
+   "title": "Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning",
+   "authors": [
+    "Haofeng Liu",
+    "Erli Zhang",
+    "Junde Wu",
+    "Mingxuan Hong",
+    "Yueming Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WSDrF5mKVp",
+   "pdf_url": "https://openreview.net/pdf?id=WSDrF5mKVp"
+  },
+  {
+   "title": "Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models",
+   "authors": [
+    "Juseong Jin",
+    "Chang Wook Jeong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FCJt6TnWAy",
+   "pdf_url": "https://openreview.net/pdf?id=FCJt6TnWAy"
+  },
+  {
+   "title": "Synthetic Multimodal Data Generation and Training Optimization For Computed Tomography Cardiac Imaging Applications",
+   "authors": [
+    "Masaki Ikuta",
+    "Quanqi Hu",
+    "Ashok Vardhan Addala",
+    "Ravi Soni",
+    "Avinash Gopal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eT5dRizwoC",
+   "pdf_url": "https://openreview.net/pdf?id=eT5dRizwoC"
+  },
+  {
+   "title": "Towards a Personal Health Large Language Model",
+   "authors": [
+    "Justin Cosentino",
+    "Anastasiya Belyaeva",
+    "Xin Liu",
+    "Zhun Yang",
+    "Yun Liu",
+    "Shyam A. Tailor",
+    "Tim Althoff",
+    "John B Hernandez",
+    "Yossi Matias",
+    "Greg Corrado",
+    "Shwetak Patel",
+    "SHRAVYA SHETTY",
+    "Jiening Zhan",
+    "Daniel McDuff",
+    "Cory Y McLean"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Fbna6cNPw",
+   "pdf_url": "https://openreview.net/pdf?id=1Fbna6cNPw"
+  },
+  {
+   "title": "Towards Foundation Models for Critical Care Time Series",
+   "authors": [
+    "Manuel Burger",
+    "Fedor Sergeev",
+    "Malte Londschien",
+    "Daphné Chopard",
+    "Hugo Yèche",
+    "Eike Christian Gerdes",
+    "Polina Leshetkina",
+    "Alexander Morgenroth",
+    "Zeynep Babür",
+    "Jasmina Bogojeska",
+    "Martin Faltys",
+    "Rita Kuznetsova",
+    "Gunnar Ratsch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KnakFH5fXz",
+   "pdf_url": "https://openreview.net/pdf?id=KnakFH5fXz"
+  },
+  {
+   "title": "Training Free Adaptive Text Classification through Aggregated Large Language Models",
+   "authors": [
+    "Iman Zare Estakhraji",
+    "Allison Li",
+    "Andreas Markus Loening",
+    "Akshay S Chaudhari",
+    "R. Marc Lebel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qfcBET24sl",
+   "pdf_url": "https://openreview.net/pdf?id=qfcBET24sl"
+  },
+  {
+   "title": "TTT-UNet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation",
+   "authors": [
+    "Rong Zhou",
+    "Zhengqing Yuan",
+    "Zhiling Yan",
+    "Weixiang Sun",
+    "Kai Zhang",
+    "Yiwei Li",
+    "Xiang Li",
+    "Quanzheng Li",
+    "Lifang He",
+    "Lichao Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hm5k3z563g",
+   "pdf_url": "https://openreview.net/pdf?id=Hm5k3z563g"
+  },
+  {
+   "title": "Universal Speech Disorder Recognition: Towards a Foundation Model for Cross-Pathology Generalisation",
+   "authors": [
+    "Giulia Sanguedolce",
+    "Dragos-Cristian Gruia",
+    "Sophie Brook",
+    "Patrick Naylor",
+    "Fatemeh Geranmayeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wAMB5WboUC",
+   "pdf_url": "https://openreview.net/pdf?id=wAMB5WboUC"
+  },
+  {
+   "title": "VidLPRO: A Video-Language Pre-training Framework for Robotic and Laparoscopic Surgery",
+   "authors": [
+    "Mohammadmahdi Honarmand",
+    "Muhammad Abdullah Jamal",
+    "Omid Mohareri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xdpOaTjOdR",
+   "pdf_url": "https://openreview.net/pdf?id=xdpOaTjOdR"
+  },
+  {
+   "title": "Visual_Interpretability_of_Bioimaging_Deep_Learning_Models__neurips_",
+   "authors": [
+    "Oded Rotem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tmdbzuTFEc",
+   "pdf_url": "https://openreview.net/pdf?id=tmdbzuTFEc"
+  }
+ ]
+}

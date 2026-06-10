@@ -1,0 +1,606 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/SCSL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:45.352Z",
+ "paper_count": 54,
+ "papers": [
+  {
+   "title": "A Guide to Misinformation Detection Data and Evaluation",
+   "authors": [
+    "Camille Thibault",
+    "Jacob-Junqi Tian",
+    "Gabrielle Péloquin-Skulski",
+    "Taylor Lynn Curtis",
+    "James Zhou",
+    "Florence Laflamme",
+    "Yuxiang Guan",
+    "Reihaneh Rabbany",
+    "Jean-François Godbout",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A4hZihc6QE",
+   "pdf_url": "https://openreview.net/pdf?id=A4hZihc6QE"
+  },
+  {
+   "title": "A Unifying Framework for Causal Imitation Learning with Hidden Confounders",
+   "authors": [
+    "Daqian Shao",
+    "Thomas Kleine Buening",
+    "Marta Kwiatkowska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=arlxXpjWGZ",
+   "pdf_url": "https://openreview.net/pdf?id=arlxXpjWGZ"
+  },
+  {
+   "title": "Are We Done with Object-Centric Learning?",
+   "authors": [
+    "Alexander Rubinstein",
+    "Ameya Prabhu",
+    "Matthias Bethge",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGhRHtVZDo",
+   "pdf_url": "https://openreview.net/pdf?id=gGhRHtVZDo"
+  },
+  {
+   "title": "Assessing Robustness to Spurious Correlations in Post-Training Language Models",
+   "authors": [
+    "Julia Shuieh",
+    "Prasann Singhal",
+    "Apaar Shanker",
+    "John Heyer",
+    "George Pu",
+    "Samuel Marc Denton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5FUmGAZZ5w",
+   "pdf_url": "https://openreview.net/pdf?id=5FUmGAZZ5w"
+  },
+  {
+   "title": "Assessing the Capabilities of Large Brainwave Foundation Models",
+   "authors": [
+    "Na Lee",
+    "Stylianos Bakas",
+    "Konstantinos Barmpas",
+    "Yannis Panagakis",
+    "Dimitrios Adamos",
+    "Nikolaos Laskaris",
+    "Stefanos Zafeiriou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ADU3uNKLLJ",
+   "pdf_url": "https://openreview.net/pdf?id=ADU3uNKLLJ"
+  },
+  {
+   "title": "Bayesian Invariance Modeling of Multi-Environment Data",
+   "authors": [
+    "Luhuan Wu",
+    "Mingzhang Yin",
+    "Yixin Wang",
+    "John Patrick Cunningham",
+    "David Blei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kR8sUs7iHS",
+   "pdf_url": "https://openreview.net/pdf?id=kR8sUs7iHS"
+  },
+  {
+   "title": "BEYOND DECODABILITY: LINEAR FEATURE SPACES ENABLE VISUAL COMPOSITIONAL GENERALIZATION",
+   "authors": [
+    "Arnas Uselis",
+    "Andrea Dittadi",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IaTj8xNn7F",
+   "pdf_url": "https://openreview.net/pdf?id=IaTj8xNn7F"
+  },
+  {
+   "title": "Beyond ID Bias: PCA-Guided Dropout for Robust Fine-tuning",
+   "authors": [
+    "Bo Fei",
+    "Xiaocheng Li",
+    "ZhangZhiqi",
+    "Youchen Qing",
+    "YANCONG DENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UvrSxutZK9",
+   "pdf_url": "https://openreview.net/pdf?id=UvrSxutZK9"
+  },
+  {
+   "title": "Can Transformers Learn Tasks of Varying Complexity In-context?",
+   "authors": [
+    "Puneesh Deora",
+    "Bhavya Vasudeva",
+    "Tina Behnia",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YPeBuAwBNO",
+   "pdf_url": "https://openreview.net/pdf?id=YPeBuAwBNO"
+  },
+  {
+   "title": "Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences",
+   "authors": [
+    "Riccardo Cadei",
+    "Ilker Demirel",
+    "Piersilvio De Bartolomeis",
+    "Lukas Lindorfer",
+    "Sylvia Cremer",
+    "Cordelia Schmid",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDSj8Hbkxe",
+   "pdf_url": "https://openreview.net/pdf?id=JDSj8Hbkxe"
+  },
+  {
+   "title": "Cross-Instance Contrastive Masking in Vision Transformers for Self-Supervised Hyperspectral Image Classification",
+   "authors": [
+    "Abhiroop Chatterjee",
+    "Susmita Ghosh",
+    "Ashish Ghosh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AAi4rWZagB",
+   "pdf_url": "https://openreview.net/pdf?id=AAi4rWZagB"
+  },
+  {
+   "title": "Debugging Concept Bottlenecks through Intervention: Shortcut Removal and Retraining",
+   "authors": [
+    "Eric Enouen",
+    "sainyam galhotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KuHArH2mMQ",
+   "pdf_url": "https://openreview.net/pdf?id=KuHArH2mMQ"
+  },
+  {
+   "title": "Diagnosing the Effects of Pre-training Data on Fine-tuning and Subgroup Robustness for Occupational NER in Clinical Notes",
+   "authors": [
+    "Dana Moukheiber",
+    "Saurabh Mahindre",
+    "Mingchen Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xfCjvr8MWR",
+   "pdf_url": "https://openreview.net/pdf?id=xfCjvr8MWR"
+  },
+  {
+   "title": "Distinct Computations Emerge From Compositional Curricula in In-Context Learning",
+   "authors": [
+    "Jin Hwa Lee",
+    "Andrew Kyle Lampinen",
+    "Aaditya K Singh",
+    "Andrew M Saxe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oo5TNikeJl",
+   "pdf_url": "https://openreview.net/pdf?id=oo5TNikeJl"
+  },
+  {
+   "title": "Efficient Differentiable Discovery of Causal Order",
+   "authors": [
+    "Mathieu Chevalley",
+    "Arash Mehrjou",
+    "Patrick Schwab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NQhcOWAHER",
+   "pdf_url": "https://openreview.net/pdf?id=NQhcOWAHER"
+  },
+  {
+   "title": "Evaluating Multi-modal Language Models Through Concept Hacking",
+   "authors": [
+    "Yijiang Li",
+    "Bingyang Wang",
+    "Tianwei Zhao",
+    "Qingying Gao",
+    "Hokin Deng",
+    "Dezhi Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B2QXXIZXM3",
+   "pdf_url": "https://openreview.net/pdf?id=B2QXXIZXM3"
+  },
+  {
+   "title": "Excessive Supervision and Shortcuts Prevent  In-domain Learning of Trivial Graph Search",
+   "authors": [
+    "Arvid Frydenlund"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UhsjpwkAYe",
+   "pdf_url": "https://openreview.net/pdf?id=UhsjpwkAYe"
+  },
+  {
+   "title": "Exploiting What Trained Models Learn for Making Them Robust to Spurious Correlations without Group Annotations",
+   "authors": [
+    "Mahdi Ghaznavi",
+    "Hesam Asadollahzadeh",
+    "Fahimeh Hosseini Noohdani",
+    "Soroush Vafaie Tabar",
+    "Hosein Hasani",
+    "Taha Akbari Alvanagh",
+    "Mohammad Hossein Rohban",
+    "Mahdieh Soleymani Baghshah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8vo1YSAt6g",
+   "pdf_url": "https://openreview.net/pdf?id=8vo1YSAt6g"
+  },
+  {
+   "title": "Exploring Ordinal Bias in Action Recognition for Instructional Videos",
+   "authors": [
+    "Joochan Kim",
+    "Minjoon Jung",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JIon6Xuvm1",
+   "pdf_url": "https://openreview.net/pdf?id=JIon6Xuvm1"
+  },
+  {
+   "title": "Fine-Tuning Pretrained Models with NVIB for Improved Generalisation",
+   "authors": [
+    "Fabio James Fehr",
+    "Alina Elena Baia",
+    "Xiaoguang Chang",
+    "Andrei Catalin Coman",
+    "Karl El Hajal",
+    "Dina El Zein",
+    "Shashi Kumar",
+    "Juan Pablo Zuluaga Gomez",
+    "Andrea Cavallaro",
+    "Damien Teney",
+    "James Henderson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eX0VFgG4IS",
+   "pdf_url": "https://openreview.net/pdf?id=eX0VFgG4IS"
+  },
+  {
+   "title": "Generalizing to any diverse distribution: uniformity & rebalancing",
+   "authors": [
+    "Andreas Loukas",
+    "Karolis Martinkus",
+    "Edward Wagstaff",
+    "Kyunghyun Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R83LOnUmbg",
+   "pdf_url": "https://openreview.net/pdf?id=R83LOnUmbg"
+  },
+  {
+   "title": "GradTune: Last-layer Fine-tuning for Group Robustness Without Group Annotation",
+   "authors": [
+    "Patrik Kenfack",
+    "Ulrich Aïvodji",
+    "Samira Ebrahimi Kahou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WL9Sxi3iat",
+   "pdf_url": "https://openreview.net/pdf?id=WL9Sxi3iat"
+  },
+  {
+   "title": "In Search of Forgotten Domain Generalization",
+   "authors": [
+    "Prasanna Mayilvahanan",
+    "Roland S. Zimmermann",
+    "Thaddäus Wiedemer",
+    "Evgenia Rusak",
+    "Attila Juhos",
+    "Matthias Bethge",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IVNfzlFUJY",
+   "pdf_url": "https://openreview.net/pdf?id=IVNfzlFUJY"
+  },
+  {
+   "title": "Inducing Group Fairness in Prompt-Based Language Model Decisions",
+   "authors": [
+    "James Atwood",
+    "Nino Scherrer",
+    "Preethi Lahoti",
+    "Ananth Balashankar",
+    "Flavien Prost",
+    "Ahmad Beirami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xBaxtjysUl",
+   "pdf_url": "https://openreview.net/pdf?id=xBaxtjysUl"
+  },
+  {
+   "title": "Knowledge Distillation for Random Data: Soft Labels and Similarity Scores May Contain Memorized Information",
+   "authors": [
+    "Freya Behrens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rU8J8bvcCs",
+   "pdf_url": "https://openreview.net/pdf?id=rU8J8bvcCs"
+  },
+  {
+   "title": "LACER: Loss-Aware Clustering for Effective Reweighting",
+   "authors": [
+    "Saksham Rastogi",
+    "Polina Kirichenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ah74szSNvA",
+   "pdf_url": "https://openreview.net/pdf?id=ah74szSNvA"
+  },
+  {
+   "title": "LAION-C: An Out-of-Distribution Benchmark for Web-Scale Vision Models",
+   "authors": [
+    "Fanfei Li",
+    "Thomas Klein",
+    "Wieland Brendel",
+    "Robert Geirhos",
+    "Roland S. Zimmermann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t1IBHkU2bt",
+   "pdf_url": "https://openreview.net/pdf?id=t1IBHkU2bt"
+  },
+  {
+   "title": "Language-Guided Diffusion for Domain Generalization",
+   "authors": [
+    "Haolin Ren",
+    "Xinyi Li",
+    "YANCONG DENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EGeSejwiQM",
+   "pdf_url": "https://openreview.net/pdf?id=EGeSejwiQM"
+  },
+  {
+   "title": "Measuring the Layer-Wise Impact of Image Shortcuts on Deep Model Features",
+   "authors": [
+    "Nikita Tsoy",
+    "Nikola Konstantinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5sigk5jNqt",
+   "pdf_url": "https://openreview.net/pdf?id=5sigk5jNqt"
+  },
+  {
+   "title": "Meta Learning not to Learn: Robustly Informing Meta-Learning under Nuisance-Varying Families",
+   "authors": [
+    "Louis McConnell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kDyUi9HnxU",
+   "pdf_url": "https://openreview.net/pdf?id=kDyUi9HnxU"
+  },
+  {
+   "title": "Mitigating Shortcut Learning with Diffusion Counterfactuals and Diverse Ensembles",
+   "authors": [
+    "Luca Scimeca",
+    "Alexander Rubinstein",
+    "Damien Teney",
+    "Seong Joon Oh",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RrLq6X8UXW",
+   "pdf_url": "https://openreview.net/pdf?id=RrLq6X8UXW"
+  },
+  {
+   "title": "Mitigating Simplicity Bias in Neural Networks: A Feature Sieve Modification, Regularization, and Self-Supervised Augmentation Approach",
+   "authors": [
+    "Gaurav Joshi",
+    "Parth Narendra Shah",
+    "Rachit Verma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PBLv8kiF4j",
+   "pdf_url": "https://openreview.net/pdf?id=PBLv8kiF4j"
+  },
+  {
+   "title": "Mitigating Spurious Correlations in Image Recognition Models using Performance-Based Feature Sampling",
+   "authors": [
+    "Aarav Monga",
+    "Rajakrishnan Somou",
+    "Sonia Zhang",
+    "Antonio Ortega"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DRv8wcssgs",
+   "pdf_url": "https://openreview.net/pdf?id=DRv8wcssgs"
+  },
+  {
+   "title": "Multi-token prediction boosts creativity in algorithmic tasks",
+   "authors": [
+    "Vaishnavh Nagarajan",
+    "Chen Henry Wu",
+    "Charles Ding",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AjKT8U3hi7",
+   "pdf_url": "https://openreview.net/pdf?id=AjKT8U3hi7"
+  },
+  {
+   "title": "Object-Centric Representations Generalize Better Compositionally with Less Compute",
+   "authors": [
+    "Ferdinand Kapl",
+    "Amir Mohammad Karimi Mamaghan",
+    "Max Horn",
+    "Carsten Marr",
+    "Stefan Bauer",
+    "Andrea Dittadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u5Qo7JgqNq",
+   "pdf_url": "https://openreview.net/pdf?id=u5Qo7JgqNq"
+  },
+  {
+   "title": "On the Emergence of Position Bias in Transformers",
+   "authors": [
+    "Xinyi Wu",
+    "Yifei Wang",
+    "Stefanie Jegelka",
+    "Ali Jadbabaie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZX8VNtvrM",
+   "pdf_url": "https://openreview.net/pdf?id=bZX8VNtvrM"
+  },
+  {
+   "title": "On the Unreasonable Effectiveness of Last-Layer Retraining",
+   "authors": [
+    "John Collins Hill",
+    "Tyler LaBonte",
+    "Xinchen Zhang",
+    "Vidya Muthukumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B2W51aq37O",
+   "pdf_url": "https://openreview.net/pdf?id=B2W51aq37O"
+  },
+  {
+   "title": "One Goal, Many Challenges: Robust Preference Optimization Amid Content-Aware and Multi-Source Noise",
+   "authors": [
+    "Amirabbas Afzali",
+    "Amirhossein Afsharrad",
+    "Seyed Shahabeddin Mousavi",
+    "Sanjay Lall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wYyzXrlsz4",
+   "pdf_url": "https://openreview.net/pdf?id=wYyzXrlsz4"
+  },
+  {
+   "title": "Privacy Risks and Memorization of Spurious Correlated Data",
+   "authors": [
+    "Chenxiang Zhang",
+    "Jun Pang",
+    "Sjouke Mauw"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BZHrxFDSur",
+   "pdf_url": "https://openreview.net/pdf?id=BZHrxFDSur"
+  },
+  {
+   "title": "ReSL: Enhancing Deep Clustering Through Reset-based Self-Labeling",
+   "authors": [
+    "Andrii Shkabrii",
+    "Timo Klein",
+    "Lukas Miklautz",
+    "Sebastian Tschiatschek",
+    "Claudia Plant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PxyFJfsxtR",
+   "pdf_url": "https://openreview.net/pdf?id=PxyFJfsxtR"
+  },
+  {
+   "title": "Rich feature learning via diversification",
+   "authors": [
+    "XI LENG",
+    "Yongqiang Chen",
+    "Xiaoying Tang",
+    "Yatao Bian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dv23kah60r",
+   "pdf_url": "https://openreview.net/pdf?id=dv23kah60r"
+  },
+  {
+   "title": "Shortcut Learning Susceptibility in Vision Classifiers",
+   "authors": [
+    "Pirzada Suhail",
+    "Vrinda Goel",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dvafjL2zXP",
+   "pdf_url": "https://openreview.net/pdf?id=dvafjL2zXP"
+  },
+  {
+   "title": "Spawrious: A Benchmark for Fine Control of Spurious Correlation Biases",
+   "authors": [
+    "Aengus Lynch",
+    "Gbetondji Jean-Sebastien Dovonon",
+    "Jean Kaddour",
+    "Ricardo Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0S0oITNTCz",
+   "pdf_url": "https://openreview.net/pdf?id=0S0oITNTCz"
+  },
+  {
+   "title": "Spurious Correlations in Diffusion Models and How to Fix Them",
+   "authors": [
+    "Sachit Gaudi",
+    "Gautam Sreekumar",
+    "Vishnu Boddeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lQqYpU70ul",
+   "pdf_url": "https://openreview.net/pdf?id=lQqYpU70ul"
+  },
+  {
+   "title": "Spurious Correlations in High Dimensional Regression: The Roles of Regularization, Simplicity Bias and Over-Parameterization",
+   "authors": [
+    "Simone Bombari",
+    "Marco Mondelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pJvDc6Xucs",
+   "pdf_url": "https://openreview.net/pdf?id=pJvDc6Xucs"
+  },
+  {
+   "title": "Spurious Equilibrium in Segmentation Models and Recurrent Processing in Human Vision",
+   "authors": [
+    "Kailas D",
+    "Brejesh Lall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hUJEXy8AYS",
+   "pdf_url": "https://openreview.net/pdf?id=hUJEXy8AYS"
+  },
+  {
+   "title": "SpurLens: Finding Spurious Correlations in Multimodal LLMs",
+   "authors": [
+    "Parsa Hosseini",
+    "Sumit Nawathe",
+    "Mazda Moayeri",
+    "Sriram Balasubramanian",
+    "Soheil Feizi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SFtrsxKH79",
+   "pdf_url": "https://openreview.net/pdf?id=SFtrsxKH79"
+  },
+  {
+   "title": "Structured Robustness for Distribution Shifts",
+   "authors": [
+    "Erfan Darzi",
+    "Alexander Marx"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4tBjnFqmaQ",
+   "pdf_url": "https://openreview.net/pdf?id=4tBjnFqmaQ"
+  },
+  {
+   "title": "Towards Brain Inspired Design for Addressing the Shortcomings of ANNs",
+   "authors": [
+    "Fahad Sarfraz",
+    "Bahram Zonooz",
+    "Elahe Arani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BLNOIaVuRa",
+   "pdf_url": "https://openreview.net/pdf?id=BLNOIaVuRa"
+  },
+  {
+   "title": "Towards personalized healthcare without harm via bias modulation",
+   "authors": [
+    "Frank Ngaha",
+    "Patrik Kenfack",
+    "Ulrich Aïvodji",
+    "Samira Ebrahimi Kahou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DBQ0b5JTxk",
+   "pdf_url": "https://openreview.net/pdf?id=DBQ0b5JTxk"
+  },
+  {
+   "title": "Trust Me, I Know the Way: Predictive Uncertainty in the Presence of Shortcut Learning",
+   "authors": [
+    "Lisa Wimmer",
+    "Bernd Bischl",
+    "Ludwig Bothmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fpu8tQYfdq",
+   "pdf_url": "https://openreview.net/pdf?id=Fpu8tQYfdq"
+  },
+  {
+   "title": "Unveiling and Mitigating Shortcuts in Multimodal In-Context Learning",
+   "authors": [
+    "Yanshu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RVVARgLdTT",
+   "pdf_url": "https://openreview.net/pdf?id=RVVARgLdTT"
+  },
+  {
+   "title": "VACT: A Video Automatic Causal Testing System and a Benchmark",
+   "authors": [
+    "Haotong Yang",
+    "Qingyuan Zheng",
+    "Yunjian Gao",
+    "Yongkun Yang",
+    "Yangbo He",
+    "Zhouchen Lin",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zCQlzB6Aaa",
+   "pdf_url": "https://openreview.net/pdf?id=zCQlzB6Aaa"
+  },
+  {
+   "title": "Why Foundation Models Struggle with Cross-Modal Context",
+   "authors": [
+    "Chen Henry Wu",
+    "Neil Kale",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L5pATpeecP",
+   "pdf_url": "https://openreview.net/pdf?id=L5pATpeecP"
+  }
+ ]
+}

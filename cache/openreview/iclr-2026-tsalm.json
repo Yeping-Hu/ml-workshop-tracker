@@ -1,0 +1,885 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/TSALM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:42.280Z",
+ "paper_count": 73,
+ "papers": [
+  {
+   "title": "A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization",
+   "authors": [
+    "Shuozhe Li",
+    "Du Cheng",
+    "Amy Zhang",
+    "Liu Leqi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fz9CPIC4bq",
+   "pdf_url": "https://openreview.net/pdf?id=Fz9CPIC4bq"
+  },
+  {
+   "title": "An Agentic Framework for Causal Discovery and Forecasting in Oil and Gas Time Series",
+   "authors": [
+    "Ahmed Esmin",
+    "Alexandre Mello Ferreira",
+    "Anderson Rocha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v9Vh6d1rix",
+   "pdf_url": "https://openreview.net/pdf?id=v9Vh6d1rix"
+  },
+  {
+   "title": "APTGuard: An APT Detection Method Based on LLM and Time-Series Augmentation",
+   "authors": [
+    "Xinran Li",
+    "Zijun Dou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U8LfIvhkI1",
+   "pdf_url": "https://openreview.net/pdf?id=U8LfIvhkI1"
+  },
+  {
+   "title": "ARFBench: Benchmarking Multimodal Time Series Reasoning for Software Incident Response",
+   "authors": [
+    "Stephan Xie",
+    "Ben Cohen",
+    "Mononito Goswami",
+    "Junhong Shen",
+    "Emaad Khwaja",
+    "Chenghao Liu",
+    "David Asker",
+    "Othmane Abou-Amal",
+    "Ameet Talwalkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C4AXJvsgT6",
+   "pdf_url": "https://openreview.net/pdf?id=C4AXJvsgT6"
+  },
+  {
+   "title": "Auditing Black-Box Trends: Structural Inductive Bias Facilitates Causal Interpretability in Clinical Time Series",
+   "authors": [
+    "Aditya Kumar Karna",
+    "Trina Dutta Barlow"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lBLE2GWcS0",
+   "pdf_url": "https://openreview.net/pdf?id=lBLE2GWcS0"
+  },
+  {
+   "title": "Balanced Latent Semantics and Signal Fidelity for EEG representation learning",
+   "authors": [
+    "Van-Chien Nguyen",
+    "Trung-Hieu Tran",
+    "Tuan-Kiet Doan",
+    "Quang Hung Pham",
+    "Ngoc-Son Vu",
+    "Duc Han LE",
+    "Huy Phan",
+    "Phi Le Nguyen",
+    "Nikola Simidjievski",
+    "Samuel Tardieu",
+    "Van-Tam Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ofwQZjoI4c",
+   "pdf_url": "https://openreview.net/pdf?id=ofwQZjoI4c"
+  },
+  {
+   "title": "Benchmarking LLM Summaries of Multimodal Clinical Time Series for Remote Monitoring",
+   "authors": [
+    "Aditya Shukla",
+    "Yining Yuan",
+    "J. Ben Tamo",
+    "Yifei Wang",
+    "Micky C. Nnamdi",
+    "Benoit Louis Marteau",
+    "Shaun Qien Yeau Tan",
+    "Jieru Li",
+    "Brad Willingham",
+    "May Dongmei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uxHeJB2XYx",
+   "pdf_url": "https://openreview.net/pdf?id=uxHeJB2XYx"
+  },
+  {
+   "title": "Beyond Earthbound Benchmarks: Evaluating Time Series Foundation Models on Satellite Telemetry Data",
+   "authors": [
+    "Geremia Pompei",
+    "Deepan Anbarasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3MUUdY0jun",
+   "pdf_url": "https://openreview.net/pdf?id=3MUUdY0jun"
+  },
+  {
+   "title": "Beyond Fit & Predict: Forecasting API for the Foundation Model Era",
+   "authors": [
+    "Franz J Király",
+    "Felipe Lourenço Angelim Vieira",
+    "Simon Blanke",
+    "Benedikt Heidrich",
+    "Jigyasu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIPnQpairA",
+   "pdf_url": "https://openreview.net/pdf?id=hIPnQpairA"
+  },
+  {
+   "title": "Beyond Flat Taxonomies: Hierarchical Capability Profiling for Time-Series Understanding and Reasoning in Large Models",
+   "authors": [
+    "Yao Yin",
+    "Zhenyu Xiao",
+    "Musheng Li",
+    "Yiwen Liu",
+    "Sutong Nan",
+    "Yiting He",
+    "Ruiqi Wang",
+    "Zhenwei Zhang",
+    "Qingmin Liao",
+    "Yuantao Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gs2JCY089l",
+   "pdf_url": "https://openreview.net/pdf?id=Gs2JCY089l"
+  },
+  {
+   "title": "Beyond Statistical Changepoint Detection: Semantic Interpretation of Time Series via LLMs",
+   "authors": [
+    "Hong Kiat Tan",
+    "Trilokya Akula",
+    "Akash Tonne",
+    "Thomas Blake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MIAr6aBcUJ",
+   "pdf_url": "https://openreview.net/pdf?id=MIAr6aBcUJ"
+  },
+  {
+   "title": "Bridging the Fine-Tuning Gap in Time Series Classification with Synthetic Data and Inference Strategies",
+   "authors": [
+    "Vasilii Feofanov",
+    "Songkang Wen",
+    "Lujia Pan",
+    "Jianfeng Zhang",
+    "Ievgen Redko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W03ApbRV4i",
+   "pdf_url": "https://openreview.net/pdf?id=W03ApbRV4i"
+  },
+  {
+   "title": "Cached Foundation Model Summaries for Memory-Efficient Clinical Time Series Inference",
+   "authors": [
+    "Rafi Al Attrach",
+    "Rajna Fani",
+    "David Restrepo",
+    "Yugang jia",
+    "Leo Anthony Celi",
+    "Peter J. Schüffler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kdoFfrlOZj",
+   "pdf_url": "https://openreview.net/pdf?id=kdoFfrlOZj"
+  },
+  {
+   "title": "CLIC: Contextual Language-Informed Cardiac Pathology Classification",
+   "authors": [
+    "Giovani D. Lucafó",
+    "Rafael da Costa Silva",
+    "João Lucas Luz Lima Sarcinelli",
+    "Andre Guarnier De Mitri",
+    "Diego Furtado Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9JVwoozhFo",
+   "pdf_url": "https://openreview.net/pdf?id=9JVwoozhFo"
+  },
+  {
+   "title": "Complementing Domain Labels with WaveEnergy Signatures for Time Series Heterogeneity",
+   "authors": [
+    "Seongbeom Park",
+    "Hyunwoo Seo",
+    "Yichen Ma",
+    "Hojin Cho",
+    "Chiehyeon Lim",
+    "Jianjun Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nAzwsvyq0A",
+   "pdf_url": "https://openreview.net/pdf?id=nAzwsvyq0A"
+  },
+  {
+   "title": "Context-Informed Sequence Classification: A Multimodal Approach to Vehicle Diagnostics",
+   "authors": [
+    "Hugo Math",
+    "Rainer Lienhart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G4iAE9xOpb",
+   "pdf_url": "https://openreview.net/pdf?id=G4iAE9xOpb"
+  },
+  {
+   "title": "Dissecting Chronos: Sparse Autoencoders Reveal Causal Feature Hierarchies in Time Series Foundation Models",
+   "authors": [
+    "Anurag Mishra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q5ox302DLN",
+   "pdf_url": "https://openreview.net/pdf?id=Q5ox302DLN"
+  },
+  {
+   "title": "Do Foundation Models Generalize to Real-World EV Fleets? A 1.1M-Drive Benchmark",
+   "authors": [
+    "Patrick Ahrend",
+    "Stefan Pfund",
+    "Felix Divo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PnM12PMiUF",
+   "pdf_url": "https://openreview.net/pdf?id=PnM12PMiUF"
+  },
+  {
+   "title": "Do We Need Domain-Specific Time-Series Models? Insights from EEG Classification Benchmarks",
+   "authors": [
+    "Liuyin Yang",
+    "Qiang Sun",
+    "Marc M. Van Hulle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sxjgTQMIQQ",
+   "pdf_url": "https://openreview.net/pdf?id=sxjgTQMIQQ"
+  },
+  {
+   "title": "Does Normalization Choice Matter for Causal Large Time-Series Models?",
+   "authors": [
+    "Samy-Melwan Vilhes",
+    "Gilles Gasso",
+    "Mokhtar Z. Alaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lMNWBnFHxt",
+   "pdf_url": "https://openreview.net/pdf?id=lMNWBnFHxt"
+  },
+  {
+   "title": "DynLMC: Dynamic Linear Coregionalization for Realistic Synthetic Multivariate Time Series",
+   "authors": [
+    "Annita Vapsi",
+    "Penghang Liu",
+    "Saheed Obitayo",
+    "Aakriti",
+    "Manoj Cherukumalli",
+    "Prathamesh Patil",
+    "Amit Varshney",
+    "Nicolas Marchesotti",
+    "Elizabeth Fons",
+    "Vamsi K. Potluru",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8JAhLRNzh5",
+   "pdf_url": "https://openreview.net/pdf?id=8JAhLRNzh5"
+  },
+  {
+   "title": "EnergyX: An Agentic Framework for Explainable Energy Forecasting and Anomaly Detection",
+   "authors": [
+    "Sanyat Fale",
+    "Naman Srivastava",
+    "Pandarasamy Arjunan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vqCtn8RTxY",
+   "pdf_url": "https://openreview.net/pdf?id=vqCtn8RTxY"
+  },
+  {
+   "title": "Expressive Power of Recurrent Spiking Neural Networks for Sequence Modeling",
+   "authors": [
+    "Duc Anh Nguyen",
+    "Massimiliano Datres",
+    "Ernesto Araya",
+    "Gitta Kutyniok"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vKGj5mpIks",
+   "pdf_url": "https://openreview.net/pdf?id=vKGj5mpIks"
+  },
+  {
+   "title": "Factor Dimensionality and the Bias–Variance Tradeoff in Diffusion Portfolio Models",
+   "authors": [
+    "Avi Bagchi",
+    "Michael Tesfaye",
+    "Om Shastri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hv6A1DRJ17",
+   "pdf_url": "https://openreview.net/pdf?id=hv6A1DRJ17"
+  },
+  {
+   "title": "Finding the Zeitgeist in Time Series Foundation Models",
+   "authors": [
+    "Felix Divo",
+    "Maurice Kraus",
+    "Ruben Härle",
+    "Patrick Ahrend",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SP3orvHPy",
+   "pdf_url": "https://openreview.net/pdf?id=7SP3orvHPy"
+  },
+  {
+   "title": "Forecasting Solar Flares with the EVEREST Transformer",
+   "authors": [
+    "Antanas Žilinskas",
+    "Robert Noel Shorten",
+    "Jakub Marecek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KgjNR9TgCB",
+   "pdf_url": "https://openreview.net/pdf?id=KgjNR9TgCB"
+  },
+  {
+   "title": "From Foundation Model to Tiny Time Series Classifier through Knowledge Distillation",
+   "authors": [
+    "Adilson Medronha",
+    "Diego Furtado Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Ps3YgvA3L",
+   "pdf_url": "https://openreview.net/pdf?id=6Ps3YgvA3L"
+  },
+  {
+   "title": "From Noisy Neural Time Series to Structured Language: A Foundation Model for Imagined Speech Decoding from EEG signals",
+   "authors": [
+    "Sparsh Rastogi",
+    "Kanav Dhanda",
+    "Akshat Bakshi",
+    "Tanmay Kumar",
+    "Jatin Bedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ul5vGlPtOs",
+   "pdf_url": "https://openreview.net/pdf?id=ul5vGlPtOs"
+  },
+  {
+   "title": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
+   "authors": [
+    "Gerardo Pastrana",
+    "Sina Khoshfetrat Pakazad",
+    "Utsav Dutta",
+    "Henrik Ohlsson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RtHXBIJfYG",
+   "pdf_url": "https://openreview.net/pdf?id=RtHXBIJfYG"
+  },
+  {
+   "title": "GPT2MEG: Quantizing MEG for Autoregressive Generation",
+   "authors": [
+    "Richard Csaky",
+    "Mats W.J. Van Es",
+    "Oiwi Parker Jones",
+    "Mark Woolrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jKBLBj2U6T",
+   "pdf_url": "https://openreview.net/pdf?id=jKBLBj2U6T"
+  },
+  {
+   "title": "Hindsight Preference Optimization for Financial Time Series Advisory",
+   "authors": [
+    "Yanwei CUI",
+    "Guanghui Wang",
+    "Xing Zhang",
+    "Peiyang He",
+    "Ziyuan Li",
+    "Bing Zhu",
+    "Qucy Wei Qiu",
+    "Xusheng WANG",
+    "Zheng Yu",
+    "Anqi Xin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nq64r86v3n",
+   "pdf_url": "https://openreview.net/pdf?id=nq64r86v3n"
+  },
+  {
+   "title": "Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting",
+   "authors": [
+    "Azul Garza",
+    "Renee Rosillo Garcia",
+    "Rodrigo Mendoza Smith",
+    "David Salinas",
+    "Andrew Robert Williams",
+    "Arjun Ashok",
+    "Mononito Goswami",
+    "José Martín Juárez Vargas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EOoinHRJ0P",
+   "pdf_url": "https://openreview.net/pdf?id=EOoinHRJ0P"
+  },
+  {
+   "title": "Improving Conditional Coverage in Time-Series Foundation Models via Direct Volatility Modeling",
+   "authors": [
+    "Jason B. Cho",
+    "David S. Matteson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dZx0R4Cm8d",
+   "pdf_url": "https://openreview.net/pdf?id=dZx0R4Cm8d"
+  },
+  {
+   "title": "Interventional Time Series Priors for Causal Foundation Models",
+   "authors": [
+    "Dennis Thumm",
+    "Ying Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JbTgx2L9Z2",
+   "pdf_url": "https://openreview.net/pdf?id=JbTgx2L9Z2"
+  },
+  {
+   "title": "Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS",
+   "authors": [
+    "Gaspard Berthelier",
+    "Mariia Baranova",
+    "Andrei-Tiberiu Pantea",
+    "Etienne Le Naour",
+    "Adrien Petralia",
+    "Tahar Nabil",
+    "Themis Palpanas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H8p5Yc0c3W",
+   "pdf_url": "https://openreview.net/pdf?id=H8p5Yc0c3W"
+  },
+  {
+   "title": "KeyTrend: Automated Keyword Synthesis via LLMs for Demand Forecasting with Google Trends",
+   "authors": [
+    "Ali Barooni",
+    "Patrick Munroe",
+    "Frédéric Quesnel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QENh5zXzPv",
+   "pdf_url": "https://openreview.net/pdf?id=QENh5zXzPv"
+  },
+  {
+   "title": "Large EEG Foundation Model Learns Informative Low-Frequency Representations from Intracranial Brain Signals",
+   "authors": [
+    "Qiang Sun",
+    "Liuyin Yang",
+    "Eva Calvo Merino",
+    "Marc M. Van Hulle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SAubA0V3Du",
+   "pdf_url": "https://openreview.net/pdf?id=SAubA0V3Du"
+  },
+  {
+   "title": "Learning to Query History: Nonstationary Classification via Learned Retrieval",
+   "authors": [
+    "Jimmy Gammell",
+    "Bishal Thapaliya",
+    "Bilel Fehri",
+    "Riyasat Ohib",
+    "Deepayan Chakrabarti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UDdJuFvMVv",
+   "pdf_url": "https://openreview.net/pdf?id=UDdJuFvMVv"
+  },
+  {
+   "title": "Learning Transferable Sensor Models via Language-Informed Pretraining",
+   "authors": [
+    "Yuliang Chen",
+    "Arvind Pillai",
+    "Yu Wu",
+    "Tess Z Griffin",
+    "Lisa Marsch",
+    "Michael V. Heinz",
+    "Nicholas C. Jacobson",
+    "Andrew Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Yh94wslQN",
+   "pdf_url": "https://openreview.net/pdf?id=0Yh94wslQN"
+  },
+  {
+   "title": "LLM-Assisted Logic Rule Learning: Scaling Human Expertise for Time Series Anomaly Detection",
+   "authors": [
+    "Haoting Zhang",
+    "Shekhar Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FoYEu4OHzq",
+   "pdf_url": "https://openreview.net/pdf?id=FoYEu4OHzq"
+  },
+  {
+   "title": "LLM4Series: Structured Prompting for Time Series Forecasting with LLMs",
+   "authors": [
+    "Wesley Barbosa Silva",
+    "Maria Fernanda Aquino Freitas Scarcela",
+    "Luiz Zairo Bastos Viana",
+    "Carlos Caminha",
+    "João Paulo do Vale Madeiro",
+    "José Wellington Franco da Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6fbcYFRoUL",
+   "pdf_url": "https://openreview.net/pdf?id=6fbcYFRoUL"
+  },
+  {
+   "title": "Multi-Agent Framework for Developing and Evaluating Biometric-based Multimodal Synthetic Personas: A Case Study on Pregnancy and Postpartum Users",
+   "authors": [
+    "Poojita Garg",
+    "Conor Heneghan",
+    "Katherine A Heller",
+    "Taedong Yun",
+    "Maja Mataric",
+    "Mercy Nyamewaa Asiedu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aosInyDetZ",
+   "pdf_url": "https://openreview.net/pdf?id=aosInyDetZ"
+  },
+  {
+   "title": "Narrative of Time across Scales (NoTS)",
+   "authors": [
+    "Wenrui Ma",
+    "Ran Liu",
+    "Ellen L. Zippi",
+    "Christopher Michael Sandino",
+    "Juri Minxha",
+    "Behrooz Mahasseni",
+    "Erdrin Azemi",
+    "Ali Moin",
+    "Eva L Dyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nt3gqkZ2l7",
+   "pdf_url": "https://openreview.net/pdf?id=Nt3gqkZ2l7"
+  },
+  {
+   "title": "Non-Stationarity in the Embedding Space of Time Series Foundation Models",
+   "authors": [
+    "Jinmyeong Choi",
+    "Brad Shook",
+    "Artur Dubrawski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pku21gybSf",
+   "pdf_url": "https://openreview.net/pdf?id=Pku21gybSf"
+  },
+  {
+   "title": "On the Role of Context in Zero-Shot Multivariate Time-Series Forecasting",
+   "authors": [
+    "Rohith Saai Pemmasani Prabakaran",
+    "Stijn Verdenius",
+    "Partha Das",
+    "Christian A. Naesseth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=94FNJk9SjL",
+   "pdf_url": "https://openreview.net/pdf?id=94FNJk9SjL"
+  },
+  {
+   "title": "Overcoming the Modality Gap in Context-Aided Forecasting",
+   "authors": [
+    "Vincent Zhihao Zheng",
+    "Étienne Marcotte",
+    "Arjun Ashok",
+    "Andrew Robert Williams",
+    "Lijun Sun",
+    "Alexandre Drouin",
+    "Valentina Zantedeschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QC3CYutko1",
+   "pdf_url": "https://openreview.net/pdf?id=QC3CYutko1"
+  },
+  {
+   "title": "PETS: Inference-Time Differentially Private Synthetic Time Series Generation",
+   "authors": [
+    "Yangzhixin Luo",
+    "Haibo Wu",
+    "Alessandro Cornacchia",
+    "Chenxi Liu",
+    "Marco Canini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ubsnu8YA0z",
+   "pdf_url": "https://openreview.net/pdf?id=ubsnu8YA0z"
+  },
+  {
+   "title": "PiERN: Token-Level Routing for Integrating High-Precision Computation and Reasoning",
+   "authors": [
+    "Hengbo Xiao",
+    "Jingyuan Fan",
+    "Xin Tong",
+    "Jingzhao Zhang",
+    "Chao Lu",
+    "Guannan He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VlhAOiOV8d",
+   "pdf_url": "https://openreview.net/pdf?id=VlhAOiOV8d"
+  },
+  {
+   "title": "ReDiTT: Retrieval Augmented Conditional Diffusion Transformers for Asynchronous Time Series",
+   "authors": [
+    "Saiyue Lyu",
+    "Ruizhi Deng",
+    "Thibaut Durand",
+    "Zhitian Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=686miT6KoQ",
+   "pdf_url": "https://openreview.net/pdf?id=686miT6KoQ"
+  },
+  {
+   "title": "Regimen-Aware Forecasting for Mechanistic Virtual Patients with Time-Series Foundation Models",
+   "authors": [
+    "Charlie George Barker",
+    "Ahmad Wisnu Mulyadi",
+    "Sanjana Balaji Kuttae",
+    "Ansh Kumar",
+    "Lilija Wehling",
+    "Thomas Rückle",
+    "Sommer Anjum",
+    "Anastasios Siokis",
+    "Hans-Christoph Schneider",
+    "Sven Jager",
+    "Thomas Klabunde",
+    "Tommaso Andreani",
+    "Gurdeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eDd9V4uiHb",
+   "pdf_url": "https://openreview.net/pdf?id=eDd9V4uiHb"
+  },
+  {
+   "title": "Rethinking Multimodal Time-Series Forecasting Evaluation",
+   "authors": [
+    "Haoxin Liu",
+    "Yichen Zhou",
+    "Rajat Sen",
+    "B. Aditya Prakash",
+    "Abhimanyu Das"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P37UYgBjSB",
+   "pdf_url": "https://openreview.net/pdf?id=P37UYgBjSB"
+  },
+  {
+   "title": "Retrieval Mechanisms Surpass Long-Context Scaling in Time Series Forecasting",
+   "authors": [
+    "Rishi Ahuja",
+    "Kumar Prateek",
+    "Simranjit Singh",
+    "Dr Vijay Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qj96MlCmZw",
+   "pdf_url": "https://openreview.net/pdf?id=Qj96MlCmZw"
+  },
+  {
+   "title": "STAMP: Shared-Dictionary Shapelet Tokenization For Multi-Resolution Time-Series Compression",
+   "authors": [
+    "Bibhus Luitel",
+    "Payal Mohapatra",
+    "Subrata Biswas",
+    "Bashima Islam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NLFrPfdXHE",
+   "pdf_url": "https://openreview.net/pdf?id=NLFrPfdXHE"
+  },
+  {
+   "title": "State-Space Modeling in Natural Language",
+   "authors": [
+    "Nikita Mehandru",
+    "Marie-Laure Charpignon",
+    "Kaihua Hou",
+    "David Bamman",
+    "Ahmed Alaa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HY9c8l9kbS",
+   "pdf_url": "https://openreview.net/pdf?id=HY9c8l9kbS"
+  },
+  {
+   "title": "Status-Aware Self-Supervised Forecasting for Irregular Clinical Time Series",
+   "authors": [
+    "Kwanhyung Lee",
+    "Joohyung Lee",
+    "Jong-Heon Kim",
+    "Sangchul Hahn",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lx98lmQ14i",
+   "pdf_url": "https://openreview.net/pdf?id=lx98lmQ14i"
+  },
+  {
+   "title": "Structure-Aware Set Transformers: Temporal and Variable-type Attention Biases for Asynchronous Clinical Time Series",
+   "authors": [
+    "Joohyung Lee",
+    "Kwanhyung Lee",
+    "Changhun Kim",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AxXNor3Kd2",
+   "pdf_url": "https://openreview.net/pdf?id=AxXNor3Kd2"
+  },
+  {
+   "title": "TF-JEPA: Predictive Alignment of Time–Frequency Representations Without Contrastive Pairs",
+   "authors": [
+    "Michael Chaykowsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OLEld6TTd6",
+   "pdf_url": "https://openreview.net/pdf?id=OLEld6TTd6"
+  },
+  {
+   "title": "The Arrow of Time: What Tabular Foundation Models Miss in Time Series Forecasting",
+   "authors": [
+    "Andres Potapczynski",
+    "Ravi Kiran Selvam",
+    "Tatiana Konstantinova",
+    "Malcolm Wolff",
+    "Kin G. Olivares",
+    "Ruijun Ma",
+    "Michael W. Mahoney",
+    "Andrew Gordon Wilson",
+    "Boris N. Oreshkin",
+    "Dmitry Efimov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zE9CFg6Rp1",
+   "pdf_url": "https://openreview.net/pdf?id=zE9CFg6Rp1"
+  },
+  {
+   "title": "The Geometry of Time-Series Diffusion: Why Latent Space Diffusion Works for Generation and Imputation",
+   "authors": [
+    "Afshin Asadi",
+    "Ramin Moghaddass"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H7BHXr2Ds1",
+   "pdf_url": "https://openreview.net/pdf?id=H7BHXr2Ds1"
+  },
+  {
+   "title": "TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification",
+   "authors": [
+    "Chin-Chia Michael Yeh",
+    "Uday Singh Saini",
+    "Junpeng Wang",
+    "Xin Dai",
+    "Xiran Fan",
+    "Jiarui Sun",
+    "Yujie Fan",
+    "Yan Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g01gOiDlyD",
+   "pdf_url": "https://openreview.net/pdf?id=g01gOiDlyD"
+  },
+  {
+   "title": "Time Series Foundation Models Improve LLM Decisions: A Case Study in Stock Trading",
+   "authors": [
+    "Shifeng Xie",
+    "Ziwei Li",
+    "Themis Palpanas",
+    "Peilin Zhao",
+    "Chenghao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XrGg8w03tJ",
+   "pdf_url": "https://openreview.net/pdf?id=XrGg8w03tJ"
+  },
+  {
+   "title": "Time-Series as Feedback: Evaluating Adaptive Reasoning in LLM Agents",
+   "authors": [
+    "Ryo Kuroki",
+    "Amin Mansouri",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N3vDM8CafN",
+   "pdf_url": "https://openreview.net/pdf?id=N3vDM8CafN"
+  },
+  {
+   "title": "Time-Series Foundation Model Embeddings as Means for Physiological Feature Extraction",
+   "authors": [
+    "Yujin Lee",
+    "Fanurs C.E. Teh",
+    "Joo Heung Yoon",
+    "Artur Dubrawski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FMaJCM8Pzz",
+   "pdf_url": "https://openreview.net/pdf?id=FMaJCM8Pzz"
+  },
+  {
+   "title": "TimEE: Towards End-to-end Time Series Classification via In-Context Learning",
+   "authors": [
+    "Jaris Küken",
+    "Shi Bin Hoo",
+    "Lennart Purucker",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=heYrOmVFtY",
+   "pdf_url": "https://openreview.net/pdf?id=heYrOmVFtY"
+  },
+  {
+   "title": "TimeSAE: Mechanistic Interpretability for Time-Series Foundation Models",
+   "authors": [
+    "Vedika Sanjeev Lakhanpal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ojd6YjHpyE",
+   "pdf_url": "https://openreview.net/pdf?id=Ojd6YjHpyE"
+  },
+  {
+   "title": "TS-Arena: A Live Forecast Pre-Registration Platform for Leakage-Free Evaluation of Time Series Foundation Models",
+   "authors": [
+    "Marcel Meyer",
+    "Sascha Kaltenpoth",
+    "Henrik Albers",
+    "Kevin Zalipski",
+    "Oliver Mueller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TcKLyWrfZT",
+   "pdf_url": "https://openreview.net/pdf?id=TcKLyWrfZT"
+  },
+  {
+   "title": "TS-Haystack: A Multi-Scale Retrieval Benchmark for Time Series Language Models",
+   "authors": [
+    "Nicolas Zumarraga",
+    "Thomas Kaar",
+    "Ning Wang",
+    "Maxwell A Xu",
+    "Max Rosenblattl",
+    "Markus Kreft",
+    "Kevin O'Sullivan",
+    "Paul Schmiedmayer",
+    "Patrick Langer",
+    "Robert Jakob"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vGMayMuH83",
+   "pdf_url": "https://openreview.net/pdf?id=vGMayMuH83"
+  },
+  {
+   "title": "Tune-as-Inference: Amortized Configuration Learning for Time Series Foundation Models",
+   "authors": [
+    "Piyush Gupta",
+    "Doyen Sahoo",
+    "Manpreet Singh",
+    "Vikram Pudi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LycMKa0o0b",
+   "pdf_url": "https://openreview.net/pdf?id=LycMKa0o0b"
+  },
+  {
+   "title": "UTICA: Multi-Objective Self-Distllation Fondation Model Pretraining for Time Series Classification",
+   "authors": [
+    "Yessin Moakher",
+    "Youssef Attia El Hili",
+    "Vasilii Feofanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bOHNuUUQDC",
+   "pdf_url": "https://openreview.net/pdf?id=bOHNuUUQDC"
+  },
+  {
+   "title": "WaveFM: Wavelet Decomposition Masked Reconstruction for Multi-Scale Time-series Foundation Model",
+   "authors": [
+    "Seongbeom Park",
+    "Hyunwoo Seo",
+    "Yichen Ma",
+    "Hojin Cho",
+    "Chiehyeon Lim",
+    "Jianjun Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tReSUkX914",
+   "pdf_url": "https://openreview.net/pdf?id=tReSUkX914"
+  },
+  {
+   "title": "WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting",
+   "authors": [
+    "Shunyu Wu",
+    "Jiawei Huang",
+    "Weibin Feng",
+    "Boxin Li",
+    "Xiao Zhang",
+    "Erli Meng",
+    "Dan Li",
+    "Jian Lou",
+    "See-Kiong Ng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RBWoPpGjpq",
+   "pdf_url": "https://openreview.net/pdf?id=RBWoPpGjpq"
+  },
+  {
+   "title": "Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks",
+   "authors": [
+    "Bethmage Mayuka Jayawardhana",
+    "Nihal Sharma",
+    "Kazem Meidani",
+    "C. Bayan Bruss",
+    "Tom Goldstein",
+    "Doron L Bergman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zbSxzZ9U14",
+   "pdf_url": "https://openreview.net/pdf?id=zbSxzZ9U14"
+  },
+  {
+   "title": "ZODIAC—ZERO-INFLATED OVERSHOOT CONTROLLED DUAL-HEAD INTEGRATION FOR ASYMMETRIC CROSS-DOMAIN FORECASTING",
+   "authors": [
+    "Igor Yakushin",
+    "Sai Krishna Kiran Beathanabhotla",
+    "Dhruv Garg",
+    "Md Mahmudur Rahman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fYxnWNxxYJ",
+   "pdf_url": "https://openreview.net/pdf?id=fYxnWNxxYJ"
+  }
+ ]
+}

@@ -1,0 +1,688 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/WRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:53.548Z",
+ "paper_count": 49,
+ "papers": [
+  {
+   "title": "A New Perspective on Transformers in Online Reinforcement Learning for Continuous Control",
+   "authors": [
+    "Nikita Kachaev",
+    "Daniil Zelezetsky",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nfh9PSaASy",
+   "pdf_url": "https://openreview.net/pdf?id=nfh9PSaASy"
+  },
+  {
+   "title": "Accelerating Goal-Conditioned RL Algorithms and Research",
+   "authors": [
+    "Michał Bortkiewicz",
+    "Władysław Pałucki",
+    "Vivek Myers",
+    "Tadeusz Dziarmaga",
+    "Tomasz Arczewski",
+    "Łukasz Kuciński",
+    "Benjamin Eysenbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PbdH1MVZAn",
+   "pdf_url": "https://openreview.net/pdf?id=PbdH1MVZAn"
+  },
+  {
+   "title": "Accelerating Transformers in Online RL",
+   "authors": [
+    "Daniil Zelezetsky",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NQS5wZz52d",
+   "pdf_url": "https://openreview.net/pdf?id=NQS5wZz52d"
+  },
+  {
+   "title": "Achieving Human Level Competitive Robot Table Tennis",
+   "authors": [
+    "David B D'Ambrosio",
+    "Saminda Wishwajith Abeyruwan",
+    "Laura Graesser",
+    "Atil Iscen",
+    "Heni Ben Amor",
+    "Alex Bewley",
+    "Barney Reed",
+    "Krista Reymann",
+    "Leila Takayama",
+    "Yuval Tassa",
+    "Krzysztof Marcin Choromanski",
+    "Erwin Coumans",
+    "Deepali Jain",
+    "Navdeep Jaitly",
+    "Natasha Jaques",
+    "Satoshi Kataoka",
+    "Yuheng Kuang",
+    "Nevena Lazic",
+    "Reza Mahjourian",
+    "Sherry Moore",
+    "Kenneth Oslund",
+    "Anish Shankar",
+    "Vikas Sindhwani",
+    "Vincent Vanhoucke",
+    "Grace Vesom",
+    "Peng Xu",
+    "Pannag R Sanketi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g6eNn2IOnk",
+   "pdf_url": "https://openreview.net/pdf?id=g6eNn2IOnk"
+  },
+  {
+   "title": "AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons",
+   "authors": [
+    "Hongjie Fang",
+    "Chenxi Wang",
+    "Yiming Wang",
+    "Jingjing Chen",
+    "Shangning Xia",
+    "Jun Lv",
+    "Zihao He",
+    "Xiyan Yi",
+    "Yunhan Guo",
+    "Xinyu Zhan",
+    "Lixin Yang",
+    "Weiming Wang",
+    "Cewu Lu",
+    "Hao-Shu Fang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7ovZdQlmHl",
+   "pdf_url": "https://openreview.net/pdf?id=7ovZdQlmHl"
+  },
+  {
+   "title": "ANYDEXGRASP: LEARNING GENERAL DEXTEROUS GRASPING FOR ANY HANDS WITH HUMAN-LEVEL LEARNING EFFICIENCY",
+   "authors": [
+    "Hao-Shu Fang",
+    "Hengxu Yan",
+    "Zhenyu Tang",
+    "Hongjie Fang",
+    "Chenxi Wang",
+    "Cewu Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gv4GeX5m1E",
+   "pdf_url": "https://openreview.net/pdf?id=gv4GeX5m1E"
+  },
+  {
+   "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+   "authors": [
+    "Zhiyuan Zhou",
+    "Pranav Atreya",
+    "You Liang Tan",
+    "Karl Pertsch",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g9k2vlR7VD",
+   "pdf_url": "https://openreview.net/pdf?id=g9k2vlR7VD"
+  },
+  {
+   "title": "Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation",
+   "authors": [
+    "Nolan Fey",
+    "Gabriel B. Margolis",
+    "Martin Peticco",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0HwPNCqQft",
+   "pdf_url": "https://openreview.net/pdf?id=0HwPNCqQft"
+  },
+  {
+   "title": "Conformalized Interactive Imitation Learning: Handling Expert Shift and Intermittent Feedback",
+   "authors": [
+    "Michelle D Zhao",
+    "Henny Admoni",
+    "Reid Simmons",
+    "Aaditya Ramdas",
+    "Andrea Bajcsy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O0SW1rLunb",
+   "pdf_url": "https://openreview.net/pdf?id=O0SW1rLunb"
+  },
+  {
+   "title": "ControlManip: Few-Shot Manipulation Fine-tuning via Object-centric Conditional Control",
+   "authors": [
+    "Puhao Li",
+    "Yingying Wu",
+    "Wanlin Li",
+    "Yuzhe Huang",
+    "Zhiyuan Zhang",
+    "Yinghan Chen",
+    "Song-Chun Zhu",
+    "Tengyu Liu",
+    "Siyuan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3LvTtj0VYy",
+   "pdf_url": "https://openreview.net/pdf?id=3LvTtj0VYy"
+  },
+  {
+   "title": "DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning",
+   "authors": [
+    "Zhengrong Xue",
+    "Shuying Deng",
+    "Zhenyang Chen",
+    "Yixuan Wang",
+    "Zhecheng Yuan",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TheehgB46p",
+   "pdf_url": "https://openreview.net/pdf?id=TheehgB46p"
+  },
+  {
+   "title": "Diffusion-Based Maximum Entropy Reinforcement Learning",
+   "authors": [
+    "Onur Celik",
+    "Zechu Li",
+    "Denis Blessing",
+    "Ge Li",
+    "Daniel Palenicek",
+    "Jan Peters",
+    "Georgia Chalvatzaki",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SB1anNfdem",
+   "pdf_url": "https://openreview.net/pdf?id=SB1anNfdem"
+  },
+  {
+   "title": "Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning",
+   "authors": [
+    "Moritz Reuss",
+    "Jyothish Pari",
+    "Pulkit Agrawal",
+    "Rudolf Lioutikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b4IcZ81W7d",
+   "pdf_url": "https://openreview.net/pdf?id=b4IcZ81W7d"
+  },
+  {
+   "title": "Efficient Robotic Policy Learning via Latent Space Backward Planning",
+   "authors": [
+    "Dongxiu Liu",
+    "Haoyi Niu",
+    "Zhihao Wang",
+    "Jinliang Zheng",
+    "Yinan Zheng",
+    "Zhonghong Ou",
+    "Jianming HU",
+    "Jianxiong Li",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BDBnw6L66T",
+   "pdf_url": "https://openreview.net/pdf?id=BDBnw6L66T"
+  },
+  {
+   "title": "Environment as Policy: Generative Curriculum Learning for Autonomous Racing",
+   "authors": [
+    "Jiaxu Xing",
+    "Hongze Wang",
+    "Nico Messikommer",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UyZhgI4wLa",
+   "pdf_url": "https://openreview.net/pdf?id=UyZhgI4wLa"
+  },
+  {
+   "title": "FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies",
+   "authors": [
+    "Moritz Reuss",
+    "Hongyi Zhou",
+    "Marcel Rühle",
+    "Ömer Erdinç Yağmurlu",
+    "Fabian Otto",
+    "Rudolf Lioutikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ifo8oWSLSq",
+   "pdf_url": "https://openreview.net/pdf?id=ifo8oWSLSq"
+  },
+  {
+   "title": "From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Reset-Free Unsupervised Quality-Diversity",
+   "authors": [
+    "Luca Grillotti",
+    "Maxence Faldor",
+    "Antoine Cully"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F3WkTXKBXe",
+   "pdf_url": "https://openreview.net/pdf?id=F3WkTXKBXe"
+  },
+  {
+   "title": "Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo",
+   "authors": [
+    "Makram Chahine",
+    "T. Konstantin Rusch",
+    "Zach J Patterson",
+    "Daniela Rus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3cUcS7Fxw0",
+   "pdf_url": "https://openreview.net/pdf?id=3cUcS7Fxw0"
+  },
+  {
+   "title": "Instant Policy: In-Context Imitation Learning via Graph Diffusion",
+   "authors": [
+    "Vitalis Vosylius",
+    "Edward Johns"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JYbr9OvmCw",
+   "pdf_url": "https://openreview.net/pdf?id=JYbr9OvmCw"
+  },
+  {
+   "title": "KineSoft: Learning Proprioceptive Manipulation  Policies with Soft Robot Hands",
+   "authors": [
+    "Uksang Yoo",
+    "Jonathan Francis",
+    "Jean Oh",
+    "Jeffrey Ichnowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O1WzDfwHF7",
+   "pdf_url": "https://openreview.net/pdf?id=O1WzDfwHF7"
+  },
+  {
+   "title": "Learning a Thousand Tasks in a Day",
+   "authors": [
+    "Kamil Dreczkowski",
+    "Pietro Vitiello",
+    "Vitalis Vosylius",
+    "Edward Johns"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5e48yYecV5",
+   "pdf_url": "https://openreview.net/pdf?id=5e48yYecV5"
+  },
+  {
+   "title": "Learning Composable Diffusion Guidance for Motion Priors",
+   "authors": [
+    "Omkar Patil",
+    "Eric Rosen",
+    "Nakul Gopalan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=81AL3tq5Io",
+   "pdf_url": "https://openreview.net/pdf?id=81AL3tq5Io"
+  },
+  {
+   "title": "Learning Long-Context Robot Policies via Past-Token Prediction",
+   "authors": [
+    "Marcel Torne Villasevil",
+    "Andy Tang",
+    "Yuejiang Liu",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N4WWF8Les5",
+   "pdf_url": "https://openreview.net/pdf?id=N4WWF8Les5"
+  },
+  {
+   "title": "Learning the RoPEs: Better 2D and 3D Position Encodings with STRING",
+   "authors": [
+    "Connor Schenck",
+    "Isaac Reid",
+    "Mithun George Jacob",
+    "Alex Bewley",
+    "Joshua Ainslie",
+    "David Rendleman",
+    "Deepali Jain",
+    "Mohit Sharma",
+    "Kumar Avinava Dubey",
+    "Ayzaan Wahid",
+    "Sumeet Singh",
+    "René Wagner",
+    "Tianli Ding",
+    "Chuyuan Fu",
+    "Arunkumar Byravan",
+    "Jake Varley",
+    "Alexey A. Gritsenko",
+    "Matthias Minderer",
+    "Dmitry Kalashnikov",
+    "Jonathan Tompson",
+    "Vikas Sindhwani",
+    "Krzysztof Marcin Choromanski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3HLEfAFmox",
+   "pdf_url": "https://openreview.net/pdf?id=3HLEfAFmox"
+  },
+  {
+   "title": "ManiSkill3: GPU Parallelized Robot Simulation and Rendering for Generalizable Embodied AI",
+   "authors": [
+    "Stone Tao",
+    "Fanbo Xiang",
+    "Arth Shukla",
+    "Yuzhe Qin",
+    "Xander Hinrichsen",
+    "Xiaodi Yuan",
+    "Chen Bao",
+    "Xinsong Lin",
+    "Yulin Liu",
+    "Tse-Kai Chan",
+    "Yuan Gao",
+    "Xuanlin Li",
+    "Tongzhou Mu",
+    "Nan Xiao",
+    "Arnav Gurha",
+    "Viswesh N",
+    "Yong Woo Choi",
+    "Yen-Ru Chen",
+    "Zhiao Huang",
+    "Roberto Calandra",
+    "Rui Chen",
+    "Shan Luo",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GgTxudXaU8",
+   "pdf_url": "https://openreview.net/pdf?id=GgTxudXaU8"
+  },
+  {
+   "title": "Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning",
+   "authors": [
+    "Egor Cherepanov",
+    "Nikita Kachaev",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rF2bCLcYsI",
+   "pdf_url": "https://openreview.net/pdf?id=rF2bCLcYsI"
+  },
+  {
+   "title": "Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning",
+   "authors": [
+    "Alexi Canesse",
+    "Mathieu Petitbois",
+    "Ludovic Denoyer",
+    "sylvain lamprier",
+    "Rémy Portelas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GLuZg4l8ms",
+   "pdf_url": "https://openreview.net/pdf?id=GLuZg4l8ms"
+  },
+  {
+   "title": "Object-Centric Latent Action Learning",
+   "authors": [
+    "Albina Klepach",
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Denis Tarasov",
+    "Alexander Derevyagin",
+    "Andrei Polubarov",
+    "Lyubaykin Nikita",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JSthiQojug",
+   "pdf_url": "https://openreview.net/pdf?id=JSthiQojug"
+  },
+  {
+   "title": "Optimism via Intrinsic Rewards: Scalable and Principled Exploration for Model-based Reinforcement Learning",
+   "authors": [
+    "Bhavya Sukhija",
+    "Lenart Treven",
+    "Carmelo Sferrazza",
+    "Florian Dorfler",
+    "Pieter Abbeel",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VGdqa79ugx",
+   "pdf_url": "https://openreview.net/pdf?id=VGdqa79ugx"
+  },
+  {
+   "title": "PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation",
+   "authors": [
+    "Yifan Yin",
+    "Zhengtao Han",
+    "Shivam Aarya",
+    "Shuhang Xu",
+    "Jianxin Wang",
+    "Jiawei Peng",
+    "Angtian Wang",
+    "Alan Yuille",
+    "Tianmin Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kb4fDvJBlj",
+   "pdf_url": "https://openreview.net/pdf?id=Kb4fDvJBlj"
+  },
+  {
+   "title": "PEAR: Primitive Enabled Adaptive Relabeling for Boosting Hierarchical Reinforcement Learning",
+   "authors": [
+    "Utsav Singh",
+    "Vinay P. Namboodiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MuLiVg6Hve",
+   "pdf_url": "https://openreview.net/pdf?id=MuLiVg6Hve"
+  },
+  {
+   "title": "Policy-Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone",
+   "authors": [
+    "Max Sobol Mark",
+    "Tian Gao",
+    "Georgia Gabriela Sampaio",
+    "Mohan Kumar Srirama",
+    "Archit Sharma",
+    "Chelsea Finn",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VGOFxdc6AD",
+   "pdf_url": "https://openreview.net/pdf?id=VGOFxdc6AD"
+  },
+  {
+   "title": "PP-Tac: Paper Picking Using Omnidirectional Tactile Feedback in Dexterous Robotic Hands",
+   "authors": [
+    "Pei Lin",
+    "Yuzhe Huang",
+    "Wanlin Li",
+    "Jianpeng Ma",
+    "Chenxi Xiao",
+    "Ziyuan Jiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f2Ekjmh94V",
+   "pdf_url": "https://openreview.net/pdf?id=f2Ekjmh94V"
+  },
+  {
+   "title": "RecFlow Policy: Fast and Accurate Visuomotor Policy Learning via Rectified Action Flow",
+   "authors": [
+    "Rong Xue",
+    "Jiageng Mao",
+    "Mingtong Zhang",
+    "Yue Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VaKQqiIA3H",
+   "pdf_url": "https://openreview.net/pdf?id=VaKQqiIA3H"
+  },
+  {
+   "title": "RILe: Reinforced Imitation Learning",
+   "authors": [
+    "Berat Mert Albaba",
+    "Sammy Christen",
+    "Thomas Langerak",
+    "Christoph Gebhardt",
+    "Otmar Hilliges",
+    "Michael J. Black"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DjxXGzDZyF",
+   "pdf_url": "https://openreview.net/pdf?id=DjxXGzDZyF"
+  },
+  {
+   "title": "RL Zero: Zero-Shot Language to Behaviors without any Supervision",
+   "authors": [
+    "Harshit Sikchi",
+    "Siddhant Agarwal",
+    "Pranaya Jajoo",
+    "Samyak Parajuli",
+    "Caleb Chuck",
+    "Max Rudolph",
+    "Peter Stone",
+    "Amy Zhang",
+    "Scott Niekum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wNvuk13MnP",
+   "pdf_url": "https://openreview.net/pdf?id=wNvuk13MnP"
+  },
+  {
+   "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+   "authors": [
+    "Chan Hee Song",
+    "Valts Blukis",
+    "Jonathan Tremblay",
+    "Stephen Tyree",
+    "Yu Su",
+    "Stan Birchfield"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sextl6R3Nf",
+   "pdf_url": "https://openreview.net/pdf?id=Sextl6R3Nf"
+  },
+  {
+   "title": "SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation",
+   "authors": [
+    "Haoquan Fang",
+    "Markus Grotz",
+    "Wilbert Pumacay",
+    "Yi Ru Wang",
+    "Dieter Fox",
+    "Ranjay Krishna",
+    "Jiafei Duan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XuUNUXVgmb",
+   "pdf_url": "https://openreview.net/pdf?id=XuUNUXVgmb"
+  },
+  {
+   "title": "Self-supervised Visual State Representation Learning for robotics from Dynamic Scenes",
+   "authors": [
+    "Taekyung Kim",
+    "Dongyoon Han",
+    "Byeongho Heo",
+    "Jeongeun Park",
+    "Sangdoo Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bEM2WGagcJ",
+   "pdf_url": "https://openreview.net/pdf?id=bEM2WGagcJ"
+  },
+  {
+   "title": "Small features matter: Robust representation for world models",
+   "authors": [
+    "Zarif Ikram",
+    "Miranda Anna Christ",
+    "Ling Pan",
+    "Dianbo Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4rON0AlI2S",
+   "pdf_url": "https://openreview.net/pdf?id=4rON0AlI2S"
+  },
+  {
+   "title": "Stress-Testing Offline Reward-Free Reinforcement Learning: A Case for Planning with Latent Dynamics Models",
+   "authors": [
+    "Vlad Sobal",
+    "Wancong Zhang",
+    "Kyunghyun Cho",
+    "Randall Balestriero",
+    "Tim G. J. Rudner",
+    "Yann LeCun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jON7H6A9UU",
+   "pdf_url": "https://openreview.net/pdf?id=jON7H6A9UU"
+  },
+  {
+   "title": "Student-Informed Teacher Training",
+   "authors": [
+    "Nico Messikommer",
+    "Jiaxu Xing",
+    "Elie Aljalbout",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q06EAFOwDI",
+   "pdf_url": "https://openreview.net/pdf?id=q06EAFOwDI"
+  },
+  {
+   "title": "Teaching Visual Language Models to Navigate using Maps",
+   "authors": [
+    "Tigran Galstyan",
+    "Hakob Tamazyan",
+    "Narek Nurijanyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMRRNFejHb",
+   "pdf_url": "https://openreview.net/pdf?id=CMRRNFejHb"
+  },
+  {
+   "title": "TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning",
+   "authors": [
+    "Ge Li",
+    "Dong Tian",
+    "Hongyi Zhou",
+    "Xinkai Jiang",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W86TU1rMOg",
+   "pdf_url": "https://openreview.net/pdf?id=W86TU1rMOg"
+  },
+  {
+   "title": "Towards Fusing Point Cloud and Visual Representations for Imitation Learning",
+   "authors": [
+    "Atalay Donat",
+    "Xiaogang Jia",
+    "Xi Huang",
+    "Aleksandar Taranovic",
+    "Denis Blessing",
+    "Ge Li",
+    "Hongyi Zhou",
+    "Hanyi Zhang",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5cG7ilWX1V",
+   "pdf_url": "https://openreview.net/pdf?id=5cG7ilWX1V"
+  },
+  {
+   "title": "Universal Actions for Enhanced Embodied Foundation Models",
+   "authors": [
+    "Jinliang Zheng",
+    "Jianxiong Li",
+    "Dongxiu Liu",
+    "Yinan Zheng",
+    "Zhihao Wang",
+    "Zhonghong Ou",
+    "Yu Liu",
+    "Jingjing Liu",
+    "Ya-Qin Zhang",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jT4Rf2FgxW",
+   "pdf_url": "https://openreview.net/pdf?id=jT4Rf2FgxW"
+  },
+  {
+   "title": "Value-Based Deep RL Scales Predictably",
+   "authors": [
+    "Oleh Rybkin",
+    "Michal Nauman",
+    "Preston Fu",
+    "Charlie Victor Snell",
+    "Pieter Abbeel",
+    "Sergey Levine",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vS0R9cDHFN",
+   "pdf_url": "https://openreview.net/pdf?id=vS0R9cDHFN"
+  },
+  {
+   "title": "World Models as Reference Trajectories for Rapid Motor Adaptation",
+   "authors": [
+    "Carlos Stein Brito",
+    "Daniel C McNamee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wyDg4x8FIY",
+   "pdf_url": "https://openreview.net/pdf?id=wyDg4x8FIY"
+  },
+  {
+   "title": "X-IL: Exploring the Design Space of Imitation Learning Policies",
+   "authors": [
+    "Xiaogang Jia",
+    "Atalay Donat",
+    "Xi Huang",
+    "Xuan Zhao",
+    "Denis Blessing",
+    "Hongyi Zhou",
+    "Hanyi Zhang",
+    "Han A. Wang",
+    "Qian Wang",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8w0OJsTaFz",
+   "pdf_url": "https://openreview.net/pdf?id=8w0OJsTaFz"
+  }
+ ]
+}

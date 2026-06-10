@@ -1,0 +1,464 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/RBFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:59.055Z",
+ "paper_count": 34,
+ "papers": [
+  {
+   "title": "Adversarial Robust Deep Reinforcement Learning is Neither Robust Nor Safe",
+   "authors": [
+    "Ezgi Korkmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EPa0udvXJE",
+   "pdf_url": "https://openreview.net/pdf?id=EPa0udvXJE"
+  },
+  {
+   "title": "Aligning to What? Limits to RLHF Based Alignment",
+   "authors": [
+    "Logan Barnhart",
+    "Reza Akbarian Bafghi",
+    "Maziar Raissi",
+    "Stephen Becker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pt2d3SlXQP",
+   "pdf_url": "https://openreview.net/pdf?id=pt2d3SlXQP"
+  },
+  {
+   "title": "Attention Shift: Steering AI Away from Unsafe Content",
+   "authors": [
+    "Shivank Garg",
+    "Manyana Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dbuzp0DjgL",
+   "pdf_url": "https://openreview.net/pdf?id=Dbuzp0DjgL"
+  },
+  {
+   "title": "BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks",
+   "authors": [
+    "Juan A. Rodriguez",
+    "Xiangru Jian",
+    "Siba Smarak Panigrahi",
+    "Tianyu Zhang",
+    "Aarash Feizi",
+    "Abhay Puri",
+    "Akshay Kalkunte Suresh",
+    "François Savard",
+    "Ahmed Masry",
+    "Shravan Nayak",
+    "Rabiul Awal",
+    "Mahsa Massoud",
+    "Amirhossein Abaskohi",
+    "Zichao Li",
+    "Suyuchen Wang",
+    "Pierre-Andre Noel",
+    "Mats Leon Richter",
+    "Saverio Vadacchino",
+    "Shubham Agarwal",
+    "Sanket Biswas",
+    "Sara Shanian",
+    "Ying Zhang",
+    "Kurt MacDonald",
+    "Sathwik Tejaswi Madhusudhan",
+    "Joao Monteiro",
+    "Krishnamurthy Dj Dvijotham",
+    "Torsten Scholak",
+    "Nicolas Chapados",
+    "Sepideh Kharaghani",
+    "Sean Hughes",
+    "M. Özsu",
+    "Siva Reddy",
+    "Marco Pedersoli",
+    "Yoshua Bengio",
+    "Christopher Pal",
+    "Issam H. Laradji",
+    "Spandana Gella",
+    "Perouz Taslakian",
+    "David Vazquez",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UTgNFcpk0j",
+   "pdf_url": "https://openreview.net/pdf?id=UTgNFcpk0j"
+  },
+  {
+   "title": "Building and better understanding vision-language models: insights and future directions",
+   "authors": [
+    "Hugo Laurençon",
+    "Andrés Marafioti",
+    "Victor Sanh",
+    "Leo Tronchon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iSL0FHZStr",
+   "pdf_url": "https://openreview.net/pdf?id=iSL0FHZStr"
+  },
+  {
+   "title": "Comparison Visual Instruction Tuning",
+   "authors": [
+    "Wei Lin",
+    "Muhammad Jehanzeb Mirza",
+    "Sivan Doveh",
+    "Rogerio Feris",
+    "Raja Giryes",
+    "Sepp Hochreiter",
+    "Leonid Karlinsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mm2mB1jHZK",
+   "pdf_url": "https://openreview.net/pdf?id=Mm2mB1jHZK"
+  },
+  {
+   "title": "Consistency-diversity-realism Pareto fronts of conditional image generative models",
+   "authors": [
+    "Pietro Astolfi",
+    "Melissa Hall",
+    "Jakob Verbeek",
+    "Marlene Careil",
+    "Oscar Mañas",
+    "Matthew J. Muckley",
+    "Adriana Romero-Soriano",
+    "Michal Drozdzal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H13U2WikCz",
+   "pdf_url": "https://openreview.net/pdf?id=H13U2WikCz"
+  },
+  {
+   "title": "Coordinated Robustness Evaluation Framework for Vision Language Models",
+   "authors": [
+    "Ashwin Ramesh Babu",
+    "Sajad Mousavi",
+    "Desik Rengarajan",
+    "Vineet Gundecha",
+    "Sahand Ghorbanpour",
+    "Avisek Naug",
+    "Antonio Guillen",
+    "Ricardo Luna Gutierrez",
+    "Soumyendu Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7DpNGceUUV",
+   "pdf_url": "https://openreview.net/pdf?id=7DpNGceUUV"
+  },
+  {
+   "title": "CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models",
+   "authors": [
+    "Guangzhi Sun",
+    "Potsawee Manakul",
+    "Adian Liusie",
+    "Kunat Pipatanakul",
+    "Chao Zhang",
+    "Phil Woodland",
+    "Mark Gales"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2jdohv2bPk",
+   "pdf_url": "https://openreview.net/pdf?id=2jdohv2bPk"
+  },
+  {
+   "title": "Decompose, Recompose, and Conquer: Multi-modal LLMs are Vulnerable to Compositional Adversarial Attacks in Multi-Image Queries",
+   "authors": [
+    "Julius Broomfield",
+    "George Ingebretsen",
+    "Reihaneh Iranmanesh",
+    "Sara Pieri",
+    "Ethan Kosak-Hine",
+    "Tom Gibbs",
+    "Reihaneh Rabbany",
+    "Kellin Pelrine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7IXrDfuJTm",
+   "pdf_url": "https://openreview.net/pdf?id=7IXrDfuJTm"
+  },
+  {
+   "title": "Exploring Intrinsic Fairness in Stable Diffusion",
+   "authors": [
+    "Eunji Kim",
+    "Siwon Kim",
+    "Robin Rombach",
+    "Rahim Entezari",
+    "Sungroh Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nM75a1CzOI",
+   "pdf_url": "https://openreview.net/pdf?id=nM75a1CzOI"
+  },
+  {
+   "title": "GUIDE: A Responsible Multimodal Approach for Enhanced Glaucoma Risk Modeling and Patient Trajectory Analysis",
+   "authors": [
+    "Heman Shakeri",
+    "Behnaz Moradijamei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BSdvfyuLaZ",
+   "pdf_url": "https://openreview.net/pdf?id=BSdvfyuLaZ"
+  },
+  {
+   "title": "How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?",
+   "authors": [
+    "Saeid Asgari",
+    "Joseph George Lambourne",
+    "Alana Mongkhounsavath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VspjUVQsai",
+   "pdf_url": "https://openreview.net/pdf?id=VspjUVQsai"
+  },
+  {
+   "title": "Incorporating Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models",
+   "authors": [
+    "Ce Zhang",
+    "Zifu Wan",
+    "Zhehan Kan",
+    "Martin Q. Ma",
+    "Simon Stepputtis",
+    "Deva Ramanan",
+    "Russ Salakhutdinov",
+    "Louis-Philippe Morency",
+    "Katia P. Sycara",
+    "Yaqi Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1fpjV6xQ6Q",
+   "pdf_url": "https://openreview.net/pdf?id=1fpjV6xQ6Q"
+  },
+  {
+   "title": "Just rephrase it! Uncertainty estimation in closed-source language models via multiple rephrased queries",
+   "authors": [
+    "Adam X. Yang",
+    "Chen Chen",
+    "Konstantinos Pitas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4zbj329wz2",
+   "pdf_url": "https://openreview.net/pdf?id=4zbj329wz2"
+  },
+  {
+   "title": "LEMoN: Label Error Detection using Multimodal Neighbors",
+   "authors": [
+    "Haoran Zhang",
+    "Aparna Balagopalan",
+    "Nassim Oufattole",
+    "Hyewon Jeong",
+    "Yan Wu",
+    "Jiacheng Zhu",
+    "Marzyeh Ghassemi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bjm1MzLVRy",
+   "pdf_url": "https://openreview.net/pdf?id=Bjm1MzLVRy"
+  },
+  {
+   "title": "LLAVAGUARD: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment",
+   "authors": [
+    "Lukas Helff",
+    "Felix Friedrich",
+    "Manuel Brack",
+    "Kristian Kersting",
+    "Patrick Schramowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ri2qdOk3Hx",
+   "pdf_url": "https://openreview.net/pdf?id=Ri2qdOk3Hx"
+  },
+  {
+   "title": "MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models",
+   "authors": [
+    "Mohammad Shahab Sepehri",
+    "Zalan Fabian",
+    "Maryam Soltanolkotabi",
+    "Mahdi Soltanolkotabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mKFBNMdNj1",
+   "pdf_url": "https://openreview.net/pdf?id=mKFBNMdNj1"
+  },
+  {
+   "title": "MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs",
+   "authors": [
+    "Wenqian Ye",
+    "Guangtao Zheng",
+    "Yunsheng Ma",
+    "Xu Cao",
+    "Bolin Lai",
+    "James Matthew Rehg",
+    "Aidong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=htCZ3fEdV7",
+   "pdf_url": "https://openreview.net/pdf?id=htCZ3fEdV7"
+  },
+  {
+   "title": "MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in LLMs",
+   "authors": [
+    "Saeid Asgari",
+    "Aliasghar Khani",
+    "Amir Hosein Khasahmadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uxUhUiPfQ4",
+   "pdf_url": "https://openreview.net/pdf?id=uxUhUiPfQ4"
+  },
+  {
+   "title": "Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model",
+   "authors": [
+    "Wenqi Zhang",
+    "Zhenglin Cheng",
+    "Yuanyu He",
+    "Mengna Wang",
+    "Yongliang Shen",
+    "Zeqi Tan",
+    "Guiyang Hou",
+    "Mingqian He",
+    "Yanna Ma",
+    "Weiming Lu",
+    "Yueting Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wZ4yPytmeK",
+   "pdf_url": "https://openreview.net/pdf?id=wZ4yPytmeK"
+  },
+  {
+   "title": "Multimodal Situational Safety",
+   "authors": [
+    "Kaiwen Zhou",
+    "Chengzhi Liu",
+    "Xuandong Zhao",
+    "Anderson Compalas",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L1vaMp6iBC",
+   "pdf_url": "https://openreview.net/pdf?id=L1vaMp6iBC"
+  },
+  {
+   "title": "PopAlign: Population-Level Alignment for Fair Text-to-Image Generation",
+   "authors": [
+    "Shufan Li",
+    "Aditya Grover",
+    "Harkanwar Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MNxUWFZbkI",
+   "pdf_url": "https://openreview.net/pdf?id=MNxUWFZbkI"
+  },
+  {
+   "title": "Position Paper: Protocol Learning, Decentralized Frontier Risk and the No-Off Problem",
+   "authors": [
+    "Alexander Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFr6JT2hpy",
+   "pdf_url": "https://openreview.net/pdf?id=xFr6JT2hpy"
+  },
+  {
+   "title": "Probabilistic Active Few-Shot Learning in Vision-Language Models",
+   "authors": [
+    "Anton Baumann",
+    "Marcus Klasson",
+    "Rui Li",
+    "Arno Solin",
+    "Martin Trapp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=63T4BtNNOM",
+   "pdf_url": "https://openreview.net/pdf?id=63T4BtNNOM"
+  },
+  {
+   "title": "Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models",
+   "authors": [
+    "Mazda Moayeri",
+    "Samyadeep Basu",
+    "Sriram Balasubramanian",
+    "Priyatham Kattakinda",
+    "Atoosa Chegini",
+    "Robert Brauneis",
+    "Soheil Feizi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hSsgI1gpZ6",
+   "pdf_url": "https://openreview.net/pdf?id=hSsgI1gpZ6"
+  },
+  {
+   "title": "Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models",
+   "authors": [
+    "Gracjan Góral",
+    "Alicja Ziarko",
+    "Michal Nauman",
+    "Maciej Wolczyk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4tsFFBvRzX",
+   "pdf_url": "https://openreview.net/pdf?id=4tsFFBvRzX"
+  },
+  {
+   "title": "Skipping Computations in Multimodal LLMs",
+   "authors": [
+    "Mustafa Shukor",
+    "Matthieu Cord"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qkmMvLckB9",
+   "pdf_url": "https://openreview.net/pdf?id=qkmMvLckB9"
+  },
+  {
+   "title": "The Multi-faceted Monosemanticity in Multimodal Representations",
+   "authors": [
+    "Hanqi Yan",
+    "Yulan He",
+    "Yifei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9NLRpwfLnT",
+   "pdf_url": "https://openreview.net/pdf?id=9NLRpwfLnT"
+  },
+  {
+   "title": "Towards Secure and Private AI: A Framework for Decentralized Inference",
+   "authors": [
+    "Hongyang Zhang",
+    "Yue Zhao",
+    "Chao Yang",
+    "Ahmad Farhan",
+    "Fielding Johnston"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yAPPj6nGwJ",
+   "pdf_url": "https://openreview.net/pdf?id=yAPPj6nGwJ"
+  },
+  {
+   "title": "Trust but Verify: Reliable VLM evaluation in-the-wild with program synthesis",
+   "authors": [
+    "Viraj Uday Prabhu",
+    "Senthil Purushwalkam",
+    "Jieyu Zhang",
+    "An Yan",
+    "Caiming Xiong",
+    "Ran Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P9hTkOJ1wW",
+   "pdf_url": "https://openreview.net/pdf?id=P9hTkOJ1wW"
+  },
+  {
+   "title": "When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?",
+   "authors": [
+    "Rylan Schaeffer",
+    "Dan Valentine",
+    "Luke Bailey",
+    "James Chua",
+    "Cristobal Eyzaguirre",
+    "Zane Durante",
+    "Joe Benton",
+    "Brando Miranda",
+    "Henry Sleight",
+    "Tony Tong Wang",
+    "John Hughes",
+    "Rajashree Agrawal",
+    "Mrinank Sharma",
+    "Scott Emmons",
+    "Sanmi Koyejo",
+    "Ethan Perez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jEqdmQYfgg",
+   "pdf_url": "https://openreview.net/pdf?id=jEqdmQYfgg"
+  },
+  {
+   "title": "WikiDO: A New Benchmark Evaluating Cross-Modal Retrieval for Vision-Language Models",
+   "authors": [
+    "Pavan Kalyan Tankala",
+    "Piyush Singh Pasi",
+    "Sahil Dharod",
+    "Azeem Motiwala",
+    "Preethi Jyothi",
+    "Aditi Chaudhary",
+    "Krishna Srinivasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6O8wxERhSF",
+   "pdf_url": "https://openreview.net/pdf?id=6O8wxERhSF"
+  },
+  {
+   "title": "You Never Know: Quantization Induces Inconsistent Biases in Vision-Language Foundation Models",
+   "authors": [
+    "Eric Slyman",
+    "Anirudh Kanneganti",
+    "Sanghyun Hong",
+    "Stefan Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=95Bh0yjU9I",
+   "pdf_url": "https://openreview.net/pdf?id=95Bh0yjU9I"
+  }
+ ]
+}

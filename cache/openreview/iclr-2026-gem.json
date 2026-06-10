@@ -1,0 +1,954 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/GEM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:11.115Z",
+ "paper_count": 76,
+ "papers": [
+  {
+   "title": "A novel combinatorial high-throughput assay of small molecules and their protein targets",
+   "authors": [
+    "Simon P Shen",
+    "Brian B. Liau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1dN3BaF81c",
+   "pdf_url": "https://openreview.net/pdf?id=1dN3BaF81c"
+  },
+  {
+   "title": "A Prospective Experimental Assessment of Structure-Based Drug Design: Are We There Yet?",
+   "authors": [
+    "Maximilian G. Schuh",
+    "Joshua Hesse",
+    "Konstantin Eckel",
+    "Quy Cong Van",
+    "Niklas Halbwedl",
+    "Frederik Weber",
+    "Andres Jäschke",
+    "Martin Zacharias",
+    "Stephan A. Sieber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k53jrNuEBT",
+   "pdf_url": "https://openreview.net/pdf?id=k53jrNuEBT"
+  },
+  {
+   "title": "A Unified Computational Framework for the Integration of AI Models in Structure-Based Drug Design",
+   "authors": [
+    "Luna Pianesi",
+    "Alexander Schoenhuth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mtQ0RXJZp2",
+   "pdf_url": "https://openreview.net/pdf?id=mtQ0RXJZp2"
+  },
+  {
+   "title": "AbDD: Experimentally Validated Antibody Developability Optimization via Discrete Diffusion",
+   "authors": [
+    "Oliver M. Turnbull",
+    "Alexander Nicholas St John",
+    "Alec Nelson Thomas",
+    "Charlotte Deane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ownY0ejgBO",
+   "pdf_url": "https://openreview.net/pdf?id=ownY0ejgBO"
+  },
+  {
+   "title": "Accelerating Protein Molecular Dynamics Simulation with DeepJump",
+   "authors": [
+    "Allan Dos Santos Costa",
+    "Manvitha Ponnapati",
+    "Dana Rubin",
+    "Tess Smidt",
+    "JOSEPH JACOBSON"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R4zMVuLzHY",
+   "pdf_url": "https://openreview.net/pdf?id=R4zMVuLzHY"
+  },
+  {
+   "title": "Accelerating Scientific Discovery with Autonomous Goal-evolving Agents",
+   "authors": [
+    "Yuanqi Du",
+    "Botao Yu",
+    "Tianyu Liu",
+    "Tony Shen",
+    "Junwu Chen",
+    "Jan G. Rittig",
+    "Kunyang Sun",
+    "Yikun Zhang",
+    "Cassandra Masschelein",
+    "Yingze Wang",
+    "Haorui Wang",
+    "Haojun Jia",
+    "Chao Zhang",
+    "Hongyu Zhao",
+    "Martin Ester",
+    "Teresa Head-Gordon",
+    "Carla P Gomes",
+    "Huan Sun",
+    "Chenru Duan",
+    "Philippe Schwaller",
+    "Wengong Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Aotxhoz8bY",
+   "pdf_url": "https://openreview.net/pdf?id=Aotxhoz8bY"
+  },
+  {
+   "title": "AF3Design: Selectivity–Aware Nanobody Design with AlphaFold3",
+   "authors": [
+    "Anisha Parsan",
+    "Robin Pan",
+    "Caroline Uhler",
+    "Wengong Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KKb8YpjRpT",
+   "pdf_url": "https://openreview.net/pdf?id=KKb8YpjRpT"
+  },
+  {
+   "title": "AlphaFast: High-throughput AlphaFold 3 via GPU-accelerated MSA construction",
+   "authors": [
+    "Benjamin C. Perry",
+    "Jeonghyeon Kim",
+    "Philip Romero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvOLtxj5eY",
+   "pdf_url": "https://openreview.net/pdf?id=TvOLtxj5eY"
+  },
+  {
+   "title": "An Integrated Computational-Experimental Platform for Holistic mRNA Sequence Design, Build, Test, and Learn",
+   "authors": [
+    "Anmol Seth",
+    "Adam Snider",
+    "Celeste B Marsan",
+    "Vanessa Vang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGZ2Yh91TH",
+   "pdf_url": "https://openreview.net/pdf?id=PGZ2Yh91TH"
+  },
+  {
+   "title": "Antibody design with steerable discrete diffusion",
+   "authors": [
+    "Hugh Yeh",
+    "Niksa Praljak",
+    "Zhijie Chen",
+    "Thomas M. Walsh",
+    "Juan L. Mendoza",
+    "Jun Huang",
+    "Andrew Ferguson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k3UWKDmtMV",
+   "pdf_url": "https://openreview.net/pdf?id=k3UWKDmtMV"
+  },
+  {
+   "title": "Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design",
+   "authors": [
+    "Zichen Wang",
+    "Runze Ma",
+    "Xiaoliang Shi",
+    "Zhongyue Zhang",
+    "Shuangjia Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qnsCjmCcME",
+   "pdf_url": "https://openreview.net/pdf?id=qnsCjmCcME"
+  },
+  {
+   "title": "AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with Multi-Objective Guidance",
+   "authors": [
+    "Tong Chen",
+    "Yinuo Zhang",
+    "Sophia Vincoff",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DbY0F5ns9f",
+   "pdf_url": "https://openreview.net/pdf?id=DbY0F5ns9f"
+  },
+  {
+   "title": "Autoregressive Boltzmann Generators",
+   "authors": [
+    "Danyal Rehman",
+    "Charlie B. Tan",
+    "Yoshua Bengio",
+    "Joey Bose",
+    "Alexander Tong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tyQ3hBeY7L",
+   "pdf_url": "https://openreview.net/pdf?id=tyQ3hBeY7L"
+  },
+  {
+   "title": "Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design",
+   "authors": [
+    "Simon J. Crouzet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UPUoa6mcdZ",
+   "pdf_url": "https://openreview.net/pdf?id=UPUoa6mcdZ"
+  },
+  {
+   "title": "Boltz2ESI: Accurate Enzyme Specificity Prediction with Co-folding Foundation Model",
+   "authors": [
+    "Xiwei Cheng",
+    "Seonghwan Seo",
+    "Jihang Chen",
+    "Songlin Jiang",
+    "Pengkang Guo",
+    "Wengong Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c96cNmDasb",
+   "pdf_url": "https://openreview.net/pdf?id=c96cNmDasb"
+  },
+  {
+   "title": "Bonobo: Efficient Library-Scale Generation for De Novo Antibody Design",
+   "authors": [
+    "Sebastian W. Ober",
+    "Nick Bhattacharya",
+    "Phillip Maffettone",
+    "Calvin McCarter",
+    "Hunter Elliott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TVs8PzlDyR",
+   "pdf_url": "https://openreview.net/pdf?id=TVs8PzlDyR"
+  },
+  {
+   "title": "Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions",
+   "authors": [
+    "Lukas Billera",
+    "Hedwig Nora Nordlinder",
+    "Jack Collier Ryder",
+    "Anton Oresten",
+    "Aron Stålmarck",
+    "Theodor Mosetti Björk",
+    "Ben Murrell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xsghez038X",
+   "pdf_url": "https://openreview.net/pdf?id=xsghez038X"
+  },
+  {
+   "title": "CausalBind: Causal Concept Alignment for Protein-Ligand Virtual Screening",
+   "authors": [
+    "Loka Li",
+    "Jin Tian",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0vEuZ45P0z",
+   "pdf_url": "https://openreview.net/pdf?id=0vEuZ45P0z"
+  },
+  {
+   "title": "CHIMERA-Bench: A Benchmark Dataset for Epitope-Specific Antibody Design",
+   "authors": [
+    "Mansoor Ahmed",
+    "Nadeem Taj",
+    "Imdad Ullah Khan",
+    "Hemanth Venkateswara",
+    "Murray Patterson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PyZvVIJbSy",
+   "pdf_url": "https://openreview.net/pdf?id=PyZvVIJbSy"
+  },
+  {
+   "title": "Comparing Selectivity-Aware Generative AI and Library Screening in a Virtual DMT Cycle",
+   "authors": [
+    "Amit Kadan",
+    "Erika Lloyd",
+    "Andrew Wildman",
+    "Leo Zhang",
+    "Steffen Ridderbusch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NVs6PwXdhe",
+   "pdf_url": "https://openreview.net/pdf?id=NVs6PwXdhe"
+  },
+  {
+   "title": "Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA",
+   "authors": [
+    "Animesh Awasthi",
+    "Raphael Bednarsky",
+    "Moritz Schaefer",
+    "Christoph Bock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IJM5j7U9N6",
+   "pdf_url": "https://openreview.net/pdf?id=IJM5j7U9N6"
+  },
+  {
+   "title": "Conditionally Site-Independent Neural Evolution of Antibody Sequences",
+   "authors": [
+    "Stephen Zhewen Lu",
+    "Aakarsh Vermani",
+    "Kohei Sanno",
+    "Jiarui Lu",
+    "Frederick A Matsen",
+    "Milind Jagota",
+    "Yun S. Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fxM0aDtsvD",
+   "pdf_url": "https://openreview.net/pdf?id=fxM0aDtsvD"
+  },
+  {
+   "title": "Conditioning Protein Language Models Using High-Throughput Sequence-Fitness Data Collection",
+   "authors": [
+    "Sonia C. Yuan",
+    "Jason Yang",
+    "Jinbei Li",
+    "Bastian Vogeli",
+    "Simon R. Krarup",
+    "Emily D. Roberts",
+    "Bjarke Erichsen",
+    "Vanessa Hurtado Mujica",
+    "Kenan Jijakli",
+    "Søren Karst",
+    "Lei Yang",
+    "Alex Toftgaard Nielsen",
+    "Tyler Paz Korman",
+    "Frances H. Arnold"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R7bguD4XaN",
+   "pdf_url": "https://openreview.net/pdf?id=R7bguD4XaN"
+  },
+  {
+   "title": "DeepPrime7: Predicting PE7 Prime Editing Efficiency Across PAM Variants",
+   "authors": [
+    "Yumin Cheong",
+    "Yunyoung Choi",
+    "Hui Kwon Kim",
+    "Hyongbum Henry Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NN0ePw8w79",
+   "pdf_url": "https://openreview.net/pdf?id=NN0ePw8w79"
+  },
+  {
+   "title": "Design of phase-separating biosystem via joint diffusion and positive-unlabeled guidance",
+   "authors": [
+    "Peiran Jiang",
+    "Adrita Das",
+    "Weifeng Wu",
+    "Simran Sodhi",
+    "Huaiying Zhang",
+    "Jose Lugo-Martinez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RV5bw5nGZm",
+   "pdf_url": "https://openreview.net/pdf?id=RV5bw5nGZm"
+  },
+  {
+   "title": "Discovery of Bioresorbable Polymer Suture Coatings for Controlled Tissue Regeneration with Multimodal Foundation Models",
+   "authors": [
+    "Raghav Ramji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CM3PHnZRg0",
+   "pdf_url": "https://openreview.net/pdf?id=CM3PHnZRg0"
+  },
+  {
+   "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabilities in Cancer",
+   "authors": [
+    "Bryan Cheng",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xaxh4j1G3j",
+   "pdf_url": "https://openreview.net/pdf?id=xaxh4j1G3j"
+  },
+  {
+   "title": "Efficient, Few-shot Directed Evolution with Energy Rank Alignment",
+   "authors": [
+    "Sebastian Ibarraran",
+    "Shriram Chennakesavalu",
+    "Frank Hu",
+    "Grant M. Rotskoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Y6A9oyovP",
+   "pdf_url": "https://openreview.net/pdf?id=2Y6A9oyovP"
+  },
+  {
+   "title": "Folding scFv--Antigen Complexes at Scale",
+   "authors": [
+    "Ravi Shah",
+    "Jeffrey Ouyang-Zhang",
+    "Zachary Cohen",
+    "Maria Rosaria Briglia",
+    "Chi Zhang",
+    "Adam Klivans",
+    "Daniel Jesus Diaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u7D5QKSkQr",
+   "pdf_url": "https://openreview.net/pdf?id=u7D5QKSkQr"
+  },
+  {
+   "title": "FoldSAE: Learning To Steer Protein Folding Through Sparse Representations",
+   "authors": [
+    "Wojciech Zarzecki",
+    "Paulina Szymczak",
+    "Ewa Szczurek",
+    "Kamil Deja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Nuy8EMu00",
+   "pdf_url": "https://openreview.net/pdf?id=4Nuy8EMu00"
+  },
+  {
+   "title": "From Structure to Function: Preference Alignment for Function-Aware Protein Inverse Folding",
+   "authors": [
+    "Tamatgar Nilufer",
+    "Soobin Park",
+    "Yinghua Yao",
+    "Xixian Chen",
+    "Yuangang Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sTEolR8Nn7",
+   "pdf_url": "https://openreview.net/pdf?id=sTEolR8Nn7"
+  },
+  {
+   "title": "Generalized Multi-State Protein Design with AlphaFold3",
+   "authors": [
+    "Xiwei Cheng",
+    "Pengkang Guo",
+    "Seonghwan Seo",
+    "Casper A. Goverde",
+    "Wengong Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d2AeLFbBm1",
+   "pdf_url": "https://openreview.net/pdf?id=d2AeLFbBm1"
+  },
+  {
+   "title": "Generative inverse design of RNA structure and function with gRNAde",
+   "authors": [
+    "Chaitanya K. Joshi",
+    "Edoardo Gianni",
+    "Samantha L. Y. Kwok",
+    "Simon V Mathis",
+    "Pietro Lio",
+    "Philipp Holliger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ngIdyl6Fm8",
+   "pdf_url": "https://openreview.net/pdf?id=ngIdyl6Fm8"
+  },
+  {
+   "title": "GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Based Condition Annealed Diffusion Sampler",
+   "authors": [
+    "Ahmed Selim Üzüm",
+    "Turkan Haliloglu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vhiWCJV8FU",
+   "pdf_url": "https://openreview.net/pdf?id=vhiWCJV8FU"
+  },
+  {
+   "title": "HallmarkAge: Binarized Hallmark-Aware Transcriptomic Clocks to Discover Aging Mechanisms",
+   "authors": [
+    "Saleem Abdul Fattah Ahmed Al Dajani",
+    "Elvira Kinzina",
+    "Juhyung Jung",
+    "Owen Mulledy",
+    "Gonzalo Cardenal-Antolin",
+    "Patrick T. Paine",
+    "Bohan Zhang",
+    "Dmitrii Glubokov",
+    "Alexander Tyshkovskiy",
+    "John R Williams",
+    "Jesse R. Poganik",
+    "Vadim N. Gladyshev",
+    "Jonathan S. Gootenberg",
+    "Omar Abudayyeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sx5bpASbKG",
+   "pdf_url": "https://openreview.net/pdf?id=sx5bpASbKG"
+  },
+  {
+   "title": "Hit Expansion via Localized Exploration of Synthesizable Chemical Space",
+   "authors": [
+    "Yidong Jin",
+    "Walter Virany",
+    "Andrew Lian",
+    "Amir Mehdi Soufi Enayati",
+    "Piotr Gaiński",
+    "Michał Koziarski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QQQKr7OKS4",
+   "pdf_url": "https://openreview.net/pdf?id=QQQKr7OKS4"
+  },
+  {
+   "title": "How to make the most of your masked language model for protein engineering",
+   "authors": [
+    "Calvin McCarter",
+    "Nick Bhattacharya",
+    "Sebastian W. Ober",
+    "Hunter Elliott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=29DD8mEX7w",
+   "pdf_url": "https://openreview.net/pdf?id=29DD8mEX7w"
+  },
+  {
+   "title": "Hybrid interpretable biophysical modeling of fluorescent protein biosensor function",
+   "authors": [
+    "John N. Koberstein",
+    "Alison G. Tebo",
+    "Srinivas C Turaga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6sKiPAZBq4",
+   "pdf_url": "https://openreview.net/pdf?id=6sKiPAZBq4"
+  },
+  {
+   "title": "IN SILICO GENERATIVE DESIGN OF CHEMICALLY MODIFIED RNA SEQUENCES FOR FUNCTIONAL PREDICTION",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3EDH1FojWD",
+   "pdf_url": "https://openreview.net/pdf?id=3EDH1FojWD"
+  },
+  {
+   "title": "Inference-time optimization for experiment-grounded protein ensemble generation",
+   "authors": [
+    "Sai Advaith Maddipatla",
+    "Anar Rzayev",
+    "Marco Pegoraro",
+    "Ailie Marx",
+    "Martin Pacesa",
+    "Paul Schanda",
+    "Sanketh Vedula",
+    "Alexander Bronstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vY9FoSdf85",
+   "pdf_url": "https://openreview.net/pdf?id=vY9FoSdf85"
+  },
+  {
+   "title": "Inference-Time Toxicity Mitigation in Protein Language Models via Logit-Diff Amplification",
+   "authors": [
+    "Manuel Fernández Burda",
+    "Santiago Aranguri",
+    "Iván Arcuschin",
+    "Enzo Ferrante"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v3zLrnkvWD",
+   "pdf_url": "https://openreview.net/pdf?id=v3zLrnkvWD"
+  },
+  {
+   "title": "Information-Theoretic Requirements for Gradient-Based Task Affinity Estimation in Multi-Task Learning",
+   "authors": [
+    "Jasper Zhang",
+    "Bryan Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kh7OmcsDLP",
+   "pdf_url": "https://openreview.net/pdf?id=kh7OmcsDLP"
+  },
+  {
+   "title": "JUST ADD STRUCTURE: PROTEIN LANGUAGE MODELS COMBINED WITH STRUCTURAL EQUIVARIANCE EXCEL AT PROTEIN TASKS",
+   "authors": [
+    "Qurat ul ain",
+    "Yee Whye Teh",
+    "Carlos Outeiral",
+    "Matteo Cagiada",
+    "Charlotte Deane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AnTP2DlKhJ",
+   "pdf_url": "https://openreview.net/pdf?id=AnTP2DlKhJ"
+  },
+  {
+   "title": "Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction",
+   "authors": [
+    "Yinhua Piao",
+    "Hyomin Kim",
+    "Seonghwan Kim",
+    "Yunhak Oh",
+    "Junhyeok Jeon",
+    "Sang-Yeon Hwang",
+    "Jaechang Lim",
+    "Woo Youn Kim",
+    "Chanyoung Park",
+    "Sungsoo Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vnx6ZyV6cw",
+   "pdf_url": "https://openreview.net/pdf?id=Vnx6ZyV6cw"
+  },
+  {
+   "title": "LieFlower: Controlling Protein Dynamics via Lie-Guided Discrete Flows",
+   "authors": [
+    "Manvitha Ponnapati",
+    "Tong Chen",
+    "Yinuo Zhang",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lme22wDq1f",
+   "pdf_url": "https://openreview.net/pdf?id=lme22wDq1f"
+  },
+  {
+   "title": "Lyrebird: Toward Robust and Generalizable 3D Molecular Conformer Generation via Equivariant Flows",
+   "authors": [
+    "Vedanth M. Nilabh",
+    "Elias L Mann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1SBcUq9Lmr",
+   "pdf_url": "https://openreview.net/pdf?id=1SBcUq9Lmr"
+  },
+  {
+   "title": "Machine learning-guided design of biomolecular condensates in an automated laboratory",
+   "authors": [
+    "Peiran Jiang",
+    "Weifeng Wu",
+    "Simran Sodhi",
+    "Huaiying Zhang",
+    "Jose Lugo-Martinez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mId77v2sdj",
+   "pdf_url": "https://openreview.net/pdf?id=mId77v2sdj"
+  },
+  {
+   "title": "Mechanisms of AI Protein Folding in ESMFold",
+   "authors": [
+    "Kevin Lu",
+    "Jannik Brinkmann",
+    "Stefan T. Huber",
+    "Aaron Mueller",
+    "Yonatan Belinkov",
+    "David Bau",
+    "Chris Wendler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6IjPacqASB",
+   "pdf_url": "https://openreview.net/pdf?id=6IjPacqASB"
+  },
+  {
+   "title": "Mechanistic Interpretability of Antibody Language Models Using SAEs",
+   "authors": [
+    "Rebonto Haque",
+    "Oliver M. Turnbull",
+    "Anisha Parsan",
+    "Nithin Parsan",
+    "John Jingxuan Yang",
+    "Charlotte Deane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=knQBdVLCgo",
+   "pdf_url": "https://openreview.net/pdf?id=knQBdVLCgo"
+  },
+  {
+   "title": "ML-GUIDED MINING OF AN EXTENSIVELY VALIDATED SCFV LIBRARY FOR OPEN-SOURCE ENZYMES IN DIAGNOSTICS",
+   "authors": [
+    "Aishwarya Venkatramani",
+    "Jennifer Molloy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HiFZGiRzdb",
+   "pdf_url": "https://openreview.net/pdf?id=HiFZGiRzdb"
+  },
+  {
+   "title": "Modeling Static and Dynamic Protein Structure from 2D Infrared Spectrum with Stochastic Interpolant",
+   "authors": [
+    "Lee Cheuk Kit",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGDUZ0tEke",
+   "pdf_url": "https://openreview.net/pdf?id=gGDUZ0tEke"
+  },
+  {
+   "title": "mRNA-GPT: End-to-end Generative Design and Optimization of Full-length mRNA",
+   "authors": [
+    "Sizhen Li",
+    "Paul Chauvin",
+    "Ofek Gross",
+    "Michael Bailey",
+    "Sven Jager"
+   ],
+   "forum_url": "https://openreview.net/forum?id=juUrI9kCBw",
+   "pdf_url": "https://openreview.net/pdf?id=juUrI9kCBw"
+  },
+  {
+   "title": "MutaGen: Implicitly Guided Protein Evolution from Ranked Feedback via Pair-Based Discrete Flow Matching",
+   "authors": [
+    "Itamar Chinn",
+    "Paolo L.B. Fischer",
+    "Michael A Sun",
+    "Tim Holtgrefe",
+    "Ilan Mitnikov",
+    "Mo Zhou",
+    "David Magrefty",
+    "Sara Zantou",
+    "Josephine K. Carscadden",
+    "Kaiyi Jiang",
+    "Young Joon Kim",
+    "Jen Ben Arye",
+    "Jonathan S. Gootenberg",
+    "Omar Abudayyeh",
+    "Regina Barzilay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jJNBVoYpO3",
+   "pdf_url": "https://openreview.net/pdf?id=jJNBVoYpO3"
+  },
+  {
+   "title": "OmegAMP: Targeted AMP Discovery via Biologically Informed Generation",
+   "authors": [
+    "Diogo Soares",
+    "Leon Hetzel",
+    "Paulina Szymczak",
+    "Marcelo Der Torossian Torres",
+    "Johanna Sommer",
+    "Cesar de la Fuente-Nunez",
+    "Fabian J Theis",
+    "Stephan Günnemann",
+    "Ewa Szczurek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ItIvIp6Dr7",
+   "pdf_url": "https://openreview.net/pdf?id=ItIvIp6Dr7"
+  },
+  {
+   "title": "On improving experimental binding affinity predictions with synthetic data",
+   "authors": [
+    "Kevin Ryczko",
+    "Phyo Phyo Kyaw Zin",
+    "Jordan Crivelli-Decker",
+    "Ly Le",
+    "Punit K Jha",
+    "Benjamin J. Shields",
+    "Pablo Lemos",
+    "Sasaank Bandi",
+    "Maarten Van Damme",
+    "Martin Ganahl",
+    "Andrea Bortolato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aiQyNhZ3s5",
+   "pdf_url": "https://openreview.net/pdf?id=aiQyNhZ3s5"
+  },
+  {
+   "title": "Origin-1: Experimentally Validated Generative AI Platform for De Novo Antibody Design Against “Zero-Prior” Epitopes",
+   "authors": [
+    "Simon Levine-Gottreich",
+    "Paulina Kulytė",
+    "Jacob Stern",
+    "David Grayson",
+    "Jonathan Edward King",
+    "Umberto Lupo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZPBtdB0icX",
+   "pdf_url": "https://openreview.net/pdf?id=ZPBtdB0icX"
+  },
+  {
+   "title": "pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows",
+   "authors": [
+    "Tong Chen",
+    "Maximilian Holsman",
+    "Lin Zhao",
+    "Yinuo Zhang",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ys1RKwdKG7",
+   "pdf_url": "https://openreview.net/pdf?id=ys1RKwdKG7"
+  },
+  {
+   "title": "PeptiVerse: A Unified Platform for Therapeutic Peptide Property Prediction",
+   "authors": [
+    "Yinuo Zhang",
+    "Sophia Tang",
+    "Tong Chen",
+    "Elizabeth H Mahood",
+    "Sophia Vincoff",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hGM0DJaEth",
+   "pdf_url": "https://openreview.net/pdf?id=hGM0DJaEth"
+  },
+  {
+   "title": "PMO-Dock: Benchmarking Docking, Specificity and Generalization in Molecular Optimization",
+   "authors": [
+    "Gor Simonyan",
+    "Tatevik Abrahamyan",
+    "Narek Abelyan",
+    "Tigran Fahradyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KTjveJQe96",
+   "pdf_url": "https://openreview.net/pdf?id=KTjveJQe96"
+  },
+  {
+   "title": "PRISM: A Hybrid Diffusion-Reinforcement Learning Framework for 3D Structure-based De Novo Design",
+   "authors": [
+    "Sanaz Kazeminia",
+    "Lewis R. Vidler",
+    "Pushkar G. Ghanekar",
+    "Nele P Quast",
+    "Garrett M Morris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TAeVNZ77sH",
+   "pdf_url": "https://openreview.net/pdf?id=TAeVNZ77sH"
+  },
+  {
+   "title": "Protein Autoregressive Modeling via Multiscale Structure Generation",
+   "authors": [
+    "Yanru Qu",
+    "Cheng-Yen Hsieh",
+    "Zaixiang Zheng",
+    "Ge Liu",
+    "Quanquan Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KxVpRLo4Rr",
+   "pdf_url": "https://openreview.net/pdf?id=KxVpRLo4Rr"
+  },
+  {
+   "title": "Reading TEA leaves for de novo protein design",
+   "authors": [
+    "Lorenzo Pantolini",
+    "Janani Durairaj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PezfaOQRPf",
+   "pdf_url": "https://openreview.net/pdf?id=PezfaOQRPf"
+  },
+  {
+   "title": "S2S2Fun: Decoding Protein Function From Latent Structural Representations",
+   "authors": [
+    "Ge Tian",
+    "Yunting Hu",
+    "Jiaru Li",
+    "Jiayi Dou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gQ0PUdt9O0",
+   "pdf_url": "https://openreview.net/pdf?id=gQ0PUdt9O0"
+  },
+  {
+   "title": "Sample Efficient Generative Molecular Optimization with Joint Self-Improvement",
+   "authors": [
+    "Serra Korkmaz",
+    "Adam Izdebski",
+    "Jonathan Pirnay",
+    "Rasmus Møller-Larsen",
+    "Michal Kmicikiewicz",
+    "Pankhil Gawade",
+    "Dominik G. Grimm",
+    "Ewa Szczurek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OJyYwqn8H3",
+   "pdf_url": "https://openreview.net/pdf?id=OJyYwqn8H3"
+  },
+  {
+   "title": "Scalable Inference-Time Annealing for Continuous Normalizing Flows",
+   "authors": [
+    "Daniel Peñaherrera",
+    "Rishal Aggarwal",
+    "David Ryan Koes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fnRT37nxwq",
+   "pdf_url": "https://openreview.net/pdf?id=fnRT37nxwq"
+  },
+  {
+   "title": "Search-Based Inference-Time Scaling for All-Atom Protein Binder Design",
+   "authors": [
+    "Kiwoong Yoo",
+    "Soorin Yim",
+    "Kyungwook Lee",
+    "Sungjoon Park",
+    "Jaehyeong Kong",
+    "Doyeong Hwang",
+    "Jongseong Jang",
+    "Kiyoung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qLWzokU9E7",
+   "pdf_url": "https://openreview.net/pdf?id=qLWzokU9E7"
+  },
+  {
+   "title": "Sequence Design and Phylogenetic Inference with Generative Flow Networks",
+   "authors": [
+    "Qichen Huang",
+    "Carlos Michel Mourra-Diaz",
+    "Xiaozhen Wen",
+    "David Payette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yZMlHp613q",
+   "pdf_url": "https://openreview.net/pdf?id=yZMlHp613q"
+  },
+  {
+   "title": "SNOOPPI: Sequence-Normalized Database of On- and Off-Target Protein-Protein Interactions",
+   "authors": [
+    "Sophia Vincoff",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cJOLcoq149",
+   "pdf_url": "https://openreview.net/pdf?id=cJOLcoq149"
+  },
+  {
+   "title": "Structural plausibility without binding specificity: limits of AI-based antibody-antigen structure prediction scores",
+   "authors": [
+    "Eva Smorodina",
+    "Montader Ali",
+    "Klara Kropivšek",
+    "Leonardo Salicari",
+    "Samo Miklavc",
+    "Pietro Sormanni",
+    "Ario de Marco",
+    "Victor Greiff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yYwk45ErnJ",
+   "pdf_url": "https://openreview.net/pdf?id=yYwk45ErnJ"
+  },
+  {
+   "title": "SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles",
+   "authors": [
+    "Miruna Cretu",
+    "John Bradshaw",
+    "Patricia Suriana",
+    "Saeed Saremi",
+    "Omar Mahmood",
+    "Kirill Shmilovich",
+    "Kangway V. Chuang",
+    "Vishnu Sresht",
+    "Colin A Grambow"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XHIIOfwah8",
+   "pdf_url": "https://openreview.net/pdf?id=XHIIOfwah8"
+  },
+  {
+   "title": "Synthesis-constrained discrete diffusion for ionizable lipid generation",
+   "authors": [
+    "Rohin Maganti",
+    "Rahul Maganti",
+    "Mohamad-Gabriel Alameh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6RFQqfjD06",
+   "pdf_url": "https://openreview.net/pdf?id=6RFQqfjD06"
+  },
+  {
+   "title": "Synthetic RNA Evolution Enables Accurate Alignment-Free 3D Structure Prediction",
+   "authors": [
+    "Jörg K.H. Franke",
+    "Iris K. Tennie",
+    "Michael Uhl",
+    "Ryan Koksal",
+    "Dominika Matus",
+    "Frank Hutter",
+    "Rolf Backofen",
+    "Frederic Runge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wWKuI35OW7",
+   "pdf_url": "https://openreview.net/pdf?id=wWKuI35OW7"
+  },
+  {
+   "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
+   "authors": [
+    "Hanqun Cao",
+    "Aastha Pal",
+    "Sophia Tang",
+    "Yinuo Zhang",
+    "Jingjie Zhang",
+    "Pheng-Ann Heng",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DaimE25kV8",
+   "pdf_url": "https://openreview.net/pdf?id=DaimE25kV8"
+  },
+  {
+   "title": "The Mechanistic Invariance Test: Genomic Language Models Fail To Learn Positional Regulatory Logic",
+   "authors": [
+    "Bryan Cheng",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FlPCEFm23e",
+   "pdf_url": "https://openreview.net/pdf?id=FlPCEFm23e"
+  },
+  {
+   "title": "Towards A Generative Protein Evolution Machine with DPLM-Evo",
+   "authors": [
+    "Xinyou Wang",
+    "Liang Hong",
+    "Jiasheng Ye",
+    "Zaixiang Zheng",
+    "Shujian Huang",
+    "Quanquan Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xqnTGzQmfB",
+   "pdf_url": "https://openreview.net/pdf?id=xqnTGzQmfB"
+  },
+  {
+   "title": "TOWARDS UNDERSTANDING HYBRID PROTEIN LANGUAGE MODEL DESIGN: A SYSTEMATIC ABLATION AND INTERPRETABILITY STUDY",
+   "authors": [
+    "Yash Semlani",
+    "Nauman Javed",
+    "Frederick Hoffman",
+    "Krithik Ramesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8uTHSAorcc",
+   "pdf_url": "https://openreview.net/pdf?id=8uTHSAorcc"
+  }
+ ]
+}

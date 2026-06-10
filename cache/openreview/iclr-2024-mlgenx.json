@@ -1,0 +1,554 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/MLGenX",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:04.105Z",
+ "paper_count": 46,
+ "papers": [
+  {
+   "title": "A mechanistically interpretable neural-network architecture for discovery of regulatory genomics",
+   "authors": [
+    "Alex M Tseng",
+    "Gökcen Eraslan",
+    "Nathaniel Lee Diamant",
+    "Tommaso Biancalani",
+    "Gabriele Scalia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O3cxFYGEvw",
+   "pdf_url": "https://openreview.net/pdf?id=O3cxFYGEvw"
+  },
+  {
+   "title": "AcceleratedLiNGAM: Learning causal DAGs at the speed of GPUs",
+   "authors": [
+    "Victor Akinwande",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFpbCilW75",
+   "pdf_url": "https://openreview.net/pdf?id=wFpbCilW75"
+  },
+  {
+   "title": "Active learning to discover pairwise genetic interactions via representation learning",
+   "authors": [
+    "Moksh Jain",
+    "Alisandra Kaye Denton",
+    "Shawn T. Whitfield",
+    "Aniket Rajiv Didolkar",
+    "Berton Earnshaw",
+    "Jason Hartford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u6HN2jC6gU",
+   "pdf_url": "https://openreview.net/pdf?id=u6HN2jC6gU"
+  },
+  {
+   "title": "ADVANCING DNA LANGUAGE MODELS: THE GENOMICS LONG-RANGE BENCHMARK",
+   "authors": [
+    "Chia Hsiang Kao",
+    "Evan Trop",
+    "McKinley Polen",
+    "Yair Schiff",
+    "Bernardo P de Almeida",
+    "Aaron Gokaslan",
+    "Thomas PIERROT",
+    "Volodymyr Kuleshov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M3VlreGcC1",
+   "pdf_url": "https://openreview.net/pdf?id=M3VlreGcC1"
+  },
+  {
+   "title": "Are Genomic Language Models All You Need? Exploring Genomic Language Models on Protein Downstream Tasks",
+   "authors": [
+    "Sam Boshar",
+    "Evan Trop",
+    "Bernardo P de Almeida",
+    "Thomas PIERROT"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B60QZ0R2Zw",
+   "pdf_url": "https://openreview.net/pdf?id=B60QZ0R2Zw"
+  },
+  {
+   "title": "BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments",
+   "authors": [
+    "Yusuf H Roohani",
+    "Jian Vora",
+    "Qian Huang",
+    "Percy Liang",
+    "Jure Leskovec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n2sobRFRcP",
+   "pdf_url": "https://openreview.net/pdf?id=n2sobRFRcP"
+  },
+  {
+   "title": "Biologically Interpretable VAE with Supervision for Transcriptomics Data Under Ordinal Perturbations",
+   "authors": [
+    "Seyednami Niyakan",
+    "Xihaier Luo",
+    "Byung-Jun Yoon",
+    "Xiaoning Qian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f4nMJPKMkQ",
+   "pdf_url": "https://openreview.net/pdf?id=f4nMJPKMkQ"
+  },
+  {
+   "title": "Cell-Type Prediction in Spatial Transcriptomics Data using Graph Neural Networks",
+   "authors": [
+    "Moritz Lampert",
+    "Christopher Blöcker",
+    "Ingo Scholtes",
+    "Dominic Grün"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vlnaFzmYkI",
+   "pdf_url": "https://openreview.net/pdf?id=vlnaFzmYkI"
+  },
+  {
+   "title": "cellFlow: a generative flow-based model for single-cell count data",
+   "authors": [
+    "Alessandro Palma",
+    "Till Richter",
+    "Hanyi Zhang",
+    "Andrea Dittadi",
+    "Fabian J Theis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xaLXV2j8vl",
+   "pdf_url": "https://openreview.net/pdf?id=xaLXV2j8vl"
+  },
+  {
+   "title": "Contrastive Poincaré Maps for single-cell data analysis",
+   "authors": [
+    "Nithya Bhasker",
+    "Hattie Chung",
+    "Louis Boucherie",
+    "Vladislav Kim",
+    "Stefanie Speidel",
+    "Melanie Weber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zsUKE98bNu",
+   "pdf_url": "https://openreview.net/pdf?id=zsUKE98bNu"
+  },
+  {
+   "title": "DARKIN: A zero-shot classification benchmark and an  evaluation of protein language models",
+   "authors": [
+    "Emine Ayşe Sunar",
+    "Zeynep Işık",
+    "Mert Pekey",
+    "Ramazan Gokberk Cinbis",
+    "Oznur Tastan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a4x5tbYRYV",
+   "pdf_url": "https://openreview.net/pdf?id=a4x5tbYRYV"
+  },
+  {
+   "title": "Deep Learning and Direct Sequencing of Labeled RNA Captures Transcriptome Dynamics",
+   "authors": [
+    "Vlastimil Martinek",
+    "Jessica Martin",
+    "Cedric Belair",
+    "Matthew John Payea",
+    "Sulochan Malla",
+    "Panagiotis Alexiou",
+    "Manolis Maragkakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NB1NYFBmkC",
+   "pdf_url": "https://openreview.net/pdf?id=NB1NYFBmkC"
+  },
+  {
+   "title": "Dirichlet Flow Matching with Applications to DNA Sequence Design",
+   "authors": [
+    "Hannes Stark",
+    "Bowen Jing",
+    "Chenyu Wang",
+    "Gabriele Corso",
+    "Bonnie Berger",
+    "Regina Barzilay",
+    "Tommi Jaakkola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ehYe5bz8H3",
+   "pdf_url": "https://openreview.net/pdf?id=ehYe5bz8H3"
+  },
+  {
+   "title": "Disentanglement via Mechanism Sparsity by Replaying Realizations of the Past",
+   "authors": [
+    "Soroor Hediyeh-zadeh",
+    "Tom Fischer",
+    "Fabian J Theis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8hptqO7sfG",
+   "pdf_url": "https://openreview.net/pdf?id=8hptqO7sfG"
+  },
+  {
+   "title": "DNA language models identify variants predictive across the human phenome",
+   "authors": [
+    "Benjamin Wild",
+    "Julius Upmeier zu Belzen",
+    "Luis Herrmann",
+    "Paul Kittner",
+    "Roland Eils"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VyM7Voux5b",
+   "pdf_url": "https://openreview.net/pdf?id=VyM7Voux5b"
+  },
+  {
+   "title": "DNA-DIFFUSION: LEVERAGING GENERATIVE MODELS FOR CONTROLLING CHROMATIN ACCESSIBILITY AND GENE EXPRESSION VIA SYNTHETIC REGULATORY ELEMENTS",
+   "authors": [
+    "Simon Senan",
+    "Aniketh Janardhan Reddy",
+    "Zach Nussbaum",
+    "Aaron Wenteler",
+    "Matei Bejan",
+    "Michael I Love",
+    "Wouter Meuleman",
+    "Luca Pinello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=foByZC2svM",
+   "pdf_url": "https://openreview.net/pdf?id=foByZC2svM"
+  },
+  {
+   "title": "Drug Discovery with Dynamic Goal-aware Fragments",
+   "authors": [
+    "Seul Lee",
+    "Seanie Lee",
+    "Kenji Kawaguchi",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hTSGjIv6XT",
+   "pdf_url": "https://openreview.net/pdf?id=hTSGjIv6XT"
+  },
+  {
+   "title": "Enhancing generative perturbation models with LLM-informed gene embeddings",
+   "authors": [
+    "Kaspar Märtens",
+    "Rory Donovan-Maiye",
+    "Jesper Ferkinghoff-Borg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eb3ndUlkt4",
+   "pdf_url": "https://openreview.net/pdf?id=eb3ndUlkt4"
+  },
+  {
+   "title": "Evaluating predictive patterns of antigen specific B cells by single cell transcriptome and antibody repertoire sequencing",
+   "authors": [
+    "Lena Erlach",
+    "Raphael Kuhn",
+    "Andreas Agrafiotis",
+    "Danielle Shlesinger",
+    "Alexander Yermanos",
+    "Sai T. Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pEetLhGef3",
+   "pdf_url": "https://openreview.net/pdf?id=pEetLhGef3"
+  },
+  {
+   "title": "Evaluating Spatial Encoding Strategies for Cell Type Annotation with Spatial Omics Data",
+   "authors": [
+    "Merel Kuijs",
+    "Alma Andersson",
+    "Ehsan Hajiramezanali",
+    "Tommaso Biancalani",
+    "Aicha BenTaieb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1FjRKTsuY5",
+   "pdf_url": "https://openreview.net/pdf?id=1FjRKTsuY5"
+  },
+  {
+   "title": "EvoSBDD: Latent Evolution for Accurate and Efficient Structure-Based Drug Design",
+   "authors": [
+    "Danny Reidenbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sLhUNz0uTz",
+   "pdf_url": "https://openreview.net/pdf?id=sLhUNz0uTz"
+  },
+  {
+   "title": "Expanding Genomic Discovery: Causally-Inspired Neural Networks for Predicting Therapeutic Targets",
+   "authors": [
+    "Guadalupe Gonzalez",
+    "Isuru Herath",
+    "Kirill Veselkov",
+    "Michael M. Bronstein",
+    "Marinka Zitnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zcw2ORRnV3",
+   "pdf_url": "https://openreview.net/pdf?id=Zcw2ORRnV3"
+  },
+  {
+   "title": "Fine-tuning Protein Language Models with Deep Mutational Scanning improves Variant Effect Prediction",
+   "authors": [
+    "Aleix Lafita",
+    "Ferran Gonzalez",
+    "Mahmoud Hossam",
+    "Paul Smyth",
+    "Jacob Deasy",
+    "Ari L. Allyn-Feuer",
+    "Daniel D Seaton",
+    "Stephen Young"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d7AdTpYuPC",
+   "pdf_url": "https://openreview.net/pdf?id=d7AdTpYuPC"
+  },
+  {
+   "title": "INTEGRATION OF GRAPH NEURAL NETWORK AND NEURAL-ODES FOR TUMOR DYNAMICS PREDICTION",
+   "authors": [
+    "Omid Bazgir",
+    "Zichen Wang",
+    "Ji Won Park",
+    "Marc Hafner",
+    "James Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IeU3Fg6nGw",
+   "pdf_url": "https://openreview.net/pdf?id=IeU3Fg6nGw"
+  },
+  {
+   "title": "Interpretable and Generalizable Graph Learning via Subgraph Multilinear Extension",
+   "authors": [
+    "Yongqiang Chen",
+    "Yatao Bian",
+    "Bo Han",
+    "James Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eCKAfaTvRC",
+   "pdf_url": "https://openreview.net/pdf?id=eCKAfaTvRC"
+  },
+  {
+   "title": "IST-editing: Infinite spatial transcriptomic editing in a generated gigapixel mouse pup",
+   "authors": [
+    "Jiqing Wu",
+    "Ingrid Berg",
+    "Viktor Koelzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VEcwRTDMN7",
+   "pdf_url": "https://openreview.net/pdf?id=VEcwRTDMN7"
+  },
+  {
+   "title": "Joint Embedding of Transcriptomes and Text Enables Interactive Single-Cell RNA-seq Data Exploration via Natural Language",
+   "authors": [
+    "Moritz Schaefer",
+    "Peter Peneder",
+    "Daniel Malzl",
+    "Anna Hakobyan",
+    "Varun S. Sharma",
+    "Thomas Krausgruber",
+    "Jörg Menche",
+    "Eleni Tomazou",
+    "Christoph Bock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yWiZaE4k3K",
+   "pdf_url": "https://openreview.net/pdf?id=yWiZaE4k3K"
+  },
+  {
+   "title": "Learning Drug Perturbations via Conditional Map Estimators",
+   "authors": [
+    "Benedek Harsanyi",
+    "Marianna Rapsomaniki",
+    "Jannis Born"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FE7lRuwmfI",
+   "pdf_url": "https://openreview.net/pdf?id=FE7lRuwmfI"
+  },
+  {
+   "title": "Multi-ContrastiveVAE disentangles perturbation effects in single cell images from optical pooled screens",
+   "authors": [
+    "Zitong Jerry Wang",
+    "Romain Lopez",
+    "Jan-Christian Huetter",
+    "TAKAMASA KUDO",
+    "Heming Yao",
+    "Philipp Hanslovsky",
+    "Burkhard Hoeckendorf",
+    "Rahul Ram Mohan",
+    "David Richmond",
+    "Aviv Regev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PcpeaehdlL",
+   "pdf_url": "https://openreview.net/pdf?id=PcpeaehdlL"
+  },
+  {
+   "title": "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views",
+   "authors": [
+    "Haotian Xu",
+    "Yuning You",
+    "Yang Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xDcTugulVV",
+   "pdf_url": "https://openreview.net/pdf?id=xDcTugulVV"
+  },
+  {
+   "title": "Multi-Resolution Graph Diffusion",
+   "authors": [
+    "Mahdi Karami",
+    "Igor Krawczuk",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0rZiMEOzh0",
+   "pdf_url": "https://openreview.net/pdf?id=0rZiMEOzh0"
+  },
+  {
+   "title": "NICHEVI: A PROBABILISTIC FRAMEWORK TO EMBED CELLULAR INTERACTION IN SPATIAL TRANSCRIPTOMICS",
+   "authors": [
+    "Nathan Levy",
+    "Florian Ingelfinger",
+    "Can Ergen-Behr",
+    "Boaz Nadler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GtDIRfqFrv",
+   "pdf_url": "https://openreview.net/pdf?id=GtDIRfqFrv"
+  },
+  {
+   "title": "Optimizing Genetically-Driven Synaptogenesis",
+   "authors": [
+    "Tommaso Boccato",
+    "Matteo Ferrante",
+    "Nicola Toschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zvYWwgmNJX",
+   "pdf_url": "https://openreview.net/pdf?id=zvYWwgmNJX"
+  },
+  {
+   "title": "Pairing interacting protein sequences using masked language modeling",
+   "authors": [
+    "Damiano Sgarbossa",
+    "Umberto Lupo",
+    "Anne-Florence Bitbol"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Se8mV1i2lS",
+   "pdf_url": "https://openreview.net/pdf?id=Se8mV1i2lS"
+  },
+  {
+   "title": "Propensity Score Alignment of Unpaired Multimodal Data",
+   "authors": [
+    "Johnny Xi",
+    "Jason Hartford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=30L3tKmg33",
+   "pdf_url": "https://openreview.net/pdf?id=30L3tKmg33"
+  },
+  {
+   "title": "Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship",
+   "authors": [
+    "Eunji Ko",
+    "Seul Lee",
+    "Minseon Kim",
+    "Dongki Kim",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1YBM58iaNt",
+   "pdf_url": "https://openreview.net/pdf?id=1YBM58iaNt"
+  },
+  {
+   "title": "Recurrent memory augmentation of GENA-LM improves performance on long DNA sequence tasks",
+   "authors": [
+    "Yuri Kuratov",
+    "Aleksei Shmelev",
+    "Veniamin Fishman",
+    "Olga Kardymon",
+    "Mikhail Burtsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K671lCX90x",
+   "pdf_url": "https://openreview.net/pdf?id=K671lCX90x"
+  },
+  {
+   "title": "ResTran: A GNN Alternative to Learn A Graph with Features",
+   "authors": [
+    "Shota Saito",
+    "Takanori Maehara",
+    "Mark Herbster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OXaWdXAhjW",
+   "pdf_url": "https://openreview.net/pdf?id=OXaWdXAhjW"
+  },
+  {
+   "title": "ROBUST SYMBOLIC REGRESSION FOR NETWORK TRAJECTORY INFERENCE",
+   "authors": [
+    "Ramzi Dakhmouche",
+    "Ivan Lunati",
+    "Hossein Gorji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nnOEJ0aMgb",
+   "pdf_url": "https://openreview.net/pdf?id=nnOEJ0aMgb"
+  },
+  {
+   "title": "Sample, estimate, aggregate: A recipe for causal discovery foundation models",
+   "authors": [
+    "Menghua Wu",
+    "Yujia Bao",
+    "Regina Barzilay",
+    "Tommi Jaakkola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j8VbnCzOTK",
+   "pdf_url": "https://openreview.net/pdf?id=j8VbnCzOTK"
+  },
+  {
+   "title": "sc-OTGM: Single-Cell Perturbation Modeling by Solving Optimal Mass Transport on the Manifold of Gaussian Mixtures",
+   "authors": [
+    "Andac Demir",
+    "Elizaveta Solovyeva",
+    "Jamie Boylan",
+    "Mei Xiao",
+    "Fabrizio Serluca",
+    "Sebastian Hoersch",
+    "Murthy V Devarakonda",
+    "Bulent Kiziltan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qjFwY7cwXe",
+   "pdf_url": "https://openreview.net/pdf?id=qjFwY7cwXe"
+  },
+  {
+   "title": "Scalable Amortized GPLVMs for Single Cell Transcriptomics Data",
+   "authors": [
+    "Sarah Zhao",
+    "Aditya Ravuri",
+    "Vidhi Lalchand",
+    "Neil D Lawrence"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wVeuivoUmg",
+   "pdf_url": "https://openreview.net/pdf?id=wVeuivoUmg"
+  },
+  {
+   "title": "scvi-hub: A flexible framework for reference enabled single-cell data analysis",
+   "authors": [
+    "Can Ergen",
+    "Valeh Valiollah Pour Amiri",
+    "Martin Kim",
+    "Aaron Streets",
+    "Adam Gayoso",
+    "Nir Yosef"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GmiGRQsYcl",
+   "pdf_url": "https://openreview.net/pdf?id=GmiGRQsYcl"
+  },
+  {
+   "title": "Season combinatorial intervention predictions with Salt & Peper",
+   "authors": [
+    "Thomas Gaudelet",
+    "Alice Del Vecchio",
+    "Eli M Carrami",
+    "Juliana Cudini",
+    "Chantriolnt-Andreas Kapourani",
+    "Caroline Uhler",
+    "Lindsay Edwards"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wj95feICkN",
+   "pdf_url": "https://openreview.net/pdf?id=Wj95feICkN"
+  },
+  {
+   "title": "Unveiling Zero Shot Prediction for Gene Attributes Through Interpretable AI",
+   "authors": [
+    "Ala Jararweh",
+    "Oladimeji Macaulay",
+    "David Arredondo",
+    "Olufunmilola Oyebamiji",
+    "Luis E Tafoya",
+    "Kushal Virupakshappa",
+    "Avinash Sahu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DtdLDKe32W",
+   "pdf_url": "https://openreview.net/pdf?id=DtdLDKe32W"
+  },
+  {
+   "title": "Whole Genome Transformers for Gene Interaction Effects in Microbiome Habitat Prediction",
+   "authors": [
+    "Zhufeng Li",
+    "Sandeep Suresh Cranganore",
+    "Nicholas Youngblut",
+    "Niki Kilbertus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zlmHNNZYg3",
+   "pdf_url": "https://openreview.net/pdf?id=zlmHNNZYg3"
+  }
+ ]
+}

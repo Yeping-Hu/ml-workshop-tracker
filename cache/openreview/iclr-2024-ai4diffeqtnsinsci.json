@@ -1,0 +1,975 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:46:53.115Z",
+ "paper_count": 87,
+ "papers": [
+  {
+   "title": "A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics",
+   "authors": [
+    "Shengchao Liu",
+    "weitao Du",
+    "Yanjing Li",
+    "Zhuoxinran Li",
+    "Vignesh C Bhethanabotla",
+    "Nakul Rampal",
+    "Omar M. Yaghi",
+    "Christian Borgs",
+    "Anima Anandkumar",
+    "Hongyu Guo",
+    "Jennifer T Chayes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4sHc6X6ZEh",
+   "pdf_url": "https://openreview.net/pdf?id=4sHc6X6ZEh"
+  },
+  {
+   "title": "A Novel ML Model for Numerical Simulations Leveraging Fourier Neural Operators",
+   "authors": [
+    "Ali Takbiri-Borujeni",
+    "Mohammad Kazemi",
+    "Sam Takbiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lbFdKwPrB7",
+   "pdf_url": "https://openreview.net/pdf?id=lbFdKwPrB7"
+  },
+  {
+   "title": "A PHYSICS-INFORMED NEURAL NETWORK FOR COUPLED CALCIUM DYNAMICS IN A CABLE NEURON",
+   "authors": [
+    "Zachary M. Miksis",
+    "Gillian Queisser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TpOyZwImbp",
+   "pdf_url": "https://openreview.net/pdf?id=TpOyZwImbp"
+  },
+  {
+   "title": "Accelerating Neural Differential Equations for Irregularly-Sampled Dynamical Systems Using Variational Formulation",
+   "authors": [
+    "Hongjue Zhao",
+    "Yuchen Wang",
+    "Hairong Qi",
+    "Jiajia Li",
+    "Lui Sha",
+    "Han Zhao",
+    "Huajie Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C8tlOCzqll",
+   "pdf_url": "https://openreview.net/pdf?id=C8tlOCzqll"
+  },
+  {
+   "title": "Adaptive Multilevel Neural Networks for Parametric PDEs with Error Estimation",
+   "authors": [
+    "Janina Enrica Schütte",
+    "Martin Eigel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JbTenh2zqk",
+   "pdf_url": "https://openreview.net/pdf?id=JbTenh2zqk"
+  },
+  {
+   "title": "Application of gauge equivariant convolutional neural networks to learning a fixed point action for SU(3) gauge theory",
+   "authors": [
+    "Kieran Holland",
+    "Andreas Ipp",
+    "David I. Müller",
+    "Urs Wenger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zS7XfArKwB",
+   "pdf_url": "https://openreview.net/pdf?id=zS7XfArKwB"
+  },
+  {
+   "title": "Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis",
+   "authors": [
+    "Zefang Liu",
+    "Weston M. Stacey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xxVd8WBzNi",
+   "pdf_url": "https://openreview.net/pdf?id=xxVd8WBzNi"
+  },
+  {
+   "title": "Applications of Fourier Neural Operators in the Ifmif-Dones Accelerator",
+   "authors": [
+    "Guillermo Rodríguez-Llorente",
+    "Galo Gallardo Romero",
+    "Roberto Gómez-Espinosa Martín"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FL6ePnpBhB",
+   "pdf_url": "https://openreview.net/pdf?id=FL6ePnpBhB"
+  },
+  {
+   "title": "Approximating Family of Steep Traveling Wave Solutions to Fisher's Equation with PINNs",
+   "authors": [
+    "Franz M. Rohrhofer",
+    "Stefan Posch",
+    "Clemens Gößnitzer",
+    "Bernhard C Geiger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ebwZG0dBsA",
+   "pdf_url": "https://openreview.net/pdf?id=ebwZG0dBsA"
+  },
+  {
+   "title": "AutoBasisEncoder: Pre-trained Neural Field Basis via Autoencoding for Operator Learning",
+   "authors": [
+    "Thomas X Wang",
+    "Nicolas Baskiotis",
+    "patrick gallinari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8bVPkfswQG",
+   "pdf_url": "https://openreview.net/pdf?id=8bVPkfswQG"
+  },
+  {
+   "title": "CHAROT: Robustly controlling chaotic PDEs with partial observations",
+   "authors": [
+    "Max Weissenbacher",
+    "Anastasia Borovykh",
+    "Georgios Rigas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SytuCWihJr",
+   "pdf_url": "https://openreview.net/pdf?id=SytuCWihJr"
+  },
+  {
+   "title": "CLIFFORD NEURAL OPERATORS ON ATMOSPHERIC DATA INFLUENCED PARTIAL DIFFERENTIAL EQUATIONS",
+   "authors": [
+    "Sujit Roy",
+    "Wei Ji Leong",
+    "Rajat Shinde",
+    "Christopher E. Phillips",
+    "Ankur Kumar",
+    "Manil Maskey",
+    "Rahul Ramachandran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFv3EeJtan",
+   "pdf_url": "https://openreview.net/pdf?id=wFv3EeJtan"
+  },
+  {
+   "title": "Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes Dynamics",
+   "authors": [
+    "Matthias Karlbauer",
+    "Danielle C. Maddix",
+    "Abdul Fatir Ansari",
+    "Boran Han",
+    "Gaurav Gupta",
+    "Bernie Wang",
+    "Andrew Stuart",
+    "Michael W. Mahoney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jxfjvks0d7",
+   "pdf_url": "https://openreview.net/pdf?id=jxfjvks0d7"
+  },
+  {
+   "title": "Comparing PINNs Across Frameworks: JAX, TensorFlow, and PyTorch",
+   "authors": [
+    "Reza Akbarian Bafghi",
+    "Maziar Raissi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BPFzolSSrI",
+   "pdf_url": "https://openreview.net/pdf?id=BPFzolSSrI"
+  },
+  {
+   "title": "Conformalized Physics-Informed Neural Networks",
+   "authors": [
+    "Lena Podina",
+    "Mahdi Torabi Rad",
+    "Mohammad Kohandel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZoFWS818qG",
+   "pdf_url": "https://openreview.net/pdf?id=ZoFWS818qG"
+  },
+  {
+   "title": "Consistency Matters: Neural ODE Parameters are Dependent on the Training Numerical Method",
+   "authors": [
+    "C. Coelho",
+    "M.Fernanda P. Costa",
+    "Luís L. Ferrás"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tPDA7Zt1bf",
+   "pdf_url": "https://openreview.net/pdf?id=tPDA7Zt1bf"
+  },
+  {
+   "title": "Continuous-time neural networks for modeling linear dynamical systems",
+   "authors": [
+    "Chinmay Datar",
+    "Adwait Datar",
+    "Felix Dietrich",
+    "Wil Schilders"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dlAI8Cgeos",
+   "pdf_url": "https://openreview.net/pdf?id=dlAI8Cgeos"
+  },
+  {
+   "title": "Data-Driven Higher Order Differential Equations Inspired Graph Neural Networks",
+   "authors": [
+    "Moshe Eliasof",
+    "Eldad Haber",
+    "Eran Treister",
+    "Carola-Bibiane Schönlieb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rJReXWFByt",
+   "pdf_url": "https://openreview.net/pdf?id=rJReXWFByt"
+  },
+  {
+   "title": "Data-driven Multi-Fidelity Modelling for Time-dependent Partial Differential Equations using Convolutional Neural Networks",
+   "authors": [
+    "Freja Petersen",
+    "Allan Peter Engsig-Karup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8SvMFLOXvf",
+   "pdf_url": "https://openreview.net/pdf?id=8SvMFLOXvf"
+  },
+  {
+   "title": "Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning",
+   "authors": [
+    "Wuyang Chen",
+    "Jialin Song",
+    "Pu Ren",
+    "Shashank Subramanian",
+    "Dmitriy Morozov",
+    "Michael W. Mahoney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0EOTKge5yw",
+   "pdf_url": "https://openreview.net/pdf?id=0EOTKge5yw"
+  },
+  {
+   "title": "DOF: Accelerating High-order Differential Operators with Forward Propagation",
+   "authors": [
+    "Ruichen Li",
+    "Chuwei Wang",
+    "Haotian Ye",
+    "Di He",
+    "Liwei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yQsLKpkRoS",
+   "pdf_url": "https://openreview.net/pdf?id=yQsLKpkRoS"
+  },
+  {
+   "title": "Efficient Fourier Neural Operators by Group Convolution and Channel Shuffling",
+   "authors": [
+    "Myungjoon Kim",
+    "Junhyung Park",
+    "Jonghwa Shin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TyglZCofE3",
+   "pdf_url": "https://openreview.net/pdf?id=TyglZCofE3"
+  },
+  {
+   "title": "Efficient GPU-Accelerated Global Optimization for Inverse Problems",
+   "authors": [
+    "Utkarsh",
+    "Vaibhav Kumar Dixit",
+    "Julian Samaroo",
+    "Avik Pal",
+    "Alan Edelman",
+    "Christopher Vincent Rackauckas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nD10o1ge97",
+   "pdf_url": "https://openreview.net/pdf?id=nD10o1ge97"
+  },
+  {
+   "title": "Ensemble learning for Physics Informed Neural Networks: a Gradient Boosting approach",
+   "authors": [
+    "Zhiwei Fang",
+    "Sifan Wang",
+    "Paris Perdikaris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nA0iiUI6mq",
+   "pdf_url": "https://openreview.net/pdf?id=nA0iiUI6mq"
+  },
+  {
+   "title": "Equivariant Neural Fields For Symmetry Preserving Continous PDE Forecasting",
+   "authors": [
+    "David M Knigge",
+    "David Wessels",
+    "Riccardo Valperga",
+    "Samuele Papa",
+    "Stratis Gavves",
+    "Erik J Bekkers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jmgBtIAVCS",
+   "pdf_url": "https://openreview.net/pdf?id=jmgBtIAVCS"
+  },
+  {
+   "title": "Estimating Field Parameters from Multiphysics Governing Equations with Scarce Data",
+   "authors": [
+    "Xuyang Li",
+    "Mahdi Masmoudi",
+    "Nizar Lajnef",
+    "Vishnu Boddeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IofxiPg6uE",
+   "pdf_url": "https://openreview.net/pdf?id=IofxiPg6uE"
+  },
+  {
+   "title": "Extending Deep Learning Emulation Across Parameter Regimes to Assess Stochastically Driven Spontaneous Transition Events",
+   "authors": [
+    "Ira J. S. Shokar",
+    "Peter H. Haynes",
+    "Rich R. Kerswell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7a5gUX4e5q",
+   "pdf_url": "https://openreview.net/pdf?id=7a5gUX4e5q"
+  },
+  {
+   "title": "Extension of Physics-informed Neural Networks to Solving Parameterized PDEs",
+   "authors": [
+    "Woojin Cho",
+    "Minju Jo",
+    "Haksoo Lim",
+    "Kookjin Lee",
+    "Dongeun Lee",
+    "Sanghyun Hong",
+    "Noseong Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EAkRlHFLBc",
+   "pdf_url": "https://openreview.net/pdf?id=EAkRlHFLBc"
+  },
+  {
+   "title": "FastVPINNs: A fast, versatile and robust Variational PINNs framework for forward and inverse problems in science",
+   "authors": [
+    "Divij Ghose",
+    "Thivin Anandh",
+    "Sashikumaar Ganesan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sKv08bVA5Q",
+   "pdf_url": "https://openreview.net/pdf?id=sKv08bVA5Q"
+  },
+  {
+   "title": "GA-ReLU: an activation function for Geometric Algebra Networks applied to 2D Navier-Stokes PDEs",
+   "authors": [
+    "Alberto Pepe",
+    "Sven Buchholz",
+    "Joan Lasenby"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T54Hn1e98P",
+   "pdf_url": "https://openreview.net/pdf?id=T54Hn1e98P"
+  },
+  {
+   "title": "Galerkin meets Laplace: Fast uncertainty estimation in neural PDEs",
+   "authors": [
+    "Christian Jimenez Beltran",
+    "Antonio Vergari",
+    "Aretha L Teckentrup",
+    "Konstantinos C. Zygalakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HdzFecgdzB",
+   "pdf_url": "https://openreview.net/pdf?id=HdzFecgdzB"
+  },
+  {
+   "title": "Generative PDE Control",
+   "authors": [
+    "Long Wei",
+    "Peiyan Hu",
+    "Ruiqi Feng",
+    "Yixuan Du",
+    "Tao Zhang",
+    "Rui Wang",
+    "Yue Wang",
+    "Zhi-Ming Ma",
+    "Tailin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vaKnCahjdj",
+   "pdf_url": "https://openreview.net/pdf?id=vaKnCahjdj"
+  },
+  {
+   "title": "Guided Autoregressive Diffusion Models with Applications to PDE Simulation",
+   "authors": [
+    "Federico Bergamin",
+    "Cristiana Diaconu",
+    "Aliaksandra Shysheya",
+    "Paris Perdikaris",
+    "José Miguel Hernández-Lobato",
+    "Richard E. Turner",
+    "Emile Mathieu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1avNKFEIOL",
+   "pdf_url": "https://openreview.net/pdf?id=1avNKFEIOL"
+  },
+  {
+   "title": "Hessian Reparametrization for Coarse-grained Energy Minimization",
+   "authors": [
+    "Nima Dehmamy",
+    "Csaba Both",
+    "Jeet Mohapatra",
+    "Subhro Das",
+    "Tommi Jaakkola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lmIz3KvrUS",
+   "pdf_url": "https://openreview.net/pdf?id=lmIz3KvrUS"
+  },
+  {
+   "title": "Heteroscedastic uncertainty quantification in Physics-Informed Neural Networks",
+   "authors": [
+    "Olivier Claessen",
+    "Yuliya Shapovalova",
+    "Tom Heskes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T5NjaIOcNr",
+   "pdf_url": "https://openreview.net/pdf?id=T5NjaIOcNr"
+  },
+  {
+   "title": "Hierarchy-based Clifford Group Equivariant Message Passing Neural  Networks",
+   "authors": [
+    "Takashi Maruyama",
+    "Francesco Alesiani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x16hXhSbS1",
+   "pdf_url": "https://openreview.net/pdf?id=x16hXhSbS1"
+  },
+  {
+   "title": "INTEGRAL PINNS FOR HYPERBOLIC CONSERVATION LAWS",
+   "authors": [
+    "Manvendra P. Rajvanshi",
+    "David I Ketcheson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uuu6HWe6dF",
+   "pdf_url": "https://openreview.net/pdf?id=Uuu6HWe6dF"
+  },
+  {
+   "title": "Integrating Kernel Methods and Deep Neural Networks for Solving PDEs",
+   "authors": [
+    "Carlos Mora",
+    "Amin Yousefpour",
+    "Shirin Hosseinmardi",
+    "Ramin Bostanabad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5bRRVmYhVS",
+   "pdf_url": "https://openreview.net/pdf?id=5bRRVmYhVS"
+  },
+  {
+   "title": "Investigating the effects of plant diversity on soil thermal diffusivity using Physics- Informed Neural Networks",
+   "authors": [
+    "Gideon Stein",
+    "Sai Karthikeya Vemuri",
+    "Yuanyuan Huang",
+    "Anne Ebeling",
+    "Nico Eisenhauer",
+    "Maha Shadaydeh",
+    "Joachim Denzler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7wKTS923Uc",
+   "pdf_url": "https://openreview.net/pdf?id=7wKTS923Uc"
+  },
+  {
+   "title": "Investigation of Latent Time-Scales in Neural ODE Surrogate Models",
+   "authors": [
+    "Ashish Nair",
+    "Shivam Barwey",
+    "Pinaki Pal",
+    "Romit Maulik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zLMeuYXUve",
+   "pdf_url": "https://openreview.net/pdf?id=zLMeuYXUve"
+  },
+  {
+   "title": "Investigation of Numerical Diffusion in Aerodynamic Flow Simulations with Physics Informed Neural Networks",
+   "authors": [
+    "Alok Warey",
+    "Taeyoung Han",
+    "Shailendra Kaushik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TIpKGG0IOo",
+   "pdf_url": "https://openreview.net/pdf?id=TIpKGG0IOo"
+  },
+  {
+   "title": "JAX-SPH: A Differentiable Smoothed Particle Hydrodynamics Framework",
+   "authors": [
+    "Artur Toshev",
+    "Harish Ramachandran",
+    "Jonas A. Erbesdobler",
+    "Gianluca Galletti",
+    "Johannes Brandstetter",
+    "Nikolaus A. Adams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8X5PXVmsHW",
+   "pdf_url": "https://openreview.net/pdf?id=8X5PXVmsHW"
+  },
+  {
+   "title": "Joint Parameter and Parameterization Inference with Uncertainty Quantification Through Differentiable Programming",
+   "authors": [
+    "Yongquan Qu",
+    "Mohamed Aziz Bhouri",
+    "Pierre Gentine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dIaE8oObHe",
+   "pdf_url": "https://openreview.net/pdf?id=dIaE8oObHe"
+  },
+  {
+   "title": "Latent Diffusion Transformer with Local Neural Field as PDE Surrogate Model",
+   "authors": [
+    "Louis Serrano",
+    "Jean-Noël Vittaut",
+    "patrick gallinari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZVK8WFUN9t",
+   "pdf_url": "https://openreview.net/pdf?id=ZVK8WFUN9t"
+  },
+  {
+   "title": "LEARN TO ADAPT PARAMETRIC SOLVERS UNDER INCOMPLETE PHYSICS",
+   "authors": [
+    "Armand Kassaï Koupaï",
+    "Yuan Yin",
+    "patrick gallinari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jIpkrPTovs",
+   "pdf_url": "https://openreview.net/pdf?id=jIpkrPTovs"
+  },
+  {
+   "title": "Learning a vector field from snapshots of unidentified particles rather than particle trajectories",
+   "authors": [
+    "Yunyi Shen",
+    "Renato Berlinghieri",
+    "Tamara Broderick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7UqA6WjwTO",
+   "pdf_url": "https://openreview.net/pdf?id=7UqA6WjwTO"
+  },
+  {
+   "title": "Learning iterative algorithms to solve PDEs.",
+   "authors": [
+    "Lise Le Boudec",
+    "Emmanuel de Bezenac",
+    "Louis Serrano",
+    "Yuan Yin",
+    "patrick gallinari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hFf8MsGRLW",
+   "pdf_url": "https://openreview.net/pdf?id=hFf8MsGRLW"
+  },
+  {
+   "title": "Learning Stochastic Dynamics from Data",
+   "authors": [
+    "Ziheng Guo",
+    "Ming Zhong",
+    "Igor Cialenco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MdXtFDhy0H",
+   "pdf_url": "https://openreview.net/pdf?id=MdXtFDhy0H"
+  },
+  {
+   "title": "Learning The Delay in Delay Differential Equations",
+   "authors": [
+    "Robert Stephany",
+    "Maria Antonia Oprea",
+    "Gabriella Torres Nothaft",
+    "Mark Walth",
+    "Arnaldo Rodriguez-Gonzalez",
+    "William A Clark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VTYhJLoOaR",
+   "pdf_url": "https://openreview.net/pdf?id=VTYhJLoOaR"
+  },
+  {
+   "title": "Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids",
+   "authors": [
+    "Sung Woong Cho",
+    "Jae Yong Lee",
+    "Hyung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VyJEnaHmlM",
+   "pdf_url": "https://openreview.net/pdf?id=VyJEnaHmlM"
+  },
+  {
+   "title": "Mathematical Modeling of Spatio-Temporal Disease Spreading Using PDEs for Machine Learning",
+   "authors": [
+    "Jost Arndt",
+    "Jackie Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oEvhUDhHCD",
+   "pdf_url": "https://openreview.net/pdf?id=oEvhUDhHCD"
+  },
+  {
+   "title": "Mechanistic Neural Networks for Scientific Machine Learning",
+   "authors": [
+    "Adeel Pervez",
+    "Francesco Locatello",
+    "Stratis Gavves"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0FXPlZGh7K",
+   "pdf_url": "https://openreview.net/pdf?id=0FXPlZGh7K"
+  },
+  {
+   "title": "Minimizing Structural Vibrations via Guided Diffusion Design Optimization",
+   "authors": [
+    "Jan van Delden",
+    "Julius Schultz",
+    "Christopher Blech",
+    "Sabine C. Langer",
+    "Timo Lüddecke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z4dcQodnoo",
+   "pdf_url": "https://openreview.net/pdf?id=z4dcQodnoo"
+  },
+  {
+   "title": "Mixture of Neural Operators:  Incorporating Historical Information for Longer Rollouts",
+   "authors": [
+    "Harris Abdul Majid",
+    "Francesco Tudisco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rYZjCmIlmx",
+   "pdf_url": "https://openreview.net/pdf?id=rYZjCmIlmx"
+  },
+  {
+   "title": "Multi-Lattice Sampling of Quantum Field Theories via Neural Operator-based Flows",
+   "authors": [
+    "Bálint Máté",
+    "François Fleuret"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KawEfETYjt",
+   "pdf_url": "https://openreview.net/pdf?id=KawEfETYjt"
+  },
+  {
+   "title": "Multigrid-Augmented Deep Learning Preconditioners for the Helmholtz Equation using Compact Implicit Layers",
+   "authors": [
+    "Ido Ben-Yair",
+    "Bar Lerer",
+    "Eran Treister"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GvbSlBRxDs",
+   "pdf_url": "https://openreview.net/pdf?id=GvbSlBRxDs"
+  },
+  {
+   "title": "MultiSTOP: Solving Functional Equations with Reinforcement Learning",
+   "authors": [
+    "Alessandro Trenta",
+    "Davide Bacciu",
+    "Andrea Cossu",
+    "Pietro Ferrero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=faz8zpJZL9",
+   "pdf_url": "https://openreview.net/pdf?id=faz8zpJZL9"
+  },
+  {
+   "title": "Neural Context Flows for Learning Generalizable Dynamical Systems",
+   "authors": [
+    "Roussel Desmond Nzoyem",
+    "David A.W. Barton",
+    "Tom Deakin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0HFMSMhXq",
+   "pdf_url": "https://openreview.net/pdf?id=m0HFMSMhXq"
+  },
+  {
+   "title": "Neural Langevin-type Stochastic Differential Equations for Astronomical time series Classification under Irregular Observations",
+   "authors": [
+    "YongKyung Oh",
+    "Seungsu Kam",
+    "Dongyoung Lim",
+    "Sungil Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UopIqLxJAi",
+   "pdf_url": "https://openreview.net/pdf?id=UopIqLxJAi"
+  },
+  {
+   "title": "Neural ODE for Multi-channel Attribution",
+   "authors": [
+    "YUDI ZHANG",
+    "Oshry Ben-Harush",
+    "Xin Liang",
+    "Siyu Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2hEx8jzRBo",
+   "pdf_url": "https://openreview.net/pdf?id=2hEx8jzRBo"
+  },
+  {
+   "title": "Neural operators with localized integral and differential kernels",
+   "authors": [
+    "Miguel Liu-Schiaffini",
+    "Julius Berner",
+    "Boris Bonev",
+    "Thorsten Kurth",
+    "Kamyar Azizzadenesheli",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fTOeB5L4PP",
+   "pdf_url": "https://openreview.net/pdf?id=fTOeB5L4PP"
+  },
+  {
+   "title": "Neural Parameter Regression for Explicit Representations of PDE Solution Operators",
+   "authors": [
+    "Konrad Mundinger",
+    "Max Zimmer",
+    "Sebastian Pokutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6Z0q0dzSJQ",
+   "pdf_url": "https://openreview.net/pdf?id=6Z0q0dzSJQ"
+  },
+  {
+   "title": "Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics",
+   "authors": [
+    "Artur Toshev",
+    "Jonas A. Erbesdobler",
+    "Nikolaus A. Adams",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rQGTWXV9bo",
+   "pdf_url": "https://openreview.net/pdf?id=rQGTWXV9bo"
+  },
+  {
+   "title": "On Representing Electronic Wave Functions with Sign Equivariant Neural Networks",
+   "authors": [
+    "Nicholas Gao",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DWjXXsvt1H",
+   "pdf_url": "https://openreview.net/pdf?id=DWjXXsvt1H"
+  },
+  {
+   "title": "On training Physics-Informed Neural Networks for Oscillating Problems",
+   "authors": [
+    "Martin Hofmann-Wellenhof",
+    "Alexander Fuchs",
+    "Franz Pernkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YZ6wcrQE62",
+   "pdf_url": "https://openreview.net/pdf?id=YZ6wcrQE62"
+  },
+  {
+   "title": "Optimal Experimental Design for Bayesian Inverse Problems using Energy-Based Couplings",
+   "authors": [
+    "Paula Cordero Encinar",
+    "Tobias Schröder",
+    "Andrew B. Duncan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N3WxA8AK9c",
+   "pdf_url": "https://openreview.net/pdf?id=N3WxA8AK9c"
+  },
+  {
+   "title": "Optimizing Computationally-Intensive Simulations Using a Biologically-Inspired Acquisition Function and a Fourier Neural Operator Surrogate",
+   "authors": [
+    "John P. Lins",
+    "Wei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fG2CdvUy1s",
+   "pdf_url": "https://openreview.net/pdf?id=fG2CdvUy1s"
+  },
+  {
+   "title": "PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations",
+   "authors": [
+    "Zhanhong Ye",
+    "Xiang Huang",
+    "Leheng Chen",
+    "Hongsheng Liu",
+    "Zidong Wang",
+    "Bin Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GLDMCwdhTK",
+   "pdf_url": "https://openreview.net/pdf?id=GLDMCwdhTK"
+  },
+  {
+   "title": "Physics-constrained DeepONet for Surrogate CFD models: a curved backward-facing step case",
+   "authors": [
+    "Anas Jnini",
+    "Harshinee Goordoyal",
+    "Sujal Dave",
+    "Artem Korobenko",
+    "Flavio Vella",
+    "Katharine Fraser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zRef200Ucc",
+   "pdf_url": "https://openreview.net/pdf?id=zRef200Ucc"
+  },
+  {
+   "title": "Physics-Informed Koopman Network for time-series prediction of dynamical systems",
+   "authors": [
+    "Yuying Liu",
+    "Aleksei Sholokhov",
+    "Hassan Mansour",
+    "Saleh Nabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mwHL5nOqOM",
+   "pdf_url": "https://openreview.net/pdf?id=mwHL5nOqOM"
+  },
+  {
+   "title": "Physics-Informed Machine Learning for Fluid Flow Prediction in Porous Media",
+   "authors": [
+    "Ali Takbiri-Borujeni",
+    "Mohammad Kazemi",
+    "Sam Takbiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c3mS9jMXUX",
+   "pdf_url": "https://openreview.net/pdf?id=c3mS9jMXUX"
+  },
+  {
+   "title": "Physics-informed neural networks for sampling",
+   "authors": [
+    "Jingtong Sun",
+    "Julius Berner",
+    "Kamyar Azizzadenesheli",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KwHPBIGkET",
+   "pdf_url": "https://openreview.net/pdf?id=KwHPBIGkET"
+  },
+  {
+   "title": "PINA: a PyTorch Framework for Solving Differential Equations by Deep Learning for Research and Production Environments",
+   "authors": [
+    "Dario Coscia",
+    "Nicola Demo",
+    "Gianluigi Rozza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9HSPRDSkwU",
+   "pdf_url": "https://openreview.net/pdf?id=9HSPRDSkwU"
+  },
+  {
+   "title": "PointSAGE: Mesh-independent superresolution approach to fluid flow predictions",
+   "authors": [
+    "Rajat Sarkar",
+    "Krishna Sai Sudhir Aripirala",
+    "Vishal Sudam Jadhav",
+    "Sagar Srinivas Sakhinana",
+    "Venkataramana Runkana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yEO8maDCar",
+   "pdf_url": "https://openreview.net/pdf?id=yEO8maDCar"
+  },
+  {
+   "title": "RBF-PINN: NON-FOURIER POSITIONAL EMBEDDING IN PHYSICS-INFORMED NEURAL NETWORKS",
+   "authors": [
+    "chengxi zeng",
+    "Tilo Burghardt",
+    "Alberto M Gambaruto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NCr1AdxThs",
+   "pdf_url": "https://openreview.net/pdf?id=NCr1AdxThs"
+  },
+  {
+   "title": "Scaling Transformers for Skillful and Reliable Medium-range Weather Forecasting",
+   "authors": [
+    "Tung Nguyen",
+    "Rohan Shah",
+    "Hritik Bansal",
+    "Troy Arcomano",
+    "Sandeep Madireddy",
+    "Romit Maulik",
+    "Veerabhadra Kotamarthi",
+    "Ian Foster",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qtcYYLSkQ9",
+   "pdf_url": "https://openreview.net/pdf?id=qtcYYLSkQ9"
+  },
+  {
+   "title": "Semiparametric Inference and Equation Discovery with the Bayesian Machine Scientist",
+   "authors": [
+    "Kai-Hendrik Cohrs",
+    "Gherardo Varando",
+    "Roger Guimerà",
+    "Marta Sales Pardo",
+    "Gustau Camps-Valls"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7YqV4deFAc",
+   "pdf_url": "https://openreview.net/pdf?id=7YqV4deFAc"
+  },
+  {
+   "title": "Solving Poisson Equations using Neural Walk-on-Spheres",
+   "authors": [
+    "Hong Chul Nam",
+    "Julius Berner",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eINzm8Oi4i",
+   "pdf_url": "https://openreview.net/pdf?id=eINzm8Oi4i"
+  },
+  {
+   "title": "Targeted Reduction of Causal Models",
+   "authors": [
+    "Armin Kekić",
+    "Bernhard Schölkopf",
+    "Michel Besserve"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uSLRXO8dRH",
+   "pdf_url": "https://openreview.net/pdf?id=uSLRXO8dRH"
+  },
+  {
+   "title": "The conjugate kernel for efficient training of physics-informed deep operator networks",
+   "authors": [
+    "Amanda A Howard",
+    "Saad Qadeer",
+    "Andrew William Engel",
+    "Adam Tsou",
+    "Max Vargas",
+    "Tony Chiang",
+    "Panos Stinis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c9DiQJozff",
+   "pdf_url": "https://openreview.net/pdf?id=c9DiQJozff"
+  },
+  {
+   "title": "Traversing Chemical Space with Latent Potential Flows",
+   "authors": [
+    "Guanghao Wei",
+    "Yining Huang",
+    "Chenru Duan",
+    "Yue Song",
+    "Yuanqi Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UryKVMYJem",
+   "pdf_url": "https://openreview.net/pdf?id=UryKVMYJem"
+  },
+  {
+   "title": "TUCKER DECOMPOSITION FOR INTERPRETABLE NEURAL ORDINARY DIFFERENTIAL EQUATIONS",
+   "authors": [
+    "Dimitrios Halatsis",
+    "Grigorios Chrysos",
+    "Joao Pereira",
+    "Michael Alummoottil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1AmGKznxyD",
+   "pdf_url": "https://openreview.net/pdf?id=1AmGKznxyD"
+  },
+  {
+   "title": "Uncertainty Quantification for Fourier Neural Operators",
+   "authors": [
+    "Tobias Weber",
+    "Emilia Magnani",
+    "Marvin Pförtner",
+    "Philipp Hennig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=knSgoNJcnV",
+   "pdf_url": "https://openreview.net/pdf?id=knSgoNJcnV"
+  },
+  {
+   "title": "Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent PDEs",
+   "authors": [
+    "Jan Hagnberger",
+    "Marimuthu Kalimuthu",
+    "Mathias Niepert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qMLjDCKF8N",
+   "pdf_url": "https://openreview.net/pdf?id=qMLjDCKF8N"
+  },
+  {
+   "title": "Verlet Flows: Exact-Likelihood Integrators for Flow-Based Generative Models",
+   "authors": [
+    "Ezra Erives",
+    "Bowen Jing",
+    "Tommi Jaakkola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JkYOOK5ulR",
+   "pdf_url": "https://openreview.net/pdf?id=JkYOOK5ulR"
+  },
+  {
+   "title": "XDDPM: EXPLAINABLE DENOISING DIFFUSION PROB- ABILISTIC MODEL FOR SCIENTIFIC MODELING",
+   "authors": [
+    "Qianru Zhang",
+    "Chenglei Yu",
+    "Yudong Yan",
+    "Xiangyu Kuang",
+    "Yi Ma",
+    "Yuansheng Cao",
+    "Siu Ming Yiu",
+    "Tailin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wdQVQG3Abp",
+   "pdf_url": "https://openreview.net/pdf?id=wdQVQG3Abp"
+  },
+  {
+   "title": "Zebra: a continuous generative transformer for solving parametric PDEs",
+   "authors": [
+    "Louis Serrano",
+    "Pierre ERBACHER",
+    "Jean-Noël Vittaut",
+    "patrick gallinari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KpBK1ArdXM",
+   "pdf_url": "https://openreview.net/pdf?id=KpBK1ArdXM"
+  }
+ ]
+}

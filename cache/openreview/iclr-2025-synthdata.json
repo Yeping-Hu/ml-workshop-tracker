@@ -1,0 +1,510 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/SynthData",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:48.837Z",
+ "paper_count": 42,
+ "papers": [
+  {
+   "title": "[Tiny] Parameterized Synthetic Text Generation with SimpleStories",
+   "authors": [
+    "Lennart Finke",
+    "Thomas Dooms",
+    "Mat Allen",
+    "Juan Diego Rodriguez",
+    "Noa Nabeshima",
+    "Dan Braun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JO8CtTXOsH",
+   "pdf_url": "https://openreview.net/pdf?id=JO8CtTXOsH"
+  },
+  {
+   "title": "[Tiny] Synthetic-based retrieval of patient medical data",
+   "authors": [
+    "Rinat Mullahmetov",
+    "Ilya Pershin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bL9fFJHoG5",
+   "pdf_url": "https://openreview.net/pdf?id=bL9fFJHoG5"
+  },
+  {
+   "title": "[Tiny] Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy",
+   "authors": [
+    "Georgi Ganev",
+    "Meenatchi Sundaram Muthu Selva Annamalai",
+    "Sofiane Mahiou",
+    "Emiliano De Cristofaro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3X7OjJl4Pg",
+   "pdf_url": "https://openreview.net/pdf?id=3X7OjJl4Pg"
+  },
+  {
+   "title": "Accelerating Differentially Private Federated Learning via Adaptive Extrapolation",
+   "authors": [
+    "Shokichi Takakura",
+    "Seng Pei Liew",
+    "Satoshi Hasegawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bbM2tyAzzy",
+   "pdf_url": "https://openreview.net/pdf?id=bbM2tyAzzy"
+  },
+  {
+   "title": "AN OPTIMAL CRITERION FOR STEERING DATA DISTRIBUTIONS TO ACHIEVE EXACT FAIRNESS",
+   "authors": [
+    "mohit sharma",
+    "Amit Deshpande",
+    "Chiranjib Bhattacharyya",
+    "Rajiv Ratn Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U1oD2V7Oce",
+   "pdf_url": "https://openreview.net/pdf?id=U1oD2V7Oce"
+  },
+  {
+   "title": "Augmented Conditioning Is Enough For Effective Training Image Generation",
+   "authors": [
+    "Jiahui Chen",
+    "Amy Zhang",
+    "Adriana Romero-Soriano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gg6j05YsGC",
+   "pdf_url": "https://openreview.net/pdf?id=Gg6j05YsGC"
+  },
+  {
+   "title": "Benchmarking Differentially Private Tabular Data Synthesis Algorithms",
+   "authors": [
+    "Kai Chen",
+    "Xiaochen Li",
+    "Chen GONG",
+    "Ryan McKenna",
+    "Tianhao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0bvWk1HuJC",
+   "pdf_url": "https://openreview.net/pdf?id=0bvWk1HuJC"
+  },
+  {
+   "title": "Breaking Focus: Contextual Distraction Curse in Large Language Models",
+   "authors": [
+    "Yanbo Wang",
+    "Zixiang Xu",
+    "Yue Huang",
+    "Chujie Gao",
+    "Siyuan Wu",
+    "Jiayi Ye",
+    "Xiuying Chen",
+    "Pin-Yu Chen",
+    "Xiangliang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V121wGnPwU",
+   "pdf_url": "https://openreview.net/pdf?id=V121wGnPwU"
+  },
+  {
+   "title": "Can LLMs Replace Economic Choice Prediction Labs? The Case of Language-based Persuasion Games",
+   "authors": [
+    "Eilam Shapira",
+    "Omer Madmon",
+    "Roi Reichart",
+    "Moshe Tennenholtz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wfiqCxp7kd",
+   "pdf_url": "https://openreview.net/pdf?id=wfiqCxp7kd"
+  },
+  {
+   "title": "Can Transformers Learn Full Bayesian Inference In Context?",
+   "authors": [
+    "Arik Reuter",
+    "Tim G. J. Rudner",
+    "Vincent Fortuin",
+    "David Rügamer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ID9WdFtbvE",
+   "pdf_url": "https://openreview.net/pdf?id=ID9WdFtbvE"
+  },
+  {
+   "title": "Compositional World Knowledge leads to High Utility Synthetic data",
+   "authors": [
+    "Sachit Gaudi",
+    "Gautam Sreekumar",
+    "Vishnu Boddeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e9i1Frx5Kc",
+   "pdf_url": "https://openreview.net/pdf?id=e9i1Frx5Kc"
+  },
+  {
+   "title": "Deconstructing Bias: A Multifaceted Framework for Diagnosing Cultural and Compositional Inequities in Text-to-Image Generative Models",
+   "authors": [
+    "Muna Numan Said",
+    "Aarib Zaidi",
+    "Rabia Usman",
+    "Sonia Okon",
+    "Praneeth Medepalli",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SBFA8My08u",
+   "pdf_url": "https://openreview.net/pdf?id=SBFA8My08u"
+  },
+  {
+   "title": "Did You Hear That? Introducing AADG: A Framework for Generating Benchmark Data in Audio Anomaly Detection",
+   "authors": [
+    "Ksheeraja Raghavan",
+    "Samiran Gode",
+    "Ankit Shah",
+    "Surabhi Raghavan",
+    "Wolfram Burgard",
+    "Bhiksha Raj",
+    "Rita Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pqjGPFMWnN",
+   "pdf_url": "https://openreview.net/pdf?id=pqjGPFMWnN"
+  },
+  {
+   "title": "DIET-PATE: Knowledge Transfer in PATE without Public Data",
+   "authors": [
+    "Michel Meintz",
+    "Adam Dziedzic",
+    "Franziska Boenisch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cRe2jt60EC",
+   "pdf_url": "https://openreview.net/pdf?id=cRe2jt60EC"
+  },
+  {
+   "title": "Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model",
+   "authors": [
+    "Zinan Lin",
+    "Tadas Baltrusaitis",
+    "Sergey Yekhanin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7AvUO96Pmk",
+   "pdf_url": "https://openreview.net/pdf?id=7AvUO96Pmk"
+  },
+  {
+   "title": "Efficient Randomized Experiments Using Foundation Models",
+   "authors": [
+    "Piersilvio De Bartolomeis",
+    "Javier Abad",
+    "Guanbo Wang",
+    "Konstantin Donhauser",
+    "Raymond M Duch",
+    "Fanny Yang",
+    "Issa Dahabreh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JcoOKnadET",
+   "pdf_url": "https://openreview.net/pdf?id=JcoOKnadET"
+  },
+  {
+   "title": "Empowering LLMs in Decision Games through Algorithmic Data Synthesis",
+   "authors": [
+    "Haolin Wang",
+    "Xueyan Li",
+    "Yazhe Niu",
+    "Shuai Hu",
+    "Hongsheng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1RIHEJWN1L",
+   "pdf_url": "https://openreview.net/pdf?id=1RIHEJWN1L"
+  },
+  {
+   "title": "Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions",
+   "authors": [
+    "Jiarui Zhang",
+    "Ollie Liu",
+    "Tianyu Yu",
+    "Jinyi Hu",
+    "Willie Neiswanger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6DV6DCk8GS",
+   "pdf_url": "https://openreview.net/pdf?id=6DV6DCk8GS"
+  },
+  {
+   "title": "Evaluating Inter-Column Logical Relationships in Synthetic Tabular Data Generation",
+   "authors": [
+    "Yunbo Long",
+    "Liming Xu",
+    "Alexandra Brintrup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9FIOO09boS",
+   "pdf_url": "https://openreview.net/pdf?id=9FIOO09boS"
+  },
+  {
+   "title": "Grounding QA Generation in Knowledge Graphs and Literature: A Scalable LLM Framework for Scientific Discovery",
+   "authors": [
+    "Marc Boubnovski Martell",
+    "Kaspar Märtens",
+    "Lawrence Phillips",
+    "Daniel Keitley",
+    "Maria Dermit",
+    "Julien Fauqueur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nyO8S0HBHI",
+   "pdf_url": "https://openreview.net/pdf?id=nyO8S0HBHI"
+  },
+  {
+   "title": "How Well Does Your Tabular Generator Learn the Structure of Tabular Data?",
+   "authors": [
+    "Xiangjian Jiang",
+    "Nikola Simidjievski",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QccV7Wi3sN",
+   "pdf_url": "https://openreview.net/pdf?id=QccV7Wi3sN"
+  },
+  {
+   "title": "Human-like compositional learning of visually-grounded concepts using synthetic data",
+   "authors": [
+    "Zijun Lin",
+    "M Ganesh Kumar",
+    "Cheston Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vq39RX6xIU",
+   "pdf_url": "https://openreview.net/pdf?id=vq39RX6xIU"
+  },
+  {
+   "title": "Improved Density Ratio Estimation for Evaluating Synthetic Data Quality",
+   "authors": [
+    "Lukas Gruber",
+    "Markus Holzleitner",
+    "Sepp Hochreiter",
+    "Werner Zellinger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IBnCO8gtLA",
+   "pdf_url": "https://openreview.net/pdf?id=IBnCO8gtLA"
+  },
+  {
+   "title": "Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?",
+   "authors": [
+    "Marika Swanberg",
+    "Ryan McKenna",
+    "Edo Roth",
+    "Albert Cheu",
+    "Peter Kairouz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e4uwE1muhR",
+   "pdf_url": "https://openreview.net/pdf?id=e4uwE1muhR"
+  },
+  {
+   "title": "LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation",
+   "authors": [
+    "Mufei Li",
+    "Viraj Shitole",
+    "Eli Chien",
+    "Changhai Man",
+    "Zhaodong Wang",
+    "Srinivas",
+    "Ying Zhang",
+    "Tushar Krishna",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UUbkFYBZJE",
+   "pdf_url": "https://openreview.net/pdf?id=UUbkFYBZJE"
+  },
+  {
+   "title": "Leveraging Vertical Public-Private Split for Improved Synthetic Data Generation",
+   "authors": [
+    "Samuel Maddock",
+    "Shripad Gade",
+    "Graham Cormode",
+    "Will Bullock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6DEqsPHpXO",
+   "pdf_url": "https://openreview.net/pdf?id=6DEqsPHpXO"
+  },
+  {
+   "title": "Orchestrating Synthetic Data with Reasoning",
+   "authors": [
+    "Tim R. Davidson",
+    "Benoit Seguin",
+    "Enrico Bacis",
+    "Cesar Ilharco",
+    "Hamza Harkous"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VOoeogZbMb",
+   "pdf_url": "https://openreview.net/pdf?id=VOoeogZbMb"
+  },
+  {
+   "title": "Out-of-Distribution Detection using Synthetic Data Generation",
+   "authors": [
+    "Momin Abbas",
+    "Muneeza Azmat",
+    "Raya Horesh",
+    "Mikhail Yurochkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXAoF5ClxZ",
+   "pdf_url": "https://openreview.net/pdf?id=KXAoF5ClxZ"
+  },
+  {
+   "title": "Private Federated Learning using Preference-Optimized Synthetic Data",
+   "authors": [
+    "Charlie Hou",
+    "Mei-Yu Wang",
+    "Yige Zhu",
+    "Daniel Lazar",
+    "Giulia Fanti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8o7CHfKBfg",
+   "pdf_url": "https://openreview.net/pdf?id=8o7CHfKBfg"
+  },
+  {
+   "title": "SoftSRV: Learn to generate targeted synthetic data.",
+   "authors": [
+    "Giulia DeSalvo",
+    "Jean-François Kagy",
+    "Lazaros Karydas",
+    "Afshin Rostamizadeh",
+    "Sanjiv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nd2Ml58XwC",
+   "pdf_url": "https://openreview.net/pdf?id=Nd2Ml58XwC"
+  },
+  {
+   "title": "Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources",
+   "authors": [
+    "Alisia Maria Lupidi",
+    "Carlos Gemmell",
+    "Nicola Cancedda",
+    "Jane Yu",
+    "Jason E Weston",
+    "Jakob Nicolaus Foerster",
+    "Roberta Raileanu",
+    "Maria Lomeli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z9rR3btRFI",
+   "pdf_url": "https://openreview.net/pdf?id=z9rR3btRFI"
+  },
+  {
+   "title": "Stronger Models are NOT Always Stronger Teachers for Instruction Tuning",
+   "authors": [
+    "Zhangchen Xu",
+    "Fengqing Jiang",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9lHqiFIUJI",
+   "pdf_url": "https://openreview.net/pdf?id=9lHqiFIUJI"
+  },
+  {
+   "title": "SyntheRela: A Benchmark For Synthetic Relational Database Generation",
+   "authors": [
+    "Martin Jurkovic",
+    "Valter Hudovernik",
+    "Erik Štrumbelj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZfQofWYn6n",
+   "pdf_url": "https://openreview.net/pdf?id=ZfQofWYn6n"
+  },
+  {
+   "title": "Synthetic Data for Blood Vessel Network Extraction",
+   "authors": [
+    "Joël Mathys",
+    "Andreas Plesner",
+    "Jorel Elmiger",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KHB6E15b3T",
+   "pdf_url": "https://openreview.net/pdf?id=KHB6E15b3T"
+  },
+  {
+   "title": "Synthetic Data Pruning in High Dimensions: A Random Matrix Perspective",
+   "authors": [
+    "Aymane El Firdoussi",
+    "Mohamed El Amine Seddik",
+    "Soufiane Hayou",
+    "Reda ALAMI",
+    "Ahmed Alzubaidi",
+    "Hakim Hacid"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gg1xDnYvP4",
+   "pdf_url": "https://openreview.net/pdf?id=Gg1xDnYvP4"
+  },
+  {
+   "title": "Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation",
+   "authors": [
+    "Tianhao Li",
+    "Tianyu Zeng",
+    "Yujia Zheng",
+    "ZHANG CHULONG",
+    "Jingyu Lu",
+    "Haotian Huang",
+    "Chuangxin Chu",
+    "Fang-Fang Yin",
+    "Zhenyu Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kcj727eUnq",
+   "pdf_url": "https://openreview.net/pdf?id=Kcj727eUnq"
+  },
+  {
+   "title": "Text to 3D Object Generation for Scalable Room Assembly",
+   "authors": [
+    "Sonia Laguna",
+    "Alberto Garcia-Garcia",
+    "Marie-Julie Rakotosaona",
+    "Stylianos Moschoglou",
+    "Leonhard Helminger",
+    "Sergio Orts-Escolano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3BFPupGYdy",
+   "pdf_url": "https://openreview.net/pdf?id=3BFPupGYdy"
+  },
+  {
+   "title": "TIMER: Temporal Instruction Modeling and Evaluation for Longitudinal Clinical Records",
+   "authors": [
+    "Hejie Cui",
+    "Alyssa Unell",
+    "Bowen Chen",
+    "Jason Alan Fries",
+    "Emily Alsentzer",
+    "Sanmi Koyejo",
+    "Nigam Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uBCAtA6M73",
+   "pdf_url": "https://openreview.net/pdf?id=uBCAtA6M73"
+  },
+  {
+   "title": "Towards Internet-Scale Training For Agents",
+   "authors": [
+    "Brandon Trabucco",
+    "Gunnar A Sigurdsson",
+    "Robinson Piramuthu",
+    "Ruslan Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6YFuaxXYxP",
+   "pdf_url": "https://openreview.net/pdf?id=6YFuaxXYxP"
+  },
+  {
+   "title": "Training-Free Safe Denoisers For Safe Use of Diffusion Models",
+   "authors": [
+    "Mingyu Kim",
+    "Dongjun Kim",
+    "Amman Yusuf",
+    "Stefano Ermon",
+    "Mijung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R9lU8ZeJjS",
+   "pdf_url": "https://openreview.net/pdf?id=R9lU8ZeJjS"
+  },
+  {
+   "title": "TRIG-Bench: A Benchmark for Text-Rich Image Grounding",
+   "authors": [
+    "Ming Li",
+    "Ruiyi Zhang",
+    "Jian Chen",
+    "Tianyi Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=37dVkgZxE3",
+   "pdf_url": "https://openreview.net/pdf?id=37dVkgZxE3"
+  },
+  {
+   "title": "V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data",
+   "authors": [
+    "Rotem Shalev Arkushin",
+    "Aharon Azulay",
+    "Tavi Halperin",
+    "Eitan Richardson",
+    "Amit Haim Bermano",
+    "Ohad Fried"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9yz8yulLcr",
+   "pdf_url": "https://openreview.net/pdf?id=9yz8yulLcr"
+  }
+ ]
+}

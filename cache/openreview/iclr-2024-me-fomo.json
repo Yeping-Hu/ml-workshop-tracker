@@ -1,0 +1,536 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/ME-FoMo",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:02.946Z",
+ "paper_count": 71,
+ "papers": [
+  {
+   "title": "\"I'm not Racist but…\": Discovering Bias in the Internal Knowledge of Large Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=8u7yncBauX",
+   "pdf_url": "https://openreview.net/pdf?id=8u7yncBauX"
+  },
+  {
+   "title": "Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=niBPvgJIHB",
+   "pdf_url": "https://openreview.net/pdf?id=niBPvgJIHB"
+  },
+  {
+   "title": "Asymmetry in Low-Rank Adapters of Foundation Models",
+   "authors": [
+    "Jiacheng Zhu",
+    "Kristjan Greenewald",
+    "Kimia Nadjahi",
+    "Haitz Sáez de Ocáriz Borde",
+    "Rickard Brüel Gabrielsson",
+    "Leshem Choshen",
+    "Marzyeh Ghassemi",
+    "Mikhail Yurochkin",
+    "Justin Solomon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PHrrbfrMEl",
+   "pdf_url": "https://openreview.net/pdf?id=PHrrbfrMEl"
+  },
+  {
+   "title": "Attributing Mode Collapse in the Fine-Tuning of Large Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=3pDMYjpOxk",
+   "pdf_url": "https://openreview.net/pdf?id=3pDMYjpOxk"
+  },
+  {
+   "title": "Backward Chaining Circuits in a Transformer Trained on a Symbolic Reasoning Task",
+   "authors": [
+    "Jannik Brinkmann",
+    "Abhay Sheshadri",
+    "Victor Levoso",
+    "Paul Swoboda",
+    "Christian Bartelt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WELOe7SPHK",
+   "pdf_url": "https://openreview.net/pdf?id=WELOe7SPHK"
+  },
+  {
+   "title": "Benchmarking and Building Long-Context Retrieval Models with LoCo and M2-BERT",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=M7XgJQSQct",
+   "pdf_url": "https://openreview.net/pdf?id=M7XgJQSQct"
+  },
+  {
+   "title": "Best Arm Identification for Prompt Learning under a Limited Budget",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=q4mtFqw8PR",
+   "pdf_url": "https://openreview.net/pdf?id=q4mtFqw8PR"
+  },
+  {
+   "title": "BlackMamba: Mixture of Experts for State-Space Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=10dsmPgq9L",
+   "pdf_url": "https://openreview.net/pdf?id=10dsmPgq9L"
+  },
+  {
+   "title": "Can Generative Multimodal Models Count to Ten?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=4LSCtJZMdG",
+   "pdf_url": "https://openreview.net/pdf?id=4LSCtJZMdG"
+  },
+  {
+   "title": "Can Mamba Learn How To Learn? A Comparative Study on In-Context Learning Tasks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=xvr0Hctddy",
+   "pdf_url": "https://openreview.net/pdf?id=xvr0Hctddy"
+  },
+  {
+   "title": "Concept-aware Data Construction Improves In-context Learning of Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=KwDG8YHZnP",
+   "pdf_url": "https://openreview.net/pdf?id=KwDG8YHZnP"
+  },
+  {
+   "title": "Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-tuned LLMs",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=126PpV2CoO",
+   "pdf_url": "https://openreview.net/pdf?id=126PpV2CoO"
+  },
+  {
+   "title": "Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=pAAMFQiAuD",
+   "pdf_url": "https://openreview.net/pdf?id=pAAMFQiAuD"
+  },
+  {
+   "title": "Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability",
+   "authors": [
+    "Zhuoyan Xu",
+    "Zhenmei Shi",
+    "Yingyu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4XPeF0SbJs",
+   "pdf_url": "https://openreview.net/pdf?id=4XPeF0SbJs"
+  },
+  {
+   "title": "Does Data Contamination Make a Difference? Insights from Intentionally Contamination Pre-training Data For Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=nLtl8JNOxg",
+   "pdf_url": "https://openreview.net/pdf?id=nLtl8JNOxg"
+  },
+  {
+   "title": "Dual Operating Modes of In-Context Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=5H4nJIGqmK",
+   "pdf_url": "https://openreview.net/pdf?id=5H4nJIGqmK"
+  },
+  {
+   "title": "Editing Large Language Models: Problems, Methods, and Opportunities",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=uOeGmss1DU",
+   "pdf_url": "https://openreview.net/pdf?id=uOeGmss1DU"
+  },
+  {
+   "title": "Eliciting Latent Knowledge from Quirky Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Z1531QeqAQ",
+   "pdf_url": "https://openreview.net/pdf?id=Z1531QeqAQ"
+  },
+  {
+   "title": "Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=BlRtsEBUaY",
+   "pdf_url": "https://openreview.net/pdf?id=BlRtsEBUaY"
+  },
+  {
+   "title": "Few-Shot Dual-Path Adaptation of Vision-Language Foundation Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=V1y84mlYHd",
+   "pdf_url": "https://openreview.net/pdf?id=V1y84mlYHd"
+  },
+  {
+   "title": "Fourier Circuits in Neural Networks: Unlocking the Potential of Large Language Models in Mathematical Reasoning and Modular Arithmetic",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Gf7nZAfiaB",
+   "pdf_url": "https://openreview.net/pdf?id=Gf7nZAfiaB"
+  },
+  {
+   "title": "Generalization Error Analysis for Sparse Mixture-of-Experts: A Preliminary Study",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=pdHYsuezlU",
+   "pdf_url": "https://openreview.net/pdf?id=pdHYsuezlU"
+  },
+  {
+   "title": "GistScore: Learning Better Representations for In-Context Example Selection with Gist Bottlenecks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=1GZlEQWvU3",
+   "pdf_url": "https://openreview.net/pdf?id=1GZlEQWvU3"
+  },
+  {
+   "title": "How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation",
+   "authors": [
+    "Zhongyi Han",
+    "Guanglin Zhou",
+    "Rundong He",
+    "Jindong Wang",
+    "Tailin Wu",
+    "Yilong Yin",
+    "Salman Khan",
+    "Lina Yao",
+    "Tongliang Liu",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J8V4EwZkez",
+   "pdf_url": "https://openreview.net/pdf?id=J8V4EwZkez"
+  },
+  {
+   "title": "In-Context Data Distillation with TabPFN",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=EkEFVhe5Gj",
+   "pdf_url": "https://openreview.net/pdf?id=EkEFVhe5Gj"
+  },
+  {
+   "title": "Investigating Uncertainty Calibration of Aligned Language Models under the Multiple-Choice Setting",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=I1OcffsjUX",
+   "pdf_url": "https://openreview.net/pdf?id=I1OcffsjUX"
+  },
+  {
+   "title": "Is Mamba Capable of In-Context Learning?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Iia0cnjMh2",
+   "pdf_url": "https://openreview.net/pdf?id=Iia0cnjMh2"
+  },
+  {
+   "title": "Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=w3oJXMAQx2",
+   "pdf_url": "https://openreview.net/pdf?id=w3oJXMAQx2"
+  },
+  {
+   "title": "LangBridge: Multilingual Reasoning Without Multilingual Supervision",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7YRECSeNGR",
+   "pdf_url": "https://openreview.net/pdf?id=7YRECSeNGR"
+  },
+  {
+   "title": "Linear Alignment of Vision-language Models for Image Captioning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=sZdz1HwV1e",
+   "pdf_url": "https://openreview.net/pdf?id=sZdz1HwV1e"
+  },
+  {
+   "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=9YvfRrpmyw",
+   "pdf_url": "https://openreview.net/pdf?id=9YvfRrpmyw"
+  },
+  {
+   "title": "Massive Activations in Large Language Models",
+   "authors": [
+    "Mingjie Sun",
+    "Xinlei Chen",
+    "J Zico Kolter",
+    "Zhuang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ayU4fMqme",
+   "pdf_url": "https://openreview.net/pdf?id=1ayU4fMqme"
+  },
+  {
+   "title": "MathSensei: Mathematical Reasoning with a Tool-Augmented Large Language Model",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=YDQ6eBB4py",
+   "pdf_url": "https://openreview.net/pdf?id=YDQ6eBB4py"
+  },
+  {
+   "title": "MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=LRp8rCaYH7",
+   "pdf_url": "https://openreview.net/pdf?id=LRp8rCaYH7"
+  },
+  {
+   "title": "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=mDhu5U0izX",
+   "pdf_url": "https://openreview.net/pdf?id=mDhu5U0izX"
+  },
+  {
+   "title": "On Fairness Implications and Evaluations of Low-Rank Adaptation of Large Models",
+   "authors": [
+    "Ken Liu",
+    "Zhoujie Ding",
+    "Berivan Isik",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5HgHNARint",
+   "pdf_url": "https://openreview.net/pdf?id=5HgHNARint"
+  },
+  {
+   "title": "On provable length and compositional generalization",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=bk4YLrqGB6",
+   "pdf_url": "https://openreview.net/pdf?id=bk4YLrqGB6"
+  },
+  {
+   "title": "On the Representation Gap Between Modern RNNs and Transformers: The Curse of Memory Efficiency and the Fix of In-Context Retrieval",
+   "authors": [
+    "Kaiyue Wen",
+    "Xingyu Dang",
+    "Kaifeng Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fN8qyEgSES",
+   "pdf_url": "https://openreview.net/pdf?id=fN8qyEgSES"
+  },
+  {
+   "title": "ORCHID: FLEXIBLE AND DATA-DEPENDENT CONVO- LUTION FOR SEQUENCE MODELING",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=44VDxQwWXN",
+   "pdf_url": "https://openreview.net/pdf?id=44VDxQwWXN"
+  },
+  {
+   "title": "Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization",
+   "authors": [
+    "Elan Rosenfeld",
+    "Andrej Risteski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uVy4zPW7SQ",
+   "pdf_url": "https://openreview.net/pdf?id=uVy4zPW7SQ"
+  },
+  {
+   "title": "Perplexed by Perplexity: Perplexity-Based Pruning with Small Reference Models",
+   "authors": [
+    "Zachary Ankner",
+    "Cody Blakeney",
+    "Kartik Sreenivasan",
+    "Max Marion",
+    "Matthew L Leavitt",
+    "Mansheej Paul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0r0Bg1NY1X",
+   "pdf_url": "https://openreview.net/pdf?id=0r0Bg1NY1X"
+  },
+  {
+   "title": "Pre-training and In-context Learning IS Bayesian Inference a la De Finetti",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=ttupfosvgx",
+   "pdf_url": "https://openreview.net/pdf?id=ttupfosvgx"
+  },
+  {
+   "title": "Predicting Grokking Long Before it Happens: A look into the loss landscape of models which grok",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=AUjCSjxhGj",
+   "pdf_url": "https://openreview.net/pdf?id=AUjCSjxhGj"
+  },
+  {
+   "title": "Preserving Principal Subspaces to Reduce Catastrophic Forgetting in Fine-tuning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=XoWtroECJU",
+   "pdf_url": "https://openreview.net/pdf?id=XoWtroECJU"
+  },
+  {
+   "title": "Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=FzlwQudfLj",
+   "pdf_url": "https://openreview.net/pdf?id=FzlwQudfLj"
+  },
+  {
+   "title": "Prompting a Pretrained Transformer Can Be a Universal Approximator",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=z7LOXziWxH",
+   "pdf_url": "https://openreview.net/pdf?id=z7LOXziWxH"
+  },
+  {
+   "title": "Provably Robust DPO: Aligning Language Models with Noisy Feedback",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=FDmiBg8aH1",
+   "pdf_url": "https://openreview.net/pdf?id=FDmiBg8aH1"
+  },
+  {
+   "title": "Quantified Task Misalignment to Inform PEFT: An Exploration of Domain Generalization and Catastrophic Forgetting in CLIP",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=BY2qIkZhK8",
+   "pdf_url": "https://openreview.net/pdf?id=BY2qIkZhK8"
+  },
+  {
+   "title": "QuRating: Selecting High-Quality Data for Training Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=hkobxlBJpq",
+   "pdf_url": "https://openreview.net/pdf?id=hkobxlBJpq"
+  },
+  {
+   "title": "Robust CLIP: Unsupervised Adversarial Fine-tuning of Vision Embeddings for Robust Large Vision-Language Models",
+   "authors": [
+    "Christian Schlarmann",
+    "Naman Deep Singh",
+    "Francesco Croce",
+    "Matthias Hein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xEDcG9ABBu",
+   "pdf_url": "https://openreview.net/pdf?id=xEDcG9ABBu"
+  },
+  {
+   "title": "Scalable Ensembling For Mitigating Reward Overoptimisation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=DWjt2U9lrs",
+   "pdf_url": "https://openreview.net/pdf?id=DWjt2U9lrs"
+  },
+  {
+   "title": "Scaling Laws for Downstream Task Performance of Large Language Models",
+   "authors": [
+    "Berivan Isik",
+    "Natalia Ponomareva",
+    "Hussein Hazimeh",
+    "Dimitris Paparas",
+    "Sergei Vassilvitskii",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QASo5yumt4",
+   "pdf_url": "https://openreview.net/pdf?id=QASo5yumt4"
+  },
+  {
+   "title": "Scaling Laws for Fine-Grained Mixture of Experts",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Iizr8qwH7J",
+   "pdf_url": "https://openreview.net/pdf?id=Iizr8qwH7J"
+  },
+  {
+   "title": "Selecting Large Language Model to Fine-tune via Rectified Scaling Law",
+   "authors": [
+    "Haowei Lin",
+    "Baizhou Huang",
+    "Haotian Ye",
+    "Qinyu Chen",
+    "Zihao Wang",
+    "Sujian Li",
+    "Jianzhu Ma",
+    "Xiaojun Wan",
+    "James Zou",
+    "Yitao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VfA3PAQJQO",
+   "pdf_url": "https://openreview.net/pdf?id=VfA3PAQJQO"
+  },
+  {
+   "title": "Self-Supervised Open-Ended Classification with Small Visual Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qnolBlkLAy",
+   "pdf_url": "https://openreview.net/pdf?id=qnolBlkLAy"
+  },
+  {
+   "title": "ShERPA: Leveraging Neuron Alignment for Knowledge-preserving Fine-tuning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=BqIxUKqrdD",
+   "pdf_url": "https://openreview.net/pdf?id=BqIxUKqrdD"
+  },
+  {
+   "title": "Shortened LLaMA: A Simple Depth Pruning for Large Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=18VGxuOdpu",
+   "pdf_url": "https://openreview.net/pdf?id=18VGxuOdpu"
+  },
+  {
+   "title": "Simple linear attention language models balance the recall-throughput tradeoff",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qRlcoPhEoD",
+   "pdf_url": "https://openreview.net/pdf?id=qRlcoPhEoD"
+  },
+  {
+   "title": "SparQ Attention: Bandwidth-Efficient LLM Inference",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Ue8EHzaFI4",
+   "pdf_url": "https://openreview.net/pdf?id=Ue8EHzaFI4"
+  },
+  {
+   "title": "The Effect of Model Capacity on the Emergence of In-Context Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=YZM9g0Mi9a",
+   "pdf_url": "https://openreview.net/pdf?id=YZM9g0Mi9a"
+  },
+  {
+   "title": "tinyBenchmarks: evaluating LLMs with fewer examples",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=CN4xL9IYRO",
+   "pdf_url": "https://openreview.net/pdf?id=CN4xL9IYRO"
+  },
+  {
+   "title": "Towards an empirical understanding of Mixture of Experts Design Choices",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=ebPKyb6r9F",
+   "pdf_url": "https://openreview.net/pdf?id=ebPKyb6r9F"
+  },
+  {
+   "title": "Towards an Improved Understanding and Utilization of Maximum Manifold Capacity Representations",
+   "authors": [
+    "Rylan Schaeffer",
+    "Berivan Isik",
+    "Dhruv Bhandarkar Pai",
+    "Andres Carranza",
+    "Victor Lecomte",
+    "Alyssa Unell",
+    "Mikail Khona",
+    "Thomas Edward Yerxa",
+    "Yann LeCun",
+    "SueYeon Chung",
+    "Andrey Gromov",
+    "Ravid Shwartz-Ziv",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WuXl6H4uqB",
+   "pdf_url": "https://openreview.net/pdf?id=WuXl6H4uqB"
+  },
+  {
+   "title": "Transformers Can Achieve Length Generalization But Not Robustly",
+   "authors": [
+    "Yongchao Zhou",
+    "Uri Alon",
+    "Xinyun Chen",
+    "Xuezhi Wang",
+    "Rishabh Agarwal",
+    "Denny Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DWkWIh3vFJ",
+   "pdf_url": "https://openreview.net/pdf?id=DWkWIh3vFJ"
+  },
+  {
+   "title": "Transformers Learn Nonlinear Features In Context",
+   "authors": [
+    "Juno Kim",
+    "Taiji Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WvvAu6XI1M",
+   "pdf_url": "https://openreview.net/pdf?id=WvvAu6XI1M"
+  },
+  {
+   "title": "Transformers' Spectral Bias and The Symmetric Group",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=POjhyQRw3K",
+   "pdf_url": "https://openreview.net/pdf?id=POjhyQRw3K"
+  },
+  {
+   "title": "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=7QwFMLzQHH",
+   "pdf_url": "https://openreview.net/pdf?id=7QwFMLzQHH"
+  },
+  {
+   "title": "Understanding and Improving In-Context Learning on Vision-language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=SB2sWF3oCw",
+   "pdf_url": "https://openreview.net/pdf?id=SB2sWF3oCw"
+  },
+  {
+   "title": "Unsupervised Domain Adaptation within Deep Foundation Latent Spaces",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=5z5XyMqZXW",
+   "pdf_url": "https://openreview.net/pdf?id=5z5XyMqZXW"
+  },
+  {
+   "title": "What makes vision transformers robust towards bit-flip attack?",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=dRPvkwLxKR",
+   "pdf_url": "https://openreview.net/pdf?id=dRPvkwLxKR"
+  },
+  {
+   "title": "Zero-Shot Recognition with Guided Cropping",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=VXeCrb90EZ",
+   "pdf_url": "https://openreview.net/pdf?id=VXeCrb90EZ"
+  }
+ ]
+}

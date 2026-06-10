@@ -1,0 +1,516 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/InterpretableAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:40.485Z",
+ "paper_count": 46,
+ "papers": [
+  {
+   "title": "A Concept-Based Explainability Framework for Large Multimodal Models",
+   "authors": [
+    "Jayneel Parekh",
+    "Pegah KHAYATAN",
+    "Mustafa Shukor",
+    "Alasdair Newson",
+    "Matthieu Cord"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SG78tZG9kv",
+   "pdf_url": "https://openreview.net/pdf?id=SG78tZG9kv"
+  },
+  {
+   "title": "A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders",
+   "authors": [
+    "David Chanin",
+    "James Wilken-Smith",
+    "Tomáš Dulka",
+    "Hardik Bhatnagar",
+    "Joseph Isaac Bloom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wzav8fesTL",
+   "pdf_url": "https://openreview.net/pdf?id=Wzav8fesTL"
+  },
+  {
+   "title": "A Theory of Interpretable Approximations",
+   "authors": [
+    "Marco Bressan",
+    "Nicolò Cesa-Bianchi",
+    "Emmanuel Esposito",
+    "Yishay Mansour",
+    "Shay Moran",
+    "Maximilian Thiessen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ywxDNmQ2jV",
+   "pdf_url": "https://openreview.net/pdf?id=ywxDNmQ2jV"
+  },
+  {
+   "title": "Aligning Characteristic Descriptors with Images for Human-Expert-like Explainability",
+   "authors": [
+    "Bharat Chandra Yalavarthi",
+    "Nalini K. Ratha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dQR1CSGfog",
+   "pdf_url": "https://openreview.net/pdf?id=dQR1CSGfog"
+  },
+  {
+   "title": "Bivariate Decision Trees: Smaller, Interpretable, More Accurate",
+   "authors": [
+    "Rasul Kairgeldin",
+    "Miguel Á. Carreira-Perpiñán"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bT69IJ5Br5",
+   "pdf_url": "https://openreview.net/pdf?id=bT69IJ5Br5"
+  },
+  {
+   "title": "Can sparse autoencoders be used to decompose and interpret steering vectors?",
+   "authors": [
+    "Harry Mayne",
+    "Yushi Yang",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6VGkENHc1J",
+   "pdf_url": "https://openreview.net/pdf?id=6VGkENHc1J"
+  },
+  {
+   "title": "Clustering and Alignment: Understanding the Training Dynamics in Modular Addition",
+   "authors": [
+    "Tiberiu Mușat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zjjtn7P8IG",
+   "pdf_url": "https://openreview.net/pdf?id=zjjtn7P8IG"
+  },
+  {
+   "title": "Competence-Based Analysis of Language Models",
+   "authors": [
+    "Adam Davies",
+    "Jize Jiang",
+    "ChengXiang Zhai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x6ZM5Is2Po",
+   "pdf_url": "https://openreview.net/pdf?id=x6ZM5Is2Po"
+  },
+  {
+   "title": "ConceptDrift: Uncovering Biases through the Lens of Foundation Models",
+   "authors": [
+    "Cristian Daniel Paduraru",
+    "Antonio Barbalau",
+    "Radu Filipescu",
+    "Andrei Liviu Nicolicioiu",
+    "Elena Burceanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a78CZ8g85n",
+   "pdf_url": "https://openreview.net/pdf?id=a78CZ8g85n"
+  },
+  {
+   "title": "CoS: Enhancing Personalization and Mitigating Bias with Context Steering",
+   "authors": [
+    "Sashrika Pandey",
+    "Jerry Zhi-Yang He",
+    "Mariah L Schrum",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Teect8Hlkk",
+   "pdf_url": "https://openreview.net/pdf?id=Teect8Hlkk"
+  },
+  {
+   "title": "Deep quantum graph dreaming: deciphering neural network insights into quantum experiments",
+   "authors": [
+    "Tareq Jaouni",
+    "Sören Arlt",
+    "Carlos Ruiz-Gonzalez",
+    "Ebrahim Karimi",
+    "Xuemei Gu",
+    "Mario Krenn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TfrQgdcVlm",
+   "pdf_url": "https://openreview.net/pdf?id=TfrQgdcVlm"
+  },
+  {
+   "title": "Disentangling Mean Embeddings for Better Diagnostics of Image Generators",
+   "authors": [
+    "Sebastian Gregor Gruber",
+    "Pascal Tobias Ziegler",
+    "Florian Buettner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mZkShMbCaS",
+   "pdf_url": "https://openreview.net/pdf?id=mZkShMbCaS"
+  },
+  {
+   "title": "Enhancing patient stratification and interpretability through class-contrastive and feature attribution techniques",
+   "authors": [
+    "Sharday Olowu",
+    "Neil D Lawrence",
+    "Soumya Banerjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yNgYYzimDb",
+   "pdf_url": "https://openreview.net/pdf?id=yNgYYzimDb"
+  },
+  {
+   "title": "Error-controlled interaction discovery in deep neural networks",
+   "authors": [
+    "Winston Chen",
+    "Yifan Jiang",
+    "William Noble",
+    "Yang Young Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dIOLgr7nda",
+   "pdf_url": "https://openreview.net/pdf?id=dIOLgr7nda"
+  },
+  {
+   "title": "Evaluating Machine Learning Models with NERO: Non-Equivariance Revealed on Orbits",
+   "authors": [
+    "Zhuokai Zhao",
+    "Takumi Matsuzawa",
+    "William Irvine",
+    "Michael Maire",
+    "Gordon Kindlmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cftKAMCl2h",
+   "pdf_url": "https://openreview.net/pdf?id=cftKAMCl2h"
+  },
+  {
+   "title": "Explainable AI-based analysis of human pancreas sections detects traits of type 2 diabetes",
+   "authors": [
+    "Lukas Klein",
+    "Sebastian Ziegler",
+    "Felicia Gerst",
+    "Yanni Morgenroth",
+    "Karol Gotkowski",
+    "Eyke Schöniger",
+    "Nicole Kipke",
+    "Annika Seiler",
+    "Ellen Geibelt",
+    "Martin Heni",
+    "Silvia Wagner",
+    "Silvio Nadalin",
+    "Falko Fend",
+    "Daniela Aust",
+    "Andre Mihaljevic",
+    "Daniel Hartmann",
+    "Jurgen Weitz",
+    "Reiner Jumpertz-von Schwartzenberg",
+    "Marius Distler",
+    "Andreas Birkefeld",
+    "Susanne Ullrich",
+    "Paul F Jaeger",
+    "Fabian Isensee",
+    "Michele Solimena",
+    "Robert Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qvsRFOmB6Z",
+   "pdf_url": "https://openreview.net/pdf?id=qvsRFOmB6Z"
+  },
+  {
+   "title": "Explainable Concept Generation through Vision-Language Preference Learning",
+   "authors": [
+    "Aditya Taparia",
+    "Som Sagar",
+    "Ransalu Senanayake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oZLbD3p11a",
+   "pdf_url": "https://openreview.net/pdf?id=oZLbD3p11a"
+  },
+  {
+   "title": "Exploiting Interpretable Capabilities with Concept-Enhanced Diffusion and Prototype Networks",
+   "authors": [
+    "Alba Carballo-Castro",
+    "Sonia Laguna",
+    "Moritz Vandenhirtz",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sBPRqxPrWh",
+   "pdf_url": "https://openreview.net/pdf?id=sBPRqxPrWh"
+  },
+  {
+   "title": "GAMformer: Exploring In-Context Learning for Generalized Additive Models",
+   "authors": [
+    "Andreas C Mueller",
+    "Julien Siems",
+    "Harsha Nori",
+    "Rich Caruana",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0HOHJuNpZl",
+   "pdf_url": "https://openreview.net/pdf?id=0HOHJuNpZl"
+  },
+  {
+   "title": "How Do Training Methods Influence the Utilization of Vision Models?",
+   "authors": [
+    "Paul Gavrikov",
+    "Shashank Agnihotri",
+    "Margret Keuper",
+    "Janis Keuper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zJFvjdW9JS",
+   "pdf_url": "https://openreview.net/pdf?id=zJFvjdW9JS"
+  },
+  {
+   "title": "Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Approach to Interpretability",
+   "authors": [
+    "Lukas Klein",
+    "Kenza Amara",
+    "Carsten T. Lüth",
+    "Antonio Foncubierta-Rodríguez",
+    "Hendrik Strobelt",
+    "Mennatallah El-Assady",
+    "Paul F Jaeger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IxWm8majsV",
+   "pdf_url": "https://openreview.net/pdf?id=IxWm8majsV"
+  },
+  {
+   "title": "Interpretability as Compression: Reconsidering SAE Explanations of Neural Activations",
+   "authors": [
+    "Kola Ayonrinde",
+    "Michael T Pearce"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OvmW8HnGzK",
+   "pdf_url": "https://openreview.net/pdf?id=OvmW8HnGzK"
+  },
+  {
+   "title": "Interpretable AI in Human-Machine Systems: Insights from Human-in-the-Loop Product Recommendation Engines",
+   "authors": [
+    "Pooria Assadi",
+    "NIMA SAFAEI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OPQZa8e6E4",
+   "pdf_url": "https://openreview.net/pdf?id=OPQZa8e6E4"
+  },
+  {
+   "title": "Isometry pursuit",
+   "authors": [
+    "Samson J Koelle",
+    "Marina Meila"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ce8hCJWO2s",
+   "pdf_url": "https://openreview.net/pdf?id=Ce8hCJWO2s"
+  },
+  {
+   "title": "Latent Concept-based Explanation of NLP Models",
+   "authors": [
+    "Xuemin Yu",
+    "Fahim Dalvi",
+    "Nadir Durrani",
+    "Marzia Nouri",
+    "Hassan Sajjad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uojwi6W25V",
+   "pdf_url": "https://openreview.net/pdf?id=uojwi6W25V"
+  },
+  {
+   "title": "Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions",
+   "authors": [
+    "Marc Canby",
+    "Adam Davies",
+    "Chirag Rastogi",
+    "Julia Hockenmaier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tmpMQLxVHh",
+   "pdf_url": "https://openreview.net/pdf?id=tmpMQLxVHh"
+  },
+  {
+   "title": "Model Reconstruction Using Counterfactual Explanations: A Perspective From Polytope Theory",
+   "authors": [
+    "Pasan Dissanayake",
+    "Sanghamitra Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OeRxyWGO4k",
+   "pdf_url": "https://openreview.net/pdf?id=OeRxyWGO4k"
+  },
+  {
+   "title": "On Interpretability and Overreliance",
+   "authors": [
+    "Julian Skirzynski",
+    "Elena Glassman",
+    "Berk Ustun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0w7JBZibDc",
+   "pdf_url": "https://openreview.net/pdf?id=0w7JBZibDc"
+  },
+  {
+   "title": "Policy-shaped prediction: improving world modeling through interpretability",
+   "authors": [
+    "Miles Richard Hutson",
+    "Isaac Kauvar",
+    "Nick Haber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3xMGHSJkXf",
+   "pdf_url": "https://openreview.net/pdf?id=3xMGHSJkXf"
+  },
+  {
+   "title": "Position: In Defence of Post-hoc Explainability",
+   "authors": [
+    "Nick Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FHScolo0WA",
+   "pdf_url": "https://openreview.net/pdf?id=FHScolo0WA"
+  },
+  {
+   "title": "Position: XAI needs formal notions of explanation correctness",
+   "authors": [
+    "Stefan Haufe",
+    "Rick Wilming",
+    "Benedict Clark",
+    "Rustam Zhumagambetov",
+    "Danny Panknin",
+    "Ahcene Boubekki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g0I1h8JmtE",
+   "pdf_url": "https://openreview.net/pdf?id=g0I1h8JmtE"
+  },
+  {
+   "title": "Positional Information Can Emerge Through Causal Attention Making Nearby Token Embeddings Similar Even Without Positional Encodings",
+   "authors": [
+    "Chunsheng Zuo",
+    "Pavel Guerzhoy",
+    "Michael Guerzhoy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3JEHX31Yy6",
+   "pdf_url": "https://openreview.net/pdf?id=3JEHX31Yy6"
+  },
+  {
+   "title": "Probable-class Nearest-neighbor Explanations Improve AI & Human Accuracy",
+   "authors": [
+    "Giang Nguyen",
+    "Valerie Chen",
+    "Mohammad Reza Taesiri",
+    "Anh Totti Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vcySq1WUeL",
+   "pdf_url": "https://openreview.net/pdf?id=vcySq1WUeL"
+  },
+  {
+   "title": "ProtoS-ViT: Visual foundation models for sparse self-explainable classifications",
+   "authors": [
+    "Hugues Turbe",
+    "Mina Bjelogrlic",
+    "Gianmarco Mengaldo",
+    "Christian Lovis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xP1ROUJoyt",
+   "pdf_url": "https://openreview.net/pdf?id=xP1ROUJoyt"
+  },
+  {
+   "title": "Residual Stream Analysis with Multi-Layer SAEs",
+   "authors": [
+    "Tim Lawson",
+    "Lucy Farnik",
+    "Conor Houghton",
+    "Laurence Aitchison"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vr5VRKq09l",
+   "pdf_url": "https://openreview.net/pdf?id=vr5VRKq09l"
+  },
+  {
+   "title": "Riemann Sum Optimization for Accurate Integrated Gradients Computation",
+   "authors": [
+    "Shree Singhi",
+    "Swadesh Swain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RUictASiLY",
+   "pdf_url": "https://openreview.net/pdf?id=RUictASiLY"
+  },
+  {
+   "title": "Right on Time: Revising Time Series Models by Constraining their Explanations",
+   "authors": [
+    "Maurice Kraus",
+    "David Steinmann",
+    "Antonia Wüst",
+    "Andre Kokozinski",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HmuMTOWdiK",
+   "pdf_url": "https://openreview.net/pdf?id=HmuMTOWdiK"
+  },
+  {
+   "title": "SignAttention: On the Interpretability of Transformer Models for Sign Language Translation",
+   "authors": [
+    "Pedro Alejandro Dal Bianco",
+    "Oscar Agustín Stanchi",
+    "Facundo Manuel Quiroga",
+    "Franco Ronchetti",
+    "Enzo Ferrante"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K1lmElBhNo",
+   "pdf_url": "https://openreview.net/pdf?id=K1lmElBhNo"
+  },
+  {
+   "title": "Subgroup Discovery with the Cox Model",
+   "authors": [
+    "Zachary Izzo",
+    "Iain Melvin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r4BofYylBt",
+   "pdf_url": "https://openreview.net/pdf?id=r4BofYylBt"
+  },
+  {
+   "title": "The effect of whitening on explanation performance",
+   "authors": [
+    "Benedict Clark",
+    "Stoyan Karastoyanov",
+    "Rick Wilming",
+    "Stefan Haufe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0EUYnGIp4F",
+   "pdf_url": "https://openreview.net/pdf?id=0EUYnGIp4F"
+  },
+  {
+   "title": "The Price of Freedom: An Adversarial Attack on Interpretability Evaluation",
+   "authors": [
+    "Kristoffer Knutsen Wickstrøm",
+    "Marina MC Höhne",
+    "Anna Hedström"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BpJK5lFzfM",
+   "pdf_url": "https://openreview.net/pdf?id=BpJK5lFzfM"
+  },
+  {
+   "title": "This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations",
+   "authors": [
+    "Chiyu Ma",
+    "Brandon Zhao",
+    "Chaofan Chen",
+    "Cynthia Rudin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXMjIjaKtP",
+   "pdf_url": "https://openreview.net/pdf?id=bXMjIjaKtP"
+  },
+  {
+   "title": "Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models",
+   "authors": [
+    "Konstantin Donhauser",
+    "Gemma Elyse Moran",
+    "Aditya Ravuri",
+    "Kian Kenyon-Dean",
+    "Kristina Ulicna",
+    "Cian Eastwood",
+    "Jason Hartford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jYl7kM1oK0",
+   "pdf_url": "https://openreview.net/pdf?id=jYl7kM1oK0"
+  },
+  {
+   "title": "Words in Motion: Extracting Interpretable Control Vectors for Motion Transformers",
+   "authors": [
+    "Omer Sahin Tas",
+    "Royden Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jT1WiYTIHR",
+   "pdf_url": "https://openreview.net/pdf?id=jT1WiYTIHR"
+  },
+  {
+   "title": "You can remove GPT2's LayerNorm by fine-tuning",
+   "authors": [
+    "Stefan Heimersheim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l2qgijevG0",
+   "pdf_url": "https://openreview.net/pdf?id=l2qgijevG0"
+  },
+  {
+   "title": "Your Theory Is Wrong: Using Linguistic Frameworks for LLM Probing",
+   "authors": [
+    "Victoria Firsanova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8XuiwERO2A",
+   "pdf_url": "https://openreview.net/pdf?id=8XuiwERO2A"
+  }
+ ]
+}

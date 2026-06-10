@@ -1,0 +1,1746 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/HiLD",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:54.042Z",
+ "paper_count": 167,
+ "papers": [
+  {
+   "title": "$\\delta$-Regularized Gradient Clipping for Stable Optimization: Analysis and Empirical Evaluation",
+   "authors": [
+    "Katsiaryna Novikava",
+    "Anna Lytova",
+    "Omar Rivasplata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xODuTGUSEC",
+   "pdf_url": "https://openreview.net/pdf?id=xODuTGUSEC"
+  },
+  {
+   "title": "A \"feature ODE\" describing the learning behavior of shallow MLPs on simple functions",
+   "authors": [
+    "Joseph Turnbull",
+    "Berkan Ottlik",
+    "James B Simon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zWt1fxjD6o",
+   "pdf_url": "https://openreview.net/pdf?id=zWt1fxjD6o"
+  },
+  {
+   "title": "A $p$-adic Perspective on Low-Bit Training of Neural Networks",
+   "authors": [
+    "Daniel Bershatsky",
+    "Marina Munkhoeva",
+    "Ivan Oseledets"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KPcwE6qwAh",
+   "pdf_url": "https://openreview.net/pdf?id=KPcwE6qwAh"
+  },
+  {
+   "title": "A Compute-Matched Study of Hidden Layer Distillation for LLM Pre-Training",
+   "authors": [
+    "Maxime Guigon",
+    "Lucas Dixon",
+    "Michael Eli Sander"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lu9fBi7wDy",
+   "pdf_url": "https://openreview.net/pdf?id=Lu9fBi7wDy"
+  },
+  {
+   "title": "A Coulomb Particle Model for Learning Kernel Attention in Transformers",
+   "authors": [
+    "Masoud Badiei Khuzani",
+    "Sharath Honnaiah",
+    "Atiq Islam",
+    "Alex Cozzi",
+    "Abraham Bagherjeiran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p2sBXjqGCc",
+   "pdf_url": "https://openreview.net/pdf?id=p2sBXjqGCc"
+  },
+  {
+   "title": "A Data-Scaling Sweet Spot in Structured Algorithmic Learning",
+   "authors": [
+    "Shin So",
+    "Kyelim Lee",
+    "Albert No"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HOWCFHa2f9",
+   "pdf_url": "https://openreview.net/pdf?id=HOWCFHa2f9"
+  },
+  {
+   "title": "A Geometric Perspective on Stabilizing Value Conflict Resolution",
+   "authors": [
+    "Saket Reddy",
+    "Andy Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VV6pjVuwS6",
+   "pdf_url": "https://openreview.net/pdf?id=VV6pjVuwS6"
+  },
+  {
+   "title": "A Horizon-Dependent Intrinsic-Dimension Theory of Scaling for Biological Forecasting",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang",
+    "Arnav Pemmaraju",
+    "Brendan Lo",
+    "Joshua Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ZFyQRalEc",
+   "pdf_url": "https://openreview.net/pdf?id=1ZFyQRalEc"
+  },
+  {
+   "title": "A loss curvature account of fine-tuning fragility",
+   "authors": [
+    "Ivaylo Dimitrov",
+    "Leo Karoubi",
+    "Sunny Howard",
+    "Dmitrii Krasheninnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mppm6nh5qO",
+   "pdf_url": "https://openreview.net/pdf?id=Mppm6nh5qO"
+  },
+  {
+   "title": "A Quadratic Lens on Muon: Orthogonalization, Invariance, and Implicit Preconditioning",
+   "authors": [
+    "Egor Shulgin",
+    "Sam Laing",
+    "Antonio Orvieto",
+    "Peter Richtárik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TVTwgZp0qe",
+   "pdf_url": "https://openreview.net/pdf?id=TVTwgZp0qe"
+  },
+  {
+   "title": "A Simple and Efficient Measure of Loss Landscape Curvature",
+   "authors": [
+    "Hee-Sung Kim",
+    "Sungyoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PnHMyT7qP2",
+   "pdf_url": "https://openreview.net/pdf?id=PnHMyT7qP2"
+  },
+  {
+   "title": "Activation Functions Control Finite-Width Concentration in Wide Neural Networks",
+   "authors": [
+    "Soumya Ganguly",
+    "Nilava Metya",
+    "Alexandre V. Morozov",
+    "Anirvan M. Sengupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x1PXM6FjVo",
+   "pdf_url": "https://openreview.net/pdf?id=x1PXM6FjVo"
+  },
+  {
+   "title": "Adam or Gauss-Newton? A Comparative Study In Terms of Basis Alignment and SGD Noise",
+   "authors": [
+    "Bingbin Liu",
+    "Rachit Bansal",
+    "Depen Morwani",
+    "David Alvarez-Melis",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lonqzlENTn",
+   "pdf_url": "https://openreview.net/pdf?id=lonqzlENTn"
+  },
+  {
+   "title": "AMUSE: Anytime Muon with Stable Gradient Evaluation",
+   "authors": [
+    "Jueun Kim",
+    "Baekrok Shin",
+    "Jihun Yun",
+    "Beomhan Baek",
+    "Minhak Song",
+    "Chulhee Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uvudNOytKm",
+   "pdf_url": "https://openreview.net/pdf?id=uvudNOytKm"
+  },
+  {
+   "title": "Anytime Pretraining: Horizon-Free Learning-Rate Schedules with Weight Averaging",
+   "authors": [
+    "Alexandru Meterez",
+    "Pranav Ajit Nair",
+    "Depen Morwani",
+    "Cengiz Pehlevan",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BahU9CxdnT",
+   "pdf_url": "https://openreview.net/pdf?id=BahU9CxdnT"
+  },
+  {
+   "title": "Asymmetric Scaling Laws from Sparse Features",
+   "authors": [
+    "John Sous"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OPsXTHE5zz",
+   "pdf_url": "https://openreview.net/pdf?id=OPsXTHE5zz"
+  },
+  {
+   "title": "Be Greedy, Stay Linear: Universally Robust Feature Engineering",
+   "authors": [
+    "Yunze Leng",
+    "Rohan Ghosh",
+    "Mehul Motani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LIIZng1X1Y",
+   "pdf_url": "https://openreview.net/pdf?id=LIIZng1X1Y"
+  },
+  {
+   "title": "Beyond the Hessian Edge: The Stochastic Stability Cocycle of Mini-Batch SGD",
+   "authors": [
+    "Manoj Saravanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TN7h8yBShY",
+   "pdf_url": "https://openreview.net/pdf?id=TN7h8yBShY"
+  },
+  {
+   "title": "BLADE: Binary Learning via Algebraic Dual Estimation for the Exact Edge of Stability in 1-Bit Networks",
+   "authors": [
+    "Şuayp Talha Kocabay",
+    "Talha Rüzgar Akkuş"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d49NRbKmfv",
+   "pdf_url": "https://openreview.net/pdf?id=d49NRbKmfv"
+  },
+  {
+   "title": "BReD: Stabilizing Quantized EMA Dynamics for Memory-Efficient Large-Scale Training",
+   "authors": [
+    "Heshen Zhan",
+    "Youhan Huang",
+    "Yunke Peng",
+    "Yao Wang",
+    "Linghui Kong",
+    "Ziwei Zhu",
+    "Qingyu Han",
+    "Yaoyuan Wang",
+    "Congliang Chen",
+    "Ruoyu Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ATXhZIy5PM",
+   "pdf_url": "https://openreview.net/pdf?id=ATXhZIy5PM"
+  },
+  {
+   "title": "Causal Volterra Dynamics of Mamba",
+   "authors": [
+    "Ming-Ching Chang",
+    "Ting Yu Tsai",
+    "Davis Wertheimer",
+    "Felix X.-F. Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aIbMv2GhHp",
+   "pdf_url": "https://openreview.net/pdf?id=aIbMv2GhHp"
+  },
+  {
+   "title": "Characterizing Optimizer-Dependent Training Dynamics Through Hessian Eigenvector Displacement and Localization",
+   "authors": [
+    "Marcelina Marjankowska",
+    "Paolo Barucca",
+    "Valerio Modugno"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SabYcw5Nh6",
+   "pdf_url": "https://openreview.net/pdf?id=SabYcw5Nh6"
+  },
+  {
+   "title": "Common Origins, Divergent Destinations: The Development of Cross-Layer Alignment Under GELU and SwiGLU",
+   "authors": [
+    "Delbert Bray Jr."
+   ],
+   "forum_url": "https://openreview.net/forum?id=8MDrWfFj6H",
+   "pdf_url": "https://openreview.net/pdf?id=8MDrWfFj6H"
+  },
+  {
+   "title": "Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods",
+   "authors": [
+    "Depen Morwani",
+    "Alexandru Meterez",
+    "Pranav Ajit Nair",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PVE7mFWi8m",
+   "pdf_url": "https://openreview.net/pdf?id=PVE7mFWi8m"
+  },
+  {
+   "title": "Compute-Optimal Scaling Laws for the Generalization Phase Transition in Grokking",
+   "authors": [
+    "Anish Kataria"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TGqGmGZ2Hz",
+   "pdf_url": "https://openreview.net/pdf?id=TGqGmGZ2Hz"
+  },
+  {
+   "title": "Compute-Optimal Training as Stochastic Optimal Control",
+   "authors": [
+    "Rohan Keyur Dalal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=td0DHVAe7c",
+   "pdf_url": "https://openreview.net/pdf?id=td0DHVAe7c"
+  },
+  {
+   "title": "Continuous Sparsification via Minimizing Movement",
+   "authors": [
+    "Hoang Pham",
+    "Tom Jacobs",
+    "Binh Nguyen",
+    "Rebekka Burkholz",
+    "Long Tran-Thanh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nsSLDnJ2uU",
+   "pdf_url": "https://openreview.net/pdf?id=nsSLDnJ2uU"
+  },
+  {
+   "title": "Critical Batch Size for LLM Policy Optimization",
+   "authors": [
+    "Rachit Bansal",
+    "Clara Mohri",
+    "Natalie Abreu",
+    "David Alvarez-Melis",
+    "Sham M. Kakade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uK4kMpNx0W",
+   "pdf_url": "https://openreview.net/pdf?id=uK4kMpNx0W"
+  },
+  {
+   "title": "Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws",
+   "authors": [
+    "Zhiwei Xu",
+    "Shihao Wu",
+    "Hanseul Cho",
+    "Wei Hu",
+    "Yixin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W5k9IVRdp4",
+   "pdf_url": "https://openreview.net/pdf?id=W5k9IVRdp4"
+  },
+  {
+   "title": "Deep Learning as Neural Low-Degree Filtering: A Theory of Hierarchical Feature Learning",
+   "authors": [
+    "Yatin Dandi",
+    "Matteo Vilucchio",
+    "Luca Arnaboldi",
+    "Hugo Tabanelli",
+    "Florent Krzakala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oSQRnt208L",
+   "pdf_url": "https://openreview.net/pdf?id=oSQRnt208L"
+  },
+  {
+   "title": "DeltaMomentum: A Key-Value based Anisotropic Momentum Update via Delta Rule",
+   "authors": [
+    "Euijin Hong",
+    "Guannan Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EeagsbjdRY",
+   "pdf_url": "https://openreview.net/pdf?id=EeagsbjdRY"
+  },
+  {
+   "title": "Depth scaling and Muon enable balanced expert usage in MoE training",
+   "authors": [
+    "Xi Wang",
+    "Soufiane Hayou",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2PAe0L8PME",
+   "pdf_url": "https://openreview.net/pdf?id=2PAe0L8PME"
+  },
+  {
+   "title": "Deriving Hyperparameter Scaling Laws via Modern Optimization Theory",
+   "authors": [
+    "Egor Shulgin",
+    "Jörg K.H. Franke",
+    "Dimitri von Rütte",
+    "Tianyue H. Zhang",
+    "Niccolò Ajroldi",
+    "Korbinian Pöppel",
+    "Bernhard Schölkopf",
+    "Aaron Klein",
+    "Peter Richtárik",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gN4illcXOd",
+   "pdf_url": "https://openreview.net/pdf?id=gN4illcXOd"
+  },
+  {
+   "title": "Detecting overfitting in Neural Networks during long-horizon grokking using Random Matrix Theory",
+   "authors": [
+    "Hari Kishan Prakash",
+    "charles h martin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6MUTLoAC1d",
+   "pdf_url": "https://openreview.net/pdf?id=6MUTLoAC1d"
+  },
+  {
+   "title": "Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics",
+   "authors": [
+    "Connall Garrod",
+    "Jonathan P. Keating",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R43FuYqWTC",
+   "pdf_url": "https://openreview.net/pdf?id=R43FuYqWTC"
+  },
+  {
+   "title": "Dichotomy of Feature Learning and Unlearning: Fast-Slow Analysis on Neural Networks with Stochastic Gradient Descent",
+   "authors": [
+    "Shota Imai",
+    "Sota Nishiyama",
+    "Masaaki Imaizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z4D1sEPJEi",
+   "pdf_url": "https://openreview.net/pdf?id=Z4D1sEPJEi"
+  },
+  {
+   "title": "Dimension-Free Scaling Laws for Invariant Score Matching",
+   "authors": [
+    "Behrooz Tahmasebi",
+    "Melanie Weber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xnhs25POP9",
+   "pdf_url": "https://openreview.net/pdf?id=xnhs25POP9"
+  },
+  {
+   "title": "DOSA: Dynamic Online State Allocation for Adaptive Optimizers via Per-Tensor Sketched Smoothness Tests",
+   "authors": [
+    "Rohin Maganti",
+    "Rahul Maganti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kl6sanVqAt",
+   "pdf_url": "https://openreview.net/pdf?id=kl6sanVqAt"
+  },
+  {
+   "title": "Dynamics of Nonlinear Feature Learning in Two-Layer GCNs on XOR-CSBM",
+   "authors": [
+    "Zen Inagaki",
+    "Guillaume Braun",
+    "Masaaki Imaizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dnb2ku6ga2",
+   "pdf_url": "https://openreview.net/pdf?id=Dnb2ku6ga2"
+  },
+  {
+   "title": "DynMuon: A Dynamic Spectral Shaping View of Muon",
+   "authors": [
+    "Fangzhou Wu",
+    "Rikhav Shah",
+    "Sandeep Silwal",
+    "Qiuyi Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bYiOucINlv",
+   "pdf_url": "https://openreview.net/pdf?id=bYiOucINlv"
+  },
+  {
+   "title": "Early Alignment without Neural Collapse in Two-Layer ReLU Networks on Gaussian XOR",
+   "authors": [
+    "Shi Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UlwKSe2PR0",
+   "pdf_url": "https://openreview.net/pdf?id=UlwKSe2PR0"
+  },
+  {
+   "title": "Edge of Stability Selectively Shapes Learning Across the Data Distribution",
+   "authors": [
+    "Shauna Kwag",
+    "Anakha Ganesh",
+    "Tomaso Poggio",
+    "Pierfrancesco Beneventano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zOCV1AsNlO",
+   "pdf_url": "https://openreview.net/pdf?id=zOCV1AsNlO"
+  },
+  {
+   "title": "Effective Dimension Ratios under Symmetry Augmentation",
+   "authors": [
+    "HikaruMatsuoka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ceP3LrlVlz",
+   "pdf_url": "https://openreview.net/pdf?id=ceP3LrlVlz"
+  },
+  {
+   "title": "Effects of width-dependent model hyperparameters and $\\ell_2$-regularization on the loss landscape of two-layer ReLU networks",
+   "authors": [
+    "Haruka Eshima",
+    "Makoto Yamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tTxfpbSEs6",
+   "pdf_url": "https://openreview.net/pdf?id=tTxfpbSEs6"
+  },
+  {
+   "title": "Efficient Clustering with Provable Guardrails for LLM Inference at Scale",
+   "authors": [
+    "Longshaokan Wang",
+    "Waitsang Keung",
+    "Punit Ghodasara",
+    "Roman Zhuang Wang",
+    "Ali Dashti",
+    "Francesc Moreno-Noguer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eqA2quXbQ",
+   "pdf_url": "https://openreview.net/pdf?id=4eqA2quXbQ"
+  },
+  {
+   "title": "Empirical Model-Size Scaling for Neural PDE Solvers on the LQR-HJB Benchmark",
+   "authors": [
+    "Rohan Keyur Dalal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yJNdh2tYBn",
+   "pdf_url": "https://openreview.net/pdf?id=yJNdh2tYBn"
+  },
+  {
+   "title": "Explaining Data Mixing Scaling Laws",
+   "authors": [
+    "Rui Dai",
+    "SHURAN ZHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=17XnFigeLN",
+   "pdf_url": "https://openreview.net/pdf?id=17XnFigeLN"
+  },
+  {
+   "title": "Fast Learning Rate Transfer for Gradient Descent in Sketched Linear Regression",
+   "authors": [
+    "Garrett Wen",
+    "Alberto Bietti",
+    "Nikhil Ghosh",
+    "Theodor Misiakiewicz",
+    "Denny Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WMHm9bkItE",
+   "pdf_url": "https://openreview.net/pdf?id=WMHm9bkItE"
+  },
+  {
+   "title": "Feature Learning in High-Dimensions under Structured Covariance: Scaling Laws in Quadratic Networks",
+   "authors": [
+    "Qingyuan Yu",
+    "Nuri Mert Vural",
+    "Xin T. Tong",
+    "Murat A Erdogdu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Up11AQvPhV",
+   "pdf_url": "https://openreview.net/pdf?id=Up11AQvPhV"
+  },
+  {
+   "title": "Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models",
+   "authors": [
+    "Sajad Movahedi",
+    "Shlomo Libo Feigin",
+    "Vera Milovanović",
+    "Alexander Theus",
+    "Thomas Hofmann",
+    "Valentina Boeva",
+    "T. Konstantin Rusch",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4wOixCRrge",
+   "pdf_url": "https://openreview.net/pdf?id=4wOixCRrge"
+  },
+  {
+   "title": "Generalization Analysis of Linear Knowledge Distillation",
+   "authors": [
+    "Taesun Yeom",
+    "Taehyeok Ha",
+    "Jaeho Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3vFIVSZjQ4",
+   "pdf_url": "https://openreview.net/pdf?id=3vFIVSZjQ4"
+  },
+  {
+   "title": "Geometry, Not Scale Alone, Predicts Sparse Recovery of Causal Subspaces",
+   "authors": [
+    "Socrates Osorio",
+    "Joy Zheyun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sSEKY0zZur",
+   "pdf_url": "https://openreview.net/pdf?id=sSEKY0zZur"
+  },
+  {
+   "title": "Global Linear Convergence of Inexact TD Under Generalized Smoothness",
+   "authors": [
+    "Alokendu Mazumder",
+    "Ila Ananta",
+    "Punit Rathore"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w5SDI6Dqyt",
+   "pdf_url": "https://openreview.net/pdf?id=w5SDI6Dqyt"
+  },
+  {
+   "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+   "authors": [
+    "Binghua Li",
+    "Mengzhe Li",
+    "Denny Wu",
+    "Tianhao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4FX5HdRtjL",
+   "pdf_url": "https://openreview.net/pdf?id=4FX5HdRtjL"
+  },
+  {
+   "title": "Gradient Descent with Projection Finds Over-Parameterized Neural Networks for Learning Low-Degree Polynomials with Nearly Minimax Optimal Rate",
+   "authors": [
+    "Yingzhen Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f45AcuAb2J",
+   "pdf_url": "https://openreview.net/pdf?id=f45AcuAb2J"
+  },
+  {
+   "title": "Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes",
+   "authors": [
+    "Liu Hanqing",
+    "Jianjun Cao",
+    "Yuanze Li",
+    "Zijian Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9a8RE9pnB3",
+   "pdf_url": "https://openreview.net/pdf?id=9a8RE9pnB3"
+  },
+  {
+   "title": "High-Dimensional Limit of Stochastic Gradient Flow via Dynamical Mean-Field Theory",
+   "authors": [
+    "Sota Nishiyama",
+    "Masaaki Imaizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6s80Mq67kv",
+   "pdf_url": "https://openreview.net/pdf?id=6s80Mq67kv"
+  },
+  {
+   "title": "HORST: Composing Optimizer Geometries for Sparse Transformer Training",
+   "authors": [
+    "Tom Jacobs",
+    "Rohan Jain",
+    "Rebekka Burkholz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSQw4Puobo",
+   "pdf_url": "https://openreview.net/pdf?id=fSQw4Puobo"
+  },
+  {
+   "title": "Hourglass MLP: Rethinking the Shape of Residual Architectures",
+   "authors": [
+    "Meng-Hsi Chen",
+    "Yu-Ang Lee",
+    "Feng-Ting Liao",
+    "Da-shan Shiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Dw6yvN8B2",
+   "pdf_url": "https://openreview.net/pdf?id=3Dw6yvN8B2"
+  },
+  {
+   "title": "How Cross-Entropy Learns Data Modes: Emergence and Implicit Bias in the Unconstrained Features Model",
+   "authors": [
+    "Arman Lotfalikhani",
+    "Mohammad Moshtaghifar",
+    "Connall Garrod",
+    "Jonathan P. Keating",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q1MmXgBhsI",
+   "pdf_url": "https://openreview.net/pdf?id=q1MmXgBhsI"
+  },
+  {
+   "title": "How does feature learning change the function space evolution?",
+   "authors": [
+    "João Lobo",
+    "Bruno Loureiro",
+    "Long Tran-Thanh",
+    "Fanghui Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j9zHhtUwJJ",
+   "pdf_url": "https://openreview.net/pdf?id=j9zHhtUwJJ"
+  },
+  {
+   "title": "How Does Orthogonalization Adapt to the Neural-Network Hessian Structure? A Gradient Self Outer-Product Analysis at Initialization",
+   "authors": [
+    "Shenyang Deng",
+    "Shuhua Yu",
+    "Yaoqing Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U812abpXRD",
+   "pdf_url": "https://openreview.net/pdf?id=U812abpXRD"
+  },
+  {
+   "title": "How Does the ReLU Activation Affect the Implicit Bias of Gradient Descent on High-dimensional Neural Network Regression?",
+   "authors": [
+    "Kuo-Wei Lai",
+    "Guanghui Wang",
+    "Molei Tao",
+    "Vidya Muthukumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VQp4T8MdeE",
+   "pdf_url": "https://openreview.net/pdf?id=VQp4T8MdeE"
+  },
+  {
+   "title": "How Excess Latent Dimensionality Delays Memorization in Diffusion Models",
+   "authors": [
+    "Trevor Chen",
+    "Ryan Shahbaba",
+    "Avni Garg",
+    "Kevin Peng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pKhn6eK1DT",
+   "pdf_url": "https://openreview.net/pdf?id=pKhn6eK1DT"
+  },
+  {
+   "title": "How the Hessian-Spectrum of Linear Networks Depends on Data",
+   "authors": [
+    "Jasraj Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0kwxebmjLV",
+   "pdf_url": "https://openreview.net/pdf?id=0kwxebmjLV"
+  },
+  {
+   "title": "How to Scale Mixture-of-Experts: From μP to the Maximally Scale-Stable Parameterization",
+   "authors": [
+    "Leena Chennuru Vankadara",
+    "Moritz Haas",
+    "Luke Hayward",
+    "Sebastian Bordt",
+    "Alessandro Breccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hRzQyz8prd",
+   "pdf_url": "https://openreview.net/pdf?id=hRzQyz8prd"
+  },
+  {
+   "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+   "authors": [
+    "Julius Girardin",
+    "Emanuele Troiani",
+    "Yizhou Xu",
+    "Vittorio Erba",
+    "Florent Krzakala",
+    "Lenka Zdeborová"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0rcf2tMHBc",
+   "pdf_url": "https://openreview.net/pdf?id=0rcf2tMHBc"
+  },
+  {
+   "title": "In-Context Benign Overfitting: A Feature-Selection Model in In-Context Linear Regression",
+   "authors": [
+    "Puneesh Deora",
+    "Bhavya Vasudeva",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o3HNBlugeU",
+   "pdf_url": "https://openreview.net/pdf?id=o3HNBlugeU"
+  },
+  {
+   "title": "Internal Data Repetition Destroys Language Models",
+   "authors": [
+    "Jessica Chudnovsky",
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Yegor Denisov-Blanch",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FObvXzD20H",
+   "pdf_url": "https://openreview.net/pdf?id=FObvXzD20H"
+  },
+  {
+   "title": "Is your LLM a Sequence Model on the Training History? The Origins and Consequences of Anticipation",
+   "authors": [
+    "Szilvia Ujváry",
+    "Bruno Kacper Mlodozeniec",
+    "José Miguel Hernández-Lobato",
+    "Ferenc Huszár",
+    "Dmitrii Krasheninnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uVsenCCp2L",
+   "pdf_url": "https://openreview.net/pdf?id=uVsenCCp2L"
+  },
+  {
+   "title": "KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers",
+   "authors": [
+    "Leon A. Trochelmann",
+    "Sajad Movahedi",
+    "Shiwei Liu",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bUwyEMBY5t",
+   "pdf_url": "https://openreview.net/pdf?id=bUwyEMBY5t"
+  },
+  {
+   "title": "Layer Collapse in Diffusion Language Models",
+   "authors": [
+    "Alexander Conzelmann",
+    "Albert Catalan-Tatjer",
+    "Shiwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XPB4k6pIty",
+   "pdf_url": "https://openreview.net/pdf?id=XPB4k6pIty"
+  },
+  {
+   "title": "Learnability and Competition in High-Dimensional Multi-Component ICA",
+   "authors": [
+    "Eser İlke Genc",
+    "Samet Demir",
+    "Zafer Dogan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=76Dm9aXvss",
+   "pdf_url": "https://openreview.net/pdf?id=76Dm9aXvss"
+  },
+  {
+   "title": "Learning Dynamics of LISP: A Gradient-Free Constraint-Satisfaction Family Containing Backpropagation",
+   "authors": [
+    "Vardan Grigoryants",
+    "Alexander Hakobyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eXWRln41Di",
+   "pdf_url": "https://openreview.net/pdf?id=eXWRln41Di"
+  },
+  {
+   "title": "Learning High-Dimensional Transient Neural Dynamics for Zero-Shot Cross-Subject Reconstruction",
+   "authors": [
+    "Anima Kujur",
+    "Zahra Monfared"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oci05EYpqW",
+   "pdf_url": "https://openreview.net/pdf?id=Oci05EYpqW"
+  },
+  {
+   "title": "Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning",
+   "authors": [
+    "Yu-Ang Lee",
+    "Ching-Yun Ko",
+    "Pin-Yu Chen",
+    "Mi-Yen Yeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fQ79zHBsjm",
+   "pdf_url": "https://openreview.net/pdf?id=fQ79zHBsjm"
+  },
+  {
+   "title": "Learning Rates Do Not Transfer Across Double Descent",
+   "authors": [
+    "Dayal Singh Kalra",
+    "Maissam Barkeshli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tLix7nN1XW",
+   "pdf_url": "https://openreview.net/pdf?id=tLix7nN1XW"
+  },
+  {
+   "title": "Learning with Synthetic Data via SGD in High-Dimensional Linear Regression",
+   "authors": [
+    "Jichu Li",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ayBfYBks0U",
+   "pdf_url": "https://openreview.net/pdf?id=ayBfYBks0U"
+  },
+  {
+   "title": "Learning-Forgetting Optimality in Supervised Finetuning: A Cliff Perspective",
+   "authors": [
+    "Albert Catalan-Tatjer",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aWl2TIUjxP",
+   "pdf_url": "https://openreview.net/pdf?id=aWl2TIUjxP"
+  },
+  {
+   "title": "Lightweight Surrogate-Assisted Language Model Pretraining",
+   "authors": [
+    "Nathan Truong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R8oeYOdC0Y",
+   "pdf_url": "https://openreview.net/pdf?id=R8oeYOdC0Y"
+  },
+  {
+   "title": "Linear Loss Classification: Efficient Training Through Neural Collapse",
+   "authors": [
+    "Wonyeong Song",
+    "Donghwan Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7po4ggs9Ev",
+   "pdf_url": "https://openreview.net/pdf?id=7po4ggs9Ev"
+  },
+  {
+   "title": "LoRA-Lens: Training Induces Spectral Compression in Low-Rank Adapters",
+   "authors": [
+    "Zhiyuan Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NESPeRhMXv",
+   "pdf_url": "https://openreview.net/pdf?id=NESPeRhMXv"
+  },
+  {
+   "title": "Loss and Optimizer as Two Essential Mechanisms Behind Knowledge Distillation",
+   "authors": [
+    "Satoki Ishikawa",
+    "Sameer Satish Deshmukh",
+    "Sakina Fatima",
+    "Takumi Honda",
+    "Rio Yokota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8kMfLNq4GM",
+   "pdf_url": "https://openreview.net/pdf?id=8kMfLNq4GM"
+  },
+  {
+   "title": "M-seq Initialization: Using Pseudo-Random Binary Sequences to Initialize Deep Neural Networks.",
+   "authors": [
+    "Zanya Gonzalez Tellez",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MIJ3t9AwuG",
+   "pdf_url": "https://openreview.net/pdf?id=MIJ3t9AwuG"
+  },
+  {
+   "title": "Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models",
+   "authors": [
+    "Samy Jelassi",
+    "Mujin Kwun",
+    "Rosie Zhao",
+    "Yuanzhi Li",
+    "Nicolo Fusi",
+    "Yilun Du",
+    "Sham M. Kakade",
+    "Carles Domingo-Enrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EhzicBLV3H",
+   "pdf_url": "https://openreview.net/pdf?id=EhzicBLV3H"
+  },
+  {
+   "title": "MIDUS: Memory-Infused Depth Up-Scaling",
+   "authors": [
+    "Taero Kim",
+    "Hoyoon Byun",
+    "Youngjun Choi",
+    "Sungrae Park",
+    "Kyungwoo Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H39R1iBoRL",
+   "pdf_url": "https://openreview.net/pdf?id=H39R1iBoRL"
+  },
+  {
+   "title": "Mini-batch Noise Lowers Sharpness via Dominant-Subspace Fluctuations",
+   "authors": [
+    "Jun-Ho So",
+    "Dongwook Shin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ptu8lUCQAF",
+   "pdf_url": "https://openreview.net/pdf?id=Ptu8lUCQAF"
+  },
+  {
+   "title": "Mode Collapse Emerges from Low-Rank Biases in the Learning Dynamics of Generative Models",
+   "authors": [
+    "Julian Brandon",
+    "Bruno Loureiro",
+    "N Alex Cayco Gajic",
+    "Arthur Pellegrino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sp206XLwHr",
+   "pdf_url": "https://openreview.net/pdf?id=sp206XLwHr"
+  },
+  {
+   "title": "Model Behavior and Predictive Stability Under Severe Class Imbalance in High-Dimensional Classification",
+   "authors": [
+    "Linxi Li",
+    "Li Xing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=60SPTdout9",
+   "pdf_url": "https://openreview.net/pdf?id=60SPTdout9"
+  },
+  {
+   "title": "Model Capacity Determines Grokking through Competing Memorisation and Generalisation Speeds",
+   "authors": [
+    "YIDING SONG",
+    "Hanming Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2EEt1RGFF1",
+   "pdf_url": "https://openreview.net/pdf?id=2EEt1RGFF1"
+  },
+  {
+   "title": "Momentum Acceleration of  Normalized Steepest Descent at the Edge of Stability",
+   "authors": [
+    "Beining Wu",
+    "Tianhao Wang",
+    "Zhiyuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SLrFbLmJXe",
+   "pdf_url": "https://openreview.net/pdf?id=SLrFbLmJXe"
+  },
+  {
+   "title": "NarrativeWorldBench: A Frontier-Saturated Benchmark and a Latent World Model for Long-Horizon Co-Creative Audio Drama",
+   "authors": [
+    "Logan Mann",
+    "Abdur Rahman",
+    "Mohammad Saifullah",
+    "Taaha Kazi",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sKJzEGBY5b",
+   "pdf_url": "https://openreview.net/pdf?id=sKJzEGBY5b"
+  },
+  {
+   "title": "Neural Neural Scaling Laws",
+   "authors": [
+    "Michael Y. Hu",
+    "Jane Pan",
+    "Ayush Rajesh Jhaveri",
+    "Nicholas Lourie",
+    "Kyunghyun Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GBNgErrG3f",
+   "pdf_url": "https://openreview.net/pdf?id=GBNgErrG3f"
+  },
+  {
+   "title": "Nexus: Same Pretraining Loss, Better Downstream Generalization via Common Minima",
+   "authors": [
+    "Huanran Chen",
+    "Huaqing Zhang",
+    "Xiao Li",
+    "Yinpeng Dong",
+    "Ke Shen",
+    "Jun Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I2zPkXBfIG",
+   "pdf_url": "https://openreview.net/pdf?id=I2zPkXBfIG"
+  },
+  {
+   "title": "Noise-driven escape from metastable phases explains grokking in deep neural networks",
+   "authors": [
+    "Ibrahim Talha Ersoy",
+    "Karoline Wiesner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p3bdkPqsxv",
+   "pdf_url": "https://openreview.net/pdf?id=p3bdkPqsxv"
+  },
+  {
+   "title": "Objective-Induced Conditional Mismatch in Sequence Diffusion Models",
+   "authors": [
+    "Matevz Matjasec",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZmN7aPACXf",
+   "pdf_url": "https://openreview.net/pdf?id=ZmN7aPACXf"
+  },
+  {
+   "title": "On How Muon Reshapes Skill Learning Dynamics",
+   "authors": [
+    "Alex Reyes Aranda",
+    "Vincent-Daniel Yun",
+    "Vatsal Sharan",
+    "Bhavya Vasudeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WUsrhWHhU3",
+   "pdf_url": "https://openreview.net/pdf?id=WUsrhWHhU3"
+  },
+  {
+   "title": "On Lipschitz Explosion in Deep Neural Networks with Normalization: Consequences for Optimization and Adversarial Robustness",
+   "authors": [
+    "Ashkan Soleymani",
+    "Reyhaneh Hosseinpourkhoshkbari",
+    "Hadi Daneshmand",
+    "Patrick Jaillet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uV1qikihC7",
+   "pdf_url": "https://openreview.net/pdf?id=uV1qikihC7"
+  },
+  {
+   "title": "On the Convergence of Low-Precision LoRA Training",
+   "authors": [
+    "Dechen Zhang",
+    "Xuan Tang",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GEGMc8lLoN",
+   "pdf_url": "https://openreview.net/pdf?id=GEGMc8lLoN"
+  },
+  {
+   "title": "On the Mean-field Analysis of Normalized Steepest Descent via Linear Minimization Oracles",
+   "authors": [
+    "Yongtao Wu",
+    "Fanghui Liu",
+    "Taiji Suzuki",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zs7KEqblSv",
+   "pdf_url": "https://openreview.net/pdf?id=zs7KEqblSv"
+  },
+  {
+   "title": "On the Optimizer Dependence of Neural Scaling Laws",
+   "authors": [
+    "Shourya Vir Jain",
+    "Vansh Ramani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5wEoaxUYTt",
+   "pdf_url": "https://openreview.net/pdf?id=5wEoaxUYTt"
+  },
+  {
+   "title": "On the Surprising Effectiveness of Masking Updates in LLM Training",
+   "authors": [
+    "Taejong Joo",
+    "Wenhan Xia",
+    "Cheolmin Kim",
+    "Ming Zhang",
+    "Eugene Ie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8XXX6yNXvX",
+   "pdf_url": "https://openreview.net/pdf?id=8XXX6yNXvX"
+  },
+  {
+   "title": "Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions",
+   "authors": [
+    "Samet Demir",
+    "Zafer Dogan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v3ryfFeLQu",
+   "pdf_url": "https://openreview.net/pdf?id=v3ryfFeLQu"
+  },
+  {
+   "title": "Optimal learning rate scaling depends on data in deep scalar linear networks",
+   "authors": [
+    "Yedi Zhang",
+    "Peter E. Latham",
+    "Leena Chennuru Vankadara",
+    "Andrew M Saxe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YzSDGnEw6u",
+   "pdf_url": "https://openreview.net/pdf?id=YzSDGnEw6u"
+  },
+  {
+   "title": "Optimal scaling laws in learning hierarchical multi-index models",
+   "authors": [
+    "Leonardo Defilippis",
+    "Florent Krzakala",
+    "Bruno Loureiro",
+    "Antoine Maillard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BmwpsG3YvS",
+   "pdf_url": "https://openreview.net/pdf?id=BmwpsG3YvS"
+  },
+  {
+   "title": "Optimal Scaling Needs Optimal Norm",
+   "authors": [
+    "Oleg Filatov",
+    "Jiangtao Wang",
+    "Jan Ebert",
+    "Stefan Kesselheim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uVtQBJDKDj",
+   "pdf_url": "https://openreview.net/pdf?id=uVtQBJDKDj"
+  },
+  {
+   "title": "Optimistic Online Learning for Data Mixture Optimization",
+   "authors": [
+    "Sofija Orlovic",
+    "Francesco Tonin",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSbkOVGxk2",
+   "pdf_url": "https://openreview.net/pdf?id=fSbkOVGxk2"
+  },
+  {
+   "title": "Orthogonal Gradient Constraints Shape Noisy-Label Memorization Dynamics",
+   "authors": [
+    "Richard Mai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NzzQxI6V6E",
+   "pdf_url": "https://openreview.net/pdf?id=NzzQxI6V6E"
+  },
+  {
+   "title": "Outer-Momentum Restarting in High-Dimensional Two-Phase Optimization",
+   "authors": [
+    "Kristi Topollai",
+    "Allan Ma",
+    "Tolga Dimlioglu",
+    "Sui Jiet Tay",
+    "Anna Ewa Choromanska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i7VQTHDSzg",
+   "pdf_url": "https://openreview.net/pdf?id=i7VQTHDSzg"
+  },
+  {
+   "title": "Pathwise EMA: An Intrinsic Clock for Weight Averaging",
+   "authors": [
+    "Nghi Dao",
+    "Adam Block"
+   ],
+   "forum_url": "https://openreview.net/forum?id=458LCpzUwu",
+   "pdf_url": "https://openreview.net/pdf?id=458LCpzUwu"
+  },
+  {
+   "title": "Physics-Guided Policy Optimization with Self-Distillation",
+   "authors": [
+    "Ke Wang",
+    "Yuning Wu",
+    "Haoran Liu",
+    "Chaoqun Jia",
+    "Devin Chen",
+    "Kai Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7ZFETeHo0R",
+   "pdf_url": "https://openreview.net/pdf?id=7ZFETeHo0R"
+  },
+  {
+   "title": "Positional LSH: Binary Block Matrix Approximation for Attention with Linear Biases",
+   "authors": [
+    "Daniel Wolfson",
+    "Tal Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NkpFOVFIY5",
+   "pdf_url": "https://openreview.net/pdf?id=NkpFOVFIY5"
+  },
+  {
+   "title": "Practical Muon Accelerates Projected Feature Learning in Scaling-Law Models",
+   "authors": [
+    "Chryseis Xinyi Liu",
+    "Manuel Paez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ufLJLAUCO6",
+   "pdf_url": "https://openreview.net/pdf?id=ufLJLAUCO6"
+  },
+  {
+   "title": "Predicting Cross-Domain RAG Retrieval Quality using Von Neumann Graph Entropy",
+   "authors": [
+    "John Carlsson",
+    "Daniel Barcklow",
+    "Nikita Seleznev",
+    "Senthil Kumar",
+    "Ke Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WIj2ntD2cr",
+   "pdf_url": "https://openreview.net/pdf?id=WIj2ntD2cr"
+  },
+  {
+   "title": "Provable Data Scaling Law for Meta Learning via Complexity Minimization",
+   "authors": [
+    "Kazuto Fukuchi",
+    "Ryuichiro Hataya",
+    "Kota Matsui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gSKphJMAXQ",
+   "pdf_url": "https://openreview.net/pdf?id=gSKphJMAXQ"
+  },
+  {
+   "title": "Pseudospectral Bounds for Transient Amplification in Coupled Gradient Descent",
+   "authors": [
+    "Ahanaf Hasan Ariq"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UkffIxQFqC",
+   "pdf_url": "https://openreview.net/pdf?id=UkffIxQFqC"
+  },
+  {
+   "title": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
+   "authors": [
+    "Dayal Singh Kalra",
+    "Maissam Barkeshli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TjpLO0YdB6",
+   "pdf_url": "https://openreview.net/pdf?id=TjpLO0YdB6"
+  },
+  {
+   "title": "Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization",
+   "authors": [
+    "Srijan Tiwari",
+    "Aditya Chauhan",
+    "Manjot Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQ7jZVZBWw",
+   "pdf_url": "https://openreview.net/pdf?id=MQ7jZVZBWw"
+  },
+  {
+   "title": "Random Sparse Subnetworks Suffice for RLVR: The Multiple Ticket Hypothesis: Random Sparse Subnetworks Suffice for RLVR",
+   "authors": [
+    "Israel Adewuyi",
+    "Solomon Okibe",
+    "Vladimir V. Ivanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mopsq6jMG4",
+   "pdf_url": "https://openreview.net/pdf?id=mopsq6jMG4"
+  },
+  {
+   "title": "Rank Allocation in Low-Rank Optimizers",
+   "authors": [
+    "Ansh Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LgTHZEgT36",
+   "pdf_url": "https://openreview.net/pdf?id=LgTHZEgT36"
+  },
+  {
+   "title": "Rank-One Potential Geometry for Normalized Optimizers",
+   "authors": [
+    "Insung Yun",
+    "Sungyoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6SItNX4vnH",
+   "pdf_url": "https://openreview.net/pdf?id=6SItNX4vnH"
+  },
+  {
+   "title": "Refresh-Scaling the Memory of Balanced Adam",
+   "authors": [
+    "Alberto Fernández-Hernández",
+    "Cristian Pérez-Corral",
+    "Jose I. Mestre",
+    "Manuel F. Dolz",
+    "Enrique S. Quintana-Orti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ONMvTNYPri",
+   "pdf_url": "https://openreview.net/pdf?id=ONMvTNYPri"
+  },
+  {
+   "title": "Regularizing Optimizer Updates via Feasible-Set Projection",
+   "authors": [
+    "Insung Yun",
+    "Sungyoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZNNXOKeTPj",
+   "pdf_url": "https://openreview.net/pdf?id=ZNNXOKeTPj"
+  },
+  {
+   "title": "Reparametrizing Shampoo and SOAP for Subspace Basis Updates and BFloat16 Storage",
+   "authors": [
+    "Alan Milligan",
+    "Zikun Xu",
+    "Simon Lacoste-Julien",
+    "Felix Dangel",
+    "Wu Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B7p2ARsNyg",
+   "pdf_url": "https://openreview.net/pdf?id=B7p2ARsNyg"
+  },
+  {
+   "title": "Representation Stability in High-Dimensional Noisy Time Series via Koopman-Based Features",
+   "authors": [
+    "Sucheta Ghosh",
+    "Zahra Monfared"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1EqeIvD2ij",
+   "pdf_url": "https://openreview.net/pdf?id=1EqeIvD2ij"
+  },
+  {
+   "title": "Reset-and-Discard (ReD) Improves Coverage at every Budget under Inference Power-Law Scaling",
+   "authors": [
+    "Sagi Meir",
+    "Tommer D. Keidar",
+    "Noam Itzhak Levi",
+    "Shlomi Reuveni",
+    "Barak Hirshberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6sqdpt12NI",
+   "pdf_url": "https://openreview.net/pdf?id=6sqdpt12NI"
+  },
+  {
+   "title": "Rethinking Bregman Divergences in Kronecker-Factored Optimizers",
+   "authors": [
+    "Bing Liu",
+    "WenJie Zhou",
+    "Chengcheng Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q051Db1Q3Y",
+   "pdf_url": "https://openreview.net/pdf?id=Q051Db1Q3Y"
+  },
+  {
+   "title": "Reward-Aware Population Scaling of Evolutionary Strategies in LLM Fine-Tuning",
+   "authors": [
+    "Sung Cho",
+    "Gyubin Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QCApKBAFo7",
+   "pdf_url": "https://openreview.net/pdf?id=QCApKBAFo7"
+  },
+  {
+   "title": "RRD: Routing-and-Residual Distillation for Efficient MoE Recovery in Large Language Models",
+   "authors": [
+    "Hoyoon Byun",
+    "Kangjun Noh",
+    "SoMin Kim",
+    "Heedong Kim",
+    "Jaeyoon Shim",
+    "Sungjun Lim",
+    "Youngjun Choi",
+    "Kyungwoo Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=liG5bLSb7m",
+   "pdf_url": "https://openreview.net/pdf?id=liG5bLSb7m"
+  },
+  {
+   "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
+   "authors": [
+    "Matthew J. Liu",
+    "Wei Hang Zheng",
+    "Vidhan Purohit",
+    "Siqi Xie",
+    "Chieh-En Li",
+    "Jerry Li",
+    "Noah Flynn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KJy2nD8sYx",
+   "pdf_url": "https://openreview.net/pdf?id=KJy2nD8sYx"
+  },
+  {
+   "title": "Scaling Laws from Sequential Feature Recovery: A Solvable Hierarchical Model",
+   "authors": [
+    "Arie Wortsman Zurich",
+    "Hugo Tabanelli",
+    "Yatin Dandi",
+    "Florent Krzakala",
+    "Bruno Loureiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hWdYunlllN",
+   "pdf_url": "https://openreview.net/pdf?id=hWdYunlllN"
+  },
+  {
+   "title": "Scaling Theory for SlowRunning: Model size, Ensembling, and Training Horizon in the Multi-Epoch Regime",
+   "authors": [
+    "Zhen Yang",
+    "Yidi Miao",
+    "Blake Bordelon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9DA8NiVtmB",
+   "pdf_url": "https://openreview.net/pdf?id=9DA8NiVtmB"
+  },
+  {
+   "title": "Scaling with Recursion in Masked Discrete Diffusion Models",
+   "authors": [
+    "Alba Carballo-Castro",
+    "Julianna Piskorz",
+    "Paulius Rauba",
+    "Mihaela van der Schaar",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rWJ9FlG6h7",
+   "pdf_url": "https://openreview.net/pdf?id=rWJ9FlG6h7"
+  },
+  {
+   "title": "Self-Distillation for Data-Scarce Language Model Pretraining",
+   "authors": [
+    "Javid Lakha",
+    "Nihal V. Nayak",
+    "Bingbin Liu",
+    "Sham M. Kakade",
+    "David Alvarez-Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n6LfAFzq6u",
+   "pdf_url": "https://openreview.net/pdf?id=n6LfAFzq6u"
+  },
+  {
+   "title": "Self-Influence Governs Generalization: A von Mises Expansion Approach",
+   "authors": [
+    "John Sous",
+    "Anirvan M. Sengupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2qyW2zX8x9",
+   "pdf_url": "https://openreview.net/pdf?id=2qyW2zX8x9"
+  },
+  {
+   "title": "Sequential Correlations Change In-Context Learning: Effective Context Length and Architectural Mismatch",
+   "authors": [
+    "Mary Letey",
+    "Yue M. Lu",
+    "Cengiz Pehlevan",
+    "Jacob A Zavatone-Veth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AYprbQxAbI",
+   "pdf_url": "https://openreview.net/pdf?id=AYprbQxAbI"
+  },
+  {
+   "title": "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory",
+   "authors": [
+    "Juno Kim",
+    "Eshaan Nichani",
+    "Denny Wu",
+    "Alberto Bietti",
+    "Jason D. Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zEVflFkt2Z",
+   "pdf_url": "https://openreview.net/pdf?id=zEVflFkt2Z"
+  },
+  {
+   "title": "Sharp Generalization for Shallow Neural Networks with Channel Attention",
+   "authors": [
+    "Yingzhen Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=52YzhAEU24",
+   "pdf_url": "https://openreview.net/pdf?id=52YzhAEU24"
+  },
+  {
+   "title": "Signal Frequency Imbalance and Ill-Conditioning",
+   "authors": [
+    "Tianyue H. Zhang",
+    "Francis Bach",
+    "Frederik Kunstner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=90AnFSLGXd",
+   "pdf_url": "https://openreview.net/pdf?id=90AnFSLGXd"
+  },
+  {
+   "title": "Small for Small: Exploring Optimal Teacher in Knowledge Distillation with Limited Data",
+   "authors": [
+    "Minjae Park",
+    "Taesun Yeom",
+    "Jaeho Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FUahLuyWLU",
+   "pdf_url": "https://openreview.net/pdf?id=FUahLuyWLU"
+  },
+  {
+   "title": "Spectral Equalization Minimizes Total Training Energy: A Control-Theoretic Account of Muon's Advantage",
+   "authors": [
+    "Euijin Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nu8P86ml5b",
+   "pdf_url": "https://openreview.net/pdf?id=Nu8P86ml5b"
+  },
+  {
+   "title": "Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models",
+   "authors": [
+    "Thomas Tulinski",
+    "Simona Cocco",
+    "Remi Monasson",
+    "Jorge FERNANDEZ-DE-COSSIO-DIAZ"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T9wvOxxx0y",
+   "pdf_url": "https://openreview.net/pdf?id=T9wvOxxx0y"
+  },
+  {
+   "title": "SSM Adapters via Hankel Reduced-order Modeling: Injection Site Determines Task Suitability in Long-Context Fine-Tuning",
+   "authors": [
+    "Omanshu Thapliyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rGFtmR5Udg",
+   "pdf_url": "https://openreview.net/pdf?id=rGFtmR5Udg"
+  },
+  {
+   "title": "Stabilizing Continuous-Time Kolen–Pollack Learning with a Scale-Balance Condition",
+   "authors": [
+    "Marc Gong Bacvanski",
+    "Liu Ziyin",
+    "Tomaso Poggio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kmJuMuHe4j",
+   "pdf_url": "https://openreview.net/pdf?id=kmJuMuHe4j"
+  },
+  {
+   "title": "Stochastic Gradient Descent on the Linear Bigram Model: Bias-Variance Scaling and Critical Batch Size",
+   "authors": [
+    "Zeyu Bian",
+    "Dmitriy Drusvyatskiy",
+    "Tianhao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kd059601gr",
+   "pdf_url": "https://openreview.net/pdf?id=kd059601gr"
+  },
+  {
+   "title": "Structure and Scale in Simplicial Sequence Modelling",
+   "authors": [
+    "Matthew Farrugia-Roberts"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aFlGLdTzuq",
+   "pdf_url": "https://openreview.net/pdf?id=aFlGLdTzuq"
+  },
+  {
+   "title": "Task-Dependent Inference-Compute Scaling Frontiers: Diffusion vs. Autoregressive Language Models",
+   "authors": [
+    "Khurram Khalil",
+    "Ripan Kumar Kundu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hyrEIxwlSK",
+   "pdf_url": "https://openreview.net/pdf?id=hyrEIxwlSK"
+  },
+  {
+   "title": "Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality",
+   "authors": [
+    "Arpan Mukherjee",
+    "Marcello Bullo",
+    "Debabrota Basu",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c1Mjt3dvfa",
+   "pdf_url": "https://openreview.net/pdf?id=c1Mjt3dvfa"
+  },
+  {
+   "title": "The Propagation Field: A Geometric Substrate Theory of Deep Learning",
+   "authors": [
+    "Xingrui Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vtCTed5cIH",
+   "pdf_url": "https://openreview.net/pdf?id=vtCTed5cIH"
+  },
+  {
+   "title": "Timescale Separation in Sparse Dictionary Learning: Reconstruction Converges Before Reproducibility",
+   "authors": [
+    "Bright Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ngswIhS1or",
+   "pdf_url": "https://openreview.net/pdf?id=ngswIhS1or"
+  },
+  {
+   "title": "Too Sharp, Too Sure: When Calibration Follows Curvature",
+   "authors": [
+    "Alessandro Morosini",
+    "Matea Gjika",
+    "Tomaso Poggio",
+    "Pierfrancesco Beneventano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NTEYxi11oK",
+   "pdf_url": "https://openreview.net/pdf?id=NTEYxi11oK"
+  },
+  {
+   "title": "Towards Understanding Momentum Acceleration in River-Valley Loss Landscape",
+   "authors": [
+    "Miao Lu",
+    "Zeyu Bian",
+    "Kaiyue Wen",
+    "Beining Wu",
+    "Siyu Chen",
+    "Tianhao Wang",
+    "Zhiyuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yRO8rLiOUL",
+   "pdf_url": "https://openreview.net/pdf?id=yRO8rLiOUL"
+  },
+  {
+   "title": "Training Dynamics of Softmax Self-Attention: Fast Global Convergence via Preconditioning",
+   "authors": [
+    "Gautam Goel",
+    "Mahdi Soltanolkotabi",
+    "Peter Bartlett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oL1GngGtP0",
+   "pdf_url": "https://openreview.net/pdf?id=oL1GngGtP0"
+  },
+  {
+   "title": "Training Transformers for KV Cache Compressibility",
+   "authors": [
+    "Yoav Gelberg",
+    "Yam Eitan",
+    "Michael M. Bronstein",
+    "Yarin Gal",
+    "Haggai Maron"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FcCMc3s0TL",
+   "pdf_url": "https://openreview.net/pdf?id=FcCMc3s0TL"
+  },
+  {
+   "title": "Transformers Can Learn Multiclass Classification In-Context: Isotropy Governs Generalization",
+   "authors": [
+    "Daehan Yoon",
+    "Chulhee Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ytuKIBxbmy",
+   "pdf_url": "https://openreview.net/pdf?id=ytuKIBxbmy"
+  },
+  {
+   "title": "Understanding Clipping in Zeroth-order Optimization",
+   "authors": [
+    "Saket Gollapudi",
+    "Elisa Bertino",
+    "Sewoong Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=COcA59DYDt",
+   "pdf_url": "https://openreview.net/pdf?id=COcA59DYDt"
+  },
+  {
+   "title": "Understanding Feature Learning Dynamics in Isotropic Regularizers via BHEP Statistics",
+   "authors": [
+    "Jeongyou Lee",
+    "Sungyoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=28Lu8kziKP",
+   "pdf_url": "https://openreview.net/pdf?id=28Lu8kziKP"
+  },
+  {
+   "title": "Understanding Polyak's Momentum in Deep Learning May Require Rethinking Non-Convex Optimization",
+   "authors": [
+    "Donghwa Kim",
+    "Chulhee Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=by4RD1Gkrn",
+   "pdf_url": "https://openreview.net/pdf?id=by4RD1Gkrn"
+  },
+  {
+   "title": "Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA",
+   "authors": [
+    "Changmin Kang",
+    "Jihun Yun",
+    "Baekrok Shin",
+    "Yeseul Cho",
+    "Chulhee Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hxjHk41jAU",
+   "pdf_url": "https://openreview.net/pdf?id=hxjHk41jAU"
+  },
+  {
+   "title": "Weight Anisotropy in Mean-Field Theory: Learning on Isotropic Data",
+   "authors": [
+    "Niclas Alexander Göring",
+    "Chris Mingard",
+    "Yoonsoo Nam",
+    "Jake Reid",
+    "Ard A. Louis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=92LkAOWklq",
+   "pdf_url": "https://openreview.net/pdf?id=92LkAOWklq"
+  },
+  {
+   "title": "What it means by learning in a neural network: easing the knot",
+   "authors": [
+    "Atiya Ibnat Tasnim",
+    "Rushmila Shehreen Khan",
+    "Md. Shahriar Karim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BsBpUaJbYC",
+   "pdf_url": "https://openreview.net/pdf?id=BsBpUaJbYC"
+  },
+  {
+   "title": "When and Why Grouping Attention Heads Accelerates Muon Optimization",
+   "authors": [
+    "Hongtao Zhang",
+    "WenJie Zhou",
+    "Wei Chen",
+    "Xueqi Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=COqUCe5YGb",
+   "pdf_url": "https://openreview.net/pdf?id=COqUCe5YGb"
+  },
+  {
+   "title": "Why Adversarial Diffusion Trains More Stably Than GANs: A Local Jacobian View",
+   "authors": [
+    "Florian Ochs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xQOj4jKOP4",
+   "pdf_url": "https://openreview.net/pdf?id=xQOj4jKOP4"
+  },
+  {
+   "title": "Why Are DMD Students Lazy? Understanding the Copying Behavior in Few-Step Distillation",
+   "authors": [
+    "Shucheng Li",
+    "Iolo Jones",
+    "Alexander Tong",
+    "Michael M. Bronstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nlXmmmS7Fc",
+   "pdf_url": "https://openreview.net/pdf?id=nlXmmmS7Fc"
+  },
+  {
+   "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
+   "authors": [
+    "Jing Huang",
+    "Daniel Wurgaft",
+    "Rachit Bansal",
+    "Laura Ruis",
+    "Naomi Saphra",
+    "David Alvarez-Melis",
+    "Andrew Kyle Lampinen",
+    "Christopher Potts",
+    "Ekdeep Singh Lubana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h7T6E5VtS8",
+   "pdf_url": "https://openreview.net/pdf?id=h7T6E5VtS8"
+  },
+  {
+   "title": "Why Routers Freeze: Infinite Width Learning Dynamics for Mixture of Experts",
+   "authors": [
+    "Anish Dhir",
+    "Volkan Cevher",
+    "Leena Chennuru Vankadara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AhwB471ARJ",
+   "pdf_url": "https://openreview.net/pdf?id=AhwB471ARJ"
+  },
+  {
+   "title": "Worker Disagreement Reveals Sharp Directions in Local SGD",
+   "authors": [
+    "Tolga Dimlioglu",
+    "Kristi Topollai",
+    "Anna Ewa Choromanska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zbwISmwJVB",
+   "pdf_url": "https://openreview.net/pdf?id=zbwISmwJVB"
+  }
+ ]
+}

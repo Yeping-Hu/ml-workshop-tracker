@@ -1,0 +1,316 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/AutoRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:55.038Z",
+ "paper_count": 26,
+ "papers": [
+  {
+   "title": "Adaptive $Q$-Network: On-the-fly Target Selection for Deep Reinforcement Learning",
+   "authors": [
+    "Théo Vincent",
+    "Fabian Wahren",
+    "Jan Peters",
+    "Boris Belousov",
+    "Carlo D'Eramo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EJAEtpdtaW",
+   "pdf_url": "https://openreview.net/pdf?id=EJAEtpdtaW"
+  },
+  {
+   "title": "Assessing the Zero-Shot Capabilities of LLMs for Action Evaluation in RL",
+   "authors": [
+    "Eduardo Pignatelli",
+    "Johan Ferret",
+    "Davide Paglieri",
+    "Samuel Coward",
+    "Tim Rocktäschel",
+    "Edward Grefenstette",
+    "Laura Toni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MFw8K5705I",
+   "pdf_url": "https://openreview.net/pdf?id=MFw8K5705I"
+  },
+  {
+   "title": "BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL",
+   "authors": [
+    "Yu Heng Hung",
+    "Kai-Jie Lin",
+    "Yu-Heng Lin",
+    "Chien-Yi Wang",
+    "Ping-Chun Hsieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ShXsJ1EGWK",
+   "pdf_url": "https://openreview.net/pdf?id=ShXsJ1EGWK"
+  },
+  {
+   "title": "Can Learned Optimization Make Reinforcement Learning Less Difficult?",
+   "authors": [
+    "Alexander D. Goldie",
+    "Chris Lu",
+    "Matthew Thomas Jackson",
+    "Shimon Whiteson",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=623QP3J4SK",
+   "pdf_url": "https://openreview.net/pdf?id=623QP3J4SK"
+  },
+  {
+   "title": "Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels",
+   "authors": [
+    "Zhuorui Ye",
+    "Stephanie Milani",
+    "Fei Fang",
+    "Geoff Gordon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NboGncLRV1",
+   "pdf_url": "https://openreview.net/pdf?id=NboGncLRV1"
+  },
+  {
+   "title": "Conditional Meta-Reinforcement Learning with State Representation",
+   "authors": [
+    "Yuxuan Sun",
+    "Laura Toni",
+    "Yiannis Andreopoulos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pBqfh5CsJX",
+   "pdf_url": "https://openreview.net/pdf?id=pBqfh5CsJX"
+  },
+  {
+   "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+   "authors": [
+    "Yifei Zhou",
+    "Hao Bai",
+    "Mert Cemri",
+    "Jiayi Pan",
+    "Alane Suhr",
+    "Sergey Levine",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fqbg7yohJ9",
+   "pdf_url": "https://openreview.net/pdf?id=Fqbg7yohJ9"
+  },
+  {
+   "title": "Discovering Preference Optimization Algorithms with and for Large Language Models",
+   "authors": [
+    "Chris Lu",
+    "Samuel Holt",
+    "Claudio Fanconi",
+    "Alex James Chan",
+    "Jakob Nicolaus Foerster",
+    "Mihaela van der Schaar",
+    "Robert Tjarko Lange"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JiYAbQvCXV",
+   "pdf_url": "https://openreview.net/pdf?id=JiYAbQvCXV"
+  },
+  {
+   "title": "Distilling LLMs’ Decomposition Abilities into Compact Language Models",
+   "authors": [
+    "Denis Tarasov",
+    "Kumar Shridhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6FbuaKPVEU",
+   "pdf_url": "https://openreview.net/pdf?id=6FbuaKPVEU"
+  },
+  {
+   "title": "DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning",
+   "authors": [
+    "Anthony Liang",
+    "Guy Tennenholtz",
+    "ChihWei Hsu",
+    "Yinlam Chow",
+    "Erdem Biyik",
+    "Craig Boutilier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tm58mLUFjF",
+   "pdf_url": "https://openreview.net/pdf?id=tm58mLUFjF"
+  },
+  {
+   "title": "GPT-HyperAgent: Scalable Uncertainty Estimation and Exploration for Foundation Model Decisions",
+   "authors": [
+    "Yingru Li",
+    "Jiawei Xu",
+    "Zhi-Quan Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXzNoPyYaK",
+   "pdf_url": "https://openreview.net/pdf?id=KXzNoPyYaK"
+  },
+  {
+   "title": "Higher Order and Self-Referential Evolution for Population-based Methods",
+   "authors": [
+    "Samuel Coward",
+    "Chris Lu",
+    "Alistair Letcher",
+    "Minqi Jiang",
+    "Jack Parker-Holder",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3tk6AES1Aj",
+   "pdf_url": "https://openreview.net/pdf?id=3tk6AES1Aj"
+  },
+  {
+   "title": "Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models",
+   "authors": [
+    "Cong Lu",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OVXoJtREBw",
+   "pdf_url": "https://openreview.net/pdf?id=OVXoJtREBw"
+  },
+  {
+   "title": "Is Value Functions Estimation with Classification Plug-and-play for Offline Reinforcement Learning?",
+   "authors": [
+    "Denis Tarasov",
+    "Kirill Brilliantov",
+    "Dmitrii Kharlapenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UoVfuqUOtD",
+   "pdf_url": "https://openreview.net/pdf?id=UoVfuqUOtD"
+  },
+  {
+   "title": "Learning In-Context Decision Making with Synthetic MDPs",
+   "authors": [
+    "Akarsh Kumar",
+    "Chris Lu",
+    "Louis Kirsch",
+    "Phillip Isola"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mflmpfixWe",
+   "pdf_url": "https://openreview.net/pdf?id=mflmpfixWe"
+  },
+  {
+   "title": "Recursive Introspection: Teaching Foundation Model Agents How to Self-Improve",
+   "authors": [
+    "Yuxiao Qu",
+    "Tianjun Zhang",
+    "Naman Garg",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qDXdmdBLhR",
+   "pdf_url": "https://openreview.net/pdf?id=qDXdmdBLhR"
+  },
+  {
+   "title": "Self-Exploring Language Models: Active Preference Elicitation for Online Alignment",
+   "authors": [
+    "Shenao Zhang",
+    "Donghan Yu",
+    "Hiteshi Sharma",
+    "Ziyi Yang",
+    "Shuohang Wang",
+    "Hany Hassan Awadalla",
+    "Zhaoran Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W4vHmhn0xd",
+   "pdf_url": "https://openreview.net/pdf?id=W4vHmhn0xd"
+  },
+  {
+   "title": "Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity",
+   "authors": [
+    "Vahid Balazadeh",
+    "Keertana Chidambaram",
+    "Viet Nguyen",
+    "Rahul Krishnan",
+    "Vasilis Syrgkanis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3P7c4EcANr",
+   "pdf_url": "https://openreview.net/pdf?id=3P7c4EcANr"
+  },
+  {
+   "title": "Skill-Enhanced Reinforcement Learning Acceleration from Demonstrations",
+   "authors": [
+    "Hanping Zhang",
+    "Yuhong Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rtbme76Sts",
+   "pdf_url": "https://openreview.net/pdf?id=Rtbme76Sts"
+  },
+  {
+   "title": "Snapshot Reinforcement Learning: Leveraging Prior Trajectories for Efficiency",
+   "authors": [
+    "Yanxiao Zhao",
+    "Yangge Qian",
+    "Tianyi Wang",
+    "Jingyang Shan",
+    "Xiaolin Qin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LVXGUDgq03",
+   "pdf_url": "https://openreview.net/pdf?id=LVXGUDgq03"
+  },
+  {
+   "title": "Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search",
+   "authors": [
+    "Jonathan Light",
+    "Min Cai",
+    "Weiqin Chen",
+    "Guanzhi Wang",
+    "Xiusi Chen",
+    "Wei Cheng",
+    "Yisong Yue",
+    "Ziniu Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UHWBmZuJPF",
+   "pdf_url": "https://openreview.net/pdf?id=UHWBmZuJPF"
+  },
+  {
+   "title": "STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making",
+   "authors": [
+    "Chuanhao Li",
+    "Runhan Yang",
+    "Tiankai Li",
+    "Milad Bafarassat",
+    "Kourosh Sharifi",
+    "Dirk Bergemann",
+    "Zhuoran Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4PHVLjRIYQ",
+   "pdf_url": "https://openreview.net/pdf?id=4PHVLjRIYQ"
+  },
+  {
+   "title": "Trace is the New AutoDiff — Unlocking Efficient Optimization of Computational Workflows",
+   "authors": [
+    "Ching-An Cheng",
+    "Allen Nie",
+    "Adith Swaminathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lg4AnAFsMd",
+   "pdf_url": "https://openreview.net/pdf?id=Lg4AnAFsMd"
+  },
+  {
+   "title": "Unfamiliar Finetuning Examples Control How Language Models Hallucinate",
+   "authors": [
+    "Katie Kang",
+    "Eric Wallace",
+    "Claire Tomlin",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5H5IQuTlMz",
+   "pdf_url": "https://openreview.net/pdf?id=5H5IQuTlMz"
+  },
+  {
+   "title": "Vision-Language Models Provide Promptable Representations for Reinforcement Learning",
+   "authors": [
+    "William Chen",
+    "Oier Mees",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HfPot2bMaN",
+   "pdf_url": "https://openreview.net/pdf?id=HfPot2bMaN"
+  },
+  {
+   "title": "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX",
+   "authors": [
+    "Alexander Nikulin",
+    "Vladislav Kurenkov",
+    "Ilya Zisman",
+    "Artem Sergeevich Agarkov",
+    "Viacheslav Sinii",
+    "Sergey Kolesnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BLbPSAVK1y",
+   "pdf_url": "https://openreview.net/pdf?id=BLbPSAVK1y"
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/MFM-EAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:11.594Z",
+ "paper_count": 23,
+ "papers": [
+  {
+   "title": "An Embodied Generalist Agent in 3D World",
+   "authors": [
+    "Jiangyong Huang",
+    "Silong Yong",
+    "Xiaojian Ma",
+    "Xiongkun Linghu",
+    "Puhao Li",
+    "Yan Wang",
+    "Qing Li",
+    "Song-Chun Zhu",
+    "Baoxiong Jia",
+    "Siyuan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jdQZFK78h6",
+   "pdf_url": "https://openreview.net/pdf?id=jdQZFK78h6"
+  },
+  {
+   "title": "BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks",
+   "authors": [
+    "Stephanie Milani",
+    "Anssi Kanervisto",
+    "Karolis Jucys",
+    "Sander V Schulhoff",
+    "Brandon Houghton",
+    "Rohin Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TfGRxKKz1D",
+   "pdf_url": "https://openreview.net/pdf?id=TfGRxKKz1D"
+  },
+  {
+   "title": "Behavior Generation with Latent Actions",
+   "authors": [
+    "Seungjae Lee",
+    "Yibin Wang",
+    "Haritheja Etukuru",
+    "H. Jin Kim",
+    "Nur Muhammad Mahi Shafiullah",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Db3MjdYkAu",
+   "pdf_url": "https://openreview.net/pdf?id=Db3MjdYkAu"
+  },
+  {
+   "title": "DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning",
+   "authors": [
+    "Jianxiong Li",
+    "Jinliang Zheng",
+    "Yinan Zheng",
+    "Liyuan Mao",
+    "Xiao Hu",
+    "Sijie Cheng",
+    "Haoyi Niu",
+    "Jihao Liu",
+    "Yu Liu",
+    "Jingjing Liu",
+    "Ya-Qin Zhang",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B2H1qGFhQ1",
+   "pdf_url": "https://openreview.net/pdf?id=B2H1qGFhQ1"
+  },
+  {
+   "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+   "authors": [
+    "Hao Bai",
+    "Yifei Zhou",
+    "Mert Cemri",
+    "Jiayi Pan",
+    "Alane Suhr",
+    "Sergey Levine",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bbeVn87zNk",
+   "pdf_url": "https://openreview.net/pdf?id=bbeVn87zNk"
+  },
+  {
+   "title": "DPO-Finetuned Large Multi-Modal Planner with Retrieval-Augmented Generation @ EgoPlan Challenge ICML 2024",
+   "authors": [
+    "Kwanghyeon Lee",
+    "Mina Kang",
+    "Hyungho Na",
+    "HeeSun Bae",
+    "Byeonghu Na",
+    "Doyun Kwon",
+    "Seungjae Shin",
+    "Yeongmin Kim",
+    "Kim taewoo",
+    "Seungmin Yun",
+    "Il-chul Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pypsPHQCby",
+   "pdf_url": "https://openreview.net/pdf?id=pypsPHQCby"
+  },
+  {
+   "title": "EPD: Long-term Memory Extraction, Context-aware Planning and Multi-iteration Decision @ EgoPlan Challenge ICML 2024",
+   "authors": [
+    "Letian Shi",
+    "Qi Lv",
+    "Xiang Deng",
+    "Liqiang Nie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z0YuPxesji",
+   "pdf_url": "https://openreview.net/pdf?id=Z0YuPxesji"
+  },
+  {
+   "title": "GROOT-1.5: Learning to Follow Multi-Modal Instructions from Weak Supervision",
+   "authors": [
+    "Shaofei Cai",
+    "Bowei Zhang",
+    "Zihao Wang",
+    "Xiaojian Ma",
+    "Anji Liu",
+    "Yitao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zxdi4Kdfjq",
+   "pdf_url": "https://openreview.net/pdf?id=zxdi4Kdfjq"
+  },
+  {
+   "title": "Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling",
+   "authors": [
+    "Raunaq Bhirangi",
+    "Chenyu Wang",
+    "Venkatesh Pattabiraman",
+    "Carmel Majidi",
+    "Abhinav Gupta",
+    "Tess Hellebrekers",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J91zuYxiVO",
+   "pdf_url": "https://openreview.net/pdf?id=J91zuYxiVO"
+  },
+  {
+   "title": "Instruction-Guided Visual Masking",
+   "authors": [
+    "Jinliang Zheng",
+    "Jianxiong Li",
+    "Sijie Cheng",
+    "Yinan Zheng",
+    "Jiaming Li",
+    "Jihao Liu",
+    "Yu Liu",
+    "Jingjing Liu",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xSzYnzTOZG",
+   "pdf_url": "https://openreview.net/pdf?id=xSzYnzTOZG"
+  },
+  {
+   "title": "Jina CLIP: Your CLIP Model Is Also Your Text Retriever",
+   "authors": [
+    "Han Xiao",
+    "Georgios Mastrapas",
+    "Bo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lSDkG98goM",
+   "pdf_url": "https://openreview.net/pdf?id=lSDkG98goM"
+  },
+  {
+   "title": "LEGENT: Open Platform for Embodied Agents",
+   "authors": [
+    "Zhili Cheng",
+    "Jinyi Hu",
+    "Zhitong Wang",
+    "Yuge Tu",
+    "Shengding Hu",
+    "An Liu",
+    "Pengkai Li",
+    "Lei Shi",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KKN4OFyzvN",
+   "pdf_url": "https://openreview.net/pdf?id=KKN4OFyzvN"
+  },
+  {
+   "title": "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning",
+   "authors": [
+    "Shu Wang",
+    "Muzhi Han",
+    "Ziyuan Jiao",
+    "Zeyu Zhang",
+    "Ying Nian Wu",
+    "Song-Chun Zhu",
+    "Hangxin Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=55UkYJLTs8",
+   "pdf_url": "https://openreview.net/pdf?id=55UkYJLTs8"
+  },
+  {
+   "title": "Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments",
+   "authors": [
+    "Siddharth Nayak",
+    "Adelmo Morrison Orozco",
+    "Marina Ten Have",
+    "Jackson Zhang",
+    "Vittal Thirumalai",
+    "Darren Chen",
+    "Aditya Kapoor",
+    "Eric Robinson",
+    "Karthik Gopalakrishnan",
+    "James Harrison",
+    "Anuj Mahajan",
+    "brian ichter",
+    "Hamsa Balakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ACAXgxH49u",
+   "pdf_url": "https://openreview.net/pdf?id=ACAXgxH49u"
+  },
+  {
+   "title": "MAP-THOR: Benchmarking Long-Horizon Multi-Agent Planning Frameworks in Partially Observable Environments",
+   "authors": [
+    "Siddharth Nayak",
+    "Adelmo Morrison Orozco",
+    "Marina Ten Have",
+    "Vittal Thirumalai",
+    "Jackson Zhang",
+    "Darren Chen",
+    "Aditya Kapoor",
+    "Eric Robinson",
+    "Karthik Gopalakrishnan",
+    "brian ichter",
+    "James Harrison",
+    "Anuj Mahajan",
+    "Hamsa Balakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZygZN5egzy",
+   "pdf_url": "https://openreview.net/pdf?id=ZygZN5egzy"
+  },
+  {
+   "title": "Multimodal foundation world models for generalist embodied agents",
+   "authors": [
+    "Pietro Mazzaglia",
+    "Tim Verbelen",
+    "Bart Dhoedt",
+    "Aaron Courville",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XusvNz0Yrd",
+   "pdf_url": "https://openreview.net/pdf?id=XusvNz0Yrd"
+  },
+  {
+   "title": "OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents",
+   "authors": [
+    "Zihao Wang",
+    "Shaofei Cai",
+    "Zhancun Mu",
+    "Haowei Lin",
+    "Ceyao Zhang",
+    "Xuejie Liu",
+    "Qing Li",
+    "Anji Liu",
+    "Xiaojian Ma",
+    "Yitao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZulvjdYPU3",
+   "pdf_url": "https://openreview.net/pdf?id=ZulvjdYPU3"
+  },
+  {
+   "title": "RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective",
+   "authors": [
+    "Chenxi Wang",
+    "Hongjie Fang",
+    "Hao-Shu Fang",
+    "Cewu Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UE27pio7QH",
+   "pdf_url": "https://openreview.net/pdf?id=UE27pio7QH"
+  },
+  {
+   "title": "RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model",
+   "authors": [
+    "Hantao Zhou",
+    "Tianying Ji",
+    "Lukas Sommerhalder",
+    "Michael Görner",
+    "Norman Hendrich",
+    "Fuchun Sun",
+    "Jianwei Dr. Zhang",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nnddZa0E82",
+   "pdf_url": "https://openreview.net/pdf?id=nnddZa0E82"
+  },
+  {
+   "title": "STREAM: Embodied Reasoning through Code Generation",
+   "authors": [
+    "Daniil Cherniavskii",
+    "Phillip Lippe",
+    "Andrii Zadaianchuk",
+    "Efstratios Gavves"
+   ],
+   "forum_url": "https://openreview.net/forum?id=smcIAakF2V",
+   "pdf_url": "https://openreview.net/pdf?id=smcIAakF2V"
+  },
+  {
+   "title": "The Embodied World Model Based on LLM with Visual Information and Prediction-Oriented Prompts",
+   "authors": [
+    "Wakana Haijima",
+    "Kou Nakakubo",
+    "Masahiro Suzuki",
+    "Yutaka Matsuo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K3r34P77rQ",
+   "pdf_url": "https://openreview.net/pdf?id=K3r34P77rQ"
+  },
+  {
+   "title": "Vision-Language Models Provide Promptable Representations for Reinforcement Learning",
+   "authors": [
+    "William Chen",
+    "Oier Mees",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GCi0KEdrfW",
+   "pdf_url": "https://openreview.net/pdf?id=GCi0KEdrfW"
+  },
+  {
+   "title": "What can VLMs Do for Zero-shot Embodied Task Planning?",
+   "authors": [
+    "Xian Fu",
+    "Min Zhang",
+    "Jianye HAO",
+    "Peilong Han",
+    "Hao Zhang",
+    "Lei Shi",
+    "Hongyao Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kh8zrehvly",
+   "pdf_url": "https://openreview.net/pdf?id=kh8zrehvly"
+  }
+ ]
+}

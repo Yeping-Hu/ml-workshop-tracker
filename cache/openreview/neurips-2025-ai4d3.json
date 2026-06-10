@@ -1,0 +1,551 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/AI4D3",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:20.904Z",
+ "paper_count": 41,
+ "papers": [
+  {
+   "title": "A Scalable Latent Diffusion Model for Single-Cell Gene Expression Data",
+   "authors": [
+    "Giovanni Palla",
+    "Sudarshan Babu",
+    "Payam Dibaeinia",
+    "Donghui Li",
+    "Aly A Khan",
+    "Theofanis Karaletsos",
+    "Jakub M. Tomczak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JQE2Fc1U0u",
+   "pdf_url": null
+  },
+  {
+   "title": "Active Causal Hypothesis Testing for AI-Guided Drug Target Discovery",
+   "authors": [
+    "David Scott Lewis",
+    "Enrique Zueco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fMKSogaqtj",
+   "pdf_url": null
+  },
+  {
+   "title": "BEACON: Bayesian Contrastive Learning for Single-Cell Gene Regulatory Inference",
+   "authors": [
+    "Yunwei Zhao",
+    "Ankit Bhardwaj",
+    "Lakshmi Subramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cVXvMshEFr",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning",
+   "authors": [
+    "Patricia Adriana Suriana",
+    "Joshua A Rackers",
+    "Ewa Nowara",
+    "Pedro O. Pinheiro",
+    "Vishnu Sresht",
+    "John M Nicoludis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V3uTyaNXM2",
+   "pdf_url": null
+  },
+  {
+   "title": "Chem42∗: a Family of chemical Language Models for Target-aware Ligand Generation",
+   "authors": [
+    "Maryam Nadeem",
+    "Aahan Singh",
+    "Engin Tekin",
+    "Nancy A. ElNaker",
+    "Mohammad Amaan Sayeed",
+    "Natalia Vassilieva",
+    "Boulbaba Ben Amor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tVUtx7Bjq0",
+   "pdf_url": null
+  },
+  {
+   "title": "Constrained Molecular Generation with Discrete Diffusion for Drug Discovery",
+   "authors": [
+    "Michael Cardei",
+    "Jacob K Christopher",
+    "Bhavya Kailkhura",
+    "Thomas Hartvigsen",
+    "Ferdinando Fioretto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YVbHExvm05",
+   "pdf_url": null
+  },
+  {
+   "title": "Context-aware geometric deep learning for RNA sequence design",
+   "authors": [
+    "Parth Bibekar",
+    "Lucien F. Krapp",
+    "Matteo Dal Peraro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6vIFP1nZl5",
+   "pdf_url": null
+  },
+  {
+   "title": "Cross-Species Graph Neural Network for Translating Animal Disease Resistance to Human Drug Targets",
+   "authors": [
+    "Deek Guruge",
+    "Michelle M Li",
+    "Natalie DeForest",
+    "Phil McNamara",
+    "Manashvi Borad",
+    "Linda B. Goodman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VWV3Ka1Xw0",
+   "pdf_url": null
+  },
+  {
+   "title": "D-Flow: Multi-modality Flow Matching for D-peptide Design",
+   "authors": [
+    "Fang Wu",
+    "Shuting Jin",
+    "Xiangru Tang",
+    "Junlin Xu",
+    "James Zou",
+    "Mark Gerstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6NUM24D6Vw",
+   "pdf_url": null
+  },
+  {
+   "title": "DiffDAG: Diffusion DAG Models for modeling Gene Perturbations",
+   "authors": [
+    "Shiv Shankar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EwMGKHPOW3",
+   "pdf_url": null
+  },
+  {
+   "title": "Domain Knowledge Infused Conditional Generative Models for Accelerating Drug Discovery",
+   "authors": [
+    "Bing Xu Hu",
+    "Jong-Hoon Park",
+    "Anita Layton",
+    "Young-Rae Cho",
+    "Sun Sun",
+    "Helen Hong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F12eXHZkTw",
+   "pdf_url": null
+  },
+  {
+   "title": "Early Prediction of Overall Survival in Oncology Trials Using Tumor Dynamic Neural-ODE",
+   "authors": [
+    "Gengbo Liu",
+    "Victor Poon",
+    "Omid Bazgir",
+    "Phyllis Chan",
+    "Kenta Yoshida",
+    "Chanu Pascal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xjyhYZiMVo",
+   "pdf_url": null
+  },
+  {
+   "title": "FocusMR: An Attention-Based Single-Cell Mendelian Randomization Framework to Map Cellular Contexts at Candidate Genes",
+   "authors": [
+    "Martin Meinel",
+    "Jan P. Engelmann",
+    "Michael Patrick Menden",
+    "Theofanis Karaletsos",
+    "Francesco Paolo Casale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XsUKMwsGQM",
+   "pdf_url": null
+  },
+  {
+   "title": "FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design",
+   "authors": [
+    "Xuefeng Liu",
+    "Songhao Jiang",
+    "Qinan Huang",
+    "Tinson Xu",
+    "Ian Foster",
+    "Mengdi Wang",
+    "Hening Lin",
+    "Rick Stevens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nzjc0eGBJB",
+   "pdf_url": null
+  },
+  {
+   "title": "Gene42: Long-Range Genomic Foundation Model With Dense Attention",
+   "authors": [
+    "Kirill Vishniakov",
+    "Boulbaba Ben Amor",
+    "Engin Tekin",
+    "Nancy A. ElNaker",
+    "Karthik Viswanathan",
+    "Aleksandr Medvedev",
+    "Aahan Singh",
+    "Maryam Nadeem",
+    "Mohammad Amaan Sayeed",
+    "Praveenkumar Kanithi",
+    "Tiago Magalhaes",
+    "Natalia Vassilieva",
+    "Dwarikanath Mahapatra",
+    "Marco AF Pimentel",
+    "Shadab Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xztaGxabHV",
+   "pdf_url": null
+  },
+  {
+   "title": "GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop",
+   "authors": [
+    "Omid Bazgir",
+    "Mohammad Jafarnejad",
+    "Vineeth Manthapuri",
+    "Ilia Rattsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zjvVJC2Zkx",
+   "pdf_url": null
+  },
+  {
+   "title": "High-Throughput Protein Perturbation Screens with AI-Designed Degraders",
+   "authors": [
+    "Lin Zhao",
+    "Aastha Pal",
+    "Tong Chen",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Mo6zUUzta",
+   "pdf_url": null
+  },
+  {
+   "title": "HyperDiffusionFields (HyDiF): Diffusion-Guided Hypernetworks for Learning Implicit Molecular Neural Fields",
+   "authors": [
+    "Sudarshan Babu",
+    "Phillip Lo",
+    "Xiao Zhang",
+    "Aadi Srivastava",
+    "Ali Davariashtiyani",
+    "Jason Perera",
+    "Michael Maire",
+    "Aly A Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=enNmzlhi3P",
+   "pdf_url": null
+  },
+  {
+   "title": "ImmuneNet: Composition-Aware Quantification of Adaptive Lymphocytes in High-Grade Serous Ovarian Cancer",
+   "authors": [
+    "Jaelyn S. Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EtNH7WZRKo",
+   "pdf_url": null
+  },
+  {
+   "title": "Improving Classification of Cell Types in Acute Myeloid Leukemia with Self-guided Masking Technique",
+   "authors": [
+    "Amirreza Naziri",
+    "Arash Asgari",
+    "Eleftherios Sachlos",
+    "Aijun An",
+    "Laleh Seyyed-Kalantari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F2IPt8Vp26",
+   "pdf_url": null
+  },
+  {
+   "title": "Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy",
+   "authors": [
+    "Dimitar Georgiev",
+    "Ruoxiao Xie",
+    "Daniel Reumann",
+    "Xiaoyu Zhao",
+    "Álvaro Fernández-Galiana",
+    "Mauricio Barahona",
+    "Molly M. Stevens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rN7oHBInYW",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning from B Cell Evolution: Adaptive Multi-Expert Diffusion for Antibody Design via Online Optimization",
+   "authors": [
+    "Peng Qiu",
+    "Hanqi Feng",
+    "Yiran Tao",
+    "Meng-Chun Zhang",
+    "You Fan",
+    "Jingtao Xu",
+    "Barnabas Poczos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4nZPn7fKHF",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM-Integrated Representative Path Selection for Context-Aware Drug Repurposing on Biomedical Knowledge Graphs",
+   "authors": [
+    "Haerin Song",
+    "Dongmin Bang",
+    "Bonil Koo",
+    "Sun Kim",
+    "Sangseon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZnQGxNqQiy",
+   "pdf_url": null
+  },
+  {
+   "title": "LLMs as Virtual Instruments for Drug Formulation",
+   "authors": [
+    "Michael Craig",
+    "Gary Tom",
+    "Pauric Bannigan",
+    "Christine Allen",
+    "Riley Hickman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U9K6UJQrGN",
+   "pdf_url": null
+  },
+  {
+   "title": "MoAgent: A Hypothesis-Driven Multi-Agent Framework for Drug Mechanism of Action Discovery",
+   "authors": [
+    "Jun Hyeong Kim",
+    "Seokhyun Moon",
+    "Seonghwan Kim",
+    "Junhyeok Jeon",
+    "Taein Kim",
+    "Jisu Seo",
+    "Songmi Kim",
+    "Woo Youn Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XY9yFyi4GF",
+   "pdf_url": null
+  },
+  {
+   "title": "Mol-SGCL: Molecular Substructure-Guided Contrastive Learning for Out-of-Distribution Generalization",
+   "authors": [
+    "Andrew Zhou",
+    "Yasha Ektefaie",
+    "Maha Farhat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gqPL8jd3P0",
+   "pdf_url": null
+  },
+  {
+   "title": "Monte Carlo Tree Diffusion with Multiple Experts for Protein Design",
+   "authors": [
+    "Xuefeng Liu",
+    "Mingxuan Cao",
+    "Songhao Jiang",
+    "Xiao Luo",
+    "Xiaotian Duan",
+    "Mengdi Wang",
+    "Tobin R. Sosnick",
+    "Jinbo Xu",
+    "Rick L. Stevens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n2810gGTbT",
+   "pdf_url": null
+  },
+  {
+   "title": "OligoGym: Curated Datasets and Benchmarks for Oligonucleotide Drug Discovery",
+   "authors": [
+    "Rachapun Rotrattanadumrong",
+    "Carlo De Donno"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KBaD9Oo9ag",
+   "pdf_url": null
+  },
+  {
+   "title": "PatchDNA: A Flexible and Biologically-Informed Alternative to Tokenization for DNA",
+   "authors": [
+    "Alice Del Vecchio",
+    "Chantriolnt-Andreas Kapourani",
+    "Abdullah M Athar",
+    "Agnieszka Dobrowolska",
+    "Andrew Anighoro",
+    "Benjamin Tenmann",
+    "Lindsay Edwards",
+    "Cristian Regep"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kwa1bcyuTF",
+   "pdf_url": null
+  },
+  {
+   "title": "Patient-level prediction from single-cell data using attention-based multiple instance learning with regulatory priors",
+   "authors": [
+    "Kristin C. Y. Tsui",
+    "Kameron B. Rodrigues",
+    "Xianghao Zhan",
+    "Yiyun Chen",
+    "Kelvin C. Mo",
+    "Crystal L. Mackall",
+    "David B Miklos",
+    "Olivier Gevaert",
+    "Zinaida Good"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y3Dqqv1RYQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Perturbation-aware representation learning for in vivo genetic screens",
+   "authors": [
+    "Florian Hugi",
+    "Tanmay Tanna",
+    "Randall J Platt",
+    "Gunnar Ratsch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ycSNjLaPTb",
+   "pdf_url": null
+  },
+  {
+   "title": "Predicting cellular responses to perturbation across diverse contexts with State",
+   "authors": [
+    "Abhinav Adduri",
+    "Dhruv Gautam",
+    "Beatrice Bevilacqua",
+    "Alishba Imran",
+    "Rohan Shah",
+    "Mohsen Naghipourfar",
+    "Noam Teyssier",
+    "Rajesh Ilango",
+    "Sanjay Nagaraj",
+    "Chiara Ricci-Tam",
+    "Chris Carpenter",
+    "Vishvak Subramanyam",
+    "Aidan Winters",
+    "Mingze Dong",
+    "Sravya Tirukkovalur",
+    "Jeremy Sullivan",
+    "Brian Plosky",
+    "Basak Eraslan",
+    "Nick Youngblut",
+    "Jure Leskovec",
+    "Luke Gilbert",
+    "Silvana Konermann",
+    "Patrick D Hsu",
+    "Alexander Dobin",
+    "Dave Burke",
+    "Hani Goodarzi",
+    "Yusuf H Roohani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NmJPPohIrq",
+   "pdf_url": null
+  },
+  {
+   "title": "Probing Functional Plasticity in Peptide–Protein Interaction with Minimal Data",
+   "authors": [
+    "Pouriya Bayat",
+    "Spencer Perkins",
+    "Sebastian Clancy",
+    "Sahil Swapnesh Patel",
+    "Richard Fei Yin",
+    "Krištof Bozovičar",
+    "Idorenyin IWE",
+    "Serena Singh",
+    "Sepehr Bayat",
+    "Vivian White",
+    "Matthew Xie",
+    "Sean Palter",
+    "Mohammad Simchi",
+    "Ilan Yaniv Zeisler",
+    "Keith Pardee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DmX8LSSubU",
+   "pdf_url": null
+  },
+  {
+   "title": "Prot42 : a Novel Family of Protein Language Models for Target-aware Protein Binder Generation",
+   "authors": [
+    "Mohammad Amaan Sayeed",
+    "Engin Tekin",
+    "Maryam Nadeem",
+    "Nance A. Elnaker",
+    "Aahan Singh",
+    "Natalia Vassilieva",
+    "Boulbaba Ben Amor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8LKnEsNxca",
+   "pdf_url": null
+  },
+  {
+   "title": "rbio1 - training scientific reasoning LLMs with biological world models as soft verifiers",
+   "authors": [
+    "Ana-Maria Istrate",
+    "fausto milletari",
+    "Fabrizio Castrotorres",
+    "Jakub M. Tomczak",
+    "Michaela Torkar",
+    "Donghui Li",
+    "Theofanis Karaletsos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g8JpuuVdPn",
+   "pdf_url": null
+  },
+  {
+   "title": "Refine Drugs, Don’t Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery",
+   "authors": [
+    "Benno Kaech",
+    "Luis Wyss",
+    "Karsten Borgwardt",
+    "Gianvito Grasso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nYkOsqrZS2",
+   "pdf_url": null
+  },
+  {
+   "title": "SigSpace: an LLM-based agent for drug response signature interpretation",
+   "authors": [
+    "Rohit Khurana",
+    "Ishita Mangla",
+    "Giovanni Palla",
+    "Siddhant Sanghi",
+    "Daniele Merico"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y31MgMUVVn",
+   "pdf_url": null
+  },
+  {
+   "title": "Smiles2Dock: a large-scale dataset for ML-based docking score prediction using AlphaFold structures",
+   "authors": [
+    "Thomas Le Menestrel",
+    "Manuel Rivas Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m82phjf1gS",
+   "pdf_url": null
+  },
+  {
+   "title": "Toward a Coherent Virtual Cell Model: Probing Biological World-Model Coherence in Transcriptomic Foundation Models",
+   "authors": [
+    "Noa Moriel",
+    "Yishai Shimoni",
+    "Michal Rosen-Zvi",
+    "Michael Danziger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nLy3iIONkt",
+   "pdf_url": null
+  },
+  {
+   "title": "Virtual Cells as Causal World Models: A Perspective on Evaluation",
+   "authors": [
+    "Tiffany Callahan",
+    "Zane Beckwith",
+    "Thomas Merth",
+    "Constantijn van der Poel",
+    "Adam Lewis",
+    "Pablo Lemos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZaI2TVQ6Ap",
+   "pdf_url": null
+  },
+  {
+   "title": "Why Pool When You Can Flow? Active Learning with GFlowNets",
+   "authors": [
+    "Renfei Zhang",
+    "Mohit Pandey",
+    "Artem Cherkasov",
+    "Martin Ester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h5pfjMLxt7",
+   "pdf_url": null
+  }
+ ]
+}

@@ -1,0 +1,771 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/UniReps",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:15.204Z",
+ "paper_count": 68,
+ "papers": [
+  {
+   "title": "A Cognitive Framework for Learning Debiased and Interpretable Representations via Debiasing Global Workspace",
+   "authors": [
+    "Jinyung Hong",
+    "Eun Som Jeon",
+    "Changhoon Kim",
+    "Keun Hee Park",
+    "Utkarsh Nath",
+    "Yezhou Yang",
+    "Pavan K. Turaga",
+    "Theodore P. Pavlic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=obiwUsWlki",
+   "pdf_url": "https://openreview.net/pdf?id=obiwUsWlki"
+  },
+  {
+   "title": "A Framework for Standardizing Similarity Measures in a Rapidly Evolving Field",
+   "authors": [
+    "Nathan Cloos",
+    "Guangyu Robert Yang",
+    "Christopher J Cueva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vyRAYoxUuA",
+   "pdf_url": "https://openreview.net/pdf?id=vyRAYoxUuA"
+  },
+  {
+   "title": "Adapter to facilitate Foundation Model Communication for DLO Instance Segmentation",
+   "authors": [
+    "Omkar Joglekar",
+    "Shir Kozlovsky",
+    "Dotan Di Castro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EYBtzTQvdW",
+   "pdf_url": "https://openreview.net/pdf?id=EYBtzTQvdW"
+  },
+  {
+   "title": "An Information Criterion for Controlled Disentanglement of Multimodal Data",
+   "authors": [
+    "Chenyu Wang",
+    "Sharut Gupta",
+    "Xinyi Zhang",
+    "Sana Tonekaboni",
+    "Stefanie Jegelka",
+    "Tommi Jaakkola",
+    "Caroline Uhler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r7Xnetd0Pq",
+   "pdf_url": "https://openreview.net/pdf?id=r7Xnetd0Pq"
+  },
+  {
+   "title": "Artificial Neural Networks Generate Human-like Continuous Speech Perception",
+   "authors": [
+    "Gasser Elbanna",
+    "Josh Mcdermott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6ytXF11FJG",
+   "pdf_url": "https://openreview.net/pdf?id=6ytXF11FJG"
+  },
+  {
+   "title": "Auxiliary objective improves generalization performance but reduces model specification for low-data neuroimaging-based brain age prediction",
+   "authors": [
+    "Donghyun Kim",
+    "Eloy Geenjaar",
+    "Vince Calhoun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VdYrxV8ltu",
+   "pdf_url": "https://openreview.net/pdf?id=VdYrxV8ltu"
+  },
+  {
+   "title": "Challenges in Explaining Representational Similarity through Identifiability",
+   "authors": [
+    "Beatrix Miranda Ginn Nielsen",
+    "Luigi Gresele",
+    "Andrea Dittadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SQKUZSieVg",
+   "pdf_url": "https://openreview.net/pdf?id=SQKUZSieVg"
+  },
+  {
+   "title": "Circular Learning Provides Biological Plausibility",
+   "authors": [
+    "Mohammadamin Tavakoli",
+    "Ian Domingo",
+    "Pierre Baldi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XmNJDcannt",
+   "pdf_url": "https://openreview.net/pdf?id=XmNJDcannt"
+  },
+  {
+   "title": "Comparing Representations in Static and Dynamic Vision Models to the Human Brain",
+   "authors": [
+    "Hamed Karimi",
+    "Stefano Anzellotti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9iJhYQ2EBj",
+   "pdf_url": "https://openreview.net/pdf?id=9iJhYQ2EBj"
+  },
+  {
+   "title": "Comparing the local information geometry of image representations",
+   "authors": [
+    "David Lipshutz",
+    "Jenelle Feather",
+    "Sarah E Harvey",
+    "Alex H Williams",
+    "Eero P Simoncelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qwVRKFj8dM",
+   "pdf_url": "https://openreview.net/pdf?id=qwVRKFj8dM"
+  },
+  {
+   "title": "Conic Activation Functions",
+   "authors": [
+    "Changqing Fu",
+    "Laurent D. Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6EDbuqER4p",
+   "pdf_url": "https://openreview.net/pdf?id=6EDbuqER4p"
+  },
+  {
+   "title": "Connecting Neural Models Latent Geometries with Relative Geodesic Representations",
+   "authors": [
+    "Hanlin Yu",
+    "Berfin Inal",
+    "Marco Fumero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gYTblmieFc",
+   "pdf_url": "https://openreview.net/pdf?id=gYTblmieFc"
+  },
+  {
+   "title": "CopRA: A Progressive LoRA Training Strategy",
+   "authors": [
+    "Zhan Zhuang",
+    "Xiequn Wang",
+    "Yulong Zhang",
+    "Wei Li",
+    "Yu Zhang",
+    "Ying Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gPYbL5fDGZ",
+   "pdf_url": "https://openreview.net/pdf?id=gPYbL5fDGZ"
+  },
+  {
+   "title": "Correlating Variational Autoencoders Natively For Multi-View Imputation",
+   "authors": [
+    "Ella S C Orme",
+    "Marina Evangelou",
+    "Ulrich Paquet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T6IbERflun",
+   "pdf_url": "https://openreview.net/pdf?id=T6IbERflun"
+  },
+  {
+   "title": "Decision-margin consistency: a principled metric for human and machine performance alignment",
+   "authors": [
+    "George A. Alvarez",
+    "Talia Konkle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y2FPllMQVg",
+   "pdf_url": "https://openreview.net/pdf?id=y2FPllMQVg"
+  },
+  {
+   "title": "Delays in generalization match delayed changes in representational geometry",
+   "authors": [
+    "Xingyu Zheng",
+    "Kyle Daruwalla",
+    "Ari S Benjamin",
+    "David Klindt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ae108kHk2",
+   "pdf_url": "https://openreview.net/pdf?id=1ae108kHk2"
+  },
+  {
+   "title": "DFM: Interpolant-free Dual Flow Matching",
+   "authors": [
+    "Denis A Gudovskiy",
+    "Tomoyuki Okuno",
+    "Yohei Nakata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g55qmpRqaH",
+   "pdf_url": "https://openreview.net/pdf?id=g55qmpRqaH"
+  },
+  {
+   "title": "DIETing: Self-Supervised Learning with Instance Discrimination Learns Identifiable Features",
+   "authors": [
+    "Attila Juhos",
+    "Alice Bizeul",
+    "Patrik Reizinger",
+    "David Klindt",
+    "Randall Balestriero",
+    "Mark Ibrahim",
+    "Julia E Vogt",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B59jV8cAQq",
+   "pdf_url": "https://openreview.net/pdf?id=B59jV8cAQq"
+  },
+  {
+   "title": "Disentangling the Effects of Data Augmentation and Format Transform in Self-Supervised Learning of Image Representations",
+   "authors": [
+    "Neha Kalibhat",
+    "Warren Richard Morningstar",
+    "Alex Bijamov",
+    "Luyang Liu",
+    "Karan Singhal",
+    "Philip Andrew Mansfield"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PA0UxaGptd",
+   "pdf_url": "https://openreview.net/pdf?id=PA0UxaGptd"
+  },
+  {
+   "title": "Emergence of Text Semantics in CLIP Image Encoders",
+   "authors": [
+    "Sreeram Vennam",
+    "Shashwat Singh",
+    "Anirudh Govil",
+    "Ponnurangam Kumaraguru"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eEtFRl7ksZ",
+   "pdf_url": "https://openreview.net/pdf?id=eEtFRl7ksZ"
+  },
+  {
+   "title": "Equivalence between representational similarity analysis, centered kernel alignment, and canonical correlations analysis",
+   "authors": [
+    "Alex H Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zMdnnFasgC",
+   "pdf_url": "https://openreview.net/pdf?id=zMdnnFasgC"
+  },
+  {
+   "title": "Evidence from fMRI Supports a Two-Phase Abstraction Process in Language Models",
+   "authors": [
+    "Richard Antonello",
+    "Emily Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VZipjFlBpl",
+   "pdf_url": "https://openreview.net/pdf?id=VZipjFlBpl"
+  },
+  {
+   "title": "Fast Imagic: Solving Overfitting in Text-guided Image Editing via Disentangled UNet with Forgetting Mechanism and Unified Vision-Language Optimization",
+   "authors": [
+    "Shiwen Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PoLsUIDY0c",
+   "pdf_url": "https://openreview.net/pdf?id=PoLsUIDY0c"
+  },
+  {
+   "title": "Federated GNNs for EEG-Based Stroke Assessment",
+   "authors": [
+    "Andrea Protani",
+    "Lorenzo Giusti",
+    "Albert Sund Aillet",
+    "Simona Sacco",
+    "Paolo Manganotti",
+    "Lucio Marinelli",
+    "Diogo Reis Santos",
+    "Pierpaolo Brutti",
+    "Pietro Caliandro",
+    "Luigi Serio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=swSFdpTzqK",
+   "pdf_url": "https://openreview.net/pdf?id=swSFdpTzqK"
+  },
+  {
+   "title": "Finding Symmetry in Neural Network Parameter Spaces",
+   "authors": [
+    "Bo Zhao",
+    "Nima Dehmamy",
+    "Robin Walters",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPR9a9IotY",
+   "pdf_url": "https://openreview.net/pdf?id=qPR9a9IotY"
+  },
+  {
+   "title": "From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks",
+   "authors": [
+    "Clémentine Carla Juliette Dominé",
+    "Nicolas Anguita",
+    "Alexandra Maria Proca",
+    "Lukas Braun",
+    "Daniel Kunin",
+    "Pedro A. M. Mediano",
+    "Andrew M Saxe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yAE3LOjgA4",
+   "pdf_url": "https://openreview.net/pdf?id=yAE3LOjgA4"
+  },
+  {
+   "title": "Hybrid Dynamic High-Order Functional Correlations and Divisive Normalization for Improved Classification of Schizophrenia and Bipolar Disorder",
+   "authors": [
+    "Qiang Li",
+    "Vince Calhoun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bbBb26IWLG",
+   "pdf_url": "https://openreview.net/pdf?id=bbBb26IWLG"
+  },
+  {
+   "title": "Hypernetworks for image recontextualization",
+   "authors": [
+    "Maciej Zieba",
+    "Jakub Balicki",
+    "Tomasz Drozdz",
+    "Konrad Karanowski",
+    "Pawel Lorek",
+    "Hong Lyu",
+    "Aleksander Piotr Skorupa",
+    "Tomasz Trzcinski",
+    "Oriol Caudevilla",
+    "Jakub M. Tomczak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jV7jT05qgv",
+   "pdf_url": "https://openreview.net/pdf?id=jV7jT05qgv"
+  },
+  {
+   "title": "Improving Model Merging with Natural Niches",
+   "authors": [
+    "João Abrantes",
+    "Robert Tjarko Lange",
+    "Yujin Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EavQwYUuJp",
+   "pdf_url": "https://openreview.net/pdf?id=EavQwYUuJp"
+  },
+  {
+   "title": "Improving OOD Generalization of Pre-trained Encoders via Aligned Embedding-Space Ensembles",
+   "authors": [
+    "Shuman Peng",
+    "Arash Khoeini",
+    "Sharan Vaswani",
+    "Martin Ester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RYSVQitYZY",
+   "pdf_url": "https://openreview.net/pdf?id=RYSVQitYZY"
+  },
+  {
+   "title": "Inducing Human-like Biases in Moral Reasoning Language Models",
+   "authors": [
+    "Austin Meek",
+    "Artem Karpov",
+    "Seong Hah Cho",
+    "Raymond Koopmanschap",
+    "Lucy Farnik",
+    "Bogdan-Ionut Cirstea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OuIGwpTQic",
+   "pdf_url": "https://openreview.net/pdf?id=OuIGwpTQic"
+  },
+  {
+   "title": "Invariant Learning with Annotation-free Environments",
+   "authors": [
+    "Phuong Quynh Le",
+    "Christin Seifert",
+    "Jörg Schlötterer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZmtBfduwYW",
+   "pdf_url": "https://openreview.net/pdf?id=ZmtBfduwYW"
+  },
+  {
+   "title": "Investigating the role of modality and training objective on representational alignment between transformers and the brain",
+   "authors": [
+    "Hyewon Willow Han",
+    "Ruchira Dhar",
+    "Qingqing Yang",
+    "Maryam Hoseini Behbahani",
+    "María Alejandra Martínez Ortiz",
+    "Tolulope Samuel Oladele",
+    "Diana C Dima",
+    "Hsin-Hung Li",
+    "Anders Søgaard",
+    "Yalda Mohsenzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t4CnKu6yXn",
+   "pdf_url": "https://openreview.net/pdf?id=t4CnKu6yXn"
+  },
+  {
+   "title": "It's All Relative: Relative Uncertainty in Latent Spaces using Relative Representations",
+   "authors": [
+    "Fabian Mager",
+    "Valentino Maiorca",
+    "Lars Kai Hansen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P2kAuBVXzz",
+   "pdf_url": "https://openreview.net/pdf?id=P2kAuBVXzz"
+  },
+  {
+   "title": "Joint Learning for Visual Reconstruction from the Brain Activity: Hierarchical Representation of Image Perception with EEG-Vision Transformer",
+   "authors": [
+    "Ali Akbari",
+    "Kosar Sanjar Arani",
+    "Tony Yousefnezhad",
+    "Maryam Mirian",
+    "Emad Arasteh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SjXJOsLi1X",
+   "pdf_url": "https://openreview.net/pdf?id=SjXJOsLi1X"
+  },
+  {
+   "title": "Language decoding from human brain activity via contrastive learning",
+   "authors": [
+    "Matteo Ferrante",
+    "Nicola Toschi",
+    "Alexander Huth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rBQPJSPNsw",
+   "pdf_url": "https://openreview.net/pdf?id=rBQPJSPNsw"
+  },
+  {
+   "title": "Locality-aware Concept Bottleneck Model",
+   "authors": [
+    "Sujin Jeon",
+    "Inwoo Hwang",
+    "Sanghack Lee",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9LrbWulBfa",
+   "pdf_url": "https://openreview.net/pdf?id=9LrbWulBfa"
+  },
+  {
+   "title": "Look-Ahead Selective Plasticity for Continual Learning of Visual Tasks",
+   "authors": [
+    "Rouzbeh Meshkinnejad",
+    "Jie Mei",
+    "Zeduo Zhang",
+    "Daniel J Lizotte",
+    "Yalda Mohsenzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fS41j9Ksds",
+   "pdf_url": "https://openreview.net/pdf?id=fS41j9Ksds"
+  },
+  {
+   "title": "M3CoL: Harnessing Shared Relations via Multimodal Mixup Contrastive Learning for Multimodal Classification",
+   "authors": [
+    "Raja Kumar",
+    "Raghav Singhal",
+    "Pranamya Prashant Kulkarni",
+    "Deval Mehta",
+    "Kshitij Sharad Jadhav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vOr0OX8nFD",
+   "pdf_url": "https://openreview.net/pdf?id=vOr0OX8nFD"
+  },
+  {
+   "title": "Modern Hopfield Networks meet Encoded Neural Representations - Addressing Practical Considerations",
+   "authors": [
+    "Satyananda Kashyap",
+    "Niharika S. D'Souza",
+    "Luyao Shi",
+    "Ken C. L. Wong",
+    "Hongzhi Wang",
+    "Tanveer Syeda-mahmood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jpP2Umzsru",
+   "pdf_url": "https://openreview.net/pdf?id=jpP2Umzsru"
+  },
+  {
+   "title": "Monkey See, Model Knew: Large Language Models accurately Predict Human AND Macaque Visual Brain Activity",
+   "authors": [
+    "Colin Conwell",
+    "Emalie McMahon",
+    "Akshay Vivek Jagadeesh",
+    "Kasper Vinken",
+    "Saloni Sharma",
+    "Jacob S. Prince",
+    "George A. Alvarez",
+    "Talia Konkle",
+    "Leyla Isik",
+    "Margaret Livingstone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IvwgXU20IZ",
+   "pdf_url": "https://openreview.net/pdf?id=IvwgXU20IZ"
+  },
+  {
+   "title": "Multi-task Learning yields Disentangled World Models: Impact and Implications",
+   "authors": [
+    "Pantelis Vafidis",
+    "Aman Bhargava",
+    "Antonio Rangel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S0YFcYMis7",
+   "pdf_url": "https://openreview.net/pdf?id=S0YFcYMis7"
+  },
+  {
+   "title": "Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities",
+   "authors": [
+    "Konstantin Hemker",
+    "Nikola Simidjievski",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6sFRXSj7tW",
+   "pdf_url": "https://openreview.net/pdf?id=6sFRXSj7tW"
+  },
+  {
+   "title": "On the cognitive alignment between humans and machines",
+   "authors": [
+    "Marco Rothermel",
+    "Sayed Soroush Daftarian",
+    "Tahmineh A. Koosha",
+    "Mohammad-Ali Nikouei Mahani",
+    "Hamidreza Jamalabadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SkLYMkxE6n",
+   "pdf_url": "https://openreview.net/pdf?id=SkLYMkxE6n"
+  },
+  {
+   "title": "Position: Maximizing Neural Regression Scores May Not Identify Good Models of the Brain",
+   "authors": [
+    "Rylan Schaeffer",
+    "Mikail Khona",
+    "Sarthak Chandra",
+    "Mitchell Ostrow",
+    "Brando Miranda",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vbtj05J68r",
+   "pdf_url": "https://openreview.net/pdf?id=vbtj05J68r"
+  },
+  {
+   "title": "Random Propagations in GNNs",
+   "authors": [
+    "Thu Bui",
+    "Anugunj Naman",
+    "Carola-Bibiane Schönlieb",
+    "Bruno Ribeiro",
+    "Beatrice Bevilacqua",
+    "Moshe Eliasof"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kyPpQwMx3T",
+   "pdf_url": "https://openreview.net/pdf?id=kyPpQwMx3T"
+  },
+  {
+   "title": "Relative Representations: Topological and Geometric Perspectives",
+   "authors": [
+    "Alejandro García-Castellanos",
+    "Giovanni Luca Marchetti",
+    "Danica Kragic",
+    "Martina Scolamiero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RDfkKNoET5",
+   "pdf_url": "https://openreview.net/pdf?id=RDfkKNoET5"
+  },
+  {
+   "title": "Representation Learning of Structured Data for Medical Foundation Models",
+   "authors": [
+    "Vijay Prakash Dwivedi",
+    "Viktor Schlegel",
+    "Andy T. Liu",
+    "Thanh-Tung Nguyen",
+    "Abhinav Ramesh Kashyap",
+    "Jeng Wei",
+    "Wei-Hsian Yin",
+    "Stefan Winkler",
+    "Robby T. Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lu3Y2f54g9",
+   "pdf_url": "https://openreview.net/pdf?id=Lu3Y2f54g9"
+  },
+  {
+   "title": "Representation with a capital 'R': measuring functional alignment with causal perturbation",
+   "authors": [
+    "Jacob S. Prince",
+    "George A. Alvarez",
+    "Talia Konkle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pn7KvRSRm3",
+   "pdf_url": "https://openreview.net/pdf?id=pn7KvRSRm3"
+  },
+  {
+   "title": "Rethinking Fine-tuning Through Geometric Perspective",
+   "authors": [
+    "Krishna Sri Ipsit Mantri",
+    "Moshe Eliasof",
+    "Carola-Bibiane Schönlieb",
+    "Bruno Ribeiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FFQ5T3EN18",
+   "pdf_url": "https://openreview.net/pdf?id=FFQ5T3EN18"
+  },
+  {
+   "title": "Revealing spatial-frequency channels in an ensemble encoding model of human fMRI",
+   "authors": [
+    "Furkan Ozcelik",
+    "Ajay Subramanian",
+    "Najib J. Majaj",
+    "Denis G. Pelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O8nVUbyvTC",
+   "pdf_url": "https://openreview.net/pdf?id=O8nVUbyvTC"
+  },
+  {
+   "title": "Self-Supervised Pre-training of Spiking Neural Networks by Contrasting Events and Frames",
+   "authors": [
+    "Raghav Singhal",
+    "Jan Finkbeiner",
+    "Emre Neftci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DNopfn4hZf",
+   "pdf_url": "https://openreview.net/pdf?id=DNopfn4hZf"
+  },
+  {
+   "title": "Shared Recurrent Memory Improves Multi-agent Pathfinding",
+   "authors": [
+    "Alsu Sagirova",
+    "Yuri Kuratov",
+    "Mikhail Burtsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1sq9eXwHRE",
+   "pdf_url": "https://openreview.net/pdf?id=1sq9eXwHRE"
+  },
+  {
+   "title": "Small-scale adversarial perturbations expose differences between predictive encoding models of human fMRI responses",
+   "authors": [
+    "Nikolas McNeal",
+    "Mainak Deb",
+    "Apurva Ratan Murty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1g7HWFmvY0",
+   "pdf_url": "https://openreview.net/pdf?id=1g7HWFmvY0"
+  },
+  {
+   "title": "Task-Relevant Covariance from Manifold Capacity Theory Improves Robustness in Deep Networks",
+   "authors": [
+    "William Yang",
+    "Chi-Ning Chou",
+    "SueYeon Chung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1jHvHtbgRb",
+   "pdf_url": "https://openreview.net/pdf?id=1jHvHtbgRb"
+  },
+  {
+   "title": "Topology Preserving Regularization for Independent Training of Inter-operable Models",
+   "authors": [
+    "Nicolas Zilberstein",
+    "Akshay Malhotra",
+    "Shahab Hamidi-Rad",
+    "Yugeswar Deenoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nZFqQ2ukik",
+   "pdf_url": "https://openreview.net/pdf?id=nZFqQ2ukik"
+  },
+  {
+   "title": "Understanding Memorization using Representation Similarity Analysis and Model Stitching",
+   "authors": [
+    "Aishwarya Gupta",
+    "Indranil Saha",
+    "Piyush Rai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tw90zCqY8t",
+   "pdf_url": "https://openreview.net/pdf?id=Tw90zCqY8t"
+  },
+  {
+   "title": "Understanding Permutation Based Model Merging with Feature Visualizations",
+   "authors": [
+    "Congshu Zou",
+    "geraldin nanfack",
+    "Stefan Horoi",
+    "Eugene Belilovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CWTEiuwOQU",
+   "pdf_url": "https://openreview.net/pdf?id=CWTEiuwOQU"
+  },
+  {
+   "title": "Understanding Variational Autoencoders with Intrinsic Dimension and Information Imbalance",
+   "authors": [
+    "Charles Camboulin",
+    "Diego Doimo",
+    "Aldo Glielmo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uViw1lr2mZ",
+   "pdf_url": "https://openreview.net/pdf?id=uViw1lr2mZ"
+  },
+  {
+   "title": "Unifying Causal Representation Learning with the Invariance Principle",
+   "authors": [
+    "Dingling Yao",
+    "Dario Rancati",
+    "Riccardo Cadei",
+    "Marco Fumero",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LaU3p8Pj0D",
+   "pdf_url": "https://openreview.net/pdf?id=LaU3p8Pj0D"
+  },
+  {
+   "title": "Unsupervised Learning of Categorical Structure",
+   "authors": [
+    "Matteo Alleman",
+    "Stefano Fusi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oXdVhIAWtA",
+   "pdf_url": "https://openreview.net/pdf?id=oXdVhIAWtA"
+  },
+  {
+   "title": "Unsupervised Modality Adaptation in Human Action Recognition via Cross-modal Representation Learning",
+   "authors": [
+    "Abhi Kamboj",
+    "Duy A. Nguyen",
+    "Minh N. Do"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LH2X8uwXxe",
+   "pdf_url": "https://openreview.net/pdf?id=LH2X8uwXxe"
+  },
+  {
+   "title": "Video decoding from human fMRI data with a multi-stream sensory approach",
+   "authors": [
+    "Matteo Ferrante",
+    "Matteo Ciferri",
+    "Nicola Toschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZzBMz4tYPd",
+   "pdf_url": "https://openreview.net/pdf?id=ZzBMz4tYPd"
+  },
+  {
+   "title": "Vision and language representations in multimodal AI models and human social brain regions during natural movie viewing",
+   "authors": [
+    "Hannah Small",
+    "Haemy Lee Masson",
+    "Stewart Mostofsky",
+    "Leyla Isik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pS1UjuYuJu",
+   "pdf_url": "https://openreview.net/pdf?id=pS1UjuYuJu"
+  },
+  {
+   "title": "VISTA: A Panoramic View of Neural Representations",
+   "authors": [
+    "Tom White"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MDPvwHKpME",
+   "pdf_url": "https://openreview.net/pdf?id=MDPvwHKpME"
+  },
+  {
+   "title": "What Representational Similarity Measures Imply about Decodable Information",
+   "authors": [
+    "Sarah E Harvey",
+    "David Lipshutz",
+    "Alex H Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hqfzH6GCYj",
+   "pdf_url": "https://openreview.net/pdf?id=hqfzH6GCYj"
+  },
+  {
+   "title": "Winning Tickets from Random Initialization: Aligning Masks for Sparse Training",
+   "authors": [
+    "Rohan Jain",
+    "Mohammed Adnan",
+    "Ekansh Sharma",
+    "Yani Ioannou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xLiQjuoUyl",
+   "pdf_url": "https://openreview.net/pdf?id=xLiQjuoUyl"
+  },
+  {
+   "title": "Workshop Submission: Towards Making Untrainable Networks Trainable",
+   "authors": [
+    "Vighnesh Subramaniam",
+    "Tomaso A Poggio",
+    "Boris Katz",
+    "Brian Cheung",
+    "Andrei Barbu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YEKelYP0Et",
+   "pdf_url": "https://openreview.net/pdf?id=YEKelYP0Et"
+  }
+ ]
+}

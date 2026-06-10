@@ -1,0 +1,640 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/AI4NextG",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:24.413Z",
+ "paper_count": 61,
+ "papers": [
+  {
+   "title": "A Compression Algorithm for Distributed LMMs with Different Information Fusion Techniques",
+   "authors": [
+    "Eren Balevi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ACjVoSA4aU",
+   "pdf_url": "https://openreview.net/pdf?id=ACjVoSA4aU"
+  },
+  {
+   "title": "A Probabilistic Approach to Pose Synchronization for Multi-Reference Alignment with applications to MIMO wireless communication systems",
+   "authors": [
+    "Rob Romijnders",
+    "Gabriele Cesa",
+    "Christos Louizos",
+    "Kumar Pratik",
+    "Arash Behboodi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3rcxUfAQ4f",
+   "pdf_url": "https://openreview.net/pdf?id=3rcxUfAQ4f"
+  },
+  {
+   "title": "A Study of Neural Polar Decoders for Communication",
+   "authors": [
+    "rom hirsch",
+    "Ziv Aharoni",
+    "Haim H. Permuter",
+    "Henry Pfister"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ulZkvV6SOf",
+   "pdf_url": "https://openreview.net/pdf?id=ulZkvV6SOf"
+  },
+  {
+   "title": "Adaptive Cooperative Transmission Design for Ultra-Reliable Low-Latency Communications via Deep Reinforcement Learning",
+   "authors": [
+    "Hyemin Yu",
+    "Hong-Chuan Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=07EjzJbHVv",
+   "pdf_url": "https://openreview.net/pdf?id=07EjzJbHVv"
+  },
+  {
+   "title": "Adaptive GNN-based Proportional-Fair Scheduling in MIMO Networks for Non-stationary Channels",
+   "authors": [
+    "Yirong Cheng",
+    "Divyanshu Pandey",
+    "Ashutosh Sabharwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ABnNkrZ2s",
+   "pdf_url": "https://openreview.net/pdf?id=2ABnNkrZ2s"
+  },
+  {
+   "title": "Asynchronous Unsupervised Online Learning of Bayesian Deep Receivers",
+   "authors": [
+    "Nicole Uzlaner",
+    "Nir Shlezinger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hv3rojVmgI",
+   "pdf_url": "https://openreview.net/pdf?id=hv3rojVmgI"
+  },
+  {
+   "title": "AURA: Adaptive Unified Reasoning and Automation with LLM-Guided MARL for NextG Cellular Networks",
+   "authors": [
+    "Narjes Nourzad",
+    "Mingyu Zong",
+    "Bhaskar Krishnamachari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BrW5aRjpQU",
+   "pdf_url": "https://openreview.net/pdf?id=BrW5aRjpQU"
+  },
+  {
+   "title": "Beyond Prompts: Preserving Semantics in Diffusion-based Communication",
+   "authors": [
+    "Wonjung Kim",
+    "Nakyung Lee",
+    "Sangwoo Hong",
+    "Jungwoo Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9om14goAxo",
+   "pdf_url": "https://openreview.net/pdf?id=9om14goAxo"
+  },
+  {
+   "title": "Block ModShift: Model Privacy via Dynamic Designed Shifts",
+   "authors": [
+    "Nomaan A. Kherani",
+    "Urbashi Mitra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KJi4Q2lYM9",
+   "pdf_url": "https://openreview.net/pdf?id=KJi4Q2lYM9"
+  },
+  {
+   "title": "Building the Cognitive Network: Pillars of AI-Native Wireless ecosystem",
+   "authors": [
+    "Supratik Bhattacharjee",
+    "Sharad Sambhwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xy7HGQaFS5",
+   "pdf_url": "https://openreview.net/pdf?id=xy7HGQaFS5"
+  },
+  {
+   "title": "Channel Simulation and Distributed Compression with Ensemble Rejection Sampling",
+   "authors": [
+    "Buu Phan",
+    "Ashish J Khisti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ETel7LH6GC",
+   "pdf_url": "https://openreview.net/pdf?id=ETel7LH6GC"
+  },
+  {
+   "title": "CHAST: Attention Aided SISO OFDM Channel Estimation",
+   "authors": [
+    "Mehmetcan Gok",
+    "John Zhou",
+    "Supratik Bhattacharjee",
+    "Sharad Sambhwani",
+    "Huaning Niu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ei7OTmEQNi",
+   "pdf_url": "https://openreview.net/pdf?id=Ei7OTmEQNi"
+  },
+  {
+   "title": "Conditional Denoising Diffusion Autoencoders for Wireless Semantic Communications",
+   "authors": [
+    "Mehdi Letafati",
+    "Samad Ali",
+    "Matti Latva-aho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4pJW6hK0HN",
+   "pdf_url": "https://openreview.net/pdf?id=4pJW6hK0HN"
+  },
+  {
+   "title": "Conformal Sparsification for Bandwidth-Efficient Edge–Cloud Speculative Decoding",
+   "authors": [
+    "Payel Bhattacharjee",
+    "Fengwei Tian",
+    "Meiyu Zhong",
+    "Guangyi Zhang",
+    "Osvaldo Simeone",
+    "Ravi Tandon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gZl2x7AN1F",
+   "pdf_url": "https://openreview.net/pdf?id=gZl2x7AN1F"
+  },
+  {
+   "title": "Constrained Multi-Agent Reinforcement Learning for Task Offloading in Wireless Edge Networks",
+   "authors": [
+    "Andrea Fox",
+    "Francesco De Pellegrini",
+    "Eitan Altman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NbKbMEFsJY",
+   "pdf_url": "https://openreview.net/pdf?id=NbKbMEFsJY"
+  },
+  {
+   "title": "Constrained Network Slice Assignment via Large Language Models",
+   "authors": [
+    "Sagar Sudhakara",
+    "Pankaj Rajak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OU2BZVNj0p",
+   "pdf_url": "https://openreview.net/pdf?id=OU2BZVNj0p"
+  },
+  {
+   "title": "ConTwin: Contrastive Learning for Robust Digital Twin CSI Prediction",
+   "authors": [
+    "Sagnik Bhattacharya",
+    "Abhiram Rao Gorle",
+    "John M. Cioffi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UgS7SLHtYn",
+   "pdf_url": "https://openreview.net/pdf?id=UgS7SLHtYn"
+  },
+  {
+   "title": "Cross-Layer Design for Near-Field mmWave Beam Management and Scheduling under Delay-Sensitive Traffic",
+   "authors": [
+    "Zijun Wang",
+    "Anjali Omer",
+    "Nicholas Mastronarde",
+    "Jacob Chakareski",
+    "Rui Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ySE32cqT5D",
+   "pdf_url": "https://openreview.net/pdf?id=ySE32cqT5D"
+  },
+  {
+   "title": "Data-Free Quantization of Neural Receivers: When 4-Bit Succeeds, Why 6-Bit Matters for 6G",
+   "authors": [
+    "SaiKrishna S. Yellapragada",
+    "Esa Ollila",
+    "Mário Costa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4NsiKauceB",
+   "pdf_url": "https://openreview.net/pdf?id=4NsiKauceB"
+  },
+  {
+   "title": "Dynamic Features Adaptation in Networking: Toward Flexible training and Explainable inference",
+   "authors": [
+    "Yannis Belkhiter",
+    "Seshu Tirupathi",
+    "Giulio Zizzo",
+    "Merim Dzaferagic",
+    "John Kelleher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kM2Y4WZVWU",
+   "pdf_url": "https://openreview.net/pdf?id=kM2Y4WZVWU"
+  },
+  {
+   "title": "End-to-End Waveform Design for Nonlinear Satellite Links with a Convolutional Autoencoder",
+   "authors": [
+    "Yara Huleihel",
+    "rom hirsch",
+    "Haim H. Permuter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ws63mpt6J7",
+   "pdf_url": "https://openreview.net/pdf?id=ws63mpt6J7"
+  },
+  {
+   "title": "Fairness-Oracular MARL with Competitor-Aware Signals for Collaborative Inference",
+   "authors": [
+    "Hansong Zhou",
+    "Xiaonan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0VDSjEYfUY",
+   "pdf_url": "https://openreview.net/pdf?id=0VDSjEYfUY"
+  },
+  {
+   "title": "Federated learning over physical channels: adaptive algorithms with near-optimal guarantees",
+   "authors": [
+    "Rui Zhang",
+    "Wenlong Mou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y1QEsX196J",
+   "pdf_url": "https://openreview.net/pdf?id=Y1QEsX196J"
+  },
+  {
+   "title": "Federated Model-Based Offline Multi-Agent Reinforcement Learning for Wireless Networks",
+   "authors": [
+    "Dohyeok Kwon",
+    "YeonseoJeong",
+    "Sungweon Hong",
+    "Songnam Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFztuJRkJw",
+   "pdf_url": "https://openreview.net/pdf?id=nFztuJRkJw"
+  },
+  {
+   "title": "Few Features are Enough: Communication-Efficient AI-RAN",
+   "authors": [
+    "Dayoung Choi",
+    "Siyoun Park",
+    "Jungmin Kwon",
+    "Hyunggon Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Il4Gygnn4J",
+   "pdf_url": "https://openreview.net/pdf?id=Il4Gygnn4J"
+  },
+  {
+   "title": "Foundation Model-aided Multi-agent Reinforcement Learning for Random Access Network Optimization",
+   "authors": [
+    "Myeung Suk Oh",
+    "Alvaro Velasquez",
+    "Jia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5xHTWX45zu",
+   "pdf_url": "https://openreview.net/pdf?id=5xHTWX45zu"
+  },
+  {
+   "title": "Frequency Extrapolation for Carrier Aggregation as a Super-Resolution Problem: Rethinking Conventional Forecasting Methods",
+   "authors": [
+    "Daoud Burghal",
+    "Yan Xin",
+    "Jianzhong Charlie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KcqJyHI4AD",
+   "pdf_url": "https://openreview.net/pdf?id=KcqJyHI4AD"
+  },
+  {
+   "title": "From Simulation to Practice: Generalizable Deep Reinforcement Learning for Cellular Schedulers",
+   "authors": [
+    "Petteri Kela",
+    "Bryan Liu",
+    "Alvaro Valcarce Rial"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2wYqthY6ga",
+   "pdf_url": "https://openreview.net/pdf?id=2wYqthY6ga"
+  },
+  {
+   "title": "In-Context Radio Map Estimation via Ripple Autoregressive Modeling",
+   "authors": [
+    "Yuanzhe Peng",
+    "Jie Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KCWM7pQ3BV",
+   "pdf_url": "https://openreview.net/pdf?id=KCWM7pQ3BV"
+  },
+  {
+   "title": "LLM Agent Communication Protocol (LACP) Requires Urgent Standardization: A Telecom-Inspired Protocol is Necessary",
+   "authors": [
+    "Xin Li",
+    "Mengbing Liu",
+    "Chau Yuen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LpwE9cSLkS",
+   "pdf_url": "https://openreview.net/pdf?id=LpwE9cSLkS"
+  },
+  {
+   "title": "Long-term Wireless Link Scheduling with State-Augmented Graph Neural Networks",
+   "authors": [
+    "Romina Garcia Camargo",
+    "Zhiyang Wang",
+    "Navid NaderiAlizadeh",
+    "Alejandro Ribeiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=baM22u29t6",
+   "pdf_url": "https://openreview.net/pdf?id=baM22u29t6"
+  },
+  {
+   "title": "Managing Conflicts Among Black-Box RAN Apps via Multi-Fidelity Game-Theoretic Optimization",
+   "authors": [
+    "Yunchuan Zhang",
+    "Osvaldo Simeone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oUU9AkyhlR",
+   "pdf_url": "https://openreview.net/pdf?id=oUU9AkyhlR"
+  },
+  {
+   "title": "MAR-FL: A Communication Efficient Peer-to-Peer Federated Learning System",
+   "authors": [
+    "Felix Mulitze",
+    "Herbert Woisetschläger",
+    "Hans Arno Jacobsen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kd0qlemrSV",
+   "pdf_url": "https://openreview.net/pdf?id=Kd0qlemrSV"
+  },
+  {
+   "title": "Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels",
+   "authors": [
+    "Oguz Bedir",
+    "Nurullah Sevim",
+    "Mostafa Ibrahim",
+    "Sabit Ekin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ruBUyl4b8a",
+   "pdf_url": "https://openreview.net/pdf?id=ruBUyl4b8a"
+  },
+  {
+   "title": "Mixture-of-Experts for Multi-Task Semantic Communications with CSI-Free Multiple Access",
+   "authors": [
+    "Sujin kook",
+    "Jihong Park",
+    "Seong-Lyun Kim",
+    "Seung-Woo Ko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OBN7xdtzYR",
+   "pdf_url": "https://openreview.net/pdf?id=OBN7xdtzYR"
+  },
+  {
+   "title": "Multi-Task Transformer Receiver for OFDM Channel Estimation and Symbol Detection",
+   "authors": [
+    "Zhoubin Kou",
+    "Renpu Liu",
+    "Jing Yang",
+    "Cong Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JHuxRtWG5f",
+   "pdf_url": "https://openreview.net/pdf?id=JHuxRtWG5f"
+  },
+  {
+   "title": "Network Traffic Foundation Model with Adaptation via In-Context Learning and Mixture-of-Experts",
+   "authors": [
+    "Miru Kim",
+    "Minhae Kwon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jnoD9tQL0U",
+   "pdf_url": "https://openreview.net/pdf?id=jnoD9tQL0U"
+  },
+  {
+   "title": "Neuro-Cognitive Radios for Dynamic Spectrum Access",
+   "authors": [
+    "Rodrigo P. Ferreira",
+    "Pedro Lustosa Rege Botelho",
+    "Yubo Zhang",
+    "Igor Kadota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MHR8oSkxZU",
+   "pdf_url": "https://openreview.net/pdf?id=MHR8oSkxZU"
+  },
+  {
+   "title": "Optimal Neural Compressors for the Rate-Distortion-Perception Tradeoff",
+   "authors": [
+    "Eric Lei",
+    "Hamed Hassani",
+    "Shirin Saeedi Bidokhti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ohXD0ASBbH",
+   "pdf_url": "https://openreview.net/pdf?id=ohXD0ASBbH"
+  },
+  {
+   "title": "PEARL: Peer-Enhanced Adaptive Radio via On-Device LLM",
+   "authors": [
+    "Juhyung Lee",
+    "Yanqing Lu",
+    "Klaus Doppler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xkqk10lK5k",
+   "pdf_url": "https://openreview.net/pdf?id=xkqk10lK5k"
+  },
+  {
+   "title": "Physics-based Meta Learning for Channel Transformation",
+   "authors": [
+    "Satyavrat Wagle",
+    "Akshay Malhotra",
+    "Shahab Hamidi-Rad",
+    "Aditya Sant",
+    "Christopher Brinton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ahgeSr78zF",
+   "pdf_url": "https://openreview.net/pdf?id=ahgeSr78zF"
+  },
+  {
+   "title": "Physics-Informed Neural Networks for Wireless Channel Estimation with Limited Pilot Signals",
+   "authors": [
+    "Alireza Javid",
+    "Nuria Gonzalez Prelcic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r3plaU6DvW",
+   "pdf_url": "https://openreview.net/pdf?id=r3plaU6DvW"
+  },
+  {
+   "title": "Position: There Is No Ground Truth -- Rethinking Evaluation in AI-Driven Channel Prediction",
+   "authors": [
+    "Abhiram Rao Gorle",
+    "John M. Cioffi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R71JILTwaE",
+   "pdf_url": "https://openreview.net/pdf?id=R71JILTwaE"
+  },
+  {
+   "title": "Preference-centric Bandits in Wireless Communications: Theory and Applications",
+   "authors": [
+    "Meltem Tatlı",
+    "Ali Tajer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AZglbRzwyE",
+   "pdf_url": "https://openreview.net/pdf?id=AZglbRzwyE"
+  },
+  {
+   "title": "Privacy via Scheduling and Connectivity Design in Decentralized Federated Learning",
+   "authors": [
+    "Feng Wang",
+    "Zixi Wang",
+    "M. Cenk Gursoy",
+    "Senem Velipasalar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eb4T71GHT8",
+   "pdf_url": "https://openreview.net/pdf?id=Eb4T71GHT8"
+  },
+  {
+   "title": "Realism and Fidelity: Two Sides of a Coin in Deep Joint Source-Channel Coding",
+   "authors": [
+    "Haotian Wu",
+    "Weichen Wang",
+    "Di You",
+    "Pier Luigi Dragotti",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5pcWOzIwCr",
+   "pdf_url": "https://openreview.net/pdf?id=5pcWOzIwCr"
+  },
+  {
+   "title": "Reasoning Meets Representation: Envisioning Neuro-Symbolic Wireless Foundation Models",
+   "authors": [
+    "Jaron Fontaine",
+    "Mohammad Cheraghinia",
+    "John Strassner",
+    "Adnan Shahid",
+    "Eli De Poorter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FvCfhgbeFc",
+   "pdf_url": "https://openreview.net/pdf?id=FvCfhgbeFc"
+  },
+  {
+   "title": "Retrieval-Augmented Generation for Reliable Interpretation of Radio Regulations",
+   "authors": [
+    "Zakaria El Kassimi",
+    "Fares Fourati",
+    "Mohamed-Slim Alouini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m6ubBLUV88",
+   "pdf_url": "https://openreview.net/pdf?id=m6ubBLUV88"
+  },
+  {
+   "title": "Robust Channel Representation for Wireless: A Multi-Task Masked Contrastive Approach",
+   "authors": [
+    "Berkay Guler",
+    "Giovanni Geraci",
+    "Hamid Jafarkhani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXNDs9ZGb9",
+   "pdf_url": "https://openreview.net/pdf?id=KXNDs9ZGb9"
+  },
+  {
+   "title": "SafeCOMM: Investigating Safety Degradation in Fine-Tuned Telecom Large Language Models",
+   "authors": [
+    "Aladin Djuhera",
+    "Swanand Ravindra Kadhe",
+    "Farhan Ahmed",
+    "Syed Zawad",
+    "Fernando Luiz Koch",
+    "Walid Saad",
+    "Holger Boche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5EnCyqTG2M",
+   "pdf_url": "https://openreview.net/pdf?id=5EnCyqTG2M"
+  },
+  {
+   "title": "Satisficing with Binary Feedback: Multi-User mmWave Beam and Rate Adaptation via Combinatorial Bandits",
+   "authors": [
+    "Emre Özyıldırım",
+    "Barış Yaycı",
+    "Umut Eren Akturk",
+    "Cem Tekin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qLtBU0mVB1",
+   "pdf_url": "https://openreview.net/pdf?id=qLtBU0mVB1"
+  },
+  {
+   "title": "Single-Step Online Adaptation of Modular Bayesian Deep Receivers with Streaming Data",
+   "authors": [
+    "Yakov Gusakov",
+    "Osvaldo Simeone",
+    "Tirza Routtenberg",
+    "Nir Shlezinger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=flOxjgQe8Y",
+   "pdf_url": "https://openreview.net/pdf?id=flOxjgQe8Y"
+  },
+  {
+   "title": "Tele-LLM-Hub: Building Context-Aware Multi-Agent LLM Systems for Telecom Networks",
+   "authors": [
+    "Pranshav Gajjar",
+    "Cong Shen",
+    "Vijay K Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AencYkmJtl",
+   "pdf_url": "https://openreview.net/pdf?id=AencYkmJtl"
+  },
+  {
+   "title": "The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network",
+   "authors": [
+    "Giwa Oluwaseyi",
+    "Michael Adewole",
+    "Tobi Awodumila",
+    "Pelumi Aderinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=81mgAfsFJv",
+   "pdf_url": "https://openreview.net/pdf?id=81mgAfsFJv"
+  },
+  {
+   "title": "The Pathway to  Adaptive Lightweight AI Transceivers (Vision Paper)",
+   "authors": [
+    "Nimrod Glazer",
+    "Nir Shlezinger",
+    "Tirza Routtenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cuLoNhilRB",
+   "pdf_url": "https://openreview.net/pdf?id=cuLoNhilRB"
+  },
+  {
+   "title": "Through the telecom lens: Are all training samples important?",
+   "authors": [
+    "Shruti Bothe",
+    "Illyyne Saffar",
+    "Aurelie Boisbunon",
+    "Hasan Farooq",
+    "Julien Forgeat",
+    "Md Moin Uddin Chowdhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PMcJhqWTKy",
+   "pdf_url": "https://openreview.net/pdf?id=PMcJhqWTKy"
+  },
+  {
+   "title": "Towards Achieving Integer and Load-balancing User Association in Wireless Networks with a Reparameterized Attention-based GNN",
+   "authors": [
+    "Qing Lyu",
+    "Mai Vu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IWqns7Zpmk",
+   "pdf_url": "https://openreview.net/pdf?id=IWqns7Zpmk"
+  },
+  {
+   "title": "Towards Building a Foundation Model for Wireless Sensing: A Pilot Study",
+   "authors": [
+    "Omer Gokalp Serbetci",
+    "Aditya V. Padaki",
+    "Prasad K Shamain",
+    "Koushik Araseethota Manjunatha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LMufK3vzE5",
+   "pdf_url": "https://openreview.net/pdf?id=LMufK3vzE5"
+  },
+  {
+   "title": "VLF-MSC: Vision-Language Feature-Based Multimodal Semantic Communication System",
+   "authors": [
+    "Gwang-Yeon Ahn",
+    "Jiwan Seo",
+    "Joonhyuk Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LSJ1oy83dW",
+   "pdf_url": "https://openreview.net/pdf?id=LSJ1oy83dW"
+  },
+  {
+   "title": "WISE: Wireless Analog Computing at Radio Frequency for Disaggregated Deep Learning Inference",
+   "authors": [
+    "Zhihui Gao",
+    "Sri Krishna Vadlaman",
+    "Kfir Sulimany",
+    "Dirk Englund",
+    "Tingjun Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oS4t53Q3It",
+   "pdf_url": "https://openreview.net/pdf?id=oS4t53Q3It"
+  },
+  {
+   "title": "XAI-on-RAN: Explainable, AI-native, and GPU-Accelerated RAN Towards 6G",
+   "authors": [
+    "Osman Tugay Basaran",
+    "Falko Dressler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s5W8RSQL8R",
+   "pdf_url": "https://openreview.net/pdf?id=s5W8RSQL8R"
+  }
+ ]
+}

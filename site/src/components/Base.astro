@@ -66,5 +66,14 @@ const current = (p: string) =>
         </div>
       </div>
     </footer>
+    <script>
+      // Open every external link in a new tab.
+      for (const a of document.querySelectorAll('a[href^="http"]')) {
+        if (a.host !== location.host) {
+          a.target = '_blank';
+          a.rel = 'noopener';
+        }
+      }
+    </script>
   </body>
 </html>

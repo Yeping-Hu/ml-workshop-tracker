@@ -1,0 +1,587 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Audio_Imagination",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:20.912Z",
+ "paper_count": 48,
+ "papers": [
+  {
+   "title": "3D Audio-Visual Segmentation",
+   "authors": [
+    "Artem Sokolov",
+    "Swapnil Bhosale",
+    "Xiatian Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DBZbTztEz0",
+   "pdf_url": "https://openreview.net/pdf?id=DBZbTztEz0"
+  },
+  {
+   "title": "A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation",
+   "authors": [
+    "Alexander H. Liu",
+    "Qirui Wang",
+    "Yuan Gong",
+    "James R. Glass"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eO4DmksTv8",
+   "pdf_url": "https://openreview.net/pdf?id=eO4DmksTv8"
+  },
+  {
+   "title": "Articulatory Synthesis of Speech and Diverse Vocal Sounds via Optimization",
+   "authors": [
+    "Luke Mo",
+    "Manuel Cherep",
+    "Nikhil Singh",
+    "Quinn Langford",
+    "Patricia Maes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kIDxwvWznF",
+   "pdf_url": "https://openreview.net/pdf?id=kIDxwvWznF"
+  },
+  {
+   "title": "AudioSetCaps: Enriched Audio Captioning Dataset Generation Using Large Audio Language Models",
+   "authors": [
+    "JISHENG BAI",
+    "Haohe Liu",
+    "Mou Wang",
+    "Dongyuan Shi",
+    "Wenwu Wang",
+    "Mark D Plumbley",
+    "Woon-Seng Gan",
+    "Jianfeng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uez4PMZwzP",
+   "pdf_url": "https://openreview.net/pdf?id=uez4PMZwzP"
+  },
+  {
+   "title": "AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation",
+   "authors": [
+    "Kai Wang",
+    "Shijian Deng",
+    "Jing Shi",
+    "Dimitrios Hatzinakos",
+    "Yapeng Tian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FE6zflN5G5",
+   "pdf_url": "https://openreview.net/pdf?id=FE6zflN5G5"
+  },
+  {
+   "title": "Benchmarking Music Generation Models and Metrics via Human Preference Studies",
+   "authors": [
+    "Ahmet Solak",
+    "Florian Grötschla",
+    "Luca A Lanzendörfer",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=105yqGIpVW",
+   "pdf_url": "https://openreview.net/pdf?id=105yqGIpVW"
+  },
+  {
+   "title": "BLAP: Bootstrapping Language-Audio Pre-training for Music Captioning",
+   "authors": [
+    "Luca A Lanzendörfer",
+    "Constantin Pinkl",
+    "Nathanaël Perraudin",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=23LTPLTB88",
+   "pdf_url": "https://openreview.net/pdf?id=23LTPLTB88"
+  },
+  {
+   "title": "Challenge on Sound Scene Synthesis: Evaluating Text-to-Audio Generation",
+   "authors": [
+    "Junwon Lee",
+    "Modan Tailleur",
+    "Laurie M. Heller",
+    "Keunwoo Choi",
+    "Mathieu Lagrange",
+    "Brian McFee",
+    "Keisuke Imoto",
+    "Yuki Okamoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PuBx0GTOQN",
+   "pdf_url": "https://openreview.net/pdf?id=PuBx0GTOQN"
+  },
+  {
+   "title": "Coarse-to-Fine Text-to-Music Latent Diffusion",
+   "authors": [
+    "Luca A Lanzendörfer",
+    "Tongyu Lu",
+    "Nathanaël Perraudin",
+    "Dorien Herremans",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=19Ukgqdlfg",
+   "pdf_url": "https://openreview.net/pdf?id=19Ukgqdlfg"
+  },
+  {
+   "title": "Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions",
+   "authors": [
+    "Enshi Zhang",
+    "Christian Poellabauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lyNDmWJhly",
+   "pdf_url": "https://openreview.net/pdf?id=lyNDmWJhly"
+  },
+  {
+   "title": "Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation",
+   "authors": [
+    "Marco Pasini",
+    "Javier Nistal",
+    "Stefan Lattner",
+    "George Fazekas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dZNajz11Q8",
+   "pdf_url": "https://openreview.net/pdf?id=dZNajz11Q8"
+  },
+  {
+   "title": "Contrastive Lyrics Alignment with a Timestamp-Informed Loss",
+   "authors": [
+    "Timon Kick",
+    "Florian Grötschla",
+    "Luca A Lanzendörfer",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=peM113bm8Z",
+   "pdf_url": "https://openreview.net/pdf?id=peM113bm8Z"
+  },
+  {
+   "title": "DART: Disentanglement of Accent and Speaker Representation in Multispeaker Text-to-Speech",
+   "authors": [
+    "Jan Melechovsky",
+    "Ambuj Mehrish",
+    "BERRAK SISMAN",
+    "Dorien Herremans"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VPbWvDr2a7",
+   "pdf_url": "https://openreview.net/pdf?id=VPbWvDr2a7"
+  },
+  {
+   "title": "Decoding Musical Perception: Music Stimuli Reconstruction from Brain Activity",
+   "authors": [
+    "Matteo Ciferri",
+    "Matteo Ferrante",
+    "Nicola Toschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w9y3UKynj4",
+   "pdf_url": "https://openreview.net/pdf?id=w9y3UKynj4"
+  },
+  {
+   "title": "Decoding Strategy with Perceptual Rating Prediction for Language Model-Based Text-to-Speech Synthesis",
+   "authors": [
+    "Kazuki Yamauchi",
+    "Wataru Nakata",
+    "Yuki Saito",
+    "Hiroshi Saruwatari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7gki9ehY8t",
+   "pdf_url": "https://openreview.net/pdf?id=7gki9ehY8t"
+  },
+  {
+   "title": "DGFM: Full Body Dance Generation Driven by Music Foundation Models",
+   "authors": [
+    "Xinran Liu",
+    "Zhenhua Feng",
+    "Diptesh Kanojia",
+    "Wenwu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l3VqZWLLm5",
+   "pdf_url": "https://openreview.net/pdf?id=l3VqZWLLm5"
+  },
+  {
+   "title": "Diffusion-based Speech Enhancement: Demonstration of Performance and Generalization",
+   "authors": [
+    "Julius Richter",
+    "Timo Gerkmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rv5LuElUic",
+   "pdf_url": "https://openreview.net/pdf?id=rv5LuElUic"
+  },
+  {
+   "title": "Disentangling Multi-instrument Music Audio for Source-level Pitch and Timbre Manipulation",
+   "authors": [
+    "Yin-Jyun Luo",
+    "Kin Wai Cheuk",
+    "Woosung Choi",
+    "Wei-Hsiang Liao",
+    "Keisuke Toyama",
+    "Toshimitsu Uesaka",
+    "Koichi Saito",
+    "Chieh-Hsin Lai",
+    "Yuhta Takida",
+    "Simon Dixon",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zhc6ZFmVM0",
+   "pdf_url": "https://openreview.net/pdf?id=Zhc6ZFmVM0"
+  },
+  {
+   "title": "Do music LLMs learn symbolic concepts? A pilot study using probing and intervention",
+   "authors": [
+    "Wenye Ma",
+    "Xinyue Li",
+    "Gus Xia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uvzw0gS0Nn",
+   "pdf_url": "https://openreview.net/pdf?id=uvzw0gS0Nn"
+  },
+  {
+   "title": "Efficient Generative Multimodal Integration (EGMI): Enabling Audio Generation from Text-Image Pairs through Alignment with Large Language Models",
+   "authors": [
+    "Taemin Kim",
+    "Wooyeol Baek",
+    "Heeseok Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5fWY2ZlsKj",
+   "pdf_url": "https://openreview.net/pdf?id=5fWY2ZlsKj"
+  },
+  {
+   "title": "FSD: Acoustic Echo Cancellation with Fewer Step Diffusion",
+   "authors": [
+    "Yang Liu",
+    "Li Wan",
+    "Yiteng Huang",
+    "Ming Sun",
+    "Changsheng Zhao",
+    "Zhaoheng Ni",
+    "Xinhao Mei",
+    "Yangyang Shi",
+    "Florian Metze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J2T6MwthQE",
+   "pdf_url": "https://openreview.net/pdf?id=J2T6MwthQE"
+  },
+  {
+   "title": "Generating Vocals from Lyrics and Musical Accompaniment",
+   "authors": [
+    "Georg Streich",
+    "Luca A Lanzendörfer",
+    "Florian Grötschla",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nlMNHCh901",
+   "pdf_url": "https://openreview.net/pdf?id=nlMNHCh901"
+  },
+  {
+   "title": "High Fidelity Text-Guided Music Editing via Single-Stage Flow Matching",
+   "authors": [
+    "Gael Le Lan",
+    "Bowen Shi",
+    "Zhaoheng Ni",
+    "Sidd Srinivasan",
+    "Anurag Kumar",
+    "Brian Ellis",
+    "David Kant",
+    "Varun K. Nagaraja",
+    "Ernie Chang",
+    "Wei-Ning Hsu",
+    "Yangyang Shi",
+    "Vikas Chandra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PhJstgkZxJ",
+   "pdf_url": "https://openreview.net/pdf?id=PhJstgkZxJ"
+  },
+  {
+   "title": "Improving Musical Accompaniment Co-creation via Diffusion Transformers",
+   "authors": [
+    "Javier Nistal",
+    "Marco Pasini",
+    "Stefan Lattner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zyE3Kdd85t",
+   "pdf_url": "https://openreview.net/pdf?id=zyE3Kdd85t"
+  },
+  {
+   "title": "Improving Source Extraction with Diffusion and Consistency Models",
+   "authors": [
+    "Tornike Karchkhadze",
+    "Mohammad Rasool Izadi",
+    "Shuo Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nskR7tWE6z",
+   "pdf_url": "https://openreview.net/pdf?id=nskR7tWE6z"
+  },
+  {
+   "title": "Improving Voice Quality in Speech Anonymization With Just Perception-Informed Losses",
+   "authors": [
+    "Suhita Ghosh",
+    "Frank Dreyer",
+    "Tim Thiele",
+    "Frederic Lorbeer",
+    "Sebastian Stober"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oitQwlUFYr",
+   "pdf_url": "https://openreview.net/pdf?id=oitQwlUFYr"
+  },
+  {
+   "title": "Internalizing ASR with Implicit Chain of Thought for Efficient Speech-to-Speech Conversational LLM",
+   "authors": [
+    "Robin Shing-Hei Yuen",
+    "Timothy Tin-Long Tse",
+    "Jian Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=je68W0R32D",
+   "pdf_url": "https://openreview.net/pdf?id=je68W0R32D"
+  },
+  {
+   "title": "Latent Diffusion Model for Audio: Generation, Quality Enhancement, and Neural Audio Codec",
+   "authors": [
+    "Haohe Liu",
+    "Wenwu Wang",
+    "Mark D Plumbley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kfp8LEtzBY",
+   "pdf_url": "https://openreview.net/pdf?id=Kfp8LEtzBY"
+  },
+  {
+   "title": "LOCKEY: A Novel Approach to Model Authentication and Deepfake Tracking",
+   "authors": [
+    "Mayank Kumar Singh",
+    "Naoya Takahashi",
+    "Wei-Hsiang Liao",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZJKErwXqL",
+   "pdf_url": "https://openreview.net/pdf?id=LZJKErwXqL"
+  },
+  {
+   "title": "LoVA: Long-form Video-to-Audio Generation",
+   "authors": [
+    "Xin Cheng",
+    "Xihua Wang",
+    "Yihan Wu",
+    "Yuyue Wang",
+    "Ruihua Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7xPJW8fQqF",
+   "pdf_url": "https://openreview.net/pdf?id=7xPJW8fQqF"
+  },
+  {
+   "title": "MLADDC: Multi-Lingual Audio Deepfake Detection  Corpus",
+   "authors": [
+    "ARTH JUHUL SHAH",
+    "Ravindrakumar M. Purohit",
+    "Dharmendra H. Vaghera",
+    "Hemant Patil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ic3HvoOTeU",
+   "pdf_url": "https://openreview.net/pdf?id=ic3HvoOTeU"
+  },
+  {
+   "title": "Multi-Source Music Generation with Latent Diffusion",
+   "authors": [
+    "Zhongweiyang Xu",
+    "Debottam Dutta",
+    "Yu-Lin Wei",
+    "Romit Roy Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bxzUnfWrgk",
+   "pdf_url": "https://openreview.net/pdf?id=bxzUnfWrgk"
+  },
+  {
+   "title": "MusicScore: A Dataset for Music Score Modeling and Generation",
+   "authors": [
+    "Yuheng Lin",
+    "Zheqi DAI",
+    "Qiuqiang Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2tN9GKeDAG",
+   "pdf_url": "https://openreview.net/pdf?id=2tN9GKeDAG"
+  },
+  {
+   "title": "Neural Audio Codec for Latent Music Representations",
+   "authors": [
+    "Luca A Lanzendörfer",
+    "Florian Grötschla",
+    "Amir Dellali",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vzrk9ACbIb",
+   "pdf_url": "https://openreview.net/pdf?id=vzrk9ACbIb"
+  },
+  {
+   "title": "One-shot Text-aligned Virtual Instrument Generation Utilizing Diffusion Transformer",
+   "authors": [
+    "Qihui Yang",
+    "Jiahe Lei",
+    "Qiuqiang Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VOLIcUJ6Sy",
+   "pdf_url": "https://openreview.net/pdf?id=VOLIcUJ6Sy"
+  },
+  {
+   "title": "Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers",
+   "authors": [
+    "Ziqiao Meng",
+    "Qichao Wang",
+    "Wenqian Cui",
+    "Yifei Zhang",
+    "Bingzhe Wu",
+    "Irwin King",
+    "Liang Chen",
+    "Peilin Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ttndg2Jl5F",
+   "pdf_url": "https://openreview.net/pdf?id=Ttndg2Jl5F"
+  },
+  {
+   "title": "SNAC: Multi-Scale Neural Audio Codec",
+   "authors": [
+    "Hubert Siuzdak",
+    "Florian Grötschla",
+    "Luca A Lanzendörfer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PFBF5ctj4X",
+   "pdf_url": "https://openreview.net/pdf?id=PFBF5ctj4X"
+  },
+  {
+   "title": "Sound-VECaps: Improving Audio Generation With Visual Enhanced Captions",
+   "authors": [
+    "Yi Yuan",
+    "Dongya Jia",
+    "Xiaobin Zhuang",
+    "Yuanzhe Chen",
+    "Zhengxi Liu",
+    "Zhuo Chen",
+    "Yuping Wang",
+    "Yuxuan Wang",
+    "Xubo Liu",
+    "Xiyuan Kang",
+    "Mark D Plumbley",
+    "Wenwu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mPmOxpTivB",
+   "pdf_url": "https://openreview.net/pdf?id=mPmOxpTivB"
+  },
+  {
+   "title": "SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound Generation",
+   "authors": [
+    "Koichi Saito",
+    "Dongjun Kim",
+    "Takashi Shibuya",
+    "Chieh-Hsin Lai",
+    "Zhi Zhong",
+    "Yuhta Takida",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MZT5hVsMOH",
+   "pdf_url": "https://openreview.net/pdf?id=MZT5hVsMOH"
+  },
+  {
+   "title": "Spatially-Aware Losses for Enhanced Neural Acoustic Fields",
+   "authors": [
+    "Christopher A. Ick",
+    "Gordon Wichern",
+    "Yoshiki Masuyama",
+    "François Germain",
+    "Jonathan Le Roux"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZZGZDYfp1e",
+   "pdf_url": "https://openreview.net/pdf?id=ZZGZDYfp1e"
+  },
+  {
+   "title": "Style Mixture of Experts for Expressive Text-To-Speech Synthesis",
+   "authors": [
+    "Ahad Jawaid",
+    "Shreeram Suresh Chandra",
+    "Junchen Lu",
+    "BERRAK SISMAN"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TBhSuVabsc",
+   "pdf_url": "https://openreview.net/pdf?id=TBhSuVabsc"
+  },
+  {
+   "title": "Text Prompt is Not Enough: Sound Event Enhanced Prompt Adapter for Target Style Audio Generation",
+   "authors": [
+    "Chenxu Xiong",
+    "Ruibo Fu",
+    "Shuchen Shi",
+    "Zhengqi Wen",
+    "Tao Wang",
+    "Chenxing Li",
+    "Chunyu Qiang",
+    "Yuankun Xie",
+    "XinQi",
+    "Guanjun Li",
+    "Zizheng Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LnkHDqAmtb",
+   "pdf_url": "https://openreview.net/pdf?id=LnkHDqAmtb"
+  },
+  {
+   "title": "Text-to-Audio Generation via Bridging Audio Language Model and Latent Diffusion",
+   "authors": [
+    "ZHENYU WANG",
+    "Chenxing Li",
+    "YONG XU",
+    "Chunlei Zhang",
+    "John H. L. Hansen",
+    "Dong Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y4LniyJIWi",
+   "pdf_url": "https://openreview.net/pdf?id=y4LniyJIWi"
+  },
+  {
+   "title": "Three-modal guidance for symbolic music generation: melody, structure, texture",
+   "authors": [
+    "Daniel Alexander Lucht",
+    "David Philip Leins",
+    "Dimitri von Rütte",
+    "Alexandra Moringen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvmdURcO5z",
+   "pdf_url": "https://openreview.net/pdf?id=TvmdURcO5z"
+  },
+  {
+   "title": "Towards Temporally Synchronized Visually Indicated Sounds Through Scale-Adapted Positional Embeddings",
+   "authors": [
+    "Xinhao Mei",
+    "Gael Le Lan",
+    "Haohe Liu",
+    "Zhaoheng Ni",
+    "Varun K. Nagaraja",
+    "Anurag Kumar",
+    "Yangyang Shi",
+    "Vikas Chandra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HZq8Gakf6e",
+   "pdf_url": "https://openreview.net/pdf?id=HZq8Gakf6e"
+  },
+  {
+   "title": "VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment",
+   "authors": [
+    "Bing Han",
+    "Long Zhou",
+    "Shujie LIU",
+    "Sanyuan Chen",
+    "Lingwei Meng",
+    "Yanmin Qian",
+    "Eric Liu",
+    "sheng zhao",
+    "Jinyu Li",
+    "Furu Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xvORqaYDgL",
+   "pdf_url": "https://openreview.net/pdf?id=xvORqaYDgL"
+  },
+  {
+   "title": "Vision Language Models Are Few-Shot Audio Spectrogram Classifiers",
+   "authors": [
+    "Satvik Dixit",
+    "Laurie Heller",
+    "Chris Donahue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RnBAclRKOC",
+   "pdf_url": "https://openreview.net/pdf?id=RnBAclRKOC"
+  },
+  {
+   "title": "What do MLLMs hear? Examining the interaction between LLM and audio encoder components in Multimodal Large Language Models",
+   "authors": [
+    "Enis Berk Çoban",
+    "Michael I Mandel",
+    "Johanna Devaney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lhtfA4m8hg",
+   "pdf_url": "https://openreview.net/pdf?id=lhtfA4m8hg"
+  }
+ ]
+}

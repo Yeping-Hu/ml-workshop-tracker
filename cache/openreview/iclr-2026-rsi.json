@@ -1,0 +1,1443 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/RSI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:35.959Z",
+ "paper_count": 110,
+ "papers": [
+  {
+   "title": "A Framework for Prompt Optimization and Translation Across Foundation Models",
+   "authors": [
+    "Abhinav Shankaranarayanan Venkataraman",
+    "Athanasios Nikolakopoulos",
+    "Vishwanath Kumaraswamy",
+    "Tao Zhang",
+    "Sarath Chander",
+    "Rohit Saboo",
+    "Suleiman A. Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gOTCn5uZeE",
+   "pdf_url": "https://openreview.net/pdf?id=gOTCn5uZeE"
+  },
+  {
+   "title": "A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula",
+   "authors": [
+    "Chenruo Liu",
+    "Yijun Dong",
+    "Yiqiu Shen",
+    "Qi Lei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EEc4Pn2GSa",
+   "pdf_url": "https://openreview.net/pdf?id=EEc4Pn2GSa"
+  },
+  {
+   "title": "ACE: Self-Evolving LLM Coding Framework Adversarial Unit Test Generation and Preference Optimization",
+   "authors": [
+    "Yixu Huang",
+    "Xinglei Yu",
+    "zhongyu wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ecKAmz5vlO",
+   "pdf_url": "https://openreview.net/pdf?id=ecKAmz5vlO"
+  },
+  {
+   "title": "Actor-Curator: Scalable Policy-driven Curriculum Learning for RL Post-Training",
+   "authors": [
+    "Zhengyao Gu",
+    "Jonathan Light",
+    "Raul Astudillo",
+    "Ziyu Ye",
+    "Langzhou He",
+    "Wei Cheng",
+    "Santiago Paternain",
+    "Philip S. Yu",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JYJXWnujvR",
+   "pdf_url": "https://openreview.net/pdf?id=JYJXWnujvR"
+  },
+  {
+   "title": "Adaptive Decoding via Test-Time Policy Learning for Self-Improving Generation",
+   "authors": [
+    "Asmita Bhardwaj",
+    "Yuya Jeremy Ong",
+    "Eelaaf Zahid",
+    "Basel Shbita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7fIqKZ92Fy",
+   "pdf_url": "https://openreview.net/pdf?id=7fIqKZ92Fy"
+  },
+  {
+   "title": "Adaptive Meta-Curriculum for Test-Time Self-Improvement",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Aarav Lala",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GjoUJTfXiW",
+   "pdf_url": "https://openreview.net/pdf?id=GjoUJTfXiW"
+  },
+  {
+   "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
+   "authors": [
+    "Jiaqi Liu",
+    "Kaiwen Xiong",
+    "Peng Xia",
+    "Yiyang Zhou",
+    "Haonian Ji",
+    "Lu Feng",
+    "Siwei Han",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JKx0zkUBsQ",
+   "pdf_url": "https://openreview.net/pdf?id=JKx0zkUBsQ"
+  },
+  {
+   "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+   "authors": [
+    "Peng Xia",
+    "Kaide Zeng",
+    "Jiaqi Liu",
+    "Can Qin",
+    "Fang Wu",
+    "Yiyang Zhou",
+    "Caiming Xiong",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hYYeOl58xi",
+   "pdf_url": "https://openreview.net/pdf?id=hYYeOl58xi"
+  },
+  {
+   "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+   "authors": [
+    "Qizheng Zhang",
+    "Changran Hu",
+    "Shubhangi Upasani",
+    "Boyuan Ma",
+    "Fenglu Hong",
+    "Vamsidhar Kamanuru",
+    "Jay Rainton",
+    "Chen Wu",
+    "Mengmeng Ji",
+    "Hanchen Li",
+    "Urmish Thakker",
+    "James Zou",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1eKYFvMNu",
+   "pdf_url": "https://openreview.net/pdf?id=f1eKYFvMNu"
+  },
+  {
+   "title": "Aligned but Stereotypical? Understanding and Mitigating Social Bias in LLM-Driven Text-to-Image Models",
+   "authors": [
+    "NaHyeon Park",
+    "Na Min An",
+    "Kunhee Kim",
+    "Soyeon Yoon",
+    "Jiahao Huo",
+    "Hyunjung Shim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvgoRhan6d",
+   "pdf_url": "https://openreview.net/pdf?id=RvgoRhan6d"
+  },
+  {
+   "title": "AlphaApollo: A System for Deep Agentic Reasoning",
+   "authors": [
+    "Zhanke Zhou",
+    "Chentao Cao",
+    "Xiao Feng",
+    "Xuan Li",
+    "Zongze Li",
+    "Xiangyu Lu",
+    "Jiangchao Yao",
+    "Weikai Huang",
+    "Tian Cheng",
+    "Jianghangfan Zhang",
+    "Tangyu Jiang",
+    "Linrui Xu",
+    "Yiming Zheng",
+    "Brando Miranda",
+    "Tongliang Liu",
+    "Sanmi Koyejo",
+    "Masashi Sugiyama",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UcIFJPXqrB",
+   "pdf_url": "https://openreview.net/pdf?id=UcIFJPXqrB"
+  },
+  {
+   "title": "Anchored Self-Play for Code Repair",
+   "authors": [
+    "Caroline Choi",
+    "Zeyneb N. Kaya",
+    "Shirley Wu",
+    "Tengyu Ma",
+    "Tatsunori Hashimoto",
+    "Ludwig Schmidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lTbBFAoPSA",
+   "pdf_url": "https://openreview.net/pdf?id=lTbBFAoPSA"
+  },
+  {
+   "title": "AUTOHARNESS: IMPROVING LLM AGENTS BY AUTOMATICALLY SYNTHESIZING A CODE HARNESS",
+   "authors": [
+    "Xinghua Lou",
+    "Miguel Lazaro-Gredilla",
+    "Antoine Dedieu",
+    "Carter Wendelken",
+    "Wolfgang Lehrach",
+    "Kevin Murphy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g9rEYVNn5T",
+   "pdf_url": "https://openreview.net/pdf?id=g9rEYVNn5T"
+  },
+  {
+   "title": "Beyond Solving: A Closer Look at LLMs as Solution Verifiers",
+   "authors": [
+    "Jack Lu",
+    "Ryan Teehan",
+    "Jinran Jin",
+    "Mengye Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hv5hDfbhuB",
+   "pdf_url": "https://openreview.net/pdf?id=Hv5hDfbhuB"
+  },
+  {
+   "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+   "authors": [
+    "Alejandro Breen Herrera",
+    "Aayush Sheth",
+    "Steven Guanxing Xu",
+    "Zhucheng Zhan",
+    "Charles Wright",
+    "Hong Tai Wei",
+    "Marcus Yearwood",
+    "Sudeep Das",
+    "Danny Nightingale",
+    "Meg Watson",
+    "Charles Pollnow V"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FySoHBWmt9",
+   "pdf_url": "https://openreview.net/pdf?id=FySoHBWmt9"
+  },
+  {
+   "title": "Can Current Language Models Close the Discovery to Application Loop?",
+   "authors": [
+    "Zhou Ziheng",
+    "Huacong Tang",
+    "Jinyuan Zhang",
+    "Haowei Lin",
+    "Bangcheng Yang",
+    "Qian Long",
+    "Fang Sun",
+    "Yizhou Sun",
+    "Yitao Liang",
+    "Ying Nian Wu",
+    "Demetri Terzopoulos",
+    "Xiaofeng Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BAdK20xfqj",
+   "pdf_url": "https://openreview.net/pdf?id=BAdK20xfqj"
+  },
+  {
+   "title": "Can Language Models Discover Scaling Laws?",
+   "authors": [
+    "Haowei Lin",
+    "Haotian Ye",
+    "Wenzheng Feng",
+    "Quzhe Huang",
+    "Yujun Li",
+    "Hubert Lim",
+    "Zhengrui Li",
+    "Jianzhu Ma",
+    "Yitao Liang",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nj6VGY4dej",
+   "pdf_url": "https://openreview.net/pdf?id=Nj6VGY4dej"
+  },
+  {
+   "title": "CausalEvolve: Towards Open-Ended Discovery with Causal Scratchpad",
+   "authors": [
+    "Yongqiang Chen",
+    "Chenxi Liu",
+    "Zhenhao Chen",
+    "Tongliang Liu",
+    "Bo Han",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=14jSctSh0D",
+   "pdf_url": "https://openreview.net/pdf?id=14jSctSh0D"
+  },
+  {
+   "title": "CircuitBuilder: From Polynomials to Circuits via Reinforcement Learning",
+   "authors": [
+    "Weikun Zhang",
+    "Rohan Pandey",
+    "Bhaumik Mehta",
+    "Kaijie Jin",
+    "Naomi Morato",
+    "Archit Ganapule",
+    "Michael Ruofan Zeng",
+    "Jarod Alper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JNsTWIukjQ",
+   "pdf_url": "https://openreview.net/pdf?id=JNsTWIukjQ"
+  },
+  {
+   "title": "Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision",
+   "authors": [
+    "Dulhan Jayalath",
+    "Shashwat Goel",
+    "Thomas Foster",
+    "Parag Jain",
+    "Suchin Gururangan",
+    "Cheng Zhang",
+    "Anirudh Goyal",
+    "Alan Schelten"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WA6q2pNQhj",
+   "pdf_url": "https://openreview.net/pdf?id=WA6q2pNQhj"
+  },
+  {
+   "title": "Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping",
+   "authors": [
+    "Dwip Dalal",
+    "Gautam Vashishtha",
+    "Utkarsh Mishra",
+    "Jeonghwan Kim",
+    "Madhav Kanda",
+    "Hyeonjeong Ha",
+    "Svetlana Lazebnik",
+    "Heng Ji",
+    "Unnat Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sSwXGq1RRI",
+   "pdf_url": "https://openreview.net/pdf?id=sSwXGq1RRI"
+  },
+  {
+   "title": "Contextual Drag: How Errors in the Context Affect LLM Reasoning",
+   "authors": [
+    "Yun Cheng",
+    "Xingyu Zhu",
+    "Haoyu Zhao",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zpiYsPVDlV",
+   "pdf_url": "https://openreview.net/pdf?id=zpiYsPVDlV"
+  },
+  {
+   "title": "Contrastive Self-Refinement for Low-Cost Adaptation in Real-World Text-to-SQL",
+   "authors": [
+    "Yuyang Wu",
+    "xin shi",
+    "Wei Long",
+    "Cam-Tu Nguyen",
+    "Xiaoliang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tgnbgt3Ctr",
+   "pdf_url": "https://openreview.net/pdf?id=tgnbgt3Ctr"
+  },
+  {
+   "title": "Correct Reasoning Paths Visit Shared Decision Pivots",
+   "authors": [
+    "Dongkyu Cho",
+    "Amy B.Z. Zhang",
+    "Bilel Fehri",
+    "Sheng Wang",
+    "Rumi Chunara",
+    "Hengrui Cai",
+    "Rui Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OlMSrldTNe",
+   "pdf_url": "https://openreview.net/pdf?id=OlMSrldTNe"
+  },
+  {
+   "title": "CoT-Seg: Rethinking Segmentation with Chain-of-Thought Reasoning and Self-Correction",
+   "authors": [
+    "Huaiqian Liu",
+    "Chak Ho Huang",
+    "Shiu-hong Kao",
+    "Yu-Wing Tai",
+    "Chi-Keung Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BtHRvwzJj8",
+   "pdf_url": "https://openreview.net/pdf?id=BtHRvwzJj8"
+  },
+  {
+   "title": "Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models",
+   "authors": [
+    "Shubhangi Upasani",
+    "Guangtao Wang",
+    "Ravi Shanker Raju",
+    "Bo Li",
+    "Urmish Thakker",
+    "Mengmeng Ji",
+    "John Long",
+    "Chen Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7dNjMllnWe",
+   "pdf_url": "https://openreview.net/pdf?id=7dNjMllnWe"
+  },
+  {
+   "title": "Depth vs Recursion: Outperforming Transformers in Jigsaw Reconstruction",
+   "authors": [
+    "Artemii Miasoedov",
+    "Timofey Brayko",
+    "Rustam A. Lukmanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1zDG1o16xB",
+   "pdf_url": "https://openreview.net/pdf?id=1zDG1o16xB"
+  },
+  {
+   "title": "Differentiable Evolutionary Reinforcement Learning",
+   "authors": [
+    "Sitao Cheng",
+    "Tianle Li",
+    "Xuhan Huang",
+    "Xunjian Yin",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uXTXcZ615k",
+   "pdf_url": "https://openreview.net/pdf?id=uXTXcZ615k"
+  },
+  {
+   "title": "Discover the distinguishing and effective reasoning patterns among LLMs via an LLM",
+   "authors": [
+    "Yida Chen",
+    "Yuning Mao",
+    "Xianjun Yang",
+    "Suyu Ge",
+    "Shengjie Bi",
+    "Lijuan Liu",
+    "Saghar Hosseini",
+    "Liang Tan",
+    "Yixin Nie",
+    "Shaoliang Nie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z9MOHU8RjL",
+   "pdf_url": "https://openreview.net/pdf?id=z9MOHU8RjL"
+  },
+  {
+   "title": "Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis",
+   "authors": [
+    "Ferdinand Kapl",
+    "Emmanouil Angelis",
+    "Tobias Höppe",
+    "Kaitlin Maile",
+    "Johannes von Oswald",
+    "Nino Scherrer",
+    "Stefan Bauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Enqas0eZF6",
+   "pdf_url": "https://openreview.net/pdf?id=Enqas0eZF6"
+  },
+  {
+   "title": "Duel-Evolve: Reward-Free Test-Time Scaling via LLM Self-Preferences",
+   "authors": [
+    "Sweta Karlekar",
+    "Carolina Zheng",
+    "Nicolas Beltran-Velez",
+    "Magnus Saebo",
+    "Shuyang Yu",
+    "Michal Kucer",
+    "John Bowlan",
+    "David Blei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=38t39AFZPE",
+   "pdf_url": "https://openreview.net/pdf?id=38t39AFZPE"
+  },
+  {
+   "title": "Dynamic Noise Preference Optimization: Self-Improvement of Large Language Models with Self-Synthetic Data",
+   "authors": [
+    "Haoyan Yang",
+    "Le Huy Khiem",
+    "Ting Hua",
+    "Shangqian Gao",
+    "Binfeng Xu",
+    "Zheng Tang",
+    "Jie Xu",
+    "Nitesh V. Chawla",
+    "Hongxia Jin",
+    "Vijay Srinivasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nT1gTSAf07",
+   "pdf_url": "https://openreview.net/pdf?id=nT1gTSAf07"
+  },
+  {
+   "title": "Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning",
+   "authors": [
+    "Seijin Kobayashi",
+    "Yanick Schimpf",
+    "Maximilian Schlegel",
+    "Angelika Steger",
+    "Maciej Wolczyk",
+    "Johannes von Oswald",
+    "Nino Scherrer",
+    "Kaitlin Maile",
+    "Guillaume Lajoie",
+    "Blake Aaron Richards",
+    "Rif A. Saurous",
+    "James Manyika",
+    "Blaise Aguera y Arcas",
+    "Alexander Meulemans",
+    "Joao Sacramento"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5UbKomO77O",
+   "pdf_url": "https://openreview.net/pdf?id=5UbKomO77O"
+  },
+  {
+   "title": "Escaping Model Collapse via Synthetic Data Verification:  Near-term Improvements and Long-term Convergence",
+   "authors": [
+    "Bingji Yi",
+    "Qiyuan Liu",
+    "Yuwei Cheng",
+    "Haifeng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YzDC5hjGUM",
+   "pdf_url": "https://openreview.net/pdf?id=YzDC5hjGUM"
+  },
+  {
+   "title": "ESDAE: Evaluating Synthetic Data for Agent Evaluation",
+   "authors": [
+    "Shuaiqi Wang",
+    "Aadyaa Maddi",
+    "Zinan Lin",
+    "Giulia Fanti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DlhLLVhrZB",
+   "pdf_url": "https://openreview.net/pdf?id=DlhLLVhrZB"
+  },
+  {
+   "title": "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Niels Mündler",
+    "Mark Niklas Mueller",
+    "Veselin Raychev",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0DyJeJ3iia",
+   "pdf_url": "https://openreview.net/pdf?id=0DyJeJ3iia"
+  },
+  {
+   "title": "Federated Agent Reinforcement Learning",
+   "authors": [
+    "Canyu Chen",
+    "Kangyu Zhu",
+    "Zhaorun Chen",
+    "Zhanhui Zhou",
+    "Shizhe Diao",
+    "Yiping Lu",
+    "Tian Li",
+    "Manling Li",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h4iPWHGapI",
+   "pdf_url": "https://openreview.net/pdf?id=h4iPWHGapI"
+  },
+  {
+   "title": "Federation over Text",
+   "authors": [
+    "Dixi Yao",
+    "Tahseen Rabbani",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gh7aCT73cq",
+   "pdf_url": "https://openreview.net/pdf?id=gh7aCT73cq"
+  },
+  {
+   "title": "Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison",
+   "authors": [
+    "Yoonho Lee",
+    "Joseph Boen",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A0dlCcZ4hT",
+   "pdf_url": "https://openreview.net/pdf?id=A0dlCcZ4hT"
+  },
+  {
+   "title": "From Growing to Looping: A Unified View of Iterative Computation in LLMs",
+   "authors": [
+    "Ferdinand Kapl",
+    "Emmanouil Angelis",
+    "Kaitlin Maile",
+    "Johannes von Oswald",
+    "Stefan Bauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yIDgVx3OoN",
+   "pdf_url": "https://openreview.net/pdf?id=yIDgVx3OoN"
+  },
+  {
+   "title": "GASP: Guided Asymmetric Self-Play For Coding LLMs",
+   "authors": [
+    "Swadesh Jana",
+    "Cansu Sancaktar",
+    "Tomáš Daniš",
+    "Georg Martius",
+    "Antonio Orvieto",
+    "Pavel Kolev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NYrOkAfDkP",
+   "pdf_url": "https://openreview.net/pdf?id=NYrOkAfDkP"
+  },
+  {
+   "title": "Generative Recursive Reasoning Models",
+   "authors": [
+    "Junyeob Baek",
+    "Mingyu Jo",
+    "Minsu Kim",
+    "Yoshua Bengio",
+    "Sungjin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vxu6kcIjwV",
+   "pdf_url": "https://openreview.net/pdf?id=Vxu6kcIjwV"
+  },
+  {
+   "title": "Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction",
+   "authors": [
+    "Chengzhi Xu",
+    "Yuyang Wang",
+    "Lai Wei",
+    "Weiran Huang",
+    "Lichao Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KgkMSbYoL1",
+   "pdf_url": "https://openreview.net/pdf?id=KgkMSbYoL1"
+  },
+  {
+   "title": "In-Context Adaptation",
+   "authors": [
+    "Yongqiang Chen",
+    "Chenxi Liu",
+    "Qingyi Guo",
+    "Bo Han",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f58uDOwLaq",
+   "pdf_url": "https://openreview.net/pdf?id=f58uDOwLaq"
+  },
+  {
+   "title": "Inference-Time Scaling in Diffusion Models through Iterative Partial Refinement",
+   "authors": [
+    "Taegu Kang",
+    "Jaesik Yoon",
+    "Sungjin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QopjICzGwr",
+   "pdf_url": "https://openreview.net/pdf?id=QopjICzGwr"
+  },
+  {
+   "title": "Intelligent Robot Manipulation Requires Self-Directed Learning",
+   "authors": [
+    "Li Chen",
+    "Chonghao Sima",
+    "Kashyap Chitta",
+    "Antonio Loquercio",
+    "Ping Luo",
+    "Yi Ma",
+    "Hongyang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hCjgh8jxKl",
+   "pdf_url": "https://openreview.net/pdf?id=hCjgh8jxKl"
+  },
+  {
+   "title": "Interestingness as an Inductive Heuristic for Future Compression Progress",
+   "authors": [
+    "Vincent Herrmann",
+    "Jürgen Schmidhuber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6GTlSlWW9C",
+   "pdf_url": "https://openreview.net/pdf?id=6GTlSlWW9C"
+  },
+  {
+   "title": "Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps",
+   "authors": [
+    "Justin H Lee",
+    "Henry Ndubuaku"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kKWSQsYgpa",
+   "pdf_url": "https://openreview.net/pdf?id=kKWSQsYgpa"
+  },
+  {
+   "title": "Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation",
+   "authors": [
+    "Pingzhi Tang",
+    "Yiding Wang",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D93migx9av",
+   "pdf_url": "https://openreview.net/pdf?id=D93migx9av"
+  },
+  {
+   "title": "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework",
+   "authors": [
+    "Xin He",
+    "Liangliang You",
+    "Hongduan Tian",
+    "Bo Han",
+    "Ivor Tsang",
+    "Yew-Soon Ong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q5qN3oQ4D1",
+   "pdf_url": "https://openreview.net/pdf?id=q5qN3oQ4D1"
+  },
+  {
+   "title": "Language Self-Play For Data-Free Training",
+   "authors": [
+    "Jakub Grudzien Kuba",
+    "Mengting Gu",
+    "Qi Ma",
+    "Yuandong Tian",
+    "Vijai Mohan",
+    "Chun-cheng Jason Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uB8YQHNsh6",
+   "pdf_url": "https://openreview.net/pdf?id=uB8YQHNsh6"
+  },
+  {
+   "title": "Language-Guided Expertise Evolution for Protein Optimization",
+   "authors": [
+    "Xingyue Liu",
+    "Zijie Xing",
+    "Runze Wang",
+    "Luoming Hu",
+    "Yanming Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NeNWeyfUJj",
+   "pdf_url": "https://openreview.net/pdf?id=NeNWeyfUJj"
+  },
+  {
+   "title": "Learning to Continually Learn via Meta-learning Agentic Memory Designs",
+   "authors": [
+    "Yiming Xiong",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sOq52KnJmR",
+   "pdf_url": "https://openreview.net/pdf?id=sOq52KnJmR"
+  },
+  {
+   "title": "Learning to Evolve: Scaling Open-Ended Discovery with Relative-Progress RL",
+   "authors": [
+    "Xuan Li",
+    "Zhanke Zhou",
+    "Zongze Li",
+    "Jiangchao Yao",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WnZHbe1Gu0",
+   "pdf_url": "https://openreview.net/pdf?id=WnZHbe1Gu0"
+  },
+  {
+   "title": "Learning What to Learn: Curriculum Curation for Test-Time Agent Learning",
+   "authors": [
+    "Qizheng Zhang",
+    "Sherry Ruan",
+    "Shubhangi Upasani",
+    "Fenglu Hong",
+    "Changxiu Ji",
+    "Changran Hu",
+    "Bo Li",
+    "Hanchen Li",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TRQLuxgxBN",
+   "pdf_url": "https://openreview.net/pdf?id=TRQLuxgxBN"
+  },
+  {
+   "title": "Leveraging Suboptimal and Noisy Trajectories for Goal-Conditional Offline RL",
+   "authors": [
+    "Ningze Zhong",
+    "Yi Wang",
+    "Bo Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jfi88XbVsn",
+   "pdf_url": "https://openreview.net/pdf?id=jfi88XbVsn"
+  },
+  {
+   "title": "LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as Evolutionary Optimizers",
+   "authors": [
+    "Nikhil Abhyankar",
+    "Parshin Shojaee",
+    "Chandan K. Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KbGkWv7VEk",
+   "pdf_url": "https://openreview.net/pdf?id=KbGkWv7VEk"
+  },
+  {
+   "title": "Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation",
+   "authors": [
+    "Peter Baile Chen",
+    "Yi Zhang",
+    "Dan Roth",
+    "Samuel Madden",
+    "Jacob Andreas",
+    "Mike Cafarella"
+   ],
+   "forum_url": "https://openreview.net/forum?id=32xd2HdB9m",
+   "pdf_url": "https://openreview.net/pdf?id=32xd2HdB9m"
+  },
+  {
+   "title": "MAPPA: Scaling Multiagent Systems with Process Rewards",
+   "authors": [
+    "Ed Li",
+    "Junyu Ren",
+    "Cat Yan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s06wgoO65a",
+   "pdf_url": "https://openreview.net/pdf?id=s06wgoO65a"
+  },
+  {
+   "title": "MimicAgent: Learning Quadruped Skills via Text-to-Trajectory Generation",
+   "authors": [
+    "Narayanan Palghat Parameswaran",
+    "Lucky Kant Nayak",
+    "Neehar Peri",
+    "Deva Ramanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1iAEFtFQ9M",
+   "pdf_url": "https://openreview.net/pdf?id=1iAEFtFQ9M"
+  },
+  {
+   "title": "OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms",
+   "authors": [
+    "Annika Kaul Singh",
+    "Jeremy Nixon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4TUzVEzVdu",
+   "pdf_url": "https://openreview.net/pdf?id=4TUzVEzVdu"
+  },
+  {
+   "title": "One-Step Video Depth Estimation via Self-Distillation",
+   "authors": [
+    "Wenqing Cui",
+    "Zhenyu Li",
+    "Jian Shi",
+    "Shariq Farooq Bhat",
+    "Peter Wonka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ucRjPd9HVU",
+   "pdf_url": "https://openreview.net/pdf?id=ucRjPd9HVU"
+  },
+  {
+   "title": "Orthogonal Gradient Projection for Continual LLM Unlearning",
+   "authors": [
+    "Juan Belieni",
+    "Ana Carolina Erthal",
+    "Eliezer de Souza da Silva",
+    "Diego Mesquita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lb6Ce20kl5",
+   "pdf_url": "https://openreview.net/pdf?id=lb6Ce20kl5"
+  },
+  {
+   "title": "POLARIS: A GODEL AGENT FRAMEWORK FOR SMALL LANGUAGE MODELS THROUGH EXPERIENCE ABSTRACTED POLICY REPAIR",
+   "authors": [
+    "ADITYA NAMDEV KAKADE",
+    "Vivek Srivastava",
+    "Shirish Karande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wlwkLVvB0W",
+   "pdf_url": "https://openreview.net/pdf?id=wlwkLVvB0W"
+  },
+  {
+   "title": "PostTrainBench: Can LLM Agents Automate LLM Post-Training?",
+   "authors": [
+    "Ben Rank",
+    "Hardik Bhatnagar",
+    "Ameya Prabhu",
+    "Shira Eisenberg",
+    "Karina Nguyen",
+    "Matthias Bethge",
+    "Maksym Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FJKOIxkUxo",
+   "pdf_url": "https://openreview.net/pdf?id=FJKOIxkUxo"
+  },
+  {
+   "title": "Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations",
+   "authors": [
+    "Chengzhi Liu",
+    "Yuzhe YANG",
+    "Kaiwen Zhou",
+    "Zhen Zhang",
+    "Yue Fan",
+    "Yanan Xie",
+    "Peng Qi",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d40v7Qcpi4",
+   "pdf_url": "https://openreview.net/pdf?id=d40v7Qcpi4"
+  },
+  {
+   "title": "Real-Time Procedural Learning From Experience for AI Agents",
+   "authors": [
+    "Dasheng Bi",
+    "Yubin Hu",
+    "Mohammed N Nasir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MKG4BaSieN",
+   "pdf_url": "https://openreview.net/pdf?id=MKG4BaSieN"
+  },
+  {
+   "title": "Reasoning as Gradient: Scaling MLE Agents Beyond Tree Search",
+   "authors": [
+    "Yifei Zhang",
+    "Xu Yang",
+    "Xiao Yang",
+    "Bowen Xian",
+    "Qizheng Li",
+    "Shikai Fang",
+    "Jingyuan Li",
+    "Jian Wang",
+    "Minrui Xu",
+    "Yuge Zhang",
+    "Weiqing Liu",
+    "Jiang Bian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TnjlvLY30w",
+   "pdf_url": "https://openreview.net/pdf?id=TnjlvLY30w"
+  },
+  {
+   "title": "Reasoning Cache: Learning to Extrapolate to Long Lengths via Short-Length RL",
+   "authors": [
+    "Ian Wu",
+    "Yuxiao Qu",
+    "Amrith Setlur",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DROMQyqM52",
+   "pdf_url": "https://openreview.net/pdf?id=DROMQyqM52"
+  },
+  {
+   "title": "Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space",
+   "authors": [
+    "Chengzhi Liu",
+    "Yuzhe YANG",
+    "Yue Fan",
+    "Qingyue Wei",
+    "Sheng Liu",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fWrhAOQZ5A",
+   "pdf_url": "https://openreview.net/pdf?id=fWrhAOQZ5A"
+  },
+  {
+   "title": "Reference-Guided Machine Unlearning",
+   "authors": [
+    "Jonas Mirlach",
+    "Sonia Laguna",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0IbjWHRGMC",
+   "pdf_url": "https://openreview.net/pdf?id=0IbjWHRGMC"
+  },
+  {
+   "title": "Refining Large Language Models with Self-Generated Data Through Iterative Training",
+   "authors": [
+    "Xiao Hu",
+    "Muxi Diao",
+    "Jizhi Zhang",
+    "Xin Chen",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=81P20Qg44P",
+   "pdf_url": "https://openreview.net/pdf?id=81P20Qg44P"
+  },
+  {
+   "title": "Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
+   "authors": [
+    "Lars Ankile",
+    "Zhenyu Jiang",
+    "Rocky Duan",
+    "Guanya Shi",
+    "Pieter Abbeel",
+    "Anusha Nagabandi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9m4kM3bK2b",
+   "pdf_url": "https://openreview.net/pdf?id=9m4kM3bK2b"
+  },
+  {
+   "title": "Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion",
+   "authors": [
+    "Sonia Laguna",
+    "Jorge da Silva Gonçalves",
+    "Moritz Vandenhirtz",
+    "Alain Ryser",
+    "Irene Cannistraci",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGH3Xp1lHR",
+   "pdf_url": "https://openreview.net/pdf?id=gGH3Xp1lHR"
+  },
+  {
+   "title": "Reward Hacking in Self-Improving Code Agents",
+   "authors": [
+    "Bingchen Zhao",
+    "Dhruv Srikanth",
+    "Yuxiang Wu",
+    "zhengyao jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ikrQWGgxYg",
+   "pdf_url": "https://openreview.net/pdf?id=ikrQWGgxYg"
+  },
+  {
+   "title": "RFTF: Reinforcement Fine-tuning for Vision-language-action Models with Temporal Feedback",
+   "authors": [
+    "Junyang Shu",
+    "Zhiwei Lin",
+    "Yongtao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mBgcG43j7a",
+   "pdf_url": "https://openreview.net/pdf?id=mBgcG43j7a"
+  },
+  {
+   "title": "SAGE: Self-play Adversarial Games Enhance Large Language Model Reasoning Capabilities",
+   "authors": [
+    "Saraswathy Amjith",
+    "Michael X. Wang",
+    "Jayson Lynch",
+    "Hans Gundlach",
+    "Neil Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b3dPMokQki",
+   "pdf_url": "https://openreview.net/pdf?id=b3dPMokQki"
+  },
+  {
+   "title": "SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement",
+   "authors": [
+    "Subramanyam Sahoo",
+    "Aman Chadha",
+    "Vinija Jain",
+    "Divya Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OAFPpQO0H9",
+   "pdf_url": "https://openreview.net/pdf?id=OAFPpQO0H9"
+  },
+  {
+   "title": "Self-Adapting Agents for Automating Research Coding Workflows",
+   "authors": [
+    "Balaji Dinesh Gangireddi",
+    "Aniketh Garikaparthi",
+    "Manasi Patwardhan",
+    "Arman Cohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ihcRmUkXHF",
+   "pdf_url": "https://openreview.net/pdf?id=ihcRmUkXHF"
+  },
+  {
+   "title": "Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation",
+   "authors": [
+    "Jinbang Huang",
+    "Zhiyuan Li",
+    "Yuanzhao Hu",
+    "Zhanguang Zhang",
+    "Mark Coates",
+    "Xingyue Quan",
+    "Yingxue Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8I0n20ufAy",
+   "pdf_url": "https://openreview.net/pdf?id=8I0n20ufAy"
+  },
+  {
+   "title": "Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback",
+   "authors": [
+    "Sein Kim",
+    "Sangwu Park",
+    "HongSeok Kang",
+    "Wonjoong Kim",
+    "Jimin Seo",
+    "Yeonjun In",
+    "Kanghoon Yoon",
+    "Chanyoung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KCcpSuocz0",
+   "pdf_url": "https://openreview.net/pdf?id=KCcpSuocz0"
+  },
+  {
+   "title": "Self-Evolving Language Models through Co-evolved Discriminative Rubrics",
+   "authors": [
+    "Shuyue Stella Li",
+    "Rui Xin",
+    "Yike Wang",
+    "Teng Xiao",
+    "Rulin Shao",
+    "Zoey Hao",
+    "Melanie Sclar",
+    "Faeze Brahman",
+    "Pang Wei Koh",
+    "Yulia Tsvetkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aA2PXFH2Cp",
+   "pdf_url": "https://openreview.net/pdf?id=aA2PXFH2Cp"
+  },
+  {
+   "title": "Self-Improvement via Fast Tree-search",
+   "authors": [
+    "Xinghong Fu",
+    "Aravinth Kulanthaivelu",
+    "Yutaro Yamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wZMNXHPYcO",
+   "pdf_url": "https://openreview.net/pdf?id=wZMNXHPYcO"
+  },
+  {
+   "title": "Self-Improving Clinical Reasoning via Textual Gradients",
+   "authors": [
+    "Sean Wu",
+    "Fabien Scalzo",
+    "Ira Kurtz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VOa0lDJ5Ui",
+   "pdf_url": "https://openreview.net/pdf?id=VOa0lDJ5Ui"
+  },
+  {
+   "title": "Self-Improving Vision-Language-Action Models with Data Generation via Residual RL",
+   "authors": [
+    "Wenli Xiao",
+    "Haotian Lin",
+    "Andy Peng",
+    "Haoru Xue",
+    "Tairan He",
+    "Zhengyi Luo",
+    "Yuqi Xie",
+    "Fengyuan Hu",
+    "Linxi Fan",
+    "Guanya Shi",
+    "Yuke Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=shqo2VPfc7",
+   "pdf_url": "https://openreview.net/pdf?id=shqo2VPfc7"
+  },
+  {
+   "title": "Self-Improving VLM Judges Without Human Annotations",
+   "authors": [
+    "Inna Wanyin Lin",
+    "Yushi Hu",
+    "Shuyue Stella Li",
+    "Scott Geng",
+    "Pang Wei Koh",
+    "Luke Zettlemoyer",
+    "Tim Althoff",
+    "Marjan Ghazvininejad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8hYSvUpJBA",
+   "pdf_url": "https://openreview.net/pdf?id=8hYSvUpJBA"
+  },
+  {
+   "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
+   "authors": [
+    "Abhranil Chandra",
+    "Ayush Agrawal",
+    "Arian Hosseini",
+    "Sebastian Fischmeister",
+    "Rishabh Agarwal",
+    "Navin Goyal",
+    "Aaron Courville"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oc5R3D2TfE",
+   "pdf_url": "https://openreview.net/pdf?id=Oc5R3D2TfE"
+  },
+  {
+   "title": "Simple Baselines are Competitive with Code Evolution",
+   "authors": [
+    "Yonatan Gideoni",
+    "Sebastian Risi",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QSWFqDcveB",
+   "pdf_url": "https://openreview.net/pdf?id=QSWFqDcveB"
+  },
+  {
+   "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+   "authors": [
+    "Jiaqi Liu",
+    "Yaofeng Su",
+    "Peng Xia",
+    "Siwei Han",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oYHelQ3Edd",
+   "pdf_url": "https://openreview.net/pdf?id=oYHelQ3Edd"
+  },
+  {
+   "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+   "authors": [
+    "Peng Xia",
+    "Jianwen Chen",
+    "Hanyang Wang",
+    "Jiaqi Liu",
+    "Kaide Zeng",
+    "Yu Wang",
+    "Siwei Han",
+    "Yiyang Zhou",
+    "Xujiang Zhao",
+    "Haifeng Chen",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=56D2hjARkn",
+   "pdf_url": "https://openreview.net/pdf?id=56D2hjARkn"
+  },
+  {
+   "title": "Soft Mellowmax Monte Carlo Planning",
+   "authors": [
+    "Danilo Vucetic",
+    "Gauthier Gidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SeZCSEGZTq",
+   "pdf_url": "https://openreview.net/pdf?id=SeZCSEGZTq"
+  },
+  {
+   "title": "Structure Enables Effective Self-Localization of Errors in LLMs",
+   "authors": [
+    "Ankur Samanta",
+    "Akshayaa Magesh",
+    "Ayush Jain",
+    "Kavosh Asadi",
+    "Youliang Yu",
+    "Daniel Jiang",
+    "Boris Vidolov",
+    "Kaveh Hassani",
+    "Paul Sajda",
+    "Jalaj Bhandari",
+    "Yonathan Efroni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QbL99Fyqsl",
+   "pdf_url": "https://openreview.net/pdf?id=QbL99Fyqsl"
+  },
+  {
+   "title": "TamperBench: A Systematic Framework to Stress-Test LLM Safety Under Fine-Tuning and Tampering",
+   "authors": [
+    "Saad Hossain",
+    "Tom Tseng",
+    "Punya Syon Pandey",
+    "Samanvay Vajpayee",
+    "Matthew Kowal",
+    "Nayeema Nonta",
+    "Samuel Simko",
+    "Stephen Casper",
+    "Zhijing Jin",
+    "Kellin Pelrine",
+    "Sirisha Rambhatla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=smLtz7WID0",
+   "pdf_url": "https://openreview.net/pdf?id=smLtz7WID0"
+  },
+  {
+   "title": "TangramSR: A Benchmark for Recursive Self-Improvement In Continuous Geometric Reasoning",
+   "authors": [
+    "Yikun Zong",
+    "Cheston Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5XGfbXlFmA",
+   "pdf_url": "https://openreview.net/pdf?id=5XGfbXlFmA"
+  },
+  {
+   "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
+   "authors": [
+    "Shobhita Sundaram",
+    "John Quan",
+    "Ariel Kwiatkowski",
+    "Kartik Ahuja",
+    "Yann Ollivier",
+    "Julia Kempe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HuLoDnvC29",
+   "pdf_url": "https://openreview.net/pdf?id=HuLoDnvC29"
+  },
+  {
+   "title": "Test-Time Adaptation via Many-Shot Prompting: Benefits, Limits, and Pitfalls",
+   "authors": [
+    "Shubhangi Upasani",
+    "Chen Wu",
+    "Jay Rainton",
+    "Changran Hu",
+    "Qizheng Zhang",
+    "Bo Li",
+    "Urmish Thakker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ne0s3UOzdB",
+   "pdf_url": "https://openreview.net/pdf?id=Ne0s3UOzdB"
+  },
+  {
+   "title": "Test-Time Meta-Adaptation with Self-Synthesis",
+   "authors": [
+    "Zeyneb N. Kaya",
+    "Nick Rui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G0GE1xbR0w",
+   "pdf_url": "https://openreview.net/pdf?id=G0GE1xbR0w"
+  },
+  {
+   "title": "Test-Time Self-Distillation",
+   "authors": [
+    "Jonas Hübotter",
+    "Frederike Lübeck",
+    "Lejs Deen Behric",
+    "Anton Baumann",
+    "Marco Bagatella",
+    "Daniel Marta",
+    "Ido Hakimi",
+    "Idan Shenfeld",
+    "Thomas Kleine Buening",
+    "Carlos Guestrin",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iEmRSwdzyw",
+   "pdf_url": "https://openreview.net/pdf?id=iEmRSwdzyw"
+  },
+  {
+   "title": "TextBO: Bayesian Optimization in Language Space for Eval-Efficient Self-Improving AI",
+   "authors": [
+    "Enoch H. Kang",
+    "Hema Yoganarasimhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h0XYERyeL6",
+   "pdf_url": "https://openreview.net/pdf?id=h0XYERyeL6"
+  },
+  {
+   "title": "Theory-Driven Modeling and LLM-Guided Evolution for Power System Scheduling",
+   "authors": [
+    "Zhangwushuaijun",
+    "Yikun Zong",
+    "YueYishuang",
+    "Kun Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=djdSNvWpJ7",
+   "pdf_url": "https://openreview.net/pdf?id=djdSNvWpJ7"
+  },
+  {
+   "title": "Tiny Autoregressive Recursive Models",
+   "authors": [
+    "Paulius Rauba",
+    "Claudio Fanconi",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aY5kmaNrwB",
+   "pdf_url": "https://openreview.net/pdf?id=aY5kmaNrwB"
+  },
+  {
+   "title": "Towards Execution-Grounded Automated AI Research",
+   "authors": [
+    "Chenglei Si",
+    "Zitong Yang",
+    "Yejin Choi",
+    "Emmanuel Candes",
+    "Diyi Yang",
+    "Tatsunori Hashimoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gpLJamvbsK",
+   "pdf_url": "https://openreview.net/pdf?id=gpLJamvbsK"
+  },
+  {
+   "title": "Unlocking Intrinsic Self-Reflection for LLM Preference Policy Optimization",
+   "authors": [
+    "Yu Li",
+    "Tian Lan",
+    "Zhengling Qi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0ZGL40jRKE",
+   "pdf_url": "https://openreview.net/pdf?id=0ZGL40jRKE"
+  },
+  {
+   "title": "Unrolled Policy Iteration for Tiny Recursive Models",
+   "authors": [
+    "Bahram Behzadian",
+    "Brett Daley",
+    "Gopeshh Subbaraj",
+    "Houssam Nassif"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rIzREKws05",
+   "pdf_url": "https://openreview.net/pdf?id=rIzREKws05"
+  },
+  {
+   "title": "Verifying the Verifiers: Failure Attribution for Agentic Benchmark Diagnostics and Training Data Curation",
+   "authors": [
+    "Jesse Hu",
+    "Pratyush Shukla",
+    "Ke Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iRhaK8PsuB",
+   "pdf_url": "https://openreview.net/pdf?id=iRhaK8PsuB"
+  },
+  {
+   "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+   "authors": [
+    "Dongfu Jiang",
+    "Yi Lu",
+    "Zhuofeng Li",
+    "Zhiheng Lyu",
+    "Ping Nie",
+    "Haozhe Wang",
+    "Alex Su",
+    "Hui Chen",
+    "Kai Zou",
+    "Chao Du",
+    "Tianyu Pang",
+    "Wenhu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l5QPYxMEaH",
+   "pdf_url": "https://openreview.net/pdf?id=l5QPYxMEaH"
+  },
+  {
+   "title": "Vision-Guided Iterative Refinement for Frontend Code Generation",
+   "authors": [
+    "Hannah Sansford",
+    "Derek H.C. Law",
+    "Wei Liu",
+    "Abhishek Tripathi",
+    "Niresh Agarwal",
+    "Gerrit J.J. Van den Burg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gF6jmAsbpZ",
+   "pdf_url": "https://openreview.net/pdf?id=gF6jmAsbpZ"
+  },
+  {
+   "title": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+   "authors": [
+    "Yanjiang Guo",
+    "Tony Lee",
+    "Lucy Xiaoyang Shi",
+    "Jianyu Chen",
+    "Percy Liang",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ro0eQ0ly3q",
+   "pdf_url": "https://openreview.net/pdf?id=Ro0eQ0ly3q"
+  },
+  {
+   "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+   "authors": [
+    "Yuejiang Liu",
+    "Fan Feng",
+    "Lingjing Kong",
+    "Weifeng Lu",
+    "Jinzhou Tang",
+    "XiangCheng Zhang",
+    "Kun Zhang",
+    "Kevin Murphy",
+    "Chelsea Finn",
+    "Yilun Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ajcjip0yFR",
+   "pdf_url": "https://openreview.net/pdf?id=ajcjip0yFR"
+  },
+  {
+   "title": "Your Self-Play Algorithm is Secretly an Adversarial Imitator:  Understanding LLM Self-Play through the Lens of Imitation Learning",
+   "authors": [
+    "Shangzhe Li",
+    "Xuchao Zhang",
+    "Chetan Bansal",
+    "Weitong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rL0GEyoMvE",
+   "pdf_url": "https://openreview.net/pdf?id=rL0GEyoMvE"
+  }
+ ]
+}

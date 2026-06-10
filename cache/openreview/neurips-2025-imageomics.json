@@ -1,0 +1,734 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/Imageomics",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:52.342Z",
+ "paper_count": 53,
+ "papers": [
+  {
+   "title": "A Machine Learning Framework for Automated Computational Ethology Using Markerless Pose Estimation",
+   "authors": [
+    "Prateek Verma",
+    "Minh-Hao Van",
+    "Christopher McEnaney",
+    "Amy R. Poe",
+    "Xintao Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lz8MXyzkUt",
+   "pdf_url": "https://openreview.net/pdf?id=lz8MXyzkUt"
+  },
+  {
+   "title": "A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level",
+   "authors": [
+    "John Quinto",
+    "Johanna Orsholm",
+    "Brendan Furneaux",
+    "Tommi Mononen",
+    "Ellen Nein",
+    "Tomas Roslin",
+    "Iuliia Zarubiieva",
+    "Akshita Gupta",
+    "Prajakta Darade",
+    "Scott C. Lowe",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kn8bz1ZPvE",
+   "pdf_url": "https://openreview.net/pdf?id=Kn8bz1ZPvE"
+  },
+  {
+   "title": "A Survey on Computational Pathology Foundation Models",
+   "authors": [
+    "Dong Li",
+    "Guihong Wan",
+    "Xintao Wu",
+    "Xinyu Wu",
+    "Yi He",
+    "Zhong Chen",
+    "Ninghui Hao",
+    "Chen Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7HAjOqm9jE",
+   "pdf_url": "https://openreview.net/pdf?id=7HAjOqm9jE"
+  },
+  {
+   "title": "Adapting Pretrained Vision Transformers from 2D to 3D for Cryo-ET Classification",
+   "authors": [
+    "Yuzhou Wang",
+    "Xingjian Li",
+    "Min Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Imxje9id78",
+   "pdf_url": "https://openreview.net/pdf?id=Imxje9id78"
+  },
+  {
+   "title": "Advancing Fluorescence Detection and Ranging in Scattering Media with Mixture-of-Experts and Evidential Critics",
+   "authors": [
+    "Ismail Erbas",
+    "Ferhat Demirkiran",
+    "Karthik Swaminathan",
+    "Naigang Wang",
+    "Navid Ibtehaj Nizam",
+    "Nanxue Yuan",
+    "Saif Ragab",
+    "Luis Chavez",
+    "Kaoutar El Maghraoui",
+    "Xavier Intes",
+    "Vikas Pandey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3EONQXbavN",
+   "pdf_url": "https://openreview.net/pdf?id=3EONQXbavN"
+  },
+  {
+   "title": "Artificial Intelligence for Spatial Transcriptomics: A Scoping Review of Architectures and Models",
+   "authors": [
+    "Agampreet Saini",
+    "Supragya Gandotra",
+    "Abhijit Kumar",
+    "Pratik Dutta",
+    "Tirthankar Ghosal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iEqXL74TV4",
+   "pdf_url": "https://openreview.net/pdf?id=iEqXL74TV4"
+  },
+  {
+   "title": "BarcodeMamba+: Advancing State-Space Models for Fungal Biodiversity Research",
+   "authors": [
+    "Tiancheng Gao",
+    "Scott C. Lowe",
+    "Brendan Furneaux",
+    "Angel X Chang",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wOgcLKq1Hg",
+   "pdf_url": "https://openreview.net/pdf?id=wOgcLKq1Hg"
+  },
+  {
+   "title": "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing",
+   "authors": [
+    "Fangxun Liu",
+    "S M Rayeed",
+    "Samuel Stevens",
+    "Alyson East",
+    "Cheng Hsuan Chiang",
+    "Colin Lee",
+    "Daniel Yi",
+    "Junke Yang",
+    "Tejas Naik",
+    "Ziyi Wang",
+    "Connor Kilrain",
+    "Elijah H Buckwalter",
+    "Jiacheng Hou",
+    "Saul Ibaven Bueno",
+    "Shuheng Wang",
+    "Xinyue Ma",
+    "Yifan Liu",
+    "Zhiyuan Tao",
+    "Ziheng Zhang",
+    "Eric Sokol",
+    "Michael Belitz",
+    "Sydne Record",
+    "Charles V. Stewart",
+    "Wei-Lun Chao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sBUl8YC5Bg",
+   "pdf_url": "https://openreview.net/pdf?id=sBUl8YC5Bg"
+  },
+  {
+   "title": "Benchmarking Parameter Efficient Adaptation of Vision Language Models on Pathology",
+   "authors": [
+    "Shivam Rajendra Rai Sharma",
+    "Xiaoguang Zhu",
+    "Luca Cerny Oliveira",
+    "Kartik Patwari",
+    "La Rissa Vasquez",
+    "David Garcia",
+    "Louise Nicole C. Sevilla",
+    "Brittany N Dugger",
+    "Chen-Nee Chuah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N7NtYkZfdx",
+   "pdf_url": "https://openreview.net/pdf?id=N7NtYkZfdx"
+  },
+  {
+   "title": "BenthicNet: A global compilation of seafloor images for deep learning applications",
+   "authors": [
+    "Scott C. Lowe",
+    "Benjamin Misiuk",
+    "Isaac Xu",
+    "Shakhboz Abdulazizov",
+    "Amit Robert Baroi",
+    "Vicki Ferrini",
+    "Ariell Friedman",
+    "Deborah R Hart",
+    "Daniel Ierodiaconou",
+    "Jacquomo Monk",
+    "John M. O'Brien",
+    "Elizabeth Oh",
+    "Luba Y. Reshitnyk",
+    "Chris Roelfsema",
+    "Jessica A. Sameoto",
+    "Alexandre C. G. Schimel",
+    "Craig J. Brown",
+    "Thomas Trappenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ae1syGRU1R",
+   "pdf_url": "https://openreview.net/pdf?id=Ae1syGRU1R"
+  },
+  {
+   "title": "Beyond Conventional Transformers: A Medical X-ray Attention Block for Improved Multi-Label Diagnosis",
+   "authors": [
+    "Amit Rand",
+    "Hadi Ibrahim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oYRKzgUeQW",
+   "pdf_url": "https://openreview.net/pdf?id=oYRKzgUeQW"
+  },
+  {
+   "title": "Bi-Encoder Contrastive Learning for Fingerprint and Iris Biometrics",
+   "authors": [
+    "Matthew So",
+    "Judah Goldfeder",
+    "Mark Lis",
+    "Hod Lipson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HyvNHF0Ujo",
+   "pdf_url": "https://openreview.net/pdf?id=HyvNHF0Ujo"
+  },
+  {
+   "title": "BioBench: A Blueprint to Move Beyond ImageNet for Scientific ML Benchmarks",
+   "authors": [
+    "Samuel Stevens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cLNucj0Xgg",
+   "pdf_url": "https://openreview.net/pdf?id=cLNucj0Xgg"
+  },
+  {
+   "title": "BugSR: Improving Tiny Instance Segmentation on the MassID45 Dataset",
+   "authors": [
+    "John Quinto",
+    "Scott C. Lowe",
+    "Akshita Gupta",
+    "Johanna Orsholm",
+    "Prajakta Darade",
+    "Iuliia Zarubiieva",
+    "Brendan Furneaux",
+    "Tommi Mononen",
+    "Tomas Roslin",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OYK7psfeNe",
+   "pdf_url": "https://openreview.net/pdf?id=OYK7psfeNe"
+  },
+  {
+   "title": "ChannelSFormer: A Channel Agnostic Vision Transformer for Multi-Channel Cell Painting Images",
+   "authors": [
+    "Jingwei Zhang",
+    "Srinivasan Sivanandan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yvkmihwhcj",
+   "pdf_url": "https://openreview.net/pdf?id=Yvkmihwhcj"
+  },
+  {
+   "title": "Coarse-to-Fine 3D MRI Reconstruction via 3D Neural Operators",
+   "authors": [
+    "Armeet Singh Jatyani",
+    "Jiayun Wang",
+    "Ryan Y. Lin",
+    "Valentin Duruisseaux",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aUyIydXQML",
+   "pdf_url": "https://openreview.net/pdf?id=aUyIydXQML"
+  },
+  {
+   "title": "Compressing Biology: Evaluating the Stable Diffusion VAE for Phenotypic Drug Discovery",
+   "authors": [
+    "Télio Cropsal",
+    "Rocío Mercado"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZgVGpQzmWy",
+   "pdf_url": "https://openreview.net/pdf?id=ZgVGpQzmWy"
+  },
+  {
+   "title": "Continually Adapt or Not (CAN)? A Continual Learning Benchmark of Camera Trap Species Classification over Time",
+   "authors": [
+    "Sooyoung Jeon",
+    "Zheda Mai",
+    "Hongjie Tian",
+    "Vidhi Bakshi",
+    "Lemeng Wang",
+    "Jiacheng Hou",
+    "Ping Zhang",
+    "Arpita Chowdhury",
+    "Wei-Lun Chao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jEItIzAgHs",
+   "pdf_url": "https://openreview.net/pdf?id=jEItIzAgHs"
+  },
+  {
+   "title": "DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision",
+   "authors": [
+    "Kalin Nonchev",
+    "Glib Manaiev",
+    "Viktor Koelzer",
+    "Gunnar Ratsch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hfelCgsM5T",
+   "pdf_url": "https://openreview.net/pdf?id=hfelCgsM5T"
+  },
+  {
+   "title": "DeepTracer Diffusion: A Single‐Stage Diffusion Model for Accurate Cryo-EM Backbone Segmentation",
+   "authors": [
+    "Nathaniel Jewel",
+    "Haydn Tamura",
+    "Haowen Guan",
+    "Dong Si"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9u7wp10xdd",
+   "pdf_url": "https://openreview.net/pdf?id=9u7wp10xdd"
+  },
+  {
+   "title": "DentalNet: Geometric Aware Multi-View Transformer for Occlusion Grade Prediction in Dental 3D Scans",
+   "authors": [
+    "Arnesh Batra",
+    "Arush Gumber",
+    "Vaibhav Sharma",
+    "Peemit",
+    "Rinkle Sardana",
+    "Tulika Tripathi",
+    "Anubha Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PpDLNxxeYQ",
+   "pdf_url": "https://openreview.net/pdf?id=PpDLNxxeYQ"
+  },
+  {
+   "title": "Detection in Progress - A Multimodal Segmentation-based Approach for Predicting Glioblastoma Recurrence",
+   "authors": [
+    "Harshita Kukreja",
+    "Nate Tran",
+    "Bo Liu",
+    "Tracy L Luks",
+    "Angela Jakary",
+    "Oluwaseun Adegbite",
+    "Yan Li",
+    "Annette M Molinaro",
+    "Javier E Villanueva-Meyer",
+    "Steve E Braunstein",
+    "Hui Lin",
+    "Janine Lupo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZGXyLaWMw1",
+   "pdf_url": "https://openreview.net/pdf?id=ZGXyLaWMw1"
+  },
+  {
+   "title": "Distortion-Free Registration of Whole-Slide Images via Tile-Based Refinement",
+   "authors": [
+    "Sungyun Kim",
+    "Sehoon Kim",
+    "Dong Gyun Kang",
+    "Jae Eun Song",
+    "Kwangsoo Kim",
+    "Eun Na Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WCzFsch7nf",
+   "pdf_url": "https://openreview.net/pdf?id=WCzFsch7nf"
+  },
+  {
+   "title": "Embedding cell state dynamics via contrastive learning of representations of 3D dynamic imaging datasets",
+   "authors": [
+    "Eduardo Hirata-Miyasaki",
+    "Soorya Pradeep",
+    "Ziwen Liu",
+    "Alishba Imran",
+    "Taylla Milena Theodoro",
+    "Ivan E. Ivanov",
+    "Sudip Khadka",
+    "See-Chi Lee",
+    "Michelle E Grunberg",
+    "Hunter Woosley",
+    "Madhura Bhave",
+    "Carolina Arias",
+    "Shalin B. Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDaD3KZXwI",
+   "pdf_url": "https://openreview.net/pdf?id=EDaD3KZXwI"
+  },
+  {
+   "title": "Evaluating the Utility of Sparse Autoencoders for Interpreting a Pathology Foundation Model",
+   "authors": [
+    "Nhat Minh Le",
+    "Ciyue Shen",
+    "Neel Patel",
+    "Chintan Shah",
+    "Darpan Sanghavi",
+    "Blake Martin",
+    "Alfred Eng",
+    "Harshith Padigela",
+    "Raymond Biju",
+    "Sean Grullon",
+    "Dinkar Juyal",
+    "Syed Ashar Javed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=77K26lqvWV",
+   "pdf_url": "https://openreview.net/pdf?id=77K26lqvWV"
+  },
+  {
+   "title": "Exploring simulators for particle picking in cryo-electron tomography",
+   "authors": [
+    "Serena Maria Arghittu",
+    "Lars Dingeldein",
+    "Geoffrey Woollard",
+    "Lingli Kong",
+    "Magnus Petersen",
+    "Sonya M Hanson",
+    "Roberto Covino",
+    "Pilar Cossio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H3y30s3MB8",
+   "pdf_url": "https://openreview.net/pdf?id=H3y30s3MB8"
+  },
+  {
+   "title": "FaceTTD: Time-to-Death from Imageomic Facial Time Series for Rapid Mortality Risk Profiling and Longevity Interventions",
+   "authors": [
+    "Saleem Abdul Fattah Ahmed Al Dajani",
+    "Dmitrii Glubokov",
+    "Alexander Tyshkovskiy",
+    "John R Williams",
+    "Jesse R. Poganik",
+    "Omar Abudayyeh",
+    "Jonathan S. Gootenberg",
+    "Vadim N. Gladyshev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dS7H27vww8",
+   "pdf_url": "https://openreview.net/pdf?id=dS7H27vww8"
+  },
+  {
+   "title": "From Pixels to Pregnancies: AI-Driven Oocyte Grading for Scalable Livestock Breeding",
+   "authors": [
+    "Parkash Singh",
+    "Grace Koppelman",
+    "Tanya Berger-Wolf",
+    "John Patrick Fulton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QQKuW0PqWM",
+   "pdf_url": "https://openreview.net/pdf?id=QQKuW0PqWM"
+  },
+  {
+   "title": "Geometric Shape Matching for Explainable and Accurate Medical Image Segmentation: A Post-Processing Refinement Framework",
+   "authors": [
+    "Ruhaib Muhammad",
+    "Shivaram V",
+    "Jey Praveen Sivaraj",
+    "Dhiraj Gambhire",
+    "Lakshmi Subramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0t5zX5xF2E",
+   "pdf_url": "https://openreview.net/pdf?id=0t5zX5xF2E"
+  },
+  {
+   "title": "Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution",
+   "authors": [
+    "Mridul Khurana",
+    "Arka Daw",
+    "M. Maruf",
+    "Josef Uyeda",
+    "Wasila Dahdul",
+    "Caleb Patrick Charpentier",
+    "Yasin Bakis",
+    "Henry Bart",
+    "Paula Mabee",
+    "Hilmar Lapp",
+    "James Balhoff",
+    "Wei-Lun Chao",
+    "Charles V. Stewart",
+    "Tanya Berger-Wolf",
+    "Anuj Karpatne"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qq9PmjUpAI",
+   "pdf_url": "https://openreview.net/pdf?id=qq9PmjUpAI"
+  },
+  {
+   "title": "Hybrid Diffusion Model for Breast Ultrasound Image Augmentation",
+   "authors": [
+    "Farhan Fuad Abir",
+    "Sanjeda Sara Jennifer",
+    "Niloofar Yousefi",
+    "Laura Brattain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k6JP7Mj0yu",
+   "pdf_url": "https://openreview.net/pdf?id=k6JP7Mj0yu"
+  },
+  {
+   "title": "Hyperbolic Few-Shot Learning for Taxonomic Plant Classification",
+   "authors": [
+    "Mithil Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7F9ObzcT7I",
+   "pdf_url": "https://openreview.net/pdf?id=7F9ObzcT7I"
+  },
+  {
+   "title": "Hyperbolic Multimodal Representation Learning for Biological Taxonomies",
+   "authors": [
+    "ZeMing Gong",
+    "Chuanqi Tang",
+    "Xiaoliang Huo",
+    "Nicholas Pellegrino",
+    "Austin Wang",
+    "Graham W. Taylor",
+    "Angel X Chang",
+    "Scott C. Lowe",
+    "Joakim Bruslund Haurum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NkXQxYGu18",
+   "pdf_url": "https://openreview.net/pdf?id=NkXQxYGu18"
+  },
+  {
+   "title": "Investigating dynamics of Neural Cellular Automata applied to image data in diverse complex systems",
+   "authors": [
+    "Vaibhav Mahajan",
+    "Soumya Banerjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OEPtIlPOaq",
+   "pdf_url": "https://openreview.net/pdf?id=OEPtIlPOaq"
+  },
+  {
+   "title": "L$^3$Seg: $\\underline{\\mathrm{L}}$ean $\\underline{\\mathrm{L}}$inear $\\underline{\\mathrm{L}}$ayers for Language-Guided Vision Transformer in Medical Image Segmentation",
+   "authors": [
+    "Rahul Bhardwaj",
+    "Utkarsh Yashwant Tambe",
+    "Debanga Raj Neog"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x3kc2dcFIj",
+   "pdf_url": "https://openreview.net/pdf?id=x3kc2dcFIj"
+  },
+  {
+   "title": "Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy",
+   "authors": [
+    "Dimitar Georgiev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UR3t6eGxxP",
+   "pdf_url": "https://openreview.net/pdf?id=UR3t6eGxxP"
+  },
+  {
+   "title": "Leveraging Model-Generated Annotations for Nuclei Segmentation in Computational Pathology",
+   "authors": [
+    "Christopher Hendra",
+    "Charlene Zhi Lin Ong",
+    "Asad Abu Bakar Ali",
+    "Desiree Abdurrachim",
+    "Shubing Wang",
+    "richard baumgartner",
+    "Kelvin Kian Long Chong",
+    "Chih-Liang Chin Chin",
+    "Michelle Ngo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xxU08XHsEP",
+   "pdf_url": "https://openreview.net/pdf?id=xxU08XHsEP"
+  },
+  {
+   "title": "Mapping Cell Morphology to a Standard Coordinate System for Analyzing Dynamic Cell Signaling",
+   "authors": [
+    "Shiqiu Yu",
+    "Gaudenz Danuser",
+    "Felix Yuran Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jUmTewPzII",
+   "pdf_url": "https://openreview.net/pdf?id=jUmTewPzII"
+  },
+  {
+   "title": "MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation",
+   "authors": [
+    "Meilong Xu",
+    "Xiaoling Hu",
+    "Shahira Abousamra",
+    "Chen Li",
+    "Chao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S4uqMVNszC",
+   "pdf_url": "https://openreview.net/pdf?id=S4uqMVNszC"
+  },
+  {
+   "title": "Mind the (Data) Gap: Evaluating Vision Systems in Small Data Applications",
+   "authors": [
+    "Samuel Stevens",
+    "S M Rayeed",
+    "Jenna Marie Kline"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lw8nSUiDtK",
+   "pdf_url": "https://openreview.net/pdf?id=lw8nSUiDtK"
+  },
+  {
+   "title": "Novel Finetuning Strategies for Adapting Biomedical Vision Language Models to Organ-Centered Pathology Microscopy Tasks",
+   "authors": [
+    "Siddharth Venkatesh",
+    "Benjamin Liu",
+    "Ayman Sheikh",
+    "Anne Essien Essien",
+    "Pratibh",
+    "Rayhan Roswendi",
+    "Jeremiah Zhang",
+    "Kevin Zhu",
+    "Sunishchal Dev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VcRUAT5G8I",
+   "pdf_url": "https://openreview.net/pdf?id=VcRUAT5G8I"
+  },
+  {
+   "title": "On Thin Ice: Towards Explainable Conservation Monitoring via Attribution and Perturbations",
+   "authors": [
+    "Jiayi Zhou",
+    "Gunel Aghakishiyeva",
+    "Saagar Arya",
+    "Julian Dale",
+    "James David Poling",
+    "Holly R. Houliston",
+    "Jamie N. Womble",
+    "Gregory D Larsen",
+    "David W. Johnston",
+    "Brinnae Bent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3ULiJJXhb7",
+   "pdf_url": "https://openreview.net/pdf?id=3ULiJJXhb7"
+  },
+  {
+   "title": "Photorealistic Inpainting for Perturbation-based Explanations in Ecological Monitoring",
+   "authors": [
+    "Gunel Aghakishiyeva",
+    "Jiayi Zhou",
+    "Saagar Arya",
+    "Julian Dale",
+    "James David Poling",
+    "Holly R. Houliston",
+    "Jamie N. Womble",
+    "Gregory D Larsen",
+    "David W. Johnston",
+    "Brinnae Bent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GewBxowxG3",
+   "pdf_url": "https://openreview.net/pdf?id=GewBxowxG3"
+  },
+  {
+   "title": "Probing the lighting sensitivity of image encoders with repeat drone imagery: A case study of plant height estimation",
+   "authors": [
+    "Kyle Doherty",
+    "Max A Gurinas",
+    "Brandon Trabucco",
+    "Ruslan Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vMyZFw6Dnj",
+   "pdf_url": "https://openreview.net/pdf?id=vMyZFw6Dnj"
+  },
+  {
+   "title": "ProteinPNet: Prototypical Part Networks for Concept Learning in Spatial Proteomics",
+   "authors": [
+    "Louis McConnell",
+    "Jieran Sun",
+    "Theo Maffei",
+    "Raphael Gottardo",
+    "Marianna Rapsomaniki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W9u8yCwFWU",
+   "pdf_url": "https://openreview.net/pdf?id=W9u8yCwFWU"
+  },
+  {
+   "title": "Saliency Guided Longitudinal Medical Visual Question Answering",
+   "authors": [
+    "Jialin Wu",
+    "Xiaofeng Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qw5bf5WG8M",
+   "pdf_url": "https://openreview.net/pdf?id=Qw5bf5WG8M"
+  },
+  {
+   "title": "Scalable Rigid-Invariant Distance for Shape Matching and Alignment",
+   "authors": [
+    "Zakk Heile",
+    "Peilin He",
+    "Jayson Tran",
+    "Ruiling Wang",
+    "Shrikant Chand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yxZmNuLwa3",
+   "pdf_url": "https://openreview.net/pdf?id=yxZmNuLwa3"
+  },
+  {
+   "title": "Simulation-based inference of yeast centromeres",
+   "authors": [
+    "Eloïse Touron",
+    "Pedro L. C. Rodrigues",
+    "Julyan Arbel",
+    "Nelle Varoquaux",
+    "Michael Arbel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EMPDGiBY2e",
+   "pdf_url": "https://openreview.net/pdf?id=EMPDGiBY2e"
+  },
+  {
+   "title": "SmartWilds: Multimodal Wildlife Monitoring Dataset",
+   "authors": [
+    "Jenna Marie Kline",
+    "Anirudh Potlapally",
+    "Tanishka Wani",
+    "Vedant Yuvraj Patil",
+    "Penelope Covey",
+    "Rugved Katole",
+    "Samuel Stevens",
+    "Hari Subramoni",
+    "Tanya Berger-Wolf",
+    "Christopher Stewart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vvtfHNlPxu",
+   "pdf_url": "https://openreview.net/pdf?id=vvtfHNlPxu"
+  },
+  {
+   "title": "Structural MRI–Informed Multimodal Fusion for Robust Alzheimer’s Disease Prediction",
+   "authors": [
+    "Juhyun Lee",
+    "Sungjoon Park",
+    "Kyungwook Lee",
+    "Soorin Yim",
+    "Doyeong Hwang",
+    "Dongyun Kim",
+    "Kiwoong Yoo",
+    "Soonyoung Lee",
+    "Kiyoung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=agdKRJpBZK",
+   "pdf_url": "https://openreview.net/pdf?id=agdKRJpBZK"
+  },
+  {
+   "title": "Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data",
+   "authors": [
+    "Minyoung E. Kim",
+    "Dae Hee Yun",
+    "Aditi V Patel",
+    "Madeline Hon",
+    "Taegeon Lee",
+    "Webster Guan",
+    "Brian Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dbAWcPqp1M",
+   "pdf_url": "https://openreview.net/pdf?id=dbAWcPqp1M"
+  },
+  {
+   "title": "Trait2Vec: Ontology-aware embeddings for organismal trait descriptions",
+   "authors": [
+    "Juan Jose Garcia",
+    "James Balhoff",
+    "Hilmar Lapp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H6M2gVJcyT",
+   "pdf_url": "https://openreview.net/pdf?id=H6M2gVJcyT"
+  },
+  {
+   "title": "Vision Transformer Autoencoders for Unsupervised Representation Learning: Revealing Novel Genetic Associations through Learned Sparse Attention Patterns",
+   "authors": [
+    "Samia Islam",
+    "Tian Xia",
+    "Ziqian Xie",
+    "Degui Zhi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDMXjgQlMi",
+   "pdf_url": "https://openreview.net/pdf?id=EDMXjgQlMi"
+  }
+ ]
+}

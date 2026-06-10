@@ -1,0 +1,297 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/MemFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:55.500Z",
+ "paper_count": 25,
+ "papers": [
+  {
+   "title": "A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective",
+   "authors": [
+    "Lianghe Shi",
+    "Meng Wu",
+    "Huijie Zhang",
+    "Zekai Zhang",
+    "Molei Tao",
+    "Qing Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vvwpY99gXj",
+   "pdf_url": "https://openreview.net/pdf?id=vvwpY99gXj"
+  },
+  {
+   "title": "An Empirical Exploration of Continual Unlearning for Image Generation",
+   "authors": [
+    "Justin Lee",
+    "Zheda Mai",
+    "Chongyu Fan",
+    "Wei-Lun Chao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b6OWf5ViEW",
+   "pdf_url": "https://openreview.net/pdf?id=b6OWf5ViEW"
+  },
+  {
+   "title": "Are Samples Extracted From Large Language Models Memorized?",
+   "authors": [
+    "Chawin Sitawarin",
+    "Karan Chadha",
+    "John Xavier Morris",
+    "Saeed Mahloujifar",
+    "Chuan Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q8T06elUdQ",
+   "pdf_url": "https://openreview.net/pdf?id=q8T06elUdQ"
+  },
+  {
+   "title": "Bigger Isn’t Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+   "authors": [
+    "Alessandro Favero",
+    "Antonio Sclocchi",
+    "Matthieu Wyart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MyxAwlMg3f",
+   "pdf_url": "https://openreview.net/pdf?id=MyxAwlMg3f"
+  },
+  {
+   "title": "ContextLeak: Auditing Leakage in Private In-Context Learning Methods",
+   "authors": [
+    "Jacob Choi",
+    "Shuying Cao",
+    "Xingjian Dong",
+    "Sai Praneeth Karimireddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IwSJz7y7Pg",
+   "pdf_url": "https://openreview.net/pdf?id=IwSJz7y7Pg"
+  },
+  {
+   "title": "Counterfactual Influence as a Distributional Quantity",
+   "authors": [
+    "Matthieu Meeus",
+    "Igor Shilov",
+    "Georgios Kaissis",
+    "Yves-Alexandre de Montjoye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AOaRGsxBGQ",
+   "pdf_url": "https://openreview.net/pdf?id=AOaRGsxBGQ"
+  },
+  {
+   "title": "Early-stopping Too Late? Traces of Memorization Before Overfitting in Generative Diffusion",
+   "authors": [
+    "Jerome Garnier-Brun",
+    "Luca Biggio",
+    "Marc Mezard",
+    "Luca Saglietti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SIgcXg5CE",
+   "pdf_url": "https://openreview.net/pdf?id=7SIgcXg5CE"
+  },
+  {
+   "title": "Evaluating Memorization in Parameter-Efficient Fine-tuning",
+   "authors": [
+    "Sanghyun Hong",
+    "Nicholas Carlini",
+    "Alexey Kurakin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WV82aVnG54",
+   "pdf_url": "https://openreview.net/pdf?id=WV82aVnG54"
+  },
+  {
+   "title": "GenAI Copyright Evidence with Operational Meaning",
+   "authors": [
+    "Eli Chien",
+    "Amit Saha",
+    "Yinan Huang",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OuZQSnPIBY",
+   "pdf_url": "https://openreview.net/pdf?id=OuZQSnPIBY"
+  },
+  {
+   "title": "How Can I Publish My LLM Benchmark Without Giving the True Answers Away?",
+   "authors": [
+    "Takashi Ishida",
+    "Thanawat Lodkaew",
+    "Ikko Yamane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LSNdTt2SIY",
+   "pdf_url": "https://openreview.net/pdf?id=LSNdTt2SIY"
+  },
+  {
+   "title": "Knowledge‑Distilled Memory Editing for Plug‑and‑Play LLM Alignment",
+   "authors": [
+    "Haozheng Luo",
+    "Jiahao Yu",
+    "Wenxin Zhang",
+    "Jialong Li",
+    "Jerry Yao-Chieh Hu",
+    "Yan Chen",
+    "Binghui Wang",
+    "Xinyu Xing",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p5zaXPgMvh",
+   "pdf_url": "https://openreview.net/pdf?id=p5zaXPgMvh"
+  },
+  {
+   "title": "Language models’ activations linearly encode training-order recency",
+   "authors": [
+    "Dmitrii Krasheninnikov",
+    "Richard E. Turner",
+    "David Krueger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oUOg50iFL1",
+   "pdf_url": "https://openreview.net/pdf?id=oUOg50iFL1"
+  },
+  {
+   "title": "Localizing and Mitigating Memorization in Image Autoregressive Models",
+   "authors": [
+    "Aditya Kasliwal",
+    "Franziska Boenisch",
+    "Adam Dziedzic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G4EKAFzMIs",
+   "pdf_url": "https://openreview.net/pdf?id=G4EKAFzMIs"
+  },
+  {
+   "title": "Low Resource Reconstruction Attacks Through Benign Prompts",
+   "authors": [
+    "Sol Yarkoni",
+    "Roi Livni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zZ2F3Gfish",
+   "pdf_url": "https://openreview.net/pdf?id=zZ2F3Gfish"
+  },
+  {
+   "title": "Low-Rank Adaptation Secretly Imitates Differentially Private SGD",
+   "authors": [
+    "Saber Malekmohammadi",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vsLkyuo6M5",
+   "pdf_url": "https://openreview.net/pdf?id=vsLkyuo6M5"
+  },
+  {
+   "title": "MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression",
+   "authors": [
+    "Gunjan Dhanuka",
+    "Sumukh K Aithal",
+    "Avi Schwarzschild",
+    "Zhili Feng",
+    "J Zico Kolter",
+    "Zachary Chase Lipton",
+    "Pratyush Maini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DLLiIysdXf",
+   "pdf_url": "https://openreview.net/pdf?id=DLLiIysdXf"
+  },
+  {
+   "title": "Mirage of Mastery: Memorization Tricks LLMs into Artificially Inflated Self-Knowledge",
+   "authors": [
+    "Sahil Kale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7WrTaEZnDo",
+   "pdf_url": "https://openreview.net/pdf?id=7WrTaEZnDo"
+  },
+  {
+   "title": "Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs",
+   "authors": [
+    "Thierry Bossy",
+    "Julien Tuấn Tú Vignoud",
+    "Tahseen Rabbani",
+    "Juan R. Troncoso Pastoriza",
+    "Martin Jaggi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LpE7gf46yO",
+   "pdf_url": "https://openreview.net/pdf?id=LpE7gf46yO"
+  },
+  {
+   "title": "OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics",
+   "authors": [
+    "Vineeth Dorna",
+    "Anmol Mekala",
+    "Wenlong Zhao",
+    "Andrew McCallum",
+    "J Zico Kolter",
+    "Zachary Chase Lipton",
+    "Pratyush Maini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K00sxDnBBd",
+   "pdf_url": "https://openreview.net/pdf?id=K00sxDnBBd"
+  },
+  {
+   "title": "OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature",
+   "authors": [
+    "Alisha Srivastava",
+    "Emir Kaan Korukluoglu",
+    "Minh Nhat Le",
+    "Duyen Tran",
+    "Chau Minh Pham",
+    "Marzena Karpinska",
+    "Mohit Iyyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DPWQXI88Cf",
+   "pdf_url": "https://openreview.net/pdf?id=DPWQXI88Cf"
+  },
+  {
+   "title": "ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data",
+   "authors": [
+    "Tong Chen",
+    "Faeze Brahman",
+    "Jiacheng Liu",
+    "Niloofar Mireshghallah",
+    "Weijia Shi",
+    "Pang Wei Koh",
+    "Luke Zettlemoyer",
+    "Hannaneh Hajishirzi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RcgdSlurDI",
+   "pdf_url": "https://openreview.net/pdf?id=RcgdSlurDI"
+  },
+  {
+   "title": "Personal Information Parroting in Language Models",
+   "authors": [
+    "Nishant Subramani",
+    "Kshitish Ghate",
+    "Mona T. Diab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qIsySfH4Br",
+   "pdf_url": "https://openreview.net/pdf?id=qIsySfH4Br"
+  },
+  {
+   "title": "Rethinking Memorization Measures in LLMs: Recollection vs. Counterfactual vs. Contextual Memorization",
+   "authors": [
+    "Bishwamittra Ghosh",
+    "Soumi Das",
+    "Qinyuan Wu",
+    "Mohammad Aflah Khan",
+    "Krishna P. Gummadi",
+    "Evimaria Terzi",
+    "Deepak Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c6nqmjfG1Y",
+   "pdf_url": "https://openreview.net/pdf?id=c6nqmjfG1Y"
+  },
+  {
+   "title": "Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs",
+   "authors": [
+    "Qinyuan Wu",
+    "Soumi Das",
+    "Mahsa Amani",
+    "Bishwamittra Ghosh",
+    "Mohammad Aflah Khan",
+    "Krishna P. Gummadi",
+    "Muhammad Bilal Zafar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vNOA396J3q",
+   "pdf_url": "https://openreview.net/pdf?id=vNOA396J3q"
+  },
+  {
+   "title": "Trade-offs in Data Memorization via Strong Data Processing Inequalities",
+   "authors": [
+    "Vitaly Feldman",
+    "Guy Kornowski",
+    "Xin Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZHILHIDGP",
+   "pdf_url": "https://openreview.net/pdf?id=TZHILHIDGP"
+  }
+ ]
+}

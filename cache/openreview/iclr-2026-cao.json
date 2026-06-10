@@ -1,0 +1,838 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/CAO",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:05.189Z",
+ "paper_count": 74,
+ "papers": [
+  {
+   "title": "A Credal-Set Perspective on Task-Induced Distributional Drift in Text Generation",
+   "authors": [
+    "Esteban Garces Arias"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OzhrGQvJpO",
+   "pdf_url": "https://openreview.net/pdf?id=OzhrGQvJpO"
+  },
+  {
+   "title": "A Geometry-Based View of Mahalanobis OOD Detection",
+   "authors": [
+    "Denis Janiak",
+    "Jakub Binkowski",
+    "Tomasz Jan Kajdanowicz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=do43YOclh0",
+   "pdf_url": "https://openreview.net/pdf?id=do43YOclh0"
+  },
+  {
+   "title": "Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation",
+   "authors": [
+    "Anthony Kobanda",
+    "Waris Radji",
+    "Odalric-Ambrym Maillard",
+    "Rémy Portelas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b5kSz2P5B6",
+   "pdf_url": "https://openreview.net/pdf?id=b5kSz2P5B6"
+  },
+  {
+   "title": "Approximating Function Space Distance  for Continual Learning in Transformers",
+   "authors": [
+    "Nikita Dhawan",
+    "Felix Dangel",
+    "Roger Baker Grosse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tFo9YPiVNF",
+   "pdf_url": "https://openreview.net/pdf?id=tFo9YPiVNF"
+  },
+  {
+   "title": "Beyond Accuracy: Evaluating Visual Grounding in Multimodal Medical Reasoning",
+   "authors": [
+    "Anas Zafar",
+    "Leema Krishna Murali",
+    "Ashish Vashist"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YGDQwBFwVm",
+   "pdf_url": "https://openreview.net/pdf?id=YGDQwBFwVm"
+  },
+  {
+   "title": "CAdam: Confidence-Based Optimization for Online Learning",
+   "authors": [
+    "Shaowen Wang",
+    "ANAN LIU",
+    "Jian Xiao",
+    "Yuekui Yang",
+    "Huan Liu",
+    "Suncong Zheng",
+    "Wei Zhang",
+    "Cong Xu",
+    "Di Wang",
+    "Huan Yu",
+    "Jie Jiang",
+    "Jian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sDoj1LuNlZ",
+   "pdf_url": "https://openreview.net/pdf?id=sDoj1LuNlZ"
+  },
+  {
+   "title": "Can Linear Probes Effectively Measure LLM Uncertainty ?",
+   "authors": [
+    "Ramzi Dakhmouche",
+    "Adrien Letellier",
+    "Hossein Gorji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=88wsRCxW5C",
+   "pdf_url": "https://openreview.net/pdf?id=88wsRCxW5C"
+  },
+  {
+   "title": "CAO-LLM: Catching, Adapting and Operating Under Distribution Drift for Large Language Models",
+   "authors": [
+    "Nitin Vetcha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CcRr1TTmYZ",
+   "pdf_url": "https://openreview.net/pdf?id=CcRr1TTmYZ"
+  },
+  {
+   "title": "Capacity and Redundancy Trade-offs in Multi-Task Learning",
+   "authors": [
+    "Asif Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bRxdN43ItK",
+   "pdf_url": "https://openreview.net/pdf?id=bRxdN43ItK"
+  },
+  {
+   "title": "CATS:  Conformalized Adaptive Test-Time Scaling",
+   "authors": [
+    "Mohammad Sadegh Akhondzadeh",
+    "Soroush H. Zargarbashi",
+    "Simone Antonelli",
+    "Aleksandar Bojchevski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mXuUomGc0I",
+   "pdf_url": "https://openreview.net/pdf?id=mXuUomGc0I"
+  },
+  {
+   "title": "Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples",
+   "authors": [
+    "Shiva Sreeram",
+    "Alaa Maalouf",
+    "Pratyusha Sharma",
+    "Daniela Rus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TX4AUEtvS7",
+   "pdf_url": "https://openreview.net/pdf?id=TX4AUEtvS7"
+  },
+  {
+   "title": "CROSS-LINGUAL FAIRNESS DRIFT IN LLM MORAL REASONING",
+   "authors": [
+    "Ethan Xie",
+    "Aidan Chang-Lee",
+    "Avyukth Harish",
+    "Archana Vaidheeswaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TReuRWFTyK",
+   "pdf_url": "https://openreview.net/pdf?id=TReuRWFTyK"
+  },
+  {
+   "title": "Detecting Distributional Drift in Transformers Through Representation Dynamics",
+   "authors": [
+    "Aakash Patil",
+    "Mrunmayee Shende"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Euz6u64IR6",
+   "pdf_url": "https://openreview.net/pdf?id=Euz6u64IR6"
+  },
+  {
+   "title": "DISCO: Diversifying Sample Condensation for Efficient Model Evaluation",
+   "authors": [
+    "Alexander Rubinstein",
+    "Benjamin Raible",
+    "Martin Gubri",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ottquJMiy1",
+   "pdf_url": "https://openreview.net/pdf?id=ottquJMiy1"
+  },
+  {
+   "title": "Drift ≠ Error: Reliability Analysis of Agricultural Foundation Models Under Distribution Shift",
+   "authors": [
+    "Shayan Nejadshamsi",
+    "Vahab Khoshdel",
+    "Brock Porth",
+    "Shadi Zaki",
+    "Yuanyuan Zhang",
+    "Lysa Porth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tpkE5ALuHt",
+   "pdf_url": "https://openreview.net/pdf?id=tpkE5ALuHt"
+  },
+  {
+   "title": "Drift-Aware Uncertainty Quantification via a Functional Spectral-Newton Method",
+   "authors": [
+    "Thiago Ramos",
+    "Alek Fröhlich",
+    "Daniel Perazzo",
+    "Massimiliano Pontil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8CXoyFIV85",
+   "pdf_url": "https://openreview.net/pdf?id=8CXoyFIV85"
+  },
+  {
+   "title": "Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates",
+   "authors": [
+    "Ismail Lamaakal",
+    "Chaymae Yahyati",
+    "Khalid El Makkaoui",
+    "Ibrahim Ouahbi",
+    "Yassine Maleh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tcUgT2jE5W",
+   "pdf_url": "https://openreview.net/pdf?id=tcUgT2jE5W"
+  },
+  {
+   "title": "Duration Aware Scheduling for ASR Serving Under Workload Drift",
+   "authors": [
+    "Darshan Makwana",
+    "Yash Jogi",
+    "Harsh Kotta",
+    "Aayush Kubba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Xnnby6m8M",
+   "pdf_url": "https://openreview.net/pdf?id=0Xnnby6m8M"
+  },
+  {
+   "title": "Efficient Dataset Selection for Continual Adaptation of Generative Recommenders",
+   "authors": [
+    "Cathy Jiao",
+    "Juan Elenter",
+    "Praveen Chandar",
+    "Bernd Huber",
+    "Joseph Cauteruccio",
+    "Todd Wasson",
+    "Timothy Christopher Heath",
+    "Chenyan Xiong",
+    "Mounia Lalmas",
+    "Paul N. Bennett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xN0Sd0lA1a",
+   "pdf_url": "https://openreview.net/pdf?id=xN0Sd0lA1a"
+  },
+  {
+   "title": "Emergent Misalignment: Tracking the Emergence and Evolution of Misaligned traits throughout Model Training",
+   "authors": [
+    "Geunwoo Park",
+    "Pranay Chauhan",
+    "Haihao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WRGU3eEvBj",
+   "pdf_url": "https://openreview.net/pdf?id=WRGU3eEvBj"
+  },
+  {
+   "title": "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving",
+   "authors": [
+    "Mihaela-Larisa Clement",
+    "Mónika Farsang",
+    "Mihai-Teodor Stanusoiu",
+    "Ramin Hasani",
+    "Daniela Rus",
+    "Radu Grosu",
+    "Ezio Bartocci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=00k7BU3c6B",
+   "pdf_url": "https://openreview.net/pdf?id=00k7BU3c6B"
+  },
+  {
+   "title": "Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems",
+   "authors": [
+    "Raad Khraishi",
+    "Iman Zafar",
+    "Katie Myles",
+    "Greig A Cowan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bhi0hiRxX2",
+   "pdf_url": "https://openreview.net/pdf?id=Bhi0hiRxX2"
+  },
+  {
+   "title": "Evi-BALD: Bayesian Active Learning by Disagreement via Evidential Deep Learning",
+   "authors": [
+    "Minghao Li",
+    "Weishi Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nNzRC6lonX",
+   "pdf_url": "https://openreview.net/pdf?id=nNzRC6lonX"
+  },
+  {
+   "title": "Explainability of predictive uncertainty models under drift in the telecom domain",
+   "authors": [
+    "Nagesh Walchatwar",
+    "Alberto Hata",
+    "Ajay Kattepur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Mq3crE426",
+   "pdf_url": "https://openreview.net/pdf?id=9Mq3crE426"
+  },
+  {
+   "title": "FedAgree: Leveraging Federated Checkpoints for Label-Free OOD Evaluation via Agreement",
+   "authors": [
+    "Giuseppe Serra",
+    "Ben Werner",
+    "Florian Buettner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cg5Cr8U4Tt",
+   "pdf_url": "https://openreview.net/pdf?id=cg5Cr8U4Tt"
+  },
+  {
+   "title": "Hidden-Layer Self-Distillation Yields Drift-Resilient Visual Representations",
+   "authors": [
+    "Scott C. Lowe",
+    "Anthony Fuller",
+    "Sageev Oore",
+    "Graham W. Taylor",
+    "Evan Shelhamer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pa3zBGDMAd",
+   "pdf_url": "https://openreview.net/pdf?id=pa3zBGDMAd"
+  },
+  {
+   "title": "Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings",
+   "authors": [
+    "Yuning Wu",
+    "Ke Wang",
+    "Devin Chen",
+    "Kai Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=86xIZZ9lnT",
+   "pdf_url": "https://openreview.net/pdf?id=86xIZZ9lnT"
+  },
+  {
+   "title": "Hyperspherical Filtering for Online Classification under Drift",
+   "authors": [
+    "David Boekestijn",
+    "Mona Schirmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YFxnTDpYZE",
+   "pdf_url": "https://openreview.net/pdf?id=YFxnTDpYZE"
+  },
+  {
+   "title": "In-Context Adaptation",
+   "authors": [
+    "Yongqiang Chen",
+    "Chenxi Liu",
+    "Qingyi Guo",
+    "Bo Han",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6deyHb7S8e",
+   "pdf_url": "https://openreview.net/pdf?id=6deyHb7S8e"
+  },
+  {
+   "title": "Layer by layer, module by module: Choose both for optimal OOD probing of ViT",
+   "authors": [
+    "Ambroise Odonnat",
+    "Vasilii Feofanov",
+    "Laetitia Chapel",
+    "Romain Tavenard",
+    "Ievgen Redko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4lT3aScsRJ",
+   "pdf_url": "https://openreview.net/pdf?id=4lT3aScsRJ"
+  },
+  {
+   "title": "Lifting the Veil of Non-Stationarity in Financial Market",
+   "authors": [
+    "Vincent Fu",
+    "Xinxin Xu",
+    "Weichen Xu",
+    "Ruilong Ren",
+    "Bowen Deng",
+    "Xinyu Zhao",
+    "Jian Cao",
+    "Xixin Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4mp4Ywpajk",
+   "pdf_url": "https://openreview.net/pdf?id=4mp4Ywpajk"
+  },
+  {
+   "title": "Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning",
+   "authors": [
+    "Zhangjie Xia",
+    "Yu Yang",
+    "Pan Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8qQwXDeLp8",
+   "pdf_url": "https://openreview.net/pdf?id=8qQwXDeLp8"
+  },
+  {
+   "title": "Locally Adaptive Multi-Objective Learning",
+   "authors": [
+    "Jivat Neet Kaur",
+    "Isaac Gibbs",
+    "Michael I. Jordan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YwtBhJjWwQ",
+   "pdf_url": "https://openreview.net/pdf?id=YwtBhJjWwQ"
+  },
+  {
+   "title": "LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics",
+   "authors": [
+    "Farhan Ahmed",
+    "Yuya Jeremy Ong",
+    "Chad DeLuca"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QXY6eXhls9",
+   "pdf_url": "https://openreview.net/pdf?id=QXY6eXhls9"
+  },
+  {
+   "title": "LookSharp: Attention Entropy Minimization for Test-Time Adaptation",
+   "authors": [
+    "Yash Mali",
+    "Evan Shelhamer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cdovKF0qxw",
+   "pdf_url": "https://openreview.net/pdf?id=cdovKF0qxw"
+  },
+  {
+   "title": "Loss Smoothing for Continual Adaptation",
+   "authors": [
+    "Darshan Patil",
+    "Ekaterina Lobacheva",
+    "Razvan Pascanu",
+    "Sarath Chandar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pUqcOkV69j",
+   "pdf_url": "https://openreview.net/pdf?id=pUqcOkV69j"
+  },
+  {
+   "title": "Manifold-Aware Temporal Domain Generalization for Large Language Models",
+   "authors": [
+    "Yiheng YAO",
+    "Zekun Cai",
+    "Xinyuan Song",
+    "Hiroki Hill Kobayashi",
+    "Xuan Song",
+    "Ryosuke Shibasaki",
+    "Liang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kge4iwnUhO",
+   "pdf_url": "https://openreview.net/pdf?id=Kge4iwnUhO"
+  },
+  {
+   "title": "Measuring Control Intervention Awareness Across Frontier LLMs",
+   "authors": [
+    "Joachim Schaeffer",
+    "Thomas Jiralerspong",
+    "Alexander Panfilov",
+    "Roland S. Zimmermann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gCzFYQuJke",
+   "pdf_url": "https://openreview.net/pdf?id=gCzFYQuJke"
+  },
+  {
+   "title": "Network System Forecasting Despite Topology Shift",
+   "authors": [
+    "Ramzi Dakhmouche",
+    "Ivan Lunati",
+    "Hossein Gorji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7NE8FsgXhZ",
+   "pdf_url": "https://openreview.net/pdf?id=7NE8FsgXhZ"
+  },
+  {
+   "title": "Noise-Response Calibration: A Causal Intervention Protocol for LLM-Judges",
+   "authors": [
+    "Maxim Khomiakov",
+    "Jes Frellsen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I0GDiNXa6y",
+   "pdf_url": "https://openreview.net/pdf?id=I0GDiNXa6y"
+  },
+  {
+   "title": "Not All Clients Are Equal: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients",
+   "authors": [
+    "Minhyuk Seo",
+    "Taeheon Kim",
+    "Hankook Lee",
+    "Jonghyun Choi",
+    "Tinne Tuytelaars"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8x2GePwdTL",
+   "pdf_url": "https://openreview.net/pdf?id=8x2GePwdTL"
+  },
+  {
+   "title": "Not All Queries Need Rewriting: When Prompt-Only LLM Refinement Helps and Hurts Dense Retrieval",
+   "authors": [
+    "Varun Kotte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tmpVrh40jX",
+   "pdf_url": "https://openreview.net/pdf?id=tmpVrh40jX"
+  },
+  {
+   "title": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Flemming Kondrup",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eab5W9LmT9",
+   "pdf_url": "https://openreview.net/pdf?id=Eab5W9LmT9"
+  },
+  {
+   "title": "OASIS: Online Sample Selection for Continual Instruction Tuning",
+   "authors": [
+    "Minjae Lee",
+    "Minhyuk Seo",
+    "Tingyu Qu",
+    "Tinne Tuytelaars",
+    "Jonghyun Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3VDXKw5Q3h",
+   "pdf_url": "https://openreview.net/pdf?id=3VDXKw5Q3h"
+  },
+  {
+   "title": "On the Identifiability of Steering Vectors in Large Language Models",
+   "authors": [
+    "Sohan Venkatesh",
+    "Ashish Mahendran Kurapath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uh2MkQ0vek",
+   "pdf_url": "https://openreview.net/pdf?id=uh2MkQ0vek"
+  },
+  {
+   "title": "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL",
+   "authors": [
+    "Julian Lemmel",
+    "Felix Resch",
+    "Mónika Farsang",
+    "Ramin Hasani",
+    "Daniela Rus",
+    "Radu Grosu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8wZLwpLErT",
+   "pdf_url": "https://openreview.net/pdf?id=8wZLwpLErT"
+  },
+  {
+   "title": "Out-of-Support Generalisation via Weight-Space Sequence Modelling",
+   "authors": [
+    "Roussel Desmond Nzoyem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bKpwHYXhHK",
+   "pdf_url": "https://openreview.net/pdf?id=bKpwHYXhHK"
+  },
+  {
+   "title": "Paranoid Monitors: How Long Context Breaks LLM Agent Supervision",
+   "authors": [
+    "Alicia Yang",
+    "Aashiq Muhamed",
+    "Mona T. Diab",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3xaCNSdrMD",
+   "pdf_url": "https://openreview.net/pdf?id=3xaCNSdrMD"
+  },
+  {
+   "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+   "authors": [
+    "Yangyi Huang",
+    "Ruotian Peng",
+    "Zeju Qiu",
+    "Jiale Kang",
+    "Yandong Wen",
+    "Bernhard Schölkopf",
+    "Weiyang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HHplQA8fY8",
+   "pdf_url": "https://openreview.net/pdf?id=HHplQA8fY8"
+  },
+  {
+   "title": "Pitfalls of Unlabeled Disagreement-Based Drift Detection in Streaming Tree Ensembles",
+   "authors": [
+    "Lara Sá Neves",
+    "Afonso Lourenço",
+    "Lizy Kurian John",
+    "Goreti Marreiros"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AYzDz9IZDc",
+   "pdf_url": "https://openreview.net/pdf?id=AYzDz9IZDc"
+  },
+  {
+   "title": "Prior Distribution and Model Confidence",
+   "authors": [
+    "Maksim Kazanskii",
+    "Artem Kasianov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0X2Gh1RaNZ",
+   "pdf_url": "https://openreview.net/pdf?id=0X2Gh1RaNZ"
+  },
+  {
+   "title": "Prompt-Level Drift as an Operational Monitoring Problem: Schema Failure Cliffs and Judge-Version Risk in Artifact-Grounded Evaluation",
+   "authors": [
+    "Yuchen Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGoKUAy8XW",
+   "pdf_url": "https://openreview.net/pdf?id=PGoKUAy8XW"
+  },
+  {
+   "title": "Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling",
+   "authors": [
+    "Natalia Frumkin",
+    "Diana Marculescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5oKzkAqVPq",
+   "pdf_url": "https://openreview.net/pdf?id=5oKzkAqVPq"
+  },
+  {
+   "title": "QueST: Persistent Queries as Semantic Monitors for Drift Suppression in Long-Horizon Tracking",
+   "authors": [
+    "Mayank Anand",
+    "Mohammad Saqlain",
+    "KyanMahajan",
+    "Priya Shukla",
+    "Andrew Melnik",
+    "Gora Chand Nandi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GDVJCGDgN1",
+   "pdf_url": "https://openreview.net/pdf?id=GDVJCGDgN1"
+  },
+  {
+   "title": "RDUMB++: DRIFT-AWARE CONTINUAL TEST-TIME ADAPTATION",
+   "authors": [
+    "Himanshu Mishra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fyiSowKSOw",
+   "pdf_url": "https://openreview.net/pdf?id=fyiSowKSOw"
+  },
+  {
+   "title": "Reasoning Is Not Free: Robust Adaptive Cost-Efficient Router for LLM-as-a-Judge",
+   "authors": [
+    "Wenbo Zhang",
+    "Lijinghua Zhang",
+    "Liner Xiang",
+    "Hengrui Cai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pw0tYmqf6d",
+   "pdf_url": "https://openreview.net/pdf?id=Pw0tYmqf6d"
+  },
+  {
+   "title": "Reliability-Aware Environment Discovery: Leveraging Feature Entanglement for Subpopulation Robustness",
+   "authors": [
+    "Harim Lee",
+    "Dong-Kyu Chae"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rFmlyHsquH",
+   "pdf_url": "https://openreview.net/pdf?id=rFmlyHsquH"
+  },
+  {
+   "title": "Rethinking Layer Relevance in Large Language Models Beyond Cosine Similarity",
+   "authors": [
+    "Cristian Hinostroza",
+    "Rodrigo Toro Icarte",
+    "Christ Devia",
+    "Andres Carvallo De Ferari",
+    "Eugenio Herrera-Berg",
+    "Denis Parra",
+    "Jorge F Silva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IL0jNNUqbO",
+   "pdf_url": "https://openreview.net/pdf?id=IL0jNNUqbO"
+  },
+  {
+   "title": "Right Regions, Wrong Labels: Semantic Label Flips in Segmentation under Correlation Shift",
+   "authors": [
+    "Akshit Achara",
+    "Yovin Ransika Yahathugoda",
+    "Nick Byrne",
+    "Michela Antonelli",
+    "Esther Puyol Anton",
+    "Alexander Hammers",
+    "Andrew P. King"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sfM31XgURW",
+   "pdf_url": "https://openreview.net/pdf?id=sfM31XgURW"
+  },
+  {
+   "title": "Risk-Averse Learning with Nonstationary Distribution",
+   "authors": [
+    "Siyi Wang",
+    "Zifan Wang",
+    "Xinlei Yi",
+    "Michael M. Zavlanos",
+    "Karl Henrik Johansson",
+    "Sandra Hirche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hD7UdMO8eY",
+   "pdf_url": "https://openreview.net/pdf?id=hD7UdMO8eY"
+  },
+  {
+   "title": "Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation",
+   "authors": [
+    "Minghe Shen",
+    "Ananth Balashankar",
+    "Adam Fisch",
+    "David Madras",
+    "Miguel R. D. Rodrigues"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EaZ5Gb8wQx",
+   "pdf_url": "https://openreview.net/pdf?id=EaZ5Gb8wQx"
+  },
+  {
+   "title": "Structured Event Logging for Tracking Model Behavior Under Distributional Drift",
+   "authors": [
+    "Amrutha Muralidhar",
+    "Yathindra Lakkanna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Ozpn5tPhn",
+   "pdf_url": "https://openreview.net/pdf?id=4Ozpn5tPhn"
+  },
+  {
+   "title": "SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks",
+   "authors": [
+    "Elizabeth S.Z. Tan",
+    "Adil Soubki",
+    "Miles Cranmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2rE7gVcPit",
+   "pdf_url": "https://openreview.net/pdf?id=2rE7gVcPit"
+  },
+  {
+   "title": "TamperBench: A Systematic Framework to Stress-Test LLM Safety Under Fine-Tuning and Tampering",
+   "authors": [
+    "Saad Hossain",
+    "Tom Tseng",
+    "Punya Syon Pandey",
+    "Samanvay Vajpayee",
+    "Matthew Kowal",
+    "Nayeema Nonta",
+    "Samuel Simko",
+    "Stephen Casper",
+    "Zhijing Jin",
+    "Kellin Pelrine",
+    "Sirisha Rambhatla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AnTjU0uhWV",
+   "pdf_url": "https://openreview.net/pdf?id=AnTjU0uhWV"
+  },
+  {
+   "title": "TamperTest: A Framework for Testing Tamper Resistance in Open-Weight LLMs",
+   "authors": [
+    "Isabel Dahlgren",
+    "Aashiq Muhamed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FmpZXkYY8I",
+   "pdf_url": "https://openreview.net/pdf?id=FmpZXkYY8I"
+  },
+  {
+   "title": "Test-Time Adaptation for Event Prediction via Lightweight Adapters",
+   "authors": [
+    "Shivam Grover",
+    "Hossein Hajimirsadeghi",
+    "Zhitian Zhang",
+    "Edward J. Smith",
+    "Alexander Pashevich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VHtCpZc9L7",
+   "pdf_url": "https://openreview.net/pdf?id=VHtCpZc9L7"
+  },
+  {
+   "title": "The Magic Correlations: Understanding Knowledge Transfer from Pretraining to Supervised Fine-Tuning",
+   "authors": [
+    "Simin Fan",
+    "Dimitris Paparas",
+    "Natasha Noy",
+    "Binbin Xiong",
+    "Noveen Sachdeva",
+    "Berivan Isik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n29IMYn5Sk",
+   "pdf_url": "https://openreview.net/pdf?id=n29IMYn5Sk"
+  },
+  {
+   "title": "TRUST: Trajectory-guided State-Space Temporal Test-Time Adaptation",
+   "authors": [
+    "Fardad Dadboud",
+    "Hamid Azad",
+    "Miodrag Bolic",
+    "Iraj Mantegh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CSking4YcX",
+   "pdf_url": "https://openreview.net/pdf?id=CSking4YcX"
+  },
+  {
+   "title": "Understanding Reasoning Collapse in Multi-Turn Agent Reinforcement Learning",
+   "authors": [
+    "Zihan Wang",
+    "Chi Gui",
+    "Xing Jin",
+    "Qineng Wang",
+    "Licheng Liu",
+    "Kangrui Wang",
+    "Shiqi Chen",
+    "Linjie Li",
+    "Zhengyuan Yang",
+    "Pingyue Zhang",
+    "Yiping Lu",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Lijuan Wang",
+    "Yejin Choi",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8TWLq1yoYu",
+   "pdf_url": "https://openreview.net/pdf?id=8TWLq1yoYu"
+  },
+  {
+   "title": "Value Drifts: Tracing Value Alignment During LLM Post-Training",
+   "authors": [
+    "Mehar Bhatia",
+    "Shravan Nayak",
+    "Gaurav Kamath",
+    "Marius Mosbach",
+    "Karolina Stanczak",
+    "Vered Shwartz",
+    "Siva Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=adHx4ISeuU",
+   "pdf_url": "https://openreview.net/pdf?id=adHx4ISeuU"
+  },
+  {
+   "title": "Weighted Partial Optimal Transport for Multi-Source Partial Domain Adaptation",
+   "authors": [
+    "Jayadev Naram",
+    "Ziming Wang",
+    "Rebecka Jörnsten",
+    "Giuseppe Durisi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iu5DVY7aD0",
+   "pdf_url": "https://openreview.net/pdf?id=iu5DVY7aD0"
+  },
+  {
+   "title": "WHEN DRIFT DETECTORS CRY WOLF: FALSE ALARM RATES IN CONTINUOUS ML MONITORING",
+   "authors": [
+    "Raj Shekhar Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fUsgIfJYZs",
+   "pdf_url": "https://openreview.net/pdf?id=fUsgIfJYZs"
+  },
+  {
+   "title": "When Sensors Fail: Temporal Sequence Models for Robust PPO under Sensor Drift",
+   "authors": [
+    "Kevin Vogt-Lowell",
+    "Theodoros Tsiligkaridis",
+    "Rodney Lafuente-Mercado",
+    "Shanghua Gao",
+    "Surabhi Ghatti",
+    "Marinka Zitnik",
+    "Daniela Rus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tPTnsgpXk4",
+   "pdf_url": "https://openreview.net/pdf?id=tPTnsgpXk4"
+  },
+  {
+   "title": "White-Box Monitoring for Personality Mirroring in Conversational AI",
+   "authors": [
+    "Eitan Sprejer",
+    "Agustín E. Martínez-Suñé",
+    "Bruno Bianchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rVlyID0TzV",
+   "pdf_url": "https://openreview.net/pdf?id=rVlyID0TzV"
+  }
+ ]
+}

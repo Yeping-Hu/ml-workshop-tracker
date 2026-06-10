@@ -1,0 +1,950 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/MLGenX",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:27.834Z",
+ "paper_count": 82,
+ "papers": [
+  {
+   "title": "A CONVERSATIONAL MULTI-AGENT AI FRAMEWORK FOR INTEGRATED MULTI-OMICS ANALYSIS AND BIOMEDICAL DISCOVERY",
+   "authors": [
+    "Pankaj Rajdeo",
+    "Shunya Asanuma",
+    "Michal Kouril",
+    "Peixin Lu",
+    "Jichao Chen",
+    "Aman Chadha",
+    "Surya Prasath",
+    "Bruce J Aronow",
+    "Nathan Salomonis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aNjDcSB8AF",
+   "pdf_url": "https://openreview.net/pdf?id=aNjDcSB8AF"
+  },
+  {
+   "title": "Active Learning for Optimal Experimental Design in Alzheimer's Disease Drug Discovery: Prioritizing NAD+-Enhancing Therapeutic Analogs via Multi-Objective Bayesian Optimization",
+   "authors": [
+    "David Scott Lewis",
+    "Enrique Zueco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vMqbczUNvF",
+   "pdf_url": "https://openreview.net/pdf?id=vMqbczUNvF"
+  },
+  {
+   "title": "ACTIVEGENE: REWARD-FREE, HOMEOSTASIS- ALIGNED CONTROL FOR CLOSED-LOOP GENE REGULATION VIA ACTIVE INFERENCE",
+   "authors": [
+    "mujtaba hasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ASATS5aV03",
+   "pdf_url": "https://openreview.net/pdf?id=ASATS5aV03"
+  },
+  {
+   "title": "Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning",
+   "authors": [
+    "Shimeng Huang",
+    "Matthew R Robinson",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9DtBvahg9S",
+   "pdf_url": "https://openreview.net/pdf?id=9DtBvahg9S"
+  },
+  {
+   "title": "Adversarial Genomic Sequences Could Evade Biosecurity Screening",
+   "authors": [
+    "Jeyashree Krishnan",
+    "Ajay Mandyam Rangarajan",
+    "Andrea Loehr",
+    "Jason Hoelscher-Obermaier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j0o93ydeGW",
+   "pdf_url": "https://openreview.net/pdf?id=j0o93ydeGW"
+  },
+  {
+   "title": "Agentic Active Causal Discovery for Alzheimer's Disease Reversal: Closing the Genomic Experimental Loop",
+   "authors": [
+    "David Scott Lewis",
+    "Enrique Zueco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R5X5Xr6Z5R",
+   "pdf_url": "https://openreview.net/pdf?id=R5X5Xr6Z5R"
+  },
+  {
+   "title": "Agentic Orchestration of Drug Discovery ML Tools Under Partial Observability",
+   "authors": [
+    "Sara Masarone",
+    "Katie Victoria Beckwith",
+    "Matthew Mason",
+    "Thomas Clelford",
+    "Arran Willmott",
+    "Layla Hosseini-Gerami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SzVU5WHrIr",
+   "pdf_url": "https://openreview.net/pdf?id=SzVU5WHrIr"
+  },
+  {
+   "title": "Ancestry Inference with GNNs on IBD Graphs for Genetically Similar Populations",
+   "authors": [
+    "Aleksei Shmelev",
+    "Nikita Chervov",
+    "Dmitriy Glyzin",
+    "Valery Ilinsky",
+    "Alexander Rakitko",
+    "Vladimir Shchur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3SQ3KTfEI6",
+   "pdf_url": "https://openreview.net/pdf?id=3SQ3KTfEI6"
+  },
+  {
+   "title": "Attractome: From Theory to Generative Models for Cancer Dynamics and Control",
+   "authors": [
+    "Arash Mehrjou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kwQGXQ6XWD",
+   "pdf_url": "https://openreview.net/pdf?id=kwQGXQ6XWD"
+  },
+  {
+   "title": "Back to BERT in 2026: ModernGENA as a Strong, Efficient Baseline for DNA Foundation Models",
+   "authors": [
+    "Alena Aspidova",
+    "Yuri Kuratov",
+    "Artem Shadskiy",
+    "Mikhail Burtsev",
+    "Veniamin Fishman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U98HvYaBDE",
+   "pdf_url": "https://openreview.net/pdf?id=U98HvYaBDE"
+  },
+  {
+   "title": "Bayesian Rips Active Learning: Topology-Aware Acquisition for Rare Lineages",
+   "authors": [
+    "Weixiao Wang",
+    "Anibal M. Medina-Mardones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uz1D0iK832",
+   "pdf_url": "https://openreview.net/pdf?id=Uz1D0iK832"
+  },
+  {
+   "title": "Beyond Mean Shifts: Predicting Distributional Responses to Unseen Genetic Perturbations",
+   "authors": [
+    "Kalyan Ramakrishnan",
+    "Jonathan G. Hedley",
+    "Sisi Qu",
+    "Puneet K. Dokania",
+    "Philip Torr",
+    "Cesar A. Prada-Medina",
+    "Julien Fauqueur",
+    "Kaspar Märtens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TSrxbWcF7Q",
+   "pdf_url": "https://openreview.net/pdf?id=TSrxbWcF7Q"
+  },
+  {
+   "title": "Beyond single-axis designs: multi-objective optimization for complex perturbation atlases",
+   "authors": [
+    "Zihe Zheng",
+    "Soroor Hediyeh-zadeh",
+    "Jenni Liu",
+    "Fabian J Theis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FIAgwjf3i1",
+   "pdf_url": "https://openreview.net/pdf?id=FIAgwjf3i1"
+  },
+  {
+   "title": "BIO-Distiller: Boosting Supervised Baselines by Distilling Biological Foundation Models",
+   "authors": [
+    "Mohan Vamsi Nallapareddy",
+    "Maria Boulougouri",
+    "Pierre Vandergheynst",
+    "Francesco Craighero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R3W8AgdZnv",
+   "pdf_url": "https://openreview.net/pdf?id=R3W8AgdZnv"
+  },
+  {
+   "title": "BioCOMPASS: Integrating Biomarkers into Transformer-Based Immunotherapy Response Prediction",
+   "authors": [
+    "Sayed Hashim",
+    "Frank Soboczenski",
+    "Paul Cairns"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LMHB2rsCw9",
+   "pdf_url": "https://openreview.net/pdf?id=LMHB2rsCw9"
+  },
+  {
+   "title": "Causal Field Theory: Mechanistic Interpretability for Spatio-Temporal Biological Systems",
+   "authors": [
+    "Arash Mehrjou",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Urq3VymML",
+   "pdf_url": "https://openreview.net/pdf?id=9Urq3VymML"
+  },
+  {
+   "title": "CAUSALPERT: GROUNDING LLM HYPOTHESES IN REGULATORY NETWORKS FOR GENE PERTURBATION PREDICTION",
+   "authors": [
+    "Marc Boubnovski Martell",
+    "Josefa Lia Stoisser",
+    "Lawrence Phillips",
+    "Aditya Misra",
+    "Robert Kitchen",
+    "Jesper Ferkinghoff-Borg",
+    "Jialin Yu",
+    "Philip Torr",
+    "Kaspar Märtens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=euqNpvs4sb",
+   "pdf_url": "https://openreview.net/pdf?id=euqNpvs4sb"
+  },
+  {
+   "title": "CELLTARNET: SINGLE-CELL PERTURBATION PREDICTION USING TRANSFORMER BASED NORMALIZING FLOW",
+   "authors": [
+    "Shiv Shankar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dkjdeNG1oh",
+   "pdf_url": "https://openreview.net/pdf?id=dkjdeNG1oh"
+  },
+  {
+   "title": "CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model for In-Silico Perturbation",
+   "authors": [
+    "Andac Demir",
+    "Erik W. Anderson",
+    "Jeremy L. Jenkins",
+    "Srayanta Mukherjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wGZSvkoCPb",
+   "pdf_url": "https://openreview.net/pdf?id=wGZSvkoCPb"
+  },
+  {
+   "title": "ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible Spatial Transcriptomics Analysis",
+   "authors": [
+    "Chen Yang",
+    "Xianyang Zhang",
+    "Jun Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xZ814yNaUW",
+   "pdf_url": "https://openreview.net/pdf?id=xZ814yNaUW"
+  },
+  {
+   "title": "Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA",
+   "authors": [
+    "Animesh Awasthi",
+    "Raphael Bednarsky",
+    "Moritz Schaefer",
+    "Christoph Bock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4DyPOqo2hs",
+   "pdf_url": "https://openreview.net/pdf?id=4DyPOqo2hs"
+  },
+  {
+   "title": "Conditional Single-Cell RNA Generation: A Decoder Model and A Benchmark of Generative Models",
+   "authors": [
+    "Skander Karkar",
+    "Olav De Clerck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fA0T9ujlQr",
+   "pdf_url": "https://openreview.net/pdf?id=fA0T9ujlQr"
+  },
+  {
+   "title": "CONSTRAINED LANGUAGE-GUIDED REFINEMENT FOR ZERO-SHOT SPATIAL ANNOTATION",
+   "authors": [
+    "Sajib Acharjee Dip",
+    "Liqing Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DLDV6z0G63",
+   "pdf_url": "https://openreview.net/pdf?id=DLDV6z0G63"
+  },
+  {
+   "title": "Contrastive Alignment of Expression and Copy Number Highlights Dosage-Insensitive Genes in Cancer",
+   "authors": [
+    "Garv Goswami",
+    "David Xu",
+    "Hwi Joo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9U8Ad6xPFh",
+   "pdf_url": "https://openreview.net/pdf?id=9U8Ad6xPFh"
+  },
+  {
+   "title": "CP-BG-1M: A Controlled Multi-View Benchmark for Density and Background Shortcuts in Morphology Profiling",
+   "authors": [
+    "Tim Treis",
+    "Nikita Moshkov",
+    "Ghaith Mqawass",
+    "Fabian J Theis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IrFOBw487r",
+   "pdf_url": "https://openreview.net/pdf?id=IrFOBw487r"
+  },
+  {
+   "title": "D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation",
+   "authors": [
+    "Zhao Yang",
+    "Hengchang Liu",
+    "Chuan Cao",
+    "Bing Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J2FJJ72Psj",
+   "pdf_url": "https://openreview.net/pdf?id=J2FJJ72Psj"
+  },
+  {
+   "title": "DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning",
+   "authors": [
+    "Chi-Min Chan",
+    "Ehsan Hajiramezanali",
+    "Xiner Li",
+    "Edward De Brouwer",
+    "Carl Edwards",
+    "Wei Xue",
+    "Sirui Han",
+    "Yike Guo",
+    "Gabriele Scalia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LXp6NcTVd2",
+   "pdf_url": "https://openreview.net/pdf?id=LXp6NcTVd2"
+  },
+  {
+   "title": "DELBERT: Fingerprint Language Modeling For Generalizable Hit Discovery in DNA-Encoded Libraries",
+   "authors": [
+    "Arman Seyed-Ahmadi",
+    "Bing Xu Hu",
+    "Armin Geraili",
+    "Anita Layton",
+    "Helen Hong Chen",
+    "Shana O. Kelley",
+    "BO WANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wOOD4W3wJk",
+   "pdf_url": "https://openreview.net/pdf?id=wOOD4W3wJk"
+  },
+  {
+   "title": "Discrete Diffusion for Single-Cell Gene Expression Modeling",
+   "authors": [
+    "Sanjukta Bhattacharya",
+    "Christian Gensbigler",
+    "Shaamil Karim",
+    "Jon Lees"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GPR1YXdE4U",
+   "pdf_url": "https://openreview.net/pdf?id=GPR1YXdE4U"
+  },
+  {
+   "title": "Dissecting and Steering Cell Identity in a Single-Cell Foundation Model Using Sparse Autoencoders",
+   "authors": [
+    "Nicolas Yanovsky",
+    "Nicolas Yanovsky",
+    "Ariel Chernomoretz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6B3zp01ubG",
+   "pdf_url": "https://openreview.net/pdf?id=6B3zp01ubG"
+  },
+  {
+   "title": "Distilling Genomic Models for Efficient mRNA Representation Learning via Embedding Matching",
+   "authors": [
+    "Rasched Haidari",
+    "Sam Martin",
+    "Maxime Allard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CWTyUgMF44",
+   "pdf_url": "https://openreview.net/pdf?id=CWTyUgMF44"
+  },
+  {
+   "title": "DNACHUNKER: Learnable Tokenization for DNA Language Models",
+   "authors": [
+    "Taewon Kim",
+    "Jihwan Shin",
+    "Hyomin Kim",
+    "Youngmok Jung",
+    "Jonghoon Lee",
+    "Won-Chul Lee",
+    "Sungsoo Ahn",
+    "Insu Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mhcjk25ibY",
+   "pdf_url": "https://openreview.net/pdf?id=Mhcjk25ibY"
+  },
+  {
+   "title": "DREAM-DNA: Controlled Design via Reasoning and Matched-flows for DNA",
+   "authors": [
+    "Weimin Wu",
+    "Jiunhau Chen",
+    "Xuefeng Song",
+    "Jerry Yao-Chieh Hu",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u641jwyssF",
+   "pdf_url": "https://openreview.net/pdf?id=u641jwyssF"
+  },
+  {
+   "title": "ECLIPSE: A Composable Pipeline for Predicting ecDNA Formation, Evolution, and Therapeutic Vulnerabilities in Cancer",
+   "authors": [
+    "Bryan Cheng",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UbnYFmtN5w",
+   "pdf_url": "https://openreview.net/pdf?id=UbnYFmtN5w"
+  },
+  {
+   "title": "ELISA: An Interpretable Hybrid Agent for Expression-Grounded Discovery in Single-Cell Genomics",
+   "authors": [
+    "Omar Coser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LACRHLhPKH",
+   "pdf_url": "https://openreview.net/pdf?id=LACRHLhPKH"
+  },
+  {
+   "title": "Enigma: An Efficient Model for Deciphering Regulatory Genomics",
+   "authors": [
+    "Andrew J Jung",
+    "ALICE J. GAO",
+    "Vivian Chu",
+    "Leo J Lee",
+    "Brendan Frey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l7deEOhSza",
+   "pdf_url": "https://openreview.net/pdf?id=l7deEOhSza"
+  },
+  {
+   "title": "Event Embedding of Protein Networks : Compositional Learning of Biological Function",
+   "authors": [
+    "Antonin Sulc"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wI6bzqi3zP",
+   "pdf_url": "https://openreview.net/pdf?id=wI6bzqi3zP"
+  },
+  {
+   "title": "Exploring Perturbation Effects on Transcriptional Dynamics with ContrastiveBiVI",
+   "authors": [
+    "Ashenafee Anteneh Mandefro",
+    "Ethan Weinberger",
+    "Addie Woicik",
+    "Tal Ashuach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=93lAqFHsk3",
+   "pdf_url": "https://openreview.net/pdf?id=93lAqFHsk3"
+  },
+  {
+   "title": "From Edge Detection to Regulatory Logic Discovery: Residual Set Models for Exact Regulator Recovery in Gene Regulatory Networks",
+   "authors": [
+    "Siddhi Kanta Mishra",
+    "Maryam Rahimimovassagh",
+    "Niloofar Yousefi",
+    "Ivan Garibay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PLC6IhxKgt",
+   "pdf_url": "https://openreview.net/pdf?id=PLC6IhxKgt"
+  },
+  {
+   "title": "From k-mers to Genomic Foundation Models: Benchmarking COX1 Taxonomy under Extreme Class Imbalance",
+   "authors": [
+    "Luis Valenzuela",
+    "Sebastián Aguilera Madrid",
+    "Luis Martí",
+    "Nayat Sánchez Pi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NkROfzjt4g",
+   "pdf_url": "https://openreview.net/pdf?id=NkROfzjt4g"
+  },
+  {
+   "title": "GenePT Revisited: Do Better Text Embeddings Make Better Gene Embeddings?",
+   "authors": [
+    "Jonathan G. Hedley",
+    "Philip Torr",
+    "Kaspar Märtens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fDLe47paJ1",
+   "pdf_url": "https://openreview.net/pdf?id=fDLe47paJ1"
+  },
+  {
+   "title": "Generating and decoding methylated DNA with a Human Epigenetic Foundation Model",
+   "authors": [
+    "Pouya Niki",
+    "Christoforos Nalmpantis",
+    "Javkhlan-Ochir Ganbat",
+    "Donal Byrne",
+    "Husam Babikir",
+    "Anjeet Jhutty",
+    "Andrey Karailiev",
+    "Pooja Kathail",
+    "Luca Giacomoni",
+    "Francisco M Martín-Zamora",
+    "Netanel Loyfer",
+    "Khaled Kamal Saab",
+    "Hannah Madan",
+    "Jonathan C M Wan",
+    "Ravi Solanki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JF2xjoWwjp",
+   "pdf_url": "https://openreview.net/pdf?id=JF2xjoWwjp"
+  },
+  {
+   "title": "Genomic Next-Token Predictors are In-Context Learners",
+   "authors": [
+    "Nathan Breslow",
+    "Aayush Mishra",
+    "Mahler Revsine",
+    "Michael Schatz",
+    "Anqi Liu",
+    "Daniel Khashabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S4Ky5pbCWr",
+   "pdf_url": "https://openreview.net/pdf?id=S4Ky5pbCWr"
+  },
+  {
+   "title": "GREmLN: A Cellular Graph Structure Aware Transcriptomics Foundation Model",
+   "authors": [
+    "Mingxuan Zhang",
+    "Vinay S Swamy",
+    "Rowan Cassius",
+    "Léo Dupire",
+    "Charilaos I. Kanatsoulis",
+    "Evan Paull",
+    "Mohammed AlQuraishi",
+    "Theofanis Karaletsos",
+    "Andrea Califano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q5z9IWwbap",
+   "pdf_url": "https://openreview.net/pdf?id=Q5z9IWwbap"
+  },
+  {
+   "title": "Hierarchical Multi-Omic CLIP for Missing-Modality Imputation & Transfer Learning in Blood Cancers",
+   "authors": [
+    "Leonardo P.A. Biral",
+    "Dennis Owusu",
+    "Sandeep Dave"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dLGpwxaXxO",
+   "pdf_url": "https://openreview.net/pdf?id=dLGpwxaXxO"
+  },
+  {
+   "title": "Interpretability Driven Evolutionary Approach for the Design of Biological Sequences",
+   "authors": [
+    "Akash Pandey",
+    "Wei Chen",
+    "Sinan Keten"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nyucLMyAG3",
+   "pdf_url": "https://openreview.net/pdf?id=nyucLMyAG3"
+  },
+  {
+   "title": "Investigation of Scaling Laws for Encoder-Decoder Protein Language Models",
+   "authors": [
+    "Mufan Qiu",
+    "Sharmi Banerjee",
+    "Athanasios Nikolakopoulos",
+    "Gherman Uritskiy",
+    "HAMID MOHAMADI",
+    "Huda Khayrallah",
+    "Jonah Noh",
+    "Jiachen Li",
+    "Mostafa Karimi",
+    "Tianlong Chen",
+    "Bella Dubrov",
+    "Shang Shang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wyaae8g9QY",
+   "pdf_url": "https://openreview.net/pdf?id=Wyaae8g9QY"
+  },
+  {
+   "title": "Joint Variable Selection in Proteomics Survival Models",
+   "authors": [
+    "Jakub Bajzik",
+    "Al Depope",
+    "Yasaman Zolfimoselo",
+    "Alexander Sharipov",
+    "Holger Klein",
+    "Marco Mondelli",
+    "Matthew R Robinson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Re1rA204zd",
+   "pdf_url": "https://openreview.net/pdf?id=Re1rA204zd"
+  },
+  {
+   "title": "Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction",
+   "authors": [
+    "Yinhua Piao",
+    "Hyomin Kim",
+    "Seonghwan Kim",
+    "Yunhak Oh",
+    "Junhyeok Jeon",
+    "Sang-Yeon Hwang",
+    "Jaechang Lim",
+    "Woo Youn Kim",
+    "Chanyoung Park",
+    "Sungsoo Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lMOn8Av46M",
+   "pdf_url": "https://openreview.net/pdf?id=lMOn8Av46M"
+  },
+  {
+   "title": "Learning Perturbation Effects Through Contrastive Alignment of Transcriptomics and Textual Embeddings",
+   "authors": [
+    "Tianyu Liu",
+    "Artur Szałata",
+    "Wenxin Long",
+    "Fabian J Theis",
+    "Lingzhou Xue",
+    "Hongyu Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WcWfmx0ILj",
+   "pdf_url": "https://openreview.net/pdf?id=WcWfmx0ILj"
+  },
+  {
+   "title": "LENS: LLM-based Enrichment of Nested Subclusters",
+   "authors": [
+    "Alisha Saboowala",
+    "Ping Wu",
+    "Yogesh Pandit",
+    "David Richmond",
+    "Jan-Christian Huetter",
+    "Avtar Singh",
+    "Vladimir Ermakov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GMf6DikKOz",
+   "pdf_url": "https://openreview.net/pdf?id=GMf6DikKOz"
+  },
+  {
+   "title": "LLM-BMC: Resolving Cell Type Ambiguity through Bayesian Integration of Biological Knowledge",
+   "authors": [
+    "Chenxi He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VDyRpPMZyV",
+   "pdf_url": "https://openreview.net/pdf?id=VDyRpPMZyV"
+  },
+  {
+   "title": "LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses",
+   "authors": [
+    "Betty Xiong",
+    "Jan-Christian Huetter",
+    "Gabriele Scalia",
+    "Tommaso Biancalani",
+    "Sepideh Maleki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=En4hAMxOHl",
+   "pdf_url": "https://openreview.net/pdf?id=En4hAMxOHl"
+  },
+  {
+   "title": "MapPFN: Learning Causal Perturbation Maps in Context",
+   "authors": [
+    "Marvin Sextro",
+    "Weronika Kłos",
+    "Gabriel Dernbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gghWruY1h0",
+   "pdf_url": "https://openreview.net/pdf?id=gghWruY1h0"
+  },
+  {
+   "title": "Modern Gene Finders: ab initio gene discovery benchmark with DNA language models",
+   "authors": [
+    "Aleksei Shmelev",
+    "Artem Shadskiy",
+    "Yuri Kuratov",
+    "Mikhail Burtsev",
+    "Olga Kardymon",
+    "Veniamin Fishman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d0aTjHRlL0",
+   "pdf_url": "https://openreview.net/pdf?id=d0aTjHRlL0"
+  },
+  {
+   "title": "mRNABench: A curated benchmark for mature mRNA property and function prediction",
+   "authors": [
+    "Ruian Shi",
+    "Taykhoom Dalal",
+    "Philip Fradkin",
+    "Divya Koyyalagunta",
+    "Simran Chhabria",
+    "Andrew J Jung",
+    "Cyrus L. Tam",
+    "Defne Ceyhan",
+    "Jessica Lin",
+    "Kaitlin U Laverty",
+    "Ilyes Baali",
+    "BO WANG",
+    "Quaid Morris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VWYNDvsWyp",
+   "pdf_url": "https://openreview.net/pdf?id=VWYNDvsWyp"
+  },
+  {
+   "title": "Multimodal Latent Causal VAE for Joint Inference of Gene Regulatory and Protein Interaction Networks",
+   "authors": [
+    "Shervin Goudarzi",
+    "Nuo Liu",
+    "Hani Goodarzi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I1KgmYcXqz",
+   "pdf_url": "https://openreview.net/pdf?id=I1KgmYcXqz"
+  },
+  {
+   "title": "Nexus: A Multi-Scale Simulator for Biological Control and Causal Discovery",
+   "authors": [
+    "Amogh Singh",
+    "Patrick Schwab",
+    "Kim Branson",
+    "Pietro Lio",
+    "Arash Mehrjou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mpom2J8JFw",
+   "pdf_url": "https://openreview.net/pdf?id=mpom2J8JFw"
+  },
+  {
+   "title": "Observation-Regime-Aware Bayesian Updates for Closed-Loop Scientific Agents",
+   "authors": [
+    "Manish Sai Kota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pUWDIDwmr6",
+   "pdf_url": "https://openreview.net/pdf?id=pUWDIDwmr6"
+  },
+  {
+   "title": "Optimizing Genomic Language Models for Efficient Training, Fine-Tuning, and Inference",
+   "authors": [
+    "Ali Saadat",
+    "Jacques Fellay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NUleWh1GFx",
+   "pdf_url": "https://openreview.net/pdf?id=NUleWh1GFx"
+  },
+  {
+   "title": "PANGENSA: A graph-constrained machine learning framework for identifying antibiotic resistance determinants in bacterial pangenomes",
+   "authors": [
+    "Tamsin James",
+    "Jordan Meadows",
+    "Andreas Karwath",
+    "Nicole E Wheeler",
+    "Peter Tino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LxDa8xN1lL",
+   "pdf_url": "https://openreview.net/pdf?id=LxDa8xN1lL"
+  },
+  {
+   "title": "PerturBERT: Learning Gene Co-Variation Embeddings from Perturbation Signatures",
+   "authors": [
+    "Artur Szałata",
+    "Russell Littman",
+    "Zoe Piran",
+    "Fabian J Theis",
+    "David Richmond",
+    "Jan-Christian Huetter",
+    "Alexander P Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZsDeYLnWnc",
+   "pdf_url": "https://openreview.net/pdf?id=ZsDeYLnWnc"
+  },
+  {
+   "title": "Predictive Performance is Often Insensitive to Feature Selection in High-Dimensional Biological Classification",
+   "authors": [
+    "Bhavesh Neekhra",
+    "Debayan Gupta",
+    "Partha Pratim Chakrabarti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9qrknz9TcG",
+   "pdf_url": "https://openreview.net/pdf?id=9qrknz9TcG"
+  },
+  {
+   "title": "RAPTORGraph: Graph-Based Pathway Modeling for Causal Discovery in Single-Cell Perturbations",
+   "authors": [
+    "Yeremia Gunawan Adhisantoso",
+    "Stephanie Kristin Schröder",
+    "Maximilian Greß",
+    "Mikel Hernaez",
+    "Jan Voges"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rdLzuNp26V",
+   "pdf_url": "https://openreview.net/pdf?id=rdLzuNp26V"
+  },
+  {
+   "title": "REIGN: Robust Expected Information Gain for Navigating Adaptive Perturbation Screens",
+   "authors": [
+    "Noel Thomas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Lt49VMoUg",
+   "pdf_url": "https://openreview.net/pdf?id=4Lt49VMoUg"
+  },
+  {
+   "title": "Rethinking Perturbation Prediction Baselines",
+   "authors": [
+    "Junwei Sun",
+    "Ouyang Zhu",
+    "Yiqun T. Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZ2KZwM1mR",
+   "pdf_url": "https://openreview.net/pdf?id=EZ2KZwM1mR"
+  },
+  {
+   "title": "SCOPES: Measuring Accuracy–Portability Trade-offs Across Microarray and RNA-Seq",
+   "authors": [
+    "Abdullah Nayem Wasi Emran",
+    "Tanveer Rahman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IxAnS2tuNt",
+   "pdf_url": "https://openreview.net/pdf?id=IxAnS2tuNt"
+  },
+  {
+   "title": "SIMULTANEOUS LEARNING FROM BULK AND SINGLE-CELL EXPRESSION DATA WITH PERCEIVER-BASED MODELS",
+   "authors": [
+    "Rafal Powalski",
+    "Albert Roethel",
+    "Joanna Krawczyk",
+    "Przemysław Pietrzak",
+    "Łukasz Smoliński",
+    "Maciej Sypetkowski",
+    "Paweł Biernat",
+    "Dariusz Plewczyński",
+    "Tomasz Jetka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=exRCSDdksX",
+   "pdf_url": "https://openreview.net/pdf?id=exRCSDdksX"
+  },
+  {
+   "title": "Single-Cell Concept Bottleneck Generative Models for Interpretable and Controllable Cellular Editing",
+   "authors": [
+    "Alma Andersson",
+    "Aya Abdelsalam Ismail",
+    "Edward De Brouwer",
+    "Doron Haviv",
+    "Tommaso Biancalani",
+    "Kyunghyun Cho",
+    "Gabriele Scalia",
+    "Aicha BenTaieb",
+    "Hector Corrada Bravo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2J6mqsQkra",
+   "pdf_url": "https://openreview.net/pdf?id=2J6mqsQkra"
+  },
+  {
+   "title": "Sparse Control of Disease-Aligned Gene Programs in Single-Cell Transcriptomics",
+   "authors": [
+    "Adithya Madduri",
+    "Chirag Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4mlIrlRteS",
+   "pdf_url": "https://openreview.net/pdf?id=4mlIrlRteS"
+  },
+  {
+   "title": "Spatial Instrumental Variables for Causal Gene Regulatory Network Discovery from Spatial Transcriptomics",
+   "authors": [
+    "Ben Jenkins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JCy56qdNZd",
+   "pdf_url": "https://openreview.net/pdf?id=JCy56qdNZd"
+  },
+  {
+   "title": "SplicedVAE: Learning Splicing Ratios from scRNA-seq to Enhance RNA Velocity and Cellular Trajectories",
+   "authors": [
+    "Sahil Gupta",
+    "Andrew Ni",
+    "Jiaqi Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RcpM5BWnHd",
+   "pdf_url": "https://openreview.net/pdf?id=RcpM5BWnHd"
+  },
+  {
+   "title": "SQUINT: Spatial Quantization for Understanding and IN-painting Tissues",
+   "authors": [
+    "Arpit Merchant",
+    "Sebastian Birk",
+    "Amirhossein Vahidi",
+    "Daniyal Jafree",
+    "Lloyd Steele",
+    "April Rose Foster",
+    "Vijaya Baskar MS",
+    "Muzlifah Haniffa",
+    "Mohammad Lotfollahi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Cpg9yYyEPi",
+   "pdf_url": "https://openreview.net/pdf?id=Cpg9yYyEPi"
+  },
+  {
+   "title": "STAGE: A Foundation Model for Spatial Transcriptomics Analysis via Graph Embeddings with Hierarchical Prototypes",
+   "authors": [
+    "Zhengchao Luo",
+    "Peiting Shi",
+    "Qichen Sun",
+    "Li Yongge",
+    "Han Wen",
+    "Jinzhuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vFYAiuUqOr",
+   "pdf_url": "https://openreview.net/pdf?id=vFYAiuUqOr"
+  },
+  {
+   "title": "Structure-aware graph learning predicts RNA editability across tissues and species",
+   "authors": [
+    "Zohar Rosenwasser",
+    "Michael Levitt",
+    "Erez Levanon",
+    "Gal Oren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9oB8AK6vB7",
+   "pdf_url": "https://openreview.net/pdf?id=9oB8AK6vB7"
+  },
+  {
+   "title": "SynthPert: Enhancing LLM Biological Reasoning via Synthetic Reasoning Traces for Cellular Perturbation Prediction",
+   "authors": [
+    "Lawrence Phillips",
+    "Marc Boubnovski Martell",
+    "Aditya Misra",
+    "Josefa Lia Stoisser",
+    "Cesar A. Prada-Medina",
+    "Rory Donovan-Maiye",
+    "Kaspar Märtens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yHfzh1pVm9",
+   "pdf_url": "https://openreview.net/pdf?id=yHfzh1pVm9"
+  },
+  {
+   "title": "Taking The Easy Way Out: When Single-Cell Foundation Models Learn Shortcuts Instead of Biology",
+   "authors": [
+    "Alon Hacohen",
+    "Joseph Charles Bingham",
+    "Binyamin Perets",
+    "Dvir Aran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KlDSNIvt9A",
+   "pdf_url": "https://openreview.net/pdf?id=KlDSNIvt9A"
+  },
+  {
+   "title": "The Mechanistic Invariance Test: Genomic Language Models Fail To Learn Positional Regulatory Logic",
+   "authors": [
+    "Bryan Cheng",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m3spJY4TpC",
+   "pdf_url": "https://openreview.net/pdf?id=m3spJY4TpC"
+  },
+  {
+   "title": "TRUST-REGION SALIENCY-GUIDED LOCAL SEARCH FOR INTERPRETABLE SEQUENCE DESIGN AT FIXED EDIT BUDGETS",
+   "authors": [
+    "Sara E. Pour"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eqU8IH9kxf",
+   "pdf_url": "https://openreview.net/pdf?id=eqU8IH9kxf"
+  },
+  {
+   "title": "Uncertainty-Aware Biomarker Discovery for Alzheimer's Disease Reversal: Bridging Mouse Models and Human Translation with Conformal Prediction",
+   "authors": [
+    "David Scott Lewis",
+    "Enrique Zueco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OuNFpb2ya7",
+   "pdf_url": "https://openreview.net/pdf?id=OuNFpb2ya7"
+  },
+  {
+   "title": "VALIDATING INTERPRETABILITY IN SIRNA EFFICACY PREDICTION: A PERTURBATION-BASED, DATASET- AWARE PROTOCOL",
+   "authors": [
+    "Shadi Khodagholi",
+    "Niloofar Yousefi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0WStQt1qw5",
+   "pdf_url": "https://openreview.net/pdf?id=0WStQt1qw5"
+  },
+  {
+   "title": "VOUS: Variational Ornstein-Uhlenbeck Stochastics Linking Single-Cell Lineage Tracing with Dynamic Gene Expression",
+   "authors": [
+    "Jiawei Xing",
+    "Stephen Staklinski",
+    "Adam Siepel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jsn0fGm669",
+   "pdf_url": "https://openreview.net/pdf?id=Jsn0fGm669"
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Compositional_Learning",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:25.521Z",
+ "paper_count": 41,
+ "papers": [
+  {
+   "title": "A Linear Network Theory of Iterated Learning",
+   "authors": [
+    "Devon Jarvis",
+    "Richard Klein",
+    "Benjamin Rosman",
+    "Andrew M Saxe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xudmoaroxQ",
+   "pdf_url": "https://openreview.net/pdf?id=xudmoaroxQ"
+  },
+  {
+   "title": "A Multimodal Chain of Tools for Described Object Detection",
+   "authors": [
+    "Kwanyong Park",
+    "Youngwan Lee",
+    "Yong-Ju Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N4i4PfcrK6",
+   "pdf_url": "https://openreview.net/pdf?id=N4i4PfcrK6"
+  },
+  {
+   "title": "An Integrated Approach to Open-World Compositional Zero-Shot Learning",
+   "authors": [
+    "Hirunima Jayasekara",
+    "Khoi Pham",
+    "Nirat Saini",
+    "Abhinav Shrivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FskDHMQ03z",
+   "pdf_url": "https://openreview.net/pdf?id=FskDHMQ03z"
+  },
+  {
+   "title": "Can language model plan in extrapolated environments?: Casestudy in textualized Gridworld",
+   "authors": [
+    "Doyoung Kim",
+    "Jongwon Lee",
+    "Jinho Park",
+    "Minjoon Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8KbT2EWi9R",
+   "pdf_url": "https://openreview.net/pdf?id=8KbT2EWi9R"
+  },
+  {
+   "title": "Can Models Learn Skill Composition from Examples?",
+   "authors": [
+    "Haoyu Zhao",
+    "Simran Kaur",
+    "Dingli Yu",
+    "Anirudh Goyal",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fik6slPxSr",
+   "pdf_url": "https://openreview.net/pdf?id=Fik6slPxSr"
+  },
+  {
+   "title": "Compositional Communication with LLMs and Reasoning about Chemical Structures",
+   "authors": [
+    "Sarathkrishna Swaminathan",
+    "Dmitry Zubarev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kf7LTV4yCA",
+   "pdf_url": "https://openreview.net/pdf?id=Kf7LTV4yCA"
+  },
+  {
+   "title": "Compositional Few-shot Learning of Motions",
+   "authors": [
+    "Omkar Patil",
+    "Anant Sah",
+    "Nakul Gopalan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2wKWrVaC9W",
+   "pdf_url": "https://openreview.net/pdf?id=2wKWrVaC9W"
+  },
+  {
+   "title": "Compositional Risk Minimization",
+   "authors": [
+    "Divyat Mahajan",
+    "Mohammad Pezeshki",
+    "Ioannis Mitliagkas",
+    "Kartik Ahuja",
+    "Pascal Vincent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tx148Q8KoB",
+   "pdf_url": "https://openreview.net/pdf?id=tx148Q8KoB"
+  },
+  {
+   "title": "Compositional Visual Reasoning with SlotSSMs",
+   "authors": [
+    "Jindong Jiang",
+    "Fei Deng",
+    "Gautam Singh",
+    "Minseung Lee",
+    "Sungjin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6pnlQGkHTw",
+   "pdf_url": "https://openreview.net/pdf?id=6pnlQGkHTw"
+  },
+  {
+   "title": "ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty",
+   "authors": [
+    "Xindi Wu",
+    "Dingli Yu",
+    "Yangsibo Huang",
+    "Olga Russakovsky",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2UWnlxVNPz",
+   "pdf_url": "https://openreview.net/pdf?id=2UWnlxVNPz"
+  },
+  {
+   "title": "CoS: Enhancing Personalization with Context Steering",
+   "authors": [
+    "Sashrika Pandey",
+    "Jerry Zhi-Yang He",
+    "Mariah L Schrum",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kZ7oWQh2Ha",
+   "pdf_url": "https://openreview.net/pdf?id=kZ7oWQh2Ha"
+  },
+  {
+   "title": "Crafting Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets",
+   "authors": [
+    "Yuandong Tian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qtCWUSMw97",
+   "pdf_url": "https://openreview.net/pdf?id=qtCWUSMw97"
+  },
+  {
+   "title": "Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models",
+   "authors": [
+    "Lynn Chua",
+    "Badih Ghazi",
+    "Yangsibo Huang",
+    "Pritish Kamath",
+    "Ravi Kumar",
+    "Pasin Manurangsi",
+    "Amer Sinha",
+    "Chulin Xie",
+    "Chiyuan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LyRpeFlxDZ",
+   "pdf_url": "https://openreview.net/pdf?id=LyRpeFlxDZ"
+  },
+  {
+   "title": "Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models",
+   "authors": [
+    "Arash Mari Oriyad",
+    "Parham Rezaei",
+    "Mahdieh Soleymani Baghshah",
+    "Mohammad Hossein Rohban"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WxRS0Nld3X",
+   "pdf_url": "https://openreview.net/pdf?id=WxRS0Nld3X"
+  },
+  {
+   "title": "Dynamic Symbolic Representation and LLM to Enhance Task Abstraction in Hierarchical Reinforcement Learning",
+   "authors": [
+    "Sao Mai Nguyen",
+    "Zihe Ji",
+    "Mehdi Zadem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DM6q3YPWqG",
+   "pdf_url": "https://openreview.net/pdf?id=DM6q3YPWqG"
+  },
+  {
+   "title": "Enhancing Generalization in Sparse Mixture of Experts Models: The Case for Increased Expert Activation in Compositional Tasks",
+   "authors": [
+    "Jinze Zhao",
+    "Junjie Yang",
+    "Peihao Wang",
+    "Yingbin Liang",
+    "Zhangyang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yhhkvDriTw",
+   "pdf_url": "https://openreview.net/pdf?id=yhhkvDriTw"
+  },
+  {
+   "title": "Evaluating Language Models Planning Capabilities on Goal Ordering Challenges",
+   "authors": [
+    "Eran Hirsch",
+    "Guy Uziel",
+    "Ateret Anaby Tavor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JxWBsyq5Is",
+   "pdf_url": "https://openreview.net/pdf?id=JxWBsyq5Is"
+  },
+  {
+   "title": "Exploring A Bayesian View On Compositional and Counterfactual Generalization",
+   "authors": [
+    "Patrik Reizinger",
+    "Rahul Krishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e8GyFrNKzX",
+   "pdf_url": "https://openreview.net/pdf?id=e8GyFrNKzX"
+  },
+  {
+   "title": "Faster Slot Decoding using Masked Transformer",
+   "authors": [
+    "Akihiro Nakano",
+    "Masahiro Suzuki",
+    "Yutaka Matsuo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n30V6R7Nuf",
+   "pdf_url": "https://openreview.net/pdf?id=n30V6R7Nuf"
+  },
+  {
+   "title": "From Text to Pose to Image: Improving Diffusion Model Control and Quality",
+   "authors": [
+    "Clément Bonnet",
+    "Ariel N. Lee",
+    "Franck Wertel",
+    "Antoine Tamano",
+    "Tanguy Cizain",
+    "Pablo Ducru"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wf0OI5bpGu",
+   "pdf_url": "https://openreview.net/pdf?id=Wf0OI5bpGu"
+  },
+  {
+   "title": "Generating Intermediate Representations for Compositional Text-To-Image Generation",
+   "authors": [
+    "Ran Galun",
+    "Sagie Benaim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XbUrsk3Iik",
+   "pdf_url": "https://openreview.net/pdf?id=XbUrsk3Iik"
+  },
+  {
+   "title": "Geometric Signatures of Compositionality in Language Models",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Jin Hwa Lee",
+    "Lei Yu",
+    "Emily Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yY2edTb9VJ",
+   "pdf_url": "https://openreview.net/pdf?id=yY2edTb9VJ"
+  },
+  {
+   "title": "GSR-Bench: A Benchmark for Grounded Spatial Reasoning Evaluation via Multimodal LLMs",
+   "authors": [
+    "Navid Rajabi",
+    "Jana Kosecka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RMXeP6b1qp",
+   "pdf_url": "https://openreview.net/pdf?id=RMXeP6b1qp"
+  },
+  {
+   "title": "HAMMR : HierArchical MultiModal React agents for generic VQA",
+   "authors": [
+    "Lluis Castrejon",
+    "Thomas Mensink",
+    "Howard Zhou",
+    "Vittorio Ferrari",
+    "Andre Araujo",
+    "Jasper Uijlings"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AAH9wsYzvb",
+   "pdf_url": "https://openreview.net/pdf?id=AAH9wsYzvb"
+  },
+  {
+   "title": "Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning",
+   "authors": [
+    "Simran Kaur",
+    "Simon Park",
+    "Anirudh Goyal",
+    "Sanjeev Arora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BJV9RZyAlB",
+   "pdf_url": "https://openreview.net/pdf?id=BJV9RZyAlB"
+  },
+  {
+   "title": "Latent Concept-based Explanation of NLP Models",
+   "authors": [
+    "Xuemin Yu",
+    "Fahim Dalvi",
+    "Nadir Durrani",
+    "Marzia Nouri",
+    "Hassan Sajjad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NKiUjbXrYI",
+   "pdf_url": "https://openreview.net/pdf?id=NKiUjbXrYI"
+  },
+  {
+   "title": "Learning Via Imagination: Controlled Diffusion Image Augmentation",
+   "authors": [
+    "Judah A Goldfeder",
+    "Patrick Minwan Puma",
+    "Gabriel Guo",
+    "Gabriel Guerra Trigo",
+    "Hod Lipson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BwP4MT21Os",
+   "pdf_url": "https://openreview.net/pdf?id=BwP4MT21Os"
+  },
+  {
+   "title": "Object-Centric Temporal Consistency via Conditional Autoregressive Inductive Biases",
+   "authors": [
+    "Cristian Meo",
+    "Akihiro Nakano",
+    "Mircea Tudor Lică",
+    "Aniket Rajiv Didolkar",
+    "Masahiro Suzuki",
+    "Anirudh Goyal",
+    "Mengmi Zhang",
+    "Justin Dauwels",
+    "Yutaka Matsuo",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=og4DlYK4Vy",
+   "pdf_url": "https://openreview.net/pdf?id=og4DlYK4Vy"
+  },
+  {
+   "title": "OC-CLIP : Object-centric Binding in Contrastive Language-Image Pretraining",
+   "authors": [
+    "Rim Assouel",
+    "Pietro Astolfi",
+    "Florian Bordes",
+    "Michal Drozdzal",
+    "Adriana Romero-Soriano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eLSRqej3dZ",
+   "pdf_url": "https://openreview.net/pdf?id=eLSRqej3dZ"
+  },
+  {
+   "title": "Pretraining Frequency Predicts Compositional Generalization of CLIP on Real-World Tasks",
+   "authors": [
+    "Thaddäus Wiedemer",
+    "Yash Sharma",
+    "Ameya Prabhu",
+    "Matthias Bethge",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NDXoM1wYgl",
+   "pdf_url": "https://openreview.net/pdf?id=NDXoM1wYgl"
+  },
+  {
+   "title": "Provably Learning Concepts by Comparison",
+   "authors": [
+    "Yujia Zheng",
+    "Shaoan Xie",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fihPHOtHJL",
+   "pdf_url": "https://openreview.net/pdf?id=fihPHOtHJL"
+  },
+  {
+   "title": "Relational composition during attribute retrieval in GPT is not purely linear",
+   "authors": [
+    "Michael B. McCoy",
+    "Anna Leshinskaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pOPslfba3n",
+   "pdf_url": "https://openreview.net/pdf?id=pOPslfba3n"
+  },
+  {
+   "title": "Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts",
+   "authors": [
+    "Anna Mészáros",
+    "Szilvia Ujváry",
+    "Wieland Brendel",
+    "Patrik Reizinger",
+    "Ferenc Huszár"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F7YtOiWjmM",
+   "pdf_url": "https://openreview.net/pdf?id=F7YtOiWjmM"
+  },
+  {
+   "title": "Scalable and interpretable quantum natural language processing: an implementation on trapped ions",
+   "authors": [
+    "Tiffany Duneau",
+    "Saskia Bruhn",
+    "Gabriel Matos",
+    "Tuomas Laakkonen",
+    "Katerina Saiti",
+    "Anna Pearson",
+    "Konstantinos Meichanetzidis",
+    "Bob Coecke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=phxJsY3UbK",
+   "pdf_url": "https://openreview.net/pdf?id=phxJsY3UbK"
+  },
+  {
+   "title": "Sometimes I am a Tree: Data Drives Fragile Hierarchical Generalization",
+   "authors": [
+    "Tian Qin",
+    "Naomi Saphra",
+    "David Alvarez-Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FkIRyM7Uej",
+   "pdf_url": "https://openreview.net/pdf?id=FkIRyM7Uej"
+  },
+  {
+   "title": "Successes and Limitations of Object-centric Models at Compositional Generalisation",
+   "authors": [
+    "Milton L. Montero",
+    "Jeffrey Bowers",
+    "Gaurav Malhotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CQCOxAfDUX",
+   "pdf_url": "https://openreview.net/pdf?id=CQCOxAfDUX"
+  },
+  {
+   "title": "Towards Object-Centric Learning with General Purpose Architectures",
+   "authors": [
+    "Jack Brady",
+    "Julius von Kügelgen",
+    "Sebastien Lachapelle",
+    "Simon Buchholz",
+    "Thomas Kipf",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aaBgfEowov",
+   "pdf_url": "https://openreview.net/pdf?id=aaBgfEowov"
+  },
+  {
+   "title": "Transformer-based Imagination with Slot Attention",
+   "authors": [
+    "Yosuke Nishimoto",
+    "Takashi Matsubara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tDoDsPE1R5",
+   "pdf_url": "https://openreview.net/pdf?id=tDoDsPE1R5"
+  },
+  {
+   "title": "Transformers Can Learn Meta-skills for Task Generalization in In-Context Learning",
+   "authors": [
+    "Ying Fan",
+    "Steve Yadlowsky",
+    "Dimitris Papailiopoulos",
+    "Kangwook Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=53dFaE1tFd",
+   "pdf_url": "https://openreview.net/pdf?id=53dFaE1tFd"
+  },
+  {
+   "title": "Understanding Simplicity Bias towards Compositional Mappings via Learning Dynamics",
+   "authors": [
+    "Yi Ren",
+    "Danica J. Sutherland"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TOEv2N7RuG",
+   "pdf_url": "https://openreview.net/pdf?id=TOEv2N7RuG"
+  },
+  {
+   "title": "Unraveling the Latent Hierarchical Structure of Language and Images via Diffusion Models",
+   "authors": [
+    "Antonio Sclocchi",
+    "Noam Itzhak Levi",
+    "Alessandro Favero",
+    "Matthieu Wyart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KCXJwiVnAJ",
+   "pdf_url": "https://openreview.net/pdf?id=KCXJwiVnAJ"
+  }
+ ]
+}

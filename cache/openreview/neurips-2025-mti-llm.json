@@ -1,0 +1,1635 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/MTI-LLM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:06.378Z",
+ "paper_count": 122,
+ "papers": [
+  {
+   "title": "$\\mathbf{T^3}$: Reducing Belief Deviation in Reinforcement Learning for Active Reasoning",
+   "authors": [
+    "Deyu Zou",
+    "Yongqiang Chen",
+    "Jianxiang Wang",
+    "Garry YANG",
+    "Mufei Li",
+    "Qing Da",
+    "Pan Li",
+    "Yu Gong",
+    "James Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rhgO9ucwQR",
+   "pdf_url": "https://openreview.net/pdf?id=rhgO9ucwQR"
+  },
+  {
+   "title": "$\\textit{The Traitors}$: Deception and Trust in Multi-Agent Language Model Simulations",
+   "authors": [
+    "Pedro M. P. Curvo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1YjrWLAXJr",
+   "pdf_url": "https://openreview.net/pdf?id=1YjrWLAXJr"
+  },
+  {
+   "title": "A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations",
+   "authors": [
+    "Li Li",
+    "Peilin Cai",
+    "Ryan A. Rossi",
+    "Franck Dernoncourt",
+    "Branislav Kveton",
+    "Junda Wu",
+    "Tong Yu",
+    "Linxin Song",
+    "Tiankai Yang",
+    "Yuehan Qin",
+    "Nesreen K. Ahmed",
+    "Samyadeep Basu",
+    "Subhojyoti Mukherjee",
+    "Ruiyi Zhang",
+    "Zhengmian Hu",
+    "Bo Ni",
+    "Yuxiao Zhou",
+    "Zichao Wang",
+    "Yue Huang",
+    "Yu Wang",
+    "Xiangliang Zhang",
+    "Philip S. Yu",
+    "Xiyang Hu",
+    "Yue Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wC7IjzOANL",
+   "pdf_url": "https://openreview.net/pdf?id=wC7IjzOANL"
+  },
+  {
+   "title": "A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning",
+   "authors": [
+    "Ruiyi Wang",
+    "Prithviraj Ammanabrolu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yPWJG9wgll",
+   "pdf_url": "https://openreview.net/pdf?id=yPWJG9wgll"
+  },
+  {
+   "title": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
+   "authors": [
+    "Hong Je-Gal",
+    "Chanbin YI",
+    "Hyun-Suk Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oQdo7H38dC",
+   "pdf_url": "https://openreview.net/pdf?id=oQdo7H38dC"
+  },
+  {
+   "title": "AgentChangeBench: A Multi-Dimensional Evaluation Framework for Goal-Shift Robustness in Conversational AI",
+   "authors": [
+    "Manik Rana",
+    "Calissa Man",
+    "Anotida Expected Msiiwa",
+    "Jeffrey Paine",
+    "Ahan M R"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZCi58UP9uR",
+   "pdf_url": "https://openreview.net/pdf?id=ZCi58UP9uR"
+  },
+  {
+   "title": "AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents",
+   "authors": [
+    "Jingxu Xie",
+    "Dylan Xu",
+    "Xuandong Zhao",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DnSxspJCme",
+   "pdf_url": "https://openreview.net/pdf?id=DnSxspJCme"
+  },
+  {
+   "title": "AI Debaters are More Persuasive when Arguing in Alignment with Their Own Beliefs",
+   "authors": [
+    "María Victoria Carro",
+    "Denise Alejandra Mester",
+    "Facundo Nieto",
+    "Oscar Agustín Stanchi",
+    "Guido Ernesto Bergman",
+    "Mario Leiva",
+    "Luca Nicolás Forziati Gangi",
+    "Eitan Sprejer",
+    "Francisca Gauna Selasco",
+    "Juan Gustavo Corvalan",
+    "Maria Vanina Martinez",
+    "Gerardo Simari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDdJghGm6K",
+   "pdf_url": "https://openreview.net/pdf?id=JDdJghGm6K"
+  },
+  {
+   "title": "Alignment via Competition: Emergent Alignment from Differently Misaligned Agents",
+   "authors": [
+    "Natalie Collina",
+    "Surbhi Goel",
+    "Aaron Roth",
+    "Emily Ryu",
+    "Mirah Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7vn3zLUJsg",
+   "pdf_url": "https://openreview.net/pdf?id=7vn3zLUJsg"
+  },
+  {
+   "title": "Another Turn, Better Output? A Turn-Wise Analysis of Iterative LLM Prompting",
+   "authors": [
+    "Shashidhar Reddy Javaji",
+    "Bhavul Gauri",
+    "Zining Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nPgh13kzhW",
+   "pdf_url": "https://openreview.net/pdf?id=nPgh13kzhW"
+  },
+  {
+   "title": "Are LLMs Generalist Hanabi Agents?",
+   "authors": [
+    "Mahesh Ramesh",
+    "Aswinkumar Ramkumar",
+    "Pavan Thodima",
+    "Kaousheik Jayakumar",
+    "Aniket Rege"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MIhA9OQFxM",
+   "pdf_url": "https://openreview.net/pdf?id=MIhA9OQFxM"
+  },
+  {
+   "title": "AsymPuzl: An Asymmetric Puzzle for multi-agent cooperation",
+   "authors": [
+    "Xavier Cadet",
+    "Edward Koh",
+    "Peter Chin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SXcJh8hoLz",
+   "pdf_url": "https://openreview.net/pdf?id=SXcJh8hoLz"
+  },
+  {
+   "title": "AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive  Planning Agents",
+   "authors": [
+    "Takyoung Kim",
+    "Janvijay Singh",
+    "Shuhaib Mehri",
+    "Emre Can Acikgoz",
+    "Sagnik Mukherjee",
+    "Nimet Beyza Bozdag",
+    "Sumuk Shashidhar",
+    "Gokhan Tur",
+    "Dilek Hakkani-Tür"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8nDty2iFl1",
+   "pdf_url": "https://openreview.net/pdf?id=8nDty2iFl1"
+  },
+  {
+   "title": "Automating Deception: Scalable Multi-Turn LLM Jailbreaks",
+   "authors": [
+    "Adarsh Kumarappan",
+    "Ananya Mujoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ePGtpjbr5g",
+   "pdf_url": "https://openreview.net/pdf?id=ePGtpjbr5g"
+  },
+  {
+   "title": "Benchmarking Correctness and Security in Multi-Turn Code Generation",
+   "authors": [
+    "Ruchit Rawal",
+    "Jeffrey Yang Fan Chiang",
+    "Jeffery Siyuan Tian",
+    "Aastha Mahajan",
+    "Tom Goldstein",
+    "Yizheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GIvfdmlvMA",
+   "pdf_url": "https://openreview.net/pdf?id=GIvfdmlvMA"
+  },
+  {
+   "title": "Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL",
+   "authors": [
+    "Jiaxuan Gao",
+    "Wei Fu",
+    "Minyang Xie",
+    "Shusheng Xu",
+    "Chuyi He",
+    "Zhiyu Mei",
+    "Banghua Zhu",
+    "Yi Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JSYCLJcniH",
+   "pdf_url": "https://openreview.net/pdf?id=JSYCLJcniH"
+  },
+  {
+   "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation  Benchmark of Deep-Research Agent",
+   "authors": [
+    "Zijian Chen",
+    "Xueguang Ma",
+    "Shengyao Zhuang",
+    "Ping Nie",
+    "Kai Zou",
+    "Sahel Sharifymoghaddam",
+    "Andrew Liu",
+    "Joshua Green",
+    "Kshama Patel",
+    "Ruoxi Meng",
+    "Mingyi Su",
+    "Yanxi Li",
+    "Haoran Hong",
+    "Xinyu Shi",
+    "Xuye Liu",
+    "Nandan Thakur",
+    "Crystina Zhang",
+    "Luyu Gao",
+    "Wenhu Chen",
+    "Jimmy Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YJAA2PzfDi",
+   "pdf_url": "https://openreview.net/pdf?id=YJAA2PzfDi"
+  },
+  {
+   "title": "BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks",
+   "authors": [
+    "Sagnik Anupam",
+    "Davis Brown",
+    "Shuo Li",
+    "Eric Wong",
+    "Hamed Hassani",
+    "Osbert Bastani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yd3c3Xztgj",
+   "pdf_url": "https://openreview.net/pdf?id=yd3c3Xztgj"
+  },
+  {
+   "title": "CaRT: Teaching LLM Agents to Know When They Know Enough",
+   "authors": [
+    "Grace Liu",
+    "Yuxiao Qu",
+    "Jeff Schneider",
+    "Aarti Singh",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zHMwFgJsmk",
+   "pdf_url": "https://openreview.net/pdf?id=zHMwFgJsmk"
+  },
+  {
+   "title": "CEDA: Cross-modal Evaluation through Debate Agents for Robust Hallucination Detection",
+   "authors": [
+    "Susmit Neogi",
+    "Wang Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eyzvlUMKJM",
+   "pdf_url": "https://openreview.net/pdf?id=eyzvlUMKJM"
+  },
+  {
+   "title": "Characterization and Detection of Incompleteness and Ambiguity in Multi-Turn Interactions with LLMs",
+   "authors": [
+    "Riya Naik",
+    "Ashwin Srinivasan",
+    "Swati Agarwal",
+    "Estrid He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZxRznpOQFT",
+   "pdf_url": "https://openreview.net/pdf?id=ZxRznpOQFT"
+  },
+  {
+   "title": "ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care",
+   "authors": [
+    "Zonghai Yao",
+    "Talha Chafekar",
+    "Junda Wang",
+    "Shuo Han",
+    "Feiyun Ouyang",
+    "Junhui Qian",
+    "Lingxi Li",
+    "hong yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EhRz3a6AEd",
+   "pdf_url": "https://openreview.net/pdf?id=EhRz3a6AEd"
+  },
+  {
+   "title": "Collaborative Prediction: Tractable Information Aggregation via Agreement",
+   "authors": [
+    "Natalie Collina",
+    "Ira Globus-Harris",
+    "Surbhi Goel",
+    "Varun Gupta",
+    "Aaron Roth",
+    "Mirah Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cWBxoX7v6z",
+   "pdf_url": "https://openreview.net/pdf?id=cWBxoX7v6z"
+  },
+  {
+   "title": "ConDABench: Interactive Evaluation of Language Models for Data Analysis",
+   "authors": [
+    "Avik Dutta",
+    "Priyanshu Gupta",
+    "Hosein Hasanbeig",
+    "Rahul Pratap Singh",
+    "Harshit Nigam",
+    "Sumit Gulwani",
+    "Arjun Radhakrishna",
+    "Gustavo Soares",
+    "Ashish Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Ynbsc8e7F",
+   "pdf_url": "https://openreview.net/pdf?id=1Ynbsc8e7F"
+  },
+  {
+   "title": "Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation",
+   "authors": [
+    "Pratik S. Sachdeva",
+    "Tom van Nuenen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3eJU2zwMz4",
+   "pdf_url": "https://openreview.net/pdf?id=3eJU2zwMz4"
+  },
+  {
+   "title": "CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures",
+   "authors": [
+    "Punya Syon Pandey",
+    "Yongjin Yang",
+    "Jiarui Liu",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cArAB6Sj5X",
+   "pdf_url": "https://openreview.net/pdf?id=cArAB6Sj5X"
+  },
+  {
+   "title": "CRMWeaver: Building Powerful Business Agent via Agentic RL and Shared Memories",
+   "authors": [
+    "Yilong Lai",
+    "Yipin Yang",
+    "Jialong Wu",
+    "Zhenglin Wang",
+    "Ting Liang",
+    "Linjianguo",
+    "Keping Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uqMPNWvMkp",
+   "pdf_url": "https://openreview.net/pdf?id=uqMPNWvMkp"
+  },
+  {
+   "title": "Customer-R1: personalized simulation of Human Behaviors via RL-based LLM Agent in Online Shopping",
+   "authors": [
+    "Ziyi Wang",
+    "Yuxuan Lu",
+    "Yimeng Zhang",
+    "Jing Huang",
+    "Dakuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1zNmEA6UqC",
+   "pdf_url": "https://openreview.net/pdf?id=1zNmEA6UqC"
+  },
+  {
+   "title": "Delay-of-Gratification as a Multi-Agent Survival Micro-benchmark for Long-Horizon LLMs: Social Exposure, Personas, and Tool Use Budgets",
+   "authors": [
+    "Olga Manakina",
+    "Igor Bogdanov",
+    "Chung-Horng Lung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lGYJdWYUOf",
+   "pdf_url": "https://openreview.net/pdf?id=lGYJdWYUOf"
+  },
+  {
+   "title": "DeLLMphi: A Multi-Turn Method for Multi-Agent Forecasting",
+   "authors": [
+    "Andrew Robert Williams",
+    "Martin Weiss",
+    "Victoria Feere",
+    "Nasim Rahaman",
+    "Hugo Larochelle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W7a4UjLk1I",
+   "pdf_url": "https://openreview.net/pdf?id=W7a4UjLk1I"
+  },
+  {
+   "title": "Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy",
+   "authors": [
+    "Alexander Duffy",
+    "Samuel J Paech",
+    "Ishana Shastri",
+    "Elizabeth Karpinski",
+    "Baptiste Alloui-Cros",
+    "Matthew Lyle Olson",
+    "Tyler Marques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xuivQOPLeP",
+   "pdf_url": "https://openreview.net/pdf?id=xuivQOPLeP"
+  },
+  {
+   "title": "Disclosure Audits for LLM Agents",
+   "authors": [
+    "Saswat Das",
+    "Jameson Sandler",
+    "Ferdinando Fioretto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BV6QBwZkfK",
+   "pdf_url": "https://openreview.net/pdf?id=BV6QBwZkfK"
+  },
+  {
+   "title": "Do Large Language Models Defend Their Beliefs Consistently?",
+   "authors": [
+    "Arka Pal",
+    "Arthur Liang",
+    "Teo Kitanovski",
+    "Akilesh Potti",
+    "Micah Goldblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QPIF5FVc4f",
+   "pdf_url": "https://openreview.net/pdf?id=QPIF5FVc4f"
+  },
+  {
+   "title": "Efficient Reinforcement Learning for Optimizing Multi-turn Student Outcomes with LLM Tutors",
+   "authors": [
+    "HyunJi Nam",
+    "Omer Gottesman",
+    "Amy Zhang",
+    "Dean Foster",
+    "Emma Brunskill",
+    "Lyle Ungar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CD42kp2k2O",
+   "pdf_url": "https://openreview.net/pdf?id=CD42kp2k2O"
+  },
+  {
+   "title": "ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models",
+   "authors": [
+    "Haziq Mohammad Khalid",
+    "Athikash Jeyaganthan",
+    "Timothy Do",
+    "Yicheng Fu",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xPWycbxQn9",
+   "pdf_url": "https://openreview.net/pdf?id=xPWycbxQn9"
+  },
+  {
+   "title": "Estimating the Empowerment of Language Model Agents",
+   "authors": [
+    "Jinyeop Song",
+    "Jeff Gore",
+    "Max Kleiman-Weiner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kAkWp5v0c5",
+   "pdf_url": "https://openreview.net/pdf?id=kAkWp5v0c5"
+  },
+  {
+   "title": "ExploraTutor: A Dataset for Children’s Exploratory Dialogue by Integrating Multiple Educational theories",
+   "authors": [
+    "Siqi Xie",
+    "Yaxin Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3QOfj38jwf",
+   "pdf_url": "https://openreview.net/pdf?id=3QOfj38jwf"
+  },
+  {
+   "title": "Exploring exploration with foundation agents in interactive environments",
+   "authors": [
+    "Daniel P. Sawyer",
+    "Nan Rosemary Ke",
+    "Hubert Soyer",
+    "Martin Engelcke",
+    "John Reid",
+    "David P Reichert",
+    "Drew A. Hudson",
+    "Alexander Lerchner",
+    "Danilo Jimenez Rezende",
+    "Timothy P Lillicrap",
+    "Michael Curtis Mozer",
+    "Jane X Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TyMA8fpmsW",
+   "pdf_url": "https://openreview.net/pdf?id=TyMA8fpmsW"
+  },
+  {
+   "title": "Fathom-Search-4B: Scaling DeepSearch Reasoning Capabilities via RL",
+   "authors": [
+    "Shreyas Singh",
+    "Kunal Singh",
+    "Pradeep Moturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HdNwfRubZW",
+   "pdf_url": "https://openreview.net/pdf?id=HdNwfRubZW"
+  },
+  {
+   "title": "Firm or Fickle? Evaluating Large Language Models Consistency in Sequential Interactions",
+   "authors": [
+    "Yubo Li",
+    "Yidi Miao",
+    "Xueying Ding",
+    "Ramayya Krishnan",
+    "Rema Padman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0DL9EHAT6",
+   "pdf_url": "https://openreview.net/pdf?id=m0DL9EHAT6"
+  },
+  {
+   "title": "FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management",
+   "authors": [
+    "Xiang Liu",
+    "Hong Chen",
+    "Xuming Hu",
+    "Xiaowen Chu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rZumU1owkr",
+   "pdf_url": "https://openreview.net/pdf?id=rZumU1owkr"
+  },
+  {
+   "title": "Goal Alignment in LLM-Based User Simulators for Conversational AI",
+   "authors": [
+    "Shuhaib Mehri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YDGj4W3ZSS",
+   "pdf_url": "https://openreview.net/pdf?id=YDGj4W3ZSS"
+  },
+  {
+   "title": "Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs",
+   "authors": [
+    "Mohammad Akbar-Tajari",
+    "Mohammad Taher Pilehvar",
+    "Mohammad Mahmoody"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y0sJzEaNaO",
+   "pdf_url": "https://openreview.net/pdf?id=Y0sJzEaNaO"
+  },
+  {
+   "title": "How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ -bench",
+   "authors": [
+    "Venkatesh Mishra",
+    "Amir Saeidi",
+    "Satyam Raj",
+    "Mutsumi Nakamura",
+    "Jayanth Srinivasa",
+    "Gaowen Liu",
+    "Ali Payani",
+    "Chitta Baral"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DNLfJbGV6D",
+   "pdf_url": "https://openreview.net/pdf?id=DNLfJbGV6D"
+  },
+  {
+   "title": "How to Train Your LLM Web Agent: A Statistical Diagnosis",
+   "authors": [
+    "Dheeraj Vattikonda",
+    "Santhoshi Ravichandran",
+    "Emiliano Penaloza",
+    "Hadi Nekoei",
+    "Megh Thakkar",
+    "Thibault Le Sellier de Chezelles",
+    "Nicolas Gontier",
+    "Miguel Muñoz-Mármol",
+    "Sahar Omidi Shayegan",
+    "Stefania Raimondo",
+    "Xue Liu",
+    "Alexandre Drouin",
+    "Laurent Charlin",
+    "Alexandre Piché",
+    "Alexandre Lacoste",
+    "Massimo Caccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HBx2K7SVYh",
+   "pdf_url": "https://openreview.net/pdf?id=HBx2K7SVYh"
+  },
+  {
+   "title": "Improved Multi-Agent Collaboration with Multi-Turn Reinforcement Learning",
+   "authors": [
+    "Shuo Liu",
+    "Tianle Chen",
+    "Christopher Amato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WYfzRJgWbO",
+   "pdf_url": "https://openreview.net/pdf?id=WYfzRJgWbO"
+  },
+  {
+   "title": "Improving Language Agents through BREW: Bootstrapping expeRientially-learned Environmental knoWledge",
+   "authors": [
+    "Shashank Kirtania",
+    "Param Biyani",
+    "Priyanshu Gupta",
+    "Yasharth Bajpai",
+    "Roshni Iyer",
+    "Sumit Gulwani",
+    "Gustavo Soares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QwfXAWe06Q",
+   "pdf_url": "https://openreview.net/pdf?id=QwfXAWe06Q"
+  },
+  {
+   "title": "Interleaved Reasoning for Large Language Models via Reinforcement Learning",
+   "authors": [
+    "Roy Xie",
+    "David Qiu",
+    "Deepak Gopinath",
+    "Dong Lin",
+    "Yanchao Sun",
+    "Chong Wang",
+    "Saloni Potdar",
+    "Bhuwan Dhingra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zjUMT9uu68",
+   "pdf_url": "https://openreview.net/pdf?id=zjUMT9uu68"
+  },
+  {
+   "title": "It's LIT! Reliability-Optimized LLMs with Inspectable Tools",
+   "authors": [
+    "Ruixin Zhang",
+    "Jon Donnelly",
+    "Zhicheng Guo",
+    "Ghazal Khalighinejad",
+    "Haiyang Huang",
+    "Alina Jade Barnett",
+    "Cynthia Rudin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8YcgrMead8",
+   "pdf_url": "https://openreview.net/pdf?id=8YcgrMead8"
+  },
+  {
+   "title": "Language Models Rate Their Own Actions As Safer",
+   "authors": [
+    "Dipika Khullar",
+    "Jack Hopkins",
+    "Rowan Wang",
+    "Fabien Roger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NUSYIHi4eg",
+   "pdf_url": "https://openreview.net/pdf?id=NUSYIHi4eg"
+  },
+  {
+   "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+   "authors": [
+    "Addison J. Wu",
+    "Ryan Liu",
+    "Xuechunzi Bai",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WriYV2ipL8",
+   "pdf_url": "https://openreview.net/pdf?id=WriYV2ipL8"
+  },
+  {
+   "title": "Learning to be Proactive from Missed User-Signals in Multi-turn Dialogues",
+   "authors": [
+    "Saba Rahimi",
+    "Sivapriya Vellaichamy",
+    "Kelly Patel",
+    "Thomas Cook",
+    "Zhen Zeng",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CwiMAhmDG1",
+   "pdf_url": "https://openreview.net/pdf?id=CwiMAhmDG1"
+  },
+  {
+   "title": "Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification",
+   "authors": [
+    "Moises Andrade",
+    "Joonhyuk Cha",
+    "Brandon Ho",
+    "Vriksha Srihari",
+    "Karmesh Yadav",
+    "Zsolt Kira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eceX2knsGZ",
+   "pdf_url": "https://openreview.net/pdf?id=eceX2knsGZ"
+  },
+  {
+   "title": "Let’s Try Again: Eliciting Multi-Turn Reasoning in Language Models via Simplistic Feedback",
+   "authors": [
+    "Licheng Liu",
+    "Zihan Wang",
+    "Linjie Li",
+    "Chenwei Xu",
+    "Yiping Lu",
+    "Han Liu",
+    "Avirup Sil",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PPn6XHJa1I",
+   "pdf_url": "https://openreview.net/pdf?id=PPn6XHJa1I"
+  },
+  {
+   "title": "Leveraging In-Context Learning for Language Model Agents",
+   "authors": [
+    "Shivanshu Gupta",
+    "Sameer Singh",
+    "Ashish Sabharwal",
+    "Tushar Khot",
+    "Ben Bogin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BzBqRAbdFC",
+   "pdf_url": "https://openreview.net/pdf?id=BzBqRAbdFC"
+  },
+  {
+   "title": "LLM Rationalis? Measuring bargaining capabilities of AI negotiators",
+   "authors": [
+    "Cheril Shah",
+    "Akshit Agarwal",
+    "Kanak Garg",
+    "Mourad Heddaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ui0mNJzfSC",
+   "pdf_url": "https://openreview.net/pdf?id=Ui0mNJzfSC"
+  },
+  {
+   "title": "MAC: A Multi-Agent Framework for Interactive User Clarification in Multi-turn Conversations",
+   "authors": [
+    "Emre Can Acikgoz",
+    "Jinoh Oh",
+    "Joo Hyuk Jeon",
+    "Jie Hao",
+    "Heng Ji",
+    "Dilek Hakkani-Tür",
+    "Gokhan Tur",
+    "Xiang Li",
+    "Chengyuan Ma",
+    "Xing Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pDOtqzaZAf",
+   "pdf_url": "https://openreview.net/pdf?id=pDOtqzaZAf"
+  },
+  {
+   "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
+   "authors": [
+    "Reza Yousefi Maragheh",
+    "Jayesh Uddhav Kudase",
+    "Aysenur Inan",
+    "Ramin Giahi",
+    "Kai Zhao",
+    "Jianpeng Xu",
+    "Jason Cho",
+    "Evren Korpeoglu",
+    "Sushant Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uSijBMsVqW",
+   "pdf_url": "https://openreview.net/pdf?id=uSijBMsVqW"
+  },
+  {
+   "title": "MELISSA: Multi-level Evaluation with LLM-based Integrated Self-Scrutiny and Auditing",
+   "authors": [
+    "Amirhossein Afsharrad",
+    "Sri Jaladi",
+    "Nima Yazdani",
+    "Ali Ansari",
+    "Seyed Shahabeddin Mousavi",
+    "Sanjay Lall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZaxCviYEvT",
+   "pdf_url": "https://openreview.net/pdf?id=ZaxCviYEvT"
+  },
+  {
+   "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+   "authors": [
+    "Zijian Zhou",
+    "Ao Qu",
+    "Zhaoxuan Wu",
+    "Sunghwan Kim",
+    "Alok Prakash",
+    "Daniela Rus",
+    "Jinhua Zhao",
+    "Bryan Kian Hsiang Low",
+    "Paul Pu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jJ6F1sDn9i",
+   "pdf_url": "https://openreview.net/pdf?id=jJ6F1sDn9i"
+  },
+  {
+   "title": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
+   "authors": [
+    "Boyu Gou",
+    "Zanming Huang",
+    "Yuting Ning",
+    "Yu Gu",
+    "Michael Lin",
+    "Weijian Qi",
+    "Andrei Kopanev",
+    "Botao Yu",
+    "Bernal Jiménez Gutiérrez",
+    "Yiheng Shu",
+    "Chan Hee Song",
+    "Jiaman Wu",
+    "Shijie Chen",
+    "Hanane Nour Moussa",
+    "TIANSHU ZHANG",
+    "Jian Xie",
+    "Yifei Li",
+    "Tianci Xue",
+    "Zeyi Liao",
+    "Kai Zhang",
+    "Boyuan Zheng",
+    "Zhaowei Cai",
+    "Viktor Rozgic",
+    "Morteza Ziyadi",
+    "Huan Sun",
+    "Yu Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vCpv5uKQMc",
+   "pdf_url": "https://openreview.net/pdf?id=vCpv5uKQMc"
+  },
+  {
+   "title": "Modeling and Predicting Multi-Turn Answer Instability in Large Language Models",
+   "authors": [
+    "Jiahang He",
+    "Rishi Ramachandran",
+    "Neel Ramachandran",
+    "Aryan Katakam",
+    "Kevin Zhu",
+    "Sunishchal Dev",
+    "Ashwinee Panda",
+    "Aryan Shrivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FwItUoaLqe",
+   "pdf_url": "https://openreview.net/pdf?id=FwItUoaLqe"
+  },
+  {
+   "title": "Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation",
+   "authors": [
+    "Jiaju Chen",
+    "Yuxuan Lu",
+    "Xiaojie Wang",
+    "Huimin Zeng",
+    "Jing Huang",
+    "Jiri Gesi",
+    "Ying Xu",
+    "Dakuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7AetgL7eVL",
+   "pdf_url": "https://openreview.net/pdf?id=7AetgL7eVL"
+  },
+  {
+   "title": "Multi-Turn Human–LLM Interaction Through the Lens of a Two-Way Intelligibility Protocol",
+   "authors": [
+    "Harshvardhan Mestha",
+    "Karan Bania",
+    "Shreyas V",
+    "Sidong Liu",
+    "Ashwin Srinivasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9ZCaACjORW",
+   "pdf_url": "https://openreview.net/pdf?id=9ZCaACjORW"
+  },
+  {
+   "title": "Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges",
+   "authors": [
+    "Benjamin Liu",
+    "Sejong Kim",
+    "Drona Thoka",
+    "Varun Puttagunta",
+    "Kaylin Sheng",
+    "Mark Li",
+    "Kiran Nijjer",
+    "Adnan Ahmed",
+    "Thi Uyen Hanh Le",
+    "Sai Chidvilas Gudiboina",
+    "Ali Ugur",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=It7AgR3A9H",
+   "pdf_url": "https://openreview.net/pdf?id=It7AgR3A9H"
+  },
+  {
+   "title": "MultiScale Contextual Bandits for Long Term Objectives",
+   "authors": [
+    "Richa Rastogi",
+    "Yuta Saito",
+    "Thorsten Joachims"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u7XOqbCZ55",
+   "pdf_url": "https://openreview.net/pdf?id=u7XOqbCZ55"
+  },
+  {
+   "title": "ObjexMT: Objective Extraction and Metacognitive Calibration for LLM‑as‑a‑Judge under Multi‑Turn Jailbreaks",
+   "authors": [
+    "Hyunjun Kim",
+    "Junwoo Ha",
+    "Haon Park",
+    "Sangyoon Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bqwh9DQVlA",
+   "pdf_url": "https://openreview.net/pdf?id=bqwh9DQVlA"
+  },
+  {
+   "title": "Offline Policy Evaluation of Multi-Turn LLM Health Coaching with Real Users",
+   "authors": [
+    "Melik Ozolcer",
+    "Sang Won Bae"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BE00LfP4Dv",
+   "pdf_url": "https://openreview.net/pdf?id=BE00LfP4Dv"
+  },
+  {
+   "title": "One-Pass to Reason: Token Duplication and Block-Sparse Mask for Efficient Fine-Tuning on Multi-Turn Reasoning",
+   "authors": [
+    "Ritesh Goru",
+    "Shanay Mehta",
+    "Prateek Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F6fs7Uitc4",
+   "pdf_url": "https://openreview.net/pdf?id=F6fs7Uitc4"
+  },
+  {
+   "title": "Open-Universe Assistance Games",
+   "authors": [
+    "Rachel Ma",
+    "Jingyi Qu",
+    "Andreea Bobu",
+    "Dylan Hadfield-Menell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIXaL3a9Ky",
+   "pdf_url": "https://openreview.net/pdf?id=hIXaL3a9Ky"
+  },
+  {
+   "title": "OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation",
+   "authors": [
+    "Ziyi Wang",
+    "Yuxuan Lu",
+    "Wenbo Li",
+    "Amirali Amini",
+    "Bo Sun",
+    "Yakov Bart",
+    "Weimin Lyu",
+    "Jiri Gesi",
+    "Tian Wang",
+    "Jing Huang",
+    "Yu Su",
+    "Upol Ehsan",
+    "Malihe Alikhani",
+    "Toby Jia-Jun Li",
+    "Lydia Chilton",
+    "Dakuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ka0GEintPX",
+   "pdf_url": "https://openreview.net/pdf?id=ka0GEintPX"
+  },
+  {
+   "title": "Optimizing for Persuasion Improves LLM Generalization: Evidence from Quality-Diversity Evolution of Debate Strategies",
+   "authors": [
+    "Aksel Joonas Reedi",
+    "Corentin Léger",
+    "Julien Pourcel",
+    "Loris Gaven",
+    "Perrine Charriau",
+    "Guillaume Pourcel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uALCxj1tNe",
+   "pdf_url": "https://openreview.net/pdf?id=uALCxj1tNe"
+  },
+  {
+   "title": "OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs",
+   "authors": [
+    "Yifu Lu",
+    "Shengjie Liu",
+    "Li Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uZE8mTYvHE",
+   "pdf_url": "https://openreview.net/pdf?id=uZE8mTYvHE"
+  },
+  {
+   "title": "Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks",
+   "authors": [
+    "Lukas Beckenbauer",
+    "Johannes-Lucas Löwe",
+    "Ge Zheng",
+    "Alexandra Brintrup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=21sPEvGUL2",
+   "pdf_url": "https://openreview.net/pdf?id=21sPEvGUL2"
+  },
+  {
+   "title": "ParetoMIL: Early Risk Detection in Dialogue under Weak Supervision",
+   "authors": [
+    "Avinash Baidya",
+    "Xinran Liang",
+    "Ruocheng Guo",
+    "Kamalika Das",
+    "Xiang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gc4CcLKZP5",
+   "pdf_url": "https://openreview.net/pdf?id=Gc4CcLKZP5"
+  },
+  {
+   "title": "PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time",
+   "authors": [
+    "Weizhi Zhang",
+    "Xinyang Zhang",
+    "Chenwei Zhang",
+    "Liangwei Yang",
+    "Jingbo Shang",
+    "Zhepei Wei",
+    "Henry Peng Zou",
+    "Zijie Huang",
+    "Zhengyang Wang",
+    "Yifan Gao",
+    "Xiaoman Pan",
+    "Lian Xiong",
+    "Jingguo Liu",
+    "Philip S. Yu",
+    "Xian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fgCOkyJG3f",
+   "pdf_url": "https://openreview.net/pdf?id=fgCOkyJG3f"
+  },
+  {
+   "title": "Persuade Me if You Can: A Framework for Evaluating Persuasion Effectiveness and Susceptibility Among Large Language Models",
+   "authors": [
+    "Nimet Beyza Bozdag",
+    "Shuhaib Mehri",
+    "Gokhan Tur",
+    "Dilek Hakkani-Tür"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8KDkAQI5T0",
+   "pdf_url": "https://openreview.net/pdf?id=8KDkAQI5T0"
+  },
+  {
+   "title": "Pluralistic Behavior Suite: Stress-Testing Multi-Turn Adherence to Custom Behavioral Policies",
+   "authors": [
+    "Prasoon Varshney",
+    "Makesh Narsimhan Sreedhar",
+    "Liwei Jiang",
+    "Traian Rebedea",
+    "Christopher Parisien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ro1sa4iuDJ",
+   "pdf_url": "https://openreview.net/pdf?id=ro1sa4iuDJ"
+  },
+  {
+   "title": "PrefDisco: Evaluating Proactive Personalization through Interactive Preference Discovery",
+   "authors": [
+    "Shuyue Stella Li",
+    "Avinandan Bose",
+    "Faeze Brahman",
+    "Simon Shaolei Du",
+    "Pang Wei Koh",
+    "Maryam Fazel",
+    "Yulia Tsvetkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TpIywUYWWw",
+   "pdf_url": "https://openreview.net/pdf?id=TpIywUYWWw"
+  },
+  {
+   "title": "Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs",
+   "authors": [
+    "Shuhang Xu",
+    "Weijian Deng",
+    "Yixuan Zhou",
+    "Fangwei Zhong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AObOnFR1Tv",
+   "pdf_url": "https://openreview.net/pdf?id=AObOnFR1Tv"
+  },
+  {
+   "title": "PyVision: Agentic Vision with Dynamic Tooling",
+   "authors": [
+    "Shitian Zhao",
+    "Haoquan Zhang",
+    "Shaoheng Lin",
+    "Ming Li",
+    "Qilong Wu",
+    "Kaipeng Zhang",
+    "Chen Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l7NYIYODoQ",
+   "pdf_url": "https://openreview.net/pdf?id=l7NYIYODoQ"
+  },
+  {
+   "title": "Quantifying Information Gain and Redundancy in Multi-Turn LLM Conversations",
+   "authors": [
+    "Abhiram Rao Gorle",
+    "Amit Kumar Singh Yadav",
+    "Tsachy Weissman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5gpABTkcUJ",
+   "pdf_url": "https://openreview.net/pdf?id=5gpABTkcUJ"
+  },
+  {
+   "title": "RAFFLES: Reasoning-based Attribution of Faults for LLM Systems",
+   "authors": [
+    "Chenyang Zhu",
+    "Spencer Hong",
+    "Jingyu Wu",
+    "Kushal Chawla",
+    "Yuhui Tang",
+    "Youbing Yin",
+    "Nathan Wolfe",
+    "Erin Babinsky",
+    "Daben Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0oxelK4W6c",
+   "pdf_url": "https://openreview.net/pdf?id=0oxelK4W6c"
+  },
+  {
+   "title": "RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users",
+   "authors": [
+    "Suyu Ye",
+    "Haojun Shi",
+    "Darren Shih",
+    "Hyokun Yun",
+    "Tanya G. Roosta",
+    "Tianmin Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ma26XnmbU6",
+   "pdf_url": "https://openreview.net/pdf?id=ma26XnmbU6"
+  },
+  {
+   "title": "RefineBench: Evaluating Refinement Capability in Language Models",
+   "authors": [
+    "Young-Jun Lee",
+    "Seungone Kim",
+    "Byung-Kwan Lee",
+    "Minkyeong Moon",
+    "Yechan Hwang",
+    "Jong Myoung Kim",
+    "Graham Neubig",
+    "Sean Welleck",
+    "Ho-Jin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ycred6ETQR",
+   "pdf_url": "https://openreview.net/pdf?id=Ycred6ETQR"
+  },
+  {
+   "title": "REFRAG: Rethinking RAG based Decoding",
+   "authors": [
+    "Xiaoqiang Lin",
+    "Aritra Ghosh",
+    "Bryan Kian Hsiang Low",
+    "Anshumali Shrivastava",
+    "Vijai Mohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T16WNvb9lj",
+   "pdf_url": "https://openreview.net/pdf?id=T16WNvb9lj"
+  },
+  {
+   "title": "Reinforced Reasoning for Interactive Multi-step Embodied Planning",
+   "authors": [
+    "Di Wu",
+    "Jiaxin Fan",
+    "Junzhe Zang",
+    "Guanbo Wang",
+    "Wei Yin",
+    "Wenhao Li",
+    "Bo Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LTarXk40PR",
+   "pdf_url": "https://openreview.net/pdf?id=LTarXk40PR"
+  },
+  {
+   "title": "Reinforcement Learning for Long-Horizon Multi-Turn Search Agents",
+   "authors": [
+    "Vivek Kalyan",
+    "Martin Andrews"
+   ],
+   "forum_url": "https://openreview.net/forum?id=foZgsZURxU",
+   "pdf_url": "https://openreview.net/pdf?id=foZgsZURxU"
+  },
+  {
+   "title": "Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Reward Design and Credit Assignment",
+   "authors": [
+    "Quan Wei",
+    "Siliang Zeng",
+    "Chenliang Li",
+    "William Brown",
+    "Oana Frunza",
+    "Wei Deng",
+    "Yuriy Nevmyvaka",
+    "Yang Katie Zhao",
+    "Alfredo Garcia",
+    "Mingyi Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=drP7qVUnUt",
+   "pdf_url": "https://openreview.net/pdf?id=drP7qVUnUt"
+  },
+  {
+   "title": "Saying the Unsaid: Revealing the Hidden Language of Multimodal Systems Through Telephone Games",
+   "authors": [
+    "Juntu Zhao",
+    "Jialing Zhang",
+    "Chongxuan Li",
+    "Dequan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GQZI346irT",
+   "pdf_url": "https://openreview.net/pdf?id=GQZI346irT"
+  },
+  {
+   "title": "Scalability of LLM-Based Multi-Agent Systems for Scientific Code Generation: A Preliminary Study",
+   "authors": [
+    "Yuru wang",
+    "Kaiyan Zhang",
+    "Kai Tian",
+    "Sihang Zeng",
+    "Xingtai Lv",
+    "Ning Ding",
+    "Biqing Qi",
+    "Bowen Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h8KFX5HM3N",
+   "pdf_url": "https://openreview.net/pdf?id=h8KFX5HM3N"
+  },
+  {
+   "title": "Semantic Context for Tool Orchestration",
+   "authors": [
+    "Robert Müller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oly616p1yG",
+   "pdf_url": "https://openreview.net/pdf?id=Oly616p1yG"
+  },
+  {
+   "title": "SENTINEL: Sentiment Evolution and Narrative Tracking in Extended LLM Interactions",
+   "authors": [
+    "Pranav Anuraag",
+    "Ethan Xu",
+    "Alexander Arutchev",
+    "Asher Nerenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6ZvINpYdOA",
+   "pdf_url": "https://openreview.net/pdf?id=6ZvINpYdOA"
+  },
+  {
+   "title": "Show or Tell? Interactive Task Learning with Large Language Models",
+   "authors": [
+    "Jacob Sansom",
+    "Muhammad Khalifa",
+    "Honglak Lee",
+    "Joyce Chai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dLeIT1YigB",
+   "pdf_url": "https://openreview.net/pdf?id=dLeIT1YigB"
+  },
+  {
+   "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+   "authors": [
+    "Zhenghai Xue",
+    "Longtao Zheng",
+    "Qian Liu",
+    "Yingru Li",
+    "Xiaosen Zheng",
+    "Zejun MA",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hCZsutMyEF",
+   "pdf_url": "https://openreview.net/pdf?id=hCZsutMyEF"
+  },
+  {
+   "title": "SkyRL-SQL: Multi-turn SQL Data Agents via RL",
+   "authors": [
+    "Shu Liu",
+    "Alan Zhu",
+    "Sumanth Hegde",
+    "Shiyi Cao",
+    "Shuo Yuan",
+    "Samion Suwito",
+    "Tyler Griggs",
+    "Matei Zaharia",
+    "Joseph E. Gonzalez",
+    "Ion Stoica"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VNPGUGbC1p",
+   "pdf_url": "https://openreview.net/pdf?id=VNPGUGbC1p"
+  },
+  {
+   "title": "SMAGDi: Socratic Multi Agent Interaction Graph Distillation for Efficient High Accuracy Reasoning",
+   "authors": [
+    "Aayush Aluru",
+    "Myra N. Malik",
+    "Samarth Patankar",
+    "Spencer Kim",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qvb3aLBB2k",
+   "pdf_url": "https://openreview.net/pdf?id=Qvb3aLBB2k"
+  },
+  {
+   "title": "Sotopia-RL: Reward Design for Social Intelligence",
+   "authors": [
+    "Haofei Yu",
+    "Zhengyang Qi",
+    "Yining Zhao",
+    "Kolby Nottingham",
+    "Keyang Xuan",
+    "Bodhisattwa Prasad Majumder",
+    "Hao Zhu",
+    "Paul Pu Liang",
+    "Jiaxuan You"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gBwovFgeK8",
+   "pdf_url": "https://openreview.net/pdf?id=gBwovFgeK8"
+  },
+  {
+   "title": "Stability of Preference Alignment for Multi-Turn Control with LLM Policies",
+   "authors": [
+    "Andrew Silva",
+    "Pradyumna Tambwekar",
+    "Deepak Edakkattil Gopinath",
+    "Jonathan DeCastro",
+    "Guy Rosman",
+    "Avinash Balachandran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bxhLFVfVmx",
+   "pdf_url": "https://openreview.net/pdf?id=bxhLFVfVmx"
+  },
+  {
+   "title": "StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production–Living Simulations with Stardew Valley",
+   "authors": [
+    "Weihao Tan",
+    "Changjiu Jiang",
+    "Yu Duan",
+    "Mingcong Lei",
+    "Li JiaGeng",
+    "Yitian Hong",
+    "Xinrun Wang",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R0mmX6BEau",
+   "pdf_url": "https://openreview.net/pdf?id=R0mmX6BEau"
+  },
+  {
+   "title": "State-Induced Risk Amplification of AI Agents",
+   "authors": [
+    "Rebecka Nordenlöw",
+    "Takayuki Osogami",
+    "Lauren Quigley",
+    "Sara E. Berger",
+    "Rachel K. E. Bellamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mEwpZUsynY",
+   "pdf_url": "https://openreview.net/pdf?id=mEwpZUsynY"
+  },
+  {
+   "title": "Stop-RAG: Value-Based Retrieval Control for Iterative RAG",
+   "authors": [
+    "Jaewan Park",
+    "Solbee Cho",
+    "Jay-Yoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fN4PJNYgs3",
+   "pdf_url": "https://openreview.net/pdf?id=fN4PJNYgs3"
+  },
+  {
+   "title": "Studying Coordination and Collusion in Multi-Agent LLM Code Reviews",
+   "authors": [
+    "Jennifer Za",
+    "Aristeidis Panos",
+    "Roger Dearnaley",
+    "Samuel Albanie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CdZaamCf5Y",
+   "pdf_url": "https://openreview.net/pdf?id=CdZaamCf5Y"
+  },
+  {
+   "title": "Task Completion Agents are Not Ideal Collaborators",
+   "authors": [
+    "Shannon Zejiang Shen",
+    "Valerie Chen",
+    "Ken Gu",
+    "Alexis Ross",
+    "Zixian Ma",
+    "Jillian Ross",
+    "Alex Gu",
+    "Chenglei Si",
+    "Wayne Chi",
+    "Andi Peng",
+    "Jocelyn J Shen",
+    "Ameet Talwalkar",
+    "Tongshuang Wu",
+    "David Sontag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JMblCtvaDH",
+   "pdf_url": "https://openreview.net/pdf?id=JMblCtvaDH"
+  },
+  {
+   "title": "Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with LLMs",
+   "authors": [
+    "Chenxing Wei",
+    "Hong Wang",
+    "Ying Tiffany He",
+    "Fei Yu",
+    "Yao Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6eN5FZJuLI",
+   "pdf_url": "https://openreview.net/pdf?id=6eN5FZJuLI"
+  },
+  {
+   "title": "The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets",
+   "authors": [
+    "Shenzhe Zhu",
+    "Jiao Sun",
+    "Yi Nian",
+    "Tobin South",
+    "Alex Pentland",
+    "Jiaxin Pei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XZpIu68yW6",
+   "pdf_url": "https://openreview.net/pdf?id=XZpIu68yW6"
+  },
+  {
+   "title": "The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models",
+   "authors": [
+    "Shivam Ratnakar",
+    "Sanjay Raghavendra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9sH0s3g3Mi",
+   "pdf_url": "https://openreview.net/pdf?id=9sH0s3g3Mi"
+  },
+  {
+   "title": "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs",
+   "authors": [
+    "Akshit Sinha",
+    "Arvindh Arun",
+    "Shashwat Goel",
+    "Steffen Staab",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r0i7GPoYnE",
+   "pdf_url": "https://openreview.net/pdf?id=r0i7GPoYnE"
+  },
+  {
+   "title": "The Influence of Scaffolds on Coordination Scaling Laws in LLM Agents",
+   "authors": [
+    "Mariana Meireles",
+    "Rupali Bhati",
+    "Niklas Lauffer",
+    "Cameron Allen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iS49teIy7h",
+   "pdf_url": "https://openreview.net/pdf?id=iS49teIy7h"
+  },
+  {
+   "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+   "authors": [
+    "Junhong Shen",
+    "Hao Bai",
+    "Lunjun Zhang",
+    "Yifei Zhou",
+    "Amrith Setlur",
+    "Shengbang Tong",
+    "Diego Caples",
+    "Nan Jiang",
+    "Tong Zhang",
+    "Ameet Talwalkar",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LkBUwXOy7b",
+   "pdf_url": "https://openreview.net/pdf?id=LkBUwXOy7b"
+  },
+  {
+   "title": "TOD-ProcBench: Benchmarking Complex Instruction-Following in Task-Oriented Dialogues",
+   "authors": [
+    "Sarik Ghazarian",
+    "Abhinav Gullapalli",
+    "Swair Shah",
+    "Anurag Beniwal",
+    "Nanyun Peng",
+    "Narayanan Sadagopan",
+    "Zhou Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IYjNoKV0zL",
+   "pdf_url": "https://openreview.net/pdf?id=IYjNoKV0zL"
+  },
+  {
+   "title": "ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark",
+   "authors": [
+    "Vaskar Nath",
+    "Pranav Vishnu Raja",
+    "Jane Yu",
+    "Claire Yoon",
+    "Sean M. Hendryx"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lm5zScHWBI",
+   "pdf_url": "https://openreview.net/pdf?id=lm5zScHWBI"
+  },
+  {
+   "title": "Toward Community-Driven Agents for Machine Learning Engineering",
+   "authors": [
+    "Sijie Li",
+    "Weiwei Sun",
+    "Shanda Li",
+    "Ameet Talwalkar",
+    "Yiming Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aKChEjaJpZ",
+   "pdf_url": "https://openreview.net/pdf?id=aKChEjaJpZ"
+  },
+  {
+   "title": "Tracing Coordination Dynamics in Multi-Turn LLM Discussions",
+   "authors": [
+    "Angelina Parfenova",
+    "Jürgen Pfeffer",
+    "Alexander Denzler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YKdiS2oE3A",
+   "pdf_url": "https://openreview.net/pdf?id=YKdiS2oE3A"
+  },
+  {
+   "title": "Traxgen: Ground-Truth Trajectory Generation for AI Agent Evaluation",
+   "authors": [
+    "Maria Emilia Mazzolenis",
+    "Ruirui Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pERJAy5kI1",
+   "pdf_url": "https://openreview.net/pdf?id=pERJAy5kI1"
+  },
+  {
+   "title": "User-Assistant Bias in LLMs",
+   "authors": [
+    "Xu Pan",
+    "Jingxuan Fan",
+    "Zidi Xiong",
+    "Ely Hahami",
+    "Jorin Overwiening",
+    "Ziqian Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MVaj7qBFsa",
+   "pdf_url": "https://openreview.net/pdf?id=MVaj7qBFsa"
+  },
+  {
+   "title": "Verlog: Context-lite Multi-turn Reinforcement Learning framework for Long-Horizon LLM Agents",
+   "authors": [
+    "Wentse Chen",
+    "Jiayu Chen",
+    "Hao Zhu",
+    "Jeff Schneider"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GmodkWwMV3",
+   "pdf_url": "https://openreview.net/pdf?id=GmodkWwMV3"
+  },
+  {
+   "title": "VideoMind: A Chain-of-LoRA Agent for Temporal-Grounded Video Reasoning",
+   "authors": [
+    "Ye Liu",
+    "Kevin Qinghong Lin",
+    "Chang Wen Chen",
+    "Mike Zheng Shou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h3efVg85TG",
+   "pdf_url": "https://openreview.net/pdf?id=h3efVg85TG"
+  },
+  {
+   "title": "WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation",
+   "authors": [
+    "Yaoyao Qian",
+    "Yuanli Wang",
+    "Jinda Zhang",
+    "Yun Zong",
+    "Meixu Chen",
+    "Hanhan Zhou",
+    "Jindan Huang",
+    "Yifan Zeng",
+    "Xinyu Hu",
+    "Chan Hee Song",
+    "Danqing Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IPpOtWGmdf",
+   "pdf_url": "https://openreview.net/pdf?id=IPpOtWGmdf"
+  },
+  {
+   "title": "WEBSERV: A Browser-Server Environment for Efficient Training of Reinforcement Learning-based Web Agents at Scale",
+   "authors": [
+    "Yuxuan Lu",
+    "Jing Huang",
+    "Hui Liu",
+    "Jiri Gesi",
+    "Yan Han",
+    "Shihan Fu",
+    "Tianqi Zheng",
+    "Dakuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YHcHQY8TIY",
+   "pdf_url": "https://openreview.net/pdf?id=YHcHQY8TIY"
+  },
+  {
+   "title": "What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities",
+   "authors": [
+    "Wendong Bu",
+    "Yang Wu",
+    "Qifan Yu",
+    "Minghe Gao",
+    "Bingchen Miao",
+    "Zhenkui Zhang",
+    "Kaihang Pan",
+    "Yunfei Li",
+    "Mengze Li",
+    "Wei Ji",
+    "Juncheng Li",
+    "Siliang Tang",
+    "Yueting Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3gjuFjV2HR",
+   "pdf_url": "https://openreview.net/pdf?id=3gjuFjV2HR"
+  },
+  {
+   "title": "WOLF: Werewolf-based Observations for LLM Deception and Falsehoods",
+   "authors": [
+    "Mrinal Agarwal",
+    "Saad Rana",
+    "Theo Sundoro",
+    "Hermela Berhe",
+    "Spencer Kim",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ERw9r7wPzl",
+   "pdf_url": "https://openreview.net/pdf?id=ERw9r7wPzl"
+  }
+ ]
+}

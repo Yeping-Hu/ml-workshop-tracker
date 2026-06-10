@@ -1,0 +1,629 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/Re-Align",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:08.865Z",
+ "paper_count": 56,
+ "papers": [
+  {
+   "title": "A case for sparse positive alignment of neural systems",
+   "authors": [
+    "Jacob S. Prince",
+    "Colin Conwell",
+    "George A. Alvarez",
+    "Talia Konkle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8FnN1QmR84",
+   "pdf_url": "https://openreview.net/pdf?id=8FnN1QmR84"
+  },
+  {
+   "title": "An Analysis of Human Alignment of Latent Diffusion Models",
+   "authors": [
+    "Lorenz Linhardt",
+    "Marco Morik",
+    "Sidney Bender",
+    "Naima Elosegui Borras"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PFnoxcKh33",
+   "pdf_url": "https://openreview.net/pdf?id=PFnoxcKh33"
+  },
+  {
+   "title": "Beyond Sight: Probing Alignment Between Image Models and Blind V1",
+   "authors": [
+    "Galen Pogoncheff",
+    "Jacob Granley",
+    "Alfonso Rodil",
+    "Leili Soo",
+    "Lily Marie Turkstra",
+    "Lucas Gil Nadolskis",
+    "Arantxa Alfaro Saez",
+    "Cristina Soto Sanchez",
+    "Eduardo Fernandez Jover",
+    "Michael Beyeler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FG7XQbcDuZ",
+   "pdf_url": "https://openreview.net/pdf?id=FG7XQbcDuZ"
+  },
+  {
+   "title": "Biased Causal Strength Judgments in Humans and Large Language Models",
+   "authors": [
+    "Anita Keshmirian",
+    "Moritz Willig",
+    "Babak Hemmatian",
+    "Ulrike Hahn",
+    "Kristian Kersting",
+    "Tobias Gerstenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=544P6YidFk",
+   "pdf_url": "https://openreview.net/pdf?id=544P6YidFk"
+  },
+  {
+   "title": "Brain-inspired $L_p$-Convolution benefits large kernels and aligns better with visual cortex",
+   "authors": [
+    "Jea Kwon",
+    "Kyungwoo Song",
+    "C. Justin Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WpFCplXaLv",
+   "pdf_url": "https://openreview.net/pdf?id=WpFCplXaLv"
+  },
+  {
+   "title": "Can Foundation Models Smell Like Humans?",
+   "authors": [
+    "Farzaneh Taleb",
+    "Miguel Vasco",
+    "Nona Rajabi",
+    "Mårten Björkman",
+    "Danica Kragic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WmPNfqHHzA",
+   "pdf_url": "https://openreview.net/pdf?id=WmPNfqHHzA"
+  },
+  {
+   "title": "Can Generative Multimodal Models Count to Ten?",
+   "authors": [
+    "Sunayana Rane",
+    "Alexander Ku",
+    "Jason Michael Baldridge",
+    "Ian Tenney",
+    "Thomas L. Griffiths",
+    "Been Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZdQfk4BN46",
+   "pdf_url": "https://openreview.net/pdf?id=ZdQfk4BN46"
+  },
+  {
+   "title": "Categories vs Semantic Features: What shape the similarities people discern in photographs of objects?",
+   "authors": [
+    "Siddharth Suresh",
+    "Wei-Chun Huang",
+    "Kushin Mukherjee",
+    "Timothy T. Rogers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iE5aXw3RFd",
+   "pdf_url": "https://openreview.net/pdf?id=iE5aXw3RFd"
+  },
+  {
+   "title": "Comparing Abstraction in Humans and Large Language Models Using Multimodal Serial Reproduction",
+   "authors": [
+    "Sreejan Kumar",
+    "Raja Marjieh",
+    "Byron Zhang",
+    "Declan Iain Campbell",
+    "Michael Y. Hu",
+    "Umang Bhatt",
+    "Brenden Lake",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wnuC0jreGI",
+   "pdf_url": "https://openreview.net/pdf?id=wnuC0jreGI"
+  },
+  {
+   "title": "Comparing supervised learning dynamics: Deep neural networks match human data efficiency but show a generalisation lag",
+   "authors": [
+    "Lukas S. Huber",
+    "Fred W. Mast",
+    "Felix A. Wichmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yb9LLnUdqU",
+   "pdf_url": "https://openreview.net/pdf?id=yb9LLnUdqU"
+  },
+  {
+   "title": "Context-Sensitive Semantic Reasoning in Large Language Models",
+   "authors": [
+    "Tyler Giallanza",
+    "Declan Iain Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MCblyd8f7I",
+   "pdf_url": "https://openreview.net/pdf?id=MCblyd8f7I"
+  },
+  {
+   "title": "Correcting Biased Centered Kernel Alignment Measures in Biological and Artificial Neural Networks",
+   "authors": [
+    "Alex Graeme Murphy",
+    "Joel Zylberberg",
+    "Alona Fyshe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E1NRrGtIHG",
+   "pdf_url": "https://openreview.net/pdf?id=E1NRrGtIHG"
+  },
+  {
+   "title": "Differentiable Optimization of Similarity Scores Between Models and Brains",
+   "authors": [
+    "Nathan Cloos",
+    "Markus Siegel",
+    "Scott L. Brincat",
+    "Earl K. Miller",
+    "Christopher J Cueva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C0G0mQp92K",
+   "pdf_url": "https://openreview.net/pdf?id=C0G0mQp92K"
+  },
+  {
+   "title": "Disentangling Recurrent Neural Dynamics with Stochastic Representational Geometry",
+   "authors": [
+    "David Lipshutz",
+    "Amin Nejatbakhsh",
+    "Alex H Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fykvxdv2I8",
+   "pdf_url": "https://openreview.net/pdf?id=Fykvxdv2I8"
+  },
+  {
+   "title": "Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration",
+   "authors": [
+    "Ziqi Wen",
+    "Tianqin Li",
+    "Zhi Jing",
+    "Tai Sing Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=in4qCYNWp9",
+   "pdf_url": "https://openreview.net/pdf?id=in4qCYNWp9"
+  },
+  {
+   "title": "Enriching ConvNets with pre-cortical processing enhances alignment with human brain responses",
+   "authors": [
+    "Niklas Müller",
+    "H.Steven Scholte",
+    "Iris Groen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qX4rUVZPsl",
+   "pdf_url": "https://openreview.net/pdf?id=qX4rUVZPsl"
+  },
+  {
+   "title": "Explaining Human Comparisons using Alignment-Importance Heatmaps",
+   "authors": [
+    "Nhut Truong",
+    "Dario Pesenti",
+    "Uri Hasson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bWe3MKHrBw",
+   "pdf_url": "https://openreview.net/pdf?id=bWe3MKHrBw"
+  },
+  {
+   "title": "Harmony in Diversity: Merging Neural Networks with Canonical Correlation Analysis",
+   "authors": [
+    "Stefan Horoi",
+    "Albert Manuel Orozco Camacho",
+    "Eugene Belilovsky",
+    "Guy Wolf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XTr8vwAr2D",
+   "pdf_url": "https://openreview.net/pdf?id=XTr8vwAr2D"
+  },
+  {
+   "title": "How aligned are different alignment metrics?",
+   "authors": [
+    "Jannis Ahlert",
+    "Thomas Klein",
+    "Felix A. Wichmann",
+    "Robert Geirhos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cHlKB28bjV",
+   "pdf_url": "https://openreview.net/pdf?id=cHlKB28bjV"
+  },
+  {
+   "title": "Human and Deep Neural Network Alignment in Navigational Affordance Perception",
+   "authors": [
+    "Clemens Georg Bartnik",
+    "Iris Groen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FS5Lq9Flep",
+   "pdf_url": "https://openreview.net/pdf?id=FS5Lq9Flep"
+  },
+  {
+   "title": "Human-like Geometric Abstraction in Large Pre-Trained Neural Networks",
+   "authors": [
+    "Declan Iain Campbell",
+    "Sreejan Kumar",
+    "Tyler Giallanza",
+    "Jonathan D. Cohen",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h15aZUyxjw",
+   "pdf_url": "https://openreview.net/pdf?id=h15aZUyxjw"
+  },
+  {
+   "title": "Humans diverge from language models when predicting spoken language",
+   "authors": [
+    "Thomas L. Botch",
+    "Emily S Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DqKjKQtyna",
+   "pdf_url": "https://openreview.net/pdf?id=DqKjKQtyna"
+  },
+  {
+   "title": "Identifying and Interpreting Non-Aligned Human Conceptual Representations using Language Modeling",
+   "authors": [
+    "Wanqian Bao",
+    "Uri Hasson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vh56Q8wbGK",
+   "pdf_url": "https://openreview.net/pdf?id=vh56Q8wbGK"
+  },
+  {
+   "title": "Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models",
+   "authors": [
+    "Nishad Singhi",
+    "Jae Myung Kim",
+    "Karsten Roth",
+    "Zeynep Akata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7bQmU2rukF",
+   "pdf_url": "https://openreview.net/pdf?id=7bQmU2rukF"
+  },
+  {
+   "title": "Inferring DNN-Brain Alignment using Representational Similarity Analyses can be Problematic",
+   "authors": [
+    "Marin Dujmovic",
+    "Jeffrey Bowers",
+    "Federico Adolfi",
+    "Gaurav Malhotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dSEwiAENTS",
+   "pdf_url": "https://openreview.net/pdf?id=dSEwiAENTS"
+  },
+  {
+   "title": "Inter-animal transforms as a guide to model-brain comparison",
+   "authors": [
+    "Imran Thobani",
+    "Javier Sagastuy-Brena",
+    "Aran Nayebi",
+    "Rosa Cao",
+    "Daniel LK Yamins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kt7lEKuL4A",
+   "pdf_url": "https://openreview.net/pdf?id=Kt7lEKuL4A"
+  },
+  {
+   "title": "Is my \"red\" your \"red\"?: Unsupervised alignment of qualia structures via optimal transport",
+   "authors": [
+    "Genji Kawakita",
+    "Ariel Mikhael Zeleznikow-Johnston",
+    "Ken Takeda",
+    "Naotsugu Tsuchiya",
+    "Masafumi Oizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4kY8ziFgGy",
+   "pdf_url": "https://openreview.net/pdf?id=4kY8ziFgGy"
+  },
+  {
+   "title": "Koopman Operator Based Dynamical Similarity Analysis for Data-driven Quantification of Distance between Dynamics",
+   "authors": [
+    "Shunsuke Kamiya",
+    "Jun Kitazono",
+    "Masafumi Oizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cfO9qeHrKU",
+   "pdf_url": "https://openreview.net/pdf?id=cfO9qeHrKU"
+  },
+  {
+   "title": "Learning and Aligning Structured Random Feature Networks",
+   "authors": [
+    "Vivian White",
+    "Muawiz Sajjad Chaudhary",
+    "Guy Wolf",
+    "Guillaume Lajoie",
+    "Kameron Decker Harris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vWhUQXQoFF",
+   "pdf_url": "https://openreview.net/pdf?id=vWhUQXQoFF"
+  },
+  {
+   "title": "Learning to Abstract Visuomotor Mappings using Meta-Reinforcement Learning",
+   "authors": [
+    "Carlos A. Velazquez-Vargas",
+    "Isaac Ray Christian",
+    "Jordan Taylor",
+    "Sreejan Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NMT044nTZ1",
+   "pdf_url": "https://openreview.net/pdf?id=NMT044nTZ1"
+  },
+  {
+   "title": "Less is More: Discovering Concise Network Explanations",
+   "authors": [
+    "Neehar Kondapaneni",
+    "Markus Marks",
+    "Oisin Mac Aodha",
+    "Pietro Perona"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JBwpD6Yy8Q",
+   "pdf_url": "https://openreview.net/pdf?id=JBwpD6Yy8Q"
+  },
+  {
+   "title": "Lessons learned in the study of representational alignment in physical reasoning",
+   "authors": [
+    "Felix Jedidja Binder",
+    "Rahul Mysore Venkatesh",
+    "Daniel LK Yamins",
+    "Judith E Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3DKVOYQFMk",
+   "pdf_url": "https://openreview.net/pdf?id=3DKVOYQFMk"
+  },
+  {
+   "title": "Measuring Human-CLIP Alignment at Different Abstraction Levels",
+   "authors": [
+    "Pablo Hernández-Cámara",
+    "Jorge Vila-Tomás",
+    "Jesus Malo",
+    "Valero Laparra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xQyhHjLGmj",
+   "pdf_url": "https://openreview.net/pdf?id=xQyhHjLGmj"
+  },
+  {
+   "title": "Measuring Mechanistic Interpretability at Scale Without Humans",
+   "authors": [
+    "Roland S. Zimmermann",
+    "David A. Klindt",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M8yBcvRvwn",
+   "pdf_url": "https://openreview.net/pdf?id=M8yBcvRvwn"
+  },
+  {
+   "title": "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data",
+   "authors": [
+    "Paul Steven Scotti",
+    "Mihir Tripathy",
+    "Cesar Torrico",
+    "Reese Kneeland",
+    "Tong Chen",
+    "Ashutosh Narang",
+    "Charan Santhirasegaran",
+    "Jonathan Xu",
+    "Thomas Naselaris",
+    "Kenneth A. Norman",
+    "Tanishq Mathew Abraham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=paqqd1O0Dl",
+   "pdf_url": "https://openreview.net/pdf?id=paqqd1O0Dl"
+  },
+  {
+   "title": "Modality-Agnostic fMRI Decoding of Vision and Language",
+   "authors": [
+    "Mitja Nikolaus",
+    "Milad Mozafari",
+    "Nicholas Asher",
+    "Leila Reddy",
+    "Rufin VanRullen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7gWQL0hTrX",
+   "pdf_url": "https://openreview.net/pdf?id=7gWQL0hTrX"
+  },
+  {
+   "title": "On convex decision regions in deep network representations",
+   "authors": [
+    "Lenka Tětková",
+    "Thea Brüsch",
+    "Teresa Scheidt",
+    "Fabian Mager",
+    "Rasmus Aagaard",
+    "Jonathan Foldager",
+    "Tommy Sonne Alstrøm",
+    "Lars Kai Hansen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Sj1NCqT8U",
+   "pdf_url": "https://openreview.net/pdf?id=9Sj1NCqT8U"
+  },
+  {
+   "title": "On the universality of neural encodings in CNNs",
+   "authors": [
+    "Florentin Guth",
+    "Brice Ménard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ofEBFOrITI",
+   "pdf_url": "https://openreview.net/pdf?id=ofEBFOrITI"
+  },
+  {
+   "title": "ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment",
+   "authors": [
+    "Zitong Lu",
+    "Yile Wang",
+    "Julie Golomb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BN9WE9pOSD",
+   "pdf_url": "https://openreview.net/pdf?id=BN9WE9pOSD"
+  },
+  {
+   "title": "Removing High Frequency Information Improves DNN Behavioral Alignment",
+   "authors": [
+    "Max Wolff",
+    "Evgenia Rusak",
+    "Wieland Brendel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ho0x9DgdZw",
+   "pdf_url": "https://openreview.net/pdf?id=Ho0x9DgdZw"
+  },
+  {
+   "title": "Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain",
+   "authors": [
+    "Gustaw Opielka",
+    "Jessica Loke",
+    "H.Steven Scholte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q7lidZsDKu",
+   "pdf_url": "https://openreview.net/pdf?id=q7lidZsDKu"
+  },
+  {
+   "title": "Self-supervised learning facilitates neural representation structures that can be unsupervisedly aligned to human behaviors",
+   "authors": [
+    "Soh Takahashi",
+    "Masaru Sasaki",
+    "Ken Takeda",
+    "Masafumi Oizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MaFIvgBceX",
+   "pdf_url": "https://openreview.net/pdf?id=MaFIvgBceX"
+  },
+  {
+   "title": "Simplicity in Complexity",
+   "authors": [
+    "Surabhi S Nath",
+    "Kevin Shen",
+    "Aenne Annelie Brielmann",
+    "Peter Dayan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DHvVdakpqO",
+   "pdf_url": "https://openreview.net/pdf?id=DHvVdakpqO"
+  },
+  {
+   "title": "Symbolic Variables in Distributed Networks that Count",
+   "authors": [
+    "Satchel Grant",
+    "Zhengxuan Wu",
+    "James Lloyd McClelland",
+    "Noah Goodman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8HhvCMamWq",
+   "pdf_url": "https://openreview.net/pdf?id=8HhvCMamWq"
+  },
+  {
+   "title": "TEMPERATURE-SCALING SURPRISAL ESTIMATES IMPROVE FIT TO HUMAN READING TIMES – BUT DOES IT DO SO FOR THE “RIGHT REASONS”?",
+   "authors": [
+    "Tong Liu",
+    "Iza Škrjanec",
+    "Vera Demberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zdAXhcemNF",
+   "pdf_url": "https://openreview.net/pdf?id=zdAXhcemNF"
+  },
+  {
+   "title": "Texture bias in primate ventral visual cortex",
+   "authors": [
+    "Akshay Vivek Jagadeesh",
+    "Margaret Livingstone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D6YvyvZ7P7",
+   "pdf_url": "https://openreview.net/pdf?id=D6YvyvZ7P7"
+  },
+  {
+   "title": "The benefits of Incorporating Shape Priors in Contrastive Learning",
+   "authors": [
+    "Junru Zhao",
+    "Tianqin Li",
+    "Tai Sing Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9eg3xk9RZU",
+   "pdf_url": "https://openreview.net/pdf?id=9eg3xk9RZU"
+  },
+  {
+   "title": "The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication",
+   "authors": [
+    "Tom Kouwenhoven",
+    "Max Peeperkorn",
+    "Bram Van Dijk",
+    "Stephan Raaijmakers",
+    "Tessa Verhoef"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7STegP98cT",
+   "pdf_url": "https://openreview.net/pdf?id=7STegP98cT"
+  },
+  {
+   "title": "The impact of task structure, representational geometry, and learning mechanism on compositional generalization",
+   "authors": [
+    "Samuel Lippl",
+    "Kim Stachenfeld"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OrXvwlvN2E",
+   "pdf_url": "https://openreview.net/pdf?id=OrXvwlvN2E"
+  },
+  {
+   "title": "The role of shared labels and experiences in representational alignment",
+   "authors": [
+    "Kushin Mukherjee",
+    "Siddharth Suresh",
+    "Xizheng Yu",
+    "Gary Lupyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EmZeMTqfzc",
+   "pdf_url": "https://openreview.net/pdf?id=EmZeMTqfzc"
+  },
+  {
+   "title": "Topoformer: brain-like topographic organization in Transformer language models through spatial querying and reweighting",
+   "authors": [
+    "Taha Osama A Binhuraib",
+    "Greta Tuckute",
+    "Nicholas Blauch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3pLMzgoZSA",
+   "pdf_url": "https://openreview.net/pdf?id=3pLMzgoZSA"
+  },
+  {
+   "title": "Towards neural foundation models for vision: Aligning EEG, MEG and fMRI representations to perform decoding, encoding and modality conversion",
+   "authors": [
+    "Matteo Ferrante",
+    "Tommaso Boccato",
+    "Nicola Toschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nxoKCdmteM",
+   "pdf_url": "https://openreview.net/pdf?id=nxoKCdmteM"
+  },
+  {
+   "title": "Unsupervised alignment reveals structural commonalities and differences in neural representations of natural scenes across individuals and brain areas",
+   "authors": [
+    "Ken Takeda",
+    "Kota Abe",
+    "Jun Kitazono",
+    "Masafumi Oizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=weMVRTwlhA",
+   "pdf_url": "https://openreview.net/pdf?id=weMVRTwlhA"
+  },
+  {
+   "title": "Unveiling the Dynamics of Transfer Learning Representations",
+   "authors": [
+    "Thomas Goerttler",
+    "Klaus Obermayer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QqbBYDB2sM",
+   "pdf_url": "https://openreview.net/pdf?id=QqbBYDB2sM"
+  },
+  {
+   "title": "What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes",
+   "authors": [
+    "Victor Lecomte",
+    "Kushal Thaman",
+    "Rylan Schaeffer",
+    "Naomi Bashkansky",
+    "Trevor Chow",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AHfE6WeJLQ",
+   "pdf_url": "https://openreview.net/pdf?id=AHfE6WeJLQ"
+  },
+  {
+   "title": "Wild Comparisons: A Study of how Representation Similarity Changes when Input Data is Drawn from a Shifted Distribution",
+   "authors": [
+    "Davis Brown",
+    "Madelyn Ruth Shapiro",
+    "Alyson Bittner",
+    "Jackson Warley",
+    "Henry Kvinge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xapkeSwqf0",
+   "pdf_url": "https://openreview.net/pdf?id=xapkeSwqf0"
+  }
+ ]
+}

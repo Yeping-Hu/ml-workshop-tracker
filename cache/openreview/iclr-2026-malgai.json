@@ -1,0 +1,705 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/MALGAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:21.617Z",
+ "paper_count": 57,
+ "papers": [
+  {
+   "title": "AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization",
+   "authors": [
+    "Genghan Zhang",
+    "Shaowei Zhu",
+    "Anjiang Wei",
+    "Zhenyu Song",
+    "Allen Nie",
+    "Zhen Jia",
+    "Nandita Vijaykumar",
+    "Yida Wang",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rtzcKSkffb",
+   "pdf_url": "https://openreview.net/pdf?id=rtzcKSkffb"
+  },
+  {
+   "title": "AffectMind: Proactive Knowledge Grounding with Affective Multimodal Signals for Aligned Marketing Dialogue",
+   "authors": [
+    "Xinyu Wang",
+    "Xiaomin Zhao",
+    "Yifei Kang",
+    "Zhihao Lin",
+    "Xiang Luo",
+    "Zhang Chengbiao",
+    "Jin Cheng",
+    "Yixin Wang",
+    "Yangyang Zhang",
+    "Ernie Tian",
+    "Zhiguo Tao",
+    "Xiaofei Han",
+    "Xiaotong Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eCt1cy5NH2",
+   "pdf_url": "https://openreview.net/pdf?id=eCt1cy5NH2"
+  },
+  {
+   "title": "Agent-as-a-Coach: Towards Fully Agentic, Stateful, and Tool-Augmented Process Rewards",
+   "authors": [
+    "Ed Li",
+    "Junyu Ren",
+    "Cat Yan",
+    "Kerem Goksel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5tQInt3Uar",
+   "pdf_url": "https://openreview.net/pdf?id=5tQInt3Uar"
+  },
+  {
+   "title": "AI Organizations Are More Effective but Less Aligned than Individual Agents",
+   "authors": [
+    "Judy Hanwen Shen",
+    "Daniel Zhu",
+    "Siddarth Srinivasan",
+    "Henry Sleight",
+    "Lawrence T. Wagner III",
+    "Morgan Jane Matthews",
+    "Jascha Sohl-Dickstein",
+    "Erik Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zVa6VP9lhi",
+   "pdf_url": "https://openreview.net/pdf?id=zVa6VP9lhi"
+  },
+  {
+   "title": "AI-BAAM: AI-Driven Bank Statement Analytics as Alternative Data for Malaysian MSME Credit Scoring",
+   "authors": [
+    "Chun Chet Ng",
+    "Zhen Hao Chu",
+    "Jia Yu Lim",
+    "Boon Yin Yin",
+    "Low Wei Zeng",
+    "Jin Khye Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qfnmnmtfbs",
+   "pdf_url": "https://openreview.net/pdf?id=Qfnmnmtfbs"
+  },
+  {
+   "title": "ArchPilot: A Proxy-Guided Multi-Agent Approach for Machine Learning Engineering",
+   "authors": [
+    "Zhuowen Yuan",
+    "Tao Liu",
+    "Yang Yang",
+    "Yang Wang",
+    "Feng Qi",
+    "Kaushik Rangadurai",
+    "Bo Li",
+    "Shuang Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6rEuy1CXQ1",
+   "pdf_url": "https://openreview.net/pdf?id=6rEuy1CXQ1"
+  },
+  {
+   "title": "Assessing Sovereignty in Multi-Agent Collaborations",
+   "authors": [
+    "Eleonore Vissol-Gaudin",
+    "janosch haber",
+    "Andikan Otung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hAT4kDOYj2",
+   "pdf_url": "https://openreview.net/pdf?id=hAT4kDOYj2"
+  },
+  {
+   "title": "Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling",
+   "authors": [
+    "Yang Cai",
+    "Weiqiang Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yZn7MnyppJ",
+   "pdf_url": "https://openreview.net/pdf?id=yZn7MnyppJ"
+  },
+  {
+   "title": "Beyond Reasoning: RL-Policy Guided LLM Inference for Efficient Strategy in Liar’s Poker",
+   "authors": [
+    "Richard Dewey",
+    "János Botyánszki",
+    "Ciamac C. Moallemi",
+    "Andrew Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1JC8EZfCPb",
+   "pdf_url": "https://openreview.net/pdf?id=1JC8EZfCPb"
+  },
+  {
+   "title": "BEYOND SYNTAX: ACTION SEMANTICS LEARNING FOR APP AGENTS",
+   "authors": [
+    "Bohan Tang",
+    "Dezhao Luo",
+    "Jianheng Liu",
+    "Jingxuan Chen",
+    "Shaogang Gong",
+    "Jianye HAO",
+    "Jun Wang",
+    "Kun Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MJc5jzu8A2",
+   "pdf_url": "https://openreview.net/pdf?id=MJc5jzu8A2"
+  },
+  {
+   "title": "Beyond Text-Passing: Shared Cognitive Substrates for Multi-Agent LLM Coordination",
+   "authors": [
+    "Ning Coeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RRIw2L4Z1g",
+   "pdf_url": "https://openreview.net/pdf?id=RRIw2L4Z1g"
+  },
+  {
+   "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+   "authors": [
+    "Steven Guanxing Xu",
+    "Alejandro Breen",
+    "Aayush Sheth",
+    "Sudeep Das",
+    "Zhucheng Zhan",
+    "Hongtai Wei",
+    "Charles Wright",
+    "Marcus Yearwood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aCWk37XA29",
+   "pdf_url": "https://openreview.net/pdf?id=aCWk37XA29"
+  },
+  {
+   "title": "Can Small Agents Collaborate to Beat a Single Large Language Model?",
+   "authors": [
+    "Agata Żywot",
+    "Xinyi Chen",
+    "Yifei Yuan",
+    "Anders Søgaard",
+    "Maarten de Rijke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RLHUTcvsA9",
+   "pdf_url": "https://openreview.net/pdf?id=RLHUTcvsA9"
+  },
+  {
+   "title": "CATTLE TRADE: A MULTI-AGENT BENCHMARK FOR LLM BLUFFING, BIDDING, AND NEGOTIATION",
+   "authors": [
+    "Robert Müller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J3usA9wOhX",
+   "pdf_url": "https://openreview.net/pdf?id=J3usA9wOhX"
+  },
+  {
+   "title": "ComplLLM: Fine-tuning LLMs to Discover Complementary Signals for Decision-making",
+   "authors": [
+    "Ziyang Guo",
+    "Yifan Wu",
+    "Jason Hartline",
+    "Ken Holstein",
+    "Jessica Hullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xtxEMSX9px",
+   "pdf_url": "https://openreview.net/pdf?id=xtxEMSX9px"
+  },
+  {
+   "title": "CooperBench: Benchmarking Cooperation in Coding Agents",
+   "authors": [
+    "Arpandeep Khatua",
+    "Hao Zhu",
+    "Peter Tran",
+    "Arya Prabhudesai",
+    "Frederic Sadrieh",
+    "Johann Kaspar Lieberwirth",
+    "Xinkai Yu",
+    "Yicheng Fu",
+    "Michael J Ryan",
+    "Jiaxin Pei",
+    "Diyi Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AomNqiSwb1",
+   "pdf_url": "https://openreview.net/pdf?id=AomNqiSwb1"
+  },
+  {
+   "title": "CORAL: Cooperative Multi-Agent Orchestration for LLM Adaptation Across Diverse Environments",
+   "authors": [
+    "Nitin Vetcha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sqcHJMun10",
+   "pdf_url": "https://openreview.net/pdf?id=sqcHJMun10"
+  },
+  {
+   "title": "Divide-and-Conquer CoT: RL for Reducing Latency via Parallel Reasoning",
+   "authors": [
+    "Arvind V. Mahankali",
+    "Kaiyue Wen",
+    "Tengyu Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PdeYNGSiC5",
+   "pdf_url": "https://openreview.net/pdf?id=PdeYNGSiC5"
+  },
+  {
+   "title": "Do Language Models Deceive? Strategic Behavior and Emergent Deception in Multi-Agent Auctions",
+   "authors": [
+    "Aman Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aY9TAAQuFD",
+   "pdf_url": "https://openreview.net/pdf?id=aY9TAAQuFD"
+  },
+  {
+   "title": "Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems",
+   "authors": [
+    "Lang Feng",
+    "Longtao Zheng",
+    "Shuo He",
+    "Fuxiang Zhang",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GOX1vk1IL1",
+   "pdf_url": "https://openreview.net/pdf?id=GOX1vk1IL1"
+  },
+  {
+   "title": "EconAI: Dynamic Persona Evolution and Memory-Aware Agents inEvolving Economic Environments",
+   "authors": [
+    "Yijin Chen",
+    "Ning Lyu",
+    "Shengning Lang",
+    "Hao Yan",
+    "Zhiguo Tao",
+    "Xiaotong Ding",
+    "Xiaotong Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ibfvPld90A",
+   "pdf_url": "https://openreview.net/pdf?id=ibfvPld90A"
+  },
+  {
+   "title": "Evaluating Cooperation in LLM Social Groups through Elected Leadership",
+   "authors": [
+    "Ryan Faulkner",
+    "Anushka Deshpande",
+    "David Guzman Piedrahita",
+    "Joel Z Leibo",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F0lp9z6bnc",
+   "pdf_url": "https://openreview.net/pdf?id=F0lp9z6bnc"
+  },
+  {
+   "title": "Evaluating LLM Agents as Human Simulators in Climate Social Dilemmas",
+   "authors": [
+    "Kaiyuan Liu",
+    "Xiaoxuan Hou",
+    "Jiayi Yuan",
+    "Natasha Jaques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wTgTyIgRv3",
+   "pdf_url": "https://openreview.net/pdf?id=wTgTyIgRv3"
+  },
+  {
+   "title": "EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning",
+   "authors": [
+    "Haotian Chi",
+    "Zeyu Feng",
+    "Xingrui Yu",
+    "Linbo Luo",
+    "Yew-Soon Ong",
+    "Ivor Tsang",
+    "Hechang Chen",
+    "Yi Chang",
+    "Haiyan Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zGKkewtb2w",
+   "pdf_url": "https://openreview.net/pdf?id=zGKkewtb2w"
+  },
+  {
+   "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
+   "authors": [
+    "Yuda Song",
+    "Lili Chen",
+    "Fahim Tajwar",
+    "Rémi Munos",
+    "Deepak Pathak",
+    "Drew Bagnell",
+    "Aarti Singh",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RGFDCYlk7w",
+   "pdf_url": "https://openreview.net/pdf?id=RGFDCYlk7w"
+  },
+  {
+   "title": "Explanations are a Means to an End: Decision Theoretic Explanation Evaluation",
+   "authors": [
+    "Ziyang Guo",
+    "Berk Ustun",
+    "Jessica Hullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=22xD6KMvu9",
+   "pdf_url": "https://openreview.net/pdf?id=22xD6KMvu9"
+  },
+  {
+   "title": "Federation over Text",
+   "authors": [
+    "Dixi Yao",
+    "Tahseen Rabbani",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OxFGVlUSAH",
+   "pdf_url": "https://openreview.net/pdf?id=OxFGVlUSAH"
+  },
+  {
+   "title": "Group Distributionally Robust Optimization-Driven RL for LLM Reasoning",
+   "authors": [
+    "Kishan Panaganti",
+    "Zhenwen Liang",
+    "Wenhao Yu",
+    "Haitao Mi",
+    "Dong Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e9pDxK6I2b",
+   "pdf_url": "https://openreview.net/pdf?id=e9pDxK6I2b"
+  },
+  {
+   "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+   "authors": [
+    "X. Angelo Huang",
+    "Pepijn Cobben",
+    "Thao Amelia Pham",
+    "Terry Jingchen Zhang",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9P9fYtK0RM",
+   "pdf_url": "https://openreview.net/pdf?id=9P9fYtK0RM"
+  },
+  {
+   "title": "Heterogeneous Low-Bandwidth Pre-Training of LLMs",
+   "authors": [
+    "Yazan Obeidi",
+    "Amir Sarfi",
+    "Joel Lidin",
+    "Paul Janson",
+    "Eugene Belilovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OVhp2mHAPW",
+   "pdf_url": "https://openreview.net/pdf?id=OVhp2mHAPW"
+  },
+  {
+   "title": "Hierarchical Generative Agents for Simulating Sequential Human Behavior",
+   "authors": [
+    "Maria G. Mendoza",
+    "Lucas Waldburger",
+    "Jin Lee",
+    "S. Shankar Sastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MzeMSprSO5",
+   "pdf_url": "https://openreview.net/pdf?id=MzeMSprSO5"
+  },
+  {
+   "title": "How Communication Modalities Shape Topology in Generative Multi-Agent Systems",
+   "authors": [
+    "Vinicius Covas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xzBrIN2qF0",
+   "pdf_url": "https://openreview.net/pdf?id=xzBrIN2qF0"
+  },
+  {
+   "title": "Interpretable Multi-Agent Debate for Political Opinion Simulation",
+   "authors": [
+    "Aali Azamat uulu",
+    "Justin Xue Taing",
+    "Alibek Dadajonov",
+    "Mayank Goel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5zjxddNICo",
+   "pdf_url": "https://openreview.net/pdf?id=5zjxddNICo"
+  },
+  {
+   "title": "JaxAHT: A JAX-Based Library for Ad Hoc Teamwork",
+   "authors": [
+    "Caroline Wang",
+    "Rolando Fernandez",
+    "Jiaxun Cui",
+    "Johnny Liu",
+    "Aditya Madhan",
+    "Zhihan Wang",
+    "Lingyun Xiao",
+    "Di Yang Shi",
+    "Arrasy Rahman",
+    "Peter Stone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DkZ2IEBpH1",
+   "pdf_url": "https://openreview.net/pdf?id=DkZ2IEBpH1"
+  },
+  {
+   "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+   "authors": [
+    "Gabriele Cesa",
+    "Thomas Hehn",
+    "Aleix Torres-Camps",
+    "Àlex Batlle Casellas",
+    "Jordi Ros-Giralt",
+    "Arash Behboodi",
+    "Tribhuvanesh Orekondy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6WAuvwZjmw",
+   "pdf_url": "https://openreview.net/pdf?id=6WAuvwZjmw"
+  },
+  {
+   "title": "Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic",
+   "authors": [
+    "Shuo Liu",
+    "Tianle Chen",
+    "Ryan Amiri",
+    "Christopher Amato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qj8FwWtTuQ",
+   "pdf_url": "https://openreview.net/pdf?id=Qj8FwWtTuQ"
+  },
+  {
+   "title": "Learning the Preferences of a Learning Agent",
+   "authors": [
+    "Karim Abdel Sadek",
+    "Mark Bedaywi",
+    "Rhys Gould",
+    "Stuart Russell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xEto0NtANI",
+   "pdf_url": "https://openreview.net/pdf?id=xEto0NtANI"
+  },
+  {
+   "title": "Let’s Talk, Not Type: An Oral-First Multi-Agent Architecture for Guarani",
+   "authors": [
+    "Samantha Adorno",
+    "Akshata Kishore Moharir",
+    "Ratna Kandala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q0swx7f9di",
+   "pdf_url": "https://openreview.net/pdf?id=Q0swx7f9di"
+  },
+  {
+   "title": "MAGIC: Multi-Agent Generative Intention Coordination",
+   "authors": [
+    "David Huk",
+    "Oliver Hamelijnck",
+    "Dimitris Demiris",
+    "Theodoros Damoulas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d0jXHZhH5n",
+   "pdf_url": "https://openreview.net/pdf?id=d0jXHZhH5n"
+  },
+  {
+   "title": "MAPLE: Multi-Agent Prior Learning for Constructing Tree Ensembles",
+   "authors": [
+    "Nguyen Viet Tuan Kiet",
+    "Nguyen Ba Thinh",
+    "Thanh Trung Huynh",
+    "Hieu Pham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bBIA4TVEBG",
+   "pdf_url": "https://openreview.net/pdf?id=bBIA4TVEBG"
+  },
+  {
+   "title": "MetroRehearsal: Tool-Guided Multi-Agent Debate for Metro Emergency Planning",
+   "authors": [
+    "Jinlin Li",
+    "Xiao Zhou",
+    "Yingying Zhang",
+    "Xian Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g0iJEPstrc",
+   "pdf_url": "https://openreview.net/pdf?id=g0iJEPstrc"
+  },
+  {
+   "title": "Multi-Agent Consensus Matrix Modeling for Medical Decision-Making: A Role-Specialized LLM Framework for Oncology MDT Consultations",
+   "authors": [
+    "Ziyi Ni",
+    "Yiming Yan",
+    "Xiaoyi Qu",
+    "Yanzhan Chen",
+    "Chuang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=em8vGhlUxU",
+   "pdf_url": "https://openreview.net/pdf?id=em8vGhlUxU"
+  },
+  {
+   "title": "Not All Clients Are Equal: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients",
+   "authors": [
+    "Minhyuk Seo",
+    "Taeheon Kim",
+    "Hankook Lee",
+    "Jonghyun Choi",
+    "Tinne Tuytelaars"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bp1toPFI14",
+   "pdf_url": "https://openreview.net/pdf?id=bp1toPFI14"
+  },
+  {
+   "title": "Novelty-Gated Experience Sharing for Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Manish Sai Kota",
+    "Thomas Fan",
+    "Harshita Poojary",
+    "Nolawi Teklehaimanot",
+    "Aishwarya Balwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EjX20Zg7uB",
+   "pdf_url": "https://openreview.net/pdf?id=EjX20Zg7uB"
+  },
+  {
+   "title": "Reasonably reasoning agents avoid game-theoretic failures in zero-shot, provably",
+   "authors": [
+    "Enoch H. Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=McY2wqrINQ",
+   "pdf_url": "https://openreview.net/pdf?id=McY2wqrINQ"
+  },
+  {
+   "title": "RPRA: Predicting an LLM-Judge for Efficient but Performant Inference",
+   "authors": [
+    "Dylan R. Ashley",
+    "Gael Le Lan",
+    "Changsheng Zhao",
+    "Naina Dhingra",
+    "Zhipeng Cai",
+    "Ernie Chang",
+    "Mingchen Zhuge",
+    "Yangyang Shi",
+    "Vikas Chandra",
+    "Jürgen Schmidhuber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gQjzDPctyJ",
+   "pdf_url": "https://openreview.net/pdf?id=gQjzDPctyJ"
+  },
+  {
+   "title": "Safe Test-Time Reinforcement learning for Imperfect Information Games",
+   "authors": [
+    "Ondrej Kubicek",
+    "Viliam Lisý",
+    "Tuomas Sandholm"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lcOFmkInX2",
+   "pdf_url": "https://openreview.net/pdf?id=lcOFmkInX2"
+  },
+  {
+   "title": "Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation",
+   "authors": [
+    "Xiangyu Liu",
+    "Di Wang",
+    "Zhe Feng",
+    "Aranyak Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pBRFXoYfhj",
+   "pdf_url": "https://openreview.net/pdf?id=pBRFXoYfhj"
+  },
+  {
+   "title": "Self-Improvement of Language Models by Post-Training on Multi-Agent Debate",
+   "authors": [
+    "Ankur Samanta",
+    "Akshayaa Magesh",
+    "Runzhe Wu",
+    "Ayush Jain",
+    "Youliang Yu",
+    "Daniel Jiang",
+    "Boris Vidolov",
+    "Paul Sajda",
+    "Yonathan Efroni",
+    "Kaveh Hassani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fDOlevu70z",
+   "pdf_url": "https://openreview.net/pdf?id=fDOlevu70z"
+  },
+  {
+   "title": "Self-Questioning Language Models",
+   "authors": [
+    "Lili Chen",
+    "Mihir Prabhudesai",
+    "Katerina Fragkiadaki",
+    "Hao Liu",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8OOlhDmpXL",
+   "pdf_url": "https://openreview.net/pdf?id=8OOlhDmpXL"
+  },
+  {
+   "title": "SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks",
+   "authors": [
+    "Yuyang Li",
+    "Yiran Dou",
+    "Jie-Jing Shao",
+    "Yueming Lyu",
+    "Ivor Tsang",
+    "Haiyan Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OiyEjThGeZ",
+   "pdf_url": "https://openreview.net/pdf?id=OiyEjThGeZ"
+  },
+  {
+   "title": "Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA",
+   "authors": [
+    "XUANZHAO DONG",
+    "Wenhui Zhu",
+    "Hao Wang",
+    "Xiwen Chen",
+    "Peijie Qiu",
+    "Rui Yin",
+    "Yi Su",
+    "Yalin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FFg9JrtBrU",
+   "pdf_url": "https://openreview.net/pdf?id=FFg9JrtBrU"
+  },
+  {
+   "title": "Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling",
+   "authors": [
+    "Jeffrey T. H. Wong",
+    "Zixi Zhang",
+    "Junyi Liu",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=en5Obbfh66",
+   "pdf_url": "https://openreview.net/pdf?id=en5Obbfh66"
+  },
+  {
+   "title": "The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind",
+   "authors": [
+    "Andrei Lupu",
+    "Timon Willi",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IJajBuwrgB",
+   "pdf_url": "https://openreview.net/pdf?id=IJajBuwrgB"
+  },
+  {
+   "title": "UT-Evolve: AN EVOLUTIONARY AGENT FOR UNIT TEST WRITING",
+   "authors": [
+    "Arshika Lalan",
+    "Rajat Ghosh",
+    "Debojyoti Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cGsQriixUP",
+   "pdf_url": "https://openreview.net/pdf?id=cGsQriixUP"
+  },
+  {
+   "title": "Verified Multi-Agent Orchestration: A Plan-Execute-Verify-Replan Framework for Complex Query Resolution",
+   "authors": [
+    "Xing Zhang",
+    "Yanwei CUI",
+    "Guanghui Wang",
+    "Qucy Wei Qiu",
+    "Ziyuan Li",
+    "Fangwei Han",
+    "Yajing Huang",
+    "Hengzhi Qiu",
+    "Bing Zhu",
+    "Peiyang He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WUmz4LUbvU",
+   "pdf_url": "https://openreview.net/pdf?id=WUmz4LUbvU"
+  },
+  {
+   "title": "Zero-Shot Coordination among LLM Agents",
+   "authors": [
+    "Adrian Hayler",
+    "Shashank Reddy Chirra",
+    "Andrei Lupu",
+    "Johannes Forkel",
+    "Bidipta Sarkar",
+    "Siheng Feng",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HHPbQlyA7Y",
+   "pdf_url": "https://openreview.net/pdf?id=HHPbQlyA7Y"
+  }
+ ]
+}

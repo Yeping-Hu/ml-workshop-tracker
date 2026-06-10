@@ -1,0 +1,1260 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/CTB",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:33.765Z",
+ "paper_count": 111,
+ "papers": [
+  {
+   "title": "A Benchmarked Diagnostic for Sparse Decomposability of Dense Causal Subspaces",
+   "authors": [
+    "Socrates Osorio",
+    "Joy Zheyun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=elONawGkJH",
+   "pdf_url": "https://openreview.net/pdf?id=elONawGkJH"
+  },
+  {
+   "title": "A Cognitive Battery for Foundation Models: Theory-Grounded Benchmarks for Attention, Learning, Metacognition, Executive Function, and Social Cognition",
+   "authors": [
+    "Zacharie Bugaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hj8JQStMfA",
+   "pdf_url": "https://openreview.net/pdf?id=Hj8JQStMfA"
+  },
+  {
+   "title": "A Controlled Benchmark for Lag-Structured Dependency Motifs",
+   "authors": [
+    "Bowen Qi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nYW2i3PRf5",
+   "pdf_url": "https://openreview.net/pdf?id=nYW2i3PRf5"
+  },
+  {
+   "title": "A Numerical Study of Robustness Verification for Lightning Self-Attention",
+   "authors": [
+    "Yulia Alexandr",
+    "Hao Duan",
+    "Guido Montufar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=chdmQkKUH3",
+   "pdf_url": "https://openreview.net/pdf?id=chdmQkKUH3"
+  },
+  {
+   "title": "A Unified Perturbation Framework for Analyzing Leaderboard Stability and Manipulation",
+   "authors": [
+    "Hosna Oyarhoseini",
+    "Jimmy Lin",
+    "Amir-Hossein Karimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PS8oEIiLyb",
+   "pdf_url": "https://openreview.net/pdf?id=PS8oEIiLyb"
+  },
+  {
+   "title": "Active probabilistic reasoning in humans and LLMs",
+   "authors": [
+    "Gonçalo Guiomar",
+    "Elia Torre",
+    "Pehuen Moure",
+    "Victoria Shavina",
+    "Mario Giulianelli",
+    "Shih-Chii Liu",
+    "Valerio Mante"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WMZ7yQareL",
+   "pdf_url": "https://openreview.net/pdf?id=WMZ7yQareL"
+  },
+  {
+   "title": "Aggregate Metrics Hide Shortcut Regimes: A Complexity-Stratified Benchmark for Novel View Synthesis",
+   "authors": [
+    "Han Lee",
+    "Rohan Keyur Dalal",
+    "Irene Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R9yaOteyIU",
+   "pdf_url": "https://openreview.net/pdf?id=R9yaOteyIU"
+  },
+  {
+   "title": "AIE-Bench: Benchmarking Agents That Build Agents",
+   "authors": [
+    "Abhishek Mishra",
+    "Selvam Palanimalai",
+    "Yogendra Manawat",
+    "Samuel Verboomen",
+    "Prannay Hebbar",
+    "Damir Vrabac",
+    "Deepak Nathani",
+    "Sumeet Ramesh Motwani",
+    "Kunal Bhatia",
+    "Vignesh Baskaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f9yc09BuxG",
+   "pdf_url": "https://openreview.net/pdf?id=f9yc09BuxG"
+  },
+  {
+   "title": "AMVICC: A Novel Benchmark for Cross-Modal Failure Mode Profiling for VLMs and IGMs",
+   "authors": [
+    "Pranay Goel",
+    "Aahana Basappa",
+    "Anusri Karra",
+    "Anish Karra",
+    "Kevin Zhu",
+    "Asa Gilmore"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3sjQVKZ9OH",
+   "pdf_url": "https://openreview.net/pdf?id=3sjQVKZ9OH"
+  },
+  {
+   "title": "BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding",
+   "authors": [
+    "Patrick Knab",
+    "Orgest Xhelili",
+    "Inis Buzi",
+    "Drago Andres Guggiana Nilo",
+    "Mohd Saquib Khan",
+    "Lorenz Kolb",
+    "Manuel Scherzer",
+    "Kerem Yildirir",
+    "Christian Bartelt",
+    "Philipp Johannes Schubert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xtnrFDmu1O",
+   "pdf_url": "https://openreview.net/pdf?id=xtnrFDmu1O"
+  },
+  {
+   "title": "Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations",
+   "authors": [
+    "Yanan Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kPtPg4t0RX",
+   "pdf_url": "https://openreview.net/pdf?id=kPtPg4t0RX"
+  },
+  {
+   "title": "Benchmark Scores Rank Methods, Not Capabilities: Theory, Evidence, and Protocols for the Saturation-Collapse Cycle",
+   "authors": [
+    "Dipam Paul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KQDZdKROze",
+   "pdf_url": "https://openreview.net/pdf?id=KQDZdKROze"
+  },
+  {
+   "title": "Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub",
+   "authors": [
+    "Eunsu Kim",
+    "Haneul Yoo",
+    "Guijin Son",
+    "Hitesh Laxmichand Patel",
+    "Amit Agarwal",
+    "Alice Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GUY4iSFlZy",
+   "pdf_url": "https://openreview.net/pdf?id=GUY4iSFlZy"
+  },
+  {
+   "title": "Beyond Answer Correctness: Measuring and Reducing Explanation Faithfulness Gaps in Chart Understanding VLMs",
+   "authors": [
+    "Kshitij Dahiya",
+    "Dr. Vinay Kumar Saini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JKp3grjMe5",
+   "pdf_url": "https://openreview.net/pdf?id=JKp3grjMe5"
+  },
+  {
+   "title": "Bounding Compositional Incoherence in Foundation Models",
+   "authors": [
+    "Anany Kotawala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=arhVLimgoE",
+   "pdf_url": "https://openreview.net/pdf?id=arhVLimgoE"
+  },
+  {
+   "title": "Capacity-Gated Forgetting in LoRA Fine-Tuning: Rank, Proximity, and Endogenous Replay in Medical LLMs",
+   "authors": [
+    "Akanksha Narula",
+    "Aaditya Sharma",
+    "Dharya Jasuja",
+    "Aditya Dhawan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AmQVxvyRJC",
+   "pdf_url": "https://openreview.net/pdf?id=AmQVxvyRJC"
+  },
+  {
+   "title": "CellARC: An Oracle-Calibrated Benchmark for Few-Shot Rule Induction",
+   "authors": [
+    "Miroslav Lžičař"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wmQj1xQEow",
+   "pdf_url": "https://openreview.net/pdf?id=wmQj1xQEow"
+  },
+  {
+   "title": "Certifiable Evaluation: A Low-Rank Framework for Foundation Model Benchmarking with Formal Performance Guarantees",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Laksh Patel",
+    "Tanush Ajay Shastry",
+    "Akshath Sharma",
+    "Mithil Shah",
+    "Matthew Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kujkkNN6AM",
+   "pdf_url": "https://openreview.net/pdf?id=kujkkNN6AM"
+  },
+  {
+   "title": "Certified Evaluation for LLMs in Optimization Modeling: From Graph Isomorphism to Formulation Isomorphism",
+   "authors": [
+    "Zhuohan Wang",
+    "Ziwei Zhu",
+    "Ziniu Li",
+    "Congliang Chen",
+    "Zhihang Lin",
+    "MingZhe Yang",
+    "Yizhou Han",
+    "Yufeng Lin",
+    "Angyang Gu",
+    "Xinglin Hu",
+    "Ruoyu Sun",
+    "Tian Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jEudMU2Ppd",
+   "pdf_url": "https://openreview.net/pdf?id=jEudMU2Ppd"
+  },
+  {
+   "title": "Choosing Training-Time Calibration Objectives for Frozen Foundation-Model Features: A Linear-Probing Benchmark",
+   "authors": [
+    "Heejin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OXYRHjtEG3",
+   "pdf_url": "https://openreview.net/pdf?id=OXYRHjtEG3"
+  },
+  {
+   "title": "CLIP Models Generalize Less Than Compositional Benchmarks Suggest",
+   "authors": [
+    "Shuman Peng",
+    "Arnas Uselis",
+    "Darina Koishigarina",
+    "Martin Ester",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0riiPY0Egp",
+   "pdf_url": "https://openreview.net/pdf?id=0riiPY0Egp"
+  },
+  {
+   "title": "Collaborative Adaptive Labeling with Imperfect Labelers and Selective Expert Escalation",
+   "authors": [
+    "Xinrui Ruan",
+    "Nanshan Jia",
+    "Waverly Wei",
+    "Sui Huang",
+    "Zhenyu Zhao",
+    "Zeyu Zheng",
+    "Jingshen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fYY5GoOyiS",
+   "pdf_url": "https://openreview.net/pdf?id=fYY5GoOyiS"
+  },
+  {
+   "title": "Combining Theory and Benchmarks for Length Generalisation: Formal Certificates Meet Large-Scale Evaluation",
+   "authors": [
+    "Zacharie Bugaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=shPakbYAoQ",
+   "pdf_url": "https://openreview.net/pdf?id=shPakbYAoQ"
+  },
+  {
+   "title": "Conformalized Scaling Laws: Distribution-Free Prediction Intervals  for Out-of-Distribution Compute Regimes",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oQnu31SHKY",
+   "pdf_url": "https://openreview.net/pdf?id=oQnu31SHKY"
+  },
+  {
+   "title": "Constructing Thunder Korean Benchmark Suite for Reliable Evaluation of Foundation Models",
+   "authors": [
+    "Yeonkyoung So",
+    "Jongmin Kim",
+    "Sungmok Jung",
+    "Gyuseong Lee",
+    "Sangho Kim",
+    "Jongyeon Park",
+    "Joonhak Lee",
+    "Seho Pyo",
+    "Gyeongje Cho",
+    "Seorin Kim",
+    "Jisoo Kim",
+    "Suyoung Park",
+    "Hyunji M. Park",
+    "Yelim Ahn",
+    "Yeongho Seo",
+    "Jaejin Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oJ3rhISSqO",
+   "pdf_url": "https://openreview.net/pdf?id=oJ3rhISSqO"
+  },
+  {
+   "title": "Context Over Content: Exposing Evaluation Faking in Automated Judges",
+   "authors": [
+    "Manan Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XI2hnjGnZx",
+   "pdf_url": "https://openreview.net/pdf?id=XI2hnjGnZx"
+  },
+  {
+   "title": "Context Saturation in Zero-Shot Time-Series Foundation Models",
+   "authors": [
+    "Miguel Nogales",
+    "Luca Butera",
+    "Alberto Ferrante",
+    "Cesare Alippi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oHM0cg2YkF",
+   "pdf_url": "https://openreview.net/pdf?id=oHM0cg2YkF"
+  },
+  {
+   "title": "Contextual Observability and Grammar Singularity for Compositional Task Families",
+   "authors": [
+    "Manoj Saravanan",
+    "Rohit Kumar Salla",
+    "Shrikar Reddy Kota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=adgFR0e7vn",
+   "pdf_url": "https://openreview.net/pdf?id=adgFR0e7vn"
+  },
+  {
+   "title": "ContinuityBench: A Framework and Taxonomy for Evaluating Agent Recovery from Interrupted State",
+   "authors": [
+    "Aryan Gulati"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3N3BzvoLbG",
+   "pdf_url": "https://openreview.net/pdf?id=3N3BzvoLbG"
+  },
+  {
+   "title": "Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB",
+   "authors": [
+    "Xingyu Ren",
+    "Youran Sun",
+    "Haoyu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H4IOCKYUoI",
+   "pdf_url": "https://openreview.net/pdf?id=H4IOCKYUoI"
+  },
+  {
+   "title": "Correcting Optimizer Selection Bias via Large Deviation Hazards",
+   "authors": [
+    "Andrea Zerio",
+    "Andres R Masegosa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZdbrxivNd9",
+   "pdf_url": "https://openreview.net/pdf?id=ZdbrxivNd9"
+  },
+  {
+   "title": "Correcting Prompt Dependence in LLM Benchmarks: A Bayesian Hierarchical Model with Embedding-Space Clustering",
+   "authors": [
+    "Mary Llewellyn",
+    "Isobel Thornton",
+    "James Bishop",
+    "Annie Gray"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Hc2eaDQwx",
+   "pdf_url": "https://openreview.net/pdf?id=4Hc2eaDQwx"
+  },
+  {
+   "title": "Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension",
+   "authors": [
+    "Amanda Bertsch",
+    "Luca Soldaini",
+    "Matthew R. Gormley",
+    "Graham Neubig",
+    "Hannaneh Hajishirzi",
+    "Kyle Lo",
+    "Dirk Groeneveld"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MRXATMdzeC",
+   "pdf_url": "https://openreview.net/pdf?id=MRXATMdzeC"
+  },
+  {
+   "title": "Cross-Language Evaluation of Prompt Inversion: Similarity Metrics, Decoding Strategies, and Prefix Sensitivity in Japanese and English",
+   "authors": [
+    "Yusei Kitamura",
+    "Ahmad Akmal Aminuddin Mohd Kamal",
+    "Masaya Fujisawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BAonaNW8a7",
+   "pdf_url": "https://openreview.net/pdf?id=BAonaNW8a7"
+  },
+  {
+   "title": "DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs",
+   "authors": [
+    "Art Kanke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WeU37QaQDT",
+   "pdf_url": "https://openreview.net/pdf?id=WeU37QaQDT"
+  },
+  {
+   "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+   "authors": [
+    "Manan Gupta",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TfGPyO7dal",
+   "pdf_url": "https://openreview.net/pdf?id=TfGPyO7dal"
+  },
+  {
+   "title": "EditCLEVR: A Paired-Scene Intervention Benchmark for Compositional Faithfulness of Object-Centric Representations",
+   "authors": [
+    "Anuraag Gadehothur Karnam",
+    "Tarunesh Sathish"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tiDORqmdag",
+   "pdf_url": "https://openreview.net/pdf?id=tiDORqmdag"
+  },
+  {
+   "title": "Efficient Safety Benchmarking via Item Response Theory",
+   "authors": [
+    "Fabio Spagliardi",
+    "Mírian Silva",
+    "Ayan Datta",
+    "Aiden Zhou",
+    "Vamshi Krishna Bonagiri",
+    "Diogo Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dR9wnbfVGu",
+   "pdf_url": "https://openreview.net/pdf?id=dR9wnbfVGu"
+  },
+  {
+   "title": "Ensuring Calibration Robustness in Split Conformal Prediction Under Adversarial Attacks",
+   "authors": [
+    "Xunlei Qian",
+    "Yue Xing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TUUWndAMYk",
+   "pdf_url": "https://openreview.net/pdf?id=TUUWndAMYk"
+  },
+  {
+   "title": "Estimating Pass@$k$ from Fewer Samples with Hierarchical Bayesian Priors",
+   "authors": [
+    "Alexandre Verine",
+    "Florian Le Bronnec",
+    "Benjamin Negrevergne",
+    "Alexandre Allauzen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IGzxVhdGMb",
+   "pdf_url": "https://openreview.net/pdf?id=IGzxVhdGMb"
+  },
+  {
+   "title": "Evaluating LLM Reasoning on Operating System Algorithms via Step-Level Verification",
+   "authors": [
+    "Jalluri Mahesh Kumar",
+    "Junjunoori Sri Chakri",
+    "Yash Kothari",
+    "Murari Mandal",
+    "Yash Sinha",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VD46qztSQe",
+   "pdf_url": "https://openreview.net/pdf?id=VD46qztSQe"
+  },
+  {
+   "title": "Evaluator Failure Modes in Agentic Uncertainty Quantification",
+   "authors": [
+    "Suresh Raghu",
+    "Satwik Pandey",
+    "Shashwat Pandey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wtRW1N76il",
+   "pdf_url": "https://openreview.net/pdf?id=wtRW1N76il"
+  },
+  {
+   "title": "Executable Ground Truth: A Closed-Loop Benchmark for Evaluating LLM Agents on Microservice Incident Remediation",
+   "authors": [
+    "Dhatri C",
+    "Tadisetty Sai Yashwanth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pnZLtFQCzH",
+   "pdf_url": "https://openreview.net/pdf?id=pnZLtFQCzH"
+  },
+  {
+   "title": "Fast Inference via Hierarchical Speculative Decoding",
+   "authors": [
+    "Clara Mohri",
+    "Amir Globerson",
+    "Haim Kaplan",
+    "Yishay Mansour",
+    "Tal Schuster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0kdQgdXXS6",
+   "pdf_url": "https://openreview.net/pdf?id=0kdQgdXXS6"
+  },
+  {
+   "title": "Feedforward Mixing is as Sharp as it is Slow in Reverse",
+   "authors": [
+    "Benedict Aaron Tjandra",
+    "Avi Wigderson",
+    "João G. M. Araújo",
+    "Alex Vitvitskyi",
+    "Federico Barbero",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7vuXbycHfO",
+   "pdf_url": "https://openreview.net/pdf?id=7vuXbycHfO"
+  },
+  {
+   "title": "FormalImG: Evaluating Structural Compositional Generalization for T2I Models",
+   "authors": [
+    "Hong-Jie You",
+    "Jie-Jing Shao",
+    "Xiao-Wen Yang",
+    "Zhi-Fan Wu",
+    "Lin-Han Jia",
+    "Lan-Zhe Guo",
+    "Yu-Feng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4wzRPQ1Vqc",
+   "pdf_url": "https://openreview.net/pdf?id=4wzRPQ1Vqc"
+  },
+  {
+   "title": "FRAME: Framework for Robotic Action and Motion Evaluation",
+   "authors": [
+    "Ameya Wagh",
+    "Vishnu Rudrasamudram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LS7IoE1ro5",
+   "pdf_url": "https://openreview.net/pdf?id=LS7IoE1ro5"
+  },
+  {
+   "title": "From Accuracy to Visual Dependence: Auditing and Filtering Modality Collapse in Traffic VideoQA",
+   "authors": [
+    "Sena Korkut",
+    "Maria Alejandra Bravo",
+    "Sanghwan Kim",
+    "Zeynep Akata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rKWze9irRW",
+   "pdf_url": "https://openreview.net/pdf?id=rKWze9irRW"
+  },
+  {
+   "title": "From Forecast Scores to Auditable Benchmarks: WorldFork for LLM Forecasting Evaluation",
+   "authors": [
+    "Hanson Wen",
+    "James Gui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MKraFpVNKM",
+   "pdf_url": "https://openreview.net/pdf?id=MKraFpVNKM"
+  },
+  {
+   "title": "From Theory to Decision Rule: Calibrating the Noisy-Label Crossover for VLM Weak Supervision Across Three Medical-Imaging Benchmarks",
+   "authors": [
+    "Bruce Changlong Xu",
+    "Jose K. James",
+    "Alexander J Ryu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wETIFE5UKb",
+   "pdf_url": "https://openreview.net/pdf?id=wETIFE5UKb"
+  },
+  {
+   "title": "Functional Subspace, where language models can use vector algebra to solve problems",
+   "authors": [
+    "Jung H. Lee",
+    "Sujith Vijayan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZN1Ec8TjPT",
+   "pdf_url": "https://openreview.net/pdf?id=ZN1Ec8TjPT"
+  },
+  {
+   "title": "Fuzzy-Clustered Mixture-of-Experts with Relational Regularization for Interpretable Subgroup Modeling under Data Scarcity",
+   "authors": [
+    "Chien-Hung Lai",
+    "Yuh-Shyan Hwang",
+    "Yi Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kSKFfasnAX",
+   "pdf_url": "https://openreview.net/pdf?id=kSKFfasnAX"
+  },
+  {
+   "title": "GapPO: Gradient-Adaptive Pairwise Preference Optimization",
+   "authors": [
+    "Michelle Chang",
+    "Xiaodi Sun",
+    "Ethan C. Chau",
+    "Zhaoqiong Huang",
+    "Arpita Das",
+    "Izzie Lau",
+    "Liyuan Zheng",
+    "Huancheng Chen",
+    "Jingwen Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Z0QwAbYa9",
+   "pdf_url": "https://openreview.net/pdf?id=0Z0QwAbYa9"
+  },
+  {
+   "title": "Generalized Priority-Aware Shapley Value",
+   "authors": [
+    "Kiljae Lee",
+    "Ziqi Liu",
+    "Weijing Tang",
+    "Yuan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D7DlYGYnlh",
+   "pdf_url": "https://openreview.net/pdf?id=D7DlYGYnlh"
+  },
+  {
+   "title": "Generative vs Discriminative? Revisiting the shortcut learning debate in text classification",
+   "authors": [
+    "Siva Rajesh Kasa",
+    "Karthik Raavi",
+    "Sumegh Roychowdhury",
+    "Pattisapu Nikhil Priyatam",
+    "Ashutosh Kumar",
+    "Yaswanth Biruduraju",
+    "Santhosh Kumar Kasa",
+    "Ankith M S",
+    "Sumit Negi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CIO3sCIIXU",
+   "pdf_url": "https://openreview.net/pdf?id=CIO3sCIIXU"
+  },
+  {
+   "title": "GraphStateEval: A Step-by-Step Evaluation Framework for Graph Algorithm Execution in Large Language Models via Intermediate State Tracing",
+   "authors": [
+    "Kanav Kapoor",
+    "Dhruv Kumar",
+    "Jagat Sesh Challa",
+    "Murari Mandal",
+    "Yash Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1IJRLpRNkN",
+   "pdf_url": "https://openreview.net/pdf?id=1IJRLpRNkN"
+  },
+  {
+   "title": "Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DecompBench",
+   "authors": [
+    "Vikhyath Kothamasu",
+    "Virginia Smith",
+    "Chhavi Yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PA6aTlbQxb",
+   "pdf_url": "https://openreview.net/pdf?id=PA6aTlbQxb"
+  },
+  {
+   "title": "Hidden Sensitivity in Spatial Reasoning Evaluation: Diagnosis and Re-ranking with VSI-Bench",
+   "authors": [
+    "Phillip Y. Lee",
+    "Jin Yoo",
+    "Minseo Kim",
+    "Leonidas Guibas",
+    "Minhyuk Sung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=veFSwiJogR",
+   "pdf_url": "https://openreview.net/pdf?id=veFSwiJogR"
+  },
+  {
+   "title": "Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots",
+   "authors": [
+    "Mark Vero",
+    "Fabian Kaczmarczyck",
+    "Ivan Petrov",
+    "Ilia Shumailov",
+    "Niels Heinen",
+    "Jamie Hayes",
+    "Tianqi Fan",
+    "Luca Invernizzi",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FMuMy7z0Pw",
+   "pdf_url": "https://openreview.net/pdf?id=FMuMy7z0Pw"
+  },
+  {
+   "title": "How good is your harness?",
+   "authors": [
+    "Jiwoo Han",
+    "Yuekai Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QI8z3skBwt",
+   "pdf_url": "https://openreview.net/pdf?id=QI8z3skBwt"
+  },
+  {
+   "title": "How long is a piece of string? A brief empirical analysis of tokenizers",
+   "authors": [
+    "Jonathan Roberts",
+    "Kai Han",
+    "Samuel Albanie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JvMCcbphJD",
+   "pdf_url": "https://openreview.net/pdf?id=JvMCcbphJD"
+  },
+  {
+   "title": "Identifying Efficient Queries for Black-Box Model Classification",
+   "authors": [
+    "Merrick Ohata",
+    "Carey Priebe",
+    "Hayden Helm"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fE43rFG26P",
+   "pdf_url": "https://openreview.net/pdf?id=fE43rFG26P"
+  },
+  {
+   "title": "Instance-Optimal Estimation with Multiple LLM Judges on a Budget",
+   "authors": [
+    "Junghyun Lee",
+    "Sanghwa Kim",
+    "Yassir Jedra",
+    "Alexandre Proutiere",
+    "Se-Young Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K6BiGb5opu",
+   "pdf_url": "https://openreview.net/pdf?id=K6BiGb5opu"
+  },
+  {
+   "title": "Instruction Bleed: A Theory-Anchored Benchmark for Cross-Module Interference in Prompt-Composed Agents",
+   "authors": [
+    "Ching-Yu Lin",
+    "Yifan Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fpwVh1CMp9",
+   "pdf_url": "https://openreview.net/pdf?id=fpwVh1CMp9"
+  },
+  {
+   "title": "Interactive Evaluation Requires a Design Science",
+   "authors": [
+    "Keyang Xuan",
+    "Peiyang Song",
+    "Pan Lu",
+    "Pengrui Han",
+    "Wenkai Li",
+    "Zhenyu Zhang",
+    "Zexue He",
+    "Wenyue Hua",
+    "Manling Li",
+    "Jiaxuan You",
+    "Adrian Weller",
+    "Yizhong Wang",
+    "Jiaxin Pei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9BI8RrDJgF",
+   "pdf_url": "https://openreview.net/pdf?id=9BI8RrDJgF"
+  },
+  {
+   "title": "Internal Data Repetition Destroys Language Models",
+   "authors": [
+    "Jessica Chudnovsky",
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Yegor Denisov-Blanch",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jFwK1CXIII",
+   "pdf_url": "https://openreview.net/pdf?id=jFwK1CXIII"
+  },
+  {
+   "title": "Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering",
+   "authors": [
+    "Manan Gupta",
+    "Dhruv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yOhKxydvaM",
+   "pdf_url": "https://openreview.net/pdf?id=yOhKxydvaM"
+  },
+  {
+   "title": "LoopNav: Benchmarking Spatial Consistency in World Models",
+   "authors": [
+    "Kewei Lian",
+    "Shaofei Cai",
+    "Yitao Liang",
+    "Anji Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=htbVRsdhwG",
+   "pdf_url": "https://openreview.net/pdf?id=htbVRsdhwG"
+  },
+  {
+   "title": "m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning",
+   "authors": [
+    "Yosub Shin",
+    "Michael Buriek",
+    "Igor Molybog"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9oeZLHDsPq",
+   "pdf_url": "https://openreview.net/pdf?id=9oeZLHDsPq"
+  },
+  {
+   "title": "Measuring the Limits of Continual Learning for LLMs",
+   "authors": [
+    "Nimit Kalra",
+    "Narutatsu Ri",
+    "Zerzar Bukhari",
+    "Ang Li",
+    "Sanae Lotfi",
+    "Liam H Fowl",
+    "Micah Goldblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BlDEHKSGy9",
+   "pdf_url": "https://openreview.net/pdf?id=BlDEHKSGy9"
+  },
+  {
+   "title": "Model Capacity Determines Grokking through Competing Memorisation and Generalisation Speeds",
+   "authors": [
+    "YIDING SONG",
+    "Hanming Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DRTxb5DfHt",
+   "pdf_url": "https://openreview.net/pdf?id=DRTxb5DfHt"
+  },
+  {
+   "title": "MultiVulnBench: A Large-Scale Benchmark for Count Bias in LLM-Based Multi-Vulnerability Detection",
+   "authors": [
+    "Manan Gupta",
+    "Chinmay Pushkar",
+    "Sanchit Kabra",
+    "Dhruv Kumar",
+    "Jagat Sesh Challa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nk4iCkoncE",
+   "pdf_url": "https://openreview.net/pdf?id=nk4iCkoncE"
+  },
+  {
+   "title": "Null-Calibrated Evaluation of Sparse Autoencoder Decoder Reproducibility",
+   "authors": [
+    "Bright Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=glN1qCfwdz",
+   "pdf_url": "https://openreview.net/pdf?id=glN1qCfwdz"
+  },
+  {
+   "title": "On Cost-Effective LLM-as-a-Judge Improvement Techniques",
+   "authors": [
+    "Ryan Lail",
+    "Luke Markham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Gh5kap89a",
+   "pdf_url": "https://openreview.net/pdf?id=7Gh5kap89a"
+  },
+  {
+   "title": "On the Rotation-Equivariance Geometry of Tabular Foundation Models",
+   "authors": [
+    "Mert Ogul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HD4p04Dsni",
+   "pdf_url": "https://openreview.net/pdf?id=HD4p04Dsni"
+  },
+  {
+   "title": "Operads for compositional reasoning in LLMs",
+   "authors": [
+    "Nathaniel Bottman",
+    "Kyle Richardson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UdNuBMXlgm",
+   "pdf_url": "https://openreview.net/pdf?id=UdNuBMXlgm"
+  },
+  {
+   "title": "Perplexity Cannot Always Tell Right from Wrong",
+   "authors": [
+    "Petar Veličković",
+    "Federico Barbero",
+    "Christos Perivolaropoulos",
+    "Simon Osindero",
+    "Razvan Pascanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wwIMtk4kPW",
+   "pdf_url": "https://openreview.net/pdf?id=wwIMtk4kPW"
+  },
+  {
+   "title": "Pre-Registering the Detectable Effect: A Paired-MDE Budget for 4-bit Quantization Benchmarks, with a Pilot Audit",
+   "authors": [
+    "Zexin Zhuang",
+    "Yanhang Li",
+    "Zhichao Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=evEkbh0JQY",
+   "pdf_url": "https://openreview.net/pdf?id=evEkbh0JQY"
+  },
+  {
+   "title": "Probabilistic Chain-of-Thought: Sequential Bayesian Inference over Latent Reasoning Correctness",
+   "authors": [
+    "Suriya Dev Saravanakumar",
+    "Ezra Matiwos Wesenie",
+    "Kishore Nuthalapati",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Sj4Rhe4mw",
+   "pdf_url": "https://openreview.net/pdf?id=3Sj4Rhe4mw"
+  },
+  {
+   "title": "Prompt Optimization Is a Coin Flip: Diagnosing When It Helps in Compound AI Systems",
+   "authors": [
+    "Xing Zhang",
+    "Guanghui Wang",
+    "Yanwei CUI",
+    "Qucy Wei Qiu",
+    "Ziyuan Li",
+    "Bing Zhu",
+    "Peiyang He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uBqRWbiM55",
+   "pdf_url": "https://openreview.net/pdf?id=uBqRWbiM55"
+  },
+  {
+   "title": "PromptSplit: Revealing Prompt-Level Disagreement in Generative Models",
+   "authors": [
+    "Mehdi Lotfian",
+    "Mohammad Jalali",
+    "Farzan Farnia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sUThOs5ADa",
+   "pdf_url": "https://openreview.net/pdf?id=sUThOs5ADa"
+  },
+  {
+   "title": "Quantifying Empirical Compute-Supervision Tradeoffs in RLVR",
+   "authors": [
+    "Ryo Mitsuhashi",
+    "Patrick Chen",
+    "Isabelle Tseng",
+    "Jasin Cekinmez",
+    "Addison J. Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5IPApEFCwB",
+   "pdf_url": "https://openreview.net/pdf?id=5IPApEFCwB"
+  },
+  {
+   "title": "Rethinking FID Through the Geometry of the Reference Dataset",
+   "authors": [
+    "Yunghee Lee",
+    "Byeonghyun Pak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QDdHFImjpH",
+   "pdf_url": "https://openreview.net/pdf?id=QDdHFImjpH"
+  },
+  {
+   "title": "Rethinking LLM Confidence: From Calibration to Coherence",
+   "authors": [
+    "Krish Matta",
+    "Atharv Naphade",
+    "Andy Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SmwCItfHoC",
+   "pdf_url": "https://openreview.net/pdf?id=SmwCItfHoC"
+  },
+  {
+   "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+   "authors": [
+    "Rafal Kocielnik",
+    "Pengrui Han",
+    "Peiyang Song",
+    "Myrl G Marmarelis",
+    "Ramit Debnath",
+    "Dean Mobbs",
+    "Anima Anandkumar",
+    "R. Michael Alvarez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8nhe3thuYr",
+   "pdf_url": "https://openreview.net/pdf?id=8nhe3thuYr"
+  },
+  {
+   "title": "Retrieval Dwelling: A Principled Sampling Strategy for Exploiting Spurious State Exploration",
+   "authors": [
+    "Rohit Sinha",
+    "Saroj Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2TH8fMqFKx",
+   "pdf_url": "https://openreview.net/pdf?id=2TH8fMqFKx"
+  },
+  {
+   "title": "SafetyRepro: Configuration-Conditional Rank Instability on Alignment Benchmarks",
+   "authors": [
+    "Yanhang Li",
+    "Zhichao Fan",
+    "Zexin Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=raDcgD02cy",
+   "pdf_url": "https://openreview.net/pdf?id=raDcgD02cy"
+  },
+  {
+   "title": "Scale Dependent Data Duplication",
+   "authors": [
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Jessica Chudnovsky",
+    "Abhay Puri",
+    "Bo He",
+    "Mehmet Donmez",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jvMN1OGqzj",
+   "pdf_url": "https://openreview.net/pdf?id=jvMN1OGqzj"
+  },
+  {
+   "title": "Selective Perturbations as a Diagnostic for Benchmark-Based LLM Comparisons",
+   "authors": [
+    "Ivan Dubrovsky",
+    "Anastasia Orlova",
+    "Nina Gubina",
+    "Illarion Iov",
+    "Irena Gureeva",
+    "Nikolay Nikitin",
+    "Alexey Zaytsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aPMZeIfwEc",
+   "pdf_url": "https://openreview.net/pdf?id=aPMZeIfwEc"
+  },
+  {
+   "title": "SemanticSRJudge: Spatially-Grounded VLM Evaluation for Super-Resolution Quality Assessment",
+   "authors": [
+    "Vishwajeet Shukla",
+    "Ankit Dhankhar",
+    "Ajay Bedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PBVTvYh9oK",
+   "pdf_url": "https://openreview.net/pdf?id=PBVTvYh9oK"
+  },
+  {
+   "title": "ShiftBench: A Benchmark for Per-Cohort Certify-or-Abstain Decisions on Positive Predictive Value Under Covariate Shift",
+   "authors": [
+    "Ananya Salian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JLnxxLg0nX",
+   "pdf_url": "https://openreview.net/pdf?id=JLnxxLg0nX"
+  },
+  {
+   "title": "Simulating Field Experiments for Method Testing",
+   "authors": [
+    "Enoch H. Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qS3ZIkZg9a",
+   "pdf_url": "https://openreview.net/pdf?id=qS3ZIkZg9a"
+  },
+  {
+   "title": "Spectral Signatures of Large Language Models",
+   "authors": [
+    "Zhuoying Zhang",
+    "Ishan Verma Prasad",
+    "Zihang Liu",
+    "Yuanzhe Hu",
+    "Hengrui Luo",
+    "Pu Ren",
+    "Yaoqing Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5CUn2rtVVH",
+   "pdf_url": "https://openreview.net/pdf?id=5CUn2rtVVH"
+  },
+  {
+   "title": "Stress Tests REVEAL Fragile Temporal and Visual Grounding in Video-Language Models",
+   "authors": [
+    "Sethuraman T V",
+    "Savya Khosla",
+    "Aditi Tiwari",
+    "Vidya Ganesh",
+    "Rakshana Jayaprakash",
+    "Aditya Jain",
+    "Vignesh Srinivasakumar",
+    "Onkar Kishor Susladkar",
+    "Joey Wang",
+    "Srinidhi Sunkara",
+    "Aditya Shanmugham",
+    "Abbaas Alif Mohamed Nishar",
+    "Rakesh Vaideeswaran",
+    "Simon Jenni",
+    "Derek Hoiem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SJykq9Kdt6",
+   "pdf_url": "https://openreview.net/pdf?id=SJykq9Kdt6"
+  },
+  {
+   "title": "Stress-Testing Neural Network Verifiers with Provably Robust Instances",
+   "authors": [
+    "David Troxell",
+    "Yulia Alexandr",
+    "Sofia Hunt",
+    "Stephanie Lei",
+    "Guido Montufar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZNCH6XVMki",
+   "pdf_url": "https://openreview.net/pdf?id=ZNCH6XVMki"
+  },
+  {
+   "title": "Style Conventions Override Performance Predictions in Coding LLMs",
+   "authors": [
+    "Matthew Kotzbauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=68UCOz5Zg7",
+   "pdf_url": "https://openreview.net/pdf?id=68UCOz5Zg7"
+  },
+  {
+   "title": "Symmetries of Functional Processes under Label Noise",
+   "authors": [
+    "Abhra Chaudhuri",
+    "Pedro Gomes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hi20nmp54A",
+   "pdf_url": "https://openreview.net/pdf?id=hi20nmp54A"
+  },
+  {
+   "title": "Task-Aligned Stability Analysis of Vision-Language Models for Autonomous Driving Hazard Detection",
+   "authors": [
+    "Everett Richards"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qcZXSUGY8r",
+   "pdf_url": "https://openreview.net/pdf?id=qcZXSUGY8r"
+  },
+  {
+   "title": "The Complexity Ceiling Benchmark: A Multi-Domain Evaluation of Sequential Reasoning Under Depth Scaling",
+   "authors": [
+    "Shubh Chapra",
+    "Dhruv Kumar",
+    "Murari Mandal",
+    "Yash Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=08mMAMjyLB",
+   "pdf_url": "https://openreview.net/pdf?id=08mMAMjyLB"
+  },
+  {
+   "title": "The Propagation Field: A Geometric Substrate Theory of Deep Learning",
+   "authors": [
+    "Xingrui Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ttKfHatHFu",
+   "pdf_url": "https://openreview.net/pdf?id=ttKfHatHFu"
+  },
+  {
+   "title": "The Shape of Noise: Layer-Wise Perturbation Profiles for Diagnosing Vision Robustness",
+   "authors": [
+    "Son Nguyen",
+    "Gia-Bao Vu",
+    "Quang Minh Phan",
+    "Trong P. Le"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k1P5W70u2V",
+   "pdf_url": "https://openreview.net/pdf?id=k1P5W70u2V"
+  },
+  {
+   "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
+   "authors": [
+    "Yash Ganpat Sawant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Z2EqTkoqz",
+   "pdf_url": "https://openreview.net/pdf?id=4Z2EqTkoqz"
+  },
+  {
+   "title": "Toward Trustworthy LLM–GNN Fusion: A Fusion-Aware Evaluation and Reporting Framework",
+   "authors": [
+    "Zhifei Hu",
+    "Alexandra I. Cristea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=urfkW0BNuO",
+   "pdf_url": "https://openreview.net/pdf?id=urfkW0BNuO"
+  },
+  {
+   "title": "Trace-Aware Routing for Cost-Effective Human–AI Collaborative Labeling",
+   "authors": [
+    "Waverly Wei",
+    "Xinrui Ruan",
+    "Zhenyu Zhao",
+    "Sui Huang",
+    "Zeyu Zheng",
+    "Jingshen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dkly7vrOhR",
+   "pdf_url": "https://openreview.net/pdf?id=Dkly7vrOhR"
+  },
+  {
+   "title": "Universality, Composition Generalization, and Algorithm Emulation All In-Context",
+   "authors": [
+    "Jerry Yao-Chieh Hu",
+    "Hong-Yu Chen",
+    "Po-Chiao Lin",
+    "Maojiang Su",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=paJhsBUpNU",
+   "pdf_url": "https://openreview.net/pdf?id=paJhsBUpNU"
+  },
+  {
+   "title": "Uplifting Human Decision Making in AI Evaluation by Automating Benchmark Validity Analysis",
+   "authors": [
+    "Rodolfo Corona",
+    "Sang T. Truong",
+    "Ritwik Gupta",
+    "Nhi Ngoc Truong",
+    "Atnafu Lambebo Tonja",
+    "Mena Attia",
+    "Fahim Faisal",
+    "Kaushal Kumar Maurya",
+    "Fred Philippy",
+    "Belu Ticona",
+    "Sumaya Nur Adan",
+    "Fazl Barez",
+    "Omar Florez",
+    "Supheakmungkol Sarin",
+    "Aseem Srivastava",
+    "Xiaoyuan Yi",
+    "Nick Haber",
+    "Dan Klein",
+    "Thamar Solorio",
+    "Xing Xie",
+    "Sanmi Koyejo",
+    "Robert Trager"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZFCV4cc9b6",
+   "pdf_url": "https://openreview.net/pdf?id=ZFCV4cc9b6"
+  },
+  {
+   "title": "When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation",
+   "authors": [
+    "Yuting Yan",
+    "Yinghao Fu",
+    "Haozhou Gao",
+    "Tianjian Zhang",
+    "Aoxi Liu",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=arwi30sL39",
+   "pdf_url": "https://openreview.net/pdf?id=arwi30sL39"
+  },
+  {
+   "title": "When Does Polynomial Attention Concentrate? A Relative-Margin Diagnostic for Zero-Shot Softmax Substitution",
+   "authors": [
+    "Sanny Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lDDX9QzEnI",
+   "pdf_url": "https://openreview.net/pdf?id=lDDX9QzEnI"
+  },
+  {
+   "title": "Where’s the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions",
+   "authors": [
+    "Nicole H. Ma",
+    "Nick Rui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xsSPeJ5QJd",
+   "pdf_url": "https://openreview.net/pdf?id=xsSPeJ5QJd"
+  },
+  {
+   "title": "YC-Bench: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
+   "authors": [
+    "Muyu He",
+    "Vincent Tu",
+    "Adit Jain",
+    "Anand Kumar",
+    "Sachin Patro",
+    "Soumyadeep Bakshi",
+    "Nazneen Rajani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wHPdBWy4xd",
+   "pdf_url": "https://openreview.net/pdf?id=wHPdBWy4xd"
+  },
+  {
+   "title": "You're reading LLM leaderboards wrong: Disentangling models from pipelines in engineering benchmarks",
+   "authors": [
+    "Marius Tacke",
+    "Shivam Suri",
+    "Matthias Busch",
+    "Mahish K. Guru",
+    "Christian J Cyron",
+    "Roland Aydin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jPZGhto23l",
+   "pdf_url": "https://openreview.net/pdf?id=jPZGhto23l"
+  }
+ ]
+}

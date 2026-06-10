@@ -1,0 +1,524 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/TAIG",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:09.316Z",
+ "paper_count": 45,
+ "papers": [
+  {
+   "title": "A Blueprint for a Secure EU AI Audit Ecosystem",
+   "authors": [
+    "Alejandro Tlaie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cVBFTBpxGa",
+   "pdf_url": "https://openreview.net/pdf?id=cVBFTBpxGa"
+  },
+  {
+   "title": "A Conceptual Framework for AI Capability Evaluations",
+   "authors": [
+    "María Victoria Carro",
+    "Denise Alejandra Mester",
+    "Francisca Gauna Selasco",
+    "Luca Nicolás Forziati Gangi",
+    "Matheo Sandleris Musa",
+    "Lola Ramos Pereyra",
+    "Mario Leiva",
+    "Juan Gustavo Corvalan",
+    "Maria Vanina Martinez",
+    "Gerardo Simari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I8gacZXsFW",
+   "pdf_url": "https://openreview.net/pdf?id=I8gacZXsFW"
+  },
+  {
+   "title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+   "authors": [
+    "Isar Nejadgholi",
+    "Mona Omidyeganeh",
+    "Marc-Antoine Drouin",
+    "Jonathan Boisvert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nbLT0FI1vw",
+   "pdf_url": "https://openreview.net/pdf?id=nbLT0FI1vw"
+  },
+  {
+   "title": "Acceleration potential in the GPU design-to-manufacturing pipeline",
+   "authors": [
+    "Maximilian Negele"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lg1jX16PT8",
+   "pdf_url": "https://openreview.net/pdf?id=lg1jX16PT8"
+  },
+  {
+   "title": "Access Controls Will Solve the Dual-Use Dilemma",
+   "authors": [
+    "Evžen Wybitul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eFrCMl5ppV",
+   "pdf_url": "https://openreview.net/pdf?id=eFrCMl5ppV"
+  },
+  {
+   "title": "AI Benchmarks: Interdisciplinary Issues and Policy Considerations",
+   "authors": [
+    "Maria Eriksson",
+    "Erasmo Purificato",
+    "Arman Noroozian",
+    "João Vinagre",
+    "Guillaume Chaslot",
+    "Emilia Gomez",
+    "David Fernández-Llorca"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y5LJrvfAIS",
+   "pdf_url": "https://openreview.net/pdf?id=Y5LJrvfAIS"
+  },
+  {
+   "title": "Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments",
+   "authors": [
+    "Christoph Schnabl",
+    "Daniel Hugenroth",
+    "Bill Marino",
+    "Alastair R. Beresford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o0wbWJnCb1",
+   "pdf_url": "https://openreview.net/pdf?id=o0wbWJnCb1"
+  },
+  {
+   "title": "CALMA: Context‑Aligned Axes for Language Model Alignment",
+   "authors": [
+    "Prajna Soni",
+    "Deepika Raman",
+    "Dylan Hadfield-Menell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nw1DFbuLnn",
+   "pdf_url": "https://openreview.net/pdf?id=Nw1DFbuLnn"
+  },
+  {
+   "title": "Compute Requirements for Algorithmic Innovation in Frontier AI Models",
+   "authors": [
+    "Peter Barnett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ozZP09H4Ep",
+   "pdf_url": "https://openreview.net/pdf?id=ozZP09H4Ep"
+  },
+  {
+   "title": "Deprecating Benchmarks: Criteria and Framework",
+   "authors": [
+    "Ayrton San Joaquin",
+    "Rokas Gipiškis",
+    "Leon Staufer",
+    "Ariel Gil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zw4ah6KZXk",
+   "pdf_url": "https://openreview.net/pdf?id=Zw4ah6KZXk"
+  },
+  {
+   "title": "Detecting Compute Structuring in AI Governance is likely feasible",
+   "authors": [
+    "Emmanouil Seferis",
+    "Timothy Fist"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qseqw1sWzz",
+   "pdf_url": "https://openreview.net/pdf?id=qseqw1sWzz"
+  },
+  {
+   "title": "Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape",
+   "authors": [
+    "Jakub Kryś",
+    "Yashvardhan Sharma",
+    "Janet Egan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uihFJlLPWB",
+   "pdf_url": "https://openreview.net/pdf?id=uihFJlLPWB"
+  },
+  {
+   "title": "Evaluating LLM Agent Adherence to Hierarchical Principles: A Lightweight Benchmark for Verifying AI Safety Plan Components",
+   "authors": [
+    "Ram Potham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bPoGxwyvNv",
+   "pdf_url": "https://openreview.net/pdf?id=bPoGxwyvNv"
+  },
+  {
+   "title": "Expert Survey: Technical AI Safety & Security Research Priorities",
+   "authors": [
+    "Joe O'Brien",
+    "Jeremy Dolan",
+    "Jeba Sania",
+    "Jay Kim",
+    "Rocio Cara Labrador",
+    "Jonah Dykhuizen",
+    "Sebastian Becker",
+    "Jam Kraprayoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ESAj0NFR0",
+   "pdf_url": "https://openreview.net/pdf?id=2ESAj0NFR0"
+  },
+  {
+   "title": "Exploring an Agenda on Memorization-based Copyright Verification",
+   "authors": [
+    "Harry H. Jiang",
+    "Aster Plotnik",
+    "Carlee Joe-Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l1Q4t0kSLc",
+   "pdf_url": "https://openreview.net/pdf?id=l1Q4t0kSLc"
+  },
+  {
+   "title": "Exploring Functional Similarities of Backdoored Models",
+   "authors": [
+    "Yufan Feng",
+    "Benjamin Tan",
+    "Yani Ioannou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MKIJNBwEuw",
+   "pdf_url": "https://openreview.net/pdf?id=MKIJNBwEuw"
+  },
+  {
+   "title": "ExpProof : Operationalizing Explanations for Confidential Models with ZKPs",
+   "authors": [
+    "Chhavi Yadav",
+    "Evan Laufer",
+    "Dan Boneh",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MrF6IG1T1t",
+   "pdf_url": "https://openreview.net/pdf?id=MrF6IG1T1t"
+  },
+  {
+   "title": "Fallacies of Data Transparency: Rethinking Nutrition Facts for AI",
+   "authors": [
+    "Judy Hanwen Shen",
+    "Ken Liu",
+    "Angelina Wang",
+    "Sarah H. Cen",
+    "Andy K Zhang",
+    "Caroline Meinhardt",
+    "Daniel Zhang",
+    "Kevin Klyman",
+    "Rishi Bommasani",
+    "Daniel E. Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=laEg0SqrKB",
+   "pdf_url": "https://openreview.net/pdf?id=laEg0SqrKB"
+  },
+  {
+   "title": "Fragile by Design: Formalizing Watermarking Tradeoffs via Paraphrasing",
+   "authors": [
+    "Ali Falahati",
+    "Lukasz Golab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4fIhI72iNi",
+   "pdf_url": "https://openreview.net/pdf?id=4fIhI72iNi"
+  },
+  {
+   "title": "From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms",
+   "authors": [
+    "Jessica Dai",
+    "Paula Gradu",
+    "Inioluwa Deborah Raji",
+    "Benjamin Recht"
+   ],
+   "forum_url": "https://openreview.net/forum?id=woB0TNMvdo",
+   "pdf_url": "https://openreview.net/pdf?id=woB0TNMvdo"
+  },
+  {
+   "title": "Guaranteeable Memory: An HBM-Based Chiplet for Verifiable AI Workloads",
+   "authors": [
+    "James Petrie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uc79kOv0MV",
+   "pdf_url": "https://openreview.net/pdf?id=uc79kOv0MV"
+  },
+  {
+   "title": "Hardware-Enabled Mechanisms for Verifying Responsible AI Development",
+   "authors": [
+    "Aidan O'Gara",
+    "Gabriel Kulp",
+    "Will Hodgkins",
+    "James Petrie",
+    "Vincent Immler",
+    "Aydin Aysu",
+    "Kanad Basu",
+    "Shivam Bhasin",
+    "Stjepan Picek",
+    "Ankur Srivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JgxkV2jzzk",
+   "pdf_url": "https://openreview.net/pdf?id=JgxkV2jzzk"
+  },
+  {
+   "title": "In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI",
+   "authors": [
+    "Shayne Longpre",
+    "Kevin Klyman",
+    "Ruth E. Appel",
+    "Sayash Kapoor",
+    "Rishi Bommasani",
+    "Michelle Sahar",
+    "Sean McGregor",
+    "Avijit Ghosh",
+    "Borhane Blili-Hamelin",
+    "Nathan Butters",
+    "Alondra Nelson",
+    "Dr. Amit Elazari",
+    "Andrew Sellars",
+    "Casey John Ellis",
+    "Dane Sherrets",
+    "Dawn Song",
+    "Harley Geiger",
+    "Ilona Cohen",
+    "Lauren McIlvenny",
+    "Madhulika Srikumar",
+    "Mark M. Jaycox",
+    "Markus Anderljung",
+    "Nadine Farid Johnson",
+    "Nicholas Carlini",
+    "Nicolas Miailhe",
+    "Nik Marda",
+    "Peter Henderson",
+    "Rebecca S. Portnoff",
+    "Rebecca Weiss",
+    "Victoria Westerhoff",
+    "Yacine Jernite",
+    "Rumman Chowdhury",
+    "Percy Liang",
+    "Arvind Narayanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8naHxpK92Q",
+   "pdf_url": "https://openreview.net/pdf?id=8naHxpK92Q"
+  },
+  {
+   "title": "LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries",
+   "authors": [
+    "Zekun Wu",
+    "Seonglae Cho",
+    "Umar Mohammed",
+    "CRISTIAN ENRIQUE MUNOZ VILLALOBOS",
+    "Kleyton Da Costa",
+    "Xin Guan",
+    "Theo King",
+    "Ze Wang",
+    "Emre Kazim",
+    "Adriano Koshiyama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MHhrr8QHgR",
+   "pdf_url": "https://openreview.net/pdf?id=MHhrr8QHgR"
+  },
+  {
+   "title": "LLMs Can Covertly Sandbag On Capability Evaluations Against Chain-of-Thought Monitoring",
+   "authors": [
+    "Chloe Li",
+    "Mary Phuong",
+    "Noah Y. Siegel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r4Q6o7KGdb",
+   "pdf_url": "https://openreview.net/pdf?id=r4Q6o7KGdb"
+  },
+  {
+   "title": "Locking Open Weight Models with Spectral Deformation",
+   "authors": [
+    "Domenic Rosati",
+    "Sebastian Dionicio",
+    "Xijie Zeng",
+    "Subhabrata Majumdar",
+    "Frank Rudzicz",
+    "Hassan Sajjad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cjrm7bo6Eg",
+   "pdf_url": "https://openreview.net/pdf?id=cjrm7bo6Eg"
+  },
+  {
+   "title": "Marginal Risk Relative to What? Distinguishing Baselines in AI Risk Management",
+   "authors": [
+    "Jide Alaga",
+    "Michael Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8pK2xrYwjD",
+   "pdf_url": "https://openreview.net/pdf?id=8pK2xrYwjD"
+  },
+  {
+   "title": "Measuring What Matters: A Framework for Evaluating Safety Risks in Real-World LLM Applications",
+   "authors": [
+    "Jia Yi Goh",
+    "Shaun Khoo",
+    "Nyx Iskandar",
+    "Gabriel Chua",
+    "Leanne Tan",
+    "Jessica Foo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y7dkj1PJZT",
+   "pdf_url": "https://openreview.net/pdf?id=y7dkj1PJZT"
+  },
+  {
+   "title": "Meek Models Shall Inherit The Earth",
+   "authors": [
+    "Hans Gundlach",
+    "Jayson Lynch",
+    "Neil Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YFnQ8hfWp1",
+   "pdf_url": "https://openreview.net/pdf?id=YFnQ8hfWp1"
+  },
+  {
+   "title": "Methodological Challenges in Agentic Evaluations of AI Systems",
+   "authors": [
+    "Kevin Wei",
+    "Stephen Guth",
+    "Gabriel Wu",
+    "Patricia Paskov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZhSKG8IslC",
+   "pdf_url": "https://openreview.net/pdf?id=ZhSKG8IslC"
+  },
+  {
+   "title": "Position: Formal Methods are the Principled Foundation of Safe AI",
+   "authors": [
+    "Gagandeep Singh",
+    "Deepika Chawla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7V5CDSsjB7",
+   "pdf_url": "https://openreview.net/pdf?id=7V5CDSsjB7"
+  },
+  {
+   "title": "Position: Generative AI Regulation Can Learn from Social Media Regulation",
+   "authors": [
+    "Ruth Elisabeth Appel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U8SwWac4RC",
+   "pdf_url": "https://openreview.net/pdf?id=U8SwWac4RC"
+  },
+  {
+   "title": "Practical Principles for AI Cost and Compute Accounting",
+   "authors": [
+    "Stephen Casper",
+    "Luke Bailey",
+    "Tim Schreier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vWN7nUmflH",
+   "pdf_url": "https://openreview.net/pdf?id=vWN7nUmflH"
+  },
+  {
+   "title": "Probing Evaluation Awareness of Language Models",
+   "authors": [
+    "Jord Nguyen",
+    "Hoang Huu Khiem",
+    "Carlo Leonardo Attubato",
+    "Felix Hofstätter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lerUefpec2",
+   "pdf_url": "https://openreview.net/pdf?id=lerUefpec2"
+  },
+  {
+   "title": "Proofs of Autonomy: Scalable and Practical Verification of AI Autonomy",
+   "authors": [
+    "Artem Grigor",
+    "Christian Schroeder de Witt",
+    "Ivan Martinovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qxFgQHN69d",
+   "pdf_url": "https://openreview.net/pdf?id=qxFgQHN69d"
+  },
+  {
+   "title": "Relative Bias: A Comparative Approach for Quantifying Bias in LLMs",
+   "authors": [
+    "Alireza Arbabi",
+    "Florian Kerschbaum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CsfiO5y29m",
+   "pdf_url": "https://openreview.net/pdf?id=CsfiO5y29m"
+  },
+  {
+   "title": "Reproducibility: The New Frontier in AI Governance",
+   "authors": [
+    "Israel Mason-Williams",
+    "Gabryel Mason-Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TiR9nkxdrH",
+   "pdf_url": "https://openreview.net/pdf?id=TiR9nkxdrH"
+  },
+  {
+   "title": "Robust ML Auditing using Prior Knowledge",
+   "authors": [
+    "Jade Garcia Bourrée",
+    "Augustin Godinot",
+    "Martijn De Vos",
+    "Milos Vujasinovic",
+    "Sayan Biswas",
+    "Gilles Tredan",
+    "Erwan Le Merrer",
+    "Anne-Marie Kermarrec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kxoRA7eHpF",
+   "pdf_url": "https://openreview.net/pdf?id=kxoRA7eHpF"
+  },
+  {
+   "title": "Scaling Limits to AI Chip Production",
+   "authors": [
+    "Maximilian Negele",
+    "Lennart Heim",
+    "Peter Ruschhaupt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jwhrNLkEuk",
+   "pdf_url": "https://openreview.net/pdf?id=jwhrNLkEuk"
+  },
+  {
+   "title": "Societal Capacity Assessment Framework: Measuring Advanced AI Implications for Vulnerability, Resilience, and Transformation",
+   "authors": [
+    "Milan M. Gandhi",
+    "Peter Cihon",
+    "Owen C. Larter",
+    "Rebecca Anselmetti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8gn9NeL0Ai",
+   "pdf_url": "https://openreview.net/pdf?id=8gn9NeL0Ai"
+  },
+  {
+   "title": "Technical Requirements for Halting Dangerous AI Activities",
+   "authors": [
+    "Peter Barnett",
+    "Aaron Scher",
+    "David Abecassis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M1nvKJimac",
+   "pdf_url": "https://openreview.net/pdf?id=M1nvKJimac"
+  },
+  {
+   "title": "The Strong, weak and benign Goodhart's law. An independence-free and paradigm-agnostic formalisation",
+   "authors": [
+    "Adrien Majka",
+    "El-Mahdi El-Mhamdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=itft16CVuQ",
+   "pdf_url": "https://openreview.net/pdf?id=itft16CVuQ"
+  },
+  {
+   "title": "Trends in AI Supercomputers",
+   "authors": [
+    "Konstantin Friedemann Pilz",
+    "James Sanders",
+    "Robi Rahman",
+    "Lennart Heim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PEsWiS8jMT",
+   "pdf_url": "https://openreview.net/pdf?id=PEsWiS8jMT"
+  },
+  {
+   "title": "Trends in Frontier AI Model Count: A Forecast to 2028",
+   "authors": [
+    "Iyngkarran Kumar",
+    "Sam Manning"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZJDyzSR5iu",
+   "pdf_url": "https://openreview.net/pdf?id=ZJDyzSR5iu"
+  },
+  {
+   "title": "Watermarking Without Standards Is Not AI Governance",
+   "authors": [
+    "Alexander Nemecek",
+    "Yuzhou Jiang",
+    "Erman Ayday"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aNgJnCSUTm",
+   "pdf_url": "https://openreview.net/pdf?id=aNgJnCSUTm"
+  }
+ ]
+}

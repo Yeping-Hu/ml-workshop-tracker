@@ -1,0 +1,2044 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/AI4Science",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:27.907Z",
+ "paper_count": 176,
+ "papers": [
+  {
+   "title": "$\\texttt{LAUGHS}$: An LLM-compatible Molecular String Representation",
+   "authors": [
+    "Gunwook Nam",
+    "Gaeun Sun",
+    "Yousung Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fYByDIkx6y",
+   "pdf_url": "https://openreview.net/pdf?id=fYByDIkx6y"
+  },
+  {
+   "title": "A Multi-Agent LLM Framework with Hierarchical Citation Graph for Automated Survey Generation",
+   "authors": [
+    "Nguyen Anh Minh",
+    "Minh Duc Nguyen",
+    "Ha Lan T. Nguyen",
+    "Hai Dang Kieu",
+    "Dong Nguyen Tien",
+    "Dung D. Le"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QArMzRP6Kr",
+   "pdf_url": "https://openreview.net/pdf?id=QArMzRP6Kr"
+  },
+  {
+   "title": "A Multimodal Literature Agent as Substrate for Autonomous Biology Research",
+   "authors": [
+    "Marko Brkić",
+    "Mihailo Jovanović",
+    "Emre Ulgac",
+    "Aakaash Meduri",
+    "Lukas Weidener"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o0WKNbJC5o",
+   "pdf_url": "https://openreview.net/pdf?id=o0WKNbJC5o"
+  },
+  {
+   "title": "A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign",
+   "authors": [
+    "Yujin Kim",
+    "Charmgil Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WL3VF3VWiz",
+   "pdf_url": "https://openreview.net/pdf?id=WL3VF3VWiz"
+  },
+  {
+   "title": "AblationBench: Evaluating Automated Planning of Ablations in Empirical AI Research",
+   "authors": [
+    "Talor Abramovich",
+    "Gal Chechik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mF0itTNVyG",
+   "pdf_url": "https://openreview.net/pdf?id=mF0itTNVyG"
+  },
+  {
+   "title": "ABLE: Choosing Perturbation Experiments to Recover Gene Logic",
+   "authors": [
+    "Yin Jun Phua",
+    "Foo Wei Ten"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JUMIngxwNC",
+   "pdf_url": "https://openreview.net/pdf?id=JUMIngxwNC"
+  },
+  {
+   "title": "Adopt Machine-Human Collaboration Peer-Review through Computational Research Assessment",
+   "authors": [
+    "Lei You",
+    "Lele Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=He7wiiMtcO",
+   "pdf_url": "https://openreview.net/pdf?id=He7wiiMtcO"
+  },
+  {
+   "title": "Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance",
+   "authors": [
+    "Shiyun Wa",
+    "Yifei Wang",
+    "simone sciabola",
+    "Ye Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HbfrCipfNl",
+   "pdf_url": "https://openreview.net/pdf?id=HbfrCipfNl"
+  },
+  {
+   "title": "Adversarial Fast-Moving Real-World Domains as Test Beds For Benchmarking AI Scientist Capabilities",
+   "authors": [
+    "William James Bolton",
+    "Philip Torr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wwldobMarM",
+   "pdf_url": "https://openreview.net/pdf?id=wwldobMarM"
+  },
+  {
+   "title": "AFDBench: A Benchmark for Evaluating AI-Generated National Weather Service Forecast Discussions",
+   "authors": [
+    "Manmeet Singh",
+    "Somnath Luitel",
+    "Prabhjot Singh",
+    "Manraaj Banga",
+    "Naveen Sudharsan",
+    "Josh Durkee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vwN0sx6Ngr",
+   "pdf_url": "https://openreview.net/pdf?id=vwN0sx6Ngr"
+  },
+  {
+   "title": "Agent Systems for Academic Research Automation",
+   "authors": [
+    "Pierfrancesco Beneventano",
+    "Riccardo Neumarker",
+    "Theodoros Evgeniou",
+    "Marc Gong Bacvanski",
+    "Kushagra Tiwary",
+    "Emanuele Rimoldi",
+    "Mehdi Hajoub",
+    "Yulu Gan",
+    "Qianli Liao",
+    "Mahmoud Abdelmoneum",
+    "Liu Ziyin",
+    "Tomer Galanti",
+    "Andrea Pinto",
+    "Tomaso Poggio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iAfYyiCzev",
+   "pdf_url": "https://openreview.net/pdf?id=iAfYyiCzev"
+  },
+  {
+   "title": "Agent-Native Research Artifacts for AI Scientists",
+   "authors": [
+    "Jiachen Liu",
+    "Jiaxin Pei",
+    "Jintao Huang",
+    "Chenglei Si",
+    "Ao Qu",
+    "Xiangru Tang",
+    "Runyu Lu",
+    "Xiaoyan Bai",
+    "Haizhong Zheng",
+    "Zhiyang Chen",
+    "Haojie Ye",
+    "Yujuan Fu",
+    "Zijian Jin",
+    "Zhenyu Zhang",
+    "Shangquan Sun",
+    "Shirui Chen",
+    "Lichang Chen",
+    "Zexue He",
+    "Maestro Harmon",
+    "Dianzhuo Wang",
+    "Qian-Ze Zhu",
+    "Jiachen Sun",
+    "Mingyuan Wu",
+    "Baoyu Zhou",
+    "Chenyu You",
+    "Shijian Lu",
+    "Yiming Qiu",
+    "Yuan Yuan",
+    "Fan Lai",
+    "Yao Li",
+    "Junyuan Hong",
+    "Ruihao Zhu",
+    "Beidi Chen",
+    "Alex Pentland",
+    "Ang Chen",
+    "Mosharaf Chowdhury",
+    "Zechen Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AEC0a1m5Bq",
+   "pdf_url": "https://openreview.net/pdf?id=AEC0a1m5Bq"
+  },
+  {
+   "title": "Agentic supervision of iterative assay design in high-throughput regulatory genomics",
+   "authors": [
+    "Arya S. Rao",
+    "Rodrigo I Castro",
+    "Sager J. Gosai",
+    "Kenneth Bryan Hsu",
+    "Yasha Ektefaie",
+    "Sangeeta Bhatia",
+    "Steven K. Reilly",
+    "Ryan Tewhey",
+    "Pardis Sabeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SKx6h6YROs",
+   "pdf_url": "https://openreview.net/pdf?id=SKx6h6YROs"
+  },
+  {
+   "title": "Agentic Systems for Sample-Efficient Drug Formulation Design",
+   "authors": [
+    "Michael Craig",
+    "Pauric Bannigan",
+    "Gary Tom",
+    "Yingshan Ma",
+    "Remi Piche-Taillefer",
+    "Christine Allen",
+    "Riley Hickman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SyPcOsoGgp",
+   "pdf_url": "https://openreview.net/pdf?id=SyPcOsoGgp"
+  },
+  {
+   "title": "AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI",
+   "authors": [
+    "Shreyansh Padarha",
+    "Ryan Othniel Kearns",
+    "Tristan Myles Naidoo",
+    "Lingyi Yang",
+    "Łukasz Borchmann",
+    "Piotr Blaszczyk",
+    "Christian Morgenstern",
+    "Ruth McCabe",
+    "Sangeeta Bhatia",
+    "Philip Torr",
+    "Jakob Nicolaus Foerster",
+    "Scott A. Hale",
+    "Thomas Rawson",
+    "Anne Cori",
+    "Elizaveta Semenova",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qrR2mrP0TH",
+   "pdf_url": "https://openreview.net/pdf?id=qrR2mrP0TH"
+  },
+  {
+   "title": "AI Scientist Agents and Biosecurity: Capabilities, Risks, and Governance for Autonomous Labs",
+   "authors": [
+    "Dmitrii Magas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fEh0kSIHYu",
+   "pdf_url": "https://openreview.net/pdf?id=fEh0kSIHYu"
+  },
+  {
+   "title": "AI-Assisted Descriptor Discovery for Electrochemical Interfacial States via Latent Organization of High-Throughput EIS",
+   "authors": [
+    "Sejeung Choi",
+    "Woo Yeoul Shim",
+    "Taek Dong Chung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFfFI2s0OD",
+   "pdf_url": "https://openreview.net/pdf?id=LFfFI2s0OD"
+  },
+  {
+   "title": "AISFlow: Boundary-Informed Flow Matching for Long-Term AIS Trajectory Imputation",
+   "authors": [
+    "Sungho Bae",
+    "Youngseok Hwang",
+    "Geonwoo Lee",
+    "Jaeeun Seo",
+    "Dohun Lee",
+    "Hyunwoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FhNvZOMekI",
+   "pdf_url": "https://openreview.net/pdf?id=FhNvZOMekI"
+  },
+  {
+   "title": "All-Atom GPCR-Ligand Dynamics Simulation via a Residual Isometric Latent Flow Model",
+   "authors": [
+    "Jiying Zhang",
+    "Shuhao Zhang",
+    "Pierre Vandergheynst",
+    "PATRICK BARTH"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mj8mObjC9c",
+   "pdf_url": "https://openreview.net/pdf?id=mj8mObjC9c"
+  },
+  {
+   "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+   "authors": [
+    "Yiwen Zhang",
+    "Eloise Zeng",
+    "Jaeha Lee",
+    "Tony Yue YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VRWoIgSM2m",
+   "pdf_url": "https://openreview.net/pdf?id=VRWoIgSM2m"
+  },
+  {
+   "title": "An LLM in Two Discovery Experiments for Extreme Astrophysics: Promising Tool and Co-author, Not Fully Independent Yet",
+   "authors": [
+    "Antonio C. Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QITl9MXW8h",
+   "pdf_url": "https://openreview.net/pdf?id=QITl9MXW8h"
+  },
+  {
+   "title": "ARK: AI Research Harness - Offload the Labour, Steer the Science",
+   "authors": [
+    "Jihao Xin",
+    "Yangzhixin Luo",
+    "Muhammad Bilal",
+    "Marco Canini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSAiWmpk0O",
+   "pdf_url": "https://openreview.net/pdf?id=fSAiWmpk0O"
+  },
+  {
+   "title": "Asking the Right Question: Epistemic Inquiry as a Learnable Reasoning Skill for Scientific Discovery",
+   "authors": [
+    "Amin Mansouri",
+    "Caglar Gulcehre",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o74e2eQb07",
+   "pdf_url": "https://openreview.net/pdf?id=o74e2eQb07"
+  },
+  {
+   "title": "AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures",
+   "authors": [
+    "Taoyuze Lv",
+    "Alexander Chen",
+    "Fengyu Xie",
+    "Chu Wu",
+    "Jeffrey Meng",
+    "Dongzhan Zhou",
+    "Yingheng Wang",
+    "Bram Hoex",
+    "Zhicheng Zhong",
+    "Tong Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iI9jALGSZ4",
+   "pdf_url": "https://openreview.net/pdf?id=iI9jALGSZ4"
+  },
+  {
+   "title": "Audit-Grade Harness for Agent-driven Scientific Computation Workflows",
+   "authors": [
+    "Shruti Badhwar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6rOHtK32Mp",
+   "pdf_url": "https://openreview.net/pdf?id=6rOHtK32Mp"
+  },
+  {
+   "title": "Augmented Equivariant Mesh Networks for Anatomical Mesh Segmentation",
+   "authors": [
+    "Daniel Saragih"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sEMJHUb8Qf",
+   "pdf_url": "https://openreview.net/pdf?id=sEMJHUb8Qf"
+  },
+  {
+   "title": "Automated Prototyping of Behavioral Experiments with Large Language Models",
+   "authors": [
+    "Alessandra Brondetta",
+    "Sebastian Musslick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RzoWVjzZZF",
+   "pdf_url": "https://openreview.net/pdf?id=RzoWVjzZZF"
+  },
+  {
+   "title": "Automating cognitive distillation for expert-level scientific literature synthesis",
+   "authors": [
+    "Jingyi Chai",
+    "Xiangrui Liu",
+    "Yanbo Han",
+    "Yuwen Du",
+    "Tian Jin",
+    "Yuzhi Zhang",
+    "Linfeng Zhang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tLaaIkAgod",
+   "pdf_url": "https://openreview.net/pdf?id=tLaaIkAgod"
+  },
+  {
+   "title": "Bayesian Last Layer for Neural Force Fields",
+   "authors": [
+    "David Nitchi",
+    "Daniel T. Levy",
+    "Michel Côté",
+    "Siamak Ravanbakhsh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YZgIQg0Wpc",
+   "pdf_url": "https://openreview.net/pdf?id=YZgIQg0Wpc"
+  },
+  {
+   "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+   "authors": [
+    "Gil Harari",
+    "Yoel Zimmermann",
+    "Ola Tangen Kulseng",
+    "Laura Zichi",
+    "Chuin Wei Tan",
+    "Marc L. Descoteaux",
+    "Boris Kozinsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mYxGJcckHl",
+   "pdf_url": "https://openreview.net/pdf?id=mYxGJcckHl"
+  },
+  {
+   "title": "Beyond Scalar Electrostatics: Multipole Features for Long-Range Molecular Machine Learning",
+   "authors": [
+    "Rhyan Barrett",
+    "Julia Westermayr",
+    "Johannes C. B. Dietschreit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=moiEjr3Ee1",
+   "pdf_url": "https://openreview.net/pdf?id=moiEjr3Ee1"
+  },
+  {
+   "title": "Beyond Static Snapshots: A Large-Scale Dataset for Dynamics-Aware Protein-Nucleic Acid Modeling",
+   "authors": [
+    "Luiz Felipe Caparelli Piochi",
+    "Omid Mokhtari",
+    "Hamed Khakzad",
+    "Yasaman Karami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sfhppIXMTa",
+   "pdf_url": "https://openreview.net/pdf?id=sfhppIXMTa"
+  },
+  {
+   "title": "Beyond Tool Use: Multimodal Distillation and the Evolution of Neural Networks toward AI Scientists",
+   "authors": [
+    "Daozheng Qu",
+    "Yanfei Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JlbxAx6H8d",
+   "pdf_url": "https://openreview.net/pdf?id=JlbxAx6H8d"
+  },
+  {
+   "title": "Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language",
+   "authors": [
+    "David Ming Segura",
+    "Jeremy Goumaz",
+    "Bojana Ranković",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=epXbAsqvOP",
+   "pdf_url": "https://openreview.net/pdf?id=epXbAsqvOP"
+  },
+  {
+   "title": "BiomedBench Suite: Benchmarks for Evaluating LLM Performance on Biomedical Reasoning Tasks",
+   "authors": [
+    "Mathew J. Koretsky",
+    "Maya Willey",
+    "Owen Bianchi",
+    "Chelsea X Alvarado",
+    "Tanay Nayak",
+    "Nicole Kuznetsov",
+    "Sungwon Kim",
+    "Michael Nalls",
+    "Daniel Khashabi",
+    "Faraz Faghri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YnyrQE7O7C",
+   "pdf_url": "https://openreview.net/pdf?id=YnyrQE7O7C"
+  },
+  {
+   "title": "Bruno: An AI Product Manager for Scientists",
+   "authors": [
+    "Andreas Haupt",
+    "Prashaant Ranganathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ApsytO0P2P",
+   "pdf_url": "https://openreview.net/pdf?id=ApsytO0P2P"
+  },
+  {
+   "title": "CADEngBench: Can AI Systems Co-Author Engineering Designs? A Hierarchical Benchmark for Physics-Verified Parametric CAD Generation",
+   "authors": [
+    "Harmanjot Singh",
+    "Abhra Dubey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIKrX5XpuN",
+   "pdf_url": "https://openreview.net/pdf?id=hIKrX5XpuN"
+  },
+  {
+   "title": "ChemPRM: Improving Retrosynthesis by Structured Intermediate Process Reward",
+   "authors": [
+    "Lingfeng Zhang",
+    "XIANBIN YE",
+    "Lihang Liu",
+    "Zhangxiaonan",
+    "Xiaomin Fang",
+    "Luca Rossi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5f4giKbVOo",
+   "pdf_url": "https://openreview.net/pdf?id=5f4giKbVOo"
+  },
+  {
+   "title": "ClaimGarden: Update-Aware Claim-State Control for AI Scientist Workflows",
+   "authors": [
+    "Hafumi Nishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y8INhipPQe",
+   "pdf_url": "https://openreview.net/pdf?id=Y8INhipPQe"
+  },
+  {
+   "title": "CloudFlow: A Flow Matching Model to Generate High-Resolution Cloud Structures",
+   "authors": [
+    "Tim Reichelt",
+    "Philip Stier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=meHQFrgQqw",
+   "pdf_url": "https://openreview.net/pdf?id=meHQFrgQqw"
+  },
+  {
+   "title": "Compressing the Validation Bottleneck: An Agentic Self-Driving Lab for Metal Additive Manufacturing",
+   "authors": [
+    "Kyunghoon Hur",
+    "Chihun lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SfsCcgg5NF",
+   "pdf_url": "https://openreview.net/pdf?id=SfsCcgg5NF"
+  },
+  {
+   "title": "Context-Aware and Controllable Academic Paper Revision via Human-AI Collaboration",
+   "authors": [
+    "Nuo Chen",
+    "Andre Lin HuiKai",
+    "Jiaying Wu",
+    "Junyi Hou",
+    "Zining Zhang",
+    "Qian Wang",
+    "Xidong Wang",
+    "Bingsheng He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ov0gA7umIw",
+   "pdf_url": "https://openreview.net/pdf?id=Ov0gA7umIw"
+  },
+  {
+   "title": "Coupled Integral PINN for Discontinuity",
+   "authors": [
+    "Yeping Wang",
+    "Shihao Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6dtao428aa",
+   "pdf_url": "https://openreview.net/pdf?id=6dtao428aa"
+  },
+  {
+   "title": "Credit Where Credit Is Due: A Taxonomy of AI Contributions to Scientific Discovery and Recommendations for Authorship Policy",
+   "authors": [
+    "Luiz Felipe Caparelli Piochi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=siD2eKSsYy",
+   "pdf_url": "https://openreview.net/pdf?id=siD2eKSsYy"
+  },
+  {
+   "title": "CreditMap: Provenance Ledgers for Attribution in Human--AI Scientific Collaboration",
+   "authors": [
+    "Aayam Bansal",
+    "Ishaan Gangwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jb5lHZwDNp",
+   "pdf_url": "https://openreview.net/pdf?id=Jb5lHZwDNp"
+  },
+  {
+   "title": "CRYSTAL: Coordinated Multi-Objective Reinforcement Learning for Crystal Generation",
+   "authors": [
+    "Zhan'ao yao",
+    "Jingyuan Shu",
+    "Boxuan Zhang",
+    "Xiaoyu Wu",
+    "Rongyan Wang",
+    "Tingwei Chen",
+    "Linjing Li",
+    "Daniel Dajun Zeng",
+    "Yu-Dong Yao",
+    "Xiaolin Zhao",
+    "Jiahui Shi",
+    "Jianjun Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u1r1C1EJBh",
+   "pdf_url": "https://openreview.net/pdf?id=u1r1C1EJBh"
+  },
+  {
+   "title": "CrysTune: Crystal Generation via Fine-Tuning of Large Language Models on Wyckoff Representations",
+   "authors": [
+    "Prashant Govindarajan",
+    "KISHALAY DAS",
+    "Sarath Chandar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oe5iihLiiV",
+   "pdf_url": "https://openreview.net/pdf?id=Oe5iihLiiV"
+  },
+  {
+   "title": "DARWIN: A Framework for Target Specific Diversity Constrained Natural Product Like Molecule Generation",
+   "authors": [
+    "Aditi Vijil",
+    "Pin-Yu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lfOTUbfp3n",
+   "pdf_url": "https://openreview.net/pdf?id=lfOTUbfp3n"
+  },
+  {
+   "title": "Dead Science Walking: Publication Bias and the AI Scientist Pipeline",
+   "authors": [
+    "Kargi Chauhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r8vzHuCBFX",
+   "pdf_url": "https://openreview.net/pdf?id=r8vzHuCBFX"
+  },
+  {
+   "title": "Density of States-Intermediated Crystal Generation for Material Inverse Design",
+   "authors": [
+    "Sujong Lee",
+    "Jaewon Bae",
+    "Seungyun Shin",
+    "Heesung Choi",
+    "Chanyoung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b39fIYQF3X",
+   "pdf_url": "https://openreview.net/pdf?id=b39fIYQF3X"
+  },
+  {
+   "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+   "authors": [
+    "Yash Tripathi",
+    "Silu Sharma",
+    "Sai Sidhanth Manoharan Jayanthi",
+    "Shivank Garg",
+    "Lin Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SXqVUB9HoH",
+   "pdf_url": "https://openreview.net/pdf?id=SXqVUB9HoH"
+  },
+  {
+   "title": "DiffResearch: Harnessing Diffusion Language Models for Automated Literature Review",
+   "authors": [
+    "Alan-Barsag Gazzaev",
+    "Mikhail Mozikov",
+    "Alexey Gavrilov",
+    "Sergey Muravyov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EGb0wlKWVz",
+   "pdf_url": "https://openreview.net/pdf?id=EGb0wlKWVz"
+  },
+  {
+   "title": "Diffusion Sampling of Adsorbate Configurations on Catalyst Surfaces",
+   "authors": [
+    "Akhila Ram",
+    "Juno Nam",
+    "Aaron J Havens",
+    "Benjamin Kurt Miller",
+    "Rafael Gomez-Bombarelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AbtmBQOobD",
+   "pdf_url": "https://openreview.net/pdf?id=AbtmBQOobD"
+  },
+  {
+   "title": "Does Verbal Self-Reflection Transfer to Long-Horizon Scientific Discovery?",
+   "authors": [
+    "Wei Yong Tan",
+    "Ivor Tsang",
+    "Hangwei Qian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GvyXc6bCSs",
+   "pdf_url": "https://openreview.net/pdf?id=GvyXc6bCSs"
+  },
+  {
+   "title": "Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical Systems",
+   "authors": [
+    "Youngseok Hwang",
+    "Joonsung Kwon",
+    "Geonwoo Lee",
+    "Hyunwoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3ho9cVciv8",
+   "pdf_url": "https://openreview.net/pdf?id=3ho9cVciv8"
+  },
+  {
+   "title": "Dynamic large language model representations for multi-objective chemical reaction optimisation",
+   "authors": [
+    "Joshua W. Sin",
+    "David Ming Segura",
+    "Bojana Ranković",
+    "Siu Lun Chau",
+    "Ryan P. Burwood",
+    "Kurt Püntener",
+    "Raphael Bigler",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j0TN7jU14o",
+   "pdf_url": "https://openreview.net/pdf?id=j0TN7jU14o"
+  },
+  {
+   "title": "Effective Harness Engineering for Algorithm Discovery with Coding Agents",
+   "authors": [
+    "Yoichi Ishibashi",
+    "Taro Yano",
+    "Masafumi Oyamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TMQmDRAkRS",
+   "pdf_url": "https://openreview.net/pdf?id=TMQmDRAkRS"
+  },
+  {
+   "title": "Efficient Cross-Functional Learning for Atomistic Modeling of Materials",
+   "authors": [
+    "Raphaël Hirsch",
+    "Walid Bouainouche",
+    "Jibril el hassani",
+    "Fragkiskos D. Malliaros",
+    "Alexandre Duval",
+    "Ali Ramlaoui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ELvvnP6pSe",
+   "pdf_url": "https://openreview.net/pdf?id=ELvvnP6pSe"
+  },
+  {
+   "title": "Efficient Vision Transformer-based Surrogate for Scalable Pressure Prediction in Incompressible Turbulent Flows",
+   "authors": [
+    "Nasik Muhammad Nafi",
+    "Isaac Lyngaas",
+    "Muralikrishnan Gopalakrishnan Meena",
+    "Stephen M. de Bruyn Kops",
+    "Aditya Kashi",
+    "Wesley Brewer",
+    "Matthew R Norman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KmiqKjVqyM",
+   "pdf_url": "https://openreview.net/pdf?id=KmiqKjVqyM"
+  },
+  {
+   "title": "Enabling Robust Epidemic Control via LLM-Elicited Causal Discovery",
+   "authors": [
+    "Jinwoo Go",
+    "Xiaoning Qian",
+    "Byung-Jun Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mLwMLiE9aV",
+   "pdf_url": "https://openreview.net/pdf?id=mLwMLiE9aV"
+  },
+  {
+   "title": "Energy-Based Operator Learning in Function Space",
+   "authors": [
+    "Hong Chul Nam",
+    "Jeonghwan Cheon",
+    "Jae Mo Shin",
+    "Hyun Kwon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JxGI4PyuX4",
+   "pdf_url": "https://openreview.net/pdf?id=JxGI4PyuX4"
+  },
+  {
+   "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+   "authors": [
+    "Mahyar Ghazanfari",
+    "Amin Tabrizian",
+    "Armin Mehrabian",
+    "Peng Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mqlvHLejoG",
+   "pdf_url": "https://openreview.net/pdf?id=mqlvHLejoG"
+  },
+  {
+   "title": "Evaluating System Design Choices in Biomedical AI Agents",
+   "authors": [
+    "Ali Saadat",
+    "Jacques Fellay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZeC7ker8Ah",
+   "pdf_url": "https://openreview.net/pdf?id=ZeC7ker8Ah"
+  },
+  {
+   "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+   "authors": [
+    "Shriram Chennakesavalu",
+    "Kirill Shmilovich",
+    "Hayley Weir",
+    "Colin A Grambow",
+    "John Bradshaw",
+    "Patricia Suriana",
+    "Chen Cheng",
+    "Kangway V. Chuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XJ2YJDCVCN",
+   "pdf_url": "https://openreview.net/pdf?id=XJ2YJDCVCN"
+  },
+  {
+   "title": "Evidence-Grounded Tree-Based Hypothesis Generation for Scientific Discovery",
+   "authors": [
+    "Changhee Cho",
+    "YeJun Ji",
+    "Su-Young Jin",
+    "Sumin Lee",
+    "Jiho Sim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=liM8x2mEV8",
+   "pdf_url": "https://openreview.net/pdf?id=liM8x2mEV8"
+  },
+  {
+   "title": "EVIL Baseline: LLM-Discovered Heuristics can be strong Baselines for Scientific Inference",
+   "authors": [
+    "David Berghaus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7xkUpnQ4W9",
+   "pdf_url": "https://openreview.net/pdf?id=7xkUpnQ4W9"
+  },
+  {
+   "title": "EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale",
+   "authors": [
+    "Xinyu Zhu",
+    "Yuzhu Cai",
+    "Zexi Liu",
+    "Cheng Wang",
+    "Fengyang Li",
+    "Wenkai Jin",
+    "Wanxu Liu",
+    "Zehao Bing",
+    "Bingyang Zheng",
+    "Jingyi Chai",
+    "Shuo Tang",
+    "Rui Ye",
+    "Yuwen Du",
+    "Xianghe Pang",
+    "Yaxin Du",
+    "Tingjia Miao",
+    "Yuzhi Zhang",
+    "Ruoxue Liao",
+    "ding zhaohan",
+    "Linfeng Zhang",
+    "Yanfeng Wang",
+    "Weinan E",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lidiprht3N",
+   "pdf_url": "https://openreview.net/pdf?id=lidiprht3N"
+  },
+  {
+   "title": "EvoVLM: Multimodal Evolutionary Feedback for Visual Symbolic Regression",
+   "authors": [
+    "Hyejin Lee",
+    "Junsuk Choe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Fed53Xuin",
+   "pdf_url": "https://openreview.net/pdf?id=8Fed53Xuin"
+  },
+  {
+   "title": "Experimental Attempts in Electronic Lab Notebooks: A Dataset Proposal for Scientific Debugging",
+   "authors": [
+    "Dmitrii Magas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xOjMQkEcBl",
+   "pdf_url": "https://openreview.net/pdf?id=xOjMQkEcBl"
+  },
+  {
+   "title": "Expert-guided Bayesian optimization for sustainable protein formulation",
+   "authors": [
+    "Anna Thomas",
+    "Georgios Zaverdinos",
+    "Petros Mandalis",
+    "Andreas Orfanoudakis",
+    "Akihiro Takino",
+    "Sohum Patnaik",
+    "David J. Kraus",
+    "Panos Kostopoulos",
+    "Caroline Cotto",
+    "Nikos Tsiaparas",
+    "Dan Jurafsky",
+    "Aadit Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H2AMWw6dfC",
+   "pdf_url": "https://openreview.net/pdf?id=H2AMWw6dfC"
+  },
+  {
+   "title": "FabScore: Fine-Grained Evaluation of Fabrications in Automated AI Research",
+   "authors": [
+    "Hui Chen",
+    "James Xu Zhao",
+    "Dongfu Jiang",
+    "Qianyun Guo",
+    "Jiefeng Chen",
+    "Yiwei Wang",
+    "Muhao Chen",
+    "See-Kiong Ng",
+    "Pang Wei Koh",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6gYWcYQcWM",
+   "pdf_url": "https://openreview.net/pdf?id=6gYWcYQcWM"
+  },
+  {
+   "title": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+   "authors": [
+    "Prabhjot Singh",
+    "Somnath Luitel",
+    "Manmeet Singh",
+    "Josh Durkee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ywc9PW9Ykz",
+   "pdf_url": "https://openreview.net/pdf?id=ywc9PW9Ykz"
+  },
+  {
+   "title": "FirstPass: Grounding AI Scientific Judgment in Multi-Round Editorial Outcomes",
+   "authors": [
+    "Prabhjot Singh",
+    "Somnath Luitel",
+    "Manmeet Singh",
+    "Josh Durkee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F6BxPrmBef",
+   "pdf_url": "https://openreview.net/pdf?id=F6BxPrmBef"
+  },
+  {
+   "title": "FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery",
+   "authors": [
+    "Junhyuk Heo",
+    "Junghwan Park",
+    "Sangcheol Sim",
+    "Beomkyu Choi",
+    "Woojin Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=okBlyVRPDY",
+   "pdf_url": "https://openreview.net/pdf?id=okBlyVRPDY"
+  },
+  {
+   "title": "FluorCode: Predicting Fluorescent Protein Photophysical Properties with LoRA-Fine-Tuned Protein Language Models",
+   "authors": [
+    "Rico Chi Kit Sou",
+    "Alicja Ziajowska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JOtB1fLFxF",
+   "pdf_url": "https://openreview.net/pdf?id=JOtB1fLFxF"
+  },
+  {
+   "title": "From Literature to Experimental Conditions:  Large Language Models for Co-Crystal Synthesis Design",
+   "authors": [
+    "Nina Gubina",
+    "Bagramian Anita",
+    "Kadochnikova Margarita Sergeevna",
+    "Nikita A. Vasilev",
+    "Ivan Yu. Chernyshov",
+    "Andrei Dmitrenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ciew5Vsq23",
+   "pdf_url": "https://openreview.net/pdf?id=Ciew5Vsq23"
+  },
+  {
+   "title": "From Ricci Curvature to Metric Matching: A Simplified Approach to Geometric Transfer Learning",
+   "authors": [
+    "Sung Moon Ko",
+    "Jaewan Lee",
+    "Sumin Lee",
+    "Soorin Yim",
+    "Sehui Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WJeN2dV6Jq",
+   "pdf_url": "https://openreview.net/pdf?id=WJeN2dV6Jq"
+  },
+  {
+   "title": "GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization",
+   "authors": [
+    "Xuanzhou Chen",
+    "Taoli Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9HAc5Yjf7L",
+   "pdf_url": "https://openreview.net/pdf?id=9HAc5Yjf7L"
+  },
+  {
+   "title": "Generative Pipeline for Discovering Solid-State Battery Materials with Universal Atomistic Potentials",
+   "authors": [
+    "Artem Dembitskiy",
+    "Shuya Yamazaki",
+    "Artem Maevskiy",
+    "Nikita Kazeev",
+    "Roman A. Eremin",
+    "Semen Budennyy",
+    "Kedar Hippalgaonkar",
+    "Antonio Helio Castro Neto",
+    "Andrey E Ustyuzhanin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFI6K4ZQDp",
+   "pdf_url": "https://openreview.net/pdf?id=xFI6K4ZQDp"
+  },
+  {
+   "title": "Geo-Expert: Towards Expert-Level Geological Reasoning via Parameter-Efficient Fine-Tuning",
+   "authors": [
+    "Chenyou Guo",
+    "Zongqi Liu",
+    "Yizhou Zhang",
+    "Zhaorui Jiang",
+    "Ze Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rwC2iKytOa",
+   "pdf_url": "https://openreview.net/pdf?id=rwC2iKytOa"
+  },
+  {
+   "title": "Graph-Based Cross-Modal Learning for Drug–Target Affinity Prediction",
+   "authors": [
+    "Aakriti Attri",
+    "Jashn Khemani",
+    "Arush Gumber",
+    "Anubha Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aakl14l0sJ",
+   "pdf_url": "https://openreview.net/pdf?id=aakl14l0sJ"
+  },
+  {
+   "title": "Grounded autonomous research: a fault-tolerant LLM pipeline from corpus to manuscript in frontier computational physics",
+   "authors": [
+    "Haonan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R5YXaPgUAx",
+   "pdf_url": "https://openreview.net/pdf?id=R5YXaPgUAx"
+  },
+  {
+   "title": "Grounded autonomous scrutiny at scale: emergent critique from reproduction of published computational physics papers",
+   "authors": [
+    "Haonan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5gcshcpnl6",
+   "pdf_url": "https://openreview.net/pdf?id=5gcshcpnl6"
+  },
+  {
+   "title": "Gyaradax: Local Gyrokinetics JAX Code",
+   "authors": [
+    "Gianluca Galletti",
+    "Eric Volkmann",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sgs7yLTkJ0",
+   "pdf_url": "https://openreview.net/pdf?id=Sgs7yLTkJ0"
+  },
+  {
+   "title": "Hierarchical Discovery of Adiabatic Hamiltonian Paths and RL Schedules for Quantum Linear System Solvers",
+   "authors": [
+    "Wang chenglong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5sc30a2G3F",
+   "pdf_url": "https://openreview.net/pdf?id=5sc30a2G3F"
+  },
+  {
+   "title": "In silico evaluation of pre-training strategies based on synthetic data for functional DNA generation",
+   "authors": [
+    "Ivan Golovkin",
+    "Stepan Druzhininskii",
+    "Daniil Litunovskiy",
+    "Amir Taldaev",
+    "Brilenkov Evgeny",
+    "Nikita Serov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XqF6XJ6dOG",
+   "pdf_url": "https://openreview.net/pdf?id=XqF6XJ6dOG"
+  },
+  {
+   "title": "INDIBATOR: Diverse and Fact-Grounded Individuality for Multi-Agent Debate in Molecular Discovery",
+   "authors": [
+    "Yunhui Jang",
+    "Seonghyun Park",
+    "Jaehyung Kim",
+    "Sungsoo Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Orw94BK1cO",
+   "pdf_url": "https://openreview.net/pdf?id=Orw94BK1cO"
+  },
+  {
+   "title": "LabProc and Tacit: Quantifying the Visual-Textual Prior Gap in Autonomous Laboratory Perception",
+   "authors": [
+    "Jagrati Gogia",
+    "Monish Kaul"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DMNbiIvigN",
+   "pdf_url": "https://openreview.net/pdf?id=DMNbiIvigN"
+  },
+  {
+   "title": "Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows",
+   "authors": [
+    "Wenwen Li",
+    "Yuki Orimo",
+    "Nontawat Charoenphakdee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jap2VGf2IG",
+   "pdf_url": "https://openreview.net/pdf?id=jap2VGf2IG"
+  },
+  {
+   "title": "Large Language Models as Generative Bayesian Policies",
+   "authors": [
+    "Bojana Ranković",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OSlXZGcur9",
+   "pdf_url": "https://openreview.net/pdf?id=OSlXZGcur9"
+  },
+  {
+   "title": "Learning Reaction-Condition Plausibility for Evaluation and Self-Curation Under Noisy and Non-Unique Supervision",
+   "authors": [
+    "Hyukjun Lim",
+    "Yousung Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvWzSpuGZt",
+   "pdf_url": "https://openreview.net/pdf?id=TvWzSpuGZt"
+  },
+  {
+   "title": "Leveraging Biokinetic Knowledge Priors for Data-Scarce Bioprocess Modeling",
+   "authors": [
+    "Kyunghoon Hur",
+    "Eunjung Jeon",
+    "Hyun woo Kim",
+    "Gyubok Lee",
+    "Seongjun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZdgYhCX80p",
+   "pdf_url": "https://openreview.net/pdf?id=ZdgYhCX80p"
+  },
+  {
+   "title": "Lithography Solvent Discovery using Neuro-Symbolic Search Agent",
+   "authors": [
+    "Jiangyu Chen",
+    "Huawei Zhou",
+    "Zhou Zhang",
+    "Yuqiang Li",
+    "Ruzhi Zhang",
+    "Tianfan Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nR4MXAHGUt",
+   "pdf_url": "https://openreview.net/pdf?id=nR4MXAHGUt"
+  },
+  {
+   "title": "LitXBench: A Benchmark for Extracting Experiments from Scientific Literature",
+   "authors": [
+    "Curtis Chong",
+    "Jorge Colindres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ie2S7UNfYA",
+   "pdf_url": "https://openreview.net/pdf?id=Ie2S7UNfYA"
+  },
+  {
+   "title": "LLM Agents for Distribution-Aware Algorithmic Discovery",
+   "authors": [
+    "Saharsh Koganti",
+    "Priyadarsi Mishra",
+    "Pierfrancesco Beneventano",
+    "Tomer Galanti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jnyeZebxU9",
+   "pdf_url": "https://openreview.net/pdf?id=jnyeZebxU9"
+  },
+  {
+   "title": "LOD Surrogate Modelling for multiscale Darcy-Flow Problems",
+   "authors": [
+    "Marc Haltmayer",
+    "Jaemin Seo",
+    "Lee Yu Seung",
+    "Sungyeop Lee",
+    "Jaehoon Jeong",
+    "Jae Yong Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMN8eXNmx7",
+   "pdf_url": "https://openreview.net/pdf?id=CMN8eXNmx7"
+  },
+  {
+   "title": "Look Before You Leap: Improving Structure-Based Drug Optimization with Attribution-Guided Genetic Operators",
+   "authors": [
+    "David Li He",
+    "Alan C Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ocDc3PfdAg",
+   "pdf_url": "https://openreview.net/pdf?id=ocDc3PfdAg"
+  },
+  {
+   "title": "MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials",
+   "authors": [
+    "Yoonho Kim",
+    "Seongsu Kim",
+    "Sungsoo Ahn",
+    "Honghui Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b7lV1erllr",
+   "pdf_url": "https://openreview.net/pdf?id=b7lV1erllr"
+  },
+  {
+   "title": "MADS-CPS: A Machine-Checkable Admissibility Contract for AI Scientists in Autonomous Laboratories",
+   "authors": [
+    "Mateo PETEL"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VrYHFXGyUO",
+   "pdf_url": "https://openreview.net/pdf?id=VrYHFXGyUO"
+  },
+  {
+   "title": "MATAI: A Unified Interactive Platform for AI-Driven Alloy Discovery",
+   "authors": [
+    "Yixuan Li",
+    "Yanchen Deng",
+    "Chendong Zhao",
+    "Penghui Yang",
+    "Jianguo Huang",
+    "Yuhao Lu",
+    "yushan xiao",
+    "Dong Xuyu",
+    "Zhonghan Zhang",
+    "Cuntai Guan",
+    "Bijun Tang",
+    "Xinrun Wang",
+    "Zheng Liu",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XW3R3PLtx8",
+   "pdf_url": "https://openreview.net/pdf?id=XW3R3PLtx8"
+  },
+  {
+   "title": "MatDeplot: Agent-Ready Materials-Curve Understanding for Scientific Reasoning",
+   "authors": [
+    "Yin Liang",
+    "Yu Songlin",
+    "Jianjun Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ABHGQLinun",
+   "pdf_url": "https://openreview.net/pdf?id=ABHGQLinun"
+  },
+  {
+   "title": "MELON: Multimodal Learning Framework for Spatial Multimodal Omics Data Integration",
+   "authors": [
+    "Yuchen Zhang",
+    "Chunru lin",
+    "Liuqing Yang",
+    "Yuying Xie",
+    "Yu Shen",
+    "Lulu Shang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gAMmsl8yOs",
+   "pdf_url": "https://openreview.net/pdf?id=gAMmsl8yOs"
+  },
+  {
+   "title": "MiRS-AI: A Data-Driven Framework for Accurate and Efficient Atmospheric Profile Retrieval from Microwave Observations",
+   "authors": [
+    "Xingming Liang",
+    "Yong-Keun Lee",
+    "Shuyan Liu",
+    "Xun Yang",
+    "Wei Wang",
+    "Huan Meng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W8S9HnXI1K",
+   "pdf_url": "https://openreview.net/pdf?id=W8S9HnXI1K"
+  },
+  {
+   "title": "Mobus: Data Infrastructure for Researchers and Autonomous Scientific Agents",
+   "authors": [
+    "Harry Ilanyan",
+    "Hrant Virabyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4jaAiMkihZ",
+   "pdf_url": "https://openreview.net/pdf?id=4jaAiMkihZ"
+  },
+  {
+   "title": "MOFology: A Knowledge Graph for Engineering Direct Air Capture Materials",
+   "authors": [
+    "Matthew Hart",
+    "Jeremy Goumaz",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Bm6HEDRWh",
+   "pdf_url": "https://openreview.net/pdf?id=4Bm6HEDRWh"
+  },
+  {
+   "title": "Navigating Order-(Dis)Order Family Trees via Group-Subgroup Transitions",
+   "authors": [
+    "Shuya Yamazaki",
+    "Yuyao Huang",
+    "Martin Hoffmann Petersen",
+    "Wei Nong",
+    "Kedar Hippalgaonkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HVo3H8uzYA",
+   "pdf_url": "https://openreview.net/pdf?id=HVo3H8uzYA"
+  },
+  {
+   "title": "NeuriCo: Towards reliable AI scientists",
+   "authors": [
+    "Haokun Liu",
+    "Chenhao Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yr0OIxGNWI",
+   "pdf_url": "https://openreview.net/pdf?id=yr0OIxGNWI"
+  },
+  {
+   "title": "NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem",
+   "authors": [
+    "Irina Espejo Morales",
+    "Damon J. Hinz",
+    "Marvin Alberts",
+    "Geraud Krawezik",
+    "Haewon Jeong",
+    "Shirley Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hsfHzHRKyl",
+   "pdf_url": "https://openreview.net/pdf?id=hsfHzHRKyl"
+  },
+  {
+   "title": "On the Effects of Reasoning Effort and Prompt-Based Diversification on Scientific Ideation Diversity",
+   "authors": [
+    "Yu Chinen",
+    "Haruka Ozaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xt5P634aET",
+   "pdf_url": "https://openreview.net/pdf?id=xt5P634aET"
+  },
+  {
+   "title": "Open Electrolyte Databank: Unlocking Molecular-Mixture Intelligence for Battery Electrolyte Discovery through a Standardized, Multimodal Foundation",
+   "authors": [
+    "Hance Su",
+    "Luca Mondonico",
+    "yiyang shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i6YddJQgER",
+   "pdf_url": "https://openreview.net/pdf?id=i6YddJQgER"
+  },
+  {
+   "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+   "authors": [
+    "Aayam Bansal",
+    "Keertan Balaji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EHT3wVhCUZ",
+   "pdf_url": "https://openreview.net/pdf?id=EHT3wVhCUZ"
+  },
+  {
+   "title": "OpenSeesAgentBench: A Benchmark and Evaluation Framework for Agentic Structural Analysis in OpenSeesPy",
+   "authors": [
+    "Takayuki Shinohara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J263rcTa09",
+   "pdf_url": "https://openreview.net/pdf?id=J263rcTa09"
+  },
+  {
+   "title": "PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress",
+   "authors": [
+    "Kevin Qinghong Lin",
+    "Siyuan Hu",
+    "Pan Lu",
+    "Yu Chen",
+    "Yanzhe Chen",
+    "Owen Queen",
+    "Yupeng Chen",
+    "Jialin Yu",
+    "Junchi Yu",
+    "Zifeng Ding",
+    "Yuanfeng Ji",
+    "Sheng Liu",
+    "Jindong Gu",
+    "Linjie Li",
+    "Mike Zheng Shou",
+    "Philip Torr",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xxot90rctA",
+   "pdf_url": "https://openreview.net/pdf?id=Xxot90rctA"
+  },
+  {
+   "title": "Parameter-Efficient Adaptation of a Pretrained Language Model via Soft Prompt Tuning Enables Hit-Enriched Conditional Cell Line-Specific Generation of Cell-Penetrating Peptides",
+   "authors": [
+    "Adelina Latypova",
+    "Evgeniy V. Nam",
+    "Ryko Timofei",
+    "Ekaterina Vadimovna Timofeeva",
+    "Violetta Isakova",
+    "Nikita Serov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=It2CpBJ9Aj",
+   "pdf_url": "https://openreview.net/pdf?id=It2CpBJ9Aj"
+  },
+  {
+   "title": "Patch size and its effect on representations in MAEs",
+   "authors": [
+    "Sivaramakrishnan Sankarapandian",
+    "Shivesh Chaudhary",
+    "Zhenghao Chen",
+    "Jun Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LkjToPjLa1",
+   "pdf_url": "https://openreview.net/pdf?id=LkjToPjLa1"
+  },
+  {
+   "title": "Peak Risk Score: A Peak-Space Verification Layer for AI Scientists in NMR-Guided Molecular Discovery",
+   "authors": [
+    "Susanna Di Vita",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vNZp36O5zk",
+   "pdf_url": "https://openreview.net/pdf?id=vNZp36O5zk"
+  },
+  {
+   "title": "PepLang-Bench - Evaluating Large Language Models Understanding On Peptide Related Tasks",
+   "authors": [
+    "Deepa Mal Korani",
+    "Vinay Jethava",
+    "Jovan Damjanovic",
+    "Solmaz Gabery Adams",
+    "Kristine Deibler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wE0ngq19Kx",
+   "pdf_url": "https://openreview.net/pdf?id=wE0ngq19Kx"
+  },
+  {
+   "title": "Periodic Complex Stochastic Processes for Retrieving Atomic Structures of Unknown Matters",
+   "authors": [
+    "Gyoung S. Na",
+    "Chanyoung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6UlOrnEUHL",
+   "pdf_url": "https://openreview.net/pdf?id=6UlOrnEUHL"
+  },
+  {
+   "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+   "authors": [
+    "Nhat-Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IwhZezBywi",
+   "pdf_url": "https://openreview.net/pdf?id=IwhZezBywi"
+  },
+  {
+   "title": "Physics-Informed Gaussian Processes for Hardness Prediction in Refractory High Entropy Alloys",
+   "authors": [
+    "Delia McGrath",
+    "Michael J. Pavel",
+    "Rohan Yuri Sanspeur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xjz7yEM0DF",
+   "pdf_url": "https://openreview.net/pdf?id=xjz7yEM0DF"
+  },
+  {
+   "title": "Physics-Informed Graph Learning Acceleration for Large-Scale AC-OPF with Topology Changes",
+   "authors": [
+    "Keunju Song",
+    "Kyungnam Park",
+    "Sua Choi",
+    "Seunguk Kim",
+    "Tae-un Kim",
+    "Youngmin Choi",
+    "Sang-Won Min",
+    "Hongseok Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6DgBq2DXZg",
+   "pdf_url": "https://openreview.net/pdf?id=6DgBq2DXZg"
+  },
+  {
+   "title": "Polygenic-by-Environment Adjustment for Binary GWAS with Out-of-Fold Block-PRS and Low-Rank Bilinear Models",
+   "authors": [
+    "Yining Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8fPfnc7PT1",
+   "pdf_url": "https://openreview.net/pdf?id=8fPfnc7PT1"
+  },
+  {
+   "title": "Position: AI Should Verify, Not Judge, Scientific Work",
+   "authors": [
+    "Prabhant Singh",
+    "Thanh Gia Hieu Khuong",
+    "Vlasta Sikimić",
+    "Benedictus Kent Rachmat",
+    "Kola Ayonrinde",
+    "Ihsan Ullah",
+    "Christina Lioma",
+    "Luis Oala",
+    "Kevin Qinghong Lin",
+    "Lele Cao",
+    "Neil F. Abernethy",
+    "Hilde Weerts",
+    "Joaquin Vanschoren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xz1gOOOh9Z",
+   "pdf_url": "https://openreview.net/pdf?id=xz1gOOOh9Z"
+  },
+  {
+   "title": "Position: Correct Answer, Wrong Mechanism - When AI Scientists Defend General Claims Their Own Data Contradicts",
+   "authors": [
+    "Steven Eulig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m7MFdCpecC",
+   "pdf_url": "https://openreview.net/pdf?id=m7MFdCpecC"
+  },
+  {
+   "title": "Position: Preventing the Collapse of Peer Review Requires Verification-First AI",
+   "authors": [
+    "Lei You",
+    "Lele Cao",
+    "Iryna Gurevych"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRBjSQFDva",
+   "pdf_url": "https://openreview.net/pdf?id=oRBjSQFDva"
+  },
+  {
+   "title": "Practical Bayesian Optimization for Scientific Discovery",
+   "authors": [
+    "Hamza Tahir Chaudhry",
+    "Sean H. Murphy",
+    "Umesh Padia",
+    "Cengiz Pehlevan",
+    "James Harrison",
+    "George Church",
+    "Jasper Snoek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zofFVuiROg",
+   "pdf_url": "https://openreview.net/pdf?id=zofFVuiROg"
+  },
+  {
+   "title": "Pre-training on noncovalent interactions from synthetic protein-ligand structures to better predict binding affinity",
+   "authors": [
+    "Arun Raja",
+    "Garrett Stevenson",
+    "Garrett M Morris",
+    "Jonathan E Allen",
+    "Hyojin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h8yARiHZeW",
+   "pdf_url": "https://openreview.net/pdf?id=h8yARiHZeW"
+  },
+  {
+   "title": "Pretrained Medical Representations for Practical Screening of Drug Repositioning Candidates",
+   "authors": [
+    "Yuhei Fujioka",
+    "Daitaro Misawa",
+    "Shingo Fukuma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pRwqpr6Od5",
+   "pdf_url": "https://openreview.net/pdf?id=pRwqpr6Od5"
+  },
+  {
+   "title": "Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs",
+   "authors": [
+    "Eszter Varga-Umbrich",
+    "Shikha Surana",
+    "Paul Duckworth",
+    "Jules Tilly",
+    "Olivier Peltre",
+    "Zachary Weller-Davies"
+   ],
+   "forum_url": "https://openreview.net/forum?id=unF86byL8K",
+   "pdf_url": "https://openreview.net/pdf?id=unF86byL8K"
+  },
+  {
+   "title": "PRISM: Problem Discovery via Structural Motifs in Knowledge Graphs",
+   "authors": [
+    "Sarvesh Gharat",
+    "Junpei Komiyama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rpcI57H8xd",
+   "pdf_url": "https://openreview.net/pdf?id=rpcI57H8xd"
+  },
+  {
+   "title": "Propose, Critique, Falsify: Benchmarking Self-Verifying AI Scientists",
+   "authors": [
+    "Aayam Bansal",
+    "Ishaan Gangwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RyX98G24rP",
+   "pdf_url": "https://openreview.net/pdf?id=RyX98G24rP"
+  },
+  {
+   "title": "Recursive Flow Matching",
+   "authors": [
+    "Jiahe Huang",
+    "Sihan Xu",
+    "Sharvaree Vadgama",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OIt6X5vPVY",
+   "pdf_url": "https://openreview.net/pdf?id=OIt6X5vPVY"
+  },
+  {
+   "title": "REFLEX: Reflective Evolution from LLM Experience",
+   "authors": [
+    "Pan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xftknNrW7n",
+   "pdf_url": "https://openreview.net/pdf?id=xftknNrW7n"
+  },
+  {
+   "title": "REPA: : Reproducibility Evaluation via an Autonomous Pipeline Architecture",
+   "authors": [
+    "Nura Tamton",
+    "Yisong Miao",
+    "Min-Yen Kan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lfOyOMFZ4d",
+   "pdf_url": "https://openreview.net/pdf?id=lfOyOMFZ4d"
+  },
+  {
+   "title": "Retro-Forge: A Multi-Step Pairwise Retrosynthesis Framework for Solid-State Materials Synthesis",
+   "authors": [
+    "Juhan Hong",
+    "Hyunsung Jang",
+    "Woojin Bae",
+    "Jaewon Bae",
+    "Chanyoung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AqtQc7KO77",
+   "pdf_url": "https://openreview.net/pdf?id=AqtQc7KO77"
+  },
+  {
+   "title": "RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking",
+   "authors": [
+    "Raja Sekhar Pappala",
+    "Shreyas Vinaya Sathyanarayana",
+    "Ronit kumar choudhary",
+    "Arjun Verma",
+    "Deepak Warrier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SScu0lShAc",
+   "pdf_url": "https://openreview.net/pdf?id=SScu0lShAc"
+  },
+  {
+   "title": "ReviewArena: A Large-Scale Cross-Conference Dataset and Benchmark for LLM Peer Review",
+   "authors": [
+    "Samarth P",
+    "Motamarri Sai Sathvik",
+    "Vyoman Jain",
+    "Shiva Golugula"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yugEO52gkR",
+   "pdf_url": "https://openreview.net/pdf?id=yugEO52gkR"
+  },
+  {
+   "title": "Revisiting Vanilla Bayesian Optimization in High-Dimensional Permutation Spaces",
+   "authors": [
+    "Ke Xue",
+    "Zhi-Xuan Gao",
+    "Ruo-Tong Chen",
+    "Rong-Xi Tan",
+    "Zhengbo Lu",
+    "Xudong Hou",
+    "Junxuan Fan",
+    "Chao Qian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JrfEqgEzPC",
+   "pdf_url": "https://openreview.net/pdf?id=JrfEqgEzPC"
+  },
+  {
+   "title": "RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design",
+   "authors": [
+    "Meghana Kshirsagar",
+    "Allen Nie",
+    "Ching-An Cheng",
+    "Fanglei Xue",
+    "Rahul M Dodhia",
+    "Juan M Lavista Ferres",
+    "Kevin K Yang",
+    "Frank DiMaio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MW9QjyxYUk",
+   "pdf_url": "https://openreview.net/pdf?id=MW9QjyxYUk"
+  },
+  {
+   "title": "RSI for Science: A Verifier-First Framework for AI Scientists",
+   "authors": [
+    "David Scott Lewis",
+    "Zhaoxiang Feng",
+    "Karl Wang",
+    "Junhan Wang",
+    "Saien Deng",
+    "Haley Yi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lSOR7AUNCM",
+   "pdf_url": "https://openreview.net/pdf?id=lSOR7AUNCM"
+  },
+  {
+   "title": "Rubric-Grounded Reinforcement Learning:Structured Judge Rewards for Generalizable Reasoning in Language Models",
+   "authors": [
+    "Manish Bhattarai",
+    "Ismael Boureima",
+    "Nishath Rajiv Ranasinghe",
+    "Scott Pakin",
+    "Daniel O'Malley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OTxbJguodh",
+   "pdf_url": "https://openreview.net/pdf?id=OTxbJguodh"
+  },
+  {
+   "title": "Sample Efficient Generative Optimization for Molecular Design",
+   "authors": [
+    "Sarina Kopf",
+    "cristina nevado",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3bX3wl0fmd",
+   "pdf_url": "https://openreview.net/pdf?id=3bX3wl0fmd"
+  },
+  {
+   "title": "Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation",
+   "authors": [
+    "Andi Gu",
+    "Juan Pablo Bonilla Ataides",
+    "Mikhail Lukin",
+    "Susanne Yelin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nxnPsNyl8B",
+   "pdf_url": "https://openreview.net/pdf?id=nxnPsNyl8B"
+  },
+  {
+   "title": "SciContrib-Bench: Mapping the Autonomy Landscape of AI Scientists Through Stage-Dependent Detectability",
+   "authors": [
+    "Raghav Agarwal",
+    "Aayam Bansal",
+    "Keertan Balaji",
+    "Ishaan Gangwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fX5mh0JyzP",
+   "pdf_url": "https://openreview.net/pdf?id=fX5mh0JyzP"
+  },
+  {
+   "title": "SciMem: Scientific Reasoning with Structured Memory for Materials Design",
+   "authors": [
+    "Lee Hyun",
+    "Sohee Yoon",
+    "Jinwoo Park",
+    "Myeonghun Jeong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=59zO31Bi1V",
+   "pdf_url": "https://openreview.net/pdf?id=59zO31Bi1V"
+  },
+  {
+   "title": "SciPaths: Forecasting Pathways to Scientific Discovery",
+   "authors": [
+    "Eric Chamoun",
+    "Yizhou Chi",
+    "Yulong Chen",
+    "RUI CAO",
+    "Zifeng Ding",
+    "Michalis Korakakis",
+    "Andreas Vlachos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xvLKDFVLeC",
+   "pdf_url": "https://openreview.net/pdf?id=xvLKDFVLeC"
+  },
+  {
+   "title": "SciReview: A Benchmark for Evaluating Frontier AI for Scientific Review",
+   "authors": [
+    "Sushant Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4bz0CMaO3",
+   "pdf_url": "https://openreview.net/pdf?id=k4bz0CMaO3"
+  },
+  {
+   "title": "SEAL - A Symmetry Encouraging Loss for High Energy Physics",
+   "authors": [
+    "Inbar Savoray",
+    "Pradyun Hebbar",
+    "Thandikire Madula",
+    "Vinicius Mikuni",
+    "Benjamin Nachman",
+    "Nadav Joseph Outmezguine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YOO1JjpFgr",
+   "pdf_url": "https://openreview.net/pdf?id=YOO1JjpFgr"
+  },
+  {
+   "title": "SeisAgentBench: A Failure-Aware Core Benchmark for Multi-Agent Earthquake Rupture Inversion and Forward Validation",
+   "authors": [
+    "Takayuki Shinohara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WwoNRQChfy",
+   "pdf_url": "https://openreview.net/pdf?id=WwoNRQChfy"
+  },
+  {
+   "title": "SENPAI: Self-ExperimentatioN for Physical AI An Observability-Based Research Harness",
+   "authors": [
+    "Morgan McGuire",
+    "Thomas Capelle",
+    "Justin Hodges"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g0bJFA9gVT",
+   "pdf_url": "https://openreview.net/pdf?id=g0bJFA9gVT"
+  },
+  {
+   "title": "SF-Cluster: Frustration-Aware MSA Subsampling for Protein Conformation Modeling",
+   "authors": [
+    "Hanqun Cao",
+    "Zijun Gao",
+    "Chunbin Gu",
+    "Ge Liu",
+    "Pheng-Ann Heng",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y71oKAiS0E",
+   "pdf_url": "https://openreview.net/pdf?id=Y71oKAiS0E"
+  },
+  {
+   "title": "Sibyl: A Multi-Agent Pipeline for Autonomous Hypothesis Generation",
+   "authors": [
+    "Blagoy Rangelov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ztVgK3iWCm",
+   "pdf_url": "https://openreview.net/pdf?id=ztVgK3iWCm"
+  },
+  {
+   "title": "Sibyl: Temporal Backtesting for Literature-Based Scientific Discovery with Large Language Model Agents",
+   "authors": [
+    "Blagoy Rangelov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xfLV86qoBd",
+   "pdf_url": "https://openreview.net/pdf?id=xfLV86qoBd"
+  },
+  {
+   "title": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
+   "authors": [
+    "YuCheng Yuan",
+    "Yuanfeng Ji",
+    "Zhongxiao Li",
+    "Ruijiang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rRMqAUUCmQ",
+   "pdf_url": "https://openreview.net/pdf?id=rRMqAUUCmQ"
+  },
+  {
+   "title": "SR-Scientist: Scientific Equation Discovery With Agentic AI",
+   "authors": [
+    "Shijie Xia",
+    "Yuhan Sun",
+    "Pengfei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5xwLFGdeWU",
+   "pdf_url": "https://openreview.net/pdf?id=5xwLFGdeWU"
+  },
+  {
+   "title": "State-Aware Policy Optimization for a Reliable Multi-Turn, Multi-Tool Scientific Agent in Kinetic Biological Models",
+   "authors": [
+    "Ansh Kumar",
+    "Sanjana Balaji Kuttae",
+    "Charlie George Barker",
+    "Thomas Rückle",
+    "Anastasios Siokis",
+    "Sven Jager",
+    "Thomas Klabunde",
+    "Tommaso Andreani",
+    "Gurdeep Singh",
+    "Ahmad Wisnu Mulyadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YGtz4ywf4V",
+   "pdf_url": "https://openreview.net/pdf?id=YGtz4ywf4V"
+  },
+  {
+   "title": "Symmetry-Constrained Gaussian Processes for Sample-Efficient Molecular Property Prediction",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XNb0fwIGGJ",
+   "pdf_url": "https://openreview.net/pdf?id=XNb0fwIGGJ"
+  },
+  {
+   "title": "Synthesizability-Aware Materials Generation with Target Properties via Reinforcement Learning",
+   "authors": [
+    "Duc Dat Dang",
+    "Junwu Chen",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4QhFNhk09H",
+   "pdf_url": "https://openreview.net/pdf?id=4QhFNhk09H"
+  },
+  {
+   "title": "TasteBench: multimodal benchmark for sensory prediction, from molecules to sustainable foods",
+   "authors": [
+    "Anna Thomas",
+    "Sohum Patnaik",
+    "Caroline Cotto",
+    "Benjamin Sanchez-Lengeling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k3djmwrAXd",
+   "pdf_url": "https://openreview.net/pdf?id=k3djmwrAXd"
+  },
+  {
+   "title": "The Few-Shot Unreliability of Molecular Foundation Models: A Geometric Diagnosis and Partial Remedy",
+   "authors": [
+    "Kevin Tirta Wijaya",
+    "Vahid Babaei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tUZqtcRXzu",
+   "pdf_url": "https://openreview.net/pdf?id=tUZqtcRXzu"
+  },
+  {
+   "title": "The Latent-First Laboratory: A Manifesto for Efficient, Audit-Based AI Science",
+   "authors": [
+    "Eason Ni",
+    "Gage Hakim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MgqiZTeo3Z",
+   "pdf_url": "https://openreview.net/pdf?id=MgqiZTeo3Z"
+  },
+  {
+   "title": "The Novelty Ceiling: PAC-Theoretic Bounds on Autonomous Scientific Discovery and the Minimum Oversight Rate",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Laksh Patel",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xoqAwd2MmP",
+   "pdf_url": "https://openreview.net/pdf?id=xoqAwd2MmP"
+  },
+  {
+   "title": "The Socratic Scientist: Designing LLM Agentic Harness for Long-Running Computational Science",
+   "authors": [
+    "Zhenghao Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4DT98LsQyE",
+   "pdf_url": "https://openreview.net/pdf?id=4DT98LsQyE"
+  },
+  {
+   "title": "The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research",
+   "authors": [
+    "Xiaoyan Bai",
+    "Alexander Baumgartner",
+    "Haojia Sun",
+    "Ari Holtzman",
+    "Chenhao Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cmXVfGR44k",
+   "pdf_url": "https://openreview.net/pdf?id=cmXVfGR44k"
+  },
+  {
+   "title": "To aggregate or Not to Aggregate?  Test-Time Aggregation Beyond Verifier-Friendly Benchmarks",
+   "authors": [
+    "Shreyas Singh",
+    "Guduru Manoj",
+    "Pradeep Moturi",
+    "Kunal Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lDg0x629Zp",
+   "pdf_url": "https://openreview.net/pdf?id=lDg0x629Zp"
+  },
+  {
+   "title": "TotSyn: A Total Synthesis Reaction Dataset for Machine Learning in Organic Chemistry",
+   "authors": [
+    "Chaewon Lee",
+    "Yousung Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vjMa37qauT",
+   "pdf_url": "https://openreview.net/pdf?id=vjMa37qauT"
+  },
+  {
+   "title": "Towards AI-Driven Recommendation of Liquid Chromatography Conditions for Chemical Reactions",
+   "authors": [
+    "Youngchun Kwon",
+    "Hyukju Kwon",
+    "Jinju Park",
+    "Seokho Kang",
+    "Youn-Suk Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lp4UvRcYnF",
+   "pdf_url": "https://openreview.net/pdf?id=Lp4UvRcYnF"
+  },
+  {
+   "title": "Towards Self-Evolving Agentic Literature Retrieval",
+   "authors": [
+    "Yuwen Du",
+    "Tian Jin",
+    "Jing Kang",
+    "Xianghe Pang",
+    "Jingyi Chai",
+    "Tingjia Miao",
+    "Fenyi Liu",
+    "WenHao Wang",
+    "Sikai yao",
+    "Yuzhi Zhang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GjG3yIWNh6",
+   "pdf_url": "https://openreview.net/pdf?id=GjG3yIWNh6"
+  },
+  {
+   "title": "TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models",
+   "authors": [
+    "Shiyi Chen",
+    "Collin Hargreaves",
+    "Nicholas Saban",
+    "Huiqi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2rW0UMmuXV",
+   "pdf_url": "https://openreview.net/pdf?id=2rW0UMmuXV"
+  },
+  {
+   "title": "TRIAGE: An AI Scientist for Adversarial Target Falsification",
+   "authors": [
+    "Jiawei Xing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YYmB6Zi088",
+   "pdf_url": "https://openreview.net/pdf?id=YYmB6Zi088"
+  },
+  {
+   "title": "Trusted Convergence and Knowing What We Know Together: Privacy-Preserving Knowledge Discovery Across Neurodegenerative Disease Institutes",
+   "authors": [
+    "Ivan Savchuk",
+    "Iona Biggart",
+    "Sergio D. Sierra M.",
+    "Ann-Kathrin Schalkamp",
+    "Ruxandra Mihai",
+    "Jonas Schulte-Schrepping",
+    "Matthias Becker",
+    "Caleb Webber",
+    "Cynthia Sandor",
+    "Hartmut Schultze",
+    "Anna C. Aschenbrenner",
+    "Joachim L. Schultze",
+    "Payam Barnaghi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WBfYPTTscP",
+   "pdf_url": "https://openreview.net/pdf?id=WBfYPTTscP"
+  },
+  {
+   "title": "TSAssistant: A Human-in-the-Loop Agentic Framework for Automated Target Safety Assessment",
+   "authors": [
+    "Xiaochen Zheng",
+    "Zhiwen Jiang",
+    "David Tokar",
+    "Melanie Guerard",
+    "Klas Hatje",
+    "Tatyana Doktorova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SmXeMropt0",
+   "pdf_url": "https://openreview.net/pdf?id=SmXeMropt0"
+  },
+  {
+   "title": "U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster",
+   "authors": [
+    "Salva Rühling Cachay",
+    "Duncan Watson-Parris",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u9p1tN7v69",
+   "pdf_url": "https://openreview.net/pdf?id=u9p1tN7v69"
+  },
+  {
+   "title": "What the Records Don't Carry: A Position on Researcher-AI Co-Adaptation in Exploratory Laboratory Research",
+   "authors": [
+    "Zeyu Li",
+    "Ziang Liu",
+    "Xiaoman Yang",
+    "Dan Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JLyfiAehuj",
+   "pdf_url": "https://openreview.net/pdf?id=JLyfiAehuj"
+  },
+  {
+   "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
+   "authors": [
+    "Kargi Chauhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fqiyCRGKJS",
+   "pdf_url": "https://openreview.net/pdf?id=fqiyCRGKJS"
+  },
+  {
+   "title": "When Should an AI Scientist Stop? Verifiable Experiment Steering and Refusal for Autonomous Discovery",
+   "authors": [
+    "Neel Tushar Shah",
+    "Manglam Kartik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DdDTacsJnr",
+   "pdf_url": "https://openreview.net/pdf?id=DdDTacsJnr"
+  }
+ ]
+}
