@@ -1,11 +1,15 @@
 /**
- * Board behaviour: countdown timers, local-time conversion, filters with
- * URL persistence, and the masthead "next deadline" ticker.
+ * Board behaviour: countdown timers, local-time conversion, keyword-chip
+ * filters with URL persistence, and the masthead "next deadline" ticker.
  * Plain JS, no dependencies; safe on pages where some controls are absent.
  */
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
 
 /* ---------- local-time conversion ---------- */
 function localizeTimes() {
@@ -66,49 +70,61 @@ function updateNextLine(now) {
     : 'No upcoming deadlines match your filters.';
 }
 
-function escapeHtml(s) {
-  return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+/* ---------- keyword chips ---------- */
+let keywords = [];
+
+function renderChips() {
+  const box = $('#kwChips');
+  if (!box) return;
+  box.innerHTML = keywords
+    .map(
+      (k, i) =>
+        `<span class="kw-chip">${escapeHtml(k)}<button type="button" class="kw-x" data-i="${i}" aria-label="Remove keyword ${escapeHtml(k)}">×</button></span>`,
+    )
+    .join('');
+}
+
+function commitKeyword() {
+  const input = $('#q');
+  const v = (input?.value || '').trim().toLowerCase();
+  if (!v) return false;
+  if (!keywords.includes(v)) keywords.push(v);
+  input.value = '';
+  renderChips();
+  return true;
 }
 
 /* ---------- filters (URL-persisted) ---------- */
-function readState() {
-  const p = new URLSearchParams(location.search);
-  return {
-    q: (p.get('q') || '').toLowerCase(),
-    conf: new Set((p.get('conf') || '').split(',').filter(Boolean)),
-    topic: new Set((p.get('topic') || '').split(',').filter(Boolean)),
-    passed: p.get('passed') === '1',
-  };
-}
-
-function writeState(state) {
-  const p = new URLSearchParams();
-  if (state.q) p.set('q', state.q);
-  if (state.conf.size) p.set('conf', [...state.conf].join(','));
-  if (state.topic.size) p.set('topic', [...state.topic].join(','));
-  if (state.passed) p.set('passed', '1');
-  const qs = p.toString();
-  history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
-}
-
 function collectState() {
+  const live = ($('#q')?.value || '').trim().toLowerCase();
   return {
-    q: ($('#q')?.value || '').trim().toLowerCase(),
+    terms: [...keywords, live].filter(Boolean),
     conf: new Set($$('.f-conf:checked').map((el) => el.value)),
     topic: new Set($$('.f-topic:checked').map((el) => el.value)),
     passed: $('#showPassed')?.checked ?? false,
   };
 }
 
+function writeState(state) {
+  const p = new URLSearchParams();
+  if (keywords.length) p.set('q', keywords.join(','));
+  if (state.conf.size) p.set('conf', [...state.conf].join(','));
+  if (state.topic.size) p.set('topic', [...state.topic].join(','));
+  if ($('#showPassed')) p.set('passed', state.passed ? '1' : '0');
+  const qs = p.toString();
+  history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+}
+
 function applyFilters(state) {
   let visible = 0;
   for (const row of $$('[data-ws-row]')) {
+    const search = row.dataset.search || '';
+    const okTerms = state.terms.every((t) => search.includes(t));
     const okConf = state.conf.size === 0 || state.conf.has(row.dataset.conf);
     const rowTopics = (row.dataset.topics || '').split(' ');
     const okTopic = state.topic.size === 0 || rowTopics.some((t) => state.topic.has(t));
-    const okQ = !state.q || (row.dataset.search || '').includes(state.q);
     const okPassed = row.dataset.status !== 'deadline_passed' || state.passed;
-    const show = okConf && okTopic && okQ && okPassed;
+    const show = okTerms && okConf && okTopic && okPassed;
     row.hidden = !show;
     if (show) visible++;
   }
@@ -126,30 +142,66 @@ function applyFilters(state) {
 }
 
 function initFilters() {
-  const hasControls = $('#q') || $$('.f-conf').length;
+  const input = $('#q');
+  const hasControls = input || $$('.f-conf').length;
   if (!hasControls) return;
-
-  // hydrate controls from URL
-  const init = readState();
-  if ($('#q')) $('#q').value = new URLSearchParams(location.search).get('q') || '';
-  for (const el of $$('.f-conf')) el.checked = init.conf.has(el.value);
-  for (const el of $$('.f-topic')) el.checked = init.topic.has(el.value);
-  if ($('#showPassed')) $('#showPassed').checked = init.passed;
 
   const onChange = () => {
     const state = collectState();
     writeState(state);
     applyFilters(state);
   };
-  for (const el of ['#q', '#showPassed'].map((s) => $(s)).filter(Boolean)) {
-    el.addEventListener('input', onChange);
+
+  // hydrate from URL (only override rendered defaults when a param is present)
+  const p = new URLSearchParams(location.search);
+  keywords = (p.get('q') || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+  renderChips();
+  const conf = new Set((p.get('conf') || '').split(',').filter(Boolean));
+  for (const el of $$('.f-conf')) el.checked = conf.has(el.value);
+  const topic = new Set((p.get('topic') || '').split(',').filter(Boolean));
+  for (const el of $$('.f-topic')) el.checked = topic.has(el.value);
+  if ($('#showPassed') && p.has('passed')) $('#showPassed').checked = p.get('passed') === '1';
+
+  if (input) {
+    input.addEventListener('input', onChange);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ',') {
+        e.preventDefault();
+        commitKeyword();
+        onChange();
+      } else if (e.key === 'Backspace' && input.value === '' && keywords.length) {
+        keywords.pop();
+        renderChips();
+        onChange();
+      }
+    });
   }
-  for (const el of [...$$('.f-conf'), ...$$('.f-topic')]) el.addEventListener('change', onChange);
-  $('#clearFilters')?.addEventListener('click', () => {
-    if ($('#q')) $('#q').value = '';
-    for (const el of [...$$('.f-conf'), ...$$('.f-topic')]) el.checked = false;
-    if ($('#showPassed')) $('#showPassed').checked = false;
+  $('#kwChips')?.addEventListener('click', (e) => {
+    const btn = e.target.closest('.kw-x');
+    if (!btn) return;
+    keywords.splice(Number(btn.dataset.i), 1);
+    renderChips();
     onChange();
+    $('#q')?.focus();
+  });
+  for (const el of $$('.f-conf')) el.addEventListener('change', onChange);
+  for (const el of $$('.f-topic')) el.addEventListener('change', onChange);
+  $('#showPassed')?.addEventListener('input', onChange);
+  $('#clearFilters')?.addEventListener('click', () => {
+    keywords = [];
+    renderChips();
+    if (input) input.value = '';
+    for (const el of [...$$('.f-conf'), ...$$('.f-topic')]) el.checked = false;
+    if ($('#showPassed')) $('#showPassed').checked = $('#showPassed').dataset.default === '1';
+    onChange();
+  });
+
+  // "/" focuses the filter box from anywhere on the page
+  document.addEventListener('keydown', (e) => {
+    if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '')) {
+      e.preventDefault();
+      input?.focus();
+    }
   });
 
   applyFilters(collectState());

@@ -1,0 +1,49 @@
+# Weekly: discover newly announced workshop venues on OpenReview for the
+# current and next year, backfill deadlines that organizers published late,
+# and open ONE PR with whatever appeared. This is how new conference cycles
+# (e.g. the NeurIPS list each July) flow in with zero manual work.
+name: Discover new workshop venues
+
+on:
+  schedule:
+    - cron: '19 3 * * 2' # Tuesdays 03:19 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Discover venues (current + next year, all conferences)
+        run: |
+          Y=$(date -u +%Y)
+          for c in icml iclr neurips; do
+            for y in "$Y" "$((Y + 1))"; do
+              node scripts/discover_openreview.mjs --conf "$c" --year "$y" || true
+              sleep 2
+            done
+          done
+      - name: Validate
+        run: node scripts/validate.mjs
+      - name: Open PR with new/updated entries (if any)
+        uses: peter-evans/create-pull-request@v8
+        with:
+          add-paths: data/workshops/*.yml
+          branch: bot/discover-venues
+          delete-branch: true
+          commit-message: 'chore: newly announced workshops from OpenReview'
+          title: 'chore: newly announced workshops from OpenReview'
+          body: |
+            Weekly auto-discovery of workshop venues from OpenReview (current + next year),
+            including backfilled deadlines for venues that published them late.
+            Skim the entries (names/websites come from the official venue records) and merge.
+          labels: automated

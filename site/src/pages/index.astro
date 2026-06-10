@@ -18,6 +18,10 @@ import { href, REPO_URL } from '../lib/site';
 const boardRows = [...upcomingWithDeadline, ...upcomingTba, ...deadlinePassed];
 const activeTopicIds = new Set(boardRows.flatMap((w) => w.topics ?? []));
 const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
+
+// Between cycles (no upcoming deadlines), show the current cycle's passed
+// deadlines by default so the board is never misleadingly empty.
+const defaultShowPassed = upcomingWithDeadline.length === 0 && deadlinePassed.length > 0;
 ---
 
 <Base>
@@ -38,7 +42,10 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
   </section>
 
   <div class="filterbar" role="search">
-    <input id="q" type="search" placeholder="Filter by name, acronym…" aria-label="Filter workshops" />
+    <div class="kw-box" onclick="document.getElementById('q')?.focus()">
+      <span id="kwChips"></span>
+      <input id="q" type="search" placeholder="Filter… (Enter adds a keyword)" aria-label="Filter workshops by keywords" />
+    </div>
     <div class="f-group" aria-label="Conference filter">
       {conferences.map((c) => (
         <label class="check">
@@ -60,7 +67,7 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
       </div>
     </details>
     <label class="check">
-      <input type="checkbox" id="showPassed" />
+      <input type="checkbox" id="showPassed" checked={defaultShowPassed} data-default={defaultShowPassed ? '1' : '0'} />
       Show passed deadlines
     </label>
     <button class="btn-quiet" id="clearFilters" type="button">Clear</button>
@@ -69,7 +76,7 @@ const boardTopics = topics.filter((t) => activeTopicIds.has(t.id));
 
   <section class="board" aria-label="Workshop deadlines">
     {upcomingWithDeadline.map((w) => <WorkshopRow w={w} />)}
-    {deadlinePassed.map((w) => <WorkshopRow w={w} passed />)}
+    {deadlinePassed.map((w) => <WorkshopRow w={w} passed startVisible={defaultShowPassed} />)}
     <div class="empty-state" id="emptyState" hidden>
       <p>No workshops match these filters.</p>
       <p class="small">

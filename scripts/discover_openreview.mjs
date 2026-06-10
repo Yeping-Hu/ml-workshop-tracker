@@ -130,14 +130,32 @@ async function main() {
   const topRe = new RegExp(`^${CONF_PREFIX[conf].replace('.', '\\.')}/${year}/Workshop/[^/]+$`);
   const venues = groups.filter((g) => topRe.test(g.id));
 
-  const known = new Set(
-    listWorkshopFiles().map((f) => readWorkshopFile(f).raw?.openreview_venue_id).filter(Boolean),
-  );
+  const known = new Map(); // venue_id -> { path, raw }
+  for (const f of listWorkshopFiles()) {
+    const e = readWorkshopFile(f);
+    if (e.raw?.openreview_venue_id) known.set(e.raw.openreview_venue_id, { path: f, raw: e.raw });
+  }
   const today = new Date().toISOString().slice(0, 10);
-  let created = 0, skipped = 0;
+  let created = 0, skipped = 0, backfilled = 0;
 
   for (const g of venues) {
-    if (known.has(g.id)) { skipped++; continue; }
+    if (known.has(g.id)) {
+      // Backfill: organizers sometimes publish the deadline on OpenReview
+      // after we imported the venue. Fill it in when it appears.
+      const { path: fp, raw } = known.get(g.id);
+      if (!raw.submission_deadline) {
+        const dl = parseGroupDeadline(val(g.content ?? {}, 'date'));
+        if (dl) {
+          raw.submission_deadline = dl.submission_deadline;
+          raw.timezone = dl.timezone;
+          raw.deadline_notes = 'imported from OpenReview — check the website for extensions';
+          if (!dryRun) fs.writeFileSync(fp, yaml.dump(raw, { lineWidth: 200, quotingType: '"' }));
+          backfilled++;
+        }
+      }
+      skipped++;
+      continue;
+    }
     const c = g.content ?? {};
     const tail = g.id.split('/').pop();
     const title = String(val(c, 'title') || tail).trim().slice(0, 200);
@@ -172,7 +190,7 @@ async function main() {
     }
     created++;
   }
-  console.log(`${conf} ${year}: ${venues.length} venues on OpenReview — ${created} created, ${skipped} already tracked.`);
+  console.log(`${conf} ${year}: ${venues.length} venues on OpenReview — ${created} created, ${skipped} already tracked${backfilled ? `, ${backfilled} deadline(s) backfilled` : ''}.`);
 }
 
 main().catch((e) => { console.error(e.message); process.exit(1); });

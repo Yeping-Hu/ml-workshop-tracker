@@ -1,0 +1,15 @@
+# Monthly, low-noise dependency updates (one PR per ecosystem).
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule: { interval: monthly }
+    groups: { all-root-deps: { patterns: ['*'] } }
+  - package-ecosystem: npm
+    directory: /site
+    schedule: { interval: monthly }
+    groups: { all-site-deps: { patterns: ['*'] } }
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: monthly }
+    groups: { all-actions: { patterns: ['*'] } }

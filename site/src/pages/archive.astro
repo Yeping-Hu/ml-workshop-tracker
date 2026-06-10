@@ -1,7 +1,10 @@
 ---
 import Base from '../components/Base.astro';
-import { past, conferences, topicById, loadPaperCache } from '../lib/data';
+import { past, conferences, topics, topicById, loadPaperCache } from '../lib/data';
 import { href } from '../lib/site';
+
+const archiveTopicIds = new Set(past.flatMap((w) => w.topics ?? []));
+const archiveTopics = topics.filter((t) => archiveTopicIds.has(t.id));
 
 const byConf = conferences
   .map((c) => {
@@ -29,7 +32,10 @@ function papersLink(w: Record<string, any>) {
   </section>
 
   <div class="filterbar" role="search">
-    <input id="q" type="search" placeholder="Filter by name, acronym…" aria-label="Filter past workshops" />
+    <div class="kw-box" onclick="document.getElementById('q')?.focus()">
+      <span id="kwChips"></span>
+      <input id="q" type="search" placeholder="Filter… (Enter adds a keyword)" aria-label="Filter past workshops by keywords" />
+    </div>
     <div class="f-group" aria-label="Conference filter">
       {conferences.map((c) => (
         <label class="check">
@@ -39,6 +45,17 @@ function papersLink(w: Record<string, any>) {
         </label>
       ))}
     </div>
+    <details class="dd">
+      <summary id="topicSummary">Topics</summary>
+      <div class="dd-panel">
+        {archiveTopics.map((t) => (
+          <label class="check">
+            <input type="checkbox" class="f-topic" value={t.id} />
+            {t.label}
+          </label>
+        ))}
+      </div>
+    </details>
     <button class="btn-quiet" id="clearFilters" type="button">Clear</button>
     <span class="resultcount" id="resultCount"></span>
   </div>

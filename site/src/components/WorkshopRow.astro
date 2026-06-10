@@ -4,9 +4,10 @@ import { href, REPO_URL } from '../lib/site';
 
 interface Props {
   w: Record<string, any>;
-  passed?: boolean; // render as a passed-deadline row (hidden until toggled)
+  passed?: boolean; // render as a passed-deadline row
+  startVisible?: boolean; // render passed rows visible (between-cycles default)
 }
-const { w, passed = false } = Astro.props;
+const { w, passed = false, startVisible = false } = Astro.props;
 const conf = conferenceById.get(w.conference) ?? { name: w.conference, color: '#888' };
 const search = [w.name, w.acronym, conf.name, w.year].filter(Boolean).join(' ').toLowerCase();
 const hasDeadline = w.deadlineUtcMs != null;
@@ -19,7 +20,7 @@ const hasDeadline = w.deadlineUtcMs != null;
   data-topics={(w.topics ?? []).join(' ')}
   data-status={w.status}
   data-search={search}
-  hidden={passed}
+  hidden={passed && !startVisible}
 >
   <span class="badge" style={`--conf:${conf.color}`}>{conf.name}</span>
 

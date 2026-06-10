@@ -20,23 +20,20 @@ const stale = loadWorkshops().filter(
   (w) =>
     w.deadlineUtcMs != null &&
     now - w.deadlineUtcMs > 60 * DAY_MS &&
-    (!w.workshop_date || (!w.proceedings_url && !w.openreview_venue_id)),
+    !w.proceedings_url &&
+    !w.openreview_venue_id,
 );
 
 let report = '';
 if (stale.length) {
   const lines = [
     'The following workshop entries have a submission deadline that passed more than 60 days ago,',
-    'but are missing a `workshop_date` and/or any papers link (`openreview_venue_id` / `proceedings_url`).',
+    'but have no papers link (`openreview_venue_id` / `proceedings_url`).',
     'Please verify each one and fill in what happened (or correct the deadline):',
     '',
   ];
   for (const w of stale) {
-    const missing = [
-      !w.workshop_date ? '`workshop_date`' : null,
-      !w.proceedings_url && !w.openreview_venue_id ? 'papers link' : null,
-    ].filter(Boolean).join(', ');
-    lines.push(`- [ ] \`${w.file}\` — **${w.name}** (${w.conference.toUpperCase()} ${w.year}) — missing: ${missing}`);
+    lines.push(`- [ ] \`${w.file}\` — **${w.name}** (${w.conference.toUpperCase()} ${w.year}) — needs a papers link`);
   }
   lines.push('', '_This issue is updated automatically by the weekly `stale-check` workflow._');
   report = lines.join('\n') + '\n';
