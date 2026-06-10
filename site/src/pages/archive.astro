@@ -61,8 +61,11 @@ function papersLink(w: Record<string, any>) {
   </div>
 
   {byConf.map(({ conf, years }) => (
-    <section data-group>
-      <h2>{conf.name}</h2>
+    <section data-group style={`--conf:${conf.color}`}>
+      <h2 class="arch-conf">
+        <span class="badge">{conf.name}</span>
+        <span class="arch-conf-full">{conf.full_name}</span>
+      </h2>
       {years.map(({ year, items }) => (
         <div class="year-block" data-group>
           <h3>

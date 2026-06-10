@@ -1,4 +1,4 @@
-# ML Workshop Tracker
+# AI Workshop Tracker
 
 A static website that aggregates **ML conference workshop** information in one place:
 
@@ -69,6 +69,8 @@ Using a custom domain or an `<owner>.github.io` repo? In `deploy.yml`, set `SITE
 | `SITE_URL` | site build | Canonical origin (sitemap, RSS, OG tags) | `https://ml-workshop-tracker.pages.dev` |
 | `SITE_BASE` | site build | Path prefix for GitHub *project* pages | `/` |
 | `PUBLIC_REPO_URL` | site build | "Edit"/"Add a workshop" links | placeholder — **set this** |
+| `PUBLIC_GOATCOUNTER` | site build | Enables [GoatCounter](https://www.goatcounter.com) analytics (set to your site code; repo Action variable `GOATCOUNTER_CODE`) | off |
+| `PUBLIC_CF_ANALYTICS_TOKEN` | site build | Enables Cloudflare Web Analytics (repo Action variable `CF_ANALYTICS_TOKEN`) | off |
 
 ## Automation reference
 

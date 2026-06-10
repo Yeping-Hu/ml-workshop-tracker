@@ -27,8 +27,9 @@
   --maxw: 70rem;
 }
 
+/* Dark theme: follows the OS unless a manual choice is stored in data-theme. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --paper: #121511;
     --surface: #1a1e19;
     --ink: #eceee8;
@@ -44,6 +45,23 @@
     --shadow: none;
   }
 }
+:root[data-theme="dark"] {
+  --paper: #121511;
+  --surface: #1a1e19;
+  --ink: #eceee8;
+  --muted: #9aa294;
+  --line: #2a2f28;
+  --accent: #6fbf9b;
+  --accent-ink: #0d1410;
+  --accent-soft: #1e3329;
+  --urgent: #f2766b;
+  --urgent-soft: #3a201d;
+  --warn: #e2b93b;
+  --warn-soft: #352b12;
+  --shadow: none;
+}
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
 
 /* ---------- base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
@@ -178,7 +196,8 @@ details.dd .dd-panel {
   color: #fff; background: var(--conf, var(--muted));
   border-radius: 6px; padding: 0.28rem 0; text-align: center;
 }
-@media (prefers-color-scheme: dark) { .badge { filter: brightness(1.25) saturate(0.9); color: #0d1410; } }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .badge { filter: brightness(1.25) saturate(0.9); color: #0d1410; } }
+:root[data-theme="dark"] .badge { filter: brightness(1.25) saturate(0.9); color: #0d1410; }
 .ws-main { min-width: 0; }
 .ws-name { font-family: var(--font-display); font-size: 1.08rem; font-weight: 600; }
 .ws-name a { color: var(--ink); text-decoration: none; }
@@ -305,3 +324,17 @@ details.tba-section > summary { cursor: pointer; color: var(--muted); font-size:
 .pf-title:hover { color: var(--accent); text-decoration: underline; }
 .pf-excerpt { margin: 0.3rem 0 0; font-size: 0.88rem; color: var(--muted); max-width: 46rem; }
 .pf-excerpt mark { background: var(--accent-soft); color: var(--accent); border-radius: 3px; padding: 0 0.15em; }
+
+/* ---------- theme toggle & archive polish ---------- */
+.theme-toggle {
+  font-size: 1.05rem; line-height: 1; cursor: pointer;
+  background: none; border: 1px solid var(--line); border-radius: 8px;
+  color: var(--muted); padding: 0.3rem 0.55rem;
+}
+.theme-toggle:hover { color: var(--ink); border-color: var(--accent); }
+.arch-conf { display: flex; align-items: baseline; gap: 0.8rem; margin-top: 3rem; }
+.arch-conf .badge { font-size: 0.95rem; padding: 0.32rem 0.95rem; }
+.arch-conf-full { color: var(--muted); font-size: 0.85rem; font-weight: 400; font-family: var(--font-body); letter-spacing: 0; }
+.year-block { border-left: 3px solid var(--conf, var(--line)); padding-left: 1.1rem; margin: 1.3rem 0 2.1rem; }
+.year-block h3 { font-size: 1.5rem; margin-top: 0.4rem; }
+.arch-row:hover { background: var(--surface); }

@@ -29,9 +29,9 @@ export const GET: APIRoute = ({ site }) => {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
  <channel>
-  <title>ML Workshop Tracker — newly added workshops</title>
+  <title>AI Workshop Tracker — newly added workshops</title>
   <link>${esc(origin.href)}</link>
-  <description>New workshop entries on the ML Workshop Tracker.</description>
+  <description>New workshop entries on the AI Workshop Tracker.</description>
 ${items}
  </channel>
 </rss>`;

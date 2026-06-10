@@ -29,15 +29,15 @@ function toEvent(w: Record<string, any>) {
 }
 
 const FEEDS: Record<string, { name: string; items: Record<string, any>[] }> = {
-  all: { name: 'ML workshop deadlines — all', items: feedable },
+  all: { name: 'AI workshop deadlines — all', items: feedable },
 };
 for (const c of conferences) {
   const items = feedable.filter((w) => w.conference === c.id);
-  if (items.length) FEEDS[c.id] = { name: `ML workshop deadlines — ${c.name}`, items };
+  if (items.length) FEEDS[c.id] = { name: `AI workshop deadlines — ${c.name}`, items };
 }
 for (const t of topics) {
   const items = feedable.filter((w) => (w.topics ?? []).includes(t.id));
-  if (items.length) FEEDS[`topic-${t.id}`] = { name: `ML workshop deadlines — ${t.label}`, items };
+  if (items.length) FEEDS[`topic-${t.id}`] = { name: `AI workshop deadlines — ${t.label}`, items };
 }
 for (const w of feedable) {
   FEEDS[`ws-${w.slug}`] = { name: `${w.acronym || w.name} (${w.year}) deadline`, items: [w] };

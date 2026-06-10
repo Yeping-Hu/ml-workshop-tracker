@@ -7,7 +7,7 @@ interface Props {
   description?: string;
 }
 const { title, description = SITE_TAGLINE } = Astro.props;
-const pageTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — ML workshop deadlines & papers`;
+const pageTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — AI workshop deadlines & papers`;
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
 
 const nav = [
@@ -18,6 +18,9 @@ const nav = [
   { label: 'About', path: '/about/' },
 ];
 const buildDate = new Date().toISOString().slice(0, 10);
+const ogImage = Astro.site ? new URL(href('/og.png'), Astro.site).href : undefined;
+const GOATCOUNTER = import.meta.env.PUBLIC_GOATCOUNTER;
+const CF_TOKEN = import.meta.env.PUBLIC_CF_ANALYTICS_TOKEN;
 const current = (p: string) =>
   Astro.url.pathname.replace(/\/+$/, '/') === href(p).replace(/\/+$/, '/') ||
   (p === '/' && Astro.url.pathname === href('/'));
@@ -36,17 +39,28 @@ const current = (p: string) =>
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta name="twitter:card" content="summary_large_image" />}
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+    <script is:inline>
+      // Apply a stored manual theme before first paint (no flash).
+      try {
+        const t = localStorage.getItem('theme');
+        if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
     {canonical && <meta property="og:url" content={canonical} />}
   </head>
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="wordmark" href={href('/')}>ML Workshop <span>Tracker</span></a>
+        <a class="wordmark" href={href('/')}>AI Workshop <span>Tracker</span></a>
         <nav class="site-nav" aria-label="Main">
           {nav.map((n) => (
             <a href={href(n.path)} aria-current={current(n.path) ? 'page' : undefined}>{n.label}</a>
           ))}
         </nav>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
       </div>
     </header>
 
@@ -68,6 +82,12 @@ const current = (p: string) =>
         </div>
       </div>
     </footer>
+    {GOATCOUNTER && (
+      <script is:inline async data-goatcounter={`https://${GOATCOUNTER}.goatcounter.com/count`} src="https://gc.zgo.at/count.js"></script>
+    )}
+    {CF_TOKEN && (
+      <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={`{"token": "${CF_TOKEN}"}`}></script>
+    )}
     <script>
       // Open every external link in a new tab.
       for (const a of document.querySelectorAll('a[href^="http"]')) {
@@ -76,6 +96,16 @@ const current = (p: string) =>
           a.rel = 'noopener';
         }
       }
+      // Manual light/dark toggle (falls back to the OS preference until used).
+      document.getElementById('themeToggle')?.addEventListener('click', () => {
+        const root = document.documentElement;
+        const effective =
+          root.dataset.theme ||
+          (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        const next = effective === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        try { localStorage.setItem('theme', next); } catch {}
+      });
     </script>
   </body>
 </html>
