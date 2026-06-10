@@ -1,5 +1,7 @@
 # AI Workshop Tracker
 
+**Live at [aiworkshoptracker.com](https://aiworkshoptracker.com)**
+
 A static website that aggregates **ML conference workshop** information in one place:
 
 - 📅 **Upcoming submission deadlines** for ICML, ICLR, NeurIPS, ICRA, and IROS workshops — with live countdowns and AoE → local-time conversion (subscribable `.ics` calendar feeds exist but are paused until dates are verified; see `CALENDAR_ENABLED`)
@@ -49,9 +51,9 @@ npm run build --prefix site    # full build incl. search index -> site/dist
 
 1. Push this repo to GitHub.
 2. Repo **Settings → Pages → Source: "GitHub Actions"**.
-3. Done. `.github/workflows/deploy.yml` builds on every push to `main`, weekly, and on demand. The site appears at `https://<owner>.github.io/<repo>/`.
+3. Done. `.github/workflows/deploy.yml` builds on every push to `main`, weekly, and on demand. This repo serves at the custom domain `aiworkshoptracker.com` (configured in Settings → Pages → Custom domain; DNS A records point the apex at GitHub Pages). The `<owner>.github.io/<repo>` URL redirects there automatically.
 
-Using a custom domain or an `<owner>.github.io` repo? In `deploy.yml`, set `SITE_URL` to your domain and `SITE_BASE` to `/`.
+Forking without the custom domain? In `deploy.yml`, set `SITE_URL` to `https://<owner>.github.io` and `SITE_BASE` to `/<repo-name>`.
 
 ### Option B — Cloudflare Pages (unlimited bandwidth, also free)
 

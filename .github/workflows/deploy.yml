@@ -41,16 +41,13 @@ jobs:
       - name: Validate data before building
         run: node scripts/validate.mjs
       - run: npm ci --prefix site
-      - name: Compute Pages URL/base
-        run: |
-          echo "REPO_NAME=${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
       - name: Build site
         env:
-          # Project page lives at https://<owner>.github.io/<repo>/.
-          # Custom domain or <owner>.github.io repo? Set SITE_URL accordingly
-          # and SITE_BASE to "/".
-          SITE_URL: https://${{ github.repository_owner }}.github.io
-          SITE_BASE: /${{ env.REPO_NAME }}
+          # Custom domain (set in repo Settings -> Pages -> Custom domain).
+          # To go back to plain project pages: SITE_URL=https://<owner>.github.io
+          # and SITE_BASE=/<repo-name>.
+          SITE_URL: https://aiworkshoptracker.com
+          SITE_BASE: /
           PUBLIC_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
           # Optional, privacy-friendly analytics (repo Settings -> Secrets and
           # variables -> Actions -> Variables). Leave unset for no tracking.
