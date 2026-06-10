@@ -68,7 +68,7 @@ Forking without the custom domain? In `deploy.yml`, set `SITE_URL` to `https://<
 
 | Var | Used by | Meaning | Default |
 |---|---|---|---|
-| `SITE_URL` | site build | Canonical origin (sitemap, RSS, OG tags) | `https://ml-workshop-tracker.pages.dev` |
+| `SITE_URL` | site build | Canonical origin (sitemap, RSS, OG tags) | `https://ai-workshop-tracker.pages.dev` |
 | `SITE_BASE` | site build | Path prefix for GitHub *project* pages | `/` |
 | `PUBLIC_REPO_URL` | site build | "Edit"/"Add a workshop" links | placeholder — **set this** |
 | `PUBLIC_GOATCOUNTER` | site build | Enables [GoatCounter](https://www.goatcounter.com) analytics (set to your site code; repo Action variable `GOATCOUNTER_CODE`) | off |

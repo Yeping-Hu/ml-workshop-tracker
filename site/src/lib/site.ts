@@ -3,7 +3,7 @@ export const SITE_NAME = 'AI Workshop Tracker';
 export const SITE_TAGLINE =
   'Workshop deadlines and accepted papers across major AI and robotics conferences.';
 export const REPO_URL =
-  import.meta.env.PUBLIC_REPO_URL || 'https://github.com/Yeping-Hu/ml-workshop-tracker';
+  import.meta.env.PUBLIC_REPO_URL || 'https://github.com/Yeping-Hu/ai-workshop-tracker';
 
 /**
  * Calendar feeds & .ics links are paused until workshop dates are verified —

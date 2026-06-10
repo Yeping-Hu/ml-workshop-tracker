@@ -18,7 +18,7 @@ import path from 'node:path';
 import yaml from 'js-yaml';
 import { WORKSHOPS_DIR, listWorkshopFiles, readWorkshopFile } from '../lib/workshops.mjs';
 
-const UA = 'ml-workshop-tracker/1.0 (open-source workshop aggregator; github)';
+const UA = 'ai-workshop-tracker/1.0 (open-source workshop aggregator; github)';
 const CONF_TEMPLATE = {
   icml: 'ICML.cc/{year}/Workshop',
   iclr: 'ICLR.cc/{year}/Workshop',

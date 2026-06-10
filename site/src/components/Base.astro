@@ -42,6 +42,19 @@ const current = (p: string) =>
     {ogImage && <meta property="og:image" content={ogImage} />}
     {ogImage && <meta name="twitter:card" content="summary_large_image" />}
     {ogImage && <meta name="twitter:image" content={ogImage} />}
+    {Astro.site && (
+      <script is:inline type="application/ld+json" set:html={JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: SITE_NAME,
+        url: Astro.site.href,
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: { '@type': 'EntryPoint', urlTemplate: `${Astro.site.href.replace(/\/$/, '')}/search/?q={search_term_string}` },
+          'query-input': 'required name=search_term_string',
+        },
+      })} />
+    )}
     <script is:inline>
       // Apply a stored manual theme before first paint (no flash).
       try {

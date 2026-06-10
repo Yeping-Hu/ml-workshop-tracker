@@ -3,8 +3,8 @@ import sitemap from '@astrojs/sitemap';
 
 // Deployment knobs (set as env vars in CI; sensible local defaults):
 //   SITE_URL  e.g. https://yourname.github.io  or  https://ml-workshops.pages.dev
-//   SITE_BASE e.g. /ml-workshop-tracker  (GitHub *project* pages) — leave unset for "/"
-const SITE = process.env.SITE_URL || 'https://ml-workshop-tracker.pages.dev';
+//   SITE_BASE e.g. /ai-workshop-tracker  (GitHub *project* pages) — leave unset for "/"
+const SITE = process.env.SITE_URL || 'https://ai-workshop-tracker.pages.dev';
 const BASE = process.env.SITE_BASE || '/';
 
 export default defineConfig({

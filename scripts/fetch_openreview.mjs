@@ -20,7 +20,7 @@ import { loadWorkshops, CACHE_DIR } from '../lib/workshops.mjs';
 
 const API_V2 = 'https://api2.openreview.net';
 const API_V1 = 'https://api.openreview.net';
-const UA = 'ml-workshop-tracker/1.0 (open-source workshop aggregator; github)';
+const UA = 'ai-workshop-tracker/1.0 (open-source workshop aggregator; github)';
 const SLEEP_MS = 1100;
 const PAGE = 1000;
 const MAX_PAPERS = 3000;

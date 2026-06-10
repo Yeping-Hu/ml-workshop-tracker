@@ -21,7 +21,7 @@ const feedable = workshops.filter(
 function toEvent(w: Record<string, any>) {
   const conf = conferenceById.get(w.conference);
   return {
-    uid: `${w.slug}@ml-workshop-tracker`,
+    uid: `${w.slug}@ai-workshop-tracker`,
     dateYmd: String(w.submission_deadline).slice(0, 10),
     summary: `${w.acronym || w.name} deadline (${conf?.name ?? w.conference} ${w.year})`,
     description: `${w.name}\nDeadline: ${w.deadlineWallClock}${w.deadline_notes ? `\nNote: ${w.deadline_notes}` : ''}\n${w.website}`,

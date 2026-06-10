@@ -7,7 +7,7 @@ const esc = (s: string) =>
   String(s ?? '').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[c]!);
 
 export const GET: APIRoute = ({ site }) => {
-  const origin = site ?? new URL('https://ml-workshop-tracker.pages.dev');
+  const origin = site ?? new URL('https://ai-workshop-tracker.pages.dev');
   const items = workshops
     .filter((w) => w.added)
     .sort((a, b) => String(b.added).localeCompare(String(a.added)))
