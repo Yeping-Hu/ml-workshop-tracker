@@ -1,7 +1,7 @@
 ---
 import Base from '../../components/Base.astro';
 import { workshops, conferenceById, topicById, loadPaperCache } from '../../lib/data';
-import { href, REPO_URL } from '../../lib/site';
+import { href, REPO_URL, CALENDAR_ENABLED } from '../../lib/site';
 
 export function getStaticPaths() {
   return workshops.map((w) => ({ params: { slug: w.slug }, props: { w } }));
@@ -43,7 +43,7 @@ const portalLabel: Record<string, string> = {
           <a href={`https://openreview.net/group?id=${w.openreview_venue_id}`} rel="noopener">OpenReview venue ↗</a>
         )}
         {w.proceedings_url && <a href={w.proceedings_url} rel="noopener">Accepted papers ↗</a>}
-        {w.deadlineUtcMs && <a href={href(`/feeds/ws-${w.slug}.ics`)}>Add deadline to calendar (.ics)</a>}
+        {CALENDAR_ENABLED && w.deadlineUtcMs && <a href={href(`/feeds/ws-${w.slug}.ics`)}>Add deadline to calendar (.ics)</a>}
         <a href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ Edit this entry</a>
       </div>
       {isSeed && (

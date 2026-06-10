@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE_NAME, SITE_TAGLINE, REPO_URL, href } from '../lib/site';
+import { SITE_NAME, SITE_TAGLINE, REPO_URL, CALENDAR_ENABLED, href } from '../lib/site';
 
 interface Props {
   title?: string;
@@ -13,7 +13,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : un
 const nav = [
   { label: 'Deadlines', path: '/' },
   { label: 'Archive', path: '/archive/' },
-  { label: 'Calendar', path: '/calendar/' },
+  ...(CALENDAR_ENABLED ? [{ label: 'Calendar', path: '/calendar/' }] : []),
   { label: 'Search', path: '/search/' },
   { label: 'About', path: '/about/' },
 ];

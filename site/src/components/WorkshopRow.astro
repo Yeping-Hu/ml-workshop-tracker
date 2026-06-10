@@ -1,6 +1,6 @@
 ---
 import { conferenceById, topicById } from '../lib/data';
-import { href, REPO_URL } from '../lib/site';
+import { href, REPO_URL, CALENDAR_ENABLED } from '../lib/site';
 
 interface Props {
   w: Record<string, any>;
@@ -61,7 +61,7 @@ const hasDeadline = w.deadlineUtcMs != null;
     ) : (
       <a class="link-tba" href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">Website TBA — add it</a>
     )}
-    {hasDeadline && <a href={href(`/feeds/ws-${w.slug}.ics`)}>.ics</a>}
+    {CALENDAR_ENABLED && hasDeadline && <a href={href(`/feeds/ws-${w.slug}.ics`)}>.ics</a>}
     <a href={`${REPO_URL}/edit/main/data/workshops/${w.slug}.yml`} rel="noopener">✎ Edit</a>
   </div>
 </div>

@@ -1,85 +1,23 @@
 ---
 import Base from '../components/Base.astro';
-import { workshops, conferences, topics } from '../lib/data';
-import { href } from '../lib/site';
-
-const WINDOW = 30 * 86_400_000;
-const now = Date.now();
-const feedable = workshops.filter((w) => w.deadlineUtcMs != null && w.deadlineUtcMs > now - WINDOW);
-const activeConfs = conferences.filter((c) => feedable.some((w) => w.conference === c.id));
-const activeTopics = topics.filter((t) => feedable.some((w) => (w.topics ?? []).includes(t.id)));
+import { href, CALENDAR_ENABLED } from '../lib/site';
 ---
 
-<Base title="Calendar feeds" description="Subscribe to ML workshop deadlines in Google Calendar, Apple Calendar, or Outlook via .ics feeds.">
+<Base title="Calendar feeds" description="Calendar subscriptions are temporarily paused.">
+  <Fragment slot="head"></Fragment>
+  <meta name="robots" content="noindex" />
   <section class="masthead">
-    <p class="eyebrow">Never miss a deadline</p>
-    <h1>Calendar subscriptions</h1>
+    <p class="eyebrow">Temporarily paused</p>
+    <h1>Calendar feeds are paused</h1>
     <p class="lede">
-      Each feed is a standard <code>.ics</code> calendar. Every deadline appears as an all-day
-      event on its AoE date, with built-in reminders 7 days and 1 day before. Subscribe once —
-      your calendar app refreshes automatically as workshops are added.
+      We're verifying imported workshop dates before offering calendar subscriptions again —
+      a wrong deadline in your calendar is worse than no calendar at all. If you subscribed
+      earlier, the feed now publishes zero events, so stale entries clear out on your app's
+      next refresh.
+    </p>
+    <p class="lede">
+      Meanwhile, the <a href={href('/')}>deadline board</a> always shows current dates with
+      live countdowns, and you can follow new additions via <a href={href('/rss.xml')}>RSS</a>.
     </p>
   </section>
-
-  <h2>Feeds</h2>
-  <ul class="feed-list">
-    <li>
-      <span class="feed-name">All deadlines</span>
-      <code class="feed-url js-feed" data-path={href('/feeds/all.ics')}>{href('/feeds/all.ics')}</code>
-      <button class="copybtn" type="button">Copy URL</button>
-    </li>
-    {activeConfs.map((c) => (
-      <li>
-        <span class="feed-name">{c.name} only</span>
-        <code class="feed-url js-feed" data-path={href(`/feeds/${c.id}.ics`)}>{href(`/feeds/${c.id}.ics`)}</code>
-        <button class="copybtn" type="button">Copy URL</button>
-      </li>
-    ))}
-    {activeTopics.map((t) => (
-      <li>
-        <span class="feed-name">Topic: {t.label}</span>
-        <code class="feed-url js-feed" data-path={href(`/feeds/topic-${t.id}.ics`)}>{href(`/feeds/topic-${t.id}.ics`)}</code>
-        <button class="copybtn" type="button">Copy URL</button>
-      </li>
-    ))}
-  </ul>
-
-  <div class="prose">
-    <h2>How to subscribe</h2>
-    <p>
-      <strong>Google Calendar:</strong> Other calendars → <em>+</em> → <em>From URL</em> → paste a
-      feed URL. (Google refreshes external feeds every 12–24 hours.)
-    </p>
-    <p>
-      <strong>Apple Calendar:</strong> File → <em>New Calendar Subscription…</em> → paste the URL.
-      Set auto-refresh to daily.
-    </p>
-    <p>
-      <strong>Outlook:</strong> Add calendar → <em>Subscribe from web</em> → paste the URL.
-    </p>
-    <p class="muted small">
-      Tip: subscribing keeps you in sync; downloading a single <code>.ics</code> from a workshop
-      page imports that one deadline as a fixed event instead.
-    </p>
-  </div>
-
-  <script>
-    // Show absolute URLs (and make the copy buttons work) once we know the origin.
-    for (const code of document.querySelectorAll('.js-feed')) {
-      const abs = new URL(code.dataset.path, location.href).href;
-      code.textContent = abs;
-    }
-    for (const btn of document.querySelectorAll('.copybtn')) {
-      btn.addEventListener('click', async () => {
-        const url = btn.parentElement?.querySelector('.js-feed')?.textContent ?? '';
-        try {
-          await navigator.clipboard.writeText(url);
-          btn.textContent = 'Copied ✓';
-          setTimeout(() => (btn.textContent = 'Copy URL'), 1500);
-        } catch {
-          btn.textContent = 'Press Ctrl/Cmd-C';
-        }
-      });
-    }
-  </script>
 </Base>

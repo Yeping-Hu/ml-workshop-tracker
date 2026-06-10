@@ -8,6 +8,7 @@
  */
 import type { APIRoute } from 'astro';
 import { workshops, conferences, topics, conferenceById } from '../../lib/data';
+import { CALENDAR_ENABLED } from '../../lib/site';
 // @ts-ignore - shared plain-JS module at the repo root
 import { buildIcs } from '../../../../lib/ics.mjs';
 
@@ -49,7 +50,10 @@ export function getStaticPaths() {
 
 export const GET: APIRoute = ({ params }) => {
   const feed = FEEDS[params.feed as string];
-  const body = buildIcs(feed.name, feed.items.map(toEvent), new Date());
+  // While paused, publish zero events so subscribed calendars clear out.
+  const events = CALENDAR_ENABLED ? feed.items.map(toEvent) : [];
+  const name = CALENDAR_ENABLED ? feed.name : `${feed.name} (paused)`;
+  const body = buildIcs(name, events, new Date());
   return new Response(body, {
     headers: { 'Content-Type': 'text/calendar; charset=utf-8' },
   });
