@@ -26,10 +26,10 @@ const defaultShowPassed = upcomingWithDeadline.length === 0 && deadlinePassed.le
 
 <Base>
   <section class="masthead">
-    <p class="eyebrow">ICML · ICLR · NeurIPS workshops</p>
+    <p class="eyebrow">{conferences.map((c) => c.name).join(" · ")} workshops</p>
     <h1>Every workshop deadline, one board.</h1>
     <p class="lede">
-      Submission deadlines for ML conference workshops, resolved from AoE to your local
+      Submission deadlines for conference workshops across machine learning and robotics, resolved from AoE to your local
       time — plus links to past editions and their accepted papers. Community-maintained,
       so always confirm on the official workshop page.
     </p>

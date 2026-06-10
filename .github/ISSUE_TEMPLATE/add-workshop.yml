@@ -25,7 +25,7 @@ body:
     id: conference
     attributes:
       label: Conference
-      options: [icml, iclr, neurips]
+      options: [icml, iclr, neurips, icra, iros]
     validations:
       required: true
   - type: input

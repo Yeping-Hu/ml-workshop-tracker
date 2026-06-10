@@ -1,0 +1,302 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/RL4IL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:10:00.299Z",
+ "paper_count": 24,
+ "papers": [
+  {
+   "title": "Behavior Cloning of MPC for 3-DOF Robotic Manipulators",
+   "authors": [
+    "Theo Guegan",
+    "Wen Jie Dexter Teo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8lCdN3Nohz",
+   "pdf_url": "https://openreview.net/pdf?id=8lCdN3Nohz"
+  },
+  {
+   "title": "Beyond Imitation: Reinforcement Learning–Based Sim–Real Co-Training for VLA Models",
+   "authors": [
+    "Liangzhi Shi",
+    "Shuaihang Chen",
+    "Feng Gao",
+    "Yinuo Chen",
+    "Kang Chen",
+    "Tonghe Zhang",
+    "Hongzhi Zang",
+    "Weinan Zhang",
+    "Chao Yu",
+    "Yu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ot70zFU6FD",
+   "pdf_url": "https://openreview.net/pdf?id=ot70zFU6FD"
+  },
+  {
+   "title": "Can Agents Learn Safe Behavior From Non-Preferred Demonstrations?",
+   "authors": [
+    "Om Vivek Mahajan",
+    "Dhiran Venula",
+    "Shrinidi Kuppurajan",
+    "Returaj Burnwal",
+    "Nirav Pravinbhai Bhatt",
+    "Balaraman Ravindran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eo4i6HnPMG",
+   "pdf_url": "https://openreview.net/pdf?id=Eo4i6HnPMG"
+  },
+  {
+   "title": "Climb with SHERPA: Heuristic-Guided Reinforcement Learning via Segmented Experience Relay",
+   "authors": [
+    "Minji Kim",
+    "Ganghun Lee",
+    "Minsu Lee",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gphh5CIkO9",
+   "pdf_url": "https://openreview.net/pdf?id=gphh5CIkO9"
+  },
+  {
+   "title": "Coherent Off-Policy Improvement of Large Behaviour Models with Learned Rewards",
+   "authors": [
+    "Christian Scherer",
+    "Joe Watson",
+    "Daniel Palenicek",
+    "Theo Gruner",
+    "Ingmar Posner",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1iI7xnuB2b",
+   "pdf_url": "https://openreview.net/pdf?id=1iI7xnuB2b"
+  },
+  {
+   "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
+   "authors": [
+    "Mehmet Turan YARDIMCI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QTQk2HlCbs",
+   "pdf_url": "https://openreview.net/pdf?id=QTQk2HlCbs"
+  },
+  {
+   "title": "Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation",
+   "authors": [
+    "Huanyu Li",
+    "Kun LEI",
+    "Sheng Zang",
+    "Kaizhe Hu",
+    "Yongyuan Liang",
+    "Bo An",
+    "Xiaoli Li",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A2zdFaTeVL",
+   "pdf_url": "https://openreview.net/pdf?id=A2zdFaTeVL"
+  },
+  {
+   "title": "Graph-Based Reward Learning and Automatic Subtask Discovery for Long-Horizon Manipulation",
+   "authors": [
+    "Andrea Protopapa",
+    "Giuseppe Averta",
+    "Francesca Pistilli",
+    "Davide Buoso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OWuvoGJvCn",
+   "pdf_url": "https://openreview.net/pdf?id=OWuvoGJvCn"
+  },
+  {
+   "title": "Hi-CoLA: High Confidence Lower Bound Approximation Based Reinforcement Learning for Flex-Route Transit Operation Control",
+   "authors": [
+    "Qi Kang",
+    "Haris Koutsopoulos",
+    "Hongliang Guo",
+    "Jinhua Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K7ivxbDOF2",
+   "pdf_url": "https://openreview.net/pdf?id=K7ivxbDOF2"
+  },
+  {
+   "title": "Imitation from Videos: Monocular 3D Motion Estimation for Agile Quadruped Locomotion",
+   "authors": [
+    "Liu Zhao",
+    "Yuanhao Chen",
+    "Yidan Lu",
+    "Yunhui Liu",
+    "Peng Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ygUA5XWjvb",
+   "pdf_url": "https://openreview.net/pdf?id=ygUA5XWjvb"
+  },
+  {
+   "title": "KhGRL: Kernelized human-Guided Reinforcement Learning",
+   "authors": [
+    "Edoardo Fiorini",
+    "Abhishek Padalkar",
+    "Antonin Raffin",
+    "João Silvério"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z4OzT496sI",
+   "pdf_url": "https://openreview.net/pdf?id=z4OzT496sI"
+  },
+  {
+   "title": "Mini Diffuser: Accelerating Diffusion Policy Optimization via Two-Level Minibatching",
+   "authors": [
+    "Yutong Hu",
+    "Pinhao Song",
+    "Kehan Wen",
+    "Renaud Detry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aTgBDw1gOC",
+   "pdf_url": "https://openreview.net/pdf?id=aTgBDw1gOC"
+  },
+  {
+   "title": "Negative Energy as Reward: Optimizing Beyond Demonstrations in Offline Goal-Conditioned Control",
+   "authors": [
+    "Carlos Vélez-García",
+    "Miguel Cazorla",
+    "Jorge Pomares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r38GkjaxYh",
+   "pdf_url": "https://openreview.net/pdf?id=r38GkjaxYh"
+  },
+  {
+   "title": "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL",
+   "authors": [
+    "Julian Lemmel",
+    "Felix Resch",
+    "Mónika Farsang",
+    "Ramin Hasani",
+    "Daniela Rus",
+    "Radu Grosu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7pjngXtpeh",
+   "pdf_url": "https://openreview.net/pdf?id=7pjngXtpeh"
+  },
+  {
+   "title": "Online Planning with Offline Pretrained All-in-One World Model",
+   "authors": [
+    "Kehan Wen",
+    "Yutong Hu",
+    "Yao Mu",
+    "Lei Ke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1HEuTOjjhM",
+   "pdf_url": "https://openreview.net/pdf?id=1HEuTOjjhM"
+  },
+  {
+   "title": "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning",
+   "authors": [
+    "Zihan Zhou",
+    "Animesh Garg",
+    "Ajay Mandlekar",
+    "Caelan Reed Garrett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OhKdguKXBi",
+   "pdf_url": "https://openreview.net/pdf?id=OhKdguKXBi"
+  },
+  {
+   "title": "Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons",
+   "authors": [
+    "Anthony Liang",
+    "Yigit Korkmaz",
+    "Jiahui Zhang",
+    "Minyoung Hwang",
+    "Abrar Anwar",
+    "Sidhant Kaushik",
+    "Aditya Shah",
+    "Alex S Huang",
+    "Luke Zettlemoyer",
+    "Dieter Fox",
+    "Yu Xiang",
+    "Anqi Li",
+    "Andreea Bobu",
+    "Abhishek Gupta",
+    "Stephen Tu",
+    "Erdem Biyik",
+    "Jesse Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QdTsYLHOFv",
+   "pdf_url": "https://openreview.net/pdf?id=QdTsYLHOFv"
+  },
+  {
+   "title": "SERNF: Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows",
+   "authors": [
+    "Chenyu Yang",
+    "Denis Tarasov",
+    "Davide Liconti",
+    "Hehui Zheng",
+    "Robert K. Katzschmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=queYSZBEOs",
+   "pdf_url": "https://openreview.net/pdf?id=queYSZBEOs"
+  },
+  {
+   "title": "Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning",
+   "authors": [
+    "Jiaheng Hu",
+    "Jay Shim",
+    "Chen Tang",
+    "Yoonchang Sung",
+    "Bo Liu",
+    "Peter Stone",
+    "Roberto Martín-Martín"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PUn8fEsYa0",
+   "pdf_url": "https://openreview.net/pdf?id=PUn8fEsYa0"
+  },
+  {
+   "title": "Teacher-Student Representational Alignment for Reinforcement Learning-driven Imitation Learning",
+   "authors": [
+    "Meraj Mammadov",
+    "Pedro Zuidberg Dos Martires",
+    "Johannes A. Stork"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FKF1d65Qtf",
+   "pdf_url": "https://openreview.net/pdf?id=FKF1d65Qtf"
+  },
+  {
+   "title": "Tune to Learn: How Controller Gains Shape Robot Policy Learning",
+   "authors": [
+    "Antonia Bronars",
+    "Younghyo Park",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=12vR2yvGhK",
+   "pdf_url": "https://openreview.net/pdf?id=12vR2yvGhK"
+  },
+  {
+   "title": "Turning the Dial: Bridging Behavior Cloning and Reinforcement Learning via Timestep Modulation",
+   "authors": [
+    "Matthew M Hong",
+    "Jesse Zhang",
+    "Anusha Nagabandi",
+    "Abhishek Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fuySiHtsuo",
+   "pdf_url": "https://openreview.net/pdf?id=fuySiHtsuo"
+  },
+  {
+   "title": "Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic Agents",
+   "authors": [
+    "Angelo Moroncelli",
+    "Roberto Zanetti",
+    "Marco Maccarini",
+    "Loris Roveda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J9I5EQyL1h",
+   "pdf_url": "https://openreview.net/pdf?id=J9I5EQyL1h"
+  },
+  {
+   "title": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning",
+   "authors": [
+    "Lakshita Dodeja",
+    "Ondrej Biza",
+    "Shivam Vats",
+    "Stephen Hart",
+    "Stefanie Tellex",
+    "Robin Walters",
+    "Karl Schmeckpeper",
+    "Thomas Weng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vccSQSsxGx",
+   "pdf_url": "https://openreview.net/pdf?id=vccSQSsxGx"
+  }
+ ]
+}

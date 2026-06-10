@@ -1,7 +1,7 @@
 /** Site-wide constants. Override the repo URL with PUBLIC_REPO_URL in CI/.env. */
 export const SITE_NAME = 'ML Workshop Tracker';
 export const SITE_TAGLINE =
-  'Submission deadlines and accepted papers for ICML, ICLR, and NeurIPS workshops.';
+  'Workshop deadlines and accepted papers across major AI and robotics conferences.';
 export const REPO_URL =
   import.meta.env.PUBLIC_REPO_URL || 'https://github.com/Yeping-Hu/ml-workshop-tracker';
 

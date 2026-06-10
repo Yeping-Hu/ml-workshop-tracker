@@ -1,0 +1,389 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/Manipulation_Robustness",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:52.314Z",
+ "paper_count": 33,
+ "papers": [
+  {
+   "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation",
+   "authors": [
+    "Jiyun Jang",
+    "Yujin Sung",
+    "Woosung Joung",
+    "Daewon Chae",
+    "Sangwon Lee",
+    "Sohwi Kim",
+    "Jinkyu Kim",
+    "Jungbeom Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iy7E9mRsmm",
+   "pdf_url": "https://openreview.net/pdf?id=iy7E9mRsmm"
+  },
+  {
+   "title": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Aware Contact Representation",
+   "authors": [
+    "Jiahe Pan",
+    "Stelian Coros",
+    "Jitendra Malik",
+    "Toru Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FQfHxSEZ8y",
+   "pdf_url": "https://openreview.net/pdf?id=FQfHxSEZ8y"
+  },
+  {
+   "title": "Context-adaptive policy framework for robust and reactive robotic manipulation via uncertainty-aware imitation learning",
+   "authors": [
+    "Tim Robin Winter",
+    "Leonard Klüpfel",
+    "Ashok M. Sundaram",
+    "Werner Friedl",
+    "Maximo A. Roa",
+    "Freek Stulp",
+    "João Silvério"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ioODDC6WlG",
+   "pdf_url": "https://openreview.net/pdf?id=ioODDC6WlG"
+  },
+  {
+   "title": "Curvature Adaptable Robotic End-Effectors",
+   "authors": [
+    "Jhonatan Rincon",
+    "Juan C. Osorio",
+    "Andres F. Arrieta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FUd2N7mDmz",
+   "pdf_url": "https://openreview.net/pdf?id=FUd2N7mDmz"
+  },
+  {
+   "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation",
+   "authors": [
+    "Guanhua Ji",
+    "Tianyu Li",
+    "Dayoon Suh",
+    "Nadia Figueroa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=84DF4VyRSE",
+   "pdf_url": "https://openreview.net/pdf?id=84DF4VyRSE"
+  },
+  {
+   "title": "HANDLE: Robust Non-prehensile Liquid Manipulation in Cluttered, Human-centric Environments with Physical HRI",
+   "authors": [
+    "Yuhe Gong",
+    "junhui huang",
+    "Riddhiman Laha",
+    "Zewen Yang",
+    "Hao Xing",
+    "Ayse Kucukyilmaz",
+    "Seth Hutchinson",
+    "Luis Figueredo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qsaOodrfD2",
+   "pdf_url": "https://openreview.net/pdf?id=qsaOodrfD2"
+  },
+  {
+   "title": "IFG: Internet-Scale Guidance for Functional Grasping Generation",
+   "authors": [
+    "Muxin Liu",
+    "Mingxuan Li",
+    "Kenneth Shaw",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vFgFGRowGb",
+   "pdf_url": "https://openreview.net/pdf?id=vFgFGRowGb"
+  },
+  {
+   "title": "Instrumented Learning of Clothes Hanger Insertion",
+   "authors": [
+    "Remko Proesmans",
+    "Thomas Lips",
+    "Arnaud Wouters",
+    "Francis Wyffels"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ceoFywhDIW",
+   "pdf_url": "https://openreview.net/pdf?id=ceoFywhDIW"
+  },
+  {
+   "title": "Interaction Force Experiments for Force-Guided Assembly",
+   "authors": [
+    "Antonio Rosales",
+    "Janne Saukkoriipi",
+    "Samuli Soutukorva",
+    "Jukka Koskinen",
+    "Markku Suomalainen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O9BpKclSak",
+   "pdf_url": "https://openreview.net/pdf?id=O9BpKclSak"
+  },
+  {
+   "title": "Interactive Repair for Robust Generative Manipulation with Sparse Human Nudges",
+   "authors": [
+    "Edgar Welte",
+    "Yitian Shi",
+    "Rosa Wolf",
+    "Maximilian Gilles",
+    "Rania Rayyes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o03yCAI5T7",
+   "pdf_url": "https://openreview.net/pdf?id=o03yCAI5T7"
+  },
+  {
+   "title": "Learning Robot Manipulation from Audio World Models",
+   "authors": [
+    "Fan Zhang",
+    "Michael Gienger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z3DcbKdjom",
+   "pdf_url": "https://openreview.net/pdf?id=z3DcbKdjom"
+  },
+  {
+   "title": "Learning-Augmented Robotic Automation for Real-World Manufacturing",
+   "authors": [
+    "Yunho Kim",
+    "Quan Nguyen",
+    "Taewhan Kim",
+    "Youngjin Heo",
+    "Joonho Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EWCN2U8Gb3",
+   "pdf_url": "https://openreview.net/pdf?id=EWCN2U8Gb3"
+  },
+  {
+   "title": "Manipulation of Linear Deformable Objects with Non-Negligible Dynamics Grasped at Multiple Locations: A Stability-Guaranteed Approach",
+   "authors": [
+    "Daniel Feliu-Talegon",
+    "Cosimo Della Santina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xbcgiHlQok",
+   "pdf_url": "https://openreview.net/pdf?id=xbcgiHlQok"
+  },
+  {
+   "title": "NeuralTouch: Leveraging Implicit Neural Descriptor for Precise Sim-to-Real Tactile Robot Control",
+   "authors": [
+    "Yijiong Lin",
+    "chenghua lu",
+    "Max Yang",
+    "Efi Psomopoulou",
+    "Nathan F. Lepora"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kIy7nVXCs2",
+   "pdf_url": "https://openreview.net/pdf?id=kIy7nVXCs2"
+  },
+  {
+   "title": "On the Generalization Capabilities, Design Choices and Limitations of Keypoint Imitation Learning",
+   "authors": [
+    "Thomas Lips",
+    "Marco Moletta",
+    "Michael C. Welle",
+    "Danica Kragic",
+    "Francis Wyffels"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6KfhNfLzJ5",
+   "pdf_url": "https://openreview.net/pdf?id=6KfhNfLzJ5"
+  },
+  {
+   "title": "PhaForce: Phase-Scheduled Visual–Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation",
+   "authors": [
+    "Mingxin Wang",
+    "Zhirun Yue",
+    "Houde Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jevjzjCPrH",
+   "pdf_url": "https://openreview.net/pdf?id=jevjzjCPrH"
+  },
+  {
+   "title": "Real-IKEA: Why Physical Fidelity is the Prerequisite for Robust Manipulation",
+   "authors": [
+    "Kunqi Xu",
+    "Zhenhao Huang",
+    "Siyuan Luo",
+    "Ziqiu Zeng",
+    "Fan Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vshq1oIcqX",
+   "pdf_url": "https://openreview.net/pdf?id=vshq1oIcqX"
+  },
+  {
+   "title": "Rethinking Exploration Through Context for RL",
+   "authors": [
+    "Sunshine Jiang",
+    "Zhang-Wei Hong",
+    "John Marangola",
+    "Nitish Dashora",
+    "Richard Li",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iu0CsIBrcK",
+   "pdf_url": "https://openreview.net/pdf?id=iu0CsIBrcK"
+  },
+  {
+   "title": "Robust Control of Robotic Manipulator with Prescribed Spatio-temporal and Input constraints",
+   "authors": [
+    "Chidre Shravista Kashyap",
+    "Pushpak Jagtap",
+    "Jishnu Keshavan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WUknWUXqhS",
+   "pdf_url": "https://openreview.net/pdf?id=WUknWUXqhS"
+  },
+  {
+   "title": "Robust Decoupled Motion and Stiffness Control for a Class of Variable-Stiffness Soft Manipulators",
+   "authors": [
+    "Maja Trumic",
+    "Franco Angelini",
+    "Kosta Jovanovic",
+    "Adriano Fagiolini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jiC6ICY7WZ",
+   "pdf_url": "https://openreview.net/pdf?id=jiC6ICY7WZ"
+  },
+  {
+   "title": "Robust Placeability Estimation for Model-Free Unified Pick-and-Place Reasoning",
+   "authors": [
+    "Benno Wingender",
+    "Nils Dengler",
+    "Rohit Menon",
+    "Sicong Pan",
+    "Maren Bennewitz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fcr2ug3kTh",
+   "pdf_url": "https://openreview.net/pdf?id=fcr2ug3kTh"
+  },
+  {
+   "title": "Robust Pose Estimation through Failure Explanation and Mitigation",
+   "authors": [
+    "Loris Schneider",
+    "Yitian Shi",
+    "Rosa Wolf",
+    "Carolin Brenner",
+    "Rudolph Triebel",
+    "Rania Rayyes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gfvVE7ywwh",
+   "pdf_url": "https://openreview.net/pdf?id=gfvVE7ywwh"
+  },
+  {
+   "title": "Sample-Efficient and Statistically Rigorous Policy Comparison Using General Robot Performance Measures",
+   "authors": [
+    "David Snyder",
+    "Apurva Badithela",
+    "Nikolai Matni",
+    "George J. Pappas",
+    "Anirudha Majumdar",
+    "Masha Itkina",
+    "Haruki Nishimura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XP7w8y5Vry",
+   "pdf_url": "https://openreview.net/pdf?id=XP7w8y5Vry"
+  },
+  {
+   "title": "Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning",
+   "authors": [
+    "Rickmer Krohn",
+    "Vignesh Prasad",
+    "Gabriele Tiboni",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gtzySvJSDW",
+   "pdf_url": "https://openreview.net/pdf?id=gtzySvJSDW"
+  },
+  {
+   "title": "SoundAct: Learning Spatial Sound Awareness for Egocentric Robot Manipulation with Stereo Audio",
+   "authors": [
+    "Junsu Kim",
+    "Kyungdon Joo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ia1lDHwoR5",
+   "pdf_url": "https://openreview.net/pdf?id=Ia1lDHwoR5"
+  },
+  {
+   "title": "SQ-CBF: Signed Distance Functions for Numerically Stable Superquadric-Based Safety Filtering",
+   "authors": [
+    "Haocheng Zhao",
+    "Lukas Brunke",
+    "Oliver Lagerquist",
+    "SiQi Zhou",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sT0Ba8Dej2",
+   "pdf_url": "https://openreview.net/pdf?id=sT0Ba8Dej2"
+  },
+  {
+   "title": "Stereo-Based Vision and Tactile Sensing for Robust Dual-Arm Robotic Connector Assembly",
+   "authors": [
+    "Michele Mirto",
+    "Alessio Caporali",
+    "Salvatore Pirozzi",
+    "Gianluca Palli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8nY6A4mrZp",
+   "pdf_url": "https://openreview.net/pdf?id=8nY6A4mrZp"
+  },
+  {
+   "title": "Synergistic Push, Grasp and Active Vision with Evidential Learning for Manipulation-Enhanced Mapping in Confined Environments",
+   "authors": [
+    "Yitian Shi",
+    "Nils Dengler",
+    "Jesper Mücke",
+    "Sicong Pan",
+    "Rania Rayyes",
+    "Maren Bennewitz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aoPj2TigOD",
+   "pdf_url": "https://openreview.net/pdf?id=aoPj2TigOD"
+  },
+  {
+   "title": "Systematic Evaluation of Modular Robotic Manipulation Policies via Structured Condition Space: A Study on Precision Pick-and-Place Tasks",
+   "authors": [
+    "Yi-Ting Liu",
+    "Yi-Ting Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n71n39HPuk",
+   "pdf_url": "https://openreview.net/pdf?id=n71n39HPuk"
+  },
+  {
+   "title": "Toward Gripper-Integrated Active Electrosense for Pre-Contact Sensing in Underwater Soft Grippers",
+   "authors": [
+    "Ahsan Tanveer",
+    "Muhammad Hamza",
+    "Waqar Hussain Afridi",
+    "Chen Wang",
+    "Guangming Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rdWW5xPrhN",
+   "pdf_url": "https://openreview.net/pdf?id=rdWW5xPrhN"
+  },
+  {
+   "title": "Tune to Learn: How Controller Gains Shape Robot Policy Learning",
+   "authors": [
+    "Antonia Bronars",
+    "Younghyo Park",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jWl03w0NfH",
+   "pdf_url": "https://openreview.net/pdf?id=jWl03w0NfH"
+  },
+  {
+   "title": "Viewpoint-Agnostic Grasp Pipeline using VLM and Partial Observations",
+   "authors": [
+    "Ricardo V. Godoy",
+    "Dilermando Almeida",
+    "Guilherme Lazzarini",
+    "Juliano D. Negri",
+    "Thiago Henrique Segreto Silva",
+    "Ranulfo Bezerra",
+    "Gustavo J. G. Lahr",
+    "MARCELO BECKER"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cvY21dh6QT",
+   "pdf_url": "https://openreview.net/pdf?id=cvY21dh6QT"
+  },
+  {
+   "title": "VSL-Skin: Voxel-Level Variable Stiffness for Predictable Deformation and Robust Manipulation Control",
+   "authors": [
+    "Zihan Oliver Zeng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SmWkYiVzYB",
+   "pdf_url": "https://openreview.net/pdf?id=SmWkYiVzYB"
+  }
+ ]
+}

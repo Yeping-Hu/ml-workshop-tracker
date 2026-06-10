@@ -19,15 +19,21 @@ import yaml from 'js-yaml';
 import { WORKSHOPS_DIR, listWorkshopFiles, readWorkshopFile } from '../lib/workshops.mjs';
 
 const UA = 'ml-workshop-tracker/1.0 (open-source workshop aggregator; github)';
-const CONF_PREFIX = { icml: 'ICML.cc', iclr: 'ICLR.cc', neurips: 'NeurIPS.cc' };
+const CONF_TEMPLATE = {
+  icml: 'ICML.cc/{year}/Workshop',
+  iclr: 'ICLR.cc/{year}/Workshop',
+  neurips: 'NeurIPS.cc/{year}/Workshop',
+  icra: 'IEEE.org/ICRA/{year}/Workshop',
+  iros: 'IEEE.org/IROS/{year}/Workshop',
+};
 
 const args = process.argv.slice(2);
 const getArg = (name) => (args.includes(name) ? args[args.indexOf(name) + 1] : null);
 const conf = getArg('--conf');
 const year = Number(getArg('--year'));
 const dryRun = args.includes('--dry-run');
-if (!CONF_PREFIX[conf] || !Number.isInteger(year)) {
-  console.error('Usage: node scripts/discover_openreview.mjs --conf <icml|iclr|neurips> --year <YYYY> [--dry-run]');
+if (!CONF_TEMPLATE[conf] || !Number.isInteger(year)) {
+  console.error(`Usage: node scripts/discover_openreview.mjs --conf <${Object.keys(CONF_TEMPLATE).join('|')}> --year <YYYY> [--dry-run]`);
   process.exit(1);
 }
 
@@ -120,14 +126,14 @@ const slugify = (s) =>
   String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40) || 'workshop';
 
 async function main() {
-  const prefix = `${CONF_PREFIX[conf]}/${year}/Workshop`;
+  const prefix = CONF_TEMPLATE[conf].replace('{year}', String(year));
   const res = await fetch(
     `https://api2.openreview.net/groups?prefix=${encodeURIComponent(prefix + '/')}&limit=1000`,
     { headers: { 'User-Agent': UA, Accept: 'application/json' } },
   );
   if (!res.ok) throw new Error(`OpenReview HTTP ${res.status}`);
   const { groups = [] } = await res.json();
-  const topRe = new RegExp(`^${CONF_PREFIX[conf].replace('.', '\\.')}/${year}/Workshop/[^/]+$`);
+  const topRe = new RegExp(`^${prefix.replaceAll('.', '\\.')}/[^/]+$`);
   const venues = groups.filter((g) => topRe.test(g.id));
 
   const known = new Map(); // venue_id -> { path, raw }

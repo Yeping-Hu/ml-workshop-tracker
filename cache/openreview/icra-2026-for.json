@@ -1,0 +1,490 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/FOR",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:47.747Z",
+ "paper_count": 45,
+ "papers": [
+  {
+   "title": "A Framework for Combining Optimization-Based and Analytic Inverse Kinematics",
+   "authors": [
+    "Thomas Cohn",
+    "Lihan Tang",
+    "Alexandre Amice",
+    "Russ Tedrake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jtvnY3hznx",
+   "pdf_url": "https://openreview.net/pdf?id=jtvnY3hznx"
+  },
+  {
+   "title": "A Generalized Theorem of the Alternative for Certifiable Optimization with Redundant Constraints",
+   "authors": [
+    "Hanna Jiamei Zhang",
+    "Alan Papalia",
+    "Michael Everett",
+    "David M. Rosen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kp1BbGAbCG",
+   "pdf_url": "https://openreview.net/pdf?id=Kp1BbGAbCG"
+  },
+  {
+   "title": "A Novel Family of Zero-Order Optimization Algorithms derived by the Bayesian Learning Rule",
+   "authors": [
+    "Sebastian Sanokowski",
+    "Xudong Sun",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qDVEZswNQm",
+   "pdf_url": "https://openreview.net/pdf?id=qDVEZswNQm"
+  },
+  {
+   "title": "Accelerating Diffusion Models for Adaptive Motion Planning in Dynamic Environments",
+   "authors": [
+    "Matthias Van Eysendeyk",
+    "Edward Sandra",
+    "Dries Dirckx",
+    "Wilm Decré"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9iaWMZgCBq",
+   "pdf_url": "https://openreview.net/pdf?id=9iaWMZgCBq"
+  },
+  {
+   "title": "Adversarial Physics-Informed Learning for Robust Optimal Safe Control in Time-Critical Environments: A Game-Theoretic Approach",
+   "authors": [
+    "Nick-Marios Kokolakis",
+    "Jerome Darbon",
+    "Rahul Mangharam",
+    "George Em Karniadakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D4CoDpu5AQ",
+   "pdf_url": "https://openreview.net/pdf?id=D4CoDpu5AQ"
+  },
+  {
+   "title": "An introduction to zero-order optimization techniques for robotics",
+   "authors": [
+    "Armand Jordana",
+    "Jianghan Zhang",
+    "Joseph Amigo",
+    "Ludovic Righetti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wjG9F8ft3h",
+   "pdf_url": "https://openreview.net/pdf?id=wjG9F8ft3h"
+  },
+  {
+   "title": "Analytical Integral Global Trajectory Optimization with Contact Dynamics",
+   "authors": [
+    "Davide De Martini",
+    "Majid Khadiv",
+    "Andrea Del Prete"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G1u3OtpTQM",
+   "pdf_url": "https://openreview.net/pdf?id=G1u3OtpTQM"
+  },
+  {
+   "title": "Biconvex Optimization for Smooth Minimum-Time Trajectories around Convex Obstacles",
+   "authors": [
+    "Peter Werner",
+    "Tobia Marcucci",
+    "Daniela Rus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=478wOMrxTP",
+   "pdf_url": "https://openreview.net/pdf?id=478wOMrxTP"
+  },
+  {
+   "title": "CCosmo: A Conic First-Order Solver",
+   "authors": [
+    "Alexandre Amice",
+    "Bernhard Paus Graesdal",
+    "Paulo H. S. Silva",
+    "Pablo A. Parrilo",
+    "Russ Tedrake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G81ClpWiPQ",
+   "pdf_url": "https://openreview.net/pdf?id=G81ClpWiPQ"
+  },
+  {
+   "title": "Certifiable Factor Graph Optimization",
+   "authors": [
+    "Zhexin Xu",
+    "Nikolas R. Sanderson",
+    "Hanna Jiamei Zhang",
+    "David M. Rosen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hAtI0KkdAg",
+   "pdf_url": "https://openreview.net/pdf?id=hAtI0KkdAg"
+  },
+  {
+   "title": "CMC-Opt: Constraint Manifold with Corners for Inequality-Constrained Optimization",
+   "authors": [
+    "Yetong Zhang",
+    "Frank Dellaert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TAeD3zb8w2",
+   "pdf_url": "https://openreview.net/pdf?id=TAeD3zb8w2"
+  },
+  {
+   "title": "Complementarity by Construction: A Lie-Group Approach to Solving Quadratic Programs with Linear Complementarity Constraints",
+   "authors": [
+    "Arun L Bishop",
+    "Micah Reich",
+    "Zac Manchester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5C0v1QxXqk",
+   "pdf_url": "https://openreview.net/pdf?id=5C0v1QxXqk"
+  },
+  {
+   "title": "Concerning optimization parameters and preferences",
+   "authors": [
+    "Nils Wilde",
+    "Dylan A. Shell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wc4ThLnBLm",
+   "pdf_url": "https://openreview.net/pdf?id=wc4ThLnBLm"
+  },
+  {
+   "title": "Consensus-based Optimization (CBO) for trajectory optimization in Robotics",
+   "authors": [
+    "Xudong Sun",
+    "Armand Jordana",
+    "Massimo Fornasier",
+    "Jalal Etesami",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=90iHKRuXYF",
+   "pdf_url": "https://openreview.net/pdf?id=90iHKRuXYF"
+  },
+  {
+   "title": "Continuous Trajectory Optimization in Non-convex Environments: A Local ADMM Solver for Graphs of Convex Sets",
+   "authors": [
+    "Lukas Pries",
+    "Jon Arrizabalaga",
+    "Zac Manchester",
+    "Markus Ryll"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5687GmpMNE",
+   "pdf_url": "https://openreview.net/pdf?id=5687GmpMNE"
+  },
+  {
+   "title": "Convergence Analysis of ADMM for Multi-Affine Trajectory Optimization",
+   "authors": [
+    "Yutong Chao",
+    "Michal Ciebielski",
+    "Jalal Etesami",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=epVXpWcGfC",
+   "pdf_url": "https://openreview.net/pdf?id=epVXpWcGfC"
+  },
+  {
+   "title": "Differentiable and Constrained Model Predictive Control on the GPU",
+   "authors": [
+    "Gabriel Fernando Bravo Palacios",
+    "Jianghan Zhang",
+    "Brian Plancher",
+    "Thomas Lew"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u8hZkTX5rs",
+   "pdf_url": "https://openreview.net/pdf?id=u8hZkTX5rs"
+  },
+  {
+   "title": "End-to-End Hardware-Algorithm Co-Design for High-Rate FPGA-Accelerated Model Predictive Control on Tiny Drones",
+   "authors": [
+    "Andrea Grillo",
+    "Brian Plancher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rWyuDxXkeE",
+   "pdf_url": "https://openreview.net/pdf?id=rWyuDxXkeE"
+  },
+  {
+   "title": "Exploiting Chordal Sparsity for Globally Optimal Estimation with Factor Graphs",
+   "authors": [
+    "Avinash Subramanian",
+    "Connor Holmes",
+    "Timothy Barfoot",
+    "Frank Dellaert",
+    "Frederike Dümbgen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AS0HnZTaeL",
+   "pdf_url": "https://openreview.net/pdf?id=AS0HnZTaeL"
+  },
+  {
+   "title": "FBGA: Fast and Flexible Velocity Planning for Time-Optimal Maneuvers",
+   "authors": [
+    "Mattia Piazza",
+    "Mattia Piccinini",
+    "Sebastiano Taddei",
+    "Francesco Biral",
+    "Enrico Bertolazzi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X8gGn57d65",
+   "pdf_url": "https://openreview.net/pdf?id=X8gGn57d65"
+  },
+  {
+   "title": "Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization",
+   "authors": [
+    "Simon Idoko",
+    "Arun Kumar Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dg0hmfYz2t",
+   "pdf_url": "https://openreview.net/pdf?id=Dg0hmfYz2t"
+  },
+  {
+   "title": "frax: Fast Robot Kinematics and Dynamics in JAX",
+   "authors": [
+    "Daniel Morton",
+    "Marco Pavone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nbeMrzOptR",
+   "pdf_url": "https://openreview.net/pdf?id=nbeMrzOptR"
+  },
+  {
+   "title": "Frictional Contact-Implicit Inverse Dynamics via Complementarity-Constrained Optimization",
+   "authors": [
+    "Pierre Fabre",
+    "Etienne Ménager",
+    "Antoine Bambade",
+    "Wilson Jallet",
+    "Alberto De Marchi",
+    "Justin Carpentier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=99tSSG0siz",
+   "pdf_url": "https://openreview.net/pdf?id=99tSSG0siz"
+  },
+  {
+   "title": "Global Solvers for 3D Vision: Foundations, Frontiers, and a Call to the Robotics Community",
+   "authors": [
+    "Zhenjun Zhao",
+    "Javier Civera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D1bVYYUh8m",
+   "pdf_url": "https://openreview.net/pdf?id=D1bVYYUh8m"
+  },
+  {
+   "title": "Guided Flow Policy: Workshop Version",
+   "authors": [
+    "Franki NGUIMATSIA TIOFACK",
+    "Théotime Le Hellard",
+    "Fabian Schramm",
+    "Nicolas Perrin-Gilbert",
+    "Justin Carpentier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9dckSqZcJG",
+   "pdf_url": "https://openreview.net/pdf?id=9dckSqZcJG"
+  },
+  {
+   "title": "Implicit Primal-Dual Interior-Point Methods for Quadratic Programming",
+   "authors": [
+    "Jon Arrizabalaga",
+    "Zac Manchester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cRzGNbEVMq",
+   "pdf_url": "https://openreview.net/pdf?id=cRzGNbEVMq"
+  },
+  {
+   "title": "Infeasible optimization problems and the hierarchical augmented Lagrangian method in imitation learning",
+   "authors": [
+    "Roland Andrews",
+    "Justin Carpentier",
+    "Ajay Suresha Sathya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iVYUfraucl",
+   "pdf_url": "https://openreview.net/pdf?id=iVYUfraucl"
+  },
+  {
+   "title": "Integrating Gradient-Based MPC and Control Barrier Functions for Safe and Performant Control",
+   "authors": [
+    "Aditya Singh",
+    "Aastha Mishra",
+    "Manan Tayal",
+    "Shishir Kolathaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZB2tsjIxZ",
+   "pdf_url": "https://openreview.net/pdf?id=pZB2tsjIxZ"
+  },
+  {
+   "title": "Learning Legged MPC with Smooth Neural Surrogates",
+   "authors": [
+    "Samuel A. Moore",
+    "Easop Lee",
+    "Boyuan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRP1ILNIrX",
+   "pdf_url": "https://openreview.net/pdf?id=oRP1ILNIrX"
+  },
+  {
+   "title": "Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation",
+   "authors": [
+    "Jiahe Pan",
+    "Jiaxu Xing",
+    "Rudolf Reiter",
+    "Yifan Zhai",
+    "Elie Aljalbout",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LOyBAXSduw",
+   "pdf_url": "https://openreview.net/pdf?id=LOyBAXSduw"
+  },
+  {
+   "title": "Learning What Matters: Task Tailored Dynamics Models through Differentiable MPC.",
+   "authors": [
+    "Jan Węgrzynowski",
+    "Grzegorz Czechmanowski",
+    "Piotr Kicki",
+    "Krzysztof Walas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QhrxhlTuPt",
+   "pdf_url": "https://openreview.net/pdf?id=QhrxhlTuPt"
+  },
+  {
+   "title": "Low-Degree Implied Equalities for Strengthening Semidefinite Relaxations",
+   "authors": [
+    "Alexandre Amice",
+    "Bernhard Paus Graesdal",
+    "Russ Tedrake",
+    "Pablo A. Parrilo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SYsWOHYCx0",
+   "pdf_url": "https://openreview.net/pdf?id=SYsWOHYCx0"
+  },
+  {
+   "title": "MPX: Model Predictive Control in JAX",
+   "authors": [
+    "Lorenzo Amatucci",
+    "Giulio Turrisi",
+    "Victor Barasuol",
+    "Claudio Semini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=grAZBtvQJB",
+   "pdf_url": "https://openreview.net/pdf?id=grAZBtvQJB"
+  },
+  {
+   "title": "pAORRTC: GPU-Parallel Almost-Surely Asymptotically Optimal Planning",
+   "authors": [
+    "Chih H. Huang",
+    "Brian Plancher",
+    "Zachary Kingston"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CNzM4vPY0H",
+   "pdf_url": "https://openreview.net/pdf?id=CNzM4vPY0H"
+  },
+  {
+   "title": "Parallel Structure-Exploiting Multistage Optimization in PIQP",
+   "authors": [
+    "Fenglong Song",
+    "Roland Schwan",
+    "Yuwen Chen",
+    "Colin Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p8mJ3I0PSW",
+   "pdf_url": "https://openreview.net/pdf?id=p8mJ3I0PSW"
+  },
+  {
+   "title": "Physics-Informed Convex MPC for Real-Time Locomotion of a Tendon-Driven Soft Quadruped",
+   "authors": [
+    "Saumya Karan",
+    "Neerav Maram",
+    "Suraj Borate",
+    "Madhu Vadali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dU1UZfg5yG",
+   "pdf_url": "https://openreview.net/pdf?id=dU1UZfg5yG"
+  },
+  {
+   "title": "Real-World Deployment of Massively Parallel Sampling-Based MPC for Contact-Rich Manipulation",
+   "authors": [
+    "Magnus Dierking",
+    "Joao Carvalho",
+    "An Thai Le",
+    "Georgia Chalvatzaki",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0KFJunxC8I",
+   "pdf_url": "https://openreview.net/pdf?id=0KFJunxC8I"
+  },
+  {
+   "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
+   "authors": [
+    "Franek Stark",
+    "Felix Wiebe",
+    "Shubham Vyas",
+    "Dennis Mronga",
+    "Frank Kirchner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UiA6XLlXVS",
+   "pdf_url": "https://openreview.net/pdf?id=UiA6XLlXVS"
+  },
+  {
+   "title": "SBAMP: Sampling Based Adaptive Motion Planning",
+   "authors": [
+    "Shreyas Raorane",
+    "Kabir Ram Puri",
+    "Anh-Quan Pham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7CiuqF99ue",
+   "pdf_url": "https://openreview.net/pdf?id=7CiuqF99ue"
+  },
+  {
+   "title": "SBTO: Sampling-Based Trajectory Optimization for Dynamically-Feasible Retargeting",
+   "authors": [
+    "Victor Dhédin",
+    "Ilyass Taouil",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dhLmAfK3ib",
+   "pdf_url": "https://openreview.net/pdf?id=dhLmAfK3ib"
+  },
+  {
+   "title": "Sum of Costs Diffusion with Dynamic Guidance for Motion Planning",
+   "authors": [
+    "Aysu Aylin Kaplan",
+    "Ozgur Erkent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fjw8gOd9vn",
+   "pdf_url": "https://openreview.net/pdf?id=fjw8gOd9vn"
+  },
+  {
+   "title": "Tightening Mixed-Integer Convex Relaxations for Efficient Temporal Logic Motion Planning via Logic Network Flow",
+   "authors": [
+    "Xuan Lin",
+    "Jiming Ren",
+    "Yandong Luo",
+    "Weijun Xie",
+    "Ye Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GO890Hiwc2",
+   "pdf_url": "https://openreview.net/pdf?id=GO890Hiwc2"
+  },
+  {
+   "title": "Time-Varying Optimization for the Control of Differentially Flat Systems With Input Constraints",
+   "authors": [
+    "Adam W. Hall",
+    "John W. Simpson-Porco",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RY0MU0ZF3y",
+   "pdf_url": "https://openreview.net/pdf?id=RY0MU0ZF3y"
+  },
+  {
+   "title": "Towards a Suite of Smoothing-Based Local Solvers for Contact-Rich Trajectory Optimization",
+   "authors": [
+    "Ajinkya Bhole",
+    "Mohammad Mahmoudi Filabadi",
+    "Guillaume Crevecoeur",
+    "Tom Lefebvre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qW0ecz6ByC",
+   "pdf_url": "https://openreview.net/pdf?id=qW0ecz6ByC"
+  },
+  {
+   "title": "Variance-Reduced MPPI: Workshop Version",
+   "authors": [
+    "Fabian Schramm",
+    "Franki NGUIMATSIA TIOFACK",
+    "Nicolas Perrin-Gilbert",
+    "Marc Toussaint",
+    "Justin Carpentier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eb9gGzUaKP",
+   "pdf_url": "https://openreview.net/pdf?id=Eb9gGzUaKP"
+  }
+ ]
+}

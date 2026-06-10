@@ -20,3 +20,17 @@
   website: "https://neurips.cc"
   workshop_list_url_pattern: "https://neurips.cc/Conferences/{year}/Schedule?type=Workshop"
   color: "#6D28D9"
+- id: icra
+  name: "ICRA"
+  full_name: "IEEE International Conference on Robotics and Automation"
+  website: "https://www.ieee-ras.org"
+  workshop_list_url_pattern: "https://{year}.ieee-icra.org/"
+  color: "#BE123C"
+  typical_month: 6
+- id: iros
+  name: "IROS"
+  full_name: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+  website: "https://www.ieee-ras.org"
+  workshop_list_url_pattern: "https://www.ieee-ras.org"
+  color: "#4D7C0F"
+  typical_month: 10

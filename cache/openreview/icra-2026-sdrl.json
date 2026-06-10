@@ -1,0 +1,256 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/SDRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:10:08.165Z",
+ "paper_count": 18,
+ "papers": [
+  {
+   "title": "Breaking the 3D Dataset Bottleneck: Fast Scalable Generation of Aligned 3D Assets from Scratch  for Category 6D Pose Estimation and Robotic Grasping",
+   "authors": [
+    "Guillaume Duret",
+    "Danylo Mazurak",
+    "Florence Zara",
+    "Liming Chen",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TK1vl1h73e",
+   "pdf_url": "https://openreview.net/pdf?id=TK1vl1h73e"
+  },
+  {
+   "title": "CRAFT: Video Diffusion for Bimanual Robot Data Generation",
+   "authors": [
+    "Jason Chen",
+    "I-Chun Arthur Liu",
+    "Gaurav S. Sukhatme",
+    "Daniel Seita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VG51CmOJXl",
+   "pdf_url": "https://openreview.net/pdf?id=VG51CmOJXl"
+  },
+  {
+   "title": "Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight",
+   "authors": [
+    "Angel Romero",
+    "Ashwin Shenai",
+    "Ismail Geles",
+    "Elie Aljalbout",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T9JTzEf8zX",
+   "pdf_url": "https://openreview.net/pdf?id=T9JTzEf8zX"
+  },
+  {
+   "title": "Emergent Dexterity Via Diverse Resets and Large-Scale Reinforcement Learning",
+   "authors": [
+    "Patrick Yin",
+    "Tyler Westenbroek",
+    "Zhengyu Zhang",
+    "Joshua Tran",
+    "Ignacio Dagnino",
+    "Eeshani Shilamkar",
+    "Numfor Mbiziwo-Tiapo",
+    "Simran Bagaria",
+    "Xinlei Liu",
+    "Galen Mullins",
+    "Andrey Kolobov",
+    "Abhishek Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0j9090AYWl",
+   "pdf_url": "https://openreview.net/pdf?id=0j9090AYWl"
+  },
+  {
+   "title": "FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes",
+   "authors": [
+    "Siyuan Luo",
+    "Bingyang Zhou",
+    "Xin Liu",
+    "Zhenhao Huang",
+    "Gang Yang",
+    "Jason Pho",
+    "Ziqiu Zeng",
+    "Fan Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fUeM1XRjkR",
+   "pdf_url": "https://openreview.net/pdf?id=fUeM1XRjkR"
+  },
+  {
+   "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation",
+   "authors": [
+    "Kevin Lin",
+    "Ajay Mandlekar",
+    "Caelan Reed Garrett",
+    "Nikita Chernyadev",
+    "Yu Fang",
+    "Runyu Ding",
+    "Yuqi Xie",
+    "Linxi Fan",
+    "Yuke Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ekzk7TSLKr",
+   "pdf_url": "https://openreview.net/pdf?id=ekzk7TSLKr"
+  },
+  {
+   "title": "IFG: Internet-Scale Guidance for Functional Grasping Generation",
+   "authors": [
+    "Muxin Liu",
+    "Mingxuan Li",
+    "Kenneth Shaw",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RR5g7t88w8",
+   "pdf_url": "https://openreview.net/pdf?id=RR5g7t88w8"
+  },
+  {
+   "title": "Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands",
+   "authors": [
+    "Yunshuang Li",
+    "Yiyang Ling",
+    "Gaurav S. Sukhatme",
+    "Daniel Seita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JmjczOYHa1",
+   "pdf_url": "https://openreview.net/pdf?id=JmjczOYHa1"
+  },
+  {
+   "title": "Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation",
+   "authors": [
+    "Jiahe Pan",
+    "Jiaxu Xing",
+    "Rudolf Reiter",
+    "Yifan Zhai",
+    "Elie Aljalbout",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=whGqiuV3Vv",
+   "pdf_url": "https://openreview.net/pdf?id=whGqiuV3Vv"
+  },
+  {
+   "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation",
+   "authors": [
+    "Abhay Deshpande",
+    "Maya Guru",
+    "Rose Hendrix",
+    "Snehal Jauhri",
+    "Ainaz Eftekhar",
+    "Rohun Tripathi",
+    "Max Argus",
+    "Jordi Salvador",
+    "Haoquan Fang",
+    "Matthew Wallingford",
+    "Wilbert Pumacay",
+    "Yejin Kim",
+    "Quinn Pfeifer",
+    "Ying-Chun Lee",
+    "Piper Wolters",
+    "Omar Rayyan",
+    "Mingtong Zhang",
+    "Jiafei Duan",
+    "Karen Farley",
+    "Winson Han",
+    "Eli VanderBilt",
+    "Dieter Fox",
+    "Ali Farhadi",
+    "Georgia Chalvatzaki",
+    "Dhruv Shah",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xDRBHRaI3j",
+   "pdf_url": "https://openreview.net/pdf?id=xDRBHRaI3j"
+  },
+  {
+   "title": "Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models",
+   "authors": [
+    "Ilyass Taouil",
+    "Haizhou Zhao",
+    "Angela Dai",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SApf4ZsYJO",
+   "pdf_url": "https://openreview.net/pdf?id=SApf4ZsYJO"
+  },
+  {
+   "title": "Point Bridge: 3D Representations for Cross Domain Policy Learning",
+   "authors": [
+    "Siddhant Haldar",
+    "Lars Johannsmeier",
+    "Lerrel Pinto",
+    "Abhishek Gupta",
+    "Dieter Fox",
+    "Yashraj Narang",
+    "Ajay Mandlekar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=34dV68QshF",
+   "pdf_url": "https://openreview.net/pdf?id=34dV68QshF"
+  },
+  {
+   "title": "RF-DROPO: Data-Efficient Adaptive Domain Randomization for Zero-Shot Sim-to-Real Transfer in Soft Robotics",
+   "authors": [
+    "Andrea Protopapa",
+    "Gabriele Tiboni",
+    "Tatiana Tommasi",
+    "Raffaello Camoriano",
+    "Christian Duriez",
+    "Giuseppe Averta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XTHcknsSKy",
+   "pdf_url": "https://openreview.net/pdf?id=XTHcknsSKy"
+  },
+  {
+   "title": "SplineTM: B-Spline Tire Modeling for Autonomous Racing",
+   "authors": [
+    "Piotr Kicki",
+    "Jan Węgrzynowski",
+    "Grzegorz Czechmanowski",
+    "Krzysztof Walas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uxd6G0H7s2",
+   "pdf_url": "https://openreview.net/pdf?id=uxd6G0H7s2"
+  },
+  {
+   "title": "Swim2Real: VLM-Guided System Identification for Sim-to-Real Transfer",
+   "authors": [
+    "Kevin Qiu",
+    "Kyle L. Walker",
+    "Mike Yan Michelis",
+    "Marek Cygan",
+    "Josie Hughes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Iawae6xm7Z",
+   "pdf_url": "https://openreview.net/pdf?id=Iawae6xm7Z"
+  },
+  {
+   "title": "SynthLA: Synthetic Language--Action Policies for Zero-shot Real-world Manipulation via Structured Perception",
+   "authors": [
+    "Marco Maccarini",
+    "Angelo Moroncelli",
+    "Asad Ali Shahid",
+    "Samuele Mara",
+    "Mirko Nava",
+    "Loris Roveda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e9eSd4mNBS",
+   "pdf_url": "https://openreview.net/pdf?id=e9eSd4mNBS"
+  },
+  {
+   "title": "Vid2Sid: Videos Can Help Close the Sim2Real Gap",
+   "authors": [
+    "Kevin Qiu",
+    "Yu Zhang",
+    "Marek Cygan",
+    "Josie Hughes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WYpI04eTJh",
+   "pdf_url": "https://openreview.net/pdf?id=WYpI04eTJh"
+  },
+  {
+   "title": "Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers",
+   "authors": [
+    "Snehal Jauhri",
+    "Vignesh Prasad",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vzvQqDAzRl",
+   "pdf_url": "https://openreview.net/pdf?id=vzvQqDAzRl"
+  }
+ ]
+}

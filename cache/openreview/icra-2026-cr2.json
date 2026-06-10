@@ -1,0 +1,333 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/CR2",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:44.320Z",
+ "paper_count": 32,
+ "papers": [
+  {
+   "title": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Aware Contact Representation",
+   "authors": [
+    "Jiahe Pan",
+    "Stelian Coros",
+    "Jitendra Malik",
+    "Toru Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XysyhYNAHr",
+   "pdf_url": "https://openreview.net/pdf?id=XysyhYNAHr"
+  },
+  {
+   "title": "Complementarity by Construction: A Lie-Group Approach to Solving Quadratic Programs with Linear Complementarity Constraints",
+   "authors": [
+    "Arun L Bishop",
+    "Micah Reich",
+    "Zac Manchester"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZvT5FBOmtR",
+   "pdf_url": "https://openreview.net/pdf?id=ZvT5FBOmtR"
+  },
+  {
+   "title": "Compliant Sphere Lattice Contact: Distributed Contact Modeling for Sphere-Based Robot Representations",
+   "authors": [
+    "Nataliya Nechyporenko",
+    "Ava Abderezaei",
+    "Alessandro Roncone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=46BqR1wKqA",
+   "pdf_url": "https://openreview.net/pdf?id=46BqR1wKqA"
+  },
+  {
+   "title": "Components of Contact: An Analysis of Contact-Implicit Control Strategies on Manipulation Primitives",
+   "authors": [
+    "Grey Sarmiento",
+    "Michael Posa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n5n9Vinplg",
+   "pdf_url": "https://openreview.net/pdf?id=n5n9Vinplg"
+  },
+  {
+   "title": "Contact-Aware Probabilistic Reconstruction for Contact-Rich Manipulation",
+   "authors": [
+    "Aditya Kamireddypalli",
+    "Joao Moura",
+    "Russell Buchanan",
+    "Matias Mattamala",
+    "Sethu Vijayakumar",
+    "Subramanian Ramamoorthy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bVf4kMqs7b",
+   "pdf_url": "https://openreview.net/pdf?id=bVf4kMqs7b"
+  },
+  {
+   "title": "Contact-Rich Collaborative Path Clearing via Physics-Informed Corridor Search",
+   "authors": [
+    "Zili Tang",
+    "Meng Guo",
+    "Zishao Qiao",
+    "Zongyuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u9mHdKwGRw",
+   "pdf_url": "https://openreview.net/pdf?id=u9mHdKwGRw"
+  },
+  {
+   "title": "Contact-Staged Stand-up Learning for Humanoids under Shifted Center-of-Mass Conditions",
+   "authors": [
+    "Sangbeom Park",
+    "Seunghyun Lee",
+    "PAUL KIM",
+    "Daewan Kim",
+    "Haechang Chung",
+    "Juwon Kim",
+    "Jaehyuk lee",
+    "Minho Oh",
+    "Euigon Jung",
+    "Dongha Chung",
+    "Byeongho Yu",
+    "Dongkyu Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T1SXqvTmoe",
+   "pdf_url": "https://openreview.net/pdf?id=T1SXqvTmoe"
+  },
+  {
+   "title": "Curriculum-Aware Diffusion Distillation: Representing Contact Phases for Long-Horizon Door Manipulation",
+   "authors": [
+    "Zhe Han",
+    "Bingjie Chen",
+    "Zihan Wang",
+    "Yizhe Li",
+    "Guoping Pan",
+    "Yi Cheng",
+    "Houde Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qViCtR3WTL",
+   "pdf_url": "https://openreview.net/pdf?id=qViCtR3WTL"
+  },
+  {
+   "title": "Discovery of Dynamic Loco-manipulation Behaviors",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=X3poDx1dlY",
+   "pdf_url": "https://openreview.net/pdf?id=X3poDx1dlY"
+  },
+  {
+   "title": "Distributionally Robust Control via Stein Variational Inference for Contact-Rich Manipulation",
+   "authors": [
+    "Hrishikesh Sathyanarayan",
+    "Victor Vantilborgh",
+    "Harish Ravichandar",
+    "Tom Lefebvre",
+    "Ian Abraham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIciNFv5q9",
+   "pdf_url": "https://openreview.net/pdf?id=hIciNFv5q9"
+  },
+  {
+   "title": "Don’t Break the Egg: Branch-Rejoining Trajectory Optimization under Contact Timing Uncertainties",
+   "authors": [
+    "Zhuocheng Zhang",
+    "Haizhou Zhao",
+    "Xudong Sun",
+    "Aaron M. Johnson",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rlHyVhTsFL",
+   "pdf_url": "https://openreview.net/pdf?id=rlHyVhTsFL"
+  },
+  {
+   "title": "Foot-terrain Deformation based Parameters Identification of MuJoCo for Simulation of Bipedal Locomotion on Deformable Terrain",
+   "authors": [
+    "Sunil Gora",
+    "Ashish Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v5yqimjQgV",
+   "pdf_url": "https://openreview.net/pdf?id=v5yqimjQgV"
+  },
+  {
+   "title": "FORTE: Force Optimization via Riemannian Trajectory Estimation for Zero-Shot Contact-Rich Manipulation",
+   "authors": [
+    "Ege Doganay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DUtjbsYpqJ",
+   "pdf_url": "https://openreview.net/pdf?id=DUtjbsYpqJ"
+  },
+  {
+   "title": "GPU-Accelerated Hydroelastic Contact via Signed Distance Fields",
+   "authors": [
+    "Lennart Röstel",
+    "Yang Liu",
+    "Jessica Yin",
+    "Miguel Angel Zamora Mora",
+    "Miles Macklin",
+    "Philipp Reist",
+    "Tobias Widmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ogndqznZyY",
+   "pdf_url": "https://openreview.net/pdf?id=ogndqznZyY"
+  },
+  {
+   "title": "Hierarchical Scene Graphs and Contact-Aware Behavior Trees for Learning and Executing Bimanual Manipulation",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=1Ss2gYoRA0",
+   "pdf_url": "https://openreview.net/pdf?id=1Ss2gYoRA0"
+  },
+  {
+   "title": "IMPACT: An Implicit Active-Set Augmented Lagrangian for Fast Contact-Implicit Trajectory Optimization",
+   "authors": [
+    "Jiayun Li",
+    "Dejian Gong",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lIt9R3MSI1",
+   "pdf_url": "https://openreview.net/pdf?id=lIt9R3MSI1"
+  },
+  {
+   "title": "ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning",
+   "authors": [
+    "Wendi Chen",
+    "Han Xue",
+    "Yi Wang",
+    "Fangyuan Zhou",
+    "Jun Lv",
+    "Yang Jin",
+    "Shirun Tang",
+    "Chuan Wen",
+    "Cewu Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jr4n7tqdd0",
+   "pdf_url": "https://openreview.net/pdf?id=jr4n7tqdd0"
+  },
+  {
+   "title": "Learning Legged MPC with Smooth Neural Surrogates",
+   "authors": [
+    "Samuel A. Moore",
+    "Easop Lee",
+    "Boyuan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jgsevm9oTu",
+   "pdf_url": "https://openreview.net/pdf?id=Jgsevm9oTu"
+  },
+  {
+   "title": "Learning Whole-Body Quadrupedal Pushing Across Geometry and Physics Variation",
+   "authors": [
+    "Ebasa Temesgen",
+    "Dhyan Thakkar",
+    "Sarah Boelter",
+    "Greta Brown",
+    "Maria Gini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HbE5hgZSiW",
+   "pdf_url": "https://openreview.net/pdf?id=HbE5hgZSiW"
+  },
+  {
+   "title": "Leveraging Deformations in Soft Objects and Soft Robots for Dexterity",
+   "authors": [
+    "Uksang Yoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aHNiaSQpOJ",
+   "pdf_url": null
+  },
+  {
+   "title": "Mind the Control Gap: Robot Learning from Mismatched Data",
+   "authors": [
+    "Kushal Kedia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sRZ1Aov8wp",
+   "pdf_url": "https://openreview.net/pdf?id=sRZ1Aov8wp"
+  },
+  {
+   "title": "Novel Algorithms for Smoothly Differentiable and Efficiently Vectorizable Contact Manifold Construction",
+   "authors": [
+    "Onur Beker",
+    "Andreas René Geist",
+    "Anselm Paulus",
+    "Georg Martius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aFzmCSBNXY",
+   "pdf_url": "https://openreview.net/pdf?id=aFzmCSBNXY"
+  },
+  {
+   "title": "On Surprising Effects of Risk-Aware Domain Randomization for Contact-Rich Sampling-based Predictive Control",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=9E35uhXc2j",
+   "pdf_url": "https://openreview.net/pdf?id=9E35uhXc2j"
+  },
+  {
+   "title": "Plasticity is Friction: Towards Controlling Deformables with Contact-Implicit MPC",
+   "authors": [
+    "Bibit Bianchini",
+    "Michael Posa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uj6NKQsfEA",
+   "pdf_url": "https://openreview.net/pdf?id=Uj6NKQsfEA"
+  },
+  {
+   "title": "PolyUMI: Visual + Auditory + Tactile Manipulation Platform for Imitation Learning",
+   "authors": [
+    "Conor Wood Hayes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ou39QMiCMP",
+   "pdf_url": "https://openreview.net/pdf?id=Ou39QMiCMP"
+  },
+  {
+   "title": "Predictive Safety Filters for Contact Rich Quadruped Locomotion",
+   "authors": [
+    "Aditya Shirwatkar",
+    "Aaron M. Johnson",
+    "Shishir Kolathaya",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDuOrh6NeX",
+   "pdf_url": "https://openreview.net/pdf?id=JDuOrh6NeX"
+  },
+  {
+   "title": "Safe Contact-Rich Control under Smoothed Implicit Contact Dynamics",
+   "authors": [
+    "Haegu Lee",
+    "Yitaek Kim",
+    "Christoffer Sloth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8HEJLp1wri",
+   "pdf_url": "https://openreview.net/pdf?id=8HEJLp1wri"
+  },
+  {
+   "title": "Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=dEVfXSCkVI",
+   "pdf_url": "https://openreview.net/pdf?id=dEVfXSCkVI"
+  },
+  {
+   "title": "Singulating an item from a pallet layer: Dual-arm manipulation with minimalistic end effectors  by means of sampling-based MPC",
+   "authors": [
+    "Pavlos Theodosiadis",
+    "Thiago D. Simão",
+    "Alessandro Saccon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3UUGTACYtR",
+   "pdf_url": "https://openreview.net/pdf?id=3UUGTACYtR"
+  },
+  {
+   "title": "STRIDE: Structured Lagrangian and Stochastic Residual Dynamics via Flow Matching",
+   "authors": [
+    "Prakrut Kotecha",
+    "Ganga Nair B",
+    "Shishir Kolathaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MFS4TspX7v",
+   "pdf_url": "https://openreview.net/pdf?id=MFS4TspX7v"
+  },
+  {
+   "title": "Tune to Learn: How Controller Gains Shape Robot Policy Learning",
+   "authors": [
+    "Antonia Bronars",
+    "Younghyo Park",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4aSLpxCuzV",
+   "pdf_url": "https://openreview.net/pdf?id=4aSLpxCuzV"
+  },
+  {
+   "title": "Uncertainty-Aware Contact-Implicit MPC via GPU-Parallelized ADMM",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=Mr0Jh8jtL4",
+   "pdf_url": "https://openreview.net/pdf?id=Mr0Jh8jtL4"
+  }
+ ]
+}

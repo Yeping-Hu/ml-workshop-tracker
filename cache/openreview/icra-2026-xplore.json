@@ -1,0 +1,280 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/Xplore",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:10:13.872Z",
+ "paper_count": 26,
+ "papers": [
+  {
+   "title": "Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation",
+   "authors": [
+    "Lorenzo Ortolani",
+    "Gabriel Voss",
+    "Gabriele Beltrami",
+    "Francesco Dorati",
+    "Tommaso Felice Banfi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ia4AR2F46s",
+   "pdf_url": "https://openreview.net/pdf?id=Ia4AR2F46s"
+  },
+  {
+   "title": "BEACON: Belief-Aware Replanning for Safe Online Motion Planning",
+   "authors": [
+    "Ishita Banerjee",
+    "Maggie Yufei Bai",
+    "Soptorshi Ghosh",
+    "Rhea Senan",
+    "Ayushi Mehrotra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zxinuYvMp2",
+   "pdf_url": "https://openreview.net/pdf?id=zxinuYvMp2"
+  },
+  {
+   "title": "Beyond Reactive Adaptation: Long-Horizon Memory for Autonomous Racing via State Space Models",
+   "authors": [
+    "Grzegorz Czechmanowski",
+    "Jan Węgrzynowski",
+    "Piotr Kicki",
+    "Krzysztof Walas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aSdoatNZc1",
+   "pdf_url": "https://openreview.net/pdf?id=aSdoatNZc1"
+  },
+  {
+   "title": "CACTO-BIC: Scalable Actor-Critic Learning via Biased Sampling and GPU-Accelerated Trajectory Optimization",
+   "authors": [
+    "Elisa Alboni",
+    "Pietro Noah Crestaz",
+    "Elias Fontanari",
+    "Andrea Del Prete"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gisrpvCkLR",
+   "pdf_url": null
+  },
+  {
+   "title": "Coupling-Aware Planner Exploration for Shared-Workspace Multi-Manipulator Motion Planning",
+   "authors": [
+    "Rahul Vimalkanth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c0L2mPPPJr",
+   "pdf_url": null
+  },
+  {
+   "title": "CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks",
+   "authors": [
+    "Seoyeon Choi",
+    "Kanghyun Ryu",
+    "Jonghoon Ock",
+    "Negar Mehr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DaPk8eZzBG",
+   "pdf_url": null
+  },
+  {
+   "title": "Efficient Rare-Event Sampling in Diffusion Policies for Motion Discovery",
+   "authors": [
+    "Dian Yu",
+    "Sebastian Sanokowski",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Iy9vjfDvHv",
+   "pdf_url": null
+  },
+  {
+   "title": "Exploration-Exploitation Prompting: A Dual-Process Framework for Complex Mathematical Problem Solving",
+   "authors": [
+    "Aniket Deroy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uY7FiYKRM1",
+   "pdf_url": "https://openreview.net/pdf?id=uY7FiYKRM1"
+  },
+  {
+   "title": "Feasibility-Constrained Diffusion-MPC for Discrete Combinatorial Planning: A Case Study on Tetris",
+   "authors": [
+    "Haochuan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i2EcFHmwbk",
+   "pdf_url": null
+  },
+  {
+   "title": "From Exploration to Reuse: An Embodied Agent Framework for Manipulation Skill Learning",
+   "authors": [
+    "Mohamed Roshdi",
+    "Alexander Zorn",
+    "Jörg Kindermann",
+    "Hermann Blum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jjUEN9wzRL",
+   "pdf_url": null
+  },
+  {
+   "title": "From Simulation to Contact: A Modular Wrench-Space Deployment Stack for Multi-Task Robot Manipulation",
+   "authors": [
+    "Aditya Narendra",
+    "Abdalla Swikir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RfLYChc7Jp",
+   "pdf_url": null
+  },
+  {
+   "title": "GPS-Denied Rover Motion Regulation as a Physically Grounded POMDP for Recurrent Reinforcement Learning",
+   "authors": [
+    "Saki Omi",
+    "Miguel Olivares-Mendez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k5x4aWvFWE",
+   "pdf_url": null
+  },
+  {
+   "title": "Graph-Structured Reinforcement Learning for Controlling a Transformable-Wheel Robot",
+   "authors": [
+    "Haoqi Tang",
+    "James Clinton",
+    "Anthony J. Clark",
+    "Neil Chulani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mwAwrd8UGm",
+   "pdf_url": "https://openreview.net/pdf?id=mwAwrd8UGm"
+  },
+  {
+   "title": "IFG: Internet-Scale Guidance for Functional Grasping Generation",
+   "authors": [
+    "Muxin Liu",
+    "Mingxuan Li",
+    "Kenneth Shaw",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W2RWHb9Cl0",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Temporally and State-Abstracted World Models for Long-Horizon Exploration",
+   "authors": [
+    "William Huang",
+    "Benjamin Freed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uyax92xcZI",
+   "pdf_url": "https://openreview.net/pdf?id=Uyax92xcZI"
+  },
+  {
+   "title": "LLM-Guided Future Hypotheses for Horizon-Aware Exploration in Multi-Step Robot Manipulation",
+   "authors": [
+    "Mohammad Khoshnazar",
+    "Andrew Melnik",
+    "Michael Beetz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e3H26t7c4f",
+   "pdf_url": "https://openreview.net/pdf?id=e3H26t7c4f"
+  },
+  {
+   "title": "MineXplore: An Open-Source Reinforcement Learning Exploration Benchmark for GNSS-Denied Underground Environment",
+   "authors": [
+    "Badrikanath Praharaj",
+    "Sreeram M.V",
+    "ABHISHEK S"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0qEtv31jGe",
+   "pdf_url": "https://openreview.net/pdf?id=0qEtv31jGe"
+  },
+  {
+   "title": "Mixture of Autoencoder Experts Guidance using Unlabeled and Incomplete Data for Exploration in Reinforcement Learning",
+   "authors": [
+    "Elias Malomgré",
+    "Pieter Simoens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lyok0mKe7e",
+   "pdf_url": "https://openreview.net/pdf?id=lyok0mKe7e"
+  },
+  {
+   "title": "Mobile robots exploration strategies and requirements: A systematic mapping study",
+   "authors": [
+    "Davide Brugali",
+    "Luca Muratore"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQhuD5pw0r",
+   "pdf_url": null
+  },
+  {
+   "title": "Multi-Robot Frontier-Based Exploration under Uncertainty with SLAM and Temporal Map Fusion",
+   "authors": [
+    "Nandhini Sriram",
+    "Shubhankit Tewari",
+    "Narayani Adane",
+    "Sudharsan",
+    "Ajan Muthuraj",
+    "Atriya Biswas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tbvhPL9Ftk",
+   "pdf_url": null
+  },
+  {
+   "title": "Representation-Driven Exploration for Long-Horizon Manipulation",
+   "authors": [
+    "Andrea Protopapa",
+    "Davide Buoso",
+    "Francesca Pistilli",
+    "Giuseppe Averta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QlcfQJpbET",
+   "pdf_url": null
+  },
+  {
+   "title": "Stability-Guided Exploration for Diverse Motion Generation",
+   "authors": [
+    "Eckart Cobo-Briesewitz",
+    "Tilman Burghoff",
+    "Denis Shcherba",
+    "Armand Jordana",
+    "Marc Toussaint"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CK20xxwrOH",
+   "pdf_url": "https://openreview.net/pdf?id=CK20xxwrOH"
+  },
+  {
+   "title": "Towards Semantic-Aware Active Gas Distribution Mapping in Unknown Cluttered Environments",
+   "authors": [
+    "Mal Fazliu",
+    "Cunjia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Yq3WPEHOb",
+   "pdf_url": null
+  },
+  {
+   "title": "Truncated Gaussian Policy for Debiased Exploration in Continuous Control",
+   "authors": [
+    "Ganghun Lee",
+    "Minji Kim",
+    "Minsu Lee",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x3cZRhzUe5",
+   "pdf_url": "https://openreview.net/pdf?id=x3cZRhzUe5"
+  },
+  {
+   "title": "Variable-Resolution Virtual Map Guided Informed Tree Search for Autonomous USV Exploration",
+   "authors": [
+    "Ye Li",
+    "Mal Fazliu",
+    "Yewei Huang",
+    "Alberto Quattrini Li",
+    "Brendan Englot",
+    "Cunjia Liu",
+    "Yuanchang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a7LBBuCaUl",
+   "pdf_url": "https://openreview.net/pdf?id=a7LBBuCaUl"
+  },
+  {
+   "title": "Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles (USVs)",
+   "authors": [
+    "Ye Li",
+    "Yewei Huang",
+    "Wenlong Gaozhang",
+    "Alberto Quattrini Li",
+    "Brendan Englot",
+    "Yuanchang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BYJdUjKSdb",
+   "pdf_url": "https://openreview.net/pdf?id=BYJdUjKSdb"
+  }
+ ]
+}
