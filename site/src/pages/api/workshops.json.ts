@@ -27,6 +27,7 @@ export const GET: APIRoute = () => {
       notification_date: w.notification_date ?? null,
       workshop_date: w.workshop_date ?? null,
       status: w.status,
+      status_label: w.statusLabel,
       submission_portal: w.submission_portal ?? null,
       openreview_venue_id: w.openreview_venue_id ?? null,
       proceedings_url: w.proceedings_url ?? null,

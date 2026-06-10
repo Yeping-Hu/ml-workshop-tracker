@@ -10,9 +10,7 @@ export function getStaticPaths() {
 const { w } = Astro.props;
 const conf = conferenceById.get(w.conference) ?? { name: w.conference, color: '#888' };
 const cache = loadPaperCache(w.slug);
-const statusLabel = { upcoming: 'Open call', deadline_passed: 'Deadline passed', past: 'Past' }[
-  w.status as string
-];
+const statusLabel = w.statusLabel;
 const isSeed = (w.notes || '').includes('SEED DATA');
 const portalLabel: Record<string, string> = {
   openreview: 'OpenReview',
@@ -24,14 +22,16 @@ const portalLabel: Record<string, string> = {
 ---
 
 <Base title={`${w.acronym || w.name} (${conf.name} ${w.year})`} description={`${w.name} — ${conf.name} ${w.year}: deadline, dates, and accepted papers.`}>
-  <article
-    data-pagefind-body
+  <article>
+   <div
+    data-pf-ws
     data-conf={conf.name}
     data-year={String(w.year)}
     data-wstatus={statusLabel}
+    data-type="Workshops"
     data-pagefind-meta="conference[data-conf], year[data-year], status[data-wstatus]"
-    data-pagefind-filter="conference[data-conf], year[data-year], status[data-wstatus]"
-  >
+    data-pagefind-filter="conference[data-conf], year[data-year], status[data-wstatus], type[data-type]"
+   >
     <header class="detail-head">
       <div class="topline">
         <span class="badge" style={`--conf:${conf.color}; padding: 0.28rem 0.7rem;`}>{conf.name} {w.year}</span>
@@ -125,8 +125,18 @@ const portalLabel: Record<string, string> = {
       </section>
     )}
 
+   </div>
     {cache && cache.papers?.length > 0 && (
-      <section>
+      <section
+        data-pf-papers
+        data-conf={conf.name}
+        data-year={String(w.year)}
+        data-wstatus={statusLabel}
+        data-type="Papers"
+        data-ptitle={`${w.name} — accepted papers`}
+        data-pagefind-meta="title[data-ptitle], conference[data-conf], year[data-year], status[data-wstatus]"
+        data-pagefind-filter="conference[data-conf], year[data-year], status[data-wstatus], type[data-type]"
+      >
         <h2 id="papers">Accepted papers ({cache.paper_count})</h2>
         <p class="muted small">
           Fetched from OpenReview ({cache.source_api}) on {cache.fetched_at?.slice(0, 10)}.

@@ -355,3 +355,9 @@ details.tba-section > summary { cursor: pointer; color: var(--muted); font-size:
 .board-head h2 { margin: 0; }
 .result-meta { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem; }
 .result-meta .badge { font-size: 0.7rem; }
+
+.type-seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.type-seg .seg { font: inherit; font-size: 0.85rem; padding: 0.38rem 0.85rem; background: var(--surface); border: none; cursor: pointer; color: var(--muted); }
+.type-seg .seg + .seg { border-left: 1px solid var(--line); }
+.type-seg .seg.is-on { background: var(--accent); color: var(--accent-ink); }
+.pill.unknown { background: transparent; border: 1px dashed var(--line); color: var(--muted); }

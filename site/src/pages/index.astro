@@ -42,6 +42,11 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
   <!-- search mode -->
   <section id="searchPanel" hidden>
     <div class="filterbar facetbar">
+      <div class="type-seg" role="group" aria-label="Result type">
+        <button type="button" class="seg is-on" data-type="">All</button>
+        <button type="button" class="seg" data-type="Workshops">Workshops</button>
+        <button type="button" class="seg" data-type="Papers">Papers</button>
+      </div>
       <details class="dd"><summary data-facet-summary="conference">Conference</summary><div class="dd-panel" data-facet="conference"></div></details>
       <details class="dd"><summary data-facet-summary="status">Status</summary><div class="dd-panel" data-facet="status"></div></details>
       <details class="dd"><summary data-facet-summary="year">Year</summary><div class="dd-panel" data-facet="year"></div></details>
@@ -119,12 +124,12 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
     const FACET_LABEL = { conference: 'Conference', status: 'Status', year: 'Year', topic: 'Topic' };
     let keywords = [];
     const sel = Object.fromEntries(FACETS.map((f) => [f, new Set()]));
-    let pagefind = null, loadFailed = false, allFilters = null;
+    let pagefind = null, loadFailed = false, allFilters = null, typeSel = '';
 
     const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
     function isSearching() {
-      return keywords.length > 0 || input.value.trim() !== '' || FACETS.some((f) => sel[f].size);
+      return keywords.length > 0 || input.value.trim() !== '' || typeSel !== '' || FACETS.some((f) => sel[f].size);
     }
     function setMode(searching) {
       $('#homeDefault').hidden = searching;
@@ -141,6 +146,7 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
       const p = new URLSearchParams();
       if (keywords.length) p.set('q', keywords.join(','));
       for (const f of FACETS) if (sel[f].size) p.set(f, [...sel[f]].join(','));
+      if (typeSel) p.set('type', typeSel);
       history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
     }
 
@@ -149,6 +155,7 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
       try {
         pagefind = await import(`${base}/pagefind/pagefind.js`);
         await pagefind.options({ baseUrl: `${base}/` });
+        await pagefind.mergeIndex(`${base}/pagefind-papers/`, { baseUrl: `${base}/` });
         await pagefind.init();
         allFilters = await pagefind.filters();
         renderFacetPanels();
@@ -164,7 +171,7 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
     function facetSort(f, keys) {
       if (f === 'year') return keys.sort((a, b) => b.localeCompare(a));
       if (f === 'status') {
-        const order = ['Open call', 'Deadline passed', 'Past'];
+        const order = ['Open call', 'Deadline unknown', 'Deadline passed', 'Past'];
         return keys.sort((a, b) => order.indexOf(a) - order.indexOf(b));
       }
       return keys.sort();
@@ -205,6 +212,7 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
       const terms = [...keywords, input.value.trim()].filter(Boolean);
       const filters = {};
       for (const f of FACETS) if (sel[f].size) filters[f] = { any: [...sel[f]] };
+      if (typeSel) filters.type = { any: [typeSel] };
       const res = await pf.debouncedSearch(terms.join(' ') || null, { filters }, 220);
       if (res === null) return; // superseded
       updateCounts(res.filters);
@@ -214,11 +222,14 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
         .map((d) => {
           const conf = d.meta?.conference ?? '';
           const color = confColors[conf] ?? '#888';
+          const pillClass =
+            { 'Open call': 'upcoming', 'Deadline unknown': 'unknown', Past: 'past' }[d.meta?.status] ??
+            'deadline_passed';
           return `
         <li class="pf-result">
           <div class="result-meta">
             <span class="badge" style="--conf:${color}; padding:0.2rem 0.6rem;">${esc(conf)} ${esc(d.meta?.year ?? '')}</span>
-            <span class="pill ${d.meta?.status === 'Open call' ? 'upcoming' : d.meta?.status === 'Past' ? 'past' : 'deadline_passed'}">${esc(d.meta?.status ?? '')}</span>
+            <span class="pill ${pillClass}">${esc(d.meta?.status ?? '')}</span>
           </div>
           <a class="pf-title" href="${esc(d.url)}">${esc(d.meta?.title ?? d.url)}</a>
           <p class="pf-excerpt">${d.excerpt}</p>
@@ -255,15 +266,35 @@ const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]))
       updateFacetSummaries(); runSearch();
     });
     $('#clearSearch').addEventListener('click', () => {
-      keywords = []; input.value = '';
+      keywords = []; input.value = ''; typeSel = '';
       for (const f of FACETS) sel[f].clear();
+      for (const b of document.querySelectorAll('.type-seg .seg')) b.classList.toggle('is-on', b.dataset.type === '');
       renderChips(); renderFacetPanels(); runSearch();
+    });
+    for (const b of document.querySelectorAll('.type-seg .seg')) {
+      b.addEventListener('click', () => {
+        typeSel = b.dataset.type;
+        for (const o of document.querySelectorAll('.type-seg .seg')) o.classList.toggle('is-on', o === b);
+        runSearch();
+      });
+    }
+    // Facet dropdowns: only one open at a time; click-away closes them.
+    const dds = [...document.querySelectorAll('.facetbar details.dd')];
+    for (const d of dds) {
+      d.addEventListener('toggle', () => {
+        if (d.open) for (const o of dds) if (o !== d) o.open = false;
+      });
+    }
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.facetbar details.dd')) for (const o of dds) o.open = false;
     });
 
     // hydrate from URL
     const p = new URLSearchParams(location.search);
     keywords = (p.get('q') || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
     for (const f of FACETS) for (const v of (p.get(f) || '').split(',').filter(Boolean)) sel[f].add(v);
+    typeSel = p.get('type') || '';
+    for (const b of document.querySelectorAll('.type-seg .seg')) b.classList.toggle('is-on', b.dataset.type === typeSel);
     renderChips();
     if (isSearching()) { updateFacetSummaries(); runSearch(); }
   </script>

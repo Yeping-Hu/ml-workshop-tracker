@@ -5,7 +5,7 @@
 A static website that aggregates **ML conference workshop** information in one place:
 
 - 📅 **Upcoming submission deadlines** for ICML, ICLR, NeurIPS, ICRA, and IROS workshops — with live countdowns and AoE → local-time conversion (subscribable `.ics` calendar feeds exist but are paused until dates are verified; see `CALENDAR_ENABLED`)
-- 🔎 **One unified, faceted search** (Pagefind, fully static) across every workshop edition and 19k+ accepted-paper titles — filter by conference, status, year, and topic with live counts
+- 🔎 **One unified, faceted search** (Pagefind, fully static, dual-index) across every workshop edition and 19k+ accepted-paper titles — switch between Workshops / Papers / All, and filter by conference, status, year, and topic with live counts. Statuses are inferred from dates *and* paper caches (accepted papers prove a call closed); venues that never published a deadline are labeled "Deadline unknown" rather than guessed
 - 📄 **Auto-generated accepted-paper listings** for OpenReview-hosted workshops on each workshop's page
 
 Conference deadline trackers exist; *workshop* deadlines never had one. This fills that gap — built to cost **$0/month** and need almost no maintenance. Ships with 420+ real workshop editions (2024–2026, across all five conferences) and 19,000+ accepted-paper titles imported from OpenReview venue records.
