@@ -1,0 +1,215 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/VidLLMs",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:49:14.737Z",
+ "paper_count": 18,
+ "papers": [
+  {
+   "title": "4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation",
+   "authors": [
+    "Chiao-An Yang",
+    "Ryo Hachiuma",
+    "Sifei Liu",
+    "Subhashree Radhakrishnan",
+    "Raymond A. Yeh",
+    "Yu-Chiang Frank Wang",
+    "Min-Hung Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wiRrcgQhkP",
+   "pdf_url": "https://openreview.net/pdf?id=wiRrcgQhkP"
+  },
+  {
+   "title": "CausalScene: Typed Causal Scene Graphs for Counterfactual Physical Reasoning with a Path to Video LLMs",
+   "authors": [
+    "Noor Islam S. Mohammad",
+    "Ulug Bayazit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WP6hAk9ani",
+   "pdf_url": "https://openreview.net/pdf?id=WP6hAk9ani"
+  },
+  {
+   "title": "CoSeLECT: Adaptive Frame Selection for Video-Language Understanding",
+   "authors": [
+    "Bhavika Suresh Devnani",
+    "Jitesh Jain",
+    "Humphrey Shi",
+    "Judy Hoffman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KeyLHsSS1N",
+   "pdf_url": "https://openreview.net/pdf?id=KeyLHsSS1N"
+  },
+  {
+   "title": "Evaluating Video Question Answering Multimodal Large Language Models",
+   "authors": [
+    "George Awad",
+    "Sanjay Purushotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pvgB7xqtLQ",
+   "pdf_url": "https://openreview.net/pdf?id=pvgB7xqtLQ"
+  },
+  {
+   "title": "FineBench: Benchmarking and Enhancing Vision-Language Models for Fine-grained Human Activity Understanding",
+   "authors": [
+    "Gueter Josmy Faure",
+    "Min-Hung Chen",
+    "Jia-Fong Yeh",
+    "Hung-Ting Su",
+    "Winston H. Hsu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NGi9xA3D1N",
+   "pdf_url": "https://openreview.net/pdf?id=NGi9xA3D1N"
+  },
+  {
+   "title": "Grounding Video Reasoning in Physical Signals",
+   "authors": [
+    "Alibay Osmanli",
+    "Zixu Cheng",
+    "Shaogang Gong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IXqHtvT8Z4",
+   "pdf_url": "https://openreview.net/pdf?id=IXqHtvT8Z4"
+  },
+  {
+   "title": "Hidden Clones: Exposing and Fixing Family Bias in Vision-Language Model Ensembles",
+   "authors": [
+    "Zacharie Bugaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QX71RIQzBJ",
+   "pdf_url": "https://openreview.net/pdf?id=QX71RIQzBJ"
+  },
+  {
+   "title": "MAVEN: A Multi-stage Agentic Annotation Pipeline for Video Reasoning Tasks",
+   "authors": [
+    "Han Zhang",
+    "Wanting Jiang",
+    "Tomasz Kornuta",
+    "Tian Zheng",
+    "Vidya Nariyambut Murali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PYVXTkO3Yb",
+   "pdf_url": "https://openreview.net/pdf?id=PYVXTkO3Yb"
+  },
+  {
+   "title": "Mind the Gap: Dataset and Fine-grained Evaluation for Inline Audio Descriptions",
+   "authors": [
+    "Subhashini Venugopalan",
+    "Yingwen Tan",
+    "Taylor Roper",
+    "Jimmy Tobin",
+    "Anton Kast",
+    "Alicia Martin",
+    "Sam Sepah",
+    "Amy Pavel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xWM9yi7ZgQ",
+   "pdf_url": "https://openreview.net/pdf?id=xWM9yi7ZgQ"
+  },
+  {
+   "title": "One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition",
+   "authors": [
+    "Balaji Darur",
+    "Amanmeet Garg",
+    "Makarand Tapaswi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X2fNWmzpDF",
+   "pdf_url": "https://openreview.net/pdf?id=X2fNWmzpDF"
+  },
+  {
+   "title": "StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding",
+   "authors": [
+    "Yanlai Yang",
+    "Zhuokai Zhao",
+    "Satya Narayan Shukla",
+    "Aashu Singh",
+    "Shlok Kumar Mishra",
+    "Lizhu Zhang",
+    "Mengye Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=siAEqckmUs",
+   "pdf_url": "https://openreview.net/pdf?id=siAEqckmUs"
+  },
+  {
+   "title": "StreamReady: Learning *What* to Answer and *When* in Long Streaming Videos",
+   "authors": [
+    "Shehreen Azad",
+    "Vibhav Vineet",
+    "Yogesh S Rawat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXge8OA222",
+   "pdf_url": "https://openreview.net/pdf?id=KXge8OA222"
+  },
+  {
+   "title": "Test-Time Horizon Scaling in Video LLMs via Adaptive Temporal Memory Compression",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rwJOvaSdRW",
+   "pdf_url": "https://openreview.net/pdf?id=rwJOvaSdRW"
+  },
+  {
+   "title": "TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs",
+   "authors": [
+    "Baiqi Li",
+    "Kangyi Zhao",
+    "Ce Zhang",
+    "Chancharik Mitra",
+    "Jean de Dieu Nyandwi",
+    "Gedas Bertasius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bQweUa7Ug3",
+   "pdf_url": "https://openreview.net/pdf?id=bQweUa7Ug3"
+  },
+  {
+   "title": "VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models",
+   "authors": [
+    "Pritam Sarkar",
+    "Ali Etemad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Exrp5JSq6U",
+   "pdf_url": "https://openreview.net/pdf?id=Exrp5JSq6U"
+  },
+  {
+   "title": "VideoCritic: Diagnosing and Localizing Reasoning Errors in Video-Language Models",
+   "authors": [
+    "Chenwei Xu",
+    "Jianshu Zhang",
+    "Shang Wu",
+    "Lie Lu",
+    "Pranav Maneriker",
+    "Fan Du",
+    "Manling Li",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HwcHFDPM7P",
+   "pdf_url": "https://openreview.net/pdf?id=HwcHFDPM7P"
+  },
+  {
+   "title": "VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition",
+   "authors": [
+    "Tanush Yadav",
+    "Mohammadreza Salehi",
+    "Jae Sung Park",
+    "Vivek Ramanujan",
+    "Hannaneh Hajishirzi",
+    "Yejin Choi",
+    "Ali Farhadi",
+    "Rohun Tripathi",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nPUg8he1OO",
+   "pdf_url": "https://openreview.net/pdf?id=nPUg8he1OO"
+  },
+  {
+   "title": "VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models",
+   "authors": [
+    "Dominick Reilly",
+    "Manish Kumar Govind",
+    "Le Xue",
+    "Srijan Das"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FDDeGBB9C9",
+   "pdf_url": "https://openreview.net/pdf?id=FDDeGBB9C9"
+  }
+ ]
+}

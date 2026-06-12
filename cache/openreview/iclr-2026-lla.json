@@ -1,0 +1,1560 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/LLA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:18.100Z",
+ "paper_count": 104,
+ "papers": [
+  {
+   "title": "AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization",
+   "authors": [
+    "Genghan Zhang",
+    "Shaowei Zhu",
+    "Anjiang Wei",
+    "Zhenyu Song",
+    "Allen Nie",
+    "Zhen Jia",
+    "Nandita Vijaykumar",
+    "Yida Wang",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h7RxXW74d5",
+   "pdf_url": "https://openreview.net/pdf?id=h7RxXW74d5"
+  },
+  {
+   "title": "ACON: Optimizing Context Compression for Long-horizon LLM Agents",
+   "authors": [
+    "Minki Kang",
+    "Wei-Ning Chen",
+    "Dongge Han",
+    "Huseyin A Inan",
+    "Lukas Wutschitz",
+    "Yanzhi Chen",
+    "Robert Sim",
+    "Saravan Rajmohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x0alNh5o8v",
+   "pdf_url": "https://openreview.net/pdf?id=x0alNh5o8v"
+  },
+  {
+   "title": "Actor-Curator: A Scalable RL Post-training Framework with Co-adaptive Curricula",
+   "authors": [
+    "Zhengyao Gu",
+    "Jonathan Light",
+    "Raul Astudillo",
+    "Ziyu Ye",
+    "Langzhou He",
+    "Wei Cheng",
+    "Santiago Paternain",
+    "Philip S. Yu",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h3OFbTsgrn",
+   "pdf_url": "https://openreview.net/pdf?id=h3OFbTsgrn"
+  },
+  {
+   "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
+   "authors": [
+    "Jiaqi Liu",
+    "Kaiwen Xiong",
+    "Peng Xia",
+    "Yiyang Zhou",
+    "Haonian Ji",
+    "Lu Feng",
+    "Siwei Han",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K3WfVSwMoZ",
+   "pdf_url": "https://openreview.net/pdf?id=K3WfVSwMoZ"
+  },
+  {
+   "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+   "authors": [
+    "Peng Xia",
+    "Kaide Zeng",
+    "Jiaqi Liu",
+    "Can Qin",
+    "Fang Wu",
+    "Yiyang Zhou",
+    "Caiming Xiong",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OWz5JiJw5M",
+   "pdf_url": "https://openreview.net/pdf?id=OWz5JiJw5M"
+  },
+  {
+   "title": "AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL",
+   "authors": [
+    "Zhiheng Xi",
+    "Jixuan Huang",
+    "Chenyang Liao",
+    "Baodai Huang",
+    "Jiaqi Liu",
+    "Honglin Guo",
+    "yajie yang",
+    "Rui Zheng",
+    "Junjie Ye",
+    "Jiazheng Zhang",
+    "Wenxiang Chen",
+    "Wei He",
+    "Yiwen Ding",
+    "Guanyu Li",
+    "Zehui Chen",
+    "Zhengyin Du",
+    "Xuesong Yao",
+    "Yufei Xu",
+    "Jiecao Chen",
+    "Tao Gui",
+    "Zuxuan Wu",
+    "Qi Zhang",
+    "Xuanjing Huang",
+    "Yu-Gang Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DhMb1ugWTL",
+   "pdf_url": "https://openreview.net/pdf?id=DhMb1ugWTL"
+  },
+  {
+   "title": "Agentic Cognitive Profiling: Realigning Automated Alzheimer’s Disease Detection with Clinical Construct Validity",
+   "authors": [
+    "Jiawen Kang",
+    "Kun LI",
+    "Dongrui Han",
+    "Jinchao Li",
+    "Junan Li",
+    "Lingwei Meng",
+    "Xixin Wu",
+    "Helen M. Meng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eq9AEZh9zr",
+   "pdf_url": "https://openreview.net/pdf?id=eq9AEZh9zr"
+  },
+  {
+   "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+   "authors": [
+    "Qizheng Zhang",
+    "Changran Hu",
+    "Shubhangi Upasani",
+    "Boyuan Ma",
+    "Fenglu Hong",
+    "Vamsidhar Kamanuru",
+    "Jay Rainton",
+    "Chen Wu",
+    "Mengmeng Ji",
+    "Hanchen Li",
+    "Urmish Thakker",
+    "James Zou",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZAhZYtTn7",
+   "pdf_url": "https://openreview.net/pdf?id=TZAhZYtTn7"
+  },
+  {
+   "title": "AIF-GEN: Open-Source Platform and Synthetic Dataset Suite for Reinforcement Learning on Large Language Models",
+   "authors": [
+    "Shahrad Mohammadzadeh",
+    "Jacob Chmura",
+    "Ivan Anokhin",
+    "Jacob-Junqi Tian",
+    "Mandana Samiei",
+    "Taz Scott-Talib",
+    "Irina Rish",
+    "Doina Precup",
+    "Reihaneh Rabbany",
+    "Nishanth Anand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e0HGHx0C2k",
+   "pdf_url": "https://openreview.net/pdf?id=e0HGHx0C2k"
+  },
+  {
+   "title": "Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative RLHF",
+   "authors": [
+    "Daniel Jiang",
+    "Ankur Samanta",
+    "Yukai Yang",
+    "Jalaj Bhandari",
+    "Rémi Munos",
+    "Tyler Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4LnkDDwLg8",
+   "pdf_url": "https://openreview.net/pdf?id=4LnkDDwLg8"
+  },
+  {
+   "title": "Alignment Propagation: Spreading Cooperative Behaviors in Multi-Agent Systems through Seed Agents",
+   "authors": [
+    "Asuka Yuxi Zheng",
+    "Nicole Hsing",
+    "Yi Zhao",
+    "Haoqin Tu",
+    "Jen-tse Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nneCryHKrC",
+   "pdf_url": "https://openreview.net/pdf?id=nneCryHKrC"
+  },
+  {
+   "title": "AlphaApollo: A System for Deep Agentic Reasoning",
+   "authors": [
+    "Zhanke Zhou",
+    "Chentao Cao",
+    "Xiao Feng",
+    "Xuan Li",
+    "Zongze Li",
+    "Xiangyu Lu",
+    "Jiangchao Yao",
+    "Weikai Huang",
+    "Tian Cheng",
+    "Jianghangfan Zhang",
+    "Tangyu Jiang",
+    "Linrui Xu",
+    "Yiming Zheng",
+    "Brando Miranda",
+    "Tongliang Liu",
+    "Sanmi Koyejo",
+    "Masashi Sugiyama",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ShZ6FOxQNG",
+   "pdf_url": "https://openreview.net/pdf?id=ShZ6FOxQNG"
+  },
+  {
+   "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
+   "authors": [
+    "Magnus Saebo",
+    "Spencer Gibson",
+    "Tyler Crosse",
+    "Achyutha Menon",
+    "Eyon Jang",
+    "Diogo Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b0Z6LV2FZQ",
+   "pdf_url": "https://openreview.net/pdf?id=b0Z6LV2FZQ"
+  },
+  {
+   "title": "Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting",
+   "authors": [
+    "Zihang Ma",
+    "Jinyi Liu",
+    "Hongyao Tang",
+    "Yi Ma",
+    "Ruitao Wang",
+    "Yifu Yuan",
+    "YAN ZHENG",
+    "Jianye HAO"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MSXbrNExax",
+   "pdf_url": "https://openreview.net/pdf?id=MSXbrNExax"
+  },
+  {
+   "title": "Beyond Reward Maximization: Evaluating the Diversity of Trajectories in Reinforcement Learning with Temporal Vendi Score",
+   "authors": [
+    "Stanic Tom",
+    "Marco Jiralerspong",
+    "Zhang Xiaofeng",
+    "Danilo Vucetic",
+    "Gauthier Gidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7qGCADaXjr",
+   "pdf_url": "https://openreview.net/pdf?id=7qGCADaXjr"
+  },
+  {
+   "title": "BEYOND SYNTAX: ACTION SEMANTICS LEARNING FOR APP AGENTS",
+   "authors": [
+    "Dezhao Luo",
+    "Bohan Tang",
+    "Jianheng Liu",
+    "Jingxuan Chen",
+    "Shaogang Gong",
+    "Jianye HAO",
+    "Jun Wang",
+    "Kun Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=We36vVf4gN",
+   "pdf_url": "https://openreview.net/pdf?id=We36vVf4gN"
+  },
+  {
+   "title": "BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning",
+   "authors": [
+    "Yuyang Liu",
+    "Jingya Wang",
+    "Liuzhenghao Lv",
+    "Yonghong Tian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jl0A2Cd8kN",
+   "pdf_url": "https://openreview.net/pdf?id=Jl0A2Cd8kN"
+  },
+  {
+   "title": "BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents",
+   "authors": [
+    "Litu Ou",
+    "Kuan Li",
+    "Huifeng Yin",
+    "Liwen Zhang",
+    "Zhongwang Zhang",
+    "Xixi Wu",
+    "Rui Ye",
+    "Zile Qiao",
+    "Pengjun Xie",
+    "Jingren Zhou",
+    "Yong Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XLX6X246ef",
+   "pdf_url": "https://openreview.net/pdf?id=XLX6X246ef"
+  },
+  {
+   "title": "Can We Predict Before Executing Machine Learning Agents?",
+   "authors": [
+    "Jingsheng Zheng",
+    "Jintian Zhang",
+    "Yujie Luo",
+    "Yuren Mao",
+    "Yunjun Gao",
+    "Lun Du",
+    "Huajun Chen",
+    "Ningyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N1e47EZFDJ",
+   "pdf_url": "https://openreview.net/pdf?id=N1e47EZFDJ"
+  },
+  {
+   "title": "CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception",
+   "authors": [
+    "XuZejun",
+    "Taiyi Chen",
+    "Jin Li",
+    "Yongtong Gu",
+    "QiCheng",
+    "Lvaixuan",
+    "Zhu shuai",
+    "ZhuPengfei",
+    "Kaichen Yang",
+    "Sun Boyu",
+    "YixianYang",
+    "Mulong Xie",
+    "Xiaoteng Ma",
+    "Hongru WANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=05BubhVB4C",
+   "pdf_url": "https://openreview.net/pdf?id=05BubhVB4C"
+  },
+  {
+   "title": "CF-Router: Closed-Form Solution for Expert Selection in Multimodal Agent Lifelong Learning",
+   "authors": [
+    "Jiaxu Li",
+    "Zhijie Zheng",
+    "Jianyu Qi",
+    "Rongchang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7tWtYHTIDD",
+   "pdf_url": "https://openreview.net/pdf?id=7tWtYHTIDD"
+  },
+  {
+   "title": "CoDaPO: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning",
+   "authors": [
+    "Zhanke Zhou",
+    "Xiangyu Lu",
+    "Chentao Cao",
+    "Brando Miranda",
+    "Tongliang Liu",
+    "Bo Han",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8OoZ8dnvIT",
+   "pdf_url": "https://openreview.net/pdf?id=8OoZ8dnvIT"
+  },
+  {
+   "title": "Cold-Start Personalization via Training-Free Priors from Structured World Models",
+   "authors": [
+    "Avinandan Bose",
+    "Shuyue Stella Li",
+    "Faeze Brahman",
+    "Pang Wei Koh",
+    "Simon Shaolei Du",
+    "Yulia Tsvetkov",
+    "Maryam Fazel",
+    "Lin Xiao",
+    "Asli Celikyilmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2cL4zYN71g",
+   "pdf_url": "https://openreview.net/pdf?id=2cL4zYN71g"
+  },
+  {
+   "title": "Constructive Specification for Plug-and-Play Learnware Agents",
+   "authors": [
+    "Jian-Dong Liu",
+    "Zi-Chen Zhao",
+    "Hao Sun",
+    "Lin-Xing Wu",
+    "Huan Zhang",
+    "Pengyuan Wang",
+    "ZhaoMing",
+    "Xinyu Chu",
+    "Shu Yan",
+    "Yongbei Zhu",
+    "Weijun Zhong",
+    "Zhi-Hao Tan",
+    "SHANG JING",
+    "Yang Yu",
+    "Zhi-Hua Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v0s1bQZBE5",
+   "pdf_url": "https://openreview.net/pdf?id=v0s1bQZBE5"
+  },
+  {
+   "title": "Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live",
+   "authors": [
+    "Hanchen Li",
+    "Qiuyang Mang",
+    "Runyuan He",
+    "Qizheng Zhang",
+    "Huanzhi Mao",
+    "Xiaokun Chen",
+    "Hangrui Zhou",
+    "Alvin Cheung",
+    "Joseph E. Gonzalez",
+    "Ion Stoica"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sVzK0LC9pn",
+   "pdf_url": "https://openreview.net/pdf?id=sVzK0LC9pn"
+  },
+  {
+   "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+   "authors": [
+    "Xiangru Jian",
+    "Shravan Nayak",
+    "Kevin Qinghong Lin",
+    "Aarash Feizi",
+    "Kaixin Li",
+    "Patrice Bechard",
+    "Spandana Gella",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IgTUGrZfMr",
+   "pdf_url": "https://openreview.net/pdf?id=IgTUGrZfMr"
+  },
+  {
+   "title": "DéjàQ: Open-Ended Evolution of Diverse, Learnable and Verifiable Problems",
+   "authors": [
+    "Willem Röpke",
+    "Samuel Coward",
+    "Andrei Lupu",
+    "Thomas Foster",
+    "Tim Rocktäschel",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0nXpIe0wQ4",
+   "pdf_url": "https://openreview.net/pdf?id=0nXpIe0wQ4"
+  },
+  {
+   "title": "DETACH: Cross-domain Learning for Long-Horizon Tasks via  Mixture of Disentangled Experts",
+   "authors": [
+    "Yutong Shen",
+    "Hangxu Liu",
+    "Lei Zhang",
+    "Penghui Liu",
+    "Ruizhe Xia",
+    "Tongtong Feng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lDeUCA7kR8",
+   "pdf_url": "https://openreview.net/pdf?id=lDeUCA7kR8"
+  },
+  {
+   "title": "DomusMind: A Benchmark for Evaluating Lifelong Smart Home Agents Under Drift",
+   "authors": [
+    "Rong Xu",
+    "Yinxin Wan",
+    "Xiaochan Xue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dCBF23RZYJ",
+   "pdf_url": "https://openreview.net/pdf?id=dCBF23RZYJ"
+  },
+  {
+   "title": "DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal",
+   "authors": [
+    "Peixuan Han",
+    "YingJie Yu",
+    "Jingjun Xu",
+    "Jiaxuan You"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sTyQwJrh1E",
+   "pdf_url": "https://openreview.net/pdf?id=sTyQwJrh1E"
+  },
+  {
+   "title": "DSGym: A Standardized and Holistic Framework for Advancing Data Science Agents",
+   "authors": [
+    "Fan Nie",
+    "Junlin Wang",
+    "Harper Hua",
+    "Federico Bianchi",
+    "Yongchan Kwon",
+    "Zhenting Qi",
+    "Owen Queen",
+    "Shang Zhu",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nZffE6EMMl",
+   "pdf_url": "https://openreview.net/pdf?id=nZffE6EMMl"
+  },
+  {
+   "title": "Efficient Tree-Structured Deep Research with Adaptive Resource Allocation",
+   "authors": [
+    "Lunyiu Nie",
+    "Nedim Lipka",
+    "Ryan A. Rossi",
+    "Swarat Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jGNW1WUCzr",
+   "pdf_url": "https://openreview.net/pdf?id=jGNW1WUCzr"
+  },
+  {
+   "title": "Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks",
+   "authors": [
+    "Wenqi Zhang",
+    "Mengna Wang",
+    "Gangao Liu",
+    "Huixin Xu",
+    "Yiwei Jiang",
+    "Yongliang Shen",
+    "Guiyang Hou",
+    "Zhe Zheng",
+    "Hang Zhang",
+    "Xin Li",
+    "Jiajun Liu",
+    "Weiming Lu",
+    "Peng Li",
+    "Yueting Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UuFEKGXcTk",
+   "pdf_url": "https://openreview.net/pdf?id=UuFEKGXcTk"
+  },
+  {
+   "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction",
+   "authors": [
+    "Qineng Wang",
+    "Wenlong Huang",
+    "Yu Zhou",
+    "Hang Yin",
+    "Tianwei Bao",
+    "Jianwen Lyu",
+    "Weiyu Liu",
+    "Ruohan Zhang",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GtF7o3FOA0",
+   "pdf_url": "https://openreview.net/pdf?id=GtF7o3FOA0"
+  },
+  {
+   "title": "EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings",
+   "authors": [
+    "Shiva Krishna Reddy Malay",
+    "Shravan Nayak",
+    "Jishnu Sethumadhavan Nair",
+    "Sagar Davasam",
+    "Aman Tiwari",
+    "Sathwik Tejaswi Madhusudhan",
+    "Sridhar Krishna Nemala",
+    "Srinivas Sunkara",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WQZfZjLHRa",
+   "pdf_url": "https://openreview.net/pdf?id=WQZfZjLHRa"
+  },
+  {
+   "title": "EvoTac: A Self-Evolving LLM Agent for Eliciting Reusable Tacit Negotiation Heuristics from Terminal Outcomes",
+   "authors": [
+    "Runjie Shen",
+    "Zhilong Li",
+    "Bingzhe Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XcKCWgXYKI",
+   "pdf_url": "https://openreview.net/pdf?id=XcKCWgXYKI"
+  },
+  {
+   "title": "ExecTune: Effective Steering of Black-Box LLMs with Guide Models",
+   "authors": [
+    "Vijay Lingam",
+    "Aditya Golatkar",
+    "Anwesan Pal",
+    "Ben Vo",
+    "Narayanan Sadagopan",
+    "Alessandro Achille",
+    "Jun Huan",
+    "Anoop Deoras",
+    "Stefano Soatto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=reur0mLUkq",
+   "pdf_url": "https://openreview.net/pdf?id=reur0mLUkq"
+  },
+  {
+   "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
+   "authors": [
+    "Yuda Song",
+    "Lili Chen",
+    "Fahim Tajwar",
+    "Rémi Munos",
+    "Deepak Pathak",
+    "Drew Bagnell",
+    "Aarti Singh",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mGBBcPXUIp",
+   "pdf_url": "https://openreview.net/pdf?id=mGBBcPXUIp"
+  },
+  {
+   "title": "Experiential Reinforcement Learning",
+   "authors": [
+    "Taiwei Shi",
+    "Sihao Chen",
+    "Bowen Jiang",
+    "Linxin Song",
+    "Longqi Yang",
+    "Jieyu Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OSYyL6hqdP",
+   "pdf_url": "https://openreview.net/pdf?id=OSYyL6hqdP"
+  },
+  {
+   "title": "Federated Agent Reinforcement Learning",
+   "authors": [
+    "Canyu Chen",
+    "Kangyu Zhu",
+    "Zhaorun Chen",
+    "Zhanhui Zhou",
+    "Shizhe Diao",
+    "Yiping Lu",
+    "Tian Li",
+    "Manling Li",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jwmIq8AQNL",
+   "pdf_url": "https://openreview.net/pdf?id=jwmIq8AQNL"
+  },
+  {
+   "title": "FocusAgent: Simple Yet Effective Ways Of Trimming The Large Context of Web Agents",
+   "authors": [
+    "Imene Kerboua",
+    "Sahar Omidi Shayegan",
+    "Xing Han Lù",
+    "Léo Boisvert",
+    "Megh Thakkar",
+    "Massimo Caccia",
+    "Jérémy Espinas",
+    "Alex Aussem",
+    "Véronique Eglin",
+    "Alexandre Lacoste"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CTsfUq3DpR",
+   "pdf_url": "https://openreview.net/pdf?id=CTsfUq3DpR"
+  },
+  {
+   "title": "From Word to World: Can Large Language Models be Implicit Text-based World Models?",
+   "authors": [
+    "Yixia Li",
+    "Hongru WANG",
+    "Jiahao Qiu",
+    "Zhenfei Yin",
+    "Dongdong Zhang",
+    "Cheng Qian",
+    "Zeping Li",
+    "Xiaoteng Ma",
+    "Guanhua Chen",
+    "Heng Ji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CqXq9vhGNp",
+   "pdf_url": "https://openreview.net/pdf?id=CqXq9vhGNp"
+  },
+  {
+   "title": "GASP: Guided Asymmetric Self-Play For Coding LLMs",
+   "authors": [
+    "Swadesh Jana",
+    "Cansu Sancaktar",
+    "Tomáš Daniš",
+    "Georg Martius",
+    "Antonio Orvieto",
+    "Pavel Kolev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ChWC0E93lF",
+   "pdf_url": "https://openreview.net/pdf?id=ChWC0E93lF"
+  },
+  {
+   "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+   "authors": [
+    "Jiacheng Guo",
+    "Ling Yang",
+    "Peter Chen",
+    "Qixin Xiao",
+    "Yinjie Wang",
+    "Xinzhe Juan",
+    "Jiahao Qiu",
+    "Ke Shen",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5vsYRklFJf",
+   "pdf_url": "https://openreview.net/pdf?id=5vsYRklFJf"
+  },
+  {
+   "title": "Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control",
+   "authors": [
+    "Zunzhe Zhang",
+    "Runhan Huang",
+    "Yicheng Liu",
+    "Shaoting Zhu",
+    "Linzhan Mou",
+    "Hang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BdEz1fISBu",
+   "pdf_url": "https://openreview.net/pdf?id=BdEz1fISBu"
+  },
+  {
+   "title": "Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing",
+   "authors": [
+    "Zhaotian Weng",
+    "Antonis Antoniades",
+    "Deepak Nathani",
+    "Zhen Zhang",
+    "Sophia Xiao Pu",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIwlOTVDBW",
+   "pdf_url": "https://openreview.net/pdf?id=hIwlOTVDBW"
+  },
+  {
+   "title": "Hierarchical Agenda Reasoning for Strategic Multi-Turn Dialogue Agents",
+   "authors": [
+    "Marwa Abdulhai",
+    "Ryan Cheng",
+    "Aryansh Shrivastava",
+    "Aviral Kumar",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=91bXwfHP0Y",
+   "pdf_url": "https://openreview.net/pdf?id=91bXwfHP0Y"
+  },
+  {
+   "title": "Human-Guided Harm Recovery for Computer Use Agents",
+   "authors": [
+    "Christy Li",
+    "Sky CH-Wang",
+    "Andi Peng",
+    "Andreea Bobu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=joefYuOHWS",
+   "pdf_url": "https://openreview.net/pdf?id=joefYuOHWS"
+  },
+  {
+   "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+   "authors": [
+    "Fanqi Kong",
+    "Jiayi Zhang",
+    "Mingyi Deng",
+    "Chenglin Wu",
+    "Yuyu Luo",
+    "Bang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ISqBen8TQO",
+   "pdf_url": "https://openreview.net/pdf?id=ISqBen8TQO"
+  },
+  {
+   "title": "Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals",
+   "authors": [
+    "Achyutha Menon",
+    "Magnus Saebo",
+    "Tyler Crosse",
+    "Spencer Gibson",
+    "Eyon Jang",
+    "Diogo Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r5qVTotjgH",
+   "pdf_url": "https://openreview.net/pdf?id=r5qVTotjgH"
+  },
+  {
+   "title": "Intrinsic Credit Assignment for Long Horizon Interaction",
+   "authors": [
+    "Ilze Amanda Auzina",
+    "Joschka Strüber",
+    "Sergio Hernández-Gutiérrez",
+    "Shashwat Goel",
+    "Ameya Prabhu",
+    "Matthias Bethge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7lD91CE4IU",
+   "pdf_url": "https://openreview.net/pdf?id=7lD91CE4IU"
+  },
+  {
+   "title": "Learning Agent Routing From Early Experience",
+   "authors": [
+    "Yimin Wang",
+    "Jiahao Qiu",
+    "Xuan Qi",
+    "Xinzhe Juan",
+    "Jingzhe Shi",
+    "Zelin Zhao",
+    "Hongru WANG",
+    "Shilong Liu",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LiE8vCbtuq",
+   "pdf_url": "https://openreview.net/pdf?id=LiE8vCbtuq"
+  },
+  {
+   "title": "Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-Horizon Tasks",
+   "authors": [
+    "Cheng Yang",
+    "Xuemeng Yang",
+    "Licheng Wen",
+    "Daocheng Fu",
+    "Jianbiao Mei",
+    "Rong Wu",
+    "Pinlong Cai",
+    "Yufan Shen",
+    "Nianchen Deng",
+    "Jia Xu",
+    "Botian Shi",
+    "Yu Qiao",
+    "Haifeng Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qTpFp3ixnv",
+   "pdf_url": "https://openreview.net/pdf?id=qTpFp3ixnv"
+  },
+  {
+   "title": "Learning Physical Principles from Interaction: Self-Evolving Embodied Planning via Test-Time Memory",
+   "authors": [
+    "Haoyang Li",
+    "Yang You",
+    "Hao Su",
+    "Leonidas Guibas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8v4uNhUcRX",
+   "pdf_url": "https://openreview.net/pdf?id=8v4uNhUcRX"
+  },
+  {
+   "title": "Learning to Evolve: Scaling Open-Ended Discovery with Relative-Progress RL",
+   "authors": [
+    "Xuan Li",
+    "Zhanke Zhou",
+    "Zongze Li",
+    "Jiangchao Yao",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7HV6Q1FX8C",
+   "pdf_url": "https://openreview.net/pdf?id=7HV6Q1FX8C"
+  },
+  {
+   "title": "Learning to Self-Evolve",
+   "authors": [
+    "Xiaoyin Chen",
+    "Canwen Xu",
+    "Yite Wang",
+    "Boyi Liu",
+    "Zhewei Yao",
+    "Yuxiong He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zedEdPhmsA",
+   "pdf_url": "https://openreview.net/pdf?id=zedEdPhmsA"
+  },
+  {
+   "title": "Learning Transferable Skills in Action RPGs via Directed Skill Graphs and Selective Adaptation",
+   "authors": [
+    "Ali Najar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1GkeHCYqqK",
+   "pdf_url": "https://openreview.net/pdf?id=1GkeHCYqqK"
+  },
+  {
+   "title": "Learning What to Learn: Curriculum Curation for Test-Time Agent Learning",
+   "authors": [
+    "Qizheng Zhang",
+    "Sherry Ruan",
+    "Shubhangi Upasani",
+    "Fenglu Hong",
+    "Changxiu Ji",
+    "Changran Hu",
+    "Bo Li",
+    "Hanchen Li",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zCz7yXeaYF",
+   "pdf_url": "https://openreview.net/pdf?id=zCz7yXeaYF"
+  },
+  {
+   "title": "LHAW: Controllable Underspecification for Long-Horizon Tasks",
+   "authors": [
+    "George Pu",
+    "Michael S. Lee",
+    "Udari Madhushani Sehwag",
+    "David J. Lee",
+    "Bryan Zhu",
+    "Yash Maurya",
+    "Mohit Raghavendra",
+    "Yuan Xue",
+    "Samuel Marc Denton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B6GsvUAepZ",
+   "pdf_url": "https://openreview.net/pdf?id=B6GsvUAepZ"
+  },
+  {
+   "title": "Lifelong Contextual Safety Alignment at Test Time for Multi-Modal LLMs",
+   "authors": [
+    "Ce Zhang",
+    "Jinxi He",
+    "Junyi He",
+    "Katia P. Sycara",
+    "Yaqi Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UtVQuX9rEs",
+   "pdf_url": "https://openreview.net/pdf?id=UtVQuX9rEs"
+  },
+  {
+   "title": "Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation",
+   "authors": [
+    "Peter Baile Chen",
+    "Yi Zhang",
+    "Dan Roth",
+    "Samuel Madden",
+    "Jacob Andreas",
+    "Mike Cafarella"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nEogheVaYr",
+   "pdf_url": "https://openreview.net/pdf?id=nEogheVaYr"
+  },
+  {
+   "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+   "authors": [
+    "lu Yang",
+    "Zelai Xu",
+    "Minyang Xie",
+    "Jiaxuan Gao",
+    "zhao shok",
+    "Yu Wang",
+    "Yi Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=39tQ6si2EK",
+   "pdf_url": "https://openreview.net/pdf?id=39tQ6si2EK"
+  },
+  {
+   "title": "Mem$^2$Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation",
+   "authors": [
+    "Zihao Cheng",
+    "Zeming Liu",
+    "Yingyu Shan",
+    "Xinyi Wang",
+    "Xiangrong Zhu",
+    "Yunpu Ma",
+    "Hongru WANG",
+    "Yuhang Guo",
+    "Wei Lin",
+    "Yunhong Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Shx5U1und6",
+   "pdf_url": "https://openreview.net/pdf?id=Shx5U1und6"
+  },
+  {
+   "title": "MemoryCD: Benchmarking Long-Context User Memory of  LLM Agents for Lifelong Cross-Domain Personalization",
+   "authors": [
+    "Weizhi Zhang",
+    "Xiaokai Wei",
+    "Wei-Chieh Huang",
+    "Zheng Hui",
+    "Chen Wang",
+    "Michelle Gong",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lpq4aEqvmg",
+   "pdf_url": "https://openreview.net/pdf?id=Lpq4aEqvmg"
+  },
+  {
+   "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+   "authors": [
+    "Shunchi Zhang",
+    "Jin Lu",
+    "Chuanyang Jin",
+    "Yichao Zhou",
+    "Zhining Zhang",
+    "Tianmin Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0xDjjEfz6T",
+   "pdf_url": "https://openreview.net/pdf?id=0xDjjEfz6T"
+  },
+  {
+   "title": "MobileMem: Evaluating Long-Horizon Memory for Language Agents in Real-World Mobile Environments",
+   "authors": [
+    "Xinle Deng",
+    "Yida Xue",
+    "Yijun Chen",
+    "Mingjun Mao",
+    "Ruobin Zhong",
+    "Buqiang Xu",
+    "Jizhan Fang",
+    "Haoming Xu",
+    "Tingwei Wu",
+    "Yajing Xu",
+    "Shumin Deng",
+    "Haofen Wang",
+    "Huajun Chen",
+    "Ningyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w5I11HrMgJ",
+   "pdf_url": "https://openreview.net/pdf?id=w5I11HrMgJ"
+  },
+  {
+   "title": "Narrow Fine-Tuning Erodes Safety Alignment in Vision-Language Agents",
+   "authors": [
+    "Idhant Gulati",
+    "Shivam Raval"
+   ],
+   "forum_url": "https://openreview.net/forum?id=03j39K8tpI",
+   "pdf_url": "https://openreview.net/pdf?id=03j39K8tpI"
+  },
+  {
+   "title": "Navigating the Cost-Performance Pareto Frontier of Test-Time LLM Agent Adaptation",
+   "authors": [
+    "Konrad Szafer",
+    "Xiaozhe Yao",
+    "Maximilian Böther",
+    "Gregor Bachmann",
+    "Tiago Pimentel",
+    "Ana Klimovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tWAnCRYMcT",
+   "pdf_url": "https://openreview.net/pdf?id=tWAnCRYMcT"
+  },
+  {
+   "title": "Not All Clients Are Equal: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients",
+   "authors": [
+    "Minhyuk Seo",
+    "Taeheon Kim",
+    "Hankook Lee",
+    "Jonghyun Choi",
+    "Tinne Tuytelaars"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UdlkSHP6Ph",
+   "pdf_url": "https://openreview.net/pdf?id=UdlkSHP6Ph"
+  },
+  {
+   "title": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Flemming Kondrup",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GSXuFrVf8Y",
+   "pdf_url": "https://openreview.net/pdf?id=GSXuFrVf8Y"
+  },
+  {
+   "title": "OceanGym: Evaluating Language-Grounded Embodied Agents in Underwater Environments",
+   "authors": [
+    "Yida Xue",
+    "Mingjun Mao",
+    "Xiangyuan Ru",
+    "Yuqi Zhu",
+    "Baochang Ren",
+    "Shuofei Qiao",
+    "Mengru Wang",
+    "Shumin Deng",
+    "Xinyu An",
+    "Ningyu Zhang",
+    "Ying Chen",
+    "Huajun Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P4I0YWQDZC",
+   "pdf_url": "https://openreview.net/pdf?id=P4I0YWQDZC"
+  },
+  {
+   "title": "On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement",
+   "authors": [
+    "Wenlong Deng",
+    "Yushu Li",
+    "Boying Gong",
+    "Yi Ren",
+    "Christos Thrampoulidis",
+    "Xiaoxiao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CJh9sL5U9M",
+   "pdf_url": "https://openreview.net/pdf?id=CJh9sL5U9M"
+  },
+  {
+   "title": "On Path to Multimodal Historical Reasoning: HistBench and HistAgent",
+   "authors": [
+    "Jiahao Qiu",
+    "Fulian Xiao",
+    "Yimin Wang",
+    "Yuchen Mao",
+    "Yijia Chen",
+    "Xinzhe Juan",
+    "Siran Wang",
+    "Xuan Qi",
+    "Tongcheng Zhang",
+    "Zixin Yao",
+    "Jiacheng Guo",
+    "Yifu Lu",
+    "Charles Argon",
+    "Jundi Cui",
+    "Daixin Chen",
+    "Junran Zhou",
+    "Shuyao Zhou",
+    "Zhanpeng Zhou",
+    "Ling Yang",
+    "Shilong Liu",
+    "Hongru WANG",
+    "Kaixuan Huang",
+    "xun jiang",
+    "Xi Gao",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qro0rE3XbO",
+   "pdf_url": "https://openreview.net/pdf?id=Qro0rE3XbO"
+  },
+  {
+   "title": "One Model, Many Goals: Meta-Learning Preference-Conditioned Alignment for Lifelong LLM Agents",
+   "authors": [
+    "Fatemeh Nourzad",
+    "Daouda Sow",
+    "Yingbin Liang",
+    "Ming Shi",
+    "Ming Zhang",
+    "Yunxuan Li",
+    "Eylem Ekici",
+    "Ness Shroff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2FVShQSae2",
+   "pdf_url": "https://openreview.net/pdf?id=2FVShQSae2"
+  },
+  {
+   "title": "PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution",
+   "authors": [
+    "Minghao Yan",
+    "Bo Peng",
+    "Benjamin Coleman",
+    "Ziqi Chen",
+    "Zhouhang Xie",
+    "Shuo Chen",
+    "Zhankui He",
+    "Noveen Sachdeva",
+    "Isabella Ye",
+    "Weili Wang",
+    "Chi Wang",
+    "Ed H. Chi",
+    "Fernando Pereira",
+    "Wang-Cheng Kang",
+    "Derek Zhiyuan Cheng",
+    "Beidou Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7qsTTBK1vU",
+   "pdf_url": "https://openreview.net/pdf?id=7qsTTBK1vU"
+  },
+  {
+   "title": "Paying Less Generalization Tax: A  Cross-Domain Generalization Study of RL Training  for LLM Agents",
+   "authors": [
+    "Zhihan Liu",
+    "Lin Guan",
+    "Yixin Nie",
+    "Kai Zhang",
+    "Zoey Hao",
+    "Lin Chen",
+    "Asli Celikyilmaz",
+    "Zhaoran Wang",
+    "Na Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=snZXPp7r1y",
+   "pdf_url": "https://openreview.net/pdf?id=snZXPp7r1y"
+  },
+  {
+   "title": "PEARL: Self-Evolving Assistant for Time Management",
+   "authors": [
+    "Bingxuan Li",
+    "Jeonghwan Kim",
+    "Cheng Qian",
+    "Xiusi Chen",
+    "Eitan Anzenberg",
+    "Niran Kundapur",
+    "Heng Ji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dxb4wNmBwq",
+   "pdf_url": "https://openreview.net/pdf?id=dxb4wNmBwq"
+  },
+  {
+   "title": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
+   "authors": [
+    "Ke Yang",
+    "Zixi Chen",
+    "Xuan He",
+    "Jize Jiang",
+    "Michel Galley",
+    "Chenglong Wang",
+    "Jianfeng Gao",
+    "Jiawei Han",
+    "ChengXiang Zhai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LE664kai2e",
+   "pdf_url": "https://openreview.net/pdf?id=LE664kai2e"
+  },
+  {
+   "title": "PolicyBank: Evolving Policy Understanding For Evolving Agents",
+   "authors": [
+    "Jihye Choi",
+    "Jinsung Yoon",
+    "Long T. Le",
+    "Somesh Jha",
+    "Tomas Pfister"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AhKGXZPz9u",
+   "pdf_url": "https://openreview.net/pdf?id=AhKGXZPz9u"
+  },
+  {
+   "title": "Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization",
+   "authors": [
+    "Yihang Yao",
+    "Zhepeng Cen",
+    "Haohong Lin",
+    "Shiqi Liu",
+    "Zuxin Liu",
+    "Jiacheng Zhu",
+    "Zhang-Wei Hong",
+    "Laixi Shi",
+    "Ding Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R5vYSGS5Wx",
+   "pdf_url": "https://openreview.net/pdf?id=R5vYSGS5Wx"
+  },
+  {
+   "title": "ReCreate: Reasoning and Creating Domain Agents Driven by Experience",
+   "authors": [
+    "Zhezheng Hao",
+    "Hong Wang",
+    "Jian Luo",
+    "Jianqing Zhang",
+    "Yuyan Zhou",
+    "Qiang Lin",
+    "Can Wang",
+    "Hande Dong",
+    "Jiawei Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Z1nUXuH72",
+   "pdf_url": "https://openreview.net/pdf?id=9Z1nUXuH72"
+  },
+  {
+   "title": "ReMix: Reinforcement Routing for Mixtures of LoRAs in LLM Finetuning",
+   "authors": [
+    "Ruizhong Qiu",
+    "Hanqing Zeng",
+    "Yinglong Xia",
+    "Yiwen Meng",
+    "Ren Chen",
+    "Jiarui Feng",
+    "Dongqi Fu",
+    "Qifan Wang",
+    "Jiayi Liu",
+    "Jun Xiao",
+    "Xiangjun Fan",
+    "Benyu Zhang",
+    "Hong Li",
+    "Zhining Liu",
+    "Hyunsik Yoo",
+    "Zhichen Zeng",
+    "Tianxin Wei",
+    "Hanghang Tong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KH5ztWgAEp",
+   "pdf_url": "https://openreview.net/pdf?id=KH5ztWgAEp"
+  },
+  {
+   "title": "Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
+   "authors": [
+    "Lars Lien Ankile",
+    "Zhenyu Jiang",
+    "Rocky Duan",
+    "Guanya Shi",
+    "Pieter Abbeel",
+    "Anusha Nagabandi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I8rNl70C3C",
+   "pdf_url": "https://openreview.net/pdf?id=I8rNl70C3C"
+  },
+  {
+   "title": "ScenDroid: A Scenario-Level Benchmark for Long-Horizon, Time-Evolving GUI Agents",
+   "authors": [
+    "Zhe Wu",
+    "Yongxin Kang",
+    "Dabin Sheng",
+    "Junliang Xing",
+    "Guokun Wu",
+    "Derek Yuen",
+    "Donglin Mo",
+    "Yuheng Jing",
+    "Kai Li",
+    "Weilin Luo",
+    "Kun Shao",
+    "Yuanchun Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hBTsLjjw48",
+   "pdf_url": "https://openreview.net/pdf?id=hBTsLjjw48"
+  },
+  {
+   "title": "Self-Distillation Enables Continual Learning",
+   "authors": [
+    "Idan Shenfeld",
+    "Mehul Damani",
+    "Jonas Hübotter",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HlWA3V6iKF",
+   "pdf_url": "https://openreview.net/pdf?id=HlWA3V6iKF"
+  },
+  {
+   "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
+   "authors": [
+    "Siyan Zhao",
+    "Zhihui Xie",
+    "Mengchen Liu",
+    "Jing Huang",
+    "Guan Pang",
+    "Feiyu Chen",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=31wkVZXEaJ",
+   "pdf_url": "https://openreview.net/pdf?id=31wkVZXEaJ"
+  },
+  {
+   "title": "Self-Questioning Language Models",
+   "authors": [
+    "Lili Chen",
+    "Mihir Prabhudesai",
+    "Katerina Fragkiadaki",
+    "Hao Liu",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sWBBJ3WgmO",
+   "pdf_url": "https://openreview.net/pdf?id=sWBBJ3WgmO"
+  },
+  {
+   "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+   "authors": [
+    "Jiaqi Liu",
+    "Yaofeng Su",
+    "Peng Xia",
+    "Siwei Han",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dbZAi4hmwg",
+   "pdf_url": "https://openreview.net/pdf?id=dbZAi4hmwg"
+  },
+  {
+   "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+   "authors": [
+    "Peng Xia",
+    "Jianwen Chen",
+    "Hanyang Wang",
+    "Jiaqi Liu",
+    "Kaide Zeng",
+    "Yu Wang",
+    "Siwei Han",
+    "Yiyang Zhou",
+    "Xujiang Zhao",
+    "Haifeng Chen",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FYc2IygegR",
+   "pdf_url": "https://openreview.net/pdf?id=FYc2IygegR"
+  },
+  {
+   "title": "Streaming Memory Benchmark: Stage-level Diagnosis with Evidence Dependency Control",
+   "authors": [
+    "Guanming Liu",
+    "Haoran Yin",
+    "LITIANCHEN",
+    "Sikuan Yan",
+    "Hongru WANG",
+    "Baian Chen",
+    "Xiaoteng Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i1gkKNMX0K",
+   "pdf_url": "https://openreview.net/pdf?id=i1gkKNMX0K"
+  },
+  {
+   "title": "SWITCH: Benchmarking Interaction and Verification on Real-World Interfaces in Lifelong Embodied Agents",
+   "authors": [
+    "Jieru Lin",
+    "Zhiwei Yu",
+    "Börje F. Karlsson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r57HQz2s6o",
+   "pdf_url": "https://openreview.net/pdf?id=r57HQz2s6o"
+  },
+  {
+   "title": "The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios",
+   "authors": [
+    "Daocheng Fu",
+    "Jianbiao Mei",
+    "Rong Wu",
+    "Xuemeng Yang",
+    "Jia Xu",
+    "Yufan Shen",
+    "Ding Wang",
+    "Pinlong Cai",
+    "Yong Liu",
+    "Licheng Wen",
+    "Botian Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x6mjEbtKv0",
+   "pdf_url": "https://openreview.net/pdf?id=x6mjEbtKv0"
+  },
+  {
+   "title": "The Hidden Costs of Domain Fine-Tuning: Pii-Bearing Data Degrades Safety and Increases Leakage",
+   "authors": [
+    "Jayesh Choudhari",
+    "Piyush Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XdMwHpl7Mh",
+   "pdf_url": "https://openreview.net/pdf?id=XdMwHpl7Mh"
+  },
+  {
+   "title": "TSR: Trajectory‑Search Rollouts for Multi‑Turn RL of LLM Agents",
+   "authors": [
+    "Aladin Djuhera",
+    "Swanand Ravindra Kadhe",
+    "Farhan Ahmed",
+    "Heiko Ludwig",
+    "Holger Boche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NwxReDS16a",
+   "pdf_url": "https://openreview.net/pdf?id=NwxReDS16a"
+  },
+  {
+   "title": "TTCS: Test-Time Curriculum Synthesis for Self-Evolving",
+   "authors": [
+    "Chengyi Yang",
+    "Zhishang Xiang",
+    "Yunbo Tang",
+    "Zongpei Teng",
+    "Chengsong Huang",
+    "Yuhan Liu",
+    "Jinsong Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZkAJQNXQkr",
+   "pdf_url": "https://openreview.net/pdf?id=ZkAJQNXQkr"
+  },
+  {
+   "title": "Understanding Knowledge Acquisition and Release in Language Models via Circuits",
+   "authors": [
+    "Kiran Raja",
+    "Arav Maheria",
+    "Andrew Bae",
+    "Alan Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MYgw7DBJye",
+   "pdf_url": "https://openreview.net/pdf?id=MYgw7DBJye"
+  },
+  {
+   "title": "Understanding Reasoning Collapse in Multi-Turn Agent Reinforcement Learning",
+   "authors": [
+    "Zihan Wang",
+    "Chi Gui",
+    "Xing Jin",
+    "Qineng Wang",
+    "Licheng Liu",
+    "Kangrui Wang",
+    "Shiqi Chen",
+    "Linjie Li",
+    "Zhengyuan Yang",
+    "Pingyue Zhang",
+    "Yiping Lu",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Lijuan Wang",
+    "Yejin Choi",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9ElTlEDWpx",
+   "pdf_url": "https://openreview.net/pdf?id=9ElTlEDWpx"
+  },
+  {
+   "title": "Universe Routing: Why Self-Evolving Agents Need Epistemic Control",
+   "authors": [
+    "Zhaohui Geoffrey Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K97fqD2ffS",
+   "pdf_url": "https://openreview.net/pdf?id=K97fqD2ffS"
+  },
+  {
+   "title": "Verifying the Verifiers: Failure Attribution for Agentic Benchmark Diagnostics and Training Data Curation",
+   "authors": [
+    "Jesse Hu",
+    "Pratyush Shukla",
+    "Ke Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B6QfT7SHh8",
+   "pdf_url": "https://openreview.net/pdf?id=B6QfT7SHh8"
+  },
+  {
+   "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+   "authors": [
+    "Dongfu Jiang",
+    "Yi Lu",
+    "Zhuofeng Li",
+    "Zhiheng Lyu",
+    "Ping Nie",
+    "Haozhe Wang",
+    "Alex Su",
+    "Hui Chen",
+    "Kai Zou",
+    "Chao Du",
+    "Tianyu Pang",
+    "Wenhu Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z9MXthgwQf",
+   "pdf_url": "https://openreview.net/pdf?id=z9MXthgwQf"
+  },
+  {
+   "title": "Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection",
+   "authors": [
+    "Fatemeh Pesaran zadeh",
+    "Seyeon Choi",
+    "Xing Han Lù",
+    "Siva Reddy",
+    "Gunhee Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ixNDssFCkd",
+   "pdf_url": "https://openreview.net/pdf?id=ixNDssFCkd"
+  },
+  {
+   "title": "When Drafts Evolve: Speculative Decoding Meets Online Learning",
+   "authors": [
+    "Yu-Yang Qian",
+    "Hao-Cong Wu",
+    "Yichao Fu",
+    "Hao Zhang",
+    "Peng Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gNsyXipCRq",
+   "pdf_url": "https://openreview.net/pdf?id=gNsyXipCRq"
+  },
+  {
+   "title": "Which Memory Operation Drives Recovery? A Factorial Study of Retrieve, Write, and Manage Adaptation under Domain Shift",
+   "authors": [
+    "Zhaoxiang Feng",
+    "Mingyang Yao",
+    "Charlie Sun",
+    "David Scott Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=81CEtTu1oA",
+   "pdf_url": "https://openreview.net/pdf?id=81CEtTu1oA"
+  },
+  {
+   "title": "Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections",
+   "authors": [
+    "XIANGLIN YANG",
+    "Yufei He",
+    "Shuo Ji",
+    "Bryan Hooi",
+    "Jin Song Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OdXgAvBiCl",
+   "pdf_url": "https://openreview.net/pdf?id=OdXgAvBiCl"
+  }
+ ]
+}

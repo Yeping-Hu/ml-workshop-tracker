@@ -1,0 +1,438 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/World_Models",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:17.430Z",
+ "paper_count": 36,
+ "papers": [
+  {
+   "title": "Adapting Vision-Language Models for Evaluating World Models",
+   "authors": [
+    "Mariya Hendriksen",
+    "Tabish Rashid",
+    "David Bignell",
+    "Raluca Georgescu",
+    "Abdelhak Lemkhenter",
+    "Katja Hofmann",
+    "Sam Devlin",
+    "Sarah Parisot"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8qhtPm8maS",
+   "pdf_url": "https://openreview.net/pdf?id=8qhtPm8maS"
+  },
+  {
+   "title": "APOD: Adaptive PDE-Observation Diffusion for Physics-Constrained Sampling",
+   "authors": [
+    "Ruichen Xu",
+    "Haochun Wang",
+    "Georgios Kementzidis",
+    "Chenhao Si",
+    "Yuefan Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z1J7LJGDxH",
+   "pdf_url": "https://openreview.net/pdf?id=Z1J7LJGDxH"
+  },
+  {
+   "title": "Aquilon: Towards Building Multimodal Weather LLMs",
+   "authors": [
+    "Sumanth Varambally",
+    "Veeramakali Vignesh Manivannan",
+    "Yasaman Jafari",
+    "Luyu Han",
+    "Zachary Novack",
+    "Zhirui Xia",
+    "Salva Rühling Cachay",
+    "Srikar Eranky",
+    "Ruijia Niu",
+    "Taylor Berg-Kirkpatrick",
+    "Duncan Watson-Parris",
+    "Yian Ma",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KVxOwEYAF4",
+   "pdf_url": "https://openreview.net/pdf?id=KVxOwEYAF4"
+  },
+  {
+   "title": "Are LLM Belief Updates Consistent with Bayes’ Theorem?",
+   "authors": [
+    "Sohaib Imran",
+    "Ihor Kendiukhov",
+    "Matthew Broerman",
+    "Aditya Thomas",
+    "Riccardo Campanella",
+    "Rob Lamb",
+    "Peter M. Atkinson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bki9T98mfr",
+   "pdf_url": "https://openreview.net/pdf?id=Bki9T98mfr"
+  },
+  {
+   "title": "Beyond Behavioural Evaluations for Assessing World Models",
+   "authors": [
+    "Kola Ayonrinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2mqKtmLA46",
+   "pdf_url": "https://openreview.net/pdf?id=2mqKtmLA46"
+  },
+  {
+   "title": "Cards Against Contamination: TCG-Bench for Difficulty-Scalable Multilingual LLM Reasoning",
+   "authors": [
+    "Sultan AlRashed",
+    "Jianghui Wang",
+    "Francesco Orabona"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0HF2Dg0Ldx",
+   "pdf_url": "https://openreview.net/pdf?id=0HF2Dg0Ldx"
+  },
+  {
+   "title": "Contextual Effects in LLM and Human Causal Reasoning",
+   "authors": [
+    "Zach Studdiford",
+    "Gary Lupyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BMHkg3BL6e",
+   "pdf_url": "https://openreview.net/pdf?id=BMHkg3BL6e"
+  },
+  {
+   "title": "Deep Koopman operator framework for causal discovery in nonlinear dynamical systems",
+   "authors": [
+    "Juan Nathaniel",
+    "Carla Roesch",
+    "Jatan Buch",
+    "Derek DeSantis",
+    "Adam Rupe",
+    "Kara D Lamb",
+    "Pierre Gentine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7HZxoTIh6y",
+   "pdf_url": "https://openreview.net/pdf?id=7HZxoTIh6y"
+  },
+  {
+   "title": "Do Vision Language Models infer human intention without visual perspective-taking? Towards a scalable \"One-Image-Probe-All\" dataset",
+   "authors": [
+    "Bingyang Wang",
+    "Yijiang Li",
+    "Qingyang Zhou",
+    "Hui Yi Leong",
+    "Tianwei Zhao",
+    "Letian Ye",
+    "Hokin Deng",
+    "Dezhi Luo",
+    "Nuno Vasconcelos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iekoq1rv80",
+   "pdf_url": "https://openreview.net/pdf?id=iekoq1rv80"
+  },
+  {
+   "title": "Eliminating Discriminative Shortcuts in Multiple Choice Evaluations with Answer Matching",
+   "authors": [
+    "Nikhil Chandak",
+    "Shashwat Goel",
+    "Ameya Prabhu",
+    "Moritz Hardt",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=soHayBL5uE",
+   "pdf_url": "https://openreview.net/pdf?id=soHayBL5uE"
+  },
+  {
+   "title": "Evaluating Forecasting is More Difficult than Other LLM Evaluations",
+   "authors": [
+    "Daniel Paleka",
+    "Shashwat Goel",
+    "Jonas Geiping",
+    "Florian Tramèr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=77w4a4oxpq",
+   "pdf_url": "https://openreview.net/pdf?id=77w4a4oxpq"
+  },
+  {
+   "title": "Evaluating Self-Orienting in Language and Reasoning Models",
+   "authors": [
+    "Eric J Bigelow",
+    "Zergham Ahmed",
+    "Tomer Ullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hPdUQnQrUu",
+   "pdf_url": "https://openreview.net/pdf?id=hPdUQnQrUu"
+  },
+  {
+   "title": "FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models",
+   "authors": [
+    "Likun Tan",
+    "Kuan-Wei Huang",
+    "Kevin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPxZ01t3fH",
+   "pdf_url": "https://openreview.net/pdf?id=oPxZ01t3fH"
+  },
+  {
+   "title": "GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning",
+   "authors": [
+    "Sahiti Yerramilli",
+    "Nilay Pande",
+    "Jayant Sravan Tamarapalli",
+    "Rynaa Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xi6EHI6osf",
+   "pdf_url": "https://openreview.net/pdf?id=Xi6EHI6osf"
+  },
+  {
+   "title": "HueManity: Probing Fine-Grained Visual Perception in MLLMs",
+   "authors": [
+    "Rynaa Grover",
+    "Jayant Sravan Tamarapalli",
+    "Sahiti Yerramilli",
+    "Nilay Pande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=munNPK7yA7",
+   "pdf_url": "https://openreview.net/pdf?id=munNPK7yA7"
+  },
+  {
+   "title": "I Have No Mouth, and I Must Rhyme: Uncovering Internal Phonetic Representations in LLaMA 3.2",
+   "authors": [
+    "Oliver McLaughlin",
+    "Jack Merullo",
+    "Arjun Khurana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YoqDj0wQ18",
+   "pdf_url": "https://openreview.net/pdf?id=YoqDj0wQ18"
+  },
+  {
+   "title": "Let’s Simulate Frame-by-Frame: In-Context Physical Simulations with Vision-Language Models",
+   "authors": [
+    "YingQiao Wang",
+    "Eric J Bigelow",
+    "Tomer Ullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rnFS3tbaTg",
+   "pdf_url": "https://openreview.net/pdf?id=rnFS3tbaTg"
+  },
+  {
+   "title": "Leveraging the Sequential Nature of Language for Interpretability",
+   "authors": [
+    "Usha Bhalla",
+    "Alex Oesterling",
+    "Claudio Mayrink Verdun",
+    "Flavio Calmon",
+    "Himabindu Lakkaraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hgPf1ki6dx",
+   "pdf_url": "https://openreview.net/pdf?id=hgPf1ki6dx"
+  },
+  {
+   "title": "Measuring Belief Updates in Curious Agents",
+   "authors": [
+    "Joschka Strüber",
+    "Ilze Amanda Auzina",
+    "Shashwat Goel",
+    "Susanne Keller",
+    "Jonas Geiping",
+    "Ameya Prabhu",
+    "Matthias Bethge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vIddey7z1I",
+   "pdf_url": "https://openreview.net/pdf?id=vIddey7z1I"
+  },
+  {
+   "title": "Measuring Rule-Following in Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=JjhpELEtCG",
+   "pdf_url": "https://openreview.net/pdf?id=JjhpELEtCG"
+  },
+  {
+   "title": "MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models",
+   "authors": [
+    "Vanya Cohen",
+    "Ray Mooney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Tjlw3KNT1",
+   "pdf_url": "https://openreview.net/pdf?id=5Tjlw3KNT1"
+  },
+  {
+   "title": "Newfluence: Boosting Model Interpretability and Understanding in High Dimensions",
+   "authors": [
+    "Haolin Zou",
+    "Arnab Auddy",
+    "Yongchan Kwon",
+    "Kamiar Rahnama Rad",
+    "Arian Maleki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AALFCxEucZ",
+   "pdf_url": "https://openreview.net/pdf?id=AALFCxEucZ"
+  },
+  {
+   "title": "On the Emergence of \"Useless\" Features in Next Token Predictors",
+   "authors": [
+    "Mark Rofin",
+    "Jalal Naghiyev",
+    "Michael Hahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lniwJxd2cT",
+   "pdf_url": "https://openreview.net/pdf?id=lniwJxd2cT"
+  },
+  {
+   "title": "Open World Scene Graph Generation using Vision Language Models",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=scLTR2Xx4Q",
+   "pdf_url": "https://openreview.net/pdf?id=scLTR2Xx4Q"
+  },
+  {
+   "title": "Probing the Limits of Mathematical World Models in LLMs",
+   "authors": [
+    "Henry Kvinge",
+    "Elizabeth Coda",
+    "Eric Yeats",
+    "Davis Brown",
+    "John Buckheit",
+    "Sarah McGuire Scullen",
+    "Brendan Kennedy",
+    "Loc Truong",
+    "William Kay",
+    "Cliff Joslyn",
+    "Tegan Emerson",
+    "Michael J. Henry",
+    "John Anthony Emanuello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aMaSHy8IgK",
+   "pdf_url": "https://openreview.net/pdf?id=aMaSHy8IgK"
+  },
+  {
+   "title": "ReviseQA: A Benchmark for Belief Revision in Multi-Turn Logical Reasoning",
+   "authors": [
+    "Chadi Helwe",
+    "Sultan AlRashed",
+    "Francesco Orabona"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z4KBiAYXlI",
+   "pdf_url": "https://openreview.net/pdf?id=Z4KBiAYXlI"
+  },
+  {
+   "title": "RMA: Reward Model Alignment with Human preference",
+   "authors": [
+    "Ashish Gupta",
+    "Manjunatha Naik MC"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SMIDF8gbku",
+   "pdf_url": "https://openreview.net/pdf?id=SMIDF8gbku"
+  },
+  {
+   "title": "Testing LLM Understanding of Scientific Literature through Expert-Driven Question Answering: Insights from High-Temperature Superconductivity",
+   "authors": [
+    "Haoyu Guo",
+    "Maria Tikhanovskaya",
+    "Paul Raccuglia",
+    "Alexey Vlaskin",
+    "Chris Co",
+    "Daniel J. Liebling",
+    "Scott Ellsworth",
+    "Matthew Abraham",
+    "Elizabeth Dorfman",
+    "Peter Armitage",
+    "John Tranquada",
+    "Senthil Todadri",
+    "Antoine Georges",
+    "Subir Sachdev",
+    "Steven Kivelson",
+    "Brad Ramshaw",
+    "Dominik Kiese",
+    "Chunhan Feng",
+    "Olivier Gingras",
+    "Vadim Oganesyan",
+    "Michael Brenner",
+    "Subhashini Venugopalan",
+    "Eun-Ah Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0DvZKTjrCl",
+   "pdf_url": "https://openreview.net/pdf?id=0DvZKTjrCl"
+  },
+  {
+   "title": "Tracking World States with Language Models: State-Based Evaluation Using Chess",
+   "authors": [
+    "Romain Harang",
+    "Jason Naradowsky",
+    "Yaswitha Gujju",
+    "Yusuke Miyao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=naL0AREKUh",
+   "pdf_url": "https://openreview.net/pdf?id=naL0AREKUh"
+  },
+  {
+   "title": "Unbounded Memory and Consistent Imagination via Unified Diffusion–SSM World Models",
+   "authors": [
+    "Jia-Hua Lee",
+    "Bor-Jiun Lin",
+    "Wei-Fang Sun",
+    "Chun-Yi Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r83UWDMcrF",
+   "pdf_url": "https://openreview.net/pdf?id=r83UWDMcrF"
+  },
+  {
+   "title": "Uncertainty Quantification for LLM-Based Survey Simulations",
+   "authors": [
+    "Chengpiao Huang",
+    "Yuhang Wu",
+    "Kaizheng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RKQFXiIoyz",
+   "pdf_url": "https://openreview.net/pdf?id=RKQFXiIoyz"
+  },
+  {
+   "title": "Understanding Large Language Models' Ability on  Interdisciplinary Research",
+   "authors": [
+    "Yuanhao Shen",
+    "Daniel Xavier de Sousa",
+    "Ricardo Marçal de Andrade Nascimento",
+    "Ali Asad",
+    "Hongyu Guo",
+    "Xiaodan Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1HLwSpJZCh",
+   "pdf_url": "https://openreview.net/pdf?id=1HLwSpJZCh"
+  },
+  {
+   "title": "Virtue Semantics: Probing the Consistency of Moral Values of Large Language Models",
+   "authors": [
+    "Em Smullen",
+    "Srihari Thirumaligai",
+    "Anna Leshinskaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YyCaKO8YuH",
+   "pdf_url": "https://openreview.net/pdf?id=YyCaKO8YuH"
+  },
+  {
+   "title": "What if Othello-Playing Language Models Could See?",
+   "authors": [
+    "Xinyi Chen",
+    "Yifei Yuan",
+    "Jiaang Li",
+    "Serge Belongie",
+    "Maarten de Rijke",
+    "Anders Søgaard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rhrmGbqw6a",
+   "pdf_url": "https://openreview.net/pdf?id=rhrmGbqw6a"
+  },
+  {
+   "title": "World Models and Consistent Mistakes in LLMs",
+   "authors": [
+    "Christopher Wolfram",
+    "Aaron Schein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XunYYDvv39",
+   "pdf_url": "https://openreview.net/pdf?id=XunYYDvv39"
+  },
+  {
+   "title": "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning",
+   "authors": [
+    "Delong Chen",
+    "Willy Chung",
+    "Yejin Bang",
+    "Ziwei Ji",
+    "Pascale Fung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3GuGN0bacr",
+   "pdf_url": "https://openreview.net/pdf?id=3GuGN0bacr"
+  }
+ ]
+}

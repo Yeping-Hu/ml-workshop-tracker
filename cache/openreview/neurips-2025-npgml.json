@@ -1,0 +1,1037 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/NPGML",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:12.161Z",
+ "paper_count": 93,
+ "papers": [
+  {
+   "title": "A Generative Framework for Exchangeable Graphs with Global and Local Latent Structure",
+   "authors": [
+    "Daniele Micheletti",
+    "Federica Zoe Ricci",
+    "Erik B. Sudderth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bHmfN2pYuL",
+   "pdf_url": "https://openreview.net/pdf?id=bHmfN2pYuL"
+  },
+  {
+   "title": "A Graph Talks, But Who's Listening? Rethinking Evaluations for Graph-Language Models",
+   "authors": [
+    "Soham Petkar",
+    "Hari Aakash K",
+    "Anirudh Vempati",
+    "Akshit Sinha",
+    "Ponnurangam Kumaraguru",
+    "Chirag Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IAuiRjAqiE",
+   "pdf_url": "https://openreview.net/pdf?id=IAuiRjAqiE"
+  },
+  {
+   "title": "A New Perspective for Graph Learning Architecture Design: Linearize Your Depth Away",
+   "authors": [
+    "Joël Mathys",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lybxAx4Msq",
+   "pdf_url": "https://openreview.net/pdf?id=lybxAx4Msq"
+  },
+  {
+   "title": "A scalable platform to build the data layer of knowledge graph AI",
+   "authors": [
+    "Lucas Vittor",
+    "Iñaki Arango",
+    "Ayush Noori",
+    "Joaquin Polonuer",
+    "Marinka Zitnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8OXD0yNZoD",
+   "pdf_url": "https://openreview.net/pdf?id=8OXD0yNZoD"
+  },
+  {
+   "title": "Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference",
+   "authors": [
+    "Ben Finkelshtein",
+    "Silviu Cucerzan",
+    "Sujay Kumar Jauhar",
+    "Ryen W White"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sdSC1LPmyZ",
+   "pdf_url": "https://openreview.net/pdf?id=sdSC1LPmyZ"
+  },
+  {
+   "title": "AI-Generated Text Detection using ISGraphs and Graph Neural Networks",
+   "authors": [
+    "Andric Valdez Valenzuela",
+    "Helena Gomez Adorno",
+    "Manuel Montes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V644vvGvzf",
+   "pdf_url": "https://openreview.net/pdf?id=V644vvGvzf"
+  },
+  {
+   "title": "Are Large Language Models Good Temporal Graph Learners?",
+   "authors": [
+    "Shenyang Huang",
+    "Ali Parviz",
+    "Emma Kondrup",
+    "Zachary Yang",
+    "Zifeng Ding",
+    "Michael M. Bronstein",
+    "Reihaneh Rabbany",
+    "Guillaume Rabusseau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4ZithWQFQN",
+   "pdf_url": "https://openreview.net/pdf?id=4ZithWQFQN"
+  },
+  {
+   "title": "Beyond Sparse Benchmarks: Evaluating GNNs with Realistic Missing Features",
+   "authors": [
+    "Francesco Ferrini",
+    "Veronica Lachi",
+    "Antonio Longa",
+    "Bruno Lepri",
+    "Andrea Passerini",
+    "Xin Liu",
+    "Manfred Jaeger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GfU8DhOzae",
+   "pdf_url": "https://openreview.net/pdf?id=GfU8DhOzae"
+  },
+  {
+   "title": "Biological Pathway Informed Models with Graph Attention Networks (GAT)",
+   "authors": [
+    "Gavin Y. Wong",
+    "Ping Shu Ho",
+    "Ivan Au Yeung",
+    "Ka Chun Cheung",
+    "Simon See"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tAORc4Pt3f",
+   "pdf_url": "https://openreview.net/pdf?id=tAORc4Pt3f"
+  },
+  {
+   "title": "Bridging the Divide: End-to-End Sequence–Graph Learning",
+   "authors": [
+    "Yuen Chen",
+    "Yulun Wu",
+    "Samuel Sharpe",
+    "Igor Melnyk",
+    "Nam H Nguyen",
+    "Furong Huang",
+    "C. Bayan Bruss",
+    "Rizal Fathony"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xa7WxSc08h",
+   "pdf_url": "https://openreview.net/pdf?id=xa7WxSc08h"
+  },
+  {
+   "title": "Causal Structure Learning in Hawkes Processes with Complex Latent Confounder Networks",
+   "authors": [
+    "Songyao Jin",
+    "Biwei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mPYVnNcY8K",
+   "pdf_url": "https://openreview.net/pdf?id=mPYVnNcY8K"
+  },
+  {
+   "title": "Connected Causal Graphs for Real-World Science",
+   "authors": [
+    "Amine M'Charrak",
+    "Abbavaram Gowtham Reddy",
+    "Thomas Lukasiewicz",
+    "Michael M. Bronstein",
+    "Krikamol Muandet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i0rFGQBGzs",
+   "pdf_url": "https://openreview.net/pdf?id=i0rFGQBGzs"
+  },
+  {
+   "title": "CR-Graphormer: From Cascades to Tokens via Mesoscopic Graph Rewiring",
+   "authors": [
+    "Meher Chaitanya",
+    "My Le",
+    "Luana Ruiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dq6U3m32v9",
+   "pdf_url": "https://openreview.net/pdf?id=Dq6U3m32v9"
+  },
+  {
+   "title": "CrediBench : Building Web-Scale Network Datasets for Information Integrity",
+   "authors": [
+    "Emma Kondrup",
+    "Sebastian Sabry",
+    "Hussein Abdallah",
+    "Zachary Yang",
+    "James Zhou",
+    "Kellin Pelrine",
+    "Jean-François Godbout",
+    "Michael M. Bronstein",
+    "Reihaneh Rabbany",
+    "Shenyang Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Dh0eZ7w9O",
+   "pdf_url": "https://openreview.net/pdf?id=0Dh0eZ7w9O"
+  },
+  {
+   "title": "DAG Convolutional Networks",
+   "authors": [
+    "Hamed Ajorlou",
+    "Samuel Rey",
+    "Gonzalo Mateos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O2d8buzmdv",
+   "pdf_url": "https://openreview.net/pdf?id=O2d8buzmdv"
+  },
+  {
+   "title": "Deep Modularity Networks with Diversity-Preserving Regularization",
+   "authors": [
+    "Yasmin Salehi",
+    "Dennis Giannacopoulos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XAHfaLKWQB",
+   "pdf_url": "https://openreview.net/pdf?id=XAHfaLKWQB"
+  },
+  {
+   "title": "Diffusion-augmented Graph Contrastive Learning for Collaborative Filtering",
+   "authors": [
+    "Fan Huang",
+    "Jianxiang Yu",
+    "Wei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iiTvBbXBgB",
+   "pdf_url": "https://openreview.net/pdf?id=iiTvBbXBgB"
+  },
+  {
+   "title": "Diffusion-Generated Social Graphs Enhance Bot Detection",
+   "authors": [
+    "Alec Laprevotte",
+    "Ryan Y. Lin",
+    "Siddhartha Ojha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=291xPefJRO",
+   "pdf_url": "https://openreview.net/pdf?id=291xPefJRO"
+  },
+  {
+   "title": "Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework",
+   "authors": [
+    "Hao Gu",
+    "Vibhas Nair",
+    "Amrithaa Ashok Kumar",
+    "Ryan Lagasse",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x7zX4Rup8V",
+   "pdf_url": "https://openreview.net/pdf?id=x7zX4Rup8V"
+  },
+  {
+   "title": "Efficient and Expressive Graph Neural Networks",
+   "authors": [
+    "Monika Varshney",
+    "Tanima Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6LdPs2i8F1",
+   "pdf_url": "https://openreview.net/pdf?id=6LdPs2i8F1"
+  },
+  {
+   "title": "Efficient Learning on Large Graphs using a Densifying Regularity Lemma",
+   "authors": [
+    "Jonathan Kouchly",
+    "Ben Finkelshtein",
+    "Michael M. Bronstein",
+    "Ron Levie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hKQhaTK4VR",
+   "pdf_url": "https://openreview.net/pdf?id=hKQhaTK4VR"
+  },
+  {
+   "title": "EquiHGNN: Scalable Rotationally Equivariant Hypergraph Neural Networks",
+   "authors": [
+    "Tien Dang",
+    "Truong-Son Hy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2YIhVthm0F",
+   "pdf_url": "https://openreview.net/pdf?id=2YIhVthm0F"
+  },
+  {
+   "title": "Equivariant Geometric Scattering Networks via Vector Diffusion Wavelets",
+   "authors": [
+    "David R Johnson",
+    "Rishabh Anand",
+    "Smita Krishnaswamy",
+    "Michael Perlmutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MeivTq92zp",
+   "pdf_url": "https://openreview.net/pdf?id=MeivTq92zp"
+  },
+  {
+   "title": "Exploiting All Laplacian Eigenvectors for Node Classification with Graph Transformers",
+   "authors": [
+    "Vinam Arora",
+    "Divyansha Lachi",
+    "Shivashriganesh P. Mahato",
+    "Mehdi Azabou",
+    "Zihao Chen",
+    "Eva L Dyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MY2UroxLfJ",
+   "pdf_url": "https://openreview.net/pdf?id=MY2UroxLfJ"
+  },
+  {
+   "title": "Exploring Augmentation-Driven Invariances for Graph Self-supervised Learning in Spatial Omics",
+   "authors": [
+    "Lovro Rabuzin",
+    "Michel Tarnow",
+    "Valentina Boeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XKDuHnjLFY",
+   "pdf_url": "https://openreview.net/pdf?id=XKDuHnjLFY"
+  },
+  {
+   "title": "Exploring Heterophily in Graph-level Tasks",
+   "authors": [
+    "Qinhan Hou",
+    "Yilun Zheng",
+    "Xichun Zhang",
+    "Sitao Luan",
+    "Jing Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d5cSo1bWhU",
+   "pdf_url": "https://openreview.net/pdf?id=d5cSo1bWhU"
+  },
+  {
+   "title": "Federated Link Prediction on Dynamic Graphs",
+   "authors": [
+    "Yuhang Yao",
+    "Xinyi Fan",
+    "Ryan A. Rossi",
+    "Sungchul Kim",
+    "Handong Zhao",
+    "Tong Yu",
+    "Carlee Joe-Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D7PiCkdiqN",
+   "pdf_url": "https://openreview.net/pdf?id=D7PiCkdiqN"
+  },
+  {
+   "title": "FedGraph: A Research Library and Benchmark for Federated Graph Learning",
+   "authors": [
+    "Yuhang Yao",
+    "Yuan Li",
+    "Xinyi Fan",
+    "Junhao Li",
+    "Kay Liu",
+    "Yu Yang",
+    "Weizhao Jin",
+    "Srivatsan Ravi",
+    "Philip S. Yu",
+    "Carlee Joe-Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d48HjofVrf",
+   "pdf_url": "https://openreview.net/pdf?id=d48HjofVrf"
+  },
+  {
+   "title": "FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification",
+   "authors": [
+    "Prajit Sengupta",
+    "Islem Rekik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jCwmNcGNCC",
+   "pdf_url": "https://openreview.net/pdf?id=jCwmNcGNCC"
+  },
+  {
+   "title": "Foundations for Robust yet Simple Sparse Hierarchical Pooling: A New Perspective on Sparse Graph Pooling",
+   "authors": [
+    "Sarith Imaduwage"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JRHMgUgDh5",
+   "pdf_url": "https://openreview.net/pdf?id=JRHMgUgDh5"
+  },
+  {
+   "title": "G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning",
+   "authors": [
+    "Xiaojun Guo",
+    "Ang Li",
+    "Yifei Wang",
+    "Stefanie Jegelka",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fS6yaACqHy",
+   "pdf_url": "https://openreview.net/pdf?id=fS6yaACqHy"
+  },
+  {
+   "title": "Galois Theory Challenges Weisfeiler Leman: Invariant Features for Symmetric Matrices and Point Clouds",
+   "authors": [
+    "Beatrix Yaxin Wen",
+    "Caio Netto",
+    "Thabo Samakhoana",
+    "Soledad Villar",
+    "Ningyuan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RBXxXM0VKX",
+   "pdf_url": "https://openreview.net/pdf?id=RBXxXM0VKX"
+  },
+  {
+   "title": "GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification",
+   "authors": [
+    "Mayur Choudhary",
+    "Saptarshi Sengupta",
+    "Katerina Potika"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cj7ocZaGlg",
+   "pdf_url": "https://openreview.net/pdf?id=cj7ocZaGlg"
+  },
+  {
+   "title": "Generalizable Insights for Graph Transformers in Theory and Practice",
+   "authors": [
+    "Timo Stoll",
+    "Luis Müller",
+    "Christopher Morris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cuFEpr3UU5",
+   "pdf_url": "https://openreview.net/pdf?id=cuFEpr3UU5"
+  },
+  {
+   "title": "Generating Directed Graphs with Dual Attention and Asymmetric Encoding",
+   "authors": [
+    "Alba Carballo-Castro",
+    "Manuel Madeira",
+    "Yiming QIN",
+    "Dorina Thanou",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JyNk8VwJQ6",
+   "pdf_url": "https://openreview.net/pdf?id=JyNk8VwJQ6"
+  },
+  {
+   "title": "GNN-Parametrized Diffusion Policies for Wireless Resource Allocation",
+   "authors": [
+    "Yigit Berkay Uslu",
+    "Samar Hadou",
+    "Shirin Saeedi Bidokhti",
+    "Alejandro Ribeiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LVImA9QRBr",
+   "pdf_url": "https://openreview.net/pdf?id=LVImA9QRBr"
+  },
+  {
+   "title": "GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction",
+   "authors": [
+    "Francesco Ferrini",
+    "Veronica Lachi",
+    "Antonio Longa",
+    "Bruno Lepri",
+    "Andrea Passerini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mubWzUoEzl",
+   "pdf_url": "https://openreview.net/pdf?id=mubWzUoEzl"
+  },
+  {
+   "title": "Graph Guided Diffusion: Unified Guidance for Conditional Graph Generation",
+   "authors": [
+    "Victor M. Tenorio",
+    "Nicolas Zilberstein",
+    "Santiago Segarra",
+    "Antonio G. Marques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Af3klve2Nb",
+   "pdf_url": "https://openreview.net/pdf?id=Af3klve2Nb"
+  },
+  {
+   "title": "Graph Neural Differential Equations in the Infinite‑Node Limit: Convergence and Rates via Graphon Theory",
+   "authors": [
+    "Mingsong Yan",
+    "Charles Kulick",
+    "Sui Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x7zp0X5zfM",
+   "pdf_url": "https://openreview.net/pdf?id=x7zp0X5zfM"
+  },
+  {
+   "title": "Graph Representation Learning with Diffusion Generative Models",
+   "authors": [
+    "Daniel Wesego"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZbSlY7Tc3R",
+   "pdf_url": "https://openreview.net/pdf?id=ZbSlY7Tc3R"
+  },
+  {
+   "title": "Graph Semi-Supervised Learning for Point Classification on Data Manifolds",
+   "authors": [
+    "Caio Netto",
+    "Zhiyang Wang",
+    "Luana Ruiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CWuTnAlYx4",
+   "pdf_url": "https://openreview.net/pdf?id=CWuTnAlYx4"
+  },
+  {
+   "title": "Gromov-Wasserstein Graph Coarsening",
+   "authors": [
+    "Carlos A Taveras",
+    "Santiago Segarra",
+    "Cesar A Uribe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vArRFmzDp6",
+   "pdf_url": "https://openreview.net/pdf?id=vArRFmzDp6"
+  },
+  {
+   "title": "Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs",
+   "authors": [
+    "Alberto Cattaneo",
+    "Carlo Luschi",
+    "Daniel Justus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N3WOfE4bvw",
+   "pdf_url": "https://openreview.net/pdf?id=N3WOfE4bvw"
+  },
+  {
+   "title": "HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs",
+   "authors": [
+    "Xingyue Huang",
+    "Mikhail Galkin",
+    "Michael M. Bronstein",
+    "Ismail Ilkan Ceylan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X1fKViBAlU",
+   "pdf_url": "https://openreview.net/pdf?id=X1fKViBAlU"
+  },
+  {
+   "title": "Implicit Hypergraph Neural Networks: A Stable Framework for Higher-Order Relational Learning with Provable Guarantees",
+   "authors": [
+    "Xiaoyu Li",
+    "GUANGYU TANG",
+    "Jiaojiao Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xpw8CTDHQ1",
+   "pdf_url": "https://openreview.net/pdf?id=xpw8CTDHQ1"
+  },
+  {
+   "title": "Inductive Transfer Learning for Graph-Based Recommenders",
+   "authors": [
+    "Florian Grötschla",
+    "Elia Trachsel",
+    "Luca A Lanzendörfer",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k7XxilA9sy",
+   "pdf_url": "https://openreview.net/pdf?id=k7XxilA9sy"
+  },
+  {
+   "title": "Interpretable Regime Trajectories via Generative Graph State-Space Models",
+   "authors": [
+    "Jeremy Baffou",
+    "Adrien Depeursinge",
+    "Dorina Thanou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IsnRPVWGZ5",
+   "pdf_url": "https://openreview.net/pdf?id=IsnRPVWGZ5"
+  },
+  {
+   "title": "KAN-GCN: Combining Kolmogorov–Arnold Network with Graph Convolution Network for an Accurate Ice Sheet Emulator",
+   "authors": [
+    "Zesheng Liu",
+    "Younghyun Koo",
+    "Maryam Rahnemoonfar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvQjaIyNHC",
+   "pdf_url": "https://openreview.net/pdf?id=RvQjaIyNHC"
+  },
+  {
+   "title": "Landmark-Based Node Representations for Shortest Path Distance Approximations in Random Graphs",
+   "authors": [
+    "My Le",
+    "Luana Ruiz",
+    "Souvik Dhara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eYm8Yc6xGp",
+   "pdf_url": "https://openreview.net/pdf?id=eYm8Yc6xGp"
+  },
+  {
+   "title": "Laplacian-Guided Denoising Graph Diffusion for Graph Learning with an Adaptive Prior",
+   "authors": [
+    "Seoyoon Kim",
+    "Hyemin Jung",
+    "Woohyung Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ZGkUtlQND",
+   "pdf_url": "https://openreview.net/pdf?id=5ZGkUtlQND"
+  },
+  {
+   "title": "Learning (Approximately) Equivariant Networks via Constrained Optimization",
+   "authors": [
+    "Andrei Manolache",
+    "Luiz F. O. Chamon",
+    "Mathias Niepert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tug6xyQImh",
+   "pdf_url": "https://openreview.net/pdf?id=tug6xyQImh"
+  },
+  {
+   "title": "Learning Joint Embeddings of Function and Process Call Graphs for Malware Detection",
+   "authors": [
+    "Kartikeya Aneja",
+    "Nagender Aneja",
+    "Murat Kantarcioglu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eGRSHMDRPi",
+   "pdf_url": "https://openreview.net/pdf?id=eGRSHMDRPi"
+  },
+  {
+   "title": "Learning the Neighborhood: Contrast-Free Self-Supervised Molecular Graph Pretraining",
+   "authors": [
+    "Boshra Ariguib",
+    "Mathias Niepert",
+    "Andrei Manolache"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ukgVYJBkvO",
+   "pdf_url": "https://openreview.net/pdf?id=ukgVYJBkvO"
+  },
+  {
+   "title": "LGDC: Latent Graph Diffusion via Spectrum-Preserving Coarsening",
+   "authors": [
+    "Nagham Osman",
+    "Keyue Jiang",
+    "Davide Buffelli",
+    "Xiaowen Dong",
+    "Laura Toni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JYbj76Soau",
+   "pdf_url": "https://openreview.net/pdf?id=JYbj76Soau"
+  },
+  {
+   "title": "LOBSTUR: A Local Bootstrap Framework for Tuning Unsupervised Representations in Graph Neural Networks",
+   "authors": [
+    "Sowon Jeong",
+    "Claire Donnat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Q1F4ovQG1",
+   "pdf_url": "https://openreview.net/pdf?id=5Q1F4ovQG1"
+  },
+  {
+   "title": "Long-Range Graph Wavelet Networks",
+   "authors": [
+    "Filippo Guerranti",
+    "Fabrizio Forte",
+    "Simon Geisler",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q1Jr880zw1",
+   "pdf_url": "https://openreview.net/pdf?id=Q1Jr880zw1"
+  },
+  {
+   "title": "Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Forecasting",
+   "authors": [
+    "Fedor Velikonivtsev",
+    "Oleg Platonov",
+    "Gleb Bazhenov",
+    "Mikhail Seleznyov",
+    "Liudmila Prokhorenkova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ec5BaVoZhg",
+   "pdf_url": "https://openreview.net/pdf?id=ec5BaVoZhg"
+  },
+  {
+   "title": "MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning",
+   "authors": [
+    "Jesse He",
+    "Helen Jenne",
+    "Max Vargas",
+    "Davis Brown",
+    "Gal Mishne",
+    "Yusu Wang",
+    "Henry Kvinge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3PbQUU9rgu",
+   "pdf_url": "https://openreview.net/pdf?id=3PbQUU9rgu"
+  },
+  {
+   "title": "Model Extraction Without Graphs Structure: How Homophily Drives Attack Effectiveness",
+   "authors": [
+    "Xuehai Wu",
+    "Qiong Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mhNsnIaCov",
+   "pdf_url": "https://openreview.net/pdf?id=mhNsnIaCov"
+  },
+  {
+   "title": "Multi-view Graph Condensation via Tensor Decomposition",
+   "authors": [
+    "Nícolas Roque dos Santos",
+    "Dawon Ahn",
+    "Diego Minatel",
+    "Alneu de Andrade Lopes",
+    "Evangelos E. Papalexakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HlYbQ2D90P",
+   "pdf_url": "https://openreview.net/pdf?id=HlYbQ2D90P"
+  },
+  {
+   "title": "Nonlinear Laplacians Improve Signed-Directed Graph Learning",
+   "authors": [
+    "Ali Parviz",
+    "Yuichi Yoshida"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3CcP3VI6LW",
+   "pdf_url": "https://openreview.net/pdf?id=3CcP3VI6LW"
+  },
+  {
+   "title": "Of Graphs and Tables: Zero-Shot Node Classification with Tabular Foundation Models",
+   "authors": [
+    "Adrian Hayler",
+    "Xingyue Huang",
+    "Ismail Ilkan Ceylan",
+    "Michael M. Bronstein",
+    "Ben Finkelshtein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u3vyZf5Jv2",
+   "pdf_url": "https://openreview.net/pdf?id=u3vyZf5Jv2"
+  },
+  {
+   "title": "On the (Non) Injectivity of Piecewise Linear Janossy Pooling",
+   "authors": [
+    "Ilai Reshef",
+    "Nadav Dym"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QPnc67KxKD",
+   "pdf_url": "https://openreview.net/pdf?id=QPnc67KxKD"
+  },
+  {
+   "title": "Overcoming Class Imbalance: Unified GNN Learning with Structural and Semantic Connectivity Representations",
+   "authors": [
+    "Abdullah Alchihabi",
+    "Hao Yan",
+    "Yuhong Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oH0pmLwLXS",
+   "pdf_url": "https://openreview.net/pdf?id=oH0pmLwLXS"
+  },
+  {
+   "title": "Posterior Label Smoothing for Node Classification",
+   "authors": [
+    "Jaeseung Heo",
+    "MoonJeong Park",
+    "Dongwoo Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NGZ9pB3jqk",
+   "pdf_url": "https://openreview.net/pdf?id=NGZ9pB3jqk"
+  },
+  {
+   "title": "Predict Training Data Quality via Its Geometry in Metric Space",
+   "authors": [
+    "Yang Ba",
+    "Mohammad Sadeq Abolhasani",
+    "Rong Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QfK8lFKtxH",
+   "pdf_url": "https://openreview.net/pdf?id=QfK8lFKtxH"
+  },
+  {
+   "title": "Predicting Microbial Interactions Using Graph Neural Networks",
+   "authors": [
+    "Elham Gholamzadeh",
+    "Kajal Singla",
+    "Nico Scherf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K4obpuNxjG",
+   "pdf_url": "https://openreview.net/pdf?id=K4obpuNxjG"
+  },
+  {
+   "title": "Rademacher Meets Colors: More Expressivity, but at What Cost?",
+   "authors": [
+    "Martin Carrasco",
+    "Caio Netto",
+    "Vahan A. Martirosyan",
+    "Aneeqa Mehrab",
+    "Ehimare Okoyomon",
+    "Caterina Graziani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r7FHKqTsFG",
+   "pdf_url": "https://openreview.net/pdf?id=r7FHKqTsFG"
+  },
+  {
+   "title": "Re-evaluating the Advancements of Heterophilic Graph Learning",
+   "authors": [
+    "Sitao Luan",
+    "Qincheng Lu",
+    "Will Hua",
+    "Xinyu Wang",
+    "Jiaqi Zhu",
+    "Xiao-Wen Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f0Yf3WgXy5",
+   "pdf_url": "https://openreview.net/pdf?id=f0Yf3WgXy5"
+  },
+  {
+   "title": "RELATE: A Schema-Agnostic Cross-Attention Encoder for Multimodal Relational Graphs",
+   "authors": [
+    "Joe Meyer",
+    "Divyansha Lachi",
+    "Mahmoud Mohammadi",
+    "Roshan Reddy Upendra",
+    "Eva L Dyer",
+    "Minghua Li",
+    "Tom Palczewski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RdHEwMuzba",
+   "pdf_url": "https://openreview.net/pdf?id=RdHEwMuzba"
+  },
+  {
+   "title": "Rethinking Graph Backdoor Defense: A Topological, Coarse-to-Fine Perspective",
+   "authors": [
+    "jiecheng Zhai",
+    "Xuzeng Li",
+    "Jian Wang",
+    "Jiqiang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zp6tRP3KKa",
+   "pdf_url": "https://openreview.net/pdf?id=zp6tRP3KKa"
+  },
+  {
+   "title": "Robust Tangent Space Estimation via Laplacian Eigenvector Gradient Orthogonalization",
+   "authors": [
+    "Dhruv Kohli",
+    "Sawyer Jack Robertson",
+    "Gal Mishne",
+    "Alex Cloninger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0NrWI0Of7S",
+   "pdf_url": "https://openreview.net/pdf?id=0NrWI0Of7S"
+  },
+  {
+   "title": "Second-Order Tensorial Partial Differential Equations on Graphs",
+   "authors": [
+    "Aref Einizade",
+    "Fragkiskos D. Malliaros",
+    "Jhony H. Giraldo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4pau1UdoEM",
+   "pdf_url": "https://openreview.net/pdf?id=4pau1UdoEM"
+  },
+  {
+   "title": "Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning",
+   "authors": [
+    "Zifeng Ding",
+    "Shenyang Huang",
+    "Zeyu Cao",
+    "Emma Kondrup",
+    "Zachary Yang",
+    "Xingyue Huang",
+    "Yuan Sui",
+    "Moy Yuan",
+    "Yuqicheng Zhu",
+    "Xianglong Hu",
+    "Yuan He",
+    "Farimah Poursafaei",
+    "Michael M. Bronstein",
+    "Andreas Vlachos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p30azkwIer",
+   "pdf_url": "https://openreview.net/pdf?id=p30azkwIer"
+  },
+  {
+   "title": "Semantic Priors for Drug–Drug Interaction Prediction Using Compact Graph Encoders",
+   "authors": [
+    "Annika Viswesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TNPUaDc3AL",
+   "pdf_url": "https://openreview.net/pdf?id=TNPUaDc3AL"
+  },
+  {
+   "title": "Semantic-aware Vicinal Risk Minimization for  Long-Tailed Text-Attributed Graphs",
+   "authors": [
+    "Leyao Wang",
+    "Yu Wang",
+    "Bo Ni",
+    "Yuying Zhao",
+    "Hanyu Wang",
+    "Yao Ma",
+    "Tyler Derr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mO2s1rzKQR",
+   "pdf_url": "https://openreview.net/pdf?id=mO2s1rzKQR"
+  },
+  {
+   "title": "Spatio-Temporal Directed Graph Learning for Account Takeover Fraud Detection",
+   "authors": [
+    "Mohsen Nayebi Kerdabadi",
+    "William A. Byron",
+    "xin sun",
+    "Amirfarrokh Iranitalab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yx89Ibpym7",
+   "pdf_url": "https://openreview.net/pdf?id=Yx89Ibpym7"
+  },
+  {
+   "title": "Staleness-based Subgraph Sampling for Training GNNs on Large-Scale Graphs",
+   "authors": [
+    "Limei Wang",
+    "Si Zhang",
+    "Hanqing Zeng",
+    "Hao Wu",
+    "Zhigang Hua",
+    "Kaveh Hassani",
+    "Andrey Malevich",
+    "Bo Long",
+    "Shuiwang Ji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6BkMrQwqE4",
+   "pdf_url": "https://openreview.net/pdf?id=6BkMrQwqE4"
+  },
+  {
+   "title": "Structure As Search: Unsupervised  Permutation Learning for Combinatorial Optimization",
+   "authors": [
+    "Yimeng Min",
+    "Carla P Gomes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w74BKgbso1",
+   "pdf_url": "https://openreview.net/pdf?id=w74BKgbso1"
+  },
+  {
+   "title": "Temporal Graph AutoEncoder: Mapping Dynamic Graphs to Dynamical Systems with Neural ODEs",
+   "authors": [
+    "Raphael Romero",
+    "Rembert Daems",
+    "Tijl De Bie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8PfVJkYmN3",
+   "pdf_url": "https://openreview.net/pdf?id=8PfVJkYmN3"
+  },
+  {
+   "title": "The Cartesian Gaussian Additive Noise Model for Causal Inference with Dependent Samples",
+   "authors": [
+    "Bailey Andrew",
+    "David Robert Westhead",
+    "Luisa Cutillo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8yf2HO4Tlk",
+   "pdf_url": "https://openreview.net/pdf?id=8yf2HO4Tlk"
+  },
+  {
+   "title": "The GNN as a Low-Pass Filter: A Spectral Perspective on Achieving Stability in Neural PDE Solvers",
+   "authors": [
+    "Peilin Rao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HxusvTZdoO",
+   "pdf_url": "https://openreview.net/pdf?id=HxusvTZdoO"
+  },
+  {
+   "title": "Topological Clustering of Aphasic Brain Networks",
+   "authors": [
+    "Jiaying Yi",
+    "Jian Yin",
+    "Rahul Ghosal",
+    "Dirk B. den Ouden",
+    "Julius Fridriksson",
+    "Rutvik Desai",
+    "Yuan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZKUrqeq4z",
+   "pdf_url": "https://openreview.net/pdf?id=pZKUrqeq4z"
+  },
+  {
+   "title": "Towards Quantifying Long-Range Interactions in Graph Machine Learning: a Large Graph Dataset and a Measurement",
+   "authors": [
+    "Huidong Liang",
+    "Haitz Sáez de Ocáriz Borde",
+    "Baskaran Sripathmanathan",
+    "Michael M. Bronstein",
+    "Xiaowen Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vE6nl6tz3Q",
+   "pdf_url": "https://openreview.net/pdf?id=vE6nl6tz3Q"
+  },
+  {
+   "title": "Transferability of Graph Transformers with Convolutional Positional Encodings",
+   "authors": [
+    "Javier Porras-Valenzuela",
+    "Zhiyang Wang",
+    "Teresa Xiaotao Shang",
+    "Alejandro Ribeiro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IipbtUXf88",
+   "pdf_url": "https://openreview.net/pdf?id=IipbtUXf88"
+  },
+  {
+   "title": "Transformers as Unrolled Inference in Probabilistic Laplacian Eigenmaps",
+   "authors": [
+    "Aditya Ravuri",
+    "Neil D Lawrence"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tc0V7Im7hZ",
+   "pdf_url": "https://openreview.net/pdf?id=tc0V7Im7hZ"
+  },
+  {
+   "title": "Turning Tabular Foundation Models into Graph Foundation Models",
+   "authors": [
+    "Dmitry Eremeev",
+    "Gleb Bazhenov",
+    "Oleg Platonov",
+    "Artem Babenko",
+    "Liudmila Prokhorenkova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KyiooU4ECI",
+   "pdf_url": "https://openreview.net/pdf?id=KyiooU4ECI"
+  },
+  {
+   "title": "Uncertainty-Aware Message Passing Neural Networks",
+   "authors": [
+    "Alesia Chernikova",
+    "Moritz Laber",
+    "Narayan G. Sabhahit",
+    "Tina Eliassi-Rad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bVToNxLO9W",
+   "pdf_url": "https://openreview.net/pdf?id=bVToNxLO9W"
+  },
+  {
+   "title": "Understanding Generalization in Node and Link Prediction",
+   "authors": [
+    "Antonis Vasileiou",
+    "Timo Stoll",
+    "Christopher Morris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BBGANOM23c",
+   "pdf_url": "https://openreview.net/pdf?id=BBGANOM23c"
+  },
+  {
+   "title": "Unrolled Policy Iteration Via Graph Filters",
+   "authors": [
+    "Sergio Rozada",
+    "Samuel Rey",
+    "Miguel Alcocer Pérez",
+    "Gonzalo Mateos",
+    "Antonio G. Marques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z2xOnsjt7n",
+   "pdf_url": "https://openreview.net/pdf?id=z2xOnsjt7n"
+  },
+  {
+   "title": "Wasserstein Hypergraph Neural Network",
+   "authors": [
+    "Iulia Duta",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4V9UzWFDAI",
+   "pdf_url": "https://openreview.net/pdf?id=4V9UzWFDAI"
+  },
+  {
+   "title": "When Curvature Beats Dimension: Euclidean Limits and Hyperbolic Design Rules for Trees",
+   "authors": [
+    "Sarwesh Rauniyar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eHwE1z5oEK",
+   "pdf_url": "https://openreview.net/pdf?id=eHwE1z5oEK"
+  },
+  {
+   "title": "WindMiL: Equivariant Graph Learning for Wind Loading Prediction",
+   "authors": [
+    "Themistoklis Vargiemezis",
+    "Charilaos I. Kanatsoulis",
+    "Catherine Gorle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xInVFmLg1m",
+   "pdf_url": "https://openreview.net/pdf?id=xInVFmLg1m"
+  }
+ ]
+}

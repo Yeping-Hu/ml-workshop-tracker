@@ -1,0 +1,163 @@
+{
+ "venue_id": "thecvf.com/CVPR/2024/Workshop/MedSAMonLaptop",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:46:08.266Z",
+ "paper_count": 14,
+ "papers": [
+  {
+   "title": "A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation",
+   "authors": [
+    "SONGXIAO YANG",
+    "Yizhou Li",
+    "Ye Chen",
+    "Zhuofeng Wu",
+    "Masatoshi Okutomi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T3pEt7VkGT",
+   "pdf_url": "https://openreview.net/pdf?id=T3pEt7VkGT"
+  },
+  {
+   "title": "DAFT: Data-Aware Fine-Tuning of Foundation Models for Efficient and Effective Medical Image Segmentation",
+   "authors": [
+    "Alexander Pfefferle",
+    "Lennart Purucker",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PObXviy706",
+   "pdf_url": "https://openreview.net/pdf?id=PObXviy706"
+  },
+  {
+   "title": "Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment",
+   "authors": [
+    "Haisheng Lu",
+    "Yujie Fu",
+    "Fan Zhang",
+    "Le Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wbfy5Tf9WA",
+   "pdf_url": "https://openreview.net/pdf?id=Wbfy5Tf9WA"
+  },
+  {
+   "title": "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images",
+   "authors": [
+    "Zdravko Marinov",
+    "Alexander Jaus",
+    "Jens Kleesiek",
+    "Rainer Stiefelhagen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FT3T2Dh1fg",
+   "pdf_url": "https://openreview.net/pdf?id=FT3T2Dh1fg"
+  },
+  {
+   "title": "Gray’s Anatomy for Segment Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation",
+   "authors": [
+    "YoungHwan Choi",
+    "In Kyu Lee",
+    "Jonghoe Ku"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BNrWHF5ZlC",
+   "pdf_url": "https://openreview.net/pdf?id=BNrWHF5ZlC"
+  },
+  {
+   "title": "MedficientSAM: A Robust Medical Segmentation Model with Optimized Inference Pipeline for Limited Clinical Settings",
+   "authors": [
+    "Bao-Hiep Le",
+    "Dang-Khoa Nguyen-Vu",
+    "Trong-Hieu Nguyen-Mau",
+    "Hai-Dang Nguyen",
+    "Minh-Triet Tran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aa0f77RKI0",
+   "pdf_url": "https://openreview.net/pdf?id=aa0f77RKI0"
+  },
+  {
+   "title": "Modality-Specific Strategies for Medical Image Segmentation using Lightweight SAM Architectures",
+   "authors": [
+    "Thuy Thanh Dao",
+    "Xincheng Ye",
+    "Joshua Scarsbrook",
+    "Gowrienanthan Balarupan",
+    "Fernanda Lenita Ribeiro",
+    "Steffen Bollmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bEQ2KJ9Cgw",
+   "pdf_url": "https://openreview.net/pdf?id=bEQ2KJ9Cgw"
+  },
+  {
+   "title": "Rep-MedSAM: Towards Real-time and Universal Medical Image Segmentation",
+   "authors": [
+    "Muxin Wei",
+    "Shuqing Chen",
+    "Silin Wu",
+    "Dabin Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yqf77n9Kfw",
+   "pdf_url": "https://openreview.net/pdf?id=yqf77n9Kfw"
+  },
+  {
+   "title": "RepMedSAM: Segment Anything in Medical Images with Lightweight CNN",
+   "authors": [
+    "Zehan Zhang",
+    "Rui Huang",
+    "Ning Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AXeZItjN2z",
+   "pdf_url": "https://openreview.net/pdf?id=AXeZItjN2z"
+  },
+  {
+   "title": "RepViT-MedSAM: Efficient Segment Anything in the Medical Images",
+   "authors": [
+    "Muhammad Qasim Ali",
+    "Alexander Wong",
+    "Yuhao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7XxVOeffb6",
+   "pdf_url": "https://openreview.net/pdf?id=7XxVOeffb6"
+  },
+  {
+   "title": "Segment Anything in Medical Images with nnUNet",
+   "authors": [
+    "Raphael Stock",
+    "Yannick Kirchhoff",
+    "Maximilian Rouven Rokuss",
+    "Ashis Ravindran",
+    "Klaus Maier-Hein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N1uNPfYHFw",
+   "pdf_url": "https://openreview.net/pdf?id=N1uNPfYHFw"
+  },
+  {
+   "title": "SwiftMedSAM: An Ultra-Lightweight Prompt-based Universal Medical Image Segmentation Model for Highly Constrained Environments",
+   "authors": [
+    "Youngbin Kong",
+    "Kwangtai Kim",
+    "Seoi Jeong",
+    "Kyu Eun Lee",
+    "HyounJoong Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8l8JVb7nUB",
+   "pdf_url": "https://openreview.net/pdf?id=8l8JVb7nUB"
+  },
+  {
+   "title": "Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets",
+   "authors": [
+    "Ruochen Gao",
+    "Donghang Lyu",
+    "Marius Staring"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YgXOPqNrjl",
+   "pdf_url": "https://openreview.net/pdf?id=YgXOPqNrjl"
+  },
+  {
+   "title": "Taking a Step Back: Revisiting Classical Approaches for Efficient Interactive Segmentation of Medical Images",
+   "authors": [
+    "Zdravko Marinov",
+    "Alexander Jaus",
+    "Jens Kleesiek",
+    "Rainer Stiefelhagen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lM99O5U8SE",
+   "pdf_url": "https://openreview.net/pdf?id=lM99O5U8SE"
+  }
+ ]
+}

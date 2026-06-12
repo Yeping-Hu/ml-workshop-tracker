@@ -1,0 +1,390 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/Beyond_Teleop",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:42.037Z",
+ "paper_count": 29,
+ "papers": [
+  {
+   "title": "CRAFT: Video Diffusion for Bimanual Robot Data Generation",
+   "authors": [
+    "Jason Chen",
+    "I-Chun Arthur Liu",
+    "Gaurav S. Sukhatme",
+    "Daniel Seita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WXz5GdD0pd",
+   "pdf_url": "https://openreview.net/pdf?id=WXz5GdD0pd"
+  },
+  {
+   "title": "DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy",
+   "authors": [
+    "Sungjae Park",
+    "Homanga Bharadhwaj",
+    "Shubham Tulsiani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lcFIDaobUq",
+   "pdf_url": "https://openreview.net/pdf?id=lcFIDaobUq"
+  },
+  {
+   "title": "Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation",
+   "authors": [
+    "Yuxuan Kuang",
+    "Sungjae Park",
+    "Katerina Fragkiadaki",
+    "Shubham Tulsiani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UAg32eb2RQ",
+   "pdf_url": "https://openreview.net/pdf?id=UAg32eb2RQ"
+  },
+  {
+   "title": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow",
+   "authors": [
+    "Karthik Dharmarajan",
+    "Wenlong Huang",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Ruohan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5CajCdEj0e",
+   "pdf_url": "https://openreview.net/pdf?id=5CajCdEj0e"
+  },
+  {
+   "title": "Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing",
+   "authors": [
+    "Marina Y. Aoyama",
+    "Sethu Vijayakumar",
+    "Tetsuya Narita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9NAA7CD3Cq",
+   "pdf_url": "https://openreview.net/pdf?id=9NAA7CD3Cq"
+  },
+  {
+   "title": "HOMimic: Distilling Manipulation Trajectories from Human Videos via Multi-Stage Interaction Reasoning and Taxonomy-Aware Retargeting",
+   "authors": [
+    "Zicheng Guo",
+    "Yitian Shi",
+    "Yu Hu",
+    "Zhengqi Han",
+    "Di Wen",
+    "Rania Rayyes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UDGxEtEZ0k",
+   "pdf_url": "https://openreview.net/pdf?id=UDGxEtEZ0k"
+  },
+  {
+   "title": "Humanoid Bimanual Dexterous Manipulation Driven by Egocentric Video",
+   "authors": [
+    "Hao Huang",
+    "Geeta Chandra Raju Bethala",
+    "Wentian Zhao",
+    "Shuaihang Yuan",
+    "Congcong Wen",
+    "Mengyu Wang",
+    "Anthony Tzes",
+    "Yi Fang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tR0z5vm4Ha",
+   "pdf_url": "https://openreview.net/pdf?id=tR0z5vm4Ha"
+  },
+  {
+   "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation",
+   "authors": [
+    "Kevin Lin",
+    "Ajay Mandlekar",
+    "Caelan Reed Garrett",
+    "Nikita Chernyadev",
+    "Yu Fang",
+    "Runyu Ding",
+    "Yuqi Xie",
+    "Linxi Fan",
+    "Yuke Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OCi0JWlFU2",
+   "pdf_url": "https://openreview.net/pdf?id=OCi0JWlFU2"
+  },
+  {
+   "title": "IFG: Internet-Scale Guidance for Functional Grasping Generation",
+   "authors": [
+    "Muxin Liu",
+    "Mingxuan Li",
+    "Kenneth Shaw",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=off7IU7gqr",
+   "pdf_url": "https://openreview.net/pdf?id=off7IU7gqr"
+  },
+  {
+   "title": "Learning Quadruped Locomotion from Casual Videos",
+   "authors": [
+    "Oliver Hausdörfer",
+    "Alexander von Rohr",
+    "Filip Skubacz",
+    "Shafeef Omar",
+    "Majid Khadiv",
+    "SiQi Zhou",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iYtNKq9tQE",
+   "pdf_url": "https://openreview.net/pdf?id=iYtNKq9tQE"
+  },
+  {
+   "title": "Learning Sim-Grounded Policies for Bimanual Rope Manipulation from Human Teleoperation Data",
+   "authors": [
+    "Gina Wigginghaus",
+    "Tim Missal",
+    "Berk Güler",
+    "Simon Manschitz",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G2qTOyxAyG",
+   "pdf_url": "https://openreview.net/pdf?id=G2qTOyxAyG"
+  },
+  {
+   "title": "Learning Structured Policies for General Humanoid Loco-Manipulation",
+   "authors": [
+    "Shafeef Omar",
+    "Sebastian Sanokowski",
+    "Cordelia Schmid",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bCfCHpRBcw",
+   "pdf_url": "https://openreview.net/pdf?id=bCfCHpRBcw"
+  },
+  {
+   "title": "Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking",
+   "authors": [
+    "Zewei Zhang",
+    "Kehan Wen",
+    "Michael Xu",
+    "Junzhe He",
+    "Chenhao Li",
+    "Takahiro Miki",
+    "Clemens Schwarke",
+    "Chong Zhang",
+    "Xue Bin Peng",
+    "Marco Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0eU46b0Ar7",
+   "pdf_url": "https://openreview.net/pdf?id=0eU46b0Ar7"
+  },
+  {
+   "title": "MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware",
+   "authors": [
+    "Senthil Palanisamy",
+    "Satpal Singh Rathore",
+    "Abhishek Anand",
+    "Pratyush Kumar Patnaik",
+    "Shubhanshu Khatana",
+    "Ekaksh Janweja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=polyL3vArP",
+   "pdf_url": "https://openreview.net/pdf?id=polyL3vArP"
+  },
+  {
+   "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation",
+   "authors": [
+    "Abhay Deshpande",
+    "Maya Guru",
+    "Rose Hendrix",
+    "Snehal Jauhri",
+    "Ainaz Eftekhar",
+    "Rohun Tripathi",
+    "Max Argus",
+    "Jordi Salvador",
+    "Haoquan Fang",
+    "Matthew Wallingford",
+    "Wilbert Pumacay",
+    "Yejin Kim",
+    "Quinn Pfeifer",
+    "Ying-Chun Lee",
+    "Piper Wolters",
+    "Omar Rayyan",
+    "Mingtong Zhang",
+    "Jiafei Duan",
+    "Karen Farley",
+    "Winson Han",
+    "Eli VanderBilt",
+    "Dieter Fox",
+    "Ali Farhadi",
+    "Georgia Chalvatzaki",
+    "Dhruv Shah",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T0hMyTOJcG",
+   "pdf_url": "https://openreview.net/pdf?id=T0hMyTOJcG"
+  },
+  {
+   "title": "MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies",
+   "authors": [
+    "Chengbo Yuan",
+    "Rui Zhou",
+    "Mengzhen Liu",
+    "Yingdong Hu",
+    "Shengjie Wang",
+    "Li Yi",
+    "Chuan Wen",
+    "Shanghang Zhang",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MYqO1g39uy",
+   "pdf_url": "https://openreview.net/pdf?id=MYqO1g39uy"
+  },
+  {
+   "title": "Object-Centric Reward Learning from Action-Free Videos for Long-Horizon Manipulation Beyond Teleoperation",
+   "authors": [
+    "Andrea Protopapa",
+    "Giuseppe Averta",
+    "Francesca Pistilli",
+    "Davide Buoso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NhSWDQp0uu",
+   "pdf_url": "https://openreview.net/pdf?id=NhSWDQp0uu"
+  },
+  {
+   "title": "One-Shot Learning of Manipulation from RGB-D Videos via Object-Centric Interaction Reasoning",
+   "authors": [
+    "Ze Fu",
+    "Pinhao Song",
+    "Yutong Hu",
+    "Renaud Detry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RJq07bVSUo",
+   "pdf_url": "https://openreview.net/pdf?id=RJq07bVSUo"
+  },
+  {
+   "title": "Overcoming Distribution Shifts with Autonomous Embodied Data Collection",
+   "authors": [
+    "Pengyu Mo",
+    "Saimai Lau",
+    "Jensen Gao",
+    "Dorsa Sadigh",
+    "Jennifer Grannen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YDL4U3GtWB",
+   "pdf_url": "https://openreview.net/pdf?id=YDL4U3GtWB"
+  },
+  {
+   "title": "PHABS: A Handheld Haptic Device for Force-Annotated Bimanual Demonstration Data",
+   "authors": [
+    "Calvin Joyce",
+    "Michael C. Yip"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lmbnt2VNDM",
+   "pdf_url": "https://openreview.net/pdf?id=Lmbnt2VNDM"
+  },
+  {
+   "title": "Point Bridge: 3D Representations for Cross Domain Policy Learning",
+   "authors": [
+    "Siddhant Haldar",
+    "Lars Johannsmeier",
+    "Lerrel Pinto",
+    "Abhishek Gupta",
+    "Dieter Fox",
+    "Yashraj Narang",
+    "Ajay Mandlekar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JtRZJL8fLf",
+   "pdf_url": "https://openreview.net/pdf?id=JtRZJL8fLf"
+  },
+  {
+   "title": "Reconstructing Hand-Held Objects in 3D from Images and Videos",
+   "authors": [
+    "Jane Wu",
+    "Georgios Pavlakos",
+    "Georgia Gkioxari",
+    "Jitendra Malik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AUGmZToDjr",
+   "pdf_url": "https://openreview.net/pdf?id=AUGmZToDjr"
+  },
+  {
+   "title": "Semantic–Geometric Task Representations for Bimanual Manipulation from Human Demonstrations to Robot Action Planning",
+   "authors": [
+    "Franziska Herbert",
+    "Vignesh Prasad",
+    "Han Liu",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JZg0KKvHuy",
+   "pdf_url": "https://openreview.net/pdf?id=JZg0KKvHuy"
+  },
+  {
+   "title": "Tune to Learn: How Controller Gains Affect Robot Policy Learning",
+   "authors": [
+    "Antonia Bronars",
+    "Younghyo Park",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K7rg8zA5nJ",
+   "pdf_url": "https://openreview.net/pdf?id=K7rg8zA5nJ"
+  },
+  {
+   "title": "UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data",
+   "authors": [
+    "Hyesung Lee",
+    "Si-Hwan Heo",
+    "Sungwook Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JYXvblxW8t",
+   "pdf_url": "https://openreview.net/pdf?id=JYXvblxW8t"
+  },
+  {
+   "title": "UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment",
+   "authors": [
+    "Yufei Ding",
+    "Yi Du",
+    "Weiduo Yuan",
+    "Hao Jiang",
+    "Dylan Goetting",
+    "Lawrence Yunliang Chen",
+    "Daniel Seita",
+    "Yue Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WqK7FG664s",
+   "pdf_url": "https://openreview.net/pdf?id=WqK7FG664s"
+  },
+  {
+   "title": "Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers",
+   "authors": [
+    "Snehal Jauhri",
+    "Vignesh Prasad",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EgAquqyT3b",
+   "pdf_url": "https://openreview.net/pdf?id=EgAquqyT3b"
+  },
+  {
+   "title": "X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations",
+   "authors": [
+    "Maximus Adrian Pace",
+    "Prithwish Dan",
+    "Chuanruo Ning",
+    "Atiksh Bhardwaj",
+    "Audrey Du",
+    "Edward Duan",
+    "Wei-Chiu Ma",
+    "Kushal Kedia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GnwIIjt33Q",
+   "pdf_url": "https://openreview.net/pdf?id=GnwIIjt33Q"
+  },
+  {
+   "title": "YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale",
+   "authors": [
+    "Takehiko Ohkawa",
+    "Jumpei Arima",
+    "Yuki Noguchi",
+    "Masatoshi Tateno",
+    "Makoto Sugiura",
+    "Takuya Okubo",
+    "Yuki Wakayama",
+    "Naoaki Kanazawa",
+    "Tatsuya Matsushima",
+    "Yohishiro Okumatsu",
+    "Kei Ota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ennCC6OXoa",
+   "pdf_url": "https://openreview.net/pdf?id=ennCC6OXoa"
+  }
+ ]
+}

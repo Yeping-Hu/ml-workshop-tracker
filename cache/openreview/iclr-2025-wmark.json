@@ -1,0 +1,579 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/WMARK",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:51.188Z",
+ "paper_count": 51,
+ "papers": [
+  {
+   "title": "A Taxonomy of Watermarking Methods for AI-Generated Content",
+   "authors": [
+    "Pierre Fernandez",
+    "Hady Elsahar",
+    "Sylvestre-Alvise Rebuffi",
+    "Tomas Soucek",
+    "Valeriu Lacatusu",
+    "Tuan Tran",
+    "Alexandre Mourachko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4kKLLnh63z",
+   "pdf_url": "https://openreview.net/pdf?id=4kKLLnh63z"
+  },
+  {
+   "title": "A Watermark for Black-Box Language Models",
+   "authors": [
+    "Dara Bahri",
+    "John Frederick Wieting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ik00ZDnB3B",
+   "pdf_url": "https://openreview.net/pdf?id=ik00ZDnB3B"
+  },
+  {
+   "title": "Are Semantic Watermarks for Diffusion Models Resilient to Layout Control?",
+   "authors": [
+    "Denis Lukovnikov",
+    "Andreas Müller",
+    "Jonas Thietke",
+    "Erwin Quiring",
+    "Asja Fischer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pFMNK403AH",
+   "pdf_url": "https://openreview.net/pdf?id=pFMNK403AH"
+  },
+  {
+   "title": "Are Watermarks For Diffusion Models Radioactive?",
+   "authors": [
+    "Jan Dubiński",
+    "Michel Meintz",
+    "Franziska Boenisch",
+    "Adam Dziedzic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gtXbVRMwQh",
+   "pdf_url": "https://openreview.net/pdf?id=gtXbVRMwQh"
+  },
+  {
+   "title": "Bayesian Inference for Robust Video Watermarking",
+   "authors": [
+    "Wonhyuk Ahn",
+    "Jihyeon Kang",
+    "Seung-Hun Nam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4SjAevJ5uE",
+   "pdf_url": "https://openreview.net/pdf?id=4SjAevJ5uE"
+  },
+  {
+   "title": "Can LLM Watermarking Robustly Prevent Unauthorized Knowledge Distillation?",
+   "authors": [
+    "Leyi Pan",
+    "Aiwei Liu",
+    "Shiyu Huang",
+    "Yijian LU",
+    "Xuming Hu",
+    "Lijie Wen",
+    "Irwin King",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lcn0WNCVA9",
+   "pdf_url": "https://openreview.net/pdf?id=Lcn0WNCVA9"
+  },
+  {
+   "title": "Can you Finetune your Binoculars? Embedding Text Watermarks into the Weights of Large Language Models",
+   "authors": [
+    "Fay Elhassan",
+    "Niccolò Ajroldi",
+    "Antonio Orvieto",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d1v2hkB0Vj",
+   "pdf_url": "https://openreview.net/pdf?id=d1v2hkB0Vj"
+  },
+  {
+   "title": "CoheMark: A Novel Sentence-Level Watermark for Enhanced Text Quality",
+   "authors": [
+    "Junyan Zhang",
+    "Shuliang Liu",
+    "Aiwei Liu",
+    "Yubo Gao",
+    "Jungang Li",
+    "Xiaojie Gu",
+    "Xuming Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tm1pZhec2e",
+   "pdf_url": "https://openreview.net/pdf?id=tm1pZhec2e"
+  },
+  {
+   "title": "Deep Audio Watermarks are Shallow: Limitations of Post-Hoc Watermarking Techniques for Speech",
+   "authors": [
+    "Patrick O'Reilly",
+    "Zeyu Jin",
+    "Jiaqi Su",
+    "Bryan Pardo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=44TCZ5XTuR",
+   "pdf_url": "https://openreview.net/pdf?id=44TCZ5XTuR"
+  },
+  {
+   "title": "DeepMark Benchmark: Redefining Audio Watermarking Robustness",
+   "authors": [
+    "Slavko Kovačević",
+    "Murilo Z. Silvestre",
+    "Kosta Pavlović",
+    "Petar Nedić",
+    "Igor Djurović"
+   ],
+   "forum_url": "https://openreview.net/forum?id=56ZC5dqvJO",
+   "pdf_url": "https://openreview.net/pdf?id=56ZC5dqvJO"
+  },
+  {
+   "title": "Detecting Benchmark Contamination Through Watermarking",
+   "authors": [
+    "Tom Sander",
+    "Pierre Fernandez",
+    "Saeed Mahloujifar",
+    "Alain Oliviero Durmus",
+    "Chuan Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EGwOI0deaU",
+   "pdf_url": "https://openreview.net/pdf?id=EGwOI0deaU"
+  },
+  {
+   "title": "Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models",
+   "authors": [
+    "Ved Umrajkar",
+    "Aakash Kumar Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RrEuRQn5mB",
+   "pdf_url": "https://openreview.net/pdf?id=RrEuRQn5mB"
+  },
+  {
+   "title": "Digital Art Creation and Copyright Protection in Pollock Style Using GANs, Fractal Analysis, and NFT Generation",
+   "authors": [
+    "WangXu",
+    "YiquanWang",
+    "Jiazhuo Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZiLEUaf8ZC",
+   "pdf_url": "https://openreview.net/pdf?id=ZiLEUaf8ZC"
+  },
+  {
+   "title": "Discovering Spoofing Attempts on Language Model Watermarks",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Nikola Jovanović",
+    "Robin Staab",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CQjafCMd5c",
+   "pdf_url": "https://openreview.net/pdf?id=CQjafCMd5c"
+  },
+  {
+   "title": "Distributional Information Embedding: A Framework for Multi-bit Watermarking",
+   "authors": [
+    "Haiyun He",
+    "Yepeng Liu",
+    "Ziqiao Wang",
+    "Yongyi Mao",
+    "Yuheng Bu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bdZyAoTTC2",
+   "pdf_url": "https://openreview.net/pdf?id=bdZyAoTTC2"
+  },
+  {
+   "title": "First-Place Solution to NeurIPS 2024 Invisible Watermark Removal Challenge",
+   "authors": [
+    "Fahad Shamshad",
+    "Tameem Bakr",
+    "Yahia Salaheldin Shaaban",
+    "Noor Hazim Hussein",
+    "Karthik Nandakumar",
+    "Nils Lukas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wLaP37BrhE",
+   "pdf_url": "https://openreview.net/pdf?id=wLaP37BrhE"
+  },
+  {
+   "title": "Hidden in the Noise: Two-Stage Robust Watermarking for Images",
+   "authors": [
+    "Kasra Arabi",
+    "Benjamin Feuer",
+    "R. Teal Witter",
+    "Chinmay Hegde",
+    "Niv Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3BSgwbC7Q6",
+   "pdf_url": "https://openreview.net/pdf?id=3BSgwbC7Q6"
+  },
+  {
+   "title": "High payload robust watermarking of generative models with multiple triggers and channel coding",
+   "authors": [
+    "Jianwei Fei",
+    "Benedetta Tondi",
+    "Mauro Barni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A7qD0g6DoT",
+   "pdf_url": "https://openreview.net/pdf?id=A7qD0g6DoT"
+  },
+  {
+   "title": "IConMark: Robust Interpretable Concept-Based Watermark For AI Images",
+   "authors": [
+    "Vinu Sankar Sadasivan",
+    "Mehrdad Saberi",
+    "Soheil Feizi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1YEcePhSs",
+   "pdf_url": "https://openreview.net/pdf?id=f1YEcePhSs"
+  },
+  {
+   "title": "Learning Self-Supervised Style Representations for Detecting AI-Generated Faces",
+   "authors": [
+    "Tharun Anand",
+    "Sanjeev Manivannan",
+    "Siva Sankar S",
+    "Kaushik Mitra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yXKnzFxNWK",
+   "pdf_url": "https://openreview.net/pdf?id=yXKnzFxNWK"
+  },
+  {
+   "title": "Learning to watermark LLM-Generated Text Via Reinforcement Learning",
+   "authors": [
+    "Xiaojun Xu",
+    "Yuanshun Yao",
+    "Yang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dTlCMiEOdk",
+   "pdf_url": "https://openreview.net/pdf?id=dTlCMiEOdk"
+  },
+  {
+   "title": "Machine never said that: Defending spoofing attacks by diverse fragile watermark",
+   "authors": [
+    "Yuhang Cai",
+    "Yaofei Wang",
+    "Donghui Hu",
+    "Chen Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VdXBLMTpD7",
+   "pdf_url": "https://openreview.net/pdf?id=VdXBLMTpD7"
+  },
+  {
+   "title": "Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking",
+   "authors": [
+    "Yijie Xu",
+    "Aiwei Liu",
+    "Xuming Hu",
+    "Lijie Wen",
+    "Hui Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JGTRj6h0Cv",
+   "pdf_url": "https://openreview.net/pdf?id=JGTRj6h0Cv"
+  },
+  {
+   "title": "MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields",
+   "authors": [
+    "Yash Kulthe",
+    "Andrew Gilbert",
+    "John Collomosse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NtRFzUxuYh",
+   "pdf_url": "https://openreview.net/pdf?id=NtRFzUxuYh"
+  },
+  {
+   "title": "NSmark: Null Space Based Black-box Watermarking Defense Framework for Language Models",
+   "authors": [
+    "Haodong Zhao",
+    "Jinming Hu",
+    "Peixuan Li",
+    "Fangqi Li",
+    "Jinrui Sha",
+    "Tianjie Ju",
+    "PeixuanChen",
+    "Zhuosheng Zhang",
+    "Gongshen Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6IfvMfNYrv",
+   "pdf_url": "https://openreview.net/pdf?id=6IfvMfNYrv"
+  },
+  {
+   "title": "On the Coexistence and Ensembling of Watermarks",
+   "authors": [
+    "Aleksandar Petrov",
+    "Shruti Agarwal",
+    "Philip Torr",
+    "Adel Bibi",
+    "John Collomosse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jUokwqdemZ",
+   "pdf_url": "https://openreview.net/pdf?id=jUokwqdemZ"
+  },
+  {
+   "title": "ON-DEVICE WATERMARKING: A SOCIO-TECHNICAL IMPERATIVE FOR AUTHENTICITY IN THE AGE OF GENERATIVE AI",
+   "authors": [
+    "Houssam Kherraz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ygE0U21vxM",
+   "pdf_url": "https://openreview.net/pdf?id=ygE0U21vxM"
+  },
+  {
+   "title": "Optimized Couplings For Watermarking Large Language Models",
+   "authors": [
+    "Carol Xuan Long",
+    "Dor Tsur",
+    "Claudio Mayrink Verdun",
+    "Hsiang Hsu",
+    "Haim H. Permuter",
+    "Flavio Calmon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lnij8CaFFO",
+   "pdf_url": "https://openreview.net/pdf?id=Lnij8CaFFO"
+  },
+  {
+   "title": "Optimizing Adaptive Attacks against Content Watermarks for Language Models",
+   "authors": [
+    "Abdulrahman Diaa",
+    "Toluwani Aremu",
+    "Nils Lukas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uVWme6Rk9D",
+   "pdf_url": "https://openreview.net/pdf?id=uVWme6Rk9D"
+  },
+  {
+   "title": "Proactive Detection of Speaker Identity Manipulation with Neural Watermarking",
+   "authors": [
+    "Wanying Ge",
+    "Xin Wang",
+    "Junichi Yamagishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=erXPKrUsoD",
+   "pdf_url": "https://openreview.net/pdf?id=erXPKrUsoD"
+  },
+  {
+   "title": "Productionizing Audio Watermarking for Short-Form Video",
+   "authors": [
+    "Elias Lumpert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PruDvpRJ0a",
+   "pdf_url": "https://openreview.net/pdf?id=PruDvpRJ0a"
+  },
+  {
+   "title": "Provable Watermark Extraction",
+   "authors": [
+    "Tomer Solberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JyrjeQJ8VK",
+   "pdf_url": "https://openreview.net/pdf?id=JyrjeQJ8VK"
+  },
+  {
+   "title": "RINTAW: A Robust Invisible Watermark for Tabular Generative Models",
+   "authors": [
+    "Liancheng Fang",
+    "Aiwei Liu",
+    "Henry Peng Zou",
+    "Hengrui Zhang",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3K4oAgZTcO",
+   "pdf_url": "https://openreview.net/pdf?id=3K4oAgZTcO"
+  },
+  {
+   "title": "Robust Multi-bit Text Watermark with LLM-based Paraphrasers",
+   "authors": [
+    "Xiaojun Xu",
+    "Jinghan Jia",
+    "Yuanshun Yao",
+    "Yang Liu",
+    "Hang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lLEi0I4wDu",
+   "pdf_url": "https://openreview.net/pdf?id=lLEi0I4wDu"
+  },
+  {
+   "title": "Scalable Fingerprinting of Large Language Models",
+   "authors": [
+    "Anshul Nasery",
+    "Jonathan Hayase",
+    "Creston Brooks",
+    "Peiyao Sheng",
+    "Himanshu Tyagi",
+    "Pramod Viswanath",
+    "Sewoong Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ImrmzMDq5z",
+   "pdf_url": "https://openreview.net/pdf?id=ImrmzMDq5z"
+  },
+  {
+   "title": "SpARK: An Embarrassingly Simple Sparse Watermarking in LLMs with Enhanced Text Quality",
+   "authors": [
+    "Duy Cao Hoang",
+    "Thanh Quoc Hung Le",
+    "Rui Chu",
+    "Ping Li",
+    "Weijie Zhao",
+    "Yingjie Lao",
+    "Khoa D Doan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VQPJ0hfoPs",
+   "pdf_url": "https://openreview.net/pdf?id=VQPJ0hfoPs"
+  },
+  {
+   "title": "STAMP Your Content: Proving Dataset Membership via Watermarked Rephrasings",
+   "authors": [
+    "Saksham Rastogi",
+    "Pratyush Maini",
+    "Danish Pruthi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zVbFfPuqPi",
+   "pdf_url": "https://openreview.net/pdf?id=zVbFfPuqPi"
+  },
+  {
+   "title": "SWA-LDM: Toward Stealthy Watermarks for Latent Diffusion Models",
+   "authors": [
+    "Zhonghao Yang",
+    "Linye Lyu",
+    "Xuanhang Chang",
+    "Daojing He",
+    "YU LI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wXrrxqQGzq",
+   "pdf_url": "https://openreview.net/pdf?id=wXrrxqQGzq"
+  },
+  {
+   "title": "The Good, the Bad and the Ugly: Watermarks, Transferable Attacks and Adversarial Defenses",
+   "authors": [
+    "Grzegorz Gluch",
+    "Berkant Turan",
+    "Sai Ganesh Nagarajan",
+    "Sebastian Pokutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rUs5ryYqZe",
+   "pdf_url": "https://openreview.net/pdf?id=rUs5ryYqZe"
+  },
+  {
+   "title": "Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach",
+   "authors": [
+    "Haiyun He",
+    "Yepeng Liu",
+    "Ziqiao Wang",
+    "Yongyi Mao",
+    "Yuheng Bu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lzi8raVEQu",
+   "pdf_url": "https://openreview.net/pdf?id=Lzi8raVEQu"
+  },
+  {
+   "title": "Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models",
+   "authors": [
+    "Jonas Thietke",
+    "Andreas Müller",
+    "Denis Lukovnikov",
+    "Asja Fischer",
+    "Erwin Quiring"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yENK6DYuXv",
+   "pdf_url": "https://openreview.net/pdf?id=yENK6DYuXv"
+  },
+  {
+   "title": "Towards Watermarking of Open-Source LLMs",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Nikola Jovanović",
+    "Robin Staab",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OKjZvLJxOY",
+   "pdf_url": "https://openreview.net/pdf?id=OKjZvLJxOY"
+  },
+  {
+   "title": "Visual Fidelity vs. Robustness: Trade-Off Analysis of Image Adversarial Watermark Mitigated by SSIM Loss",
+   "authors": [
+    "Jiwoo Choi",
+    "Jinwoo Kim",
+    "Sejong Yang",
+    "Seon Joo Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MS7QPrBngC",
+   "pdf_url": "https://openreview.net/pdf?id=MS7QPrBngC"
+  },
+  {
+   "title": "WaterFlow: Learning Fast & Robust Watermarks using Stable Diffusion",
+   "authors": [
+    "Vinay Shukla",
+    "Prachee Sharma",
+    "Ryan A. Rossi",
+    "Sungchul Kim",
+    "Tong Yu",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FcP5qPweaL",
+   "pdf_url": "https://openreview.net/pdf?id=FcP5qPweaL"
+  },
+  {
+   "title": "Watermark Smoothing Attacks against Language Models",
+   "authors": [
+    "Hongyan Chang",
+    "Hamed Hassani",
+    "Reza Shokri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eXshz6L8m",
+   "pdf_url": "https://openreview.net/pdf?id=4eXshz6L8m"
+  },
+  {
+   "title": "Watermarking and Metadata for GenAI Transparency at Scale - Lessons Learned and Challenges Ahead",
+   "authors": [
+    "Elizabeth Hilbert",
+    "Gretchen Greene",
+    "Michael Godwin",
+    "Sarah Shirazyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JdNfGpVH6r",
+   "pdf_url": "https://openreview.net/pdf?id=JdNfGpVH6r"
+  },
+  {
+   "title": "Watermarking Degrades Alignment in Language Models: Analysis and Mitigation",
+   "authors": [
+    "Apurv Verma",
+    "Hai Phan",
+    "Shubhendu Trivedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SIBkIV48gF",
+   "pdf_url": "https://openreview.net/pdf?id=SIBkIV48gF"
+  },
+  {
+   "title": "Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities",
+   "authors": [
+    "Lele Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ot30XyrcnZ",
+   "pdf_url": "https://openreview.net/pdf?id=ot30XyrcnZ"
+  },
+  {
+   "title": "Watermarking Language Models with Error Correcting Codes",
+   "authors": [
+    "Patrick Chao",
+    "Yan Sun",
+    "Edgar Dobriban",
+    "Hamed Hassani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xetVzmw9dW",
+   "pdf_url": "https://openreview.net/pdf?id=xetVzmw9dW"
+  },
+  {
+   "title": "Watermarks vs. Perturbations for Preventing AI-based Style Editing",
+   "authors": [
+    "Qiuyu Tang",
+    "Aparna Bharati"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mRCXybDMF6",
+   "pdf_url": "https://openreview.net/pdf?id=mRCXybDMF6"
+  },
+  {
+   "title": "WINTER SOLDIER: HYPNOTIZING LANGUAGE MODELS AT PRE-TRAINING WITH INDIRECT DATA POISONING",
+   "authors": [
+    "Wassim Bouaziz",
+    "Mathurin VIDEAU",
+    "Nicolas Usunier",
+    "El-Mahdi El-Mhamdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YzaML0S9Di",
+   "pdf_url": "https://openreview.net/pdf?id=YzaML0S9Di"
+  }
+ ]
+}

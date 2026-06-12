@@ -1,0 +1,409 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/AI4NA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:16.381Z",
+ "paper_count": 35,
+ "papers": [
+  {
+   "title": "A Comprehensive Library for RNA Structure-Function Modeling",
+   "authors": [
+    "Luis Wyss",
+    "Vincent Mallet",
+    "Wissam Karroucha",
+    "Karsten Borgwardt",
+    "Carlos Oliver"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gj2vR7Wm2k",
+   "pdf_url": "https://openreview.net/pdf?id=Gj2vR7Wm2k"
+  },
+  {
+   "title": "Accelerating Aptamer Discovery using a Transformer Based T5 Model:  A Preliminary Study",
+   "authors": [
+    "Soniya",
+    "Runjhun Saran Narayan",
+    "Apurva Narayan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sqMg7dWIl8",
+   "pdf_url": null
+  },
+  {
+   "title": "arowana: a transformer-based training framework for RNA basecalling and modification detection",
+   "authors": [
+    "Yuk Kei Wan",
+    "Christopher Hendra",
+    "Bing Shao Chia",
+    "Wei Leong Chew",
+    "Jonathan Goeke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=isFwELED4Y",
+   "pdf_url": "https://openreview.net/pdf?id=isFwELED4Y"
+  },
+  {
+   "title": "Bayesian Approximation of RNA Folding Times",
+   "authors": [
+    "Dominik Scheuer",
+    "Frederic Runge",
+    "Jörg K.H. Franke",
+    "Michael T. Wolfinger",
+    "Christoph Flamm",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cOwOJNJijB",
+   "pdf_url": "https://openreview.net/pdf?id=cOwOJNJijB"
+  },
+  {
+   "title": "Benchmarking Fine-Tuned RNA Language Models for Intronic Branch Point Prediction",
+   "authors": [
+    "Pablo Rodenas Ruiz",
+    "Ali Saadat",
+    "Timothy T. Tran",
+    "Oliver Müller Smedt",
+    "Peng Zhang",
+    "Jacques Fellay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IY2TGzyk3z",
+   "pdf_url": "https://openreview.net/pdf?id=IY2TGzyk3z"
+  },
+  {
+   "title": "Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals",
+   "authors": [
+    "Sara Bakić",
+    "Kresimir Friganovic",
+    "Bryan Hooi",
+    "Mile Sikic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DTTuwBG3XJ",
+   "pdf_url": null
+  },
+  {
+   "title": "Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models",
+   "authors": [
+    "Adrian Morales-Pastor",
+    "Raquel Vázquez-Reza",
+    "Miłosz Wieczór",
+    "Clàudia Valverde",
+    "Manel Gil-Sorribes",
+    "Bertran Miquel-Oliver",
+    "Alvaro Ciudad Serrano",
+    "Alexis Molina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7MU9Rl5xZE",
+   "pdf_url": "https://openreview.net/pdf?id=7MU9Rl5xZE"
+  },
+  {
+   "title": "Crypto-ncRNA: Non-coding RNA (ncRNA) Based Encryption Algorithm",
+   "authors": [
+    "WangXu",
+    "YiquanWang",
+    "Tin-Yeh Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j6ODUDw4vN",
+   "pdf_url": "https://openreview.net/pdf?id=j6ODUDw4vN"
+  },
+  {
+   "title": "Decision Tree Induction with Dynamic Feature Generation: A Framework for Interpretable DNA Sequence Analysis",
+   "authors": [
+    "Nicolas Huynh",
+    "Krzysztof Kacprzyk",
+    "Ryan M Sheridan",
+    "David L. Bentley",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W2AECt1quM",
+   "pdf_url": null
+  },
+  {
+   "title": "Differentiable Folding for Nearest Neighbor Model Optimization",
+   "authors": [
+    "Ryan Krueger",
+    "Sharon Aviran",
+    "David H. Mathews",
+    "Jeffrey Zuber",
+    "Max Ward"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YNwg2fR15R",
+   "pdf_url": null
+  },
+  {
+   "title": "Enhancing DNA Foundation Models to Address Masking Inefficiencies",
+   "authors": [
+    "Monireh Safari",
+    "Pablo Andres Millan Arias",
+    "Scott C. Lowe",
+    "Lila Kari",
+    "Angel X Chang",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DGs7lmqkkU",
+   "pdf_url": "https://openreview.net/pdf?id=DGs7lmqkkU"
+  },
+  {
+   "title": "EvoFlow-RNA: Generating and Representing non-coding RNA with a Language Model",
+   "authors": [
+    "Sawan Patel",
+    "Fred Zhangzhi Peng",
+    "Keith Fraser",
+    "Adam David Friedman",
+    "Pranam Chatterjee",
+    "Sherwood Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oDTBI7z52K",
+   "pdf_url": "https://openreview.net/pdf?id=oDTBI7z52K"
+  },
+  {
+   "title": "FFPEnet: Somatic variant calling in FFPE tumor samples using deep transfer learning",
+   "authors": [
+    "Kiran Krishnamachari",
+    "Anders Jacobsen Skanderup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H04OPUn6QC",
+   "pdf_url": "https://openreview.net/pdf?id=H04OPUn6QC"
+  },
+  {
+   "title": "Flexible Models of Functional Annotations to Variant Effects using Accelerated Linear Algebra",
+   "authors": [
+    "Alan Nawzad Amin",
+    "Andres Potapczynski",
+    "Andrew Gordon Wilson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMJCXng7iH",
+   "pdf_url": "https://openreview.net/pdf?id=CMJCXng7iH"
+  },
+  {
+   "title": "From Mutation to Degradation: Predicting Nonsense-Mediated mRNA Decay with NMDEP",
+   "authors": [
+    "Ali Saadat",
+    "Jacques Fellay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1YZXtSrydl",
+   "pdf_url": null
+  },
+  {
+   "title": "GENATATOR: de novo Gene Annotation With DNA Language Model",
+   "authors": [
+    "Aleksei Shmelev",
+    "Artem Shadskiy",
+    "Yuri Kuratov",
+    "Mikhail Burtsev",
+    "Olga Kardymon",
+    "Veniamin Fishman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ouMoBqgjfj",
+   "pdf_url": "https://openreview.net/pdf?id=ouMoBqgjfj"
+  },
+  {
+   "title": "Gumbel-Softmax Score and Flow Matching for Discrete Biological Sequence Generation",
+   "authors": [
+    "Sophia Tang",
+    "Yinuo Zhang",
+    "Alexander Tong",
+    "Pranam Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ITpCmDhSfu",
+   "pdf_url": "https://openreview.net/pdf?id=ITpCmDhSfu"
+  },
+  {
+   "title": "HARMONY: A Multi-Representation Framework for RNA Property Prediction",
+   "authors": [
+    "Junjie Xu",
+    "Artem Moskalev",
+    "Tommaso Mansi",
+    "Mangal Prakash",
+    "Rui Liao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nzUsRhtnBa",
+   "pdf_url": "https://openreview.net/pdf?id=nzUsRhtnBa"
+  },
+  {
+   "title": "HyperGenie: A method for predicting enzymatic gene essentiality using hypergraph neural networks and genome-scale metabolic models",
+   "authors": [
+    "Panayiotis Ioannou",
+    "Iulia Duta",
+    "Suraj Verma",
+    "Pietro Cicuta",
+    "Pietro Lio",
+    "Claudio Angione"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mhjF7jgMGp",
+   "pdf_url": null
+  },
+  {
+   "title": "InfoSEM: A Deep Generative Model with Informative Priors for Gene Regulatory Network Inference",
+   "authors": [
+    "Tianyu Cui",
+    "Song-Jun Xu",
+    "Artem Moskalev",
+    "Shuwei Li",
+    "Tommaso Mansi",
+    "Mangal Prakash",
+    "Rui Liao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvBuXU1J2K",
+   "pdf_url": "https://openreview.net/pdf?id=TvBuXU1J2K"
+  },
+  {
+   "title": "Long-range gene expression prediction with token alignment of large language model",
+   "authors": [
+    "Edouardo Honig",
+    "Huixin Zhan",
+    "Ying Nian Wu",
+    "Zijun Frank Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9vGR0p0gIa",
+   "pdf_url": null
+  },
+  {
+   "title": "MoXGATE: Modality-Aware Cross-Attention for Multi-Omic Gastrointestinal Cancer Subtype Classification",
+   "authors": [
+    "Sajib Acharjee Dip"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QiNk4dOiBE",
+   "pdf_url": "https://openreview.net/pdf?id=QiNk4dOiBE"
+  },
+  {
+   "title": "On inputs to deep learning for RNA 3D structure prediction",
+   "authors": [
+    "Marcell Szikszai",
+    "Marcin Magnus",
+    "Sachin Kadyan",
+    "Elena Rivas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6yQL13G6Aa",
+   "pdf_url": "https://openreview.net/pdf?id=6yQL13G6Aa"
+  },
+  {
+   "title": "Protriever: End-to-End Differentiable Protein Homology Search for Fitness Prediction",
+   "authors": [
+    "Ruben Weitzman",
+    "Peter Mørch Groth",
+    "Aoi Otani",
+    "Yarin Gal",
+    "Debora Susan Marks",
+    "Pascal Notin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m3Ig4gzdxT",
+   "pdf_url": null
+  },
+  {
+   "title": "ProtRNA: A Protein-derived RNA Language Model by Cross-Modality Transfer Learning",
+   "authors": [
+    "Ruoxi Zhang",
+    "Ben Ma",
+    "Gang Xu",
+    "Jianpeng Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hv6hbk1yJR",
+   "pdf_url": null
+  },
+  {
+   "title": "Re-purposing GNNome: Genome Assembly Postprocessing (GAP)",
+   "authors": [
+    "Joshua Emmanuel Teo",
+    "Martin Schmitz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nu8l2N1Frv",
+   "pdf_url": "https://openreview.net/pdf?id=Nu8l2N1Frv"
+  },
+  {
+   "title": "RiboGen: RNA Sequence and Structure Co-Generation with Equivariant Multiflow",
+   "authors": [
+    "Dana Rubin",
+    "Allan Dos Santos Costa",
+    "Manvitha Ponnapati",
+    "JOSEPH JACOBSON"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xp1IfvT8Gd",
+   "pdf_url": "https://openreview.net/pdf?id=Xp1IfvT8Gd"
+  },
+  {
+   "title": "RNAGym: Benchmarks for RNA Fitness and Structure Prediction",
+   "authors": [
+    "Rohit Arora",
+    "Murphy Angelo",
+    "Christian Andrew Choe",
+    "Aaron W Kollasch",
+    "Fiona Qu",
+    "Courtney A. Shearer",
+    "Ruben Weitzman",
+    "Artem Gazizov",
+    "Sarah Gurev",
+    "Erik Xie",
+    "Debora Susan Marks",
+    "Pascal Notin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5OU9Z99v4m",
+   "pdf_url": null
+  },
+  {
+   "title": "RNAlign: Alignment of tumor and cell line transcriptomes using conditional VAEs",
+   "authors": [
+    "Jacob Alvarez",
+    "Kiran Krishnamachari",
+    "Anders Jacobsen Skanderup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SwscPWreeG",
+   "pdf_url": "https://openreview.net/pdf?id=SwscPWreeG"
+  },
+  {
+   "title": "scContrast: A contrastive learning based approach for encoding single-cell gene expression data",
+   "authors": [
+    "Winston Yuxiang Li",
+    "Ghulam Murtaza",
+    "Ritambhara Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U6S4XMbfxt",
+   "pdf_url": null
+  },
+  {
+   "title": "siRNA-mRNA dual diffusion model for RNAi drug design",
+   "authors": [
+    "Zhiqi Ma",
+    "Xubin Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mhTwQmNTQA",
+   "pdf_url": null
+  },
+  {
+   "title": "SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model",
+   "authors": [
+    "Jiwei Zhu",
+    "Zhao Yang",
+    "Bing Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ttfiQcMeFB",
+   "pdf_url": "https://openreview.net/pdf?id=ttfiQcMeFB"
+  },
+  {
+   "title": "Understanding DNA Discrete Diffusion for Engineering Regulatory DNA Sequences",
+   "authors": [
+    "Anirban Sarkar",
+    "Yijie Kang",
+    "Nirali Somia",
+    "Peter K Koo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QhuhGYyqso",
+   "pdf_url": "https://openreview.net/pdf?id=QhuhGYyqso"
+  },
+  {
+   "title": "VirProBERT: A Sequence Language Model for Predicting Viral Hosts",
+   "authors": [
+    "Blessy Antony",
+    "Maryam Haghani",
+    "Anuj Karpatne",
+    "T. Murali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1EtiANvJbD",
+   "pdf_url": null
+  },
+  {
+   "title": "Zero-Shot Extrapolation in State-Space Models for Long-Range Genomics",
+   "authors": [
+    "Matvei Popov",
+    "Aymen Kallala",
+    "Anirudha Ramesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TgMOKcaHUW",
+   "pdf_url": "https://openreview.net/pdf?id=TgMOKcaHUW"
+  }
+ ]
+}

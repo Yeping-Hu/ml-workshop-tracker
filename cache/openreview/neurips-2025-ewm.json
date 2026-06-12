@@ -1,0 +1,623 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/EWM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:43.038Z",
+ "paper_count": 51,
+ "papers": [
+  {
+   "title": "A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search",
+   "authors": [
+    "Arnav Kumar Jain",
+    "Vibhakar Mohta",
+    "Subin Kim",
+    "Atiksh Bhardwaj",
+    "Juntao Ren",
+    "Yunhai Feng",
+    "Sanjiban Choudhury",
+    "Gokul Swamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WKzDhuw4Rx",
+   "pdf_url": "https://openreview.net/pdf?id=WKzDhuw4Rx"
+  },
+  {
+   "title": "Abstract Sim2Real through Approximate Information States",
+   "authors": [
+    "Yunfu Deng",
+    "Josiah P. Hanna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FoDmB0ixdt",
+   "pdf_url": "https://openreview.net/pdf?id=FoDmB0ixdt"
+  },
+  {
+   "title": "Ada-Diffuser: Latent-Aware Adaptive Diffusion for Decision-Making",
+   "authors": [
+    "Fan Feng",
+    "Selena Ge",
+    "Minghao Fu",
+    "Zijian Li",
+    "Yujia Zheng",
+    "Zeyu Tang",
+    "Yingyao Hu",
+    "Biwei Huang",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lZ2iSl8ihf",
+   "pdf_url": "https://openreview.net/pdf?id=lZ2iSl8ihf"
+  },
+  {
+   "title": "Adversarial Diffusion for Robust Reinforcement Learning",
+   "authors": [
+    "Daniele Foffano",
+    "Alessio Russo",
+    "Alexandre Proutiere"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kJgEqrlmH5",
+   "pdf_url": "https://openreview.net/pdf?id=kJgEqrlmH5"
+  },
+  {
+   "title": "Avi: A 3D Vision-Language Action Model Architecture generating Action from Volumetric Inference",
+   "authors": [
+    "Harris Song",
+    "Long Le"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3UB24EwYWV",
+   "pdf_url": "https://openreview.net/pdf?id=3UB24EwYWV"
+  },
+  {
+   "title": "Beyond Experience: Fictive Learning as an Inherent Advantage of World Models",
+   "authors": [
+    "Jianning Chen",
+    "Masakazu Taira",
+    "Kenji Doya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lOYHSeXaiT",
+   "pdf_url": "https://openreview.net/pdf?id=lOYHSeXaiT"
+  },
+  {
+   "title": "Bridging the Sim-to-Real Gap in Humanoid Dynamics via Learned Nonlinear Operators",
+   "authors": [
+    "Jieming Cui",
+    "Zhenghao Qi",
+    "Yutang Lin",
+    "Yifei Zhao",
+    "Yuntian Hu",
+    "Lei Kuang",
+    "Shuang Qiu",
+    "Ruihua Zhang",
+    "Bin He",
+    "Yixin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zi1oawm4cA",
+   "pdf_url": "https://openreview.net/pdf?id=Zi1oawm4cA"
+  },
+  {
+   "title": "Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models",
+   "authors": [
+    "Brennen Hill",
+    "Mant Koh En Wei",
+    "Jishnuanandh Thangavel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yKmzcP83II",
+   "pdf_url": "https://openreview.net/pdf?id=yKmzcP83II"
+  },
+  {
+   "title": "Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning",
+   "authors": [
+    "Shangzhe Li",
+    "Zhiao Huang",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ggQJM2Zza4",
+   "pdf_url": "https://openreview.net/pdf?id=ggQJM2Zza4"
+  },
+  {
+   "title": "CRISP: Contact-guided Real2Sim from Monocular Video with Planar Scene Primitives",
+   "authors": [
+    "Zihan Wang",
+    "Jiashun Wang",
+    "Jeff Tan",
+    "Yiwen Zhao",
+    "Jessica K. Hodgins",
+    "Shubham Tulsiani",
+    "Deva Ramanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zcaGaEtseb",
+   "pdf_url": "https://openreview.net/pdf?id=zcaGaEtseb"
+  },
+  {
+   "title": "Decoupled Planning and Execution with LLM-Driven World Models for Efficient Reinforcement learning",
+   "authors": [
+    "Guoqing Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4BFbpAPkUc",
+   "pdf_url": "https://openreview.net/pdf?id=4BFbpAPkUc"
+  },
+  {
+   "title": "Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving",
+   "authors": [
+    "Yinzhe Shen",
+    "Omer Sahin Tas",
+    "Kaiwen Wang",
+    "Royden Wagner",
+    "Christoph Stiller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UxbQDyc8No",
+   "pdf_url": "https://openreview.net/pdf?id=UxbQDyc8No"
+  },
+  {
+   "title": "EnerVerse-AC: Envisioning Embodied Environments with Action Condition",
+   "authors": [
+    "Yuxin Jiang",
+    "Shengcong Chen",
+    "Siyuan Huang",
+    "Liliang Chen",
+    "Pengfei Zhou",
+    "Yue Liao",
+    "Xindong He",
+    "Chiming Liu",
+    "Hongsheng Li",
+    "Maoqing Yao",
+    "Guanghui Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zIiV66Dimq",
+   "pdf_url": "https://openreview.net/pdf?id=zIiV66Dimq"
+  },
+  {
+   "title": "Exploring exploration with foundation agents in interactive environments",
+   "authors": [
+    "Daniel P. Sawyer",
+    "Nan Rosemary Ke",
+    "Hubert Soyer",
+    "Martin Engelcke",
+    "John Reid",
+    "David P Reichert",
+    "Drew A. Hudson",
+    "Alexander Lerchner",
+    "Danilo Jimenez Rezende",
+    "Timothy P Lillicrap",
+    "Michael Curtis Mozer",
+    "Jane X Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ay2d66HWO2",
+   "pdf_url": "https://openreview.net/pdf?id=ay2d66HWO2"
+  },
+  {
+   "title": "FalconWing: An Ultra-Light Fixed-Wing Platform for Indoor Aerial Applications",
+   "authors": [
+    "Yan Miao",
+    "Will Shen",
+    "Hang Cui",
+    "Sayan Mitra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kxy6M4ZtYl",
+   "pdf_url": "https://openreview.net/pdf?id=Kxy6M4ZtYl"
+  },
+  {
+   "title": "FLAM: Scaling Latent Action World Models with Factorization",
+   "authors": [
+    "Zizhao Wang",
+    "Chang Shi",
+    "Jiaheng Hu",
+    "Roberto Martín-Martín",
+    "Peter Stone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BNy6FuNThg",
+   "pdf_url": "https://openreview.net/pdf?id=BNy6FuNThg"
+  },
+  {
+   "title": "Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds",
+   "authors": [
+    "Remo Sasso",
+    "Michelangelo Conserva",
+    "Dominik Jeurissen",
+    "Paulo Rauber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HwbN0sLkEI",
+   "pdf_url": "https://openreview.net/pdf?id=HwbN0sLkEI"
+  },
+  {
+   "title": "Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents",
+   "authors": [
+    "Brennen Hill"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3CLmi8xHk3",
+   "pdf_url": "https://openreview.net/pdf?id=3CLmi8xHk3"
+  },
+  {
+   "title": "Geosteering Through the Lens of Decision Transformers: Toward Embodied Sequence Decision-Making",
+   "authors": [
+    "Hibat Errahmen DJECTA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QXLWeLJ0ub",
+   "pdf_url": "https://openreview.net/pdf?id=QXLWeLJ0ub"
+  },
+  {
+   "title": "HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Robotic Assembly",
+   "authors": [
+    "Gireesh Nandiraju",
+    "Yuanliang Ju",
+    "Chaoyi Xu",
+    "He Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NDGP58PuQX",
+   "pdf_url": "https://openreview.net/pdf?id=NDGP58PuQX"
+  },
+  {
+   "title": "How Foundational Skills Influence VLM-based Embodied Agents: A Native Perspective",
+   "authors": [
+    "Bo Peng",
+    "Pi Bu",
+    "Keyu Pan",
+    "Xinrun Xu",
+    "Miao Chen",
+    "Yang Du",
+    "Lin Li",
+    "Jun Song",
+    "Tong Xu",
+    "Bo Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=maEufqN2Cu",
+   "pdf_url": "https://openreview.net/pdf?id=maEufqN2Cu"
+  },
+  {
+   "title": "Improvisational Reasoning with Vision-Language Models for Grounded Procedural Planning",
+   "authors": [
+    "Md Masudur Rahman",
+    "Yupeng Zhuo",
+    "Juan Wachs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vDzwuzGIKz",
+   "pdf_url": "https://openreview.net/pdf?id=vDzwuzGIKz"
+  },
+  {
+   "title": "In-Context Policy Iteration for Dynamic Manipulation",
+   "authors": [
+    "Mark Van der Merwe",
+    "Devesh K. Jha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nExJBkdYEy",
+   "pdf_url": "https://openreview.net/pdf?id=nExJBkdYEy"
+  },
+  {
+   "title": "Latent Weight Diffusion: Generating reactive policies instead of trajectories",
+   "authors": [
+    "Shashank Hegde",
+    "Satyajeet Das",
+    "Gautam Salhotra",
+    "Gaurav S. Sukhatme"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qDFIX1Ub5u",
+   "pdf_url": "https://openreview.net/pdf?id=qDFIX1Ub5u"
+  },
+  {
+   "title": "Learning to Focus: Prioritizing Informative Histories with Structured Attention Mechanisms in Partially Observable Reinforcement Learning",
+   "authors": [
+    "Daniel De Dios Allegue",
+    "Jinke He",
+    "Frans A Oliehoek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B19Q1q4tyN",
+   "pdf_url": "https://openreview.net/pdf?id=B19Q1q4tyN"
+  },
+  {
+   "title": "LLM-Guided Probabilistic Program Induction for POMDP Model Estimation",
+   "authors": [
+    "Aidan Curtis",
+    "Hao Tang",
+    "Thiago Veloso",
+    "Kevin Ellis",
+    "Joshua B. Tenenbaum",
+    "Tomás Lozano-Pérez",
+    "Leslie Pack Kaelbling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Xci8uOpef",
+   "pdf_url": "https://openreview.net/pdf?id=7Xci8uOpef"
+  },
+  {
+   "title": "Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks",
+   "authors": [
+    "Corrado Pezzato",
+    "Ozan Catal",
+    "Toon Van de Maele",
+    "Riddhi J. Pitliya",
+    "Tim Verbelen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iOzxiyQann",
+   "pdf_url": "https://openreview.net/pdf?id=iOzxiyQann"
+  },
+  {
+   "title": "NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows",
+   "authors": [
+    "Denis Tarasov",
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Albina Klepach",
+    "Lyubaykin Nikita",
+    "Andrei Polubarov",
+    "Alexander Derevyagin",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pyIv1RvmOA",
+   "pdf_url": "https://openreview.net/pdf?id=pyIv1RvmOA"
+  },
+  {
+   "title": "OpenGVL - Benchmarking Visual Temporal Progress for Data Curation",
+   "authors": [
+    "Paweł Budzianowski",
+    "Emilia Wiśnios",
+    "Gracjan Góral",
+    "Igor Kulakov",
+    "Viktor Petrenko",
+    "Krzysztof Walas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x23G2I1lsd",
+   "pdf_url": "https://openreview.net/pdf?id=x23G2I1lsd"
+  },
+  {
+   "title": "Opinion: A Unified World Model is the cornerstone for integrating perception, reasoning, and decision-making in embodied AI",
+   "authors": [
+    "Yipeng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WjmfSw2eg9",
+   "pdf_url": "https://openreview.net/pdf?id=WjmfSw2eg9"
+  },
+  {
+   "title": "Opinion: How Can Causal AI Benefit World Models?",
+   "authors": [
+    "Qiuling Pan",
+    "Hong Zhou",
+    "Zhouchen Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L7AcauI3yx",
+   "pdf_url": "https://openreview.net/pdf?id=L7AcauI3yx"
+  },
+  {
+   "title": "Opinion: Learning Intuitive Physics May Require More Than Visual Data",
+   "authors": [
+    "Ellen Su",
+    "Solim LeGris",
+    "Todd M. Gureckis",
+    "Mengye Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z9WKQF2kJD",
+   "pdf_url": "https://openreview.net/pdf?id=z9WKQF2kJD"
+  },
+  {
+   "title": "Opinion: Small VLAs Self-Learn Consistency",
+   "authors": [
+    "Francesco Capuano",
+    "Adil Zouitine",
+    "Michel Aractingi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CtVPGdXFzD",
+   "pdf_url": "https://openreview.net/pdf?id=CtVPGdXFzD"
+  },
+  {
+   "title": "Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning",
+   "authors": [
+    "Haidong Huang",
+    "Haiyue Zhu",
+    "Jiayu Song",
+    "Xixin Zhao",
+    "Yaohua Zhou",
+    "Jiayi Zhang",
+    "Yuze Zhai",
+    "Xiaocong Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i2YMK8GZEb",
+   "pdf_url": "https://openreview.net/pdf?id=i2YMK8GZEb"
+  },
+  {
+   "title": "Plan Verification for LLM-Based Embodied Task Completion Agents",
+   "authors": [
+    "Ananth Hariharan",
+    "Vardhan Dongre",
+    "Dilek Hakkani-Tür",
+    "Gokhan Tur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9AOGlpRXqq",
+   "pdf_url": "https://openreview.net/pdf?id=9AOGlpRXqq"
+  },
+  {
+   "title": "PolicyGRID: Acting to Understand, Understanding to Act",
+   "authors": [
+    "Taqiya Ehsan",
+    "Shuren Xia",
+    "Jorge Ortiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SqaOyB89rE",
+   "pdf_url": "https://openreview.net/pdf?id=SqaOyB89rE"
+  },
+  {
+   "title": "RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving",
+   "authors": [
+    "Carlo Bosio",
+    "Greg Woelki",
+    "Noureldin Hendy",
+    "Nicholas Roy",
+    "Byungsoo Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f5FjunWjMB",
+   "pdf_url": "https://openreview.net/pdf?id=f5FjunWjMB"
+  },
+  {
+   "title": "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics",
+   "authors": [
+    "Chenhao Li",
+    "Andreas Krause",
+    "Marco Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u76d3gBWCX",
+   "pdf_url": "https://openreview.net/pdf?id=u76d3gBWCX"
+  },
+  {
+   "title": "ROPES: Robotic Pose Estimation via Score-based Causal Representation Learning",
+   "authors": [
+    "Pranamya Prashant Kulkarni",
+    "Puranjay Datta",
+    "Emre Acartürk",
+    "Burak Varıcı",
+    "Karthikeyan Shanmugam",
+    "Ali Tajer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LkQcEVFDfK",
+   "pdf_url": "https://openreview.net/pdf?id=LkQcEVFDfK"
+  },
+  {
+   "title": "ScenePhys — Controllable Physics Videos for World-Model Evaluation",
+   "authors": [
+    "Arshia Hemmat",
+    "Emad Aghahosseini",
+    "Alireza Nasri",
+    "Mohammad Hossein Shaker Ardakani",
+    "Amirmasoud Rismanchian",
+    "Ali Mamanpoosh",
+    "Afsaneh Fatemi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t5CKY0oUgZ",
+   "pdf_url": "https://openreview.net/pdf?id=t5CKY0oUgZ"
+  },
+  {
+   "title": "Sim-to-Real Contact-Rich Pivoting via Optimization-Guided RL with Vision and Touch",
+   "authors": [
+    "Yuki Shirai",
+    "Kei Ota",
+    "Devesh K. Jha",
+    "Diego Romeres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tdjHpiQudR",
+   "pdf_url": "https://openreview.net/pdf?id=tdjHpiQudR"
+  },
+  {
+   "title": "SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards",
+   "authors": [
+    "Hunar Batra",
+    "Haoqin Tu",
+    "Hardy Chen",
+    "Yuanze Lin",
+    "Cihang Xie",
+    "Ronald Clark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1KmpZ4PDtu",
+   "pdf_url": "https://openreview.net/pdf?id=1KmpZ4PDtu"
+  },
+  {
+   "title": "SPUR: Scaling Reward Learning from Human Demonstrations",
+   "authors": [
+    "Anthony Liang",
+    "Yigit Korkmaz",
+    "Jiahui Zhang",
+    "Jesse Zhang",
+    "Abrar Anwar",
+    "Sidhant Kaushik",
+    "Yufei Wang",
+    "Yu Xiang",
+    "David Held",
+    "Dieter Fox",
+    "Abhishek Gupta",
+    "Stephen Tu",
+    "Erdem Biyik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DHLWZhzUwh",
+   "pdf_url": "https://openreview.net/pdf?id=DHLWZhzUwh"
+  },
+  {
+   "title": "Stable Planning through Aligned Representations in Model-Based Reinforcement Learning",
+   "authors": [
+    "Misagh Soltani",
+    "Forest Agostinelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uv7V1gTOjK",
+   "pdf_url": "https://openreview.net/pdf?id=Uv7V1gTOjK"
+  },
+  {
+   "title": "Steering Diffusion Policies with Value-Guided Denoising",
+   "authors": [
+    "Hanming Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dtMBW9W5jo",
+   "pdf_url": "https://openreview.net/pdf?id=dtMBW9W5jo"
+  },
+  {
+   "title": "The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum",
+   "authors": [
+    "Brennen Hill"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yb55CXv3CZ",
+   "pdf_url": "https://openreview.net/pdf?id=yb55CXv3CZ"
+  },
+  {
+   "title": "Towards Fine-tuning a Small Vision-Language Model for Aerial Navigation",
+   "authors": [
+    "Hakob Tamazyan",
+    "Narek Nurijanyan",
+    "Boris Martirosyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=meOux7qkCk",
+   "pdf_url": "https://openreview.net/pdf?id=meOux7qkCk"
+  },
+  {
+   "title": "ViPRA: Video Prediction for Robot Actions",
+   "authors": [
+    "Sandeep Routray",
+    "Hengkai Pan",
+    "Unnat Jain",
+    "Shikhar Bahl",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A8b2NhxCAm",
+   "pdf_url": "https://openreview.net/pdf?id=A8b2NhxCAm"
+  },
+  {
+   "title": "Vision-Language Reasoning for Burn Depth Assessment with Structured Diagnostic Hypotheses",
+   "authors": [
+    "Md Masudur Rahman",
+    "Mohamed El Masry",
+    "Kristo Nuutila",
+    "Gayle Gordillo",
+    "Juan Wachs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yR8BIMCg9r",
+   "pdf_url": "https://openreview.net/pdf?id=yR8BIMCg9r"
+  },
+  {
+   "title": "VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models",
+   "authors": [
+    "Chongkai Gao",
+    "Zixuan Liu",
+    "Zhenghao Chi",
+    "Junshan Huang",
+    "Xin Fei",
+    "Yiwen Hou",
+    "Yuxuan Zhang",
+    "Yudi Lin",
+    "Zhirui Fang",
+    "Zeyu Jiang",
+    "Lin Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WnpjQJwEyy",
+   "pdf_url": "https://openreview.net/pdf?id=WnpjQJwEyy"
+  },
+  {
+   "title": "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making",
+   "authors": [
+    "Zhilong Zhang",
+    "Ruifeng Chen",
+    "Junyin Ye",
+    "Yihao Sun",
+    "Haoxiang Ren",
+    "Xinghao Du",
+    "Pengyuan Wang",
+    "Jing-Cheng Pang",
+    "Kaiyuan Li",
+    "Tian-Shuo Liu",
+    "Haoxin Lin",
+    "Yang Yu",
+    "Zhi-Hua Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NY2uoM3J6l",
+   "pdf_url": "https://openreview.net/pdf?id=NY2uoM3J6l"
+  }
+ ]
+}

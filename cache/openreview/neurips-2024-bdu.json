@@ -1,0 +1,1172 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/BDU",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:22.079Z",
+ "paper_count": 107,
+ "papers": [
+  {
+   "title": "(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models",
+   "authors": [
+    "Andreas Kirsch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hR3mhI2p2K",
+   "pdf_url": "https://openreview.net/pdf?id=hR3mhI2p2K"
+  },
+  {
+   "title": "A Bayesian Approach Towards Crowdsourcing the Truths from LLMs",
+   "authors": [
+    "Peiran Yao",
+    "Jerin George Mathew",
+    "Shehraj Singh",
+    "Donatella Firmani",
+    "Denilson Barbosa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRW8i4EF0Z",
+   "pdf_url": "https://openreview.net/pdf?id=oRW8i4EF0Z"
+  },
+  {
+   "title": "A Fast, Robust Elliptical Slice Sampling Method for Truncated Multivariate Normal Distributions",
+   "authors": [
+    "Kaiwen Wu",
+    "Jacob R. Gardner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lbeplykgk5",
+   "pdf_url": "https://openreview.net/pdf?id=lbeplykgk5"
+  },
+  {
+   "title": "A scalable Bayesian continual learning framework for online and sequential decision making",
+   "authors": [
+    "Hanwen Xing",
+    "Christopher Yau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NDaaCaWS9N",
+   "pdf_url": "https://openreview.net/pdf?id=NDaaCaWS9N"
+  },
+  {
+   "title": "Active Learning for Affinity Prediction of Antibodies",
+   "authors": [
+    "Alexandra Gessner",
+    "Sebastian W. Ober",
+    "Owen Niall Vickery",
+    "Dino Oglic",
+    "Talip Ucar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rSnUPJ2n1D",
+   "pdf_url": "https://openreview.net/pdf?id=rSnUPJ2n1D"
+  },
+  {
+   "title": "Active Learning for Optimal Minimization of Experimental Characterization Uncertainty",
+   "authors": [
+    "Marcus Schwarting",
+    "Nathan Seifert",
+    "Logan Ward",
+    "Ben Blaiszik",
+    "Ian Foster",
+    "Yuxin Chen",
+    "Kirill Prozument"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0EjE4hhI1U",
+   "pdf_url": "https://openreview.net/pdf?id=0EjE4hhI1U"
+  },
+  {
+   "title": "Adaptive Transductive Inference via Sequential Experimental Design with Contextual Retention",
+   "authors": [
+    "Tareq Si Salem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGvVf2h2Yb",
+   "pdf_url": "https://openreview.net/pdf?id=PGvVf2h2Yb"
+  },
+  {
+   "title": "Adjusting Model Size in Continual Gaussian Processes: How Big is Big Enough?",
+   "authors": [
+    "Guiomar Pescador-Barrios",
+    "Sarah Lucie Filippi",
+    "Mark van der Wilk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mjjyNwfmQe",
+   "pdf_url": "https://openreview.net/pdf?id=mjjyNwfmQe"
+  },
+  {
+   "title": "Amortized Bayesian Workflow (Extended Abstract)",
+   "authors": [
+    "Marvin Schmitt",
+    "Chengkun LI",
+    "Aki Vehtari",
+    "Luigi Acerbi",
+    "Paul-Christian Bürkner",
+    "Stefan T. Radev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pKZp2JjC76",
+   "pdf_url": "https://openreview.net/pdf?id=pKZp2JjC76"
+  },
+  {
+   "title": "Amortized Decision-Aware Bayesian Experimental Design",
+   "authors": [
+    "Daolang Huang",
+    "Yujia Guo",
+    "Luigi Acerbi",
+    "Samuel Kaski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dDqNhoNHFo",
+   "pdf_url": "https://openreview.net/pdf?id=dDqNhoNHFo"
+  },
+  {
+   "title": "An Active Learning Performance Model for Parallel Bayesian Calibration of Expensive Simulations",
+   "authors": [
+    "Özge Sürer",
+    "Stefan M. Wild"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1iWU1lqtbE",
+   "pdf_url": "https://openreview.net/pdf?id=1iWU1lqtbE"
+  },
+  {
+   "title": "An Information-Theoretic Analysis of Thompson Sampling for Logistic Bandits",
+   "authors": [
+    "Amaury Gouverneur",
+    "Borja Rodríguez Gálvez",
+    "Tobias Oechtering",
+    "Mikael Skoglund"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RG55EFkZ6R",
+   "pdf_url": "https://openreview.net/pdf?id=RG55EFkZ6R"
+  },
+  {
+   "title": "Atomic Layer Deposition Optimization via Targeted Adaptive Design.",
+   "authors": [
+    "Marieme Ngom",
+    "Carlo Graziani",
+    "Noah Paulson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SpDYpgBU7v",
+   "pdf_url": "https://openreview.net/pdf?id=SpDYpgBU7v"
+  },
+  {
+   "title": "BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories",
+   "authors": [
+    "Rui-Yang Zhang",
+    "Henry Moss",
+    "Lachlan Astfalck",
+    "Edward Cripps",
+    "David S. Leslie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sKjBnOQwtO",
+   "pdf_url": "https://openreview.net/pdf?id=sKjBnOQwtO"
+  },
+  {
+   "title": "Bayesian Nonparametric Learning using the Maximum Mean Discrepancy Measure for Synthetic Data Generation",
+   "authors": [
+    "Forough Fazeli-Asl",
+    "Michael Minyi Zhang",
+    "Lizhen Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXAR2BOFJJ",
+   "pdf_url": "https://openreview.net/pdf?id=bXAR2BOFJJ"
+  },
+  {
+   "title": "Bayesian Optimal Experimental Design of Streaming Data Incorporating Machine Learning Generated Synthetic Data",
+   "authors": [
+    "Kentaro Hoffman",
+    "Tyler McCormick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RKxzpg9Kta",
+   "pdf_url": "https://openreview.net/pdf?id=RKxzpg9Kta"
+  },
+  {
+   "title": "Bayesian Optimization for High-dimensional Urban Mobility Problems",
+   "authors": [
+    "Seongjin Choi",
+    "Sergio Rodriguez",
+    "Carolina Osorio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QAk81qFRWV",
+   "pdf_url": "https://openreview.net/pdf?id=QAk81qFRWV"
+  },
+  {
+   "title": "Bayesian Optimization of High-dimensional Outputs with Human Feedback",
+   "authors": [
+    "Qing Feng",
+    "Zhiyuan Jerry Lin",
+    "Yujia Zhang",
+    "Benjamin Letham",
+    "Jelena Markovic-Voronov",
+    "Ryan-Rhys Griffiths",
+    "Peter I. Frazier",
+    "Eytan Bakshy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2fHwkHskpo",
+   "pdf_url": "https://openreview.net/pdf?id=2fHwkHskpo"
+  },
+  {
+   "title": "Bayesian Optimization over Bounded Domains with Beta Product Kernels",
+   "authors": [
+    "Huy Hoang Nguyen",
+    "Han Zhou",
+    "Matthew B. Blaschko",
+    "Aleksei Tiulpin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zM0WHXB3xf",
+   "pdf_url": "https://openreview.net/pdf?id=zM0WHXB3xf"
+  },
+  {
+   "title": "Bayesian Outcome Weighted Learning",
+   "authors": [
+    "Nikki L. B. Freeman",
+    "Sophia Yazzourh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tJhNfWiq4m",
+   "pdf_url": "https://openreview.net/pdf?id=tJhNfWiq4m"
+  },
+  {
+   "title": "Bayesian Rashomon Sets for Model Uncertainty: A critical comparison",
+   "authors": [
+    "Aparajithan Venkateswaran",
+    "Anirudh Sankar",
+    "Arun Chandrasekhar",
+    "Tyler McCormick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CwQysEqKDy",
+   "pdf_url": "https://openreview.net/pdf?id=CwQysEqKDy"
+  },
+  {
+   "title": "Big Batch Bayesian Active Learning by Considering Predictive Probabilities",
+   "authors": [
+    "Sebastian W. Ober",
+    "Samuel Power",
+    "Tom Diethe",
+    "Henry Moss"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VikX9euujU",
+   "pdf_url": "https://openreview.net/pdf?id=VikX9euujU"
+  },
+  {
+   "title": "BOTS: Batch Bayesian Optimization of Extended Thompson Sampling for Severely Episode-Limited RL Settings",
+   "authors": [
+    "Karine Karine",
+    "Susan Murphy",
+    "Benjamin Marlin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fu5tWxAtZ3",
+   "pdf_url": "https://openreview.net/pdf?id=fu5tWxAtZ3"
+  },
+  {
+   "title": "Capturing Extreme Events in Turbulence using an Extreme Variational Autoencoder",
+   "authors": [
+    "Likun Zhang",
+    "Christopher Wikle",
+    "Kiran Bhaganagar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1I01emzSMx",
+   "pdf_url": "https://openreview.net/pdf?id=1I01emzSMx"
+  },
+  {
+   "title": "Cold Posterior Effect towards Adversarial Robustness",
+   "authors": [
+    "Bruce Rushing",
+    "Antonios Alexos",
+    "Harrison Espino",
+    "Nicholas Cohen",
+    "Pierre Baldi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CuwFBTS557",
+   "pdf_url": "https://openreview.net/pdf?id=CuwFBTS557"
+  },
+  {
+   "title": "Computation-Aware Robust Gaussian Processes",
+   "authors": [
+    "Marshal Arijona Sinaga",
+    "Julien Martinelli",
+    "Samuel Kaski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TqvndDrteG",
+   "pdf_url": "https://openreview.net/pdf?id=TqvndDrteG"
+  },
+  {
+   "title": "Computationally Efficient Laplace Approximations for Neural Networks",
+   "authors": [
+    "Swarnali Raha",
+    "Kshitij Khare",
+    "Rohit K Patra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ku4jYr8W0N",
+   "pdf_url": "https://openreview.net/pdf?id=Ku4jYr8W0N"
+  },
+  {
+   "title": "Conformalised Conditional Normalising Flows for Joint Prediction Regions in time series",
+   "authors": [
+    "Eshant English",
+    "Christoph Lippert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Vkwer7im5",
+   "pdf_url": "https://openreview.net/pdf?id=5Vkwer7im5"
+  },
+  {
+   "title": "Constrained Multi-objective Bayesian Optimization",
+   "authors": [
+    "Diantong Li",
+    "Fengxue Zhang",
+    "Chong Liu",
+    "Yuxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lHnbPVKbts",
+   "pdf_url": "https://openreview.net/pdf?id=lHnbPVKbts"
+  },
+  {
+   "title": "Convergence Rates of Bayesian Network Policy Gradient for Cooperative Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Dingyang Chen",
+    "Zhenyu Zhang",
+    "Xiaolong Kuang",
+    "Xinyang Shen",
+    "Ozalp Ozer",
+    "Qi Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tLHd9gg57A",
+   "pdf_url": "https://openreview.net/pdf?id=tLHd9gg57A"
+  },
+  {
+   "title": "Cost-effective Reduced-Order Modeling via Bayesian Active Learning",
+   "authors": [
+    "Amir Hossein Rahmati",
+    "Nathan Urban",
+    "Byung-Jun Yoon",
+    "Xiaoning Qian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7oJAwWHndH",
+   "pdf_url": "https://openreview.net/pdf?id=7oJAwWHndH"
+  },
+  {
+   "title": "Data-Efficient Variational Mutual Information Estimation via Bayesian Self-Consistency",
+   "authors": [
+    "Desi R. Ivanova",
+    "Marvin Schmitt",
+    "Stefan T. Radev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QfiyElaO1f",
+   "pdf_url": "https://openreview.net/pdf?id=QfiyElaO1f"
+  },
+  {
+   "title": "Decision-Driven Calibration for Cost-Sensitive Uncertainty Quantification",
+   "authors": [
+    "Gregory Canal",
+    "Vladimir Leung",
+    "John J. Guerrerio",
+    "Philip Sage",
+    "I-Jeng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RBlQKY10KY",
+   "pdf_url": "https://openreview.net/pdf?id=RBlQKY10KY"
+  },
+  {
+   "title": "Diff-BBO:  Diffusion-Based Inverse Modeling for Black-Box Optimization",
+   "authors": [
+    "Dongxia Wu",
+    "Nikki Lijing Kuang",
+    "Ruijia Niu",
+    "Yian Ma",
+    "Rose Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KizOx8SheQ",
+   "pdf_url": "https://openreview.net/pdf?id=KizOx8SheQ"
+  },
+  {
+   "title": "Direct Acquisition Optimization for Low-Budget Active Learning",
+   "authors": [
+    "Zhuokai Zhao",
+    "Yibo Jiang",
+    "Yuxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ODjjSqlH8j",
+   "pdf_url": "https://openreview.net/pdf?id=ODjjSqlH8j"
+  },
+  {
+   "title": "Distributionally Robust Optimisation with Bayesian Ambiguity Sets",
+   "authors": [
+    "Charita Dellaporta",
+    "Patrick O'Hara",
+    "Theodoros Damoulas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=woNEqCWJ9g",
+   "pdf_url": "https://openreview.net/pdf?id=woNEqCWJ9g"
+  },
+  {
+   "title": "Efficient Bayesian Additive Regression Models For Microbiome Studies",
+   "authors": [
+    "Tinghua Chen",
+    "Michelle Pistner Nixon",
+    "Justin D Silverman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XnP7waOEjc",
+   "pdf_url": "https://openreview.net/pdf?id=XnP7waOEjc"
+  },
+  {
+   "title": "Efficient Experimentation for Estimation of Continuous and Discrete Conditional Treatment Effects",
+   "authors": [
+    "Muhammed Razzak",
+    "Panagiotis Tigas",
+    "Andrew Jesson",
+    "Yarin Gal",
+    "Uri Shalit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p0JzKTdRXI",
+   "pdf_url": "https://openreview.net/pdf?id=p0JzKTdRXI"
+  },
+  {
+   "title": "Efficient Local Unlearning for Gaussian Processes with Out-of-Distribution Data",
+   "authors": [
+    "Juliusz Ziomek",
+    "Ilija Bogunovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GNFh7UbP7s",
+   "pdf_url": "https://openreview.net/pdf?id=GNFh7UbP7s"
+  },
+  {
+   "title": "Efficient Modeling of Irregular Time-Series with Stochastic Optimal Control",
+   "authors": [
+    "Byoungwoo Park",
+    "Hyungi Lee",
+    "Juho Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KRtuDGFJzu",
+   "pdf_url": "https://openreview.net/pdf?id=KRtuDGFJzu"
+  },
+  {
+   "title": "Ensemble Mashups: A Simple Recipe For Better Bayesian Optimization",
+   "authors": [
+    "Anand Ravishankar",
+    "Fernando Llorente",
+    "Yuanqing Song",
+    "Petar Djuric"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0XT4bp5cbw",
+   "pdf_url": "https://openreview.net/pdf?id=0XT4bp5cbw"
+  },
+  {
+   "title": "Exploring and Addressing Reward Confusion in Offline Preference Learning",
+   "authors": [
+    "Xin Chen",
+    "Sam Toyer",
+    "Florian Shkurti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3BwqJlAJge",
+   "pdf_url": "https://openreview.net/pdf?id=3BwqJlAJge"
+  },
+  {
+   "title": "Failure Prediction from Few Expert Demonstrations",
+   "authors": [
+    "Anjali Parashar",
+    "Kunal Garg",
+    "Joseph Zhang",
+    "Chuchu Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mb91zIJvzi",
+   "pdf_url": "https://openreview.net/pdf?id=Mb91zIJvzi"
+  },
+  {
+   "title": "Fast, Precise Thompson Sampling for Bayesian Optimization",
+   "authors": [
+    "David Sweet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SAFIkA4Lap",
+   "pdf_url": "https://openreview.net/pdf?id=SAFIkA4Lap"
+  },
+  {
+   "title": "Finding Interior Optimum of Black-box Constrained Objective with Bayesian Optimization",
+   "authors": [
+    "Fengxue Zhang",
+    "Zejie Zhu",
+    "Yuxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jqj2xEaK3K",
+   "pdf_url": "https://openreview.net/pdf?id=jqj2xEaK3K"
+  },
+  {
+   "title": "Gaussian Process Conjoint Analysis for Adaptive Marginal Effect Estimation",
+   "authors": [
+    "Yehu Chen",
+    "Jacob Montgomery",
+    "Roman Garnett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dm0sy78rRf",
+   "pdf_url": "https://openreview.net/pdf?id=Dm0sy78rRf"
+  },
+  {
+   "title": "Gaussian Process Thompson Sampling via Rootfinding",
+   "authors": [
+    "Taiwo Adebiyi",
+    "Bach Do",
+    "Ruda Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IpRLTVblaV",
+   "pdf_url": "https://openreview.net/pdf?id=IpRLTVblaV"
+  },
+  {
+   "title": "Gaussian Randomized Exploration for Semi-bandits with Sleeping Arms",
+   "authors": [
+    "ZHIMING HUANG",
+    "Bingshan Hu",
+    "jianping pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IP8UzSWCoG",
+   "pdf_url": "https://openreview.net/pdf?id=IP8UzSWCoG"
+  },
+  {
+   "title": "GLEAM-AI: Neural Surrogate for Accelerated Epidemic Analytics and Forecasting",
+   "authors": [
+    "Mohammadmehdi Zahedi",
+    "Dongxia Wu",
+    "Jessica T. Davis",
+    "Yian Ma",
+    "Alessandro Vespignani",
+    "Rose Yu",
+    "Matteo Chinazzi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s4euyVmV9e",
+   "pdf_url": "https://openreview.net/pdf?id=s4euyVmV9e"
+  },
+  {
+   "title": "Gradient-free variational learning with conditional mixture networks",
+   "authors": [
+    "Conor Heins",
+    "Hao Wu",
+    "Dimitrije Markovic",
+    "Alexander Tschantz",
+    "Jeff Beck",
+    "Christopher Buckley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pb2U4WrAAv",
+   "pdf_url": "https://openreview.net/pdf?id=pb2U4WrAAv"
+  },
+  {
+   "title": "Graph Agnostic Causal Bayesian Optimisation",
+   "authors": [
+    "Sumantrak Mukherjee",
+    "Mengyan Zhang",
+    "Seth Flaxman",
+    "Sebastian Josef Vollmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2zOZx8eqEs",
+   "pdf_url": "https://openreview.net/pdf?id=2zOZx8eqEs"
+  },
+  {
+   "title": "Graph Classification Gaussian Processes via Hodgelet Spectral Features",
+   "authors": [
+    "Mathieu Alain",
+    "So Takao",
+    "Bastian Rieck",
+    "Xiaowen Dong",
+    "Emmanuel Noutahi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zgLOn7f2Lp",
+   "pdf_url": "https://openreview.net/pdf?id=zgLOn7f2Lp"
+  },
+  {
+   "title": "Had enough of experts? Elicitation and evaluation of Bayesian priors from large language models",
+   "authors": [
+    "David Antony Selby",
+    "Kai Spriestersbach",
+    "Yuichiro Iwashita",
+    "Dennis Bappert",
+    "Archana Warrier",
+    "Sumantrak Mukherjee",
+    "Muhammad Nabeel Asim",
+    "Koichi Kise",
+    "Sebastian Josef Vollmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3iDxHRQfVy",
+   "pdf_url": "https://openreview.net/pdf?id=3iDxHRQfVy"
+  },
+  {
+   "title": "Hi-fi functional priors by learning activations",
+   "authors": [
+    "Marcin Sendera",
+    "Amin Sorkhei",
+    "Tomasz Kuśmierczyk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=deXcOn4ScH",
+   "pdf_url": "https://openreview.net/pdf?id=deXcOn4ScH"
+  },
+  {
+   "title": "Higher Uncertainty Leads to Less Exploration in a Combinatorial Discovery Game",
+   "authors": [
+    "Bonan Zhao",
+    "Natalia Vélez",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LRGW9FoaXo",
+   "pdf_url": "https://openreview.net/pdf?id=LRGW9FoaXo"
+  },
+  {
+   "title": "Improved Depth Estimation of Bayesian Neural Networks",
+   "authors": [
+    "Bart van Erp",
+    "Bert de Vries"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6TLRVdWGzI",
+   "pdf_url": "https://openreview.net/pdf?id=6TLRVdWGzI"
+  },
+  {
+   "title": "Incentivized Exploration in Two-sided Matching Markets",
+   "authors": [
+    "Dung Daniel Ngo",
+    "Vamsi K. Potluru",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2oRY1oVVs9",
+   "pdf_url": "https://openreview.net/pdf?id=2oRY1oVVs9"
+  },
+  {
+   "title": "Incremental Uncertainty-aware Performance Monitoring with Labeling Intervention",
+   "authors": [
+    "Alexander Koebler",
+    "Thomas Decker",
+    "Ingo Thon",
+    "Volker Tresp",
+    "Florian Buettner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iygohishpS",
+   "pdf_url": "https://openreview.net/pdf?id=iygohishpS"
+  },
+  {
+   "title": "Information Directed Tree Search: Reasoning and Planning with Language Agents",
+   "authors": [
+    "Yash Chandak",
+    "HyunJi Nam",
+    "Allen Nie",
+    "Jonathan Lee",
+    "Emma Brunskill"
+   ],
+   "forum_url": "https://openreview.net/forum?id=turWYO1w2Q",
+   "pdf_url": "https://openreview.net/pdf?id=turWYO1w2Q"
+  },
+  {
+   "title": "Integration-free kernels for equivariant Gaussian fields with application in dipole moment prediction",
+   "authors": [
+    "Tim Steinert",
+    "David Ginsbourger",
+    "August Smart Lykke-Møller",
+    "Ove Christiansen",
+    "Henry Moss"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zH17neJROJ",
+   "pdf_url": "https://openreview.net/pdf?id=zH17neJROJ"
+  },
+  {
+   "title": "Inverse-Free Sparse Variational Gaussian Processes",
+   "authors": [
+    "Stefano Cortinovis",
+    "Laurence Aitchison",
+    "James Hensman",
+    "Stefanos Eleftheriadis",
+    "Mark van der Wilk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFHpVRvOgH",
+   "pdf_url": "https://openreview.net/pdf?id=nFHpVRvOgH"
+  },
+  {
+   "title": "Latent Spatial Dirichlet Allocation",
+   "authors": [
+    "Junsouk Choi",
+    "Veerabhadran Baladandayuthapani",
+    "Jian Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GHWAjDtNhW",
+   "pdf_url": "https://openreview.net/pdf?id=GHWAjDtNhW"
+  },
+  {
+   "title": "Learning from Less: Bayesian Neural Networks for Optimization Proxy using Limited Labeled Data",
+   "authors": [
+    "Parikshit Pareek",
+    "Kaarthik Sundar",
+    "Deepjyoti Deka",
+    "Sidhant Misra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E03lKqFNcu",
+   "pdf_url": "https://openreview.net/pdf?id=E03lKqFNcu"
+  },
+  {
+   "title": "Learning to Defer with an Uncertain Rejector via Conformal Prediction",
+   "authors": [
+    "Yizirui Fang",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TWb9y4PNSW",
+   "pdf_url": "https://openreview.net/pdf?id=TWb9y4PNSW"
+  },
+  {
+   "title": "Lightspeed Black-box Bayesian Optimization via Local Score Matching",
+   "authors": [
+    "Yakun Wang",
+    "Sherman Khoo",
+    "Song Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b9N6i7QYDA",
+   "pdf_url": "https://openreview.net/pdf?id=b9N6i7QYDA"
+  },
+  {
+   "title": "Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes",
+   "authors": [
+    "Joachim Schaeffer",
+    "Eric Lenz",
+    "Duncan Gulla",
+    "Martin Z. Bazant",
+    "Richard Braatz",
+    "Rolf Findeisen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=18snzX2tfS",
+   "pdf_url": "https://openreview.net/pdf?id=18snzX2tfS"
+  },
+  {
+   "title": "MHP-DDP: Multivariate Hawkes Process with Dependent Dirichlet Process",
+   "authors": [
+    "Alex Ziyu Jiang",
+    "Abel Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lGXsGXA3Hy",
+   "pdf_url": "https://openreview.net/pdf?id=lGXsGXA3Hy"
+  },
+  {
+   "title": "Mode Collapse in Variational Deep Gaussian Processes",
+   "authors": [
+    "Francisco Javier Sáez-Maldonado",
+    "Juan Maroñas",
+    "Daniel Hernández-Lobato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AyJweU0IJg",
+   "pdf_url": "https://openreview.net/pdf?id=AyJweU0IJg"
+  },
+  {
+   "title": "NODE-GAMLSS: Interpretable Uncertainty Modelling via Deep Distributional Regression",
+   "authors": [
+    "Ananyapam De",
+    "Anton Frederik Thielmann",
+    "Benjamin Säfken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sWvTLlRkzy",
+   "pdf_url": "https://openreview.net/pdf?id=sWvTLlRkzy"
+  },
+  {
+   "title": "Optimizing Detection Time and Specificity: Early Classification of Time Series with Sensitivity Constraint",
+   "authors": [
+    "Jiaming Qiu",
+    "Ying-Qi Zhao",
+    "Yingye Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PXVqsZlxEa",
+   "pdf_url": "https://openreview.net/pdf?id=PXVqsZlxEa"
+  },
+  {
+   "title": "Order-Optimal Regret in Distributed Kernel Bandits using Uniform Sampling with Shared Randomness",
+   "authors": [
+    "Nikola Pavlovic",
+    "Sudeep Salgia",
+    "Qing Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8jx5gvWEhU",
+   "pdf_url": "https://openreview.net/pdf?id=8jx5gvWEhU"
+  },
+  {
+   "title": "Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy",
+   "authors": [
+    "Will LeVine",
+    "Benjamin Pikus",
+    "Jacob Phillips",
+    "Berk Norman",
+    "Fernando Amat Gil",
+    "Sean M. Hendryx"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lTNJDAdM1i",
+   "pdf_url": "https://openreview.net/pdf?id=lTNJDAdM1i"
+  },
+  {
+   "title": "Post-Calibration Techniques: Balancing Calibration and Score Distribution Alignment",
+   "authors": [
+    "Agathe Fernandes Machado",
+    "Arthur Charpentier",
+    "Emmanuel Flachaire",
+    "Ewen Gallic",
+    "Francois HU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TIy0QuWPuE",
+   "pdf_url": "https://openreview.net/pdf?id=TIy0QuWPuE"
+  },
+  {
+   "title": "Posterior Inferred, Now What? Streamlining Prediction in Bayesian Deep Learning",
+   "authors": [
+    "Rui Li",
+    "Marcus Klasson",
+    "Arno Solin",
+    "Martin Trapp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cx9TXPTzt9",
+   "pdf_url": "https://openreview.net/pdf?id=cx9TXPTzt9"
+  },
+  {
+   "title": "Posterior Sampling via Autoregressive Generation",
+   "authors": [
+    "Kelly W. Zhang",
+    "Tiffany Cai",
+    "Hongseok Namkoong",
+    "Daniel Russo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pTSrqU2zpF",
+   "pdf_url": "https://openreview.net/pdf?id=pTSrqU2zpF"
+  },
+  {
+   "title": "Practical Bayesian Algorithm Execution via Posterior Sampling",
+   "authors": [
+    "Chu Xin Cheng",
+    "Raul Astudillo",
+    "Thomas Desautels",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ebDEnMdUh",
+   "pdf_url": "https://openreview.net/pdf?id=1ebDEnMdUh"
+  },
+  {
+   "title": "Preconditioned Crank-Nicolson Algorithms for Wide Bayesian Neural Networks",
+   "authors": [
+    "Lucia Pezzetti",
+    "Stefano Favaro",
+    "Stefano Peluchetti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3TsD8RI3vc",
+   "pdf_url": "https://openreview.net/pdf?id=3TsD8RI3vc"
+  },
+  {
+   "title": "Preference-based Multi-Objective Bayesian Optimization with Gradients",
+   "authors": [
+    "Joshua Hang Sai Ip",
+    "Ankush Chakrabarty",
+    "Hideyuki Masui",
+    "Ali Mesbah",
+    "Diego Romeres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w4q5uzGKzf",
+   "pdf_url": "https://openreview.net/pdf?id=w4q5uzGKzf"
+  },
+  {
+   "title": "Probabilistic Active Few-Shot Learning in Vision-Language Models",
+   "authors": [
+    "Anton Baumann",
+    "Marcus Klasson",
+    "Rui Li",
+    "Arno Solin",
+    "Martin Trapp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sSX9wLMSJT",
+   "pdf_url": "https://openreview.net/pdf?id=sSX9wLMSJT"
+  },
+  {
+   "title": "Probabilistic Fusion Approach for Robust Battery Prognostics",
+   "authors": [
+    "Jokin Alcibar",
+    "Ekhi Zugasti",
+    "Aitor Aguirre-Ortuzar",
+    "Jose I. Aizpurua"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M5Kd748G7w",
+   "pdf_url": "https://openreview.net/pdf?id=M5Kd748G7w"
+  },
+  {
+   "title": "Probabilistic predictions with Fourier neural operators",
+   "authors": [
+    "Christopher Bülte",
+    "Philipp Scholl",
+    "Gitta Kutyniok"
+   ],
+   "forum_url": "https://openreview.net/forum?id=orKA6gJwlB",
+   "pdf_url": "https://openreview.net/pdf?id=orKA6gJwlB"
+  },
+  {
+   "title": "Recursive Nested Filtering for Efficient Amortized Bayesian Experimental Design",
+   "authors": [
+    "Sahel Iqbal",
+    "Hany Abdulsamad",
+    "Sara Perez-Vieites",
+    "Simo Särkkä",
+    "Adrien Corenflos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D9kVWeBlId",
+   "pdf_url": "https://openreview.net/pdf?id=D9kVWeBlId"
+  },
+  {
+   "title": "Rethinking Aleatoric and Epistemic Uncertainty",
+   "authors": [
+    "Freddie Bickford Smith",
+    "Jannik Kossen",
+    "Eleanor Trollope",
+    "Mark van der Wilk",
+    "Adam Foster",
+    "Tom Rainforth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WIjgbXd2zK",
+   "pdf_url": "https://openreview.net/pdf?id=WIjgbXd2zK"
+  },
+  {
+   "title": "Riemannian Black Box Variational Inference",
+   "authors": [
+    "Mykola Lukashchuk",
+    "Wouter W. L. Nuijten",
+    "Dmitry Bagaev",
+    "Ismail Senoz",
+    "Bert de Vries"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QBbc0L5Zpb",
+   "pdf_url": "https://openreview.net/pdf?id=QBbc0L5Zpb"
+  },
+  {
+   "title": "Robust Multi-fidelity Bayesian Optimization with Deep Kernel and Partition",
+   "authors": [
+    "Fengxue Zhang",
+    "Thomas Desautels",
+    "Yuxin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FTDDW41M5m",
+   "pdf_url": "https://openreview.net/pdf?id=FTDDW41M5m"
+  },
+  {
+   "title": "ROSA: An Optimization Algorithm for Multi-Modal Derivative-Free Functions in High Dimensions",
+   "authors": [
+    "Ilija Ilievski",
+    "Wenyu Wang",
+    "Christine A. Shoemaker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OB2G8ZGPZv",
+   "pdf_url": "https://openreview.net/pdf?id=OB2G8ZGPZv"
+  },
+  {
+   "title": "Scalable Permutation Invariant Multi-Output Gaussian Processes for Cancer Drug Response",
+   "authors": [
+    "Leiv Rønneberg",
+    "Vidhi Lalchand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RfUbUal8DK",
+   "pdf_url": "https://openreview.net/pdf?id=RfUbUal8DK"
+  },
+  {
+   "title": "Scaling Gaussian Processes for Learning Curve Prediction via Latent Kronecker Structure",
+   "authors": [
+    "Jihao Andreas Lin",
+    "Sebastian Ament",
+    "Maximilian Balandat",
+    "Eytan Bakshy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JdCzCRaQru",
+   "pdf_url": "https://openreview.net/pdf?id=JdCzCRaQru"
+  },
+  {
+   "title": "Spectral structure learning for clinical time series",
+   "authors": [
+    "Ivan Lerner",
+    "Francis Bach",
+    "Anita Burgun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M2YON6bV0j",
+   "pdf_url": "https://openreview.net/pdf?id=M2YON6bV0j"
+  },
+  {
+   "title": "Stochastic Gradient MCMC for Gaussian Process Inference on Massive Geostatistical Data",
+   "authors": [
+    "Mohamed A. Abba",
+    "Brian J. Reich",
+    "Reetam Majumder",
+    "Brandon Feng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7z6Y056RQN",
+   "pdf_url": "https://openreview.net/pdf?id=7z6Y056RQN"
+  },
+  {
+   "title": "The Importance of Being Bayesian in Online Conformal Prediction",
+   "authors": [
+    "Zhiyu Zhang",
+    "Zhou Lu",
+    "Heng Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pQJabyRSL5",
+   "pdf_url": "https://openreview.net/pdf?id=pQJabyRSL5"
+  },
+  {
+   "title": "The role of tail dependence in estimating posterior expectations",
+   "authors": [
+    "Nicola Branchini",
+    "Víctor Elvira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zxk07UdWEy",
+   "pdf_url": "https://openreview.net/pdf?id=Zxk07UdWEy"
+  },
+  {
+   "title": "Toward Information Theoretic Active Inverse Reinforcement Learning",
+   "authors": [
+    "Ondrej Bajgar",
+    "Dewi Sid William Gould",
+    "Jonathon Liu",
+    "Oliver Newcombe",
+    "Rohan Narayan Langford Mitta",
+    "Jack Golden"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZkdLu3l81",
+   "pdf_url": "https://openreview.net/pdf?id=pZkdLu3l81"
+  },
+  {
+   "title": "TP$^2$DP$^2$: A Bayesian Mixture Model of Temporal Point Processes with Determinantal Point Process Prior",
+   "authors": [
+    "Yiwei Dong",
+    "Shaoxin Ye",
+    "Yuwen Cao",
+    "Qiyu Han",
+    "Hongteng Xu",
+    "Hanfang Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7rO2TdyaDA",
+   "pdf_url": "https://openreview.net/pdf?id=7rO2TdyaDA"
+  },
+  {
+   "title": "TR-BEACON: Shedding Light on Efficient Behavior Discovery in High-Dimensional Spaces with Bayesian Novelty Search over Trust Regions",
+   "authors": [
+    "Wei-Ting Tang",
+    "Ankush Chakrabarty",
+    "Joel Paulson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Xo6ONB8E3",
+   "pdf_url": "https://openreview.net/pdf?id=9Xo6ONB8E3"
+  },
+  {
+   "title": "Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow",
+   "authors": [
+    "Henry Moss",
+    "Victor Picheny",
+    "Hrvoje Stojic",
+    "Sebastian W. Ober",
+    "Artem Artemev",
+    "Andrei Paleyes",
+    "Sattar Vakili",
+    "Stratis Markou",
+    "Jixiang Qing",
+    "Nasrulloh Ratu Bagus Satrio Loka",
+    "Ivo Couckuyt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ZHBcQIyWt",
+   "pdf_url": "https://openreview.net/pdf?id=5ZHBcQIyWt"
+  },
+  {
+   "title": "Two Students: Enabling Uncertainty Quantification in Federated Learning Clients",
+   "authors": [
+    "Cristovão Iglesias Jr",
+    "Sidney Alves de Outeiro",
+    "Claudio Miceli de Farias",
+    "Miodrag Bolic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eS9xH4vHEe",
+   "pdf_url": "https://openreview.net/pdf?id=eS9xH4vHEe"
+  },
+  {
+   "title": "Uncertainty as a criterion for SOTIF evaluation of deep learning models in autonomous driving systems",
+   "authors": [
+    "Ho Suk",
+    "Shiho Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SqiiTnpAad",
+   "pdf_url": "https://openreview.net/pdf?id=SqiiTnpAad"
+  },
+  {
+   "title": "Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations",
+   "authors": [
+    "Richard Bergna",
+    "Sergio Calvo Ordoñez",
+    "Felix Opolka",
+    "Pietro Lio",
+    "José Miguel Hernández-Lobato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uwC1RRSqjz",
+   "pdf_url": "https://openreview.net/pdf?id=uwC1RRSqjz"
+  },
+  {
+   "title": "Uncertainty Quantification and Calibration for Audio-driven Disease Diagnosis",
+   "authors": [
+    "Shubham Kulkarni",
+    "Hideaki Watanabe",
+    "Fuminori Homma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e7HDGVGgJS",
+   "pdf_url": "https://openreview.net/pdf?id=e7HDGVGgJS"
+  },
+  {
+   "title": "Universal Functional Regression with Neural Operator Flows",
+   "authors": [
+    "Yaozhong Shi",
+    "Angela F Gao",
+    "Zachary E Ross",
+    "Kamyar Azizzadenesheli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZCtnWuaZiI",
+   "pdf_url": "https://openreview.net/pdf?id=ZCtnWuaZiI"
+  },
+  {
+   "title": "Using Rashomon Sets for Robust Active Learning",
+   "authors": [
+    "Simon Dovan Nguyen",
+    "Tyler McCormick",
+    "Kentaro Hoffman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1d2tQi9keK",
+   "pdf_url": "https://openreview.net/pdf?id=1d2tQi9keK"
+  },
+  {
+   "title": "Variational Bayes Gaussian Splatting",
+   "authors": [
+    "Toon Van de Maele",
+    "Ozan Catal",
+    "Alexander Tschantz",
+    "Christopher Buckley",
+    "Tim Verbelen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z4499q83Td",
+   "pdf_url": "https://openreview.net/pdf?id=Z4499q83Td"
+  },
+  {
+   "title": "Variational Inference for Interacting Particle Systems with Discrete Latent States",
+   "authors": [
+    "Giosue Migliorini",
+    "Padhraic Smyth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sQLGEw0RKp",
+   "pdf_url": "https://openreview.net/pdf?id=sQLGEw0RKp"
+  },
+  {
+   "title": "Variational Inference in Similarity Spaces: A Bayesian Approach to Personalized Federated Learning",
+   "authors": [
+    "Pedro H Barros",
+    "Fabricio Murai",
+    "Amir Houmansadr",
+    "Alejandro C. Frery",
+    "Heitor Soares Ramos Filho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VOEVnNjJza",
+   "pdf_url": "https://openreview.net/pdf?id=VOEVnNjJza"
+  },
+  {
+   "title": "Variational Last Layers for Bayesian Optimization",
+   "authors": [
+    "Paul Brunzema",
+    "Mikkel Jordahn",
+    "John Willes",
+    "Sebastian Trimpe",
+    "Jasper Snoek",
+    "James Harrison"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lsFa23pHCH",
+   "pdf_url": "https://openreview.net/pdf?id=lsFa23pHCH"
+  },
+  {
+   "title": "Variational Search Distributions",
+   "authors": [
+    "Daniel M. Steinberg",
+    "Rafael Oliveira",
+    "Cheng Soon Ong",
+    "Edwin V. Bonilla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UYfx9b7Z1j",
+   "pdf_url": "https://openreview.net/pdf?id=UYfx9b7Z1j"
+  }
+ ]
+}

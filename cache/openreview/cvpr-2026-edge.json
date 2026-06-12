@@ -1,0 +1,182 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/EDGE",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:48:15.670Z",
+ "paper_count": 15,
+ "papers": [
+  {
+   "title": "A KL Lens on Quantization: Fast, Forward-Only Sensitivity for Mixed-Precision SSM–Transformer Models",
+   "authors": [
+    "Jason Kong",
+    "Nilesh Prasad Pandey",
+    "Flavio Ponzina",
+    "Tajana Rosing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sbjLkIbvsW",
+   "pdf_url": "https://openreview.net/pdf?id=sbjLkIbvsW"
+  },
+  {
+   "title": "A Spike-Gated Residual Unit for Information Flow Control in Transformers",
+   "authors": [
+    "Kiran Nair",
+    "Rodrigue Rizk",
+    "KC Santosh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=joo8rhks1a",
+   "pdf_url": "https://openreview.net/pdf?id=joo8rhks1a"
+  },
+  {
+   "title": "BlazeEdit: Generalist Image Editing on Mobile Devices with Image-to-Image Diffusion Models",
+   "authors": [
+    "Fei Deng",
+    "yanwu xu",
+    "Zhipeng Bao",
+    "Zhixing Zhang",
+    "Haolin Jia",
+    "Karthik Raveendran",
+    "Jianing Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PV6LN9gbUi",
+   "pdf_url": "https://openreview.net/pdf?id=PV6LN9gbUi"
+  },
+  {
+   "title": "CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers",
+   "authors": [
+    "Zhuojin Li",
+    "Hsin-Pai Cheng",
+    "Hong Cai",
+    "Shizhong Han",
+    "Fatih Porikli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZAGb9Oho0q",
+   "pdf_url": "https://openreview.net/pdf?id=ZAGb9Oho0q"
+  },
+  {
+   "title": "DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers",
+   "authors": [
+    "Dahye Kim",
+    "Deepti Ghadiyaram",
+    "Raghudeep Gadde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8CZFAW0eaq",
+   "pdf_url": "https://openreview.net/pdf?id=8CZFAW0eaq"
+  },
+  {
+   "title": "Diagonal-Tiled Mixed-Precision Attention for Efficient Low-Bit MXFP Inference",
+   "authors": [
+    "Yifu Ding",
+    "Xinhao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OHCOvqLc1a",
+   "pdf_url": "https://openreview.net/pdf?id=OHCOvqLc1a"
+  },
+  {
+   "title": "DirectFlow: One-Step Posterior Transport Distillation for Blind Face Restoration",
+   "authors": [
+    "Eashan Adhikarla",
+    "Brian D. Davison"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZMBO9vNzt",
+   "pdf_url": "https://openreview.net/pdf?id=pZMBO9vNzt"
+  },
+  {
+   "title": "EdgeDiffusion: Latency-Optimized Diffusion Models for Real-Time On-Device Visual Anonymization",
+   "authors": [
+    "Zihao Han",
+    "Xueyan Gong",
+    "Fengyi Wu",
+    "Yifei Dong",
+    "Jingqi Xu",
+    "Jingdong Sun",
+    "Feng Liu",
+    "Siyu Huang",
+    "Zhi-Qi Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFXTf5SxLe",
+   "pdf_url": "https://openreview.net/pdf?id=nFXTf5SxLe"
+  },
+  {
+   "title": "ELT: Elastic Looped Transformers for Visual Generation",
+   "authors": [
+    "Sahil Goyal",
+    "Swayam Agrawal",
+    "Gautham Govind Anil",
+    "Sujoy Paul",
+    "Aditya Kusupati",
+    "Prateek Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7DB1Xc8e7o",
+   "pdf_url": "https://openreview.net/pdf?id=7DB1Xc8e7o"
+  },
+  {
+   "title": "Energy-Adaptive Diffusion via Dynamic Token Pruning for Carbon-Efficient On-Device Generation",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZETHS7Ou8",
+   "pdf_url": "https://openreview.net/pdf?id=LZETHS7Ou8"
+  },
+  {
+   "title": "HLA: Hadamard Linear Attention",
+   "authors": [
+    "Hanno Ackermann",
+    "Hong Cai",
+    "Mohsen Ghafoorian",
+    "Amir Habibian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J8CZ0KH6k3",
+   "pdf_url": "https://openreview.net/pdf?id=J8CZ0KH6k3"
+  },
+  {
+   "title": "ObjectAlign: Neuro-Symbolic Object Consistency Verification and Correction",
+   "authors": [
+    "Mustafa Munir",
+    "Harsh Goel",
+    "Xiwen Wei",
+    "Minkyu Choi",
+    "Sahil Shah",
+    "Kartikeya Bhardwaj",
+    "Paul N. Whatmough",
+    "Sandeep P. Chinchali",
+    "Radu Marculescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4flOhRBmy",
+   "pdf_url": "https://openreview.net/pdf?id=k4flOhRBmy"
+  },
+  {
+   "title": "On the Limits of Token Reduction for Efficient Unified Vision Language Training",
+   "authors": [
+    "Siyi Chen",
+    "Weiming Zhuang",
+    "Jingtao Li",
+    "Lingjuan Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZvDXzJwlQB",
+   "pdf_url": "https://openreview.net/pdf?id=ZvDXzJwlQB"
+  },
+  {
+   "title": "Token-Aligned Hierarchies for Lightweight Super-Resolution",
+   "authors": [
+    "Jinendra Malekar",
+    "Lingjia Shi",
+    "Peyton Chandarana",
+    "Ramtin Zand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VVp8W21bwg",
+   "pdf_url": "https://openreview.net/pdf?id=VVp8W21bwg"
+  },
+  {
+   "title": "Training-Free Layout-to-Image Generation with Marginal Attention Constraints",
+   "authors": [
+    "Huancheng Chen",
+    "Jingtao Li",
+    "Weiming Zhuang",
+    "Haris Vikalo",
+    "Lingjuan Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=muJP1fESFF",
+   "pdf_url": "https://openreview.net/pdf?id=muJP1fESFF"
+  }
+ ]
+}

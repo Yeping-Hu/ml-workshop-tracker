@@ -1,0 +1,264 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/VecDB",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:14.000Z",
+ "paper_count": 21,
+ "papers": [
+  {
+   "title": "$\\alpha$-Reachable Graphs for Multi-vector Nearest Neighbor Search",
+   "authors": [
+    "Siddharth Gollapudi",
+    "Ravishankar Krishnaswamy",
+    "Ben Landrum",
+    "Nikhil Rao",
+    "Kirankumar Shiragur",
+    "Sandeep Silwal",
+    "Harsh Wardhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v8jSxLHEE9",
+   "pdf_url": "https://openreview.net/pdf?id=v8jSxLHEE9"
+  },
+  {
+   "title": "A Bi-metric Framework for Efficient Nearest Neighbor Search",
+   "authors": [
+    "Haike Xu",
+    "Piotr Indyk",
+    "Sandeep Silwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=116kjHx1MF",
+   "pdf_url": "https://openreview.net/pdf?id=116kjHx1MF"
+  },
+  {
+   "title": "Accurate and Efficient Metadata Filtering in Pinecone’s Serverless Vector Database",
+   "authors": [
+    "Amir Ingber",
+    "Edo Liberty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UXq4z6GGYP",
+   "pdf_url": "https://openreview.net/pdf?id=UXq4z6GGYP"
+  },
+  {
+   "title": "ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning",
+   "authors": [
+    "Changtai Zhu",
+    "Siyin Wang",
+    "Ruijun Feng",
+    "Kai Song",
+    "Xipeng Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ZxNjIVGdO",
+   "pdf_url": "https://openreview.net/pdf?id=1ZxNjIVGdO"
+  },
+  {
+   "title": "DistributedANN: Efficient Scaling of a Single DiskANN Graph Across Thousands of Computers",
+   "authors": [
+    "Philip Adams",
+    "Menghao Li",
+    "Shi Zhang",
+    "Li Tan",
+    "Qi Chen",
+    "Mingqin Li",
+    "Zengzhong Li",
+    "Knut Magne Risvik",
+    "Harsha Vardhan simhadri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6AEsfCLRm3",
+   "pdf_url": "https://openreview.net/pdf?id=6AEsfCLRm3"
+  },
+  {
+   "title": "Don’t Lag, RAG: Training-Free Adversarial Detection Using RAG",
+   "authors": [
+    "Roie Kazoom",
+    "Raz Lapid",
+    "Moshe Sipper",
+    "Ofer Hadar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4iwG0Xf3O8",
+   "pdf_url": "https://openreview.net/pdf?id=4iwG0Xf3O8"
+  },
+  {
+   "title": "Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs”",
+   "authors": [
+    "Blaise Munyampirwa",
+    "Vihan Lakshman",
+    "Benjamin Coleman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OJwITuuU3h",
+   "pdf_url": "https://openreview.net/pdf?id=OJwITuuU3h"
+  },
+  {
+   "title": "Enhancing Retrieval Systems with Inference-Time Logical Reasoning",
+   "authors": [
+    "Felix Faltings",
+    "Wei Wei",
+    "Yujia Bao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fQUQPcTk8c",
+   "pdf_url": "https://openreview.net/pdf?id=fQUQPcTk8c"
+  },
+  {
+   "title": "Entropy-Based Dynamic Hybrid Retrieval for Adaptive Query Weighting in RAG Pipelines",
+   "authors": [
+    "John Richard Perez",
+    "James Yuncheng Zhou",
+    "Radley Le",
+    "Alexander Menchtchikov",
+    "Ryan Lagasse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bwGaZOVo0c",
+   "pdf_url": "https://openreview.net/pdf?id=bwGaZOVo0c"
+  },
+  {
+   "title": "Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs",
+   "authors": [
+    "Ryan Synk",
+    "Monte Hoover",
+    "John Kirchenbauer",
+    "Neel Jain",
+    "Alex Stein",
+    "Manli Shu",
+    "Josue Melendez Sanchez",
+    "Ramani Duraiswami",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1iBrBNngRh",
+   "pdf_url": "https://openreview.net/pdf?id=1iBrBNngRh"
+  },
+  {
+   "title": "FrugalRAG: Learning to retrieve and reason for multi-hop QA",
+   "authors": [
+    "Abhinav Java",
+    "Srivathsan Koundinyan",
+    "Nagarajan Natarajan",
+    "Amit Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZHHhlQbXnc",
+   "pdf_url": "https://openreview.net/pdf?id=ZHHhlQbXnc"
+  },
+  {
+   "title": "Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art",
+   "authors": [
+    "Ilias Azizi",
+    "Karima Echihabi",
+    "Themis Palpanas",
+    "Vassilis Christophides"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ALnwJjieOi",
+   "pdf_url": "https://openreview.net/pdf?id=ALnwJjieOi"
+  },
+  {
+   "title": "IVF$^{2}$ Index: Fusing Classic and Spatial Inverted Indices for Fast Filtered ANNS",
+   "authors": [
+    "Ben Landrum",
+    "Magdalen Dobson Manohar",
+    "Mazin Karjikar",
+    "Laxman Dhulipala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kXw8E3xT7O",
+   "pdf_url": "https://openreview.net/pdf?id=kXw8E3xT7O"
+  },
+  {
+   "title": "LEANN: A Low-Storage Vector Index for Personal Devices",
+   "authors": [
+    "Yichuan Wang",
+    "Shu Liu",
+    "Zhifei Li",
+    "Yongji Wu",
+    "Ziming Mao",
+    "Yilong Zhao",
+    "Xiao Yan",
+    "Zhiying Xu",
+    "Yang Zhou",
+    "Ion Stoica",
+    "Sewon Min",
+    "Matei Zaharia",
+    "Joseph E. Gonzalez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iVYBpQWGhq",
+   "pdf_url": "https://openreview.net/pdf?id=iVYBpQWGhq"
+  },
+  {
+   "title": "Learning Filter-Aware Distance Metrics for Nearest Neighbor Search with Multiple Filters",
+   "authors": [
+    "Gopal R Srinivasa",
+    "Ananya Sutradhar",
+    "Suryansh Gupta",
+    "Ravishankar Krishnaswamy",
+    "Kirankumar Shiragur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dILIRHcYvC",
+   "pdf_url": "https://openreview.net/pdf?id=dILIRHcYvC"
+  },
+  {
+   "title": "Rewrite-to-Rank: Optimizing Ad Visibility via Retrieval-Aware Text Rewriting",
+   "authors": [
+    "Chloe Ho",
+    "Ishneet Sukhvinder Singh",
+    "Diya Sharma",
+    "Tanvi Reddy Anumandla",
+    "Kevin Zhu",
+    "Michael Lu",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PVz8CVuaKt",
+   "pdf_url": "https://openreview.net/pdf?id=PVz8CVuaKt"
+  },
+  {
+   "title": "Scalable k-Means Clustering for Large k via Seeded Approximate Nearest-Neighbor Search",
+   "authors": [
+    "Jack Spalding-Jamieson",
+    "Eliot W. Robson",
+    "Da Wei Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rFurXwjJfW",
+   "pdf_url": "https://openreview.net/pdf?id=rFurXwjJfW"
+  },
+  {
+   "title": "Scaling Laws for Nearest Neighbor Search",
+   "authors": [
+    "Philip Sun",
+    "Felix Chern",
+    "Yaroslav Akhremtsev",
+    "Ruiqi Guo",
+    "David Simcha",
+    "Sanjiv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nXAlM7xci6",
+   "pdf_url": "https://openreview.net/pdf?id=nXAlM7xci6"
+  },
+  {
+   "title": "The RaBitQ Library",
+   "authors": [
+    "Jianyang Gao",
+    "Yutong Gou",
+    "Yuexuan Xu",
+    "Jifan Shi",
+    "Zhonghao Yang",
+    "Cheng Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OeZHhOsFir",
+   "pdf_url": "https://openreview.net/pdf?id=OeZHhOsFir"
+  },
+  {
+   "title": "Unified Multimodal Interleaved Document Representation for Retrieval",
+   "authors": [
+    "Jaewoo Lee",
+    "Joonho Ko",
+    "Jinheon Baek",
+    "Soyeong Jeong",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aXoyXXYken",
+   "pdf_url": "https://openreview.net/pdf?id=aXoyXXYken"
+  },
+  {
+   "title": "Vector Data Search with Sorting Transformation",
+   "authors": [
+    "Hongzhi Wang",
+    "Tanveer F Syeda-Mahmood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cK9l83DOUf",
+   "pdf_url": "https://openreview.net/pdf?id=cK9l83DOUf"
+  }
+ ]
+}

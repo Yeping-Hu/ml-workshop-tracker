@@ -1,0 +1,31 @@
+# ============================================================
+# Workshop template — copy this file to:
+#   data/workshops/<conference>-<year>-<short-slug>.yml
+#   e.g. data/workshops/neurips-2026-math-ai.yml
+# Delete comments you don't need. Fields marked (required) must be set.
+# ============================================================
+
+name: ""                       # (required) full official workshop name
+acronym: ""                    # short name, e.g. "MATH-AI"; leave "" if none
+conference: neurips            # (required) one of the ids in data/conferences.yml
+year: 2026                     # (required)
+website: "https://"            # (required) official workshop website
+topics: [other]                # (required) 1-5 ids from data/topics.yml
+
+# --- Deadlines (strongly encouraged) ---
+submission_deadline: ""        # "YYYY-MM-DD HH:MM" or "YYYY-MM-DD" (= 23:59)
+timezone: "AoE"                # "AoE" (default), "UTC", or IANA e.g. "America/Los_Angeles"
+deadline_notes: ""             # e.g. "extended from Aug 15"
+notification_date: ""          # "YYYY-MM-DD"
+workshop_date: ""              # "YYYY-MM-DD"
+
+# --- Papers ---
+openreview_venue_id: ""        # e.g. "NeurIPS.cc/2026/Workshop/MATH-AI" -> auto paper list
+proceedings_url: ""            # for non-OpenReview workshops: their accepted-papers page
+submission_portal: unknown     # openreview | cmt | email | other | unknown
+
+# --- Optional ---
+organizers: []
+previous_editions: []          # - { year: 2025, website: "https://...", proceedings_url: "https://..." }
+notes: ""
+added: ""                      # "YYYY-MM-DD" (date this entry was added)

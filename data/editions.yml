@@ -1,0 +1,109 @@
+# Conference edition dates. `end` drives workshop status: an entry with no
+# submission_deadline and no workshop_date is shown as "Past" once its
+# conference edition ends (resolved in lib/workshops.mjs; years missing here
+# fall back to the coarser `typical_month` in data/conferences.yml).
+#
+# Add a row when a new edition's dates are announced — `node
+# scripts/validate.mjs` prints a note for tracked years that lack one.
+# `start` and `source` are optional but encouraged for provenance.
+
+- conference: iclr
+  year: 2024
+  start: "2024-05-07"
+  end: "2024-05-11"
+- conference: icra
+  year: 2024
+  start: "2024-05-13"
+  end: "2024-05-17"
+- conference: cvpr
+  year: 2024
+  start: "2024-06-17"
+  end: "2024-06-21"
+- conference: icml
+  year: 2024
+  start: "2024-07-21"
+  end: "2024-07-27"
+- conference: colm
+  year: 2024
+  start: "2024-10-07"
+  end: "2024-10-09"
+- conference: iros
+  year: 2024
+  start: "2024-10-14"
+  end: "2024-10-18"
+- conference: corl
+  year: 2024
+  start: "2024-11-06"
+  end: "2024-11-09"
+- conference: neurips
+  year: 2024
+  start: "2024-12-10"
+  end: "2024-12-15"
+
+- conference: iclr
+  year: 2025
+  start: "2025-04-24"
+  end: "2025-04-28"
+- conference: icra
+  year: 2025
+  start: "2025-05-19"
+  end: "2025-05-23"
+- conference: cvpr
+  year: 2025
+  start: "2025-06-11"
+  end: "2025-06-15"
+- conference: icml
+  year: 2025
+  start: "2025-07-13"
+  end: "2025-07-19"
+- conference: corl
+  year: 2025
+  start: "2025-09-27"
+  end: "2025-09-30"
+- conference: colm
+  year: 2025
+  start: "2025-10-07"
+  end: "2025-10-10"
+- conference: iros
+  year: 2025
+  start: "2025-10-19"
+  end: "2025-10-25"
+- conference: neurips
+  year: 2025
+  start: "2025-12-02"
+  end: "2025-12-07"
+
+- conference: iclr
+  year: 2026
+  start: "2026-04-23"
+  end: "2026-04-27"
+  source: "https://iclr.cc/Conferences/2026/CallForWorkshops"
+- conference: icra
+  year: 2026
+  start: "2026-06-01"
+  end: "2026-06-05"
+  source: "https://2026.ieee-icra.org/"
+- conference: cvpr
+  year: 2026
+  start: "2026-06-03"
+  end: "2026-06-07"
+  source: "https://cvpr.thecvf.com/Conferences/2026/Dates"
+- conference: icml
+  year: 2026
+  end: "2026-07-11"
+  source: "https://icml.cc/Conferences/2026/CallForWorkshops"
+- conference: iros
+  year: 2026
+  start: "2026-09-27"
+  end: "2026-10-01"
+  source: "https://2026.ieee-iros.org/"
+- conference: colm
+  year: 2026
+  start: "2026-10-06"
+  end: "2026-10-09"
+  source: "https://colmweb.org/"
+- conference: neurips
+  year: 2026
+  start: "2026-12-06"
+  end: "2026-12-13"
+  source: "https://neurips.cc/"

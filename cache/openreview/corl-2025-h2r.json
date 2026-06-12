@@ -1,0 +1,342 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/H2R",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:53.581Z",
+ "paper_count": 26,
+ "papers": [
+  {
+   "title": "2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos",
+   "authors": [
+    "Marvin Heidinger",
+    "Snehal Jauhri",
+    "Vignesh Prasad",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nm2wIWahig",
+   "pdf_url": "https://openreview.net/pdf?id=Nm2wIWahig"
+  },
+  {
+   "title": "AGRL: Affordance-Guided Reinforcement Learning from Human Video",
+   "authors": [
+    "Laura Tran-Dubois"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bolJ8FkiQl",
+   "pdf_url": "https://openreview.net/pdf?id=bolJ8FkiQl"
+  },
+  {
+   "title": "Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections",
+   "authors": [
+    "Xiaomeng Xu",
+    "Yifan Hou",
+    "Chendong Xin",
+    "Zeyi Liu",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wHd7lfTpfp",
+   "pdf_url": "https://openreview.net/pdf?id=wHd7lfTpfp"
+  },
+  {
+   "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation",
+   "authors": [
+    "Mengda Xu",
+    "Han Zhang",
+    "Yifan Hou",
+    "Zhenjia Xu",
+    "Linxi Fan",
+    "Manuela Veloso",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xieEgc3iaI",
+   "pdf_url": "https://openreview.net/pdf?id=xieEgc3iaI"
+  },
+  {
+   "title": "Diffusion-SSM based Policy Learning for Multi-Granularity Action Prediction",
+   "authors": [
+    "Nayoung Oh",
+    "Jaehyeong Jang",
+    "Moonkyeong Jung",
+    "Daehyung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1praNHUpVx",
+   "pdf_url": "https://openreview.net/pdf?id=1praNHUpVx"
+  },
+  {
+   "title": "EgoBridge : Domain Adaptation for Generalizable Imitation from Egocentric Human Data",
+   "authors": [
+    "Ryan Punamiya",
+    "Dhruv Patel",
+    "Patcharapong Aphiwetsa",
+    "Pranav Kuppili",
+    "Lawrence Y. Zhu",
+    "Simar Kareer",
+    "Judy Hoffman",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hr6EzaaKQv",
+   "pdf_url": "https://openreview.net/pdf?id=Hr6EzaaKQv"
+  },
+  {
+   "title": "EMMA: Scaling Mobile Manipulation via Egocentric Human Data",
+   "authors": [
+    "Lawrence Y. Zhu",
+    "Pranav Kuppili",
+    "Ryan Punamiya",
+    "Patcharapong Aphiwetsa",
+    "Dhruv Patel",
+    "Simar Kareer",
+    "Sehoon Ha",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WEgUcOaKc0",
+   "pdf_url": "https://openreview.net/pdf?id=WEgUcOaKc0"
+  },
+  {
+   "title": "Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching",
+   "authors": [
+    "Sirui Chen",
+    "Yufei Ye",
+    "Zi-ang Cao",
+    "Jennifer Lew",
+    "Pei Xu",
+    "Karen Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LgOI84d0bi",
+   "pdf_url": "https://openreview.net/pdf?id=LgOI84d0bi"
+  },
+  {
+   "title": "HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation",
+   "authors": [
+    "Zhecheng Yuan",
+    "Tianming Wei",
+    "Langzhe Gu",
+    "Pu Hua",
+    "Tianhai Liang",
+    "Yuanpei Chen",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=egrRfsoyW9",
+   "pdf_url": "https://openreview.net/pdf?id=egrRfsoyW9"
+  },
+  {
+   "title": "HuB: Learning Extreme Humanoid Balance",
+   "authors": [
+    "Tong Zhang",
+    "Boyuan Zheng",
+    "Ruiqian Nai",
+    "Yingdong Hu",
+    "Yen-Jen Wang",
+    "Geng Chen",
+    "Fanqi Lin",
+    "Jiongye Li",
+    "Chuye Hong",
+    "Koushil Sreenath",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vw7UrgjEni",
+   "pdf_url": "https://openreview.net/pdf?id=vw7UrgjEni"
+  },
+  {
+   "title": "ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation",
+   "authors": [
+    "Yangcen Liu",
+    "Woo Chul Shin",
+    "Yunhai Han",
+    "Zhenyang Chen",
+    "Harish Ravichandar",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oasNuhzGc6",
+   "pdf_url": "https://openreview.net/pdf?id=oasNuhzGc6"
+  },
+  {
+   "title": "Leveraging Demonstrator-perceived Precision for Safe Interactive Imitation Learning of Clearance-limited Tasks",
+   "authors": [
+    "Hanbit Oh",
+    "Takamitsu Matsubara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IqZUhzkUkb",
+   "pdf_url": "https://openreview.net/pdf?id=IqZUhzkUkb"
+  },
+  {
+   "title": "Masked Inverse Reinforcement Learning for Language Conditioned Reward Learning",
+   "authors": [
+    "Minyoung Hwang",
+    "Alexandra Forsey-Smerek",
+    "Andreea Bobu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qfuLvGZdX7",
+   "pdf_url": "https://openreview.net/pdf?id=qfuLvGZdX7"
+  },
+  {
+   "title": "Masquerade: Learning from In-the-wild Human Videos using Data-Editing",
+   "authors": [
+    "Marion Lepert",
+    "Jiaying Fang",
+    "Jeannette Bohg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jQYYiKhGpZ",
+   "pdf_url": "https://openreview.net/pdf?id=jQYYiKhGpZ"
+  },
+  {
+   "title": "MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies",
+   "authors": [
+    "Chengbo Yuan",
+    "Rui Zhou",
+    "Mengzhen Liu",
+    "Yingdong Hu",
+    "Shengjie Wang",
+    "Li Yi",
+    "Chuan Wen",
+    "Shanghang Zhang",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vr91mXmRHS",
+   "pdf_url": "https://openreview.net/pdf?id=vr91mXmRHS"
+  },
+  {
+   "title": "Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation",
+   "authors": [
+    "Phillip Y. Lee",
+    "Jihyeon Je",
+    "Chanho Park",
+    "Mikaela Angelina Uy",
+    "Leonidas Guibas",
+    "Minhyuk Sung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O84Qnr0xMa",
+   "pdf_url": "https://openreview.net/pdf?id=O84Qnr0xMa"
+  },
+  {
+   "title": "Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models",
+   "authors": [
+    "Ilyass Taouil",
+    "Haizhou Zhao",
+    "Angela Dai",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=abBrq95y1p",
+   "pdf_url": "https://openreview.net/pdf?id=abBrq95y1p"
+  },
+  {
+   "title": "Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation",
+   "authors": [
+    "Hanbit Oh",
+    "Ixchel G. Ramirez-Alpizar",
+    "Yukiyasu Domae"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wtcFRXERDD",
+   "pdf_url": "https://openreview.net/pdf?id=wtcFRXERDD"
+  },
+  {
+   "title": "ROSE: Reconstructing Objects, Scenes, and Trajectories from Casual Videos for Robotic Manipulation",
+   "authors": [
+    "Peihao Li",
+    "Haoran Geng",
+    "Jameson Crate",
+    "Yanbing Han",
+    "Junyi Zhang",
+    "Feishi Wang",
+    "Charlie Tianyue Cheng",
+    "Runpei Dong",
+    "Yen-Jen Wang",
+    "Haozhe Lou",
+    "Trevor Darrell",
+    "Pieter Abbeel",
+    "Jitendra Malik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VfPdSyJG3v",
+   "pdf_url": "https://openreview.net/pdf?id=VfPdSyJG3v"
+  },
+  {
+   "title": "Towards Personalizing Shared Autonomy with Human-in-the-Loop Robot Programs",
+   "authors": [
+    "Daphne Chen",
+    "Sahitha Vuddagiri",
+    "Claire Yang",
+    "Nick Walker",
+    "Maya Cakmak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3ms6BnhOQh",
+   "pdf_url": "https://openreview.net/pdf?id=3ms6BnhOQh"
+  },
+  {
+   "title": "UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations",
+   "authors": [
+    "Hanjung Kim",
+    "Jaehyun Kang",
+    "Hyolim Kang",
+    "Meedeum Cho",
+    "Seon Joo Kim",
+    "Youngwoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L79oJ0aemZ",
+   "pdf_url": "https://openreview.net/pdf?id=L79oJ0aemZ"
+  },
+  {
+   "title": "UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots",
+   "authors": [
+    "Kangning Yin",
+    "Weishuai Zeng",
+    "Ke Fan",
+    "ZiRui Wang",
+    "Qiang Zhang",
+    "Zheng Tian",
+    "Jingbo Wang",
+    "Jiangmiao Pang",
+    "Weinan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5kqadjuqYV",
+   "pdf_url": "https://openreview.net/pdf?id=5kqadjuqYV"
+  },
+  {
+   "title": "Vision in Action: Learning Active Perception from Human Demonstrations",
+   "authors": [
+    "Haoyu Xiong",
+    "Xiaomeng Xu",
+    "Jimmy Wu",
+    "Yifan Hou",
+    "Jeannette Bohg",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YeBzUDHzeq",
+   "pdf_url": "https://openreview.net/pdf?id=YeBzUDHzeq"
+  },
+  {
+   "title": "Wearable Robotics Assisted Bipedal Balance and Locomotion Control with Whole-body Musculoskeletal Simulations",
+   "authors": [
+    "Chengtian Ma",
+    "Chenhui Zuo",
+    "Yunyue Wei",
+    "Yanan Sui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=31B5aUthdo",
+   "pdf_url": "https://openreview.net/pdf?id=31B5aUthdo"
+  },
+  {
+   "title": "Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning",
+   "authors": [
+    "Yutaro Ishida",
+    "Takamitsu Matsubara",
+    "Takayuki Kanai",
+    "Kazuhiro Shintani",
+    "Hiroshi Bito"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VNDzE7FaDD",
+   "pdf_url": "https://openreview.net/pdf?id=VNDzE7FaDD"
+  },
+  {
+   "title": "X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real",
+   "authors": [
+    "Prithwish Dan",
+    "Kushal Kedia",
+    "Angela Chao",
+    "Edward Duan",
+    "Maximus Adrian Pace",
+    "Wei-Chiu Ma",
+    "Sanjiban Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gUiMyKYdtj",
+   "pdf_url": "https://openreview.net/pdf?id=gUiMyKYdtj"
+  }
+ ]
+}

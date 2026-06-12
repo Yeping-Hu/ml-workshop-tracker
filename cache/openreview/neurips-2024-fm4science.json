@@ -1,0 +1,870 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/FM4Science",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:35.889Z",
+ "paper_count": 68,
+ "papers": [
+  {
+   "title": "A Biosafety-aware Framework for Generative Enzyme Design with Foundation Models",
+   "authors": [
+    "Xiaoyi Fu",
+    "Tao Han",
+    "Yuan Yao",
+    "Song Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AtLvPkbQ5V",
+   "pdf_url": "https://openreview.net/pdf?id=AtLvPkbQ5V"
+  },
+  {
+   "title": "A COMPARATIVE STUDY OF NEURAL ODE AND UNIVERSAL ODE MODELS IN SOLVING CHANDRASEKHAR’S WHITE DWARF EQUATION.",
+   "authors": [
+    "Raymundo Vazquez Martinez",
+    "Raj Abhijit Dandekar",
+    "Rajat Dandekar",
+    "Sreedath Panat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sA4JR3hjj1",
+   "pdf_url": "https://openreview.net/pdf?id=sA4JR3hjj1"
+  },
+  {
+   "title": "A Foundation Model for Metagenomic Sequences",
+   "authors": [
+    "Ollie Liu",
+    "Sami Jaghouar",
+    "Johannes Hagemann",
+    "Jeff Kaufman",
+    "Willie Neiswanger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LUiBJ3G4Mm",
+   "pdf_url": "https://openreview.net/pdf?id=LUiBJ3G4Mm"
+  },
+  {
+   "title": "A Large Encoder-Decoder Polymer-Based Foundation Model",
+   "authors": [
+    "Eduardo Soares",
+    "Nathaniel Park",
+    "Emilio Vital Brazil",
+    "Victor Yukio Shirasuna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L47GThI95d",
+   "pdf_url": "https://openreview.net/pdf?id=L47GThI95d"
+  },
+  {
+   "title": "A Mamba-Based Foundation Model for Chemistry",
+   "authors": [
+    "Emilio Vital Brazil",
+    "Eduardo Soares",
+    "Victor Yukio Shirasuna",
+    "Renato Cerqueira",
+    "Dmitry Zubarev",
+    "Kristin Schmidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g0B9DtkDVk",
+   "pdf_url": "https://openreview.net/pdf?id=g0B9DtkDVk"
+  },
+  {
+   "title": "Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing",
+   "authors": [
+    "Anika Tabassum",
+    "Amir Koushyar Ziabari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0pPsZs1vc7",
+   "pdf_url": "https://openreview.net/pdf?id=0pPsZs1vc7"
+  },
+  {
+   "title": "Agnostic Causality-Driven Enhancement of Chemical Foundation Models on Downstream Tasks",
+   "authors": [
+    "Victor Yukio Shirasuna",
+    "Eduardo Soares",
+    "Emilio Vital Brazil",
+    "Karen Fiorella Aquino Gutierrez",
+    "Renato Cerqueira",
+    "Dmitry Zubarev",
+    "Kristin Schmidt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ScIoiLywmU",
+   "pdf_url": "https://openreview.net/pdf?id=ScIoiLywmU"
+  },
+  {
+   "title": "Assessing interaction recovery of predicted protein-ligand poses",
+   "authors": [
+    "David Errington",
+    "Constantin Schneider",
+    "Cédric Bouysset",
+    "Frederic A Dreyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aNTnYxdm0P",
+   "pdf_url": "https://openreview.net/pdf?id=aNTnYxdm0P"
+  },
+  {
+   "title": "AtmosArena: Benchmarking Foundation Models for Atmospheric Sciences",
+   "authors": [
+    "Tung Nguyen",
+    "Prateik Sinha",
+    "Advit Deepak",
+    "Karen A. McKinnon",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cUucUH9y0s",
+   "pdf_url": "https://openreview.net/pdf?id=cUucUH9y0s"
+  },
+  {
+   "title": "BarcodeMamba: State Space Models for Biodiversity Analysis",
+   "authors": [
+    "Tiancheng Gao",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6ohFEFTr10",
+   "pdf_url": "https://openreview.net/pdf?id=6ohFEFTr10"
+  },
+  {
+   "title": "Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences",
+   "authors": [
+    "Niklas Schmidinger",
+    "Lisa Schneckenreiter",
+    "Philipp Seidl",
+    "Johannes Schimunek",
+    "Pieter-Jan Hoedt",
+    "Johannes Brandstetter",
+    "Andreas Mayr",
+    "Sohvi Luukkonen",
+    "Sepp Hochreiter",
+    "Günter Klambauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rn0JKIvABP",
+   "pdf_url": "https://openreview.net/pdf?id=rn0JKIvABP"
+  },
+  {
+   "title": "BiRNA-BERT: Adaptive Tokenization for Efficient RNA Language Modeling",
+   "authors": [
+    "Md Toki Tahmid",
+    "Haz Sameen Shahgir",
+    "Sazan Mahbub",
+    "Yue Dong",
+    "Md Shamsuzzoha Bayzid"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GR6WcBzefc",
+   "pdf_url": "https://openreview.net/pdf?id=GR6WcBzefc"
+  },
+  {
+   "title": "Bridging biomolecular modalities for knowledge transfer in bio-language models",
+   "authors": [
+    "Mangal Prakash",
+    "Artem Moskalev",
+    "Peter DiMaggio Jr.",
+    "Steven Combs",
+    "Tommaso Mansi",
+    "Justin Scheer",
+    "Rui Liao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dicOSQVPLm",
+   "pdf_url": "https://openreview.net/pdf?id=dicOSQVPLm"
+  },
+  {
+   "title": "Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?",
+   "authors": [
+    "Mingu Kang",
+    "Dongseok Lee",
+    "Woojin Cho",
+    "Kookjin Lee",
+    "Anthony Gruber",
+    "Nathaniel Trask",
+    "Youngjoon Hong",
+    "Noseong Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RQkG40b1Tw",
+   "pdf_url": "https://openreview.net/pdf?id=RQkG40b1Tw"
+  },
+  {
+   "title": "Cell ontology guided transcriptome foundation model",
+   "authors": [
+    "Xinyu Yuan",
+    "Zhihao Zhan",
+    "Zuobai Zhang",
+    "Manqi Zhou",
+    "Jianan Zhao",
+    "Boyu Han",
+    "Yue Li",
+    "Jian Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BbMThMoI2p",
+   "pdf_url": "https://openreview.net/pdf?id=BbMThMoI2p"
+  },
+  {
+   "title": "ChatCite: LLM Agent with Human Workflow Guidance for Comparative Literature Summary",
+   "authors": [
+    "Yutong Li",
+    "Lu Chen",
+    "Aiwei Liu",
+    "Kai Yu",
+    "Lijie Wen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EOWRlx0PEB",
+   "pdf_url": "https://openreview.net/pdf?id=EOWRlx0PEB"
+  },
+  {
+   "title": "ChemDFM: A Large Language Foundation Model for Chemistry",
+   "authors": [
+    "Zihan Zhao",
+    "Da Ma",
+    "Lu Chen",
+    "Liangtai Sun",
+    "Zihao Li",
+    "Yi Xia",
+    "Hongshen Xu",
+    "Zichen Zhu",
+    "Su Zhu",
+    "Shuai Fan",
+    "Guodong Shen",
+    "Kai Yu",
+    "Xin Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=emPxd99kTC",
+   "pdf_url": "https://openreview.net/pdf?id=emPxd99kTC"
+  },
+  {
+   "title": "CLOUD: A Scalable Scientific Foundation Model for Crystal Representation Learning",
+   "authors": [
+    "Changwen Xu",
+    "Shang Zhu",
+    "Venkatasubramanian Viswanathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=geZ5LQOCSj",
+   "pdf_url": "https://openreview.net/pdf?id=geZ5LQOCSj"
+  },
+  {
+   "title": "Contextualizing biological perturbation experiments through language",
+   "authors": [
+    "Menghua Wu",
+    "Russell Littman",
+    "Jacob Levine",
+    "Lin Qiu",
+    "Tommaso Biancalani",
+    "David Richmond",
+    "Jan-Christian Huetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=azZWLTVfGV",
+   "pdf_url": "https://openreview.net/pdf?id=azZWLTVfGV"
+  },
+  {
+   "title": "DeepOSets: Non-Autoregressive In-Context Learning of Supervised Learning Operators",
+   "authors": [
+    "Shao-Ting Chiu",
+    "Junyuan Hong",
+    "Ulisses Braga-Neto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v1d6dqHAjZ",
+   "pdf_url": "https://openreview.net/pdf?id=v1d6dqHAjZ"
+  },
+  {
+   "title": "Developing a Foundation Model for Predicting Material Failure",
+   "authors": [
+    "Agnese Marcato",
+    "Javier E. Santos",
+    "Aleksandra Pachalieva",
+    "Kai Gao",
+    "Ryley Hill",
+    "Esteban Rougier",
+    "Qinjun Kang",
+    "Jeffrey Hyman",
+    "Abigail Hunter",
+    "Janel Chua",
+    "Earl Lawrence",
+    "Hari Viswanathan",
+    "Daniel O'Malley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BEPxMz22OH",
+   "pdf_url": "https://openreview.net/pdf?id=BEPxMz22OH"
+  },
+  {
+   "title": "DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis",
+   "authors": [
+    "Hamidreza Eivazi",
+    "André Hebenbrock",
+    "Raphael Ginster",
+    "Steffen Blömeke",
+    "Stefan Wittek",
+    "Christoph Hermann",
+    "Thomas S. Spengler",
+    "Thomas Turek",
+    "Andreas Rausch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EW9sDAuPAS",
+   "pdf_url": "https://openreview.net/pdf?id=EW9sDAuPAS"
+  },
+  {
+   "title": "Enhancing Detail Recovery in ICF Radiographs: A Transformer-based Approach with ViXReg",
+   "authors": [
+    "Nga Nguyen-Fotiadis",
+    "Bradley Wolfe",
+    "Zhehui Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o5fnkoeSGI",
+   "pdf_url": "https://openreview.net/pdf?id=o5fnkoeSGI"
+  },
+  {
+   "title": "Extralonger: Toward a Unified Perspective of Spatial-Temporal Factors for Extra-Long-Term Traffic Forecasting",
+   "authors": [
+    "Zhiwei Zhang",
+    "Shaojun E",
+    "Fandong Meng",
+    "Jie Zhou",
+    "Wenjuan Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hE3vlUiyfS",
+   "pdf_url": "https://openreview.net/pdf?id=hE3vlUiyfS"
+  },
+  {
+   "title": "Generating and Validating Agent and Environment Code for Simulating Realistic Personality Profiles with Large Language Models",
+   "authors": [
+    "Nathan Cloos",
+    "M Ganesh Kumar",
+    "Adam Manoogian",
+    "Christopher J Cueva",
+    "Shawn A. Rhoads"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oeIvS0ULNl",
+   "pdf_url": "https://openreview.net/pdf?id=oeIvS0ULNl"
+  },
+  {
+   "title": "Generative Models in Protein Engineering: A Comprehensive Survey",
+   "authors": [
+    "Chen Xinhui",
+    "Yiwen Yuan",
+    "Joseph Liu",
+    "Chak Tou Leong",
+    "Xiaoye Zhu",
+    "Jiaqi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xc7l84S0Ao",
+   "pdf_url": "https://openreview.net/pdf?id=Xc7l84S0Ao"
+  },
+  {
+   "title": "GFlowNet Pretraining with Inexpensive Rewards",
+   "authors": [
+    "Mohit Pandey",
+    "Gopeshh Subbaraj",
+    "Emmanuel Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9cCAkMB4mA",
+   "pdf_url": "https://openreview.net/pdf?id=9cCAkMB4mA"
+  },
+  {
+   "title": "IgBlend: Unifying 3D Structure and Sequence for Antibody LLMs",
+   "authors": [
+    "Cedric Malherbe",
+    "Talip Ucar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UdhrFed76X",
+   "pdf_url": "https://openreview.net/pdf?id=UdhrFed76X"
+  },
+  {
+   "title": "Improving generalisability of 3D binding affinity models in low data regimes",
+   "authors": [
+    "Julia Buhmann",
+    "Ward Haddadin",
+    "Alan Bilsland",
+    "Lukáš Pravda",
+    "Hagen Triendl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cph9TPjYtu",
+   "pdf_url": "https://openreview.net/pdf?id=cph9TPjYtu"
+  },
+  {
+   "title": "Is Tokenization Needed for Masked Particle Modelling?",
+   "authors": [
+    "Matthew Leigh",
+    "Samuel Klein",
+    "Francois Charton",
+    "Tobias Golling",
+    "Lukas Heinrich",
+    "Michael Kagan",
+    "Margarita Osadchy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F3FSFa33UI",
+   "pdf_url": "https://openreview.net/pdf?id=F3FSFa33UI"
+  },
+  {
+   "title": "Language Models for Text-guided Protein Evolution",
+   "authors": [
+    "Zhanghan Ni",
+    "Shengchao Liu",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CNla8z0V2p",
+   "pdf_url": "https://openreview.net/pdf?id=CNla8z0V2p"
+  },
+  {
+   "title": "Learning temperature-aware representations from millions of annotated protein sequences",
+   "authors": [
+    "Mingchen Li",
+    "Liang Zhang",
+    "Zilan Wang",
+    "Bozitao Zhong",
+    "Pan Tan",
+    "Jiabei Cheng",
+    "Bingxin Zhou",
+    "Liang Hong",
+    "Huiqun Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sOU2rNqo90",
+   "pdf_url": "https://openreview.net/pdf?id=sOU2rNqo90"
+  },
+  {
+   "title": "Leveraging foundation models for data-limited ecological applications",
+   "authors": [
+    "Kyle Doherty",
+    "Max A Gurinas",
+    "Erik Samsoe",
+    "Charles Casper",
+    "Beau G Larkin",
+    "Philip W. Ramsey",
+    "Brandon Trabucco",
+    "Russ Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s2OPqmsXMI",
+   "pdf_url": "https://openreview.net/pdf?id=s2OPqmsXMI"
+  },
+  {
+   "title": "LLM Agent for Fire Dynamics Simulations",
+   "authors": [
+    "Leidong Xu",
+    "Danyal Mohaddes",
+    "Yi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DxU9N7jRtE",
+   "pdf_url": "https://openreview.net/pdf?id=DxU9N7jRtE"
+  },
+  {
+   "title": "MAMORX: Multi-agent Multi-Modal Scientific Review Generation with External Knowledge",
+   "authors": [
+    "Pawin Taechoyotin",
+    "Guanchao Wang",
+    "Tong Zeng",
+    "Bradley Sides",
+    "Daniel Acuna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=frvkE8rCfX",
+   "pdf_url": "https://openreview.net/pdf?id=frvkE8rCfX"
+  },
+  {
+   "title": "Maven: A Multimodal Foundation Model for Supernova Science",
+   "authors": [
+    "Gemma Zhang",
+    "Thomas Helfer",
+    "Alexander Thomas Gagliano",
+    "Siddharth Mishra-Sharma",
+    "V Ashley Villar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PXUyHaAUkY",
+   "pdf_url": "https://openreview.net/pdf?id=PXUyHaAUkY"
+  },
+  {
+   "title": "Metalic: Meta-Learning In-Context with Protein Language Models",
+   "authors": [
+    "Jacob Beck",
+    "Shikha Surana",
+    "Manus McAuliffe",
+    "Oliver Bent",
+    "Thomas D Barrett",
+    "Juan Jose Garau-Luis",
+    "Paul Duckworth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jQyFXpFmEP",
+   "pdf_url": "https://openreview.net/pdf?id=jQyFXpFmEP"
+  },
+  {
+   "title": "Molphenix: A Multimodal Foundation Model for PhenoMolecular Retrieval",
+   "authors": [
+    "Philip Fradkin",
+    "Puria Azadi Moghadam",
+    "Karush Suri",
+    "Frederik Wenkel",
+    "Maciej Sypetkowski",
+    "Dominique Beaini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=elA8hwvYAm",
+   "pdf_url": "https://openreview.net/pdf?id=elA8hwvYAm"
+  },
+  {
+   "title": "Multi-View Mixture-of-Experts for Predicting Molecular Properties Using SMILES, SELFIES, and Graph-Based Representations",
+   "authors": [
+    "Eduardo Soares",
+    "Indra Priyadarsini",
+    "Emilio Vital Brazil",
+    "Victor Yukio Shirasuna",
+    "Seiji Takeda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MifpmeyyEF",
+   "pdf_url": "https://openreview.net/pdf?id=MifpmeyyEF"
+  },
+  {
+   "title": "OPI: An Open Instruction Dataset for Adapting Large Language Models to Protein-Related Tasks",
+   "authors": [
+    "Hongwang Xiao",
+    "Wenjun Lin",
+    "Hui Wang",
+    "Zheng Liu",
+    "Qiwei Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I4bA7ekJGh",
+   "pdf_url": "https://openreview.net/pdf?id=I4bA7ekJGh"
+  },
+  {
+   "title": "PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics",
+   "authors": [
+    "Yuxuan Liu",
+    "Jingmin Sun",
+    "Xinjie He",
+    "Griffin Pinney",
+    "Zecheng Zhang",
+    "Hayden Schaeffer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7tEA7ENjLd",
+   "pdf_url": "https://openreview.net/pdf?id=7tEA7ENjLd"
+  },
+  {
+   "title": "ProtDiff: Function-Conditioned Masked Diffusion Models for Robust Directed Protein Generation",
+   "authors": [
+    "Vishrut Thoutam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=POrk2Cc7Ux",
+   "pdf_url": "https://openreview.net/pdf?id=POrk2Cc7Ux"
+  },
+  {
+   "title": "Provable in-context learning of linear systems and linear elliptic PDEs with transformers",
+   "authors": [
+    "Frank Cole",
+    "Yulong Lu",
+    "Tianhao Zhang",
+    "Riley C. W. O'Neill"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xDstmuxn1D",
+   "pdf_url": "https://openreview.net/pdf?id=xDstmuxn1D"
+  },
+  {
+   "title": "Pulsar Candidate Classification with Multimodal Large Language Models",
+   "authors": [
+    "Fuyong Zhao",
+    "Yuyang Li",
+    "Yanhao Wang",
+    "Hui Li",
+    "Mei Chen",
+    "Panfeng Chen",
+    "Ningchen Sun",
+    "Cunshi Wang",
+    "Jifeng Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8SKgWpZiDL",
+   "pdf_url": "https://openreview.net/pdf?id=8SKgWpZiDL"
+  },
+  {
+   "title": "Scalable Universal T-Cell Receptor Embeddings from Adaptive Immune Repertoires",
+   "authors": [
+    "Paidamoyo Chapfuwa",
+    "Ilker Demirel",
+    "Lorenzo Pisani",
+    "Javier Zazo",
+    "Elon Portugaly",
+    "Jabran Zahid",
+    "Julia Greissl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oAukQalLzs",
+   "pdf_url": "https://openreview.net/pdf?id=oAukQalLzs"
+  },
+  {
+   "title": "Scale-consistent learning with neural operators",
+   "authors": [
+    "Zongyi Li",
+    "Samuel Lanthaler",
+    "Catherine Deng",
+    "Yixuan Wang",
+    "Kamyar Azizzadenesheli",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9nt0jI0Dp2",
+   "pdf_url": "https://openreview.net/pdf?id=9nt0jI0Dp2"
+  },
+  {
+   "title": "SciDFM: A Large Language Model with Mixture-of-Experts for Science",
+   "authors": [
+    "Liangtai Sun",
+    "Danyu Luo",
+    "Da Ma",
+    "Zihan Zhao",
+    "Baocai Chen",
+    "Zhennan Shen",
+    "Su Zhu",
+    "Lu Chen",
+    "Xin Chen",
+    "Kai Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c1bbp0X7gW",
+   "pdf_url": "https://openreview.net/pdf?id=c1bbp0X7gW"
+  },
+  {
+   "title": "Scientific Knowledge Graph and Ontology Generation using Open Large Language Models",
+   "authors": [
+    "Alexandru Oarga",
+    "Matthew Hart",
+    "Andres M Bran",
+    "Magdalena Lederbauer",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kHsfqBhZjC",
+   "pdf_url": "https://openreview.net/pdf?id=kHsfqBhZjC"
+  },
+  {
+   "title": "SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding",
+   "authors": [
+    "Sihang Li",
+    "Jin Huang",
+    "Jiaxi Zhuang",
+    "Yaorui Shi",
+    "Xiaochen Cai",
+    "Mingjun Xu",
+    "Xiang Wang",
+    "Linfeng Zhang",
+    "Guolin Ke",
+    "Hengxing Cai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hFGYMfnHz7",
+   "pdf_url": "https://openreview.net/pdf?id=hFGYMfnHz7"
+  },
+  {
+   "title": "SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature",
+   "authors": [
+    "David Wadden",
+    "Kejian Shi",
+    "Jacob Morrison",
+    "Aakanksha Naik",
+    "Shruti Singh",
+    "Nitzan Barzilay",
+    "Kyle Lo",
+    "Tom Hope",
+    "Luca Soldaini",
+    "Zejiang Shen",
+    "Doug Downey",
+    "Hannaneh Hajishirzi",
+    "Arman Cohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPKZr2ohrj",
+   "pdf_url": "https://openreview.net/pdf?id=oPKZr2ohrj"
+  },
+  {
+   "title": "SeisLM: a Foundation Model for Seismic Waveforms",
+   "authors": [
+    "Tianlin Liu",
+    "Jannes Münchmeyer",
+    "Laura Laurenti",
+    "Chris Marone",
+    "Maarten V. de Hoop",
+    "Ivan Dokmanić"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UQD2BM8UE4",
+   "pdf_url": "https://openreview.net/pdf?id=UQD2BM8UE4"
+  },
+  {
+   "title": "Self-supervised Multimodal Model for Astronomy",
+   "authors": [
+    "Mariia Rizhko",
+    "Joshua S. Bloom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w0iQslghXD",
+   "pdf_url": "https://openreview.net/pdf?id=w0iQslghXD"
+  },
+  {
+   "title": "Small Molecule Optimization with Large Language Models",
+   "authors": [
+    "Menua Bedrosian",
+    "Philipp Guevorguian",
+    "Tigran Fahradyan",
+    "Gayane Chilingaryan",
+    "Hrant Khachatrian",
+    "Armen Aghajanyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nJCYKdRZXb",
+   "pdf_url": "https://openreview.net/pdf?id=nJCYKdRZXb"
+  },
+  {
+   "title": "Solaris: A Foundation Model of the Sun",
+   "authors": [
+    "Harris Abdul Majid",
+    "Pietro Sittoni",
+    "Francesco Tudisco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FUZryaIpV2",
+   "pdf_url": "https://openreview.net/pdf?id=FUZryaIpV2"
+  },
+  {
+   "title": "Solving Out-of-Distribution Challenges in Optical Foundation Models using Self-Improving Data Augmentation",
+   "authors": [
+    "Mingqian Ma",
+    "Taigao Ma",
+    "L. Jay Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8jqhElTmNP",
+   "pdf_url": "https://openreview.net/pdf?id=8jqhElTmNP"
+  },
+  {
+   "title": "Specialized Foundation Models Struggle to Beat Supervised Baselines",
+   "authors": [
+    "Zongzhe Xu",
+    "Ritvik Gupta",
+    "Wenduo Cheng",
+    "Alexander Shen",
+    "Junhong Shen",
+    "Ameet Talwalkar",
+    "Mikhail Khodak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wgBYYUjnY5",
+   "pdf_url": "https://openreview.net/pdf?id=wgBYYUjnY5"
+  },
+  {
+   "title": "SpectraFM: Tuning into Stellar Foundation Models",
+   "authors": [
+    "Nolan Koblischke",
+    "Jo Bovy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HLEQrER65D",
+   "pdf_url": "https://openreview.net/pdf?id=HLEQrER65D"
+  },
+  {
+   "title": "Stylish and Functional: Guided Interpolation Subject to Physical Constraints",
+   "authors": [
+    "Yan-Ying Chen",
+    "Nikos Arechiga",
+    "Chenyang Yuan",
+    "Matthew K Hong",
+    "Matthew Klenk",
+    "Charlene C. Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7EdGAfEBmH",
+   "pdf_url": "https://openreview.net/pdf?id=7EdGAfEBmH"
+  },
+  {
+   "title": "Survey: Adaptive Physics-informed Neural Networks",
+   "authors": [
+    "Edgar Torres",
+    "Mathias Niepert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bYP6YB84Pq",
+   "pdf_url": "https://openreview.net/pdf?id=bYP6YB84Pq"
+  },
+  {
+   "title": "SysCaps: Language Interfaces for Simulation Surrogates of Complex Systems",
+   "authors": [
+    "Patrick Emami",
+    "Zhaonan Li",
+    "Saumya Sinha",
+    "Truc Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c3zI4LMK98",
+   "pdf_url": "https://openreview.net/pdf?id=c3zI4LMK98"
+  },
+  {
+   "title": "Towards Interpretable Scientific Foundation Models: Sparse Autoencoders for Disentangling Dense Embeddings of Scientific Concepts",
+   "authors": [
+    "Charles O'Neill",
+    "Christine Ye",
+    "Kartheik G. Iyer",
+    "John F Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mPq3R6jdtD",
+   "pdf_url": "https://openreview.net/pdf?id=mPq3R6jdtD"
+  },
+  {
+   "title": "Uncertainty and Generalizability in Foundation Models for Earth Observation",
+   "authors": [
+    "Raúl Ramos-Pollán",
+    "Freddie Kalaitzis",
+    "Karthick Panner Selvam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wEGajl4hky",
+   "pdf_url": "https://openreview.net/pdf?id=wEGajl4hky"
+  },
+  {
+   "title": "Understanding Drought through Spatial-Temporal Learning",
+   "authors": [
+    "Xuwei Tan",
+    "Qian Zhao",
+    "Yanlan Liu",
+    "Xueru Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DxdDV9vSpV",
+   "pdf_url": "https://openreview.net/pdf?id=DxdDV9vSpV"
+  },
+  {
+   "title": "Understanding Protein-DNA Interactions by Paying Attention to Protein and Genomics Foundation Models",
+   "authors": [
+    "Dhruva Rajwade",
+    "Erica Wang",
+    "Aryan Satpathy",
+    "Alexander Brace",
+    "Hongyu Guo",
+    "Arvind Ramanathan",
+    "Shengchao Liu",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NifnqNdpaf",
+   "pdf_url": "https://openreview.net/pdf?id=NifnqNdpaf"
+  },
+  {
+   "title": "Vision foundation models: can they be applied to astrophysics data?",
+   "authors": [
+    "Erica Lastufka",
+    "Mariia Drozdova",
+    "Vitaliy Kinakh",
+    "Slava Voloshynovskiy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sa4g1DhOdr",
+   "pdf_url": "https://openreview.net/pdf?id=sa4g1DhOdr"
+  },
+  {
+   "title": "ViTally Consistent: Scaling Biological Representation Learning for Cell Microscopy",
+   "authors": [
+    "Kian Kenyon-Dean",
+    "Zitong Jerry Wang",
+    "John Urbanik",
+    "Konstantin Donhauser",
+    "Jason Hartford",
+    "Saber Saberian",
+    "Nil Sahin",
+    "Ihab Bendidi",
+    "Safiye Celik",
+    "Marta Fay",
+    "Juan Sebastián Rodríguez Vera",
+    "Imran S Haque",
+    "Oren Kraus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3EbighfxpM",
+   "pdf_url": "https://openreview.net/pdf?id=3EbighfxpM"
+  },
+  {
+   "title": "VSMNO: Solving PDE by Utilizing  Spectral Patterns of Different Neural Operators",
+   "authors": [
+    "Fengrui Jing",
+    "Hongzhen Ding",
+    "Taosong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oCT8pYix5e",
+   "pdf_url": "https://openreview.net/pdf?id=oCT8pYix5e"
+  },
+  {
+   "title": "Weighted Diversified Sampling for Efficient Data-Driven Single-Cell Gene-Gene Interaction Discovery",
+   "authors": [
+    "Yifan Wu",
+    "Yuntao Yang",
+    "Zirui Liu",
+    "Zhao Li",
+    "Khushbu Pahwa",
+    "Rongbin Li",
+    "Wenjin Zheng",
+    "Xia Hu",
+    "Zhaozhuo Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0yyCq8Oui5",
+   "pdf_url": "https://openreview.net/pdf?id=0yyCq8Oui5"
+  }
+ ]
+}

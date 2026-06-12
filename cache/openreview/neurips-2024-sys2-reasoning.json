@@ -1,0 +1,599 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Sys2-Reasoning",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:11.718Z",
+ "paper_count": 50,
+ "papers": [
+  {
+   "title": "A Llama Sunk My Battleship! Asking Rational Questions with LLMs via Bayesian Inference",
+   "authors": [
+    "Gabriel Grand",
+    "Valerio Pepe",
+    "Jacob Andreas",
+    "Joshua B. Tenenbaum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DCer8frGLP",
+   "pdf_url": "https://openreview.net/pdf?id=DCer8frGLP"
+  },
+  {
+   "title": "Algorithmic Language Models with Neurally Compiled Libraries",
+   "authors": [
+    "Lucas Paul Saldyt",
+    "Subbarao Kambhampati"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W77TygnBN5",
+   "pdf_url": "https://openreview.net/pdf?id=W77TygnBN5"
+  },
+  {
+   "title": "ALTA: Compiler-Based Analysis of Transformers",
+   "authors": [
+    "Peter Shaw",
+    "James Cohan",
+    "Jacob Eisenstein",
+    "Kenton Lee",
+    "Jonathan Berant",
+    "Kristina Toutanova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rVtTAfeh3o",
+   "pdf_url": "https://openreview.net/pdf?id=rVtTAfeh3o"
+  },
+  {
+   "title": "Automated Design of Agentic Systems",
+   "authors": [
+    "Shengran Hu",
+    "Cong Lu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Joc8ecV2im",
+   "pdf_url": "https://openreview.net/pdf?id=Joc8ecV2im"
+  },
+  {
+   "title": "Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?",
+   "authors": [
+    "Antonia Wüst",
+    "Tim Tobiasch",
+    "Lukas Helff",
+    "Devendra Singh Dhami",
+    "Constantin A. Rothkopf",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Yv9tFHDwX",
+   "pdf_url": "https://openreview.net/pdf?id=4Yv9tFHDwX"
+  },
+  {
+   "title": "Can Language Models Perform Implicit Bayesian Inference Over User Preference States?",
+   "authors": [
+    "Linlu Qiu",
+    "Fei Sha",
+    "Kelsey R Allen",
+    "Yoon Kim",
+    "Tal Linzen",
+    "Sjoerd van Steenkiste"
+   ],
+   "forum_url": "https://openreview.net/forum?id=arYXgfHAIh",
+   "pdf_url": "https://openreview.net/pdf?id=arYXgfHAIh"
+  },
+  {
+   "title": "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs",
+   "authors": [
+    "Siyuan Wang",
+    "zhongyu wei",
+    "Yejin Choi",
+    "Xiang Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5lswuIblyk",
+   "pdf_url": "https://openreview.net/pdf?id=5lswuIblyk"
+  },
+  {
+   "title": "Can Stories Help LLMs Reason? Curating Information Space Through Narrative",
+   "authors": [
+    "Vahid Sadiri Javadi",
+    "Johanne Trippas",
+    "Lucie Flek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EfNt8Vr3vX",
+   "pdf_url": "https://openreview.net/pdf?id=EfNt8Vr3vX"
+  },
+  {
+   "title": "CausalBench: A Comprehensive Benchmark for Evaluating Causal Reasoning Capabilities of Large Language Models",
+   "authors": [
+    "ZEYU WANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ti0QzWyNsz",
+   "pdf_url": "https://openreview.net/pdf?id=Ti0QzWyNsz"
+  },
+  {
+   "title": "Compositional Generalization Across Distributional Shifts with Sparse Tree Operations",
+   "authors": [
+    "Paul Soulos",
+    "Henry Conklin",
+    "Mattia Opper",
+    "Paul Smolensky",
+    "Jianfeng Gao",
+    "Roland Fernandez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yxVYRwdjzB",
+   "pdf_url": "https://openreview.net/pdf?id=yxVYRwdjzB"
+  },
+  {
+   "title": "Consciousness-Inspired Spatio-Temporal Abstractions for Better Generalization in Reinforcement Learning",
+   "authors": [
+    "Harry Zhao",
+    "Safa Alver",
+    "Harm van Seijen",
+    "Romain Laroche",
+    "Doina Precup",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hT8nr951dZ",
+   "pdf_url": "https://openreview.net/pdf?id=hT8nr951dZ"
+  },
+  {
+   "title": "CryptoFormalEval: Integrating Large Language Models and Formal Verification for Automated Cryptographic Protocol Vulnerability Detection",
+   "authors": [
+    "Cristian Curaba",
+    "D'Ambrosi Denis",
+    "Alessandro Minisini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hqvJT2pOxu",
+   "pdf_url": "https://openreview.net/pdf?id=hqvJT2pOxu"
+  },
+  {
+   "title": "Diffusion On Syntax Trees For Program Synthesis",
+   "authors": [
+    "Shreyas Kapur",
+    "Erik Jenner",
+    "Stuart Russell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3LrX7Qy8GK",
+   "pdf_url": "https://openreview.net/pdf?id=3LrX7Qy8GK"
+  },
+  {
+   "title": "Distilling System 2 into System 1",
+   "authors": [
+    "Ping Yu",
+    "Jing Xu",
+    "Jason E Weston",
+    "Ilia Kulikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WUoC4BpJBC",
+   "pdf_url": "https://openreview.net/pdf?id=WUoC4BpJBC"
+  },
+  {
+   "title": "Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules",
+   "authors": [
+    "Binxu Wang",
+    "Jiaqi Shang",
+    "Haim Sompolinsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FNFxd2mV2U",
+   "pdf_url": "https://openreview.net/pdf?id=FNFxd2mV2U"
+  },
+  {
+   "title": "Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning",
+   "authors": [
+    "Wasu Top Piriyakulkij",
+    "Cassidy Langenfeld",
+    "Tuan Anh Le",
+    "Kevin Ellis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AA1W05ZQXQ",
+   "pdf_url": "https://openreview.net/pdf?id=AA1W05ZQXQ"
+  },
+  {
+   "title": "Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus",
+   "authors": [
+    "Terufumi Morishita",
+    "Gaku Morio",
+    "Atsuki Yamaguchi",
+    "Yasuhiro Sogawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vAtloKH4lA",
+   "pdf_url": "https://openreview.net/pdf?id=vAtloKH4lA"
+  },
+  {
+   "title": "Equitable Access to Justice: Logical LLMs Show Promise",
+   "authors": [
+    "Manuj Kant",
+    "Marzieh Nabi",
+    "Manav Kant",
+    "Preston Carlson",
+    "Megan Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jtM6timWBc",
+   "pdf_url": "https://openreview.net/pdf?id=jtM6timWBc"
+  },
+  {
+   "title": "From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs",
+   "authors": [
+    "Alireza Rezazadeh",
+    "Zichao Li",
+    "Wei Wei",
+    "Yujia Bao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vPCKwXGJCh",
+   "pdf_url": "https://openreview.net/pdf?id=vPCKwXGJCh"
+  },
+  {
+   "title": "Generative Verifiers: Reward Modeling as Next-Token Prediction",
+   "authors": [
+    "Lunjun Zhang",
+    "Arian Hosseini",
+    "Hritik Bansal",
+    "Mehran Kazemi",
+    "Aviral Kumar",
+    "Rishabh Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aLgXy8A7k7",
+   "pdf_url": "https://openreview.net/pdf?id=aLgXy8A7k7"
+  },
+  {
+   "title": "Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning",
+   "authors": [
+    "Yifeng Ding",
+    "Hantian Ding",
+    "Shiqi Wang",
+    "Qing Sun",
+    "Varun Kumar",
+    "Zijian Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L0agONQi9X",
+   "pdf_url": "https://openreview.net/pdf?id=L0agONQi9X"
+  },
+  {
+   "title": "Implicit Reasoning in Deep Time Series Forecasting",
+   "authors": [
+    "Willa Potosnak",
+    "Cristian Ignacio Challu",
+    "Mononito Goswami",
+    "Michał Wiliński",
+    "Nina Żukowska",
+    "Artur Dubrawski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CP39bvx3dW",
+   "pdf_url": "https://openreview.net/pdf?id=CP39bvx3dW"
+  },
+  {
+   "title": "Improving LLM Generation with Inverse and Forward Alignment: Reward Modeling, Prompting, Fine-Tuning, and Inference-Time Optimization",
+   "authors": [
+    "Hao Sun",
+    "Thomas Pouplin",
+    "Nicolás Astorga",
+    "Tennison Liu",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qpop1gQvVQ",
+   "pdf_url": "https://openreview.net/pdf?id=qpop1gQvVQ"
+  },
+  {
+   "title": "Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents",
+   "authors": [
+    "Quentin Delfosse",
+    "Sebastian Sztwiertnia",
+    "Mark Rothermel",
+    "Wolfgang Stammer",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ygcdDtTCV8",
+   "pdf_url": "https://openreview.net/pdf?id=ygcdDtTCV8"
+  },
+  {
+   "title": "LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints",
+   "authors": [
+    "Thomas Palmeira Ferraz",
+    "Kartik Mehta",
+    "Yu-Hsiang Lin",
+    "Haw-Shiuan Chang",
+    "Shereen Oraby",
+    "Sijia Liu",
+    "Vivek Subramanian",
+    "Tagyoung Chung",
+    "Mohit Bansal",
+    "Nanyun Peng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RQ6Ff8lso0",
+   "pdf_url": "https://openreview.net/pdf?id=RQ6Ff8lso0"
+  },
+  {
+   "title": "LLMs on interactive feature collections with implicit look-ahead strategies",
+   "authors": [
+    "Juyeon Heo",
+    "Vihari Piratla",
+    "Kyunghyun Lee",
+    "Hyonkeun Joh",
+    "Adrian Weller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GiRXutyeIO",
+   "pdf_url": "https://openreview.net/pdf?id=GiRXutyeIO"
+  },
+  {
+   "title": "Logically Consistent Language Models via Neuro-Symbolic Integration",
+   "authors": [
+    "Diego Calanzone",
+    "Stefano Teso",
+    "Antonio Vergari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDXmK9om6b",
+   "pdf_url": "https://openreview.net/pdf?id=JDXmK9om6b"
+  },
+  {
+   "title": "MemReasoner: A Memory-augmented LLM Architecture for Multi-hop Reasoning",
+   "authors": [
+    "Ching-Yun Ko",
+    "Sihui Dai",
+    "Payel Das",
+    "Georgios Kollias",
+    "Subhajit Chaudhury",
+    "Aurelie Lozano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ODcMy97cVZ",
+   "pdf_url": "https://openreview.net/pdf?id=ODcMy97cVZ"
+  },
+  {
+   "title": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning",
+   "authors": [
+    "Yuxi Xie",
+    "Anirudh Goyal",
+    "Wenyue Zheng",
+    "Min-Yen Kan",
+    "Timothy P Lillicrap",
+    "Kenji Kawaguchi",
+    "Michael Shieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s004OmYP2P",
+   "pdf_url": "https://openreview.net/pdf?id=s004OmYP2P"
+  },
+  {
+   "title": "MovieCORE: COgnitive REasoning in Movies",
+   "authors": [
+    "Gueter Josmy Faure",
+    "Min-Hung Chen",
+    "Jia-Fong Yeh",
+    "Ying Cheng",
+    "Hung-Ting Su",
+    "Shang-Hong Lai",
+    "Winston H. Hsu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pDsr2Dh0JG",
+   "pdf_url": "https://openreview.net/pdf?id=pDsr2Dh0JG"
+  },
+  {
+   "title": "Not All LLM Reasoners Are Created Equal",
+   "authors": [
+    "Arian Hosseini",
+    "Alessandro Sordoni",
+    "Daniel Kenji Toyama",
+    "Aaron Courville",
+    "Rishabh Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aPAWbip1xV",
+   "pdf_url": "https://openreview.net/pdf?id=aPAWbip1xV"
+  },
+  {
+   "title": "Planning in Natural Language Improves LLM Search for Code Generation",
+   "authors": [
+    "Evan Z Wang",
+    "Federico Cassano",
+    "Catherine Wu",
+    "Yunfeng Bai",
+    "William Song",
+    "Vaskar Nath",
+    "Ziwen Han",
+    "Sean M. Hendryx",
+    "Summer Yue",
+    "Hugh Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B2iSfPNj49",
+   "pdf_url": "https://openreview.net/pdf?id=B2iSfPNj49"
+  },
+  {
+   "title": "Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning",
+   "authors": [
+    "Matthew Ho",
+    "Vincent Zhu",
+    "Xiaoyin Chen",
+    "Moksh Jain",
+    "Nikolay Malkin",
+    "Edwin Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gYzgA0EnRs",
+   "pdf_url": "https://openreview.net/pdf?id=gYzgA0EnRs"
+  },
+  {
+   "title": "PROOF OF THOUGHT : Neurosymbolic Program Synthesis allows Robust and Interpretable Reasoning",
+   "authors": [
+    "Debargha Ganguly",
+    "Srinivasan Iyengar",
+    "Vipin Chaudhary",
+    "Shivkumar Kalyanaraman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pxx3r14j3U",
+   "pdf_url": "https://openreview.net/pdf?id=Pxx3r14j3U"
+  },
+  {
+   "title": "Rational Metareasoning for Large Language Models",
+   "authors": [
+    "C. Nicolò De Sabbata",
+    "Theodore Sumers",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Otm03OVHzG",
+   "pdf_url": "https://openreview.net/pdf?id=Otm03OVHzG"
+  },
+  {
+   "title": "Reasoning Abilities of Large Language Models through the Lens of Abstraction and Reasoning",
+   "authors": [
+    "Seungpil Lee",
+    "Woochang Sim",
+    "Donghyeon Shin",
+    "Sejin Kim",
+    "Sundong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=getEDedhSV",
+   "pdf_url": "https://openreview.net/pdf?id=getEDedhSV"
+  },
+  {
+   "title": "Recurrent Transformers Trade-off Parallelism for Length Generalization on Regular Languages",
+   "authors": [
+    "Paul Soulos",
+    "Aleksandar Terzic",
+    "Michael Hersche",
+    "Abbas Rahimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6PjZA4Jvge",
+   "pdf_url": "https://openreview.net/pdf?id=6PjZA4Jvge"
+  },
+  {
+   "title": "Recursive Decomposition with Dependencies for Generic Divide-and-Conquer Reasoning",
+   "authors": [
+    "Sergio Hernández-Gutiérrez",
+    "Minttu Alakuijala",
+    "Alexander V Nikitin",
+    "Pekka Marttinen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MZG5VzXBm9",
+   "pdf_url": "https://openreview.net/pdf?id=MZG5VzXBm9"
+  },
+  {
+   "title": "Sampling Language from Latent System 2 Reasoning",
+   "authors": [
+    "Celine Lee",
+    "Md Arafat Sultan",
+    "Tahira Naseem",
+    "Alexander M Rush",
+    "Ramón Fernandez Astudillo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OdUqJwu0Gr",
+   "pdf_url": "https://openreview.net/pdf?id=OdUqJwu0Gr"
+  },
+  {
+   "title": "softmax is not enough (for sharp out-of-distribution)",
+   "authors": [
+    "Petar Veličković",
+    "Christos Perivolaropoulos",
+    "Federico Barbero",
+    "Razvan Pascanu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FdcrOyDKEc",
+   "pdf_url": "https://openreview.net/pdf?id=FdcrOyDKEc"
+  },
+  {
+   "title": "STaR: Benchmarking Spatio-Temporal Reasoning for Systematic Generalization",
+   "authors": [
+    "Irtaza Khalid",
+    "Steven Schockaert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M7pFDngBgm",
+   "pdf_url": "https://openreview.net/pdf?id=M7pFDngBgm"
+  },
+  {
+   "title": "System 1.5: Designing Metacognition in Artificial Intelligence",
+   "authors": [
+    "Nick Oh",
+    "Fernand Gobet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SEJg9yIhPz",
+   "pdf_url": "https://openreview.net/pdf?id=SEJg9yIhPz"
+  },
+  {
+   "title": "System 2 Reasoning Capabilities Are Nigh",
+   "authors": [
+    "Scott C. Lowe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZxaipE6f62",
+   "pdf_url": "https://openreview.net/pdf?id=ZxaipE6f62"
+  },
+  {
+   "title": "System-2 Reasoning via Generality and Adaptation",
+   "authors": [
+    "Sejin Kim",
+    "Sundong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=brqBUZpj3K",
+   "pdf_url": "https://openreview.net/pdf?id=brqBUZpj3K"
+  },
+  {
+   "title": "The Turing Game",
+   "authors": [
+    "Michal Lewandowski",
+    "Simon Lucas Schmid",
+    "Patrick Mederitsch",
+    "Alexander Aufreiter",
+    "Gregor Aichinger",
+    "Felix Nessler",
+    "Severin Bergsmann",
+    "Viktor Szolga",
+    "Tobias Halmdienst",
+    "Bernhard Nessler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YiquAWqFw3",
+   "pdf_url": "https://openreview.net/pdf?id=YiquAWqFw3"
+  },
+  {
+   "title": "Thinking Fast and Laterally: Multi-Agentic Approach for Reasoning about Uncertain Emerging Events",
+   "authors": [
+    "Stefan Dernbach",
+    "Alejandro Michel",
+    "Khushbu Agarwal",
+    "Christopher Brissette",
+    "geetika gupta",
+    "Sutanay Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lgaJaLh0Ap",
+   "pdf_url": "https://openreview.net/pdf?id=lgaJaLh0Ap"
+  },
+  {
+   "title": "Thought of Search: Planning with Language Models Through The Lens of Efficiency",
+   "authors": [
+    "Michael Katz",
+    "Harsha Kokel",
+    "Kavitha Srinivas",
+    "Shirin Sohrabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B8yAczkQo8",
+   "pdf_url": "https://openreview.net/pdf?id=B8yAczkQo8"
+  },
+  {
+   "title": "VCR: Visual Caption Restoration",
+   "authors": [
+    "Tianyu Zhang",
+    "Suyuchen Wang",
+    "Lu Li",
+    "Ge Zhang",
+    "Perouz Taslakian",
+    "Sai Rajeswar",
+    "Jie Fu",
+    "Bang Liu",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5zGPARRv2x",
+   "pdf_url": "https://openreview.net/pdf?id=5zGPARRv2x"
+  },
+  {
+   "title": "World Models for Web Agents",
+   "authors": [
+    "Hyungjoo Chae",
+    "Namyoung Kim",
+    "Minju Gwak",
+    "Gwanwoo Song",
+    "Jihoon Kim",
+    "Kai Tzu-iunn Ong",
+    "Sunghwan Kim",
+    "Dongha Lee",
+    "Jinyoung Yeo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NWU6AaJv48",
+   "pdf_url": "https://openreview.net/pdf?id=NWU6AaJv48"
+  },
+  {
+   "title": "Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers",
+   "authors": [
+    "MohammadReza Ebrahimi",
+    "Sunny Panchal",
+    "Roland Memisevic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dn8iXZk4er",
+   "pdf_url": "https://openreview.net/pdf?id=Dn8iXZk4er"
+  }
+ ]
+}

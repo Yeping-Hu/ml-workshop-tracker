@@ -1,0 +1,585 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Pluralistic-Alignment",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:56.535Z",
+ "paper_count": 48,
+ "papers": [
+  {
+   "title": "\"There are no solutions, only trade-offs.'' Taking A Closer Look At Safety Data Annotations.",
+   "authors": [
+    "Elle Michelle Yang",
+    "Matthias Gallé",
+    "Seraphina Goldfarb-Tarrant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HWlJOQDLMi",
+   "pdf_url": "https://openreview.net/pdf?id=HWlJOQDLMi"
+  },
+  {
+   "title": "A Case Study in Plural Governance Design",
+   "authors": [
+    "Joel Miller",
+    "Christopher Kanich",
+    "Glen Weyl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b6XZezgNDv",
+   "pdf_url": "https://openreview.net/pdf?id=b6XZezgNDv"
+  },
+  {
+   "title": "Adaptive Alignment: Dynamic Preference Adjustments via Multi-Objective Reinforcement Learning for Pluralistic AI",
+   "authors": [
+    "Hadassah Harland",
+    "Richard Dazeley",
+    "Peter Vamplew",
+    "Hashini Senaratne",
+    "Bahareh Nakisa",
+    "Francisco Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KYrPaFeAyq",
+   "pdf_url": "https://openreview.net/pdf?id=KYrPaFeAyq"
+  },
+  {
+   "title": "AGR: Age Group fairness Reward for Bias Mitigation in LLMs",
+   "authors": [
+    "Shuirong Cao",
+    "Ruoxi Cheng",
+    "Zhiqiang wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5UBNiJGk4k",
+   "pdf_url": "https://openreview.net/pdf?id=5UBNiJGk4k"
+  },
+  {
+   "title": "AI, Pluralism, and (Social) Compensation",
+   "authors": [
+    "Nandhini Swaminathan",
+    "David Danks"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eT0D1ZtWrA",
+   "pdf_url": "https://openreview.net/pdf?id=eT0D1ZtWrA"
+  },
+  {
+   "title": "Aligning LLMs using Reinforcement Learning from Market Feedback (RLMF) for Regime Adaptation",
+   "authors": [
+    "Raeid Saqur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y3W1TVuJii",
+   "pdf_url": "https://openreview.net/pdf?id=y3W1TVuJii"
+  },
+  {
+   "title": "Aligning to Thousands of Preferences via System Message Generalization",
+   "authors": [
+    "Seongyun Lee",
+    "Sue Hyun Park",
+    "Seungone Kim",
+    "Minjoon Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=29PsrhMb3a",
+   "pdf_url": "https://openreview.net/pdf?id=29PsrhMb3a"
+  },
+  {
+   "title": "Are Large Language Models Consistent over Value-laden Questions?",
+   "authors": [
+    "Jared Moore",
+    "Tanvi Deshpande",
+    "Diyi Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9fzdNxSVSV",
+   "pdf_url": "https://openreview.net/pdf?id=9fzdNxSVSV"
+  },
+  {
+   "title": "Being Considerate as a Pathway Towards Pluralistic Alignment for Agentic AI",
+   "authors": [
+    "Parand A. Alamdari",
+    "Toryn Q. Klassen",
+    "Rodrigo Toro Icarte",
+    "Sheila A. McIlraith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LeSvMN1CLV",
+   "pdf_url": "https://openreview.net/pdf?id=LeSvMN1CLV"
+  },
+  {
+   "title": "Bottom-Up and Top-Down Analysis of Values, Agendas, and Observations in Corpora and LLMs",
+   "authors": [
+    "Scott E. Friedman",
+    "Noam Benkler",
+    "Drisana Mosaphir",
+    "Jeffrey Rye",
+    "Sonja M. Schmer-Galunder",
+    "Micah Goldwater",
+    "Matthew McLure",
+    "Ruta Wheelock",
+    "Jeremy Gottlieb",
+    "Robert P. Goldman",
+    "Christopher Miller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TEjZDOZ63H",
+   "pdf_url": "https://openreview.net/pdf?id=TEjZDOZ63H"
+  },
+  {
+   "title": "Can Language Models Reason about Individualistic Human Values and Preferences?",
+   "authors": [
+    "Liwei Jiang",
+    "Sydney Levine",
+    "Yejin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VUq1dDJBf0",
+   "pdf_url": "https://openreview.net/pdf?id=VUq1dDJBf0"
+  },
+  {
+   "title": "Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment",
+   "authors": [
+    "Andrew Konya",
+    "Aviv Ovadya",
+    "Kevin Feng",
+    "Quan Ze Chen",
+    "Lisa Schirch",
+    "Colin Irwin",
+    "Amy X Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QOSaR4Ur0v",
+   "pdf_url": "https://openreview.net/pdf?id=QOSaR4Ur0v"
+  },
+  {
+   "title": "Conditional Language Policy: A General Framework For Steerable Multi-Objective Finetuning",
+   "authors": [
+    "Kaiwen Wang",
+    "Rahul Kidambi",
+    "Ryan Sullivan",
+    "Alekh Agarwal",
+    "Christoph Dann",
+    "Andrea Michi",
+    "Marco Gelmi",
+    "Yunxuan Li",
+    "Raghav Gupta",
+    "Kumar Avinava Dubey",
+    "Alexandre Rame",
+    "Johan Ferret",
+    "Geoffrey Cideron",
+    "Le Hou",
+    "Hongkun Yu",
+    "Amr Ahmed",
+    "Aranyak Mehta",
+    "Leonard Hussenot",
+    "Olivier Bachem",
+    "Edouard Leurent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v5WdengzbO",
+   "pdf_url": "https://openreview.net/pdf?id=v5WdengzbO"
+  },
+  {
+   "title": "Contrastive Learning Neuromotor Interface From Teacher",
+   "authors": [
+    "Kilian Freitag",
+    "Ran Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qmmF8YAr5a",
+   "pdf_url": "https://openreview.net/pdf?id=qmmF8YAr5a"
+  },
+  {
+   "title": "Controllable Safety Alignment: Adapting LLMs to Diverse Safety Requirements without Re-Training",
+   "authors": [
+    "Jingyu Zhang",
+    "Ahmed Elgohary",
+    "Ahmed Magooda",
+    "Daniel Khashabi",
+    "Benjamin Van Durme"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C3BXdBvFNC",
+   "pdf_url": "https://openreview.net/pdf?id=C3BXdBvFNC"
+  },
+  {
+   "title": "Critique-out-Loud Reward Models",
+   "authors": [
+    "Zachary Ankner",
+    "Mansheej Paul",
+    "Brandon Cui",
+    "Jonathan Daniel Chang",
+    "Prithviraj Ammanabrolu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CljYUvIlRW",
+   "pdf_url": "https://openreview.net/pdf?id=CljYUvIlRW"
+  },
+  {
+   "title": "Diverging Preferences: When do Annotators Disagree and do Models Know?",
+   "authors": [
+    "Michael JQ Zhang",
+    "Zhilin Wang",
+    "Jena D. Hwang",
+    "Yi Dong",
+    "Olivier Delalleau",
+    "Yejin Choi",
+    "Eunsol Choi",
+    "Xiang Ren",
+    "Valentina Pyatkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4J6xUjg41O",
+   "pdf_url": "https://openreview.net/pdf?id=4J6xUjg41O"
+  },
+  {
+   "title": "Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities",
+   "authors": [
+    "Zheyuan Zhang",
+    "Fengyuan Hu",
+    "Jayjun Lee",
+    "Freda Shi",
+    "Parisa Kordjamshidi",
+    "Joyce Chai",
+    "Ziqiao Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t4FvM7J8Vm",
+   "pdf_url": "https://openreview.net/pdf?id=t4FvM7J8Vm"
+  },
+  {
+   "title": "Efficacy of the SAGE-RT Dataset for Model Safety Alignment: A Comparative Study",
+   "authors": [
+    "Tanay Baswa",
+    "Nitin Aravind Birur",
+    "Divyanshu Kumar",
+    "Jatan Loya",
+    "Anurakt Kumar",
+    "Prashanth Harshangi",
+    "Sahil Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wl2vBu8jX4",
+   "pdf_url": "https://openreview.net/pdf?id=wl2vBu8jX4"
+  },
+  {
+   "title": "Evaluating the Prompt Steerability of Large Language Models",
+   "authors": [
+    "Erik Miehling",
+    "Michael Desmond",
+    "Karthikeyan Natesan Ramamurthy",
+    "Elizabeth M. Daly",
+    "Pierre Dognin",
+    "Jesus Rios",
+    "Djallel Bouneffouf",
+    "Miao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=64tbpZHRLO",
+   "pdf_url": "https://openreview.net/pdf?id=64tbpZHRLO"
+  },
+  {
+   "title": "FairPlay: A Collaborative Approach to Mitigate Bias in Datasets for Improved AI Fairness",
+   "authors": [
+    "Tina Behzad",
+    "Mithilesh Kumar Singh",
+    "Anthony J. Ripa",
+    "Klaus Mueller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7StJj749GW",
+   "pdf_url": "https://openreview.net/pdf?id=7StJj749GW"
+  },
+  {
+   "title": "From Distributional to Overton Pluralism: Investigating Large Language Model Alignment",
+   "authors": [
+    "Thom Lake",
+    "Eunsol Choi",
+    "Greg Durrett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=roe8GMahZL",
+   "pdf_url": "https://openreview.net/pdf?id=roe8GMahZL"
+  },
+  {
+   "title": "Group Robust Best-of-K Decoding of Language Models for Pluralistic Alignment",
+   "authors": [
+    "Sangwoong Yoon",
+    "William Bankes",
+    "Seongho Son",
+    "Anja Petrovic",
+    "Shyam Sundhar Ramesh",
+    "Xiaohang Tang",
+    "Ilija Bogunovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JI6j4NUGHv",
+   "pdf_url": "https://openreview.net/pdf?id=JI6j4NUGHv"
+  },
+  {
+   "title": "Intuitions of Compromise: Utilitarianism vs. Contractualism",
+   "authors": [
+    "Jared Moore",
+    "Yejin Choi",
+    "Sydney Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hn5rjOTGa1",
+   "pdf_url": "https://openreview.net/pdf?id=hn5rjOTGa1"
+  },
+  {
+   "title": "Learning from Personal Preferences",
+   "authors": [
+    "Kelly Jiang",
+    "Berk Ustun",
+    "Jessica Hullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h56z6J7UsN",
+   "pdf_url": "https://openreview.net/pdf?id=h56z6J7UsN"
+  },
+  {
+   "title": "Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions",
+   "authors": [
+    "Haoxian Chen",
+    "Hanyang Zhao",
+    "Henry Lam",
+    "David Yao",
+    "Wenpin Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rbTu46dkgU",
+   "pdf_url": "https://openreview.net/pdf?id=rbTu46dkgU"
+  },
+  {
+   "title": "Mechanism Design for LLM Fine-tuning with Multiple Reward Models",
+   "authors": [
+    "Haoran Sun",
+    "Yurong Chen",
+    "Siwei Wang",
+    "Wei Chen",
+    "Xiaotie Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kYyu2ToEg5",
+   "pdf_url": "https://openreview.net/pdf?id=kYyu2ToEg5"
+  },
+  {
+   "title": "MID-Space: Aligning Diverse Communities' Needs to Inclusive Public Spaces",
+   "authors": [
+    "Shravan Nayak",
+    "Rashid Mushkani",
+    "Hugo Berard",
+    "Allison Cohen",
+    "Shin Koseki",
+    "Hadrien Bertrand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kyfkMRT4Ao",
+   "pdf_url": "https://openreview.net/pdf?id=kyfkMRT4Ao"
+  },
+  {
+   "title": "Model Plurality: A Taxonomy for Pluralistic AI",
+   "authors": [
+    "Christina Lu",
+    "Max Van Kleek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kil2mabTqx",
+   "pdf_url": "https://openreview.net/pdf?id=kil2mabTqx"
+  },
+  {
+   "title": "Multi-objective Reinforcement Learning: A Tool for Pluralistic Alignment",
+   "authors": [
+    "Peter Vamplew",
+    "Conor F. Hayes",
+    "Cameron Foale",
+    "Richard Dazeley",
+    "Hadassah Harland"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jyqXeBHY2K",
+   "pdf_url": "https://openreview.net/pdf?id=jyqXeBHY2K"
+  },
+  {
+   "title": "Multilingual Trolley Problems for Language Models",
+   "authors": [
+    "Zhijing Jin",
+    "Max Kleiman-Weiner",
+    "Giorgio Piatti",
+    "Sydney Levine",
+    "Jiarui Liu",
+    "Fernando Gonzalez Adauto",
+    "Francesco Ortu",
+    "András Strausz",
+    "Mrinmaya Sachan",
+    "Rada Mihalcea",
+    "Yejin Choi",
+    "Bernhard Schölkopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vrHErHkCNo",
+   "pdf_url": "https://openreview.net/pdf?id=vrHErHkCNo"
+  },
+  {
+   "title": "PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences",
+   "authors": [
+    "Daiwei Chen",
+    "Yi Chen",
+    "Aniket Rege",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cxBLcw64xq",
+   "pdf_url": "https://openreview.net/pdf?id=cxBLcw64xq"
+  },
+  {
+   "title": "Pareto-Optimal Learning from Preferences with Hidden Context",
+   "authors": [
+    "Ryan Boldi",
+    "Li Ding",
+    "Lee Spector",
+    "Scott Niekum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yHiWO6ZzeU",
+   "pdf_url": "https://openreview.net/pdf?id=yHiWO6ZzeU"
+  },
+  {
+   "title": "Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning",
+   "authors": [
+    "Sriyash Poddar",
+    "Yanming Wan",
+    "Hamish Ivison",
+    "Abhishek Gupta",
+    "Natasha Jaques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zsXKtupv2I",
+   "pdf_url": "https://openreview.net/pdf?id=zsXKtupv2I"
+  },
+  {
+   "title": "PersonalLLM: Tailoring LLMs to Individual Preferences",
+   "authors": [
+    "Thomas P Zollo",
+    "Andrew Wei Tung Siah",
+    "Naimeng Ye",
+    "Ang Li",
+    "Hongseok Namkoong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dgK36oHNkS",
+   "pdf_url": "https://openreview.net/pdf?id=dgK36oHNkS"
+  },
+  {
+   "title": "Pluralistic Alignment Over Time",
+   "authors": [
+    "Toryn Q. Klassen",
+    "Parand A. Alamdari",
+    "Sheila A. McIlraith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BLhVcPbEo8",
+   "pdf_url": "https://openreview.net/pdf?id=BLhVcPbEo8"
+  },
+  {
+   "title": "Plurality of value pluralism and AI value alignment",
+   "authors": [
+    "Atoosa Kasirzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AOokh1UYLH",
+   "pdf_url": "https://openreview.net/pdf?id=AOokh1UYLH"
+  },
+  {
+   "title": "Plurals: A system for pluralistic AI via simulated social ensembles",
+   "authors": [
+    "Joshua Ashkinaze",
+    "Eric Gilbert",
+    "Ceren Budak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZhSFMjqV1P",
+   "pdf_url": "https://openreview.net/pdf?id=ZhSFMjqV1P"
+  },
+  {
+   "title": "Policy Aggregation",
+   "authors": [
+    "Parand A. Alamdari",
+    "Soroush Ebadian",
+    "Ariel D. Procaccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6vZh9hXfa9",
+   "pdf_url": "https://openreview.net/pdf?id=6vZh9hXfa9"
+  },
+  {
+   "title": "Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs",
+   "authors": [
+    "Ruoxi Cheng",
+    "Hao-Xuan Ma",
+    "Shuirong Cao",
+    "Jiaqi Li",
+    "Aihua Pei",
+    "Zhiqiang wang",
+    "Pengliang Ji",
+    "Haoyu Wang",
+    "Jiaqi Huo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aqLPNGxgTS",
+   "pdf_url": "https://openreview.net/pdf?id=aqLPNGxgTS"
+  },
+  {
+   "title": "Representative Social Choice: From Learning Theory to AI Alignment",
+   "authors": [
+    "Tianyi Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k106hee6I6",
+   "pdf_url": "https://openreview.net/pdf?id=k106hee6I6"
+  },
+  {
+   "title": "Rules, Cases, and Reasoning: Positivist Legal Theory as a Framework for Pluralistic AI Alignment",
+   "authors": [
+    "Nicholas A. Caputo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CSkBolLl0j",
+   "pdf_url": "https://openreview.net/pdf?id=CSkBolLl0j"
+  },
+  {
+   "title": "Selective Preference Aggregation",
+   "authors": [
+    "Shreyas Kadekodi",
+    "Hayden McTavish",
+    "Berk Ustun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7UNwG7D1Ct",
+   "pdf_url": "https://openreview.net/pdf?id=7UNwG7D1Ct"
+  },
+  {
+   "title": "Toward Democracy Levels for AI",
+   "authors": [
+    "Aviv Ovadya",
+    "Luke Thorburn",
+    "Kyle Redman",
+    "Flynn Devine",
+    "Smitha Milli",
+    "Manon Revel",
+    "Andrew Konya",
+    "Atoosa Kasirzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iAdszMHVLN",
+   "pdf_url": "https://openreview.net/pdf?id=iAdszMHVLN"
+  },
+  {
+   "title": "Tractable Agreement Protocols",
+   "authors": [
+    "Natalie Collina",
+    "Surbhi Goel",
+    "Varun Gupta",
+    "Aaron Roth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0aW1FkLOaM",
+   "pdf_url": "https://openreview.net/pdf?id=0aW1FkLOaM"
+  },
+  {
+   "title": "Value Alignment from Unstructured Text",
+   "authors": [
+    "Inkit Padhi",
+    "Karthikeyan Natesan Ramamurthy",
+    "Prasanna Sattigeri",
+    "Manish Nagireddy",
+    "Pierre Dognin",
+    "Kush R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZCsVog2ni",
+   "pdf_url": "https://openreview.net/pdf?id=EZCsVog2ni"
+  },
+  {
+   "title": "Value-Aligned Imitation via focused Satisficing",
+   "authors": [
+    "Rushit N. Shah",
+    "Nikolaos Agadakos",
+    "Synthia Sasulski",
+    "Ali Farajzadeh",
+    "Sanjiban Choudhury",
+    "Brian D Ziebart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iuA57Xsgby",
+   "pdf_url": "https://openreview.net/pdf?id=iuA57Xsgby"
+  },
+  {
+   "title": "Virtual Personas for Language Models via an Anthology of Backstories",
+   "authors": [
+    "Suhong Moon",
+    "Marwa Abdulhai",
+    "Minwoo Kang",
+    "Joseph Suh",
+    "Widyadewi Soedarmadji",
+    "Eran Kohen Behar",
+    "David Chan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zIN9nqThze",
+   "pdf_url": "https://openreview.net/pdf?id=zIN9nqThze"
+  }
+ ]
+}

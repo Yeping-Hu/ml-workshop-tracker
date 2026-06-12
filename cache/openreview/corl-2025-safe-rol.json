@@ -1,0 +1,333 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/SAFE-ROL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:41:06.146Z",
+ "paper_count": 25,
+ "papers": [
+  {
+   "title": "AutoODD: Agentic Audits via Bayesian Red Teaming in Black-Box Models",
+   "authors": [
+    "Rebecca Martin",
+    "Jay Patrikar",
+    "Sebastian Scherer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6JdRaSPJ0o",
+   "pdf_url": "https://openreview.net/pdf?id=6JdRaSPJ0o"
+  },
+  {
+   "title": "Back to Base: Towards Hands-Off Learning via Safe Resets with Reach-Avoid Safety Filters",
+   "authors": [
+    "Azra Begzadić",
+    "Nikhil Uday Shinde",
+    "Sander Tonkens",
+    "Dylan Hirsch",
+    "Kaleb Ugalde",
+    "Michael C. Yip",
+    "Jorge Cortes",
+    "Sylvia Lee Herbert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QJV5LGs0Pf",
+   "pdf_url": "https://openreview.net/pdf?id=QJV5LGs0Pf"
+  },
+  {
+   "title": "Challenger: Affordable Adversarial Driving Video Generation",
+   "authors": [
+    "Zhiyuan Xu",
+    "Bohan Li",
+    "Huan-ang Gao",
+    "Mingju Gao",
+    "Yong Chen",
+    "Ming Liu",
+    "Chenxu Yan",
+    "Xin Jin",
+    "Hang Zhao",
+    "Shuo Feng",
+    "Hao Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPptjDzDdG",
+   "pdf_url": "https://openreview.net/pdf?id=qPptjDzDdG"
+  },
+  {
+   "title": "Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Jack Zeng",
+    "Andreu Matoses Gimenez",
+    "Eugene Vinitsky",
+    "Javier Alonso-Mora",
+    "Sihao Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yYYmqMv7Al",
+   "pdf_url": "https://openreview.net/pdf?id=yYYmqMv7Al"
+  },
+  {
+   "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments",
+   "authors": [
+    "Jiahui Yang",
+    "Jason Jingzhou Liu",
+    "Yulong Li",
+    "Youssef Khaky",
+    "Kenneth Shaw",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2BNi6UQKr",
+   "pdf_url": "https://openreview.net/pdf?id=v2BNi6UQKr"
+  },
+  {
+   "title": "Dual-Objective Reinforcement Learning through novel Hamilton-Jacobi Bellman Formulations",
+   "authors": [
+    "William Sharpless",
+    "Dylan Hirsch",
+    "Sander Tonkens",
+    "Nikhil Uday Shinde",
+    "Sylvia Lee Herbert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lIanomPzb8",
+   "pdf_url": "https://openreview.net/pdf?id=lIanomPzb8"
+  },
+  {
+   "title": "EigenSafe: A Spectral Framework for Learning-Based Stochastic Safety Filtering",
+   "authors": [
+    "Inkyu Jang",
+    "Jonghae Park",
+    "Chams Eddine Mballo",
+    "Sihyun Cho",
+    "Claire Tomlin",
+    "H. Jin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dKxPuDc11u",
+   "pdf_url": "https://openreview.net/pdf?id=dKxPuDc11u"
+  },
+  {
+   "title": "Equivariant Representation Learning for Symmetry-Aware Inference with Guarantees",
+   "authors": [
+    "Daniel Ordonez-Apraez",
+    "Vladimir R Kostic",
+    "Alek Fröhlich",
+    "Karim Lounici",
+    "Massimiliano Pontil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=asrqjWBwzD",
+   "pdf_url": "https://openreview.net/pdf?id=asrqjWBwzD"
+  },
+  {
+   "title": "Exposing Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning",
+   "authors": [
+    "Bokang Zhang",
+    "Chaojun Lu",
+    "LI JIANHUI",
+    "Junfeng Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=do9Idc7p8h",
+   "pdf_url": "https://openreview.net/pdf?id=do9Idc7p8h"
+  },
+  {
+   "title": "From Space to Time: Enabling Adaptive Safety with Learned Value Functions via Disturbance Recasting",
+   "authors": [
+    "Sander Tonkens",
+    "Nikhil Uday Shinde",
+    "Azra Begzadić",
+    "Michael C. Yip",
+    "Jorge Cortes",
+    "Sylvia Lee Herbert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mjkMFIdAPX",
+   "pdf_url": "https://openreview.net/pdf?id=mjkMFIdAPX"
+  },
+  {
+   "title": "Grounded Vision-Language Interpreter for Integrated Task and Motion Planning",
+   "authors": [
+    "Jeremy Siburian",
+    "Keisuke Shirai",
+    "Cristian Camilo Beltran-Hernandez",
+    "Masashi Hamaya",
+    "Michael Görner",
+    "Atsushi Hashimoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UYeJbnS5ic",
+   "pdf_url": "https://openreview.net/pdf?id=UYeJbnS5ic"
+  },
+  {
+   "title": "HuB: Learning Extreme Humanoid Balance",
+   "authors": [
+    "Tong Zhang",
+    "Boyuan Zheng",
+    "Ruiqian Nai",
+    "Yingdong Hu",
+    "Yen-Jen Wang",
+    "Geng Chen",
+    "Fanqi Lin",
+    "Jiongye Li",
+    "Chuye Hong",
+    "Koushil Sreenath",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2jTazOyWzK",
+   "pdf_url": "https://openreview.net/pdf?id=2jTazOyWzK"
+  },
+  {
+   "title": "Imagine, Verify, Execute: Memory-guided Agentic Exploration with Vision-Language Models",
+   "authors": [
+    "Seungjae Lee",
+    "Daniel Ekpo",
+    "Haowen Liu",
+    "Furong Huang",
+    "Abhinav Shrivastava",
+    "Jia-Bin Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JrSJkXOuxX",
+   "pdf_url": "https://openreview.net/pdf?id=JrSJkXOuxX"
+  },
+  {
+   "title": "Learning Feasibility from Failure Data in Vision–Language–Action Models",
+   "authors": [
+    "Jeongeun Park",
+    "Jihwan Yoon",
+    "Byungwoo Jeon",
+    "Juhan Park",
+    "Namhoon Cho",
+    "Kyungjae Lee",
+    "Sangdoo Yun",
+    "Sungjoon Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tKRTU90TT3",
+   "pdf_url": "https://openreview.net/pdf?id=tKRTU90TT3"
+  },
+  {
+   "title": "Model Predictive Adversarial Imitation Learning for Planning from Observation",
+   "authors": [
+    "Tyler Han",
+    "Yanda Bao",
+    "Bhaumik Mehta",
+    "Gabriel Guo",
+    "Anubhav Vishwakarma",
+    "Emily Kang",
+    "Sanghun Jung",
+    "Rosario Scalise",
+    "Jason Liren Zhou",
+    "Bryan Xu",
+    "Byron Boots"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xVs5Zo9CGE",
+   "pdf_url": "https://openreview.net/pdf?id=xVs5Zo9CGE"
+  },
+  {
+   "title": "RAMBO: RL-Augmented Model-Based Whole-Body Control for Loco-Manipulation",
+   "authors": [
+    "Jin Cheng",
+    "Dongho Kang",
+    "Gabriele Fadini",
+    "Guanya Shi",
+    "Stelian Coros"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wWFfUV7A3U",
+   "pdf_url": "https://openreview.net/pdf?id=wWFfUV7A3U"
+  },
+  {
+   "title": "Reachability Barrier Networks: Learning Hamilton-Jacobi Solutions for Smooth and Flexible Control Barrier Functions",
+   "authors": [
+    "Matthew Kim",
+    "William Sharpless",
+    "Hyun Joe Jeong",
+    "Sander Tonkens",
+    "Somil Bansal",
+    "Sylvia Lee Herbert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MxPBXTUY0a",
+   "pdf_url": "https://openreview.net/pdf?id=MxPBXTUY0a"
+  },
+  {
+   "title": "REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance",
+   "authors": [
+    "ZIHAO XU",
+    "Ce Hao",
+    "CHUNZHENG WANG",
+    "Kuankuan Sima",
+    "Fan Shi",
+    "Jin Song Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qrh3eKXov6",
+   "pdf_url": "https://openreview.net/pdf?id=qrh3eKXov6"
+  },
+  {
+   "title": "Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments",
+   "authors": [
+    "Seoyeon Jang",
+    "alexjunholee",
+    "I Made Aswin Nahrendra",
+    "Hyun Myung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p665P0ui34",
+   "pdf_url": "https://openreview.net/pdf?id=p665P0ui34"
+  },
+  {
+   "title": "Reliably Augmenting Real-World Tests with Simulation for Scalable Robot Policy Evaluation",
+   "authors": [
+    "Apurva Badithela",
+    "David Snyder",
+    "Lihan Zha",
+    "Joseph Mikhail",
+    "Matthew O'Kelly",
+    "Anushri Dixit",
+    "Anirudha Majumdar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x2u6sU04GZ",
+   "pdf_url": "https://openreview.net/pdf?id=x2u6sU04GZ"
+  },
+  {
+   "title": "Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation",
+   "authors": [
+    "Viraj Parimi",
+    "Brian C. Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LBuLtnZwvZ",
+   "pdf_url": "https://openreview.net/pdf?id=LBuLtnZwvZ"
+  },
+  {
+   "title": "SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI",
+   "authors": [
+    "Soumyodipta Nath",
+    "Pranav Tiwari",
+    "Ravi Prakash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xj3V96qTpf",
+   "pdf_url": "https://openreview.net/pdf?id=Xj3V96qTpf"
+  },
+  {
+   "title": "Touch begins where vision ends: Generalizable policies for contact-rich manipulation",
+   "authors": [
+    "Zifan Zhao",
+    "Siddhant Haldar",
+    "Jinda Cui",
+    "Lerrel Pinto",
+    "Raunaq Bhirangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fOTDLzrMSJ",
+   "pdf_url": "https://openreview.net/pdf?id=fOTDLzrMSJ"
+  },
+  {
+   "title": "Towards Safe Robot Foundation Models Using Inductive Biases",
+   "authors": [
+    "Maximilian Tölle",
+    "Theo Gruner",
+    "Daniel Palenicek",
+    "Tim Schneider",
+    "Jonas Günster",
+    "Joe Watson",
+    "Davide Tateo",
+    "Puze Liu",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bDa6fj1wmN",
+   "pdf_url": "https://openreview.net/pdf?id=bDa6fj1wmN"
+  },
+  {
+   "title": "Uncertainty-Aware Distributionally Robust Model Predictive Control for Safe Autonomous Driving",
+   "authors": [
+    "Hyeongchan Ham",
+    "Heejin Ahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JigwaMzv4c",
+   "pdf_url": "https://openreview.net/pdf?id=JigwaMzv4c"
+  }
+ ]
+}

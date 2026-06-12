@@ -1,0 +1,19 @@
+# --- Missing: submission deadline -----------------------------------------
+# Know it? Add two lines anywhere below, for example:
+#   submission_deadline: 2026-09-15 23:59    # or just a date: 2026-09-15
+#   timezone: AoE                            # AoE / UTC / America/Los_Angeles
+# Then click "Commit changes..." -> "Propose changes" to open a pull request.
+# It is validated automatically and usually merged within a day.
+# ---------------------------------------------------------------------------
+name: CVPR 2026 Workshop on Generative Models for Computer Vision
+acronym: GCV 2026
+conference: cvpr
+year: 2026
+website: https://generative-vision.github.io/workshop-CVPR-26/
+topics:
+  - vision
+  - generative-models
+openreview_venue_id: thecvf.com/CVPR/2026/Workshop/GCV
+submission_portal: openreview
+notes: Auto-imported from the OpenReview venue record on 2026-06-10 — please verify and enrich (topics are keyword-guessed).
+added: "2026-06-10"

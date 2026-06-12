@@ -1,0 +1,332 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/VideoWorldModel_Non-Proceedings_Track",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:49:12.464Z",
+ "paper_count": 24,
+ "papers": [
+  {
+   "title": "Building a Precise Video Language with Human–AI Oversight",
+   "authors": [
+    "Siyuan Cen",
+    "Hewei Wang",
+    "Chancharik Mitra",
+    "Isaac Li",
+    "Yuhan Huang",
+    "Yu Tong Tiffany Ling",
+    "Irene Pi",
+    "Shihang Zhu",
+    "Yili Han",
+    "Yilun Du",
+    "Deva Ramanan",
+    "Zhiqiu Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ujfcVzb3Si",
+   "pdf_url": "https://openreview.net/pdf?id=ujfcVzb3Si"
+  },
+  {
+   "title": "Causal State Compression for Long-Horizon Video World Models: A Bounded-Drift Theory and Efficient Architecture",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E84PFjlIyy",
+   "pdf_url": "https://openreview.net/pdf?id=E84PFjlIyy"
+  },
+  {
+   "title": "Causal State Entropy Bounds on Predictive Horizons in Video World Models",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kATuCe0AKI",
+   "pdf_url": "https://openreview.net/pdf?id=kATuCe0AKI"
+  },
+  {
+   "title": "DECOMWM: Interpretable Reward Decomposition for World-Model-Based Trajectory Selection",
+   "authors": [
+    "Yun Sang Nam",
+    "KimJinChan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YP7nrrA9kr",
+   "pdf_url": "https://openreview.net/pdf?id=YP7nrrA9kr"
+  },
+  {
+   "title": "Dexterous World Models",
+   "authors": [
+    "Byungjun Kim",
+    "Taeksoo Kim",
+    "Junyoung Lee",
+    "Hanbyul Joo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jM6SH8AoWC",
+   "pdf_url": "https://openreview.net/pdf?id=jM6SH8AoWC"
+  },
+  {
+   "title": "EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses",
+   "authors": [
+    "Enrico Pallotta",
+    "Sina Mokhtarzadeh Azar",
+    "Lars Doorenbos",
+    "Serdar Ozsoy",
+    "Umar Iqbal",
+    "Juergen Gall"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1kkc0JuatF",
+   "pdf_url": "https://openreview.net/pdf?id=1kkc0JuatF"
+  },
+  {
+   "title": "Forecasting Motion in the Wild",
+   "authors": [
+    "Neerja Thakkar",
+    "Shiry Ginosar",
+    "Jacob C Walker",
+    "Jitendra Malik",
+    "Joao Carreira",
+    "Carl Doersch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S91fOLJF89",
+   "pdf_url": "https://openreview.net/pdf?id=S91fOLJF89"
+  },
+  {
+   "title": "Future Optical Flow Prediction Improves Robot Control & Video Generation",
+   "authors": [
+    "Kanchana Ranasinghe",
+    "Honglu Zhou",
+    "Yu Fang",
+    "Luyu Yang",
+    "Le Xue",
+    "Ran Xu",
+    "Caiming Xiong",
+    "silvio savarese",
+    "Michael S Ryoo",
+    "Juan Carlos Niebles"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1linHTubF3",
+   "pdf_url": "https://openreview.net/pdf?id=1linHTubF3"
+  },
+  {
+   "title": "Inference-Time Planning with Action-Conditioned Video Models for Generalizable Robot Manipulation",
+   "authors": [
+    "Zhiting Mei",
+    "Yanbo Xu",
+    "Tenny Yin",
+    "Ola Sho",
+    "Anirudha Majumdar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FmoMli0NSn",
+   "pdf_url": "https://openreview.net/pdf?id=FmoMli0NSn"
+  },
+  {
+   "title": "Is Your Driving World Model an All-Around Player?",
+   "authors": [
+    "Lingdong Kong",
+    "Alan Liang",
+    "Tianyi Yan",
+    "Hongsi Liu",
+    "Yu Yang",
+    "Ziqi Huang",
+    "Xian Sun",
+    "Wei Yin",
+    "Jialong Zuo",
+    "Yixuan Hu",
+    "Dekai Zhu",
+    "Dongyue Lu",
+    "Youquan Liu",
+    "Guangfeng Jiang",
+    "Linfeng Li",
+    "Xiangtai Li",
+    "Long Zhuo",
+    "Lai Xing Ng",
+    "Benoit R Cottereau",
+    "Changxin Gao",
+    "Liang Pan",
+    "Wei Tsang Ooi",
+    "Ziwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8LUS9SiLSG",
+   "pdf_url": "https://openreview.net/pdf?id=8LUS9SiLSG"
+  },
+  {
+   "title": "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos",
+   "authors": [
+    "Yuxue Yang",
+    "Lue Fan",
+    "Ziqi Shi",
+    "Junran Peng",
+    "Feng Wang",
+    "Zhaoxiang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q1iMSvTASA",
+   "pdf_url": "https://openreview.net/pdf?id=q1iMSvTASA"
+  },
+  {
+   "title": "Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now",
+   "authors": [
+    "Varun Varma Thozhiyoor",
+    "Shivam Tripathi",
+    "Venkatesh Babu Radhakrishnan",
+    "Anand Bhattad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sjyYRV25UL",
+   "pdf_url": "https://openreview.net/pdf?id=sjyYRV25UL"
+  },
+  {
+   "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
+   "authors": [
+    "Yuxin Jiang",
+    "Yuchao Gu",
+    "Ivor Tsang",
+    "Mike Zheng Shou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O0o1yqPVvg",
+   "pdf_url": "https://openreview.net/pdf?id=O0o1yqPVvg"
+  },
+  {
+   "title": "OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis",
+   "authors": [
+    "Xiang Fan",
+    "Sharath Girish",
+    "Vivek Ramanujan",
+    "Chaoyang Wang",
+    "Ashkan Mirzaei",
+    "Peter Sushko",
+    "Aliaksandr Siarohin",
+    "Sergey Tulyakov",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sIssvooKjA",
+   "pdf_url": "https://openreview.net/pdf?id=sIssvooKjA"
+  },
+  {
+   "title": "Rays as Pixels: Learning a Joint Distribution of Videos and Camera Trajectories",
+   "authors": [
+    "Wonbong Jang",
+    "Shikun Liu",
+    "Soubhik Sanyal",
+    "Juan Camilo Perez",
+    "Kam Woh Ng",
+    "Juan-Manuel Perez-Rua",
+    "Yiannis Douratsos",
+    "Tao Xiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a134jKLBul",
+   "pdf_url": "https://openreview.net/pdf?id=a134jKLBul"
+  },
+  {
+   "title": "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation",
+   "authors": [
+    "Feng Jiang",
+    "Yang Chen",
+    "Jingkai Xu",
+    "Yuchen Liu",
+    "Haifeng Wang",
+    "Zhenhao Shen",
+    "Jasper Lu",
+    "Shu Chen",
+    "Shengze Huang",
+    "Yuanfei Wang",
+    "Ruihai Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ayzxybKvBJ",
+   "pdf_url": "https://openreview.net/pdf?id=ayzxybKvBJ"
+  },
+  {
+   "title": "SEGAR: Selective Enhancement for Generative Augmented Reality",
+   "authors": [
+    "Fanjun Bu",
+    "Chenyang Yuan",
+    "Hiroshi Yasuda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZOYZ4h1RiR",
+   "pdf_url": "https://openreview.net/pdf?id=ZOYZ4h1RiR"
+  },
+  {
+   "title": "Spectral World Models: Provably Consistent Long-Horizon Video Generation via Koopman Operator Decomposition",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c7UEXxYkLp",
+   "pdf_url": "https://openreview.net/pdf?id=c7UEXxYkLp"
+  },
+  {
+   "title": "The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics",
+   "authors": [
+    "Xiangbo Gao",
+    "Mingyang Wu",
+    "Siyuan Yang",
+    "Jiongze Yu",
+    "Pardis Taghavi",
+    "Fangzhou Lin",
+    "Zhengzhong Tu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WQyOAGqMu2",
+   "pdf_url": "https://openreview.net/pdf?id=WQyOAGqMu2"
+  },
+  {
+   "title": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+   "authors": [
+    "Sixiao Zheng",
+    "Minghao Yin",
+    "Wenbo Hu",
+    "Xiaoyu Li",
+    "Ying Shan",
+    "Yanwei Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K04p6NJEab",
+   "pdf_url": "https://openreview.net/pdf?id=K04p6NJEab"
+  },
+  {
+   "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
+   "authors": [
+    "Kaleb Newman",
+    "Tyler Zhu",
+    "Olga Russakovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5enV7TePIX",
+   "pdf_url": "https://openreview.net/pdf?id=5enV7TePIX"
+  },
+  {
+   "title": "WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics",
+   "authors": [
+    "Sahil Khose",
+    "Mengqi Zhang",
+    "Prithvijit Chattopadhyay",
+    "Judy Hoffman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gvtwynIibB",
+   "pdf_url": "https://openreview.net/pdf?id=gvtwynIibB"
+  },
+  {
+   "title": "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation",
+   "authors": [
+    "Jisu Nam",
+    "Yicong Hong",
+    "Chun-Hao Paul Huang",
+    "Feng Liu",
+    "JoungBin Lee",
+    "Jiyoung Kim",
+    "Siyoon Jin",
+    "Yunsung Lee",
+    "Jaeyoon Jung",
+    "Suhwan Choi",
+    "Seungryong Kim",
+    "Yang Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i3FRNTg32O",
+   "pdf_url": "https://openreview.net/pdf?id=i3FRNTg32O"
+  },
+  {
+   "title": "WorldPack: Dynamic Frame Compression for Long-context Video World Modeling",
+   "authors": [
+    "Yuta Oshima",
+    "Yusuke Iwasawa",
+    "Masahiro Suzuki",
+    "Yutaka Matsuo",
+    "Hiroki Furuta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uBIJWmGyII",
+   "pdf_url": "https://openreview.net/pdf?id=uBIJWmGyII"
+  }
+ ]
+}

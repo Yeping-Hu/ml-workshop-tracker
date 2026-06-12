@@ -1,0 +1,404 @@
+{
+ "venue_id": "IEEE.org/ICRA/2025/Workshop/FMNS",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:24.045Z",
+ "paper_count": 33,
+ "papers": [
+  {
+   "title": "A Robust Framework for Open-Vocabulary Multi-Object Search with Visual-Language Understanding",
+   "authors": [
+    "Qianwei Wang",
+    "Yifan Xu",
+    "Vineet Kamat",
+    "Carol Menassa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VwqEtKa08B",
+   "pdf_url": "https://openreview.net/pdf?id=VwqEtKa08B"
+  },
+  {
+   "title": "Action-Free Reasoning for Policy Generalization",
+   "authors": [
+    "Jaden Clark",
+    "Suvir Mirchandani",
+    "Dorsa Sadigh",
+    "Suneel Belkhale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XTlFwamMo1",
+   "pdf_url": "https://openreview.net/pdf?id=XTlFwamMo1"
+  },
+  {
+   "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+   "authors": [
+    "Zhiyuan Zhou",
+    "Pranav Atreya",
+    "You Liang Tan",
+    "Karl Pertsch",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NyLU2eNujY",
+   "pdf_url": "https://openreview.net/pdf?id=NyLU2eNujY"
+  },
+  {
+   "title": "Completing Explicit 3D Reconstruction via View Extrapolation with Diffusion Priors",
+   "authors": [
+    "Seunghoon Jeong",
+    "Eunho Lee",
+    "Myung-Hwan Jeon",
+    "Ayoung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=imIYm1ILm9",
+   "pdf_url": "https://openreview.net/pdf?id=imIYm1ILm9"
+  },
+  {
+   "title": "Continual Robot Learning via Language-Guided Skill Acquisition",
+   "authors": [
+    "Shuo Cheng",
+    "Zhaoyi Li",
+    "Kelin Yu",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VJfK5xy6F6",
+   "pdf_url": "https://openreview.net/pdf?id=VJfK5xy6F6"
+  },
+  {
+   "title": "Continual Robot Skill and Task Learning via Dialogue",
+   "authors": [
+    "Weiwei Gu",
+    "N Suresh K Kondepudi",
+    "Anmol Gupta",
+    "Lixiao Huang",
+    "Nakul Gopalan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BPK2OaKVdy",
+   "pdf_url": "https://openreview.net/pdf?id=BPK2OaKVdy"
+  },
+  {
+   "title": "CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph",
+   "authors": [
+    "Yixuan Wang",
+    "Leonor Fermoselle",
+    "Tarik Kelestemur",
+    "Jiuguang Wang",
+    "Yunzhu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mnf8Fj9zfU",
+   "pdf_url": "https://openreview.net/pdf?id=mnf8Fj9zfU"
+  },
+  {
+   "title": "Deployment-time Selection of Prompts for LLM-informed Object Search in Partially-Known Environments",
+   "authors": [
+    "Abhishek Paudel",
+    "Gregory J. Stein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TrecISByKi",
+   "pdf_url": "https://openreview.net/pdf?id=TrecISByKi"
+  },
+  {
+   "title": "DiffOG: Differentiable Policy Trajectory Optimization with Generalizability",
+   "authors": [
+    "Zhengtong Xu",
+    "Zichen Miao",
+    "Qiang Qiu",
+    "Zhe Zhang",
+    "Yu She"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WwHNwvbQMh",
+   "pdf_url": "https://openreview.net/pdf?id=WwHNwvbQMh"
+  },
+  {
+   "title": "DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation",
+   "authors": [
+    "Peiqi Liu",
+    "Zhanqiu Guo",
+    "Mohit Warke",
+    "Soumith Chintala",
+    "Chris Paxton",
+    "Nur Muhammad Mahi Shafiullah",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q7OayT9MGi",
+   "pdf_url": "https://openreview.net/pdf?id=q7OayT9MGi"
+  },
+  {
+   "title": "Foundation Models to the Rescue: Deadlock Resolution in Connected Multi-Robot Systems",
+   "authors": [
+    "Kunal Garg",
+    "Songyuan Zhang",
+    "Jacob Arkin",
+    "Chuchu Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vz1p8TRRAb",
+   "pdf_url": "https://openreview.net/pdf?id=vz1p8TRRAb"
+  },
+  {
+   "title": "Four Principles for Physically Interpretable World Models",
+   "authors": [
+    "Jordan Peper",
+    "Zhenjiang Mao",
+    "Yuang Geng",
+    "Siyuan Pan",
+    "Ivan Ruchkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bPAIelioYq",
+   "pdf_url": "https://openreview.net/pdf?id=bPAIelioYq"
+  },
+  {
+   "title": "Generative Trajectory Stitching through Diffusion Composition",
+   "authors": [
+    "Yunhao Luo",
+    "Utkarsh Aashu Mishra",
+    "Yilun Du",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Oy1uEZKXl",
+   "pdf_url": "https://openreview.net/pdf?id=5Oy1uEZKXl"
+  },
+  {
+   "title": "GENFLOWRL: Generative Object-Centric Flow Matching for Reward Shaping in Visual Reinforcement Learning",
+   "authors": [
+    "Kelin Yu",
+    "Sheng Zhang",
+    "Harshit Soora",
+    "Furong Huang",
+    "Heng Huang",
+    "Pratap Tokekar",
+    "Ruohan Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8diHFzzakQ",
+   "pdf_url": "https://openreview.net/pdf?id=8diHFzzakQ"
+  },
+  {
+   "title": "GRAPE: Generalizing Robot Policy via Preference Alignment",
+   "authors": [
+    "Zijian Zhang",
+    "Kaiyuan Zheng",
+    "Zhaorun Chen",
+    "Joel Jang",
+    "Yi Li",
+    "Siwei Han",
+    "Chaoqi Wang",
+    "Mingyu Ding",
+    "Dieter Fox",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W64vwmZHdK",
+   "pdf_url": "https://openreview.net/pdf?id=W64vwmZHdK"
+  },
+  {
+   "title": "Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting",
+   "authors": [
+    "Boying Li",
+    "Vuong Chi Hao",
+    "Peter J. Stuckey",
+    "Ian Reid",
+    "Hamid Rezatofighi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6dRoaEMwHP",
+   "pdf_url": "https://openreview.net/pdf?id=6dRoaEMwHP"
+  },
+  {
+   "title": "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining",
+   "authors": [
+    "Yaru Niu",
+    "Yunzhe Zhang",
+    "Mingyang Yu",
+    "Changyi Lin",
+    "Chenhao Li",
+    "Yikai Wang",
+    "Yuxiang Yang",
+    "Wenhao Yu",
+    "Tingnan Zhang",
+    "Zhenzhen Li",
+    "Jonathan Francis",
+    "Bingqing Chen",
+    "Jie Tan",
+    "Ding Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6RwcBFg3m4",
+   "pdf_url": "https://openreview.net/pdf?id=6RwcBFg3m4"
+  },
+  {
+   "title": "Implementing LLM-Integrated Storytelling Robot",
+   "authors": [
+    "Tam Do",
+    "Chi Vo",
+    "Duy Linh Ha",
+    "Felix Mendez",
+    "Suyog Bam",
+    "Zhao Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mtqsmEaX2f",
+   "pdf_url": "https://openreview.net/pdf?id=mtqsmEaX2f"
+  },
+  {
+   "title": "Label-Efficient LiDAR Scene Understanding with 2D-3D Vision Transformer Adapters",
+   "authors": [
+    "Julia Hindel",
+    "Rohit Mohan",
+    "Jelena Bratulić",
+    "Daniele Cattaneo",
+    "Thomas Brox",
+    "Abhinav Valada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w3MTdtHYKY",
+   "pdf_url": "https://openreview.net/pdf?id=w3MTdtHYKY"
+  },
+  {
+   "title": "Learning Factorized Diffusion Policies for Conditional Action Diffusion",
+   "authors": [
+    "Omkar Patil",
+    "Eric Rosen",
+    "Nakul Gopalan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8MGDOQmYRo",
+   "pdf_url": "https://openreview.net/pdf?id=8MGDOQmYRo"
+  },
+  {
+   "title": "Leveraging Foundation Models for One-Shot Learning via HRC and Aerial-Ground Multi-Robot Collaboration",
+   "authors": [
+    "Haokun Liu",
+    "MOJU ZHAO"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PjZgUJ28gy",
+   "pdf_url": "https://openreview.net/pdf?id=PjZgUJ28gy"
+  },
+  {
+   "title": "MAGIC-VFM Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models",
+   "authors": [
+    "Elena Sorina Lupu",
+    "Fengze Xie",
+    "James A Preiss",
+    "Jedidiah Alindogan",
+    "Matthew Anderson",
+    "Soon-Jo Chung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KrTuE7drxD",
+   "pdf_url": "https://openreview.net/pdf?id=KrTuE7drxD"
+  },
+  {
+   "title": "Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning",
+   "authors": [
+    "Fengze Xie",
+    "Sizhe Wei",
+    "Yue Song",
+    "Yisong Yue",
+    "Lu Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2pAigTVASA",
+   "pdf_url": "https://openreview.net/pdf?id=2pAigTVASA"
+  },
+  {
+   "title": "Neuro-Symbolic Imitation Learning: Discovering Symbolic Abstractions for Skill Learning",
+   "authors": [
+    "Leon Keller",
+    "Daniel Tanneberg",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XJgvOOkiZq",
+   "pdf_url": "https://openreview.net/pdf?id=XJgvOOkiZq"
+  },
+  {
+   "title": "Neuro-Symbolic Task Planning and Replanning using Large Language Models",
+   "authors": [
+    "Minseo Kwon",
+    "Young J. Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xx3rwBDm46",
+   "pdf_url": "https://openreview.net/pdf?id=Xx3rwBDm46"
+  },
+  {
+   "title": "RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks",
+   "authors": [
+    "Yimin Tang",
+    "Xiao Xiong",
+    "Jingyi Xi",
+    "Jiaoyang Li",
+    "Erdem Biyik",
+    "Sven Koenig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3ENuQbQ47z",
+   "pdf_url": "https://openreview.net/pdf?id=3ENuQbQ47z"
+  },
+  {
+   "title": "Real2Gen: Imitation Learning from a Single Human Demonstration with Generative Foundational Models",
+   "authors": [
+    "Nick Heppert",
+    "Minh Quang Nguyen",
+    "Abhinav Valada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TYtYTHTlel",
+   "pdf_url": "https://openreview.net/pdf?id=TYtYTHTlel"
+  },
+  {
+   "title": "RoboMAN: Human-like Compliance Manipulation for Electronics Assembly via an Online Memory-Augmented Network",
+   "authors": [
+    "Rundong Wang",
+    "Yanchun Cheng",
+    "Francis E. H. Tay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ru3rcKr7uY",
+   "pdf_url": "https://openreview.net/pdf?id=ru3rcKr7uY"
+  },
+  {
+   "title": "Rolling Diffusion Policy for Robotic Action Prediction: Enhancing Efficiency and Temporal Awareness",
+   "authors": [
+    "Chanhyuk Jung",
+    "Dasom Ahn",
+    "Sangwon Kim",
+    "In-su Jang",
+    "Kwang-Ju Kim",
+    "Sungkeun Yoo",
+    "Byoung Chul Ko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MRrR2HG0dU",
+   "pdf_url": "https://openreview.net/pdf?id=MRrR2HG0dU"
+  },
+  {
+   "title": "SENT Map - Semantically Enhanced Topological Maps with Foundation Models",
+   "authors": [
+    "Raj Surya Rajendran Kathirvel",
+    "Zach A Chavis",
+    "Stephen J. Guy",
+    "Karthik Desingh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cEeXF3FgPZ",
+   "pdf_url": "https://openreview.net/pdf?id=cEeXF3FgPZ"
+  },
+  {
+   "title": "Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use",
+   "authors": [
+    "Haonan Chen",
+    "Cheng Zhu",
+    "Yunzhu Li",
+    "Katherine Rose Driggs-Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=edpXakHFJa",
+   "pdf_url": "https://openreview.net/pdf?id=edpXakHFJa"
+  },
+  {
+   "title": "YOLO-MARL: You Only LLM Once for Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Yuan Zhuang",
+    "Yi Shen",
+    "Zhili Zhang",
+    "Yuxiao Chen",
+    "Fei Miao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NPkTM8ka0S",
+   "pdf_url": "https://openreview.net/pdf?id=NPkTM8ka0S"
+  },
+  {
+   "title": "Zero-Shot Context Identification through Clustering and Foundation Modeling for Friction Estimation",
+   "authors": [
+    "Renukanandan Tumu",
+    "Ahmad Amine",
+    "Lee Milburn",
+    "Rajnish Gupta",
+    "Urara Kono",
+    "Rahul Mangharam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=050LfN58RW",
+   "pdf_url": "https://openreview.net/pdf?id=050LfN58RW"
+  }
+ ]
+}

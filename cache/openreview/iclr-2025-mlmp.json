@@ -1,0 +1,368 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/MLMP",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:38.409Z",
+ "paper_count": 33,
+ "papers": [
+  {
+   "title": "5D Neural Surrogates for Nonlinear Gyrokinetic Simulations of Plasma Turbulence",
+   "authors": [
+    "Gianluca Galletti",
+    "Fabian Paischer",
+    "Paul Setinek",
+    "William Hornsby",
+    "Lorenzo Zanisi",
+    "Naomi Carey",
+    "Stanislas Pamela",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SGg5SSZGu2",
+   "pdf_url": "https://openreview.net/pdf?id=SGg5SSZGu2"
+  },
+  {
+   "title": "A Joint Space-Time Encoder for Geographic Time-Series Data",
+   "authors": [
+    "David Mickisch",
+    "Konstantin Klemmer",
+    "Mélisande Teng",
+    "David Rolnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BrsPVXO6f5",
+   "pdf_url": "https://openreview.net/pdf?id=BrsPVXO6f5"
+  },
+  {
+   "title": "AdS-GNN - a Conformally Equivariant Graph Neural Network",
+   "authors": [
+    "Maksim Zhdanov",
+    "Nabil Iqbal",
+    "Erik J Bekkers",
+    "Patrick Forré"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8aTDqamK5u",
+   "pdf_url": "https://openreview.net/pdf?id=8aTDqamK5u"
+  },
+  {
+   "title": "An Property-prompted Multi-scale Data Augmentation Approach for Crystal Representation",
+   "authors": [
+    "Zhongyi Deng",
+    "Shuzhou LI",
+    "Tong Zhang",
+    "C. L. Philip Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iPoX2qIJaj",
+   "pdf_url": "https://openreview.net/pdf?id=iPoX2qIJaj"
+  },
+  {
+   "title": "Analysis of Neural ODE Performance in Long-term PDE Sequence Modeling",
+   "authors": [
+    "Fang Sun",
+    "Maxwell Dalton",
+    "Yizhou Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rnxAKI2kRD",
+   "pdf_url": "https://openreview.net/pdf?id=rnxAKI2kRD"
+  },
+  {
+   "title": "Boosting Protein Graph Representations through Static-Dynamic Fusion",
+   "authors": [
+    "Pengkang Guo",
+    "Bruno Correia",
+    "Pierre Vandergheynst",
+    "Daniel Probst"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MByFkdS8SI",
+   "pdf_url": "https://openreview.net/pdf?id=MByFkdS8SI"
+  },
+  {
+   "title": "Compute-Adaptive Surrogate Modeling of Partial Differential Equations",
+   "authors": [
+    "Payel Mukhopadhyay",
+    "Michael McCabe",
+    "Ruben Ohana",
+    "Miles Cranmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YM3koX4nHp",
+   "pdf_url": "https://openreview.net/pdf?id=YM3koX4nHp"
+  },
+  {
+   "title": "Connecting Scales: Learning Dynamics for Efficient Ionic Conductivity Predictions with Graphs",
+   "authors": [
+    "Volha Turchyna",
+    "Artem Maevskiy",
+    "Alexandra Carvalho",
+    "Andrey E Ustyuzhanin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=02VgrmjZwd",
+   "pdf_url": "https://openreview.net/pdf?id=02VgrmjZwd"
+  },
+  {
+   "title": "DoMiNO: Down-scaling Molecular Dynamics with Neural Graph Ordinary Differential Equations",
+   "authors": [
+    "Fang Sun",
+    "Zijie Huang",
+    "Yadi Cao",
+    "Xiao Luo",
+    "Wei Wang",
+    "Yizhou Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T86jIuSi5A",
+   "pdf_url": "https://openreview.net/pdf?id=T86jIuSi5A"
+  },
+  {
+   "title": "Exploring Thermodynamic Behavior of Spin Glasses with Machine Learning",
+   "authors": [
+    "Vitalii Kapitan",
+    "Dmitrii Kapitan",
+    "Petr Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WPj94Xn1qx",
+   "pdf_url": "https://openreview.net/pdf?id=WPj94Xn1qx"
+  },
+  {
+   "title": "Flow Domain Parameterization and Training of Generalized Physics-Informed Neural Networks for Solving Navier-Stokes Equations",
+   "authors": [
+    "Ivan Stebakov",
+    "Alexei Kornaev",
+    "Elena Kornaeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xqjs2ideRD",
+   "pdf_url": "https://openreview.net/pdf?id=xqjs2ideRD"
+  },
+  {
+   "title": "FreeFlow: Latent Flow Matching for Free Energy Difference Estimation",
+   "authors": [
+    "Ege Erdogan",
+    "Radoslav Ralev",
+    "Mika Rebensburg",
+    "Céline Marquet",
+    "Leon Klein",
+    "Hannes Stark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VTKPOXKXlx",
+   "pdf_url": "https://openreview.net/pdf?id=VTKPOXKXlx"
+  },
+  {
+   "title": "Generating $\\pi$-Functional Molecules Using STGG+ with Active Learning",
+   "authors": [
+    "Alexia Jolicoeur-Martineau",
+    "Yan Zhang",
+    "Boris Knyazev",
+    "Aristide Baratin",
+    "Cheng-Hao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dGhfVsgs01",
+   "pdf_url": "https://openreview.net/pdf?id=dGhfVsgs01"
+  },
+  {
+   "title": "Generative subgrid-scale modeling",
+   "authors": [
+    "Jiaxi Zhao",
+    "Sohei Arisaka",
+    "Qianxiao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8y57m1AEiQ",
+   "pdf_url": "https://openreview.net/pdf?id=8y57m1AEiQ"
+  },
+  {
+   "title": "Hard-constraining Neumann boundary conditions in physics-informed neural networks via Fourier feature embeddings",
+   "authors": [
+    "Christopher Straub",
+    "Philipp Brendel",
+    "Vlad Medvedev",
+    "Andreas Rosskopf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jKdZsWdRLZ",
+   "pdf_url": "https://openreview.net/pdf?id=jKdZsWdRLZ"
+  },
+  {
+   "title": "Improved Sampling of Diffusion Models in Fluid Dynamics with Tweedie's Formula",
+   "authors": [
+    "Youssef Shehata",
+    "Benjamin Holzschuh",
+    "Nils Thuerey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WNwRteM7H9",
+   "pdf_url": "https://openreview.net/pdf?id=WNwRteM7H9"
+  },
+  {
+   "title": "Leveraging LLM-based sentiment analysis for portfolio allocation with proximal policy optimization",
+   "authors": [
+    "Kemal Kirtac",
+    "Guido Germano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n64e2mKzTg",
+   "pdf_url": "https://openreview.net/pdf?id=n64e2mKzTg"
+  },
+  {
+   "title": "LOGLO-FNO: Efficient Learning of Local and Global Features in Fourier Neural Operators",
+   "authors": [
+    "Marimuthu Kalimuthu",
+    "David Holzmüller",
+    "Mathias Niepert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OCM7OkVg9C",
+   "pdf_url": "https://openreview.net/pdf?id=OCM7OkVg9C"
+  },
+  {
+   "title": "Multi-Scale Modeling of Financial Systems Using Neural Differential Equations: Applications to High-Frequency Trading, Regime Switching, and Portfolio Optimization",
+   "authors": [
+    "Tao Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9niAAZES5o",
+   "pdf_url": "https://openreview.net/pdf?id=9niAAZES5o"
+  },
+  {
+   "title": "NeuralDEM: Real-time Simulation of Industrial Particulate Flows",
+   "authors": [
+    "Benedikt Alkin",
+    "Tobias Kronlachner",
+    "Samuele Papa",
+    "Stefan Pirker",
+    "Thomas Lichtenegger",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w0zlwNHFox",
+   "pdf_url": "https://openreview.net/pdf?id=w0zlwNHFox"
+  },
+  {
+   "title": "On Incorporating Scale into Graph Networks",
+   "authors": [
+    "Christian Koke",
+    "Yuesong Shen",
+    "Abhishek Saroha",
+    "Marvin Eisenberger",
+    "Bastian Rieck",
+    "Michael M. Bronstein",
+    "Daniel Cremers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SRCsyJafgP",
+   "pdf_url": "https://openreview.net/pdf?id=SRCsyJafgP"
+  },
+  {
+   "title": "On Learning Quasi-Lagrangian Turbulence",
+   "authors": [
+    "Artur P. Toshev",
+    "Teodor Kalinov",
+    "Nicholas Gao",
+    "Stephan Günnemann",
+    "Nikolaus A. Adams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R1Lrk1EffC",
+   "pdf_url": "https://openreview.net/pdf?id=R1Lrk1EffC"
+  },
+  {
+   "title": "Physics-Transfer Learning: A Framework to Address the Accuracy-Performance Dilemma in Modeling Morphological Complexities in Brain Development",
+   "authors": [
+    "Yingjie Zhao",
+    "Zhiping Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lRVhXYoKQ7",
+   "pdf_url": "https://openreview.net/pdf?id=lRVhXYoKQ7"
+  },
+  {
+   "title": "PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations",
+   "authors": [
+    "Sazan Mahbub",
+    "Souvik Kundu",
+    "Eric P. Xing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3pj6salA3Y",
+   "pdf_url": "https://openreview.net/pdf?id=3pj6salA3Y"
+  },
+  {
+   "title": "Scalable and Efficient Multi-Weather Classification for Autonomous Driving with Coresets, Pruning, and Resolution Scaling",
+   "authors": [
+    "Tushar Shinde",
+    "AVINASH KUMAR SHARMA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xnHjZt21BS",
+   "pdf_url": "https://openreview.net/pdf?id=xnHjZt21BS"
+  },
+  {
+   "title": "Scaling Dynamic Mode Decomposition For Real Time Analysis Of Infant Movements",
+   "authors": [
+    "Navya Annapareddy",
+    "Lisa Letzkus",
+    "Santina Zanelli",
+    "Stephen Baek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wzt7hZo82u",
+   "pdf_url": "https://openreview.net/pdf?id=wzt7hZo82u"
+  },
+  {
+   "title": "SpectralFlowNet: Resolution-Invariant Continuous Neural Dynamics for Mesh-Based PDE Modeling",
+   "authors": [
+    "Tianrun Yu",
+    "Fang Sun",
+    "Haixin Wang",
+    "Xiao Luo",
+    "Yizhou Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z3H20lc5tR",
+   "pdf_url": "https://openreview.net/pdf?id=z3H20lc5tR"
+  },
+  {
+   "title": "Symbolic Regression for Learning Scale Transition Equations in Synthetic Fractal Surface Roughness",
+   "authors": [
+    "Aneesh Chatrathi",
+    "Zayan Hasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MjhOqgiDju",
+   "pdf_url": "https://openreview.net/pdf?id=MjhOqgiDju"
+  },
+  {
+   "title": "Towards Interpretable Structure Prediction With Sparse Autoencoders",
+   "authors": [
+    "Nithin Parsan",
+    "David J Yang",
+    "John Jingxuan Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i8vGPXrDMa",
+   "pdf_url": "https://openreview.net/pdf?id=i8vGPXrDMa"
+  },
+  {
+   "title": "Unifying Renormalization with Markov Categories",
+   "authors": [
+    "Paolo Perrone",
+    "Andrey E Ustyuzhanin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ck3vM17ckg",
+   "pdf_url": "https://openreview.net/pdf?id=ck3vM17ckg"
+  },
+  {
+   "title": "UPT++: Latent Point Set Neural Operators for Modeling System State Transitions",
+   "authors": [
+    "Andreas Fürst",
+    "Florian Sestak",
+    "Artur P. Toshev",
+    "Benedikt Alkin",
+    "Nikolaus A. Adams",
+    "Andreas Mayr",
+    "Günter Klambauer",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u3sEGcYyqw",
+   "pdf_url": "https://openreview.net/pdf?id=u3sEGcYyqw"
+  },
+  {
+   "title": "ViNE-GATr: scaling geometric algebra transformers with virtual nodes embeddings",
+   "authors": [
+    "Julian Suk",
+    "Thomas Hehn",
+    "Arash Behboodi",
+    "Gabriele Cesa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eb7fQBdA3D",
+   "pdf_url": "https://openreview.net/pdf?id=Eb7fQBdA3D"
+  },
+  {
+   "title": "When is Bayesian Optimization Beneficial? A Critical Assessment of Optimization Strategies in High-Throughput Organic Photovoltaic Manufacturing",
+   "authors": [
+    "Matthew Osvaldo",
+    "Leonard Ng Wei Tat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CvFc81LQcE",
+   "pdf_url": "https://openreview.net/pdf?id=CvFc81LQcE"
+  }
+ ]
+}

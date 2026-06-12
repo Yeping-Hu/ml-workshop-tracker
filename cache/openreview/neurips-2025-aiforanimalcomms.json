@@ -1,0 +1,463 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/AiForAnimalComms",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:26.804Z",
+ "paper_count": 40,
+ "papers": [
+  {
+   "title": "A Functionalist Framework for Machine Learning in Animal Communication",
+   "authors": [
+    "Jack Terwilliger",
+    "Stephan Paul Kaufhold",
+    "Federico Rossano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XL57eyLpGt",
+   "pdf_url": "https://openreview.net/pdf?id=XL57eyLpGt"
+  },
+  {
+   "title": "A Practical Audio Preprocessing Approach for Multi-Species Sound Classification",
+   "authors": [
+    "Juan J. Diaz",
+    "Santiago J. Vargas",
+    "Isabella Bermón",
+    "Maria J. Guerrero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gHz2BnluA1",
+   "pdf_url": "https://openreview.net/pdf?id=gHz2BnluA1"
+  },
+  {
+   "title": "A Whisker of Truth: A Multimodal Interdisciplinary Machine Learning Approach to Vocal, Visual, and Tactile Signals in the Domestic Cat",
+   "authors": [
+    "Astrid van Toor",
+    "Elin N Hirsch",
+    "Susanne Schötz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HIkzPhD0Zo",
+   "pdf_url": "https://openreview.net/pdf?id=HIkzPhD0Zo"
+  },
+  {
+   "title": "AI Decodes Chimpanzee Vocabulary Items",
+   "authors": [
+    "Antoine Valet",
+    "Quentin Bacquelé",
+    "Cedric Girard-Buttoz",
+    "Roman M. Wittig",
+    "Catherine Crockford"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jf9ri0CDFv",
+   "pdf_url": "https://openreview.net/pdf?id=Jf9ri0CDFv"
+  },
+  {
+   "title": "AI for Animal Pain Assessment: a New Challenge for Bioacoustics",
+   "authors": [
+    "George Martvel",
+    "Annika Bremhorst",
+    "Mayara Travalini de Lima",
+    "Stelio Pacca Loureiro Luna",
+    "Anna Zamansky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nu9OBvITC9",
+   "pdf_url": "https://openreview.net/pdf?id=Nu9OBvITC9"
+  },
+  {
+   "title": "An Expert-in-the-Loop Toolbox for Explainable AI in Animal Communication",
+   "authors": [
+    "Álvaro Vega-Hidalgo",
+    "Artem Abzaliev",
+    "Nicole Guisneuf",
+    "Thore Bergman",
+    "Rada Mihalcea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vNitoOWAA7",
+   "pdf_url": "https://openreview.net/pdf?id=vNitoOWAA7"
+  },
+  {
+   "title": "Associative Syntax and Maximal Repetitions reveal context-dependent complexity in fruit bat communication",
+   "authors": [
+    "Luigi Assom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TaIbSlJUIq",
+   "pdf_url": "https://openreview.net/pdf?id=TaIbSlJUIq"
+  },
+  {
+   "title": "AudioSAM: Automated Annotation of Bioacoustic Soundscapes in the Wild",
+   "authors": [
+    "Zachary Baker",
+    "Reece S Shuttleworth",
+    "Daniela Rus",
+    "Antonio Torralba",
+    "Jacob Andreas",
+    "Pratyusha Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CyzaJbK0eB",
+   "pdf_url": "https://openreview.net/pdf?id=CyzaJbK0eB"
+  },
+  {
+   "title": "Beyond Species-Based Assessments: Automatic Acoustic Recognition of Pollinator Function",
+   "authors": [
+    "Alef Iury Siqueira Ferreira",
+    "José Mesquita-Neto",
+    "NÁDIA FÉLIX FELIPE DA SILVA",
+    "Thierson Couto Rosa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R2JtZGHUVK",
+   "pdf_url": "https://openreview.net/pdf?id=R2JtZGHUVK"
+  },
+  {
+   "title": "BirdAVES in the wild: individual recognition as a step toward zebra finch communication networks",
+   "authors": [
+    "Aneesh Chauhan",
+    "Hugo Loning",
+    "Evelien ter Avest",
+    "Bhavya Botta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZwmSI23i3i",
+   "pdf_url": "https://openreview.net/pdf?id=ZwmSI23i3i"
+  },
+  {
+   "title": "CHAT Jr: Wearable Bioacoustics System For Two-Way Communication Research Between Humans and Cetaceans",
+   "authors": [
+    "Charles Ramey",
+    "Thad Starner",
+    "Mark Hamilton",
+    "Denise L Herzing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fhY2s9OIl9",
+   "pdf_url": "https://openreview.net/pdf?id=fhY2s9OIl9"
+  },
+  {
+   "title": "Decoding gray wolf (Canis lupus) communication at scale in Yellowstone National Park",
+   "authors": [
+    "Amir Dehbi",
+    "Daniel Stahler",
+    "Matthew C. Metz",
+    "Kira A Cassidy",
+    "Jeffrey T Reed",
+    "Jeremy SunderRaj",
+    "Taylor L. Rabe",
+    "Brett Melbourne",
+    "Joanna E. Lambert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=44am2XZGau",
+   "pdf_url": "https://openreview.net/pdf?id=44am2XZGau"
+  },
+  {
+   "title": "Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations",
+   "authors": [
+    "Chiara Semenzin",
+    "Faadil Mustun",
+    "Roberto Dessi",
+    "Pierre Orhan",
+    "Gonzalo G. de Polavieja",
+    "Yair Lakretz",
+    "German Sumbre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qaneUhFQHA",
+   "pdf_url": "https://openreview.net/pdf?id=qaneUhFQHA"
+  },
+  {
+   "title": "Fear-Driven Collective Topology: Comparing Smart-Boid Vietoris–Rips Graphs to Animal Communication Networks via Persistent Features",
+   "authors": [
+    "Guilherme S. Y. Giardini",
+    "Carlo R. da Cunha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JEc4iapjyf",
+   "pdf_url": "https://openreview.net/pdf?id=JEc4iapjyf"
+  },
+  {
+   "title": "Fighting Poaching Through Targeted Deep Learning and Sensor Integration",
+   "authors": [
+    "Naveen Dhar",
+    "Irina Tolkova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WKJOMxyVxJ",
+   "pdf_url": "https://openreview.net/pdf?id=WKJOMxyVxJ"
+  },
+  {
+   "title": "From Pretrain to Primate: Decoding Chimp Nocturnes for Wellbeing",
+   "authors": [
+    "Lara Narbona Sabaté"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YNNtufpO8o",
+   "pdf_url": "https://openreview.net/pdf?id=YNNtufpO8o"
+  },
+  {
+   "title": "HAC-Net: Learning Natural Units from Acoustic Change",
+   "authors": [
+    "Quentin Bacquelé",
+    "Frederic Theunissen",
+    "Mathevon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VWLd8irCtH",
+   "pdf_url": "https://openreview.net/pdf?id=VWLd8irCtH"
+  },
+  {
+   "title": "Hierarchical Representation Learning of Dog Behavior via Single-View 3D Pose Estimation",
+   "authors": [
+    "Nanako Miyai",
+    "Takatomi Kubo",
+    "Maaya Saito",
+    "Kazunori Ohno",
+    "Takefumi Kikusui",
+    "Miho Nagasawa",
+    "Kazushi Ikeda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDeOoWN4PT",
+   "pdf_url": "https://openreview.net/pdf?id=EDeOoWN4PT"
+  },
+  {
+   "title": "Keypoint Annotation for Electrocommunication Source Separation with PIKAChU and RAIChU",
+   "authors": [
+    "Kaden Zheng",
+    "Sonja Johnson-Yu",
+    "Satpreet Harcharan Singh",
+    "Denis Turcu",
+    "Federico Pedraja",
+    "Pratyusha Sharma",
+    "Naomi Saphra",
+    "Nathaniel Sawtell",
+    "Kanaka Rajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RelIvm178s",
+   "pdf_url": "https://openreview.net/pdf?id=RelIvm178s"
+  },
+  {
+   "title": "Latent state dynamics in female Drosophila during social interactions",
+   "authors": [
+    "Umesh Singla",
+    "Albert Lin",
+    "Jonathan W. Pillow",
+    "Mala Murthy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cfZd3w1SyZ",
+   "pdf_url": "https://openreview.net/pdf?id=cfZd3w1SyZ"
+  },
+  {
+   "title": "Marine Mammals Recognition: a Multi-Modal Framework for Bioacoustic Monitoring",
+   "authors": [
+    "Amine Razig",
+    "Soulaymani Youssef",
+    "Loubna Benabbou",
+    "Pierre Cauchy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L3uLMA5OqJ",
+   "pdf_url": "https://openreview.net/pdf?id=L3uLMA5OqJ"
+  },
+  {
+   "title": "Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models",
+   "authors": [
+    "Davide Marincione",
+    "Donato Crisostomi",
+    "Roberto Dessi",
+    "Emanuele Rodolà",
+    "Emanuele Rossi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8YmupGWwvl",
+   "pdf_url": "https://openreview.net/pdf?id=8YmupGWwvl"
+  },
+  {
+   "title": "Pawgaze: A Benchmark for Fine-Grained Multimodal Analysis of Canine Behavior",
+   "authors": [
+    "Khush Attarde",
+    "Divye Bhutani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6DxxI05WSk",
+   "pdf_url": "https://openreview.net/pdf?id=6DxxI05WSk"
+  },
+  {
+   "title": "Perch 2.0 transfers 'whale' to underwater tasks",
+   "authors": [
+    "Andrea Burns",
+    "Lauren Harrell",
+    "Bart van Merriënboer",
+    "Vincent Dumoulin",
+    "Jenny Hamer",
+    "tom denton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xmZpX2ZWn2",
+   "pdf_url": "https://openreview.net/pdf?id=xmZpX2ZWn2"
+  },
+  {
+   "title": "PrimateFace: A Machine Learning Resource for Automated Face Analysis in Human and Non-human Primates",
+   "authors": [
+    "Felipe Parodi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZL3tdxRw6u",
+   "pdf_url": "https://openreview.net/pdf?id=ZL3tdxRw6u"
+  },
+  {
+   "title": "Proposal: Deciphering Electrocommunication with MARL and Unsupervised Machine Translation",
+   "authors": [
+    "Satpreet Harcharan Singh",
+    "Sonja Johnson-Yu",
+    "Zhouyang Lu",
+    "Aaron Walsman",
+    "Federico Pedraja",
+    "Denis Turcu",
+    "Pratyusha Sharma",
+    "Naomi Saphra",
+    "Nathaniel Sawtell",
+    "Kanaka Rajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=253mXeGo9Z",
+   "pdf_url": "https://openreview.net/pdf?id=253mXeGo9Z"
+  },
+  {
+   "title": "QuadForecaster: Diffusion-Based Quadruped Pose Prediction for Animal Communication Analysis",
+   "authors": [
+    "Ian Noronha",
+    "Aneeq Chowdhury",
+    "Saru Bharti",
+    "Upinder Kaur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tqSRcqCpqJ",
+   "pdf_url": "https://openreview.net/pdf?id=tqSRcqCpqJ"
+  },
+  {
+   "title": "Redefining Intelligence: From Anthropocentric to Relational AI-Species Communication",
+   "authors": [
+    "Kerri Lake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PUOlM3KJXD",
+   "pdf_url": "https://openreview.net/pdf?id=PUOlM3KJXD"
+  },
+  {
+   "title": "Retrieval-Augmented Bioacoustics: Evidence-Guided Generation for Animal Communication",
+   "authors": [
+    "Bodhisatta Maiti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EQfm21UVcw",
+   "pdf_url": "https://openreview.net/pdf?id=EQfm21UVcw"
+  },
+  {
+   "title": "Robust detection of overlapping bioacoustic sound events",
+   "authors": [
+    "Louis Mahon",
+    "Benjamin Hoffman",
+    "Logan S. James",
+    "Maddie Cusimano",
+    "Masato Hagiwara",
+    "Sarah C. Woolley",
+    "Felix Effenberger",
+    "Sara Keen",
+    "Jen-Yu Liu",
+    "Olivier Pietquin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b7x4CtWynM",
+   "pdf_url": "https://openreview.net/pdf?id=b7x4CtWynM"
+  },
+  {
+   "title": "Scaling Frog Monitoring with FrogID: A Robust Classification Pipeline for Citizen Science Using Bioacoustic Foundation Models",
+   "authors": [
+    "Julia Tan",
+    "Jodi J. L. Rowley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a6kSegAbO4",
+   "pdf_url": "https://openreview.net/pdf?id=a6kSegAbO4"
+  },
+  {
+   "title": "SongMAE: Fine-Grained Syllable Discovery in Birdsong Using Asymmetric Patches",
+   "authors": [
+    "George Vengrovski",
+    "Timothy J Gardner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8mluzLyvyV",
+   "pdf_url": "https://openreview.net/pdf?id=8mluzLyvyV"
+  },
+  {
+   "title": "Soundscape Connectomes: Unsupervised Graph-Based Approach for Soundscape Mapping",
+   "authors": [
+    "Maria J. Guerrero",
+    "Aref Einizade",
+    "Jhony H. Giraldo",
+    "Victor M. Martinez-Arias",
+    "Claudia Isaza",
+    "Cesar A Uribe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YofxQ71vqK",
+   "pdf_url": "https://openreview.net/pdf?id=YofxQ71vqK"
+  },
+  {
+   "title": "The Double Contingency Problem: AI Recursion and the Limits of Interspecies Understanding",
+   "authors": [
+    "Graham L. Bishop"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4lF9EMRrV",
+   "pdf_url": "https://openreview.net/pdf?id=k4lF9EMRrV"
+  },
+  {
+   "title": "The responsible media representation of artificial intelligence for non-human animal communication",
+   "authors": [
+    "Caatje Kluskens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WJEObsq4rR",
+   "pdf_url": "https://openreview.net/pdf?id=WJEObsq4rR"
+  },
+  {
+   "title": "Toward Multimodal Models of Animal Communication: Insights from New York City Rats",
+   "authors": [
+    "Ralph E Peterson",
+    "Dmitry Batenkov",
+    "Ahmed El Hady",
+    "Emily L Mackevicius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=onM61AVQd1",
+   "pdf_url": "https://openreview.net/pdf?id=onM61AVQd1"
+  },
+  {
+   "title": "Toward Visualization of EEG Signatures for Anomaly Detection in Dogs Using CEBRA",
+   "authors": [
+    "Natsuna Ishida",
+    "Takatomi Kubo",
+    "Hitomi Koike",
+    "Yuki Maruno",
+    "Maaya Saito",
+    "Kazunori Ohno",
+    "Toshitaka Yamakawa",
+    "Takefumi Kikusui",
+    "Miho Nagasawa",
+    "Yuichi Sakumura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gZk0QkPEk1",
+   "pdf_url": "https://openreview.net/pdf?id=gZk0QkPEk1"
+  },
+  {
+   "title": "Towards Leveraging Sequential Structure in Animal Vocalizations",
+   "authors": [
+    "Eklavya Sarkar",
+    "Mathew Magimai Doss"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a8sQqweMIM",
+   "pdf_url": "https://openreview.net/pdf?id=a8sQqweMIM"
+  },
+  {
+   "title": "Understanding Electro-communication and Electro-sensing in Weakly Electric Fish using Multi-Agent Deep Reinforcement Learning",
+   "authors": [
+    "Satpreet Harcharan Singh",
+    "Sonja Johnson-Yu",
+    "Zhouyang Lu",
+    "Aaron Walsman",
+    "Federico Pedraja",
+    "Denis Turcu",
+    "Pratyusha Sharma",
+    "Naomi Saphra",
+    "Nathaniel Sawtell",
+    "Kanaka Rajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cE07Ac7UWx",
+   "pdf_url": "https://openreview.net/pdf?id=cE07Ac7UWx"
+  },
+  {
+   "title": "WhaleLM: Finding Structure and Information in Sperm Whale Vocalizations and Behavior with Machine Learning",
+   "authors": [
+    "Pratyusha Sharma",
+    "Shane Gero",
+    "Daniela Rus",
+    "Antonio Torralba",
+    "Jacob Andreas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ppCEqgYXHd",
+   "pdf_url": "https://openreview.net/pdf?id=ppCEqgYXHd"
+  }
+ ]
+}

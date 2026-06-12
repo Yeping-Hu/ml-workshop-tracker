@@ -1,0 +1,439 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/NFAM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:30.187Z",
+ "paper_count": 42,
+ "papers": [
+  {
+   "title": "A Dynamical Theory of Sequential Retrieval in Input-Driven Hopfield Networks",
+   "authors": [
+    "Simone Betteti",
+    "Sandro Zampieri",
+    "Giacomo Baggio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X811CUPqD6",
+   "pdf_url": "https://openreview.net/pdf?id=X811CUPqD6"
+  },
+  {
+   "title": "Adaptive Associative Memory with Differentiable Content-Addressable Memories for Online Learning",
+   "authors": [
+    "Sara Ameli",
+    "Ming-Jay Yang",
+    "Rishabh Mallik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Ne3hwJU2r",
+   "pdf_url": "https://openreview.net/pdf?id=4Ne3hwJU2r"
+  },
+  {
+   "title": "Algorithmic Analysis of Dense Associative Memory: Finite-Size Guarantees and Adversarial Robustness",
+   "authors": [
+    "Madhava Gaikwad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zgHAqaIybd",
+   "pdf_url": "https://openreview.net/pdf?id=zgHAqaIybd"
+  },
+  {
+   "title": "ASSOCIATIVE RETRIEVAL AS TEST-TIME OPTIMIZATION IN TRANSFORMER ATTENTION",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xTXErvFOFi",
+   "pdf_url": "https://openreview.net/pdf?id=xTXErvFOFi"
+  },
+  {
+   "title": "Boltzmann Routing for Energy-Compatible Mixture of Experts",
+   "authors": [
+    "Bharat Runwal",
+    "Bishwajit Saha",
+    "Benjamin Hoover",
+    "Mauro Martino",
+    "Nima Dehmamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PBlxeaUNoN",
+   "pdf_url": "https://openreview.net/pdf?id=PBlxeaUNoN"
+  },
+  {
+   "title": "Can Local Energy Geometry Predict Per-Pattern Retrieval Reliability in Dense Associative Memories?",
+   "authors": [
+    "Tatiana Petrova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D2dgy6pUt3",
+   "pdf_url": "https://openreview.net/pdf?id=D2dgy6pUt3"
+  },
+  {
+   "title": "Continuous-Time Heteroassociative Memory at Biological Timescales",
+   "authors": [
+    "Marc Gong Bacvanski",
+    "Liu Ziyin",
+    "Tomaso Poggio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WT2v0CXxp1",
+   "pdf_url": "https://openreview.net/pdf?id=WT2v0CXxp1"
+  },
+  {
+   "title": "Deep Neural Networks as Finite-Step Hopfield Dynamics",
+   "authors": [
+    "Wooyul Jung",
+    "Hochan Bang",
+    "HEE BIN YOO",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bH0myuWvhJ",
+   "pdf_url": "https://openreview.net/pdf?id=bH0myuWvhJ"
+  },
+  {
+   "title": "Dense Associative Memories with Analog Circuits",
+   "authors": [
+    "Marc Gong Bacvanski",
+    "Xincheng You",
+    "Dmitry Krotov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDjAhKmFue",
+   "pdf_url": "https://openreview.net/pdf?id=JDjAhKmFue"
+  },
+  {
+   "title": "Dense Associative Memory for Gaussian Distributions",
+   "authors": [
+    "Chandan Tankala",
+    "Krishna Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kxnh3djvGg",
+   "pdf_url": "https://openreview.net/pdf?id=kxnh3djvGg"
+  },
+  {
+   "title": "Dyadic Learning in Asymmetric ConvNets",
+   "authors": [
+    "Timothy Nest",
+    "Rasmus Høier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dDVTnPiTeU",
+   "pdf_url": "https://openreview.net/pdf?id=dDVTnPiTeU"
+  },
+  {
+   "title": "Dynamics of modern Hopfield networks",
+   "authors": [
+    "Sofiya Bogakovskaya",
+    "Vladimir Fanaskov",
+    "Ivan Oseledets"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MX33SHXoVA",
+   "pdf_url": "https://openreview.net/pdf?id=MX33SHXoVA"
+  },
+  {
+   "title": "Energy Landscapes of Truthfulness in LLM Attention",
+   "authors": [
+    "Sohum Mehta",
+    "Shiv Narayan Rai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UxaBq8xlSN",
+   "pdf_url": "https://openreview.net/pdf?id=UxaBq8xlSN"
+  },
+  {
+   "title": "Energy Minimization for Training Dense Associative Memory",
+   "authors": [
+    "Bao Pham",
+    "Benjamin Hoover",
+    "Dmitry Krotov",
+    "Parikshit Ram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d7PjRsguov",
+   "pdf_url": "https://openreview.net/pdf?id=d7PjRsguov"
+  },
+  {
+   "title": "EnergyMap: Unraveling the Data Manifold with Energy-based Dimensionality Reduction",
+   "authors": [
+    "Alec Helbling",
+    "Parikshit Ram",
+    "Duen Horng Chau",
+    "Benjamin Hoover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j54THG4KAY",
+   "pdf_url": "https://openreview.net/pdf?id=j54THG4KAY"
+  },
+  {
+   "title": "Extending LLM Context via Associative Recurrent Memory",
+   "authors": [
+    "Gleb Kuzmin",
+    "Ivan Rodkin",
+    "Aydar Bulatov",
+    "Yuri Kuratov",
+    "Timothy Baldwin",
+    "Mikhail Burtsev",
+    "Artem Shelmanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cWVbffpjs7",
+   "pdf_url": "https://openreview.net/pdf?id=cWVbffpjs7"
+  },
+  {
+   "title": "Generative Associative Memory via Equilibrium Matching",
+   "authors": [
+    "Adrian Rodriguez",
+    "Benjamin Hoover",
+    "Yunhui Guo",
+    "Yilun Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4zjhUaeeVh",
+   "pdf_url": "https://openreview.net/pdf?id=4zjhUaeeVh"
+  },
+  {
+   "title": "GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent",
+   "authors": [
+    "Yuri Kuratov",
+    "Matvey Kairov",
+    "Aydar Bulatov",
+    "Ivan Rodkin",
+    "Mikhail Burtsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wdzhnmu5HR",
+   "pdf_url": "https://openreview.net/pdf?id=Wdzhnmu5HR"
+  },
+  {
+   "title": "Graph Hopfield Networks: Energy-Based Node Classification with Associative Memory",
+   "authors": [
+    "Alex Wa",
+    "Abinav Rao",
+    "Rishi Athavale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tsgIXDPJsG",
+   "pdf_url": "https://openreview.net/pdf?id=tsgIXDPJsG"
+  },
+  {
+   "title": "Interdomain Attention: Beyond Token-Level Key-Value Memory",
+   "authors": [
+    "Naoki Kiyohara",
+    "Harrison Bo Hua Zhu",
+    "Zhuo Sun",
+    "Wenlong Chen",
+    "Samir Bhatt",
+    "Yingzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xt4I0u9I3I",
+   "pdf_url": "https://openreview.net/pdf?id=Xt4I0u9I3I"
+  },
+  {
+   "title": "Intrinsic Dense Associative Memory on Riemannian Manifolds",
+   "authors": [
+    "Zhaoyang Shi",
+    "Krishna Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=La6U6rhHHW",
+   "pdf_url": "https://openreview.net/pdf?id=La6U6rhHHW"
+  },
+  {
+   "title": "Language Diffusion Models are Associative Memories",
+   "authors": [
+    "Bao Pham",
+    "Mohammed J Zaki",
+    "Luca Ambrogioni",
+    "Dmitry Krotov",
+    "Matteo Negri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=clox4oocVq",
+   "pdf_url": "https://openreview.net/pdf?id=clox4oocVq"
+  },
+  {
+   "title": "Learning to learn dynamical associations with reward-gated local plasticity",
+   "authors": [
+    "Dimitra Maoutsa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OU88F8Q4u1",
+   "pdf_url": "https://openreview.net/pdf?id=OU88F8Q4u1"
+  },
+  {
+   "title": "Mixture of Chapters: Scaling Learnt Memory in Transformers",
+   "authors": [
+    "Tasmay Pankaj Tibrewal",
+    "Pritish Saha",
+    "Ankit Meda",
+    "Kunal Singh",
+    "Pradeep Moturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uwnwGYICWe",
+   "pdf_url": "https://openreview.net/pdf?id=uwnwGYICWe"
+  },
+  {
+   "title": "On low-dimensional representations and associative memory energy functions",
+   "authors": [
+    "David Lipshutz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9fvoOb0BOB",
+   "pdf_url": null
+  },
+  {
+   "title": "Optimizing Remasking Schedules for Reasoning in Discrete Diffusion Models",
+   "authors": [
+    "Radostin Cholakov",
+    "Zeyneb N. Kaya",
+    "Nicole H. Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RiFPrkgX8A",
+   "pdf_url": "https://openreview.net/pdf?id=RiFPrkgX8A"
+  },
+  {
+   "title": "Parallel Manifold Steering: Efficient Adaptation of Large Associative Memories via Residual Energy Shaping",
+   "authors": [
+    "KANISHK AWADHIYA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0uSmDq6jf",
+   "pdf_url": "https://openreview.net/pdf?id=m0uSmDq6jf"
+  },
+  {
+   "title": "Plan-Aware Automated Context Engineering",
+   "authors": [
+    "Kamer Ali Yuksel",
+    "Hassan Sawaf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WrgtPmUNtn",
+   "pdf_url": "https://openreview.net/pdf?id=WrgtPmUNtn"
+  },
+  {
+   "title": "Power-law feature statistics explain test reconstruction gaps in Associative Memories",
+   "authors": [
+    "Sergio E.G. Manfrin",
+    "Francesco D'Amico",
+    "Marco Gherardi",
+    "Aurélien Decelle",
+    "Beatriz Seoane",
+    "Matteo Negri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VBh4XVrfQq",
+   "pdf_url": "https://openreview.net/pdf?id=VBh4XVrfQq"
+  },
+  {
+   "title": "Reasoning as Attractor Dynamics: Latent Memory Retrieval via Gibbs-Weighted Energy Minimization",
+   "authors": [
+    "KANISHK AWADHIYA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=STEe5pHgVw",
+   "pdf_url": "https://openreview.net/pdf?id=STEe5pHgVw"
+  },
+  {
+   "title": "Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion",
+   "authors": [
+    "Sonia Laguna",
+    "Jorge da Silva Gonçalves",
+    "Moritz Vandenhirtz",
+    "Alain Ryser",
+    "Irene Cannistraci",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PZ0ERnmVUu",
+   "pdf_url": "https://openreview.net/pdf?id=PZ0ERnmVUu"
+  },
+  {
+   "title": "Sharp storage capacity of a simplified model of linear associative memory",
+   "authors": [
+    "Alessio Giorlandino",
+    "Sebastian Goldt",
+    "Antoine Maillard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zXMvCvXYE0",
+   "pdf_url": "https://openreview.net/pdf?id=zXMvCvXYE0"
+  },
+  {
+   "title": "Sinkhorn based Associative Memory retrieval using Spherical Hellinger Kantorovich dynamics",
+   "authors": [
+    "Aratrika Mustafi",
+    "Soumya Mukherjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sm2Y7PQbYh",
+   "pdf_url": "https://openreview.net/pdf?id=Sm2Y7PQbYh"
+  },
+  {
+   "title": "Sparse Associative Memories Through the Lens of Compact Kernel Regression",
+   "authors": [
+    "Saul Santos",
+    "Nuno Gonçalves",
+    "Daniel C McNamee",
+    "Marcos Vinicius Treviso",
+    "Andre Martins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8AGVhVFKsk",
+   "pdf_url": "https://openreview.net/pdf?id=8AGVhVFKsk"
+  },
+  {
+   "title": "TACE: Token-Aware Chunked Encoding",
+   "authors": [
+    "Parkirat Sandhu",
+    "Henry Ndubuaku",
+    "Karen Mosoyan",
+    "Satyajit Kumar",
+    "Justin Lee",
+    "Noah Cylich",
+    "Jakub Mroz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yUIOXlBYtP",
+   "pdf_url": "https://openreview.net/pdf?id=yUIOXlBYtP"
+  },
+  {
+   "title": "The Key to State Reduction in Linear Attention: A Rank-based Perspective",
+   "authors": [
+    "Philipp Nazari",
+    "T. Konstantin Rusch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GfjoMXfaXq",
+   "pdf_url": "https://openreview.net/pdf?id=GfjoMXfaXq"
+  },
+  {
+   "title": "Thermal Robustness of Retrieval in Dense Associative Memories: LSE vs LSR Kernels",
+   "authors": [
+    "Tatiana Petrova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w3TY2aUyw8",
+   "pdf_url": "https://openreview.net/pdf?id=w3TY2aUyw8"
+  },
+  {
+   "title": "Thermodynamic Binding: Freezing Chimeric States in Multi-Modal Associative Memories",
+   "authors": [
+    "Elena Agliari",
+    "Adriano Barra",
+    "Andrea Ladiana",
+    "Andrea Lepre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZTnAvMRFyU",
+   "pdf_url": "https://openreview.net/pdf?id=ZTnAvMRFyU"
+  },
+  {
+   "title": "To Keep or to Forget: Toward Context-Sensitive Memory in Large Language Models",
+   "authors": [
+    "Noor Ul Zain",
+    "Ahsan Adeel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U0gGXpSqJ8",
+   "pdf_url": "https://openreview.net/pdf?id=U0gGXpSqJ8"
+  },
+  {
+   "title": "Towards Context-Based Retrieval in Associative Memories",
+   "authors": [
+    "Moulik Choraria",
+    "Argyrios Gerogiannis",
+    "Vidhata Jayaraman",
+    "Ankur Mani",
+    "Lav R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BuiIBO4Mmr",
+   "pdf_url": "https://openreview.net/pdf?id=BuiIBO4Mmr"
+  },
+  {
+   "title": "Training a Convergent Energy Transformer with Equilibrium Propagation",
+   "authors": [
+    "Rasmus Høier",
+    "Tugdual Kerjan",
+    "Benjamin Scellier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qrfml76eWJ",
+   "pdf_url": "https://openreview.net/pdf?id=Qrfml76eWJ"
+  },
+  {
+   "title": "When Memories Collide: Associative Interference Dynamics in Lifelong Agent Memory",
+   "authors": [
+    "Zhaoxiang Feng",
+    "Mingyang Yao",
+    "David Scott Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y7r5ZODl7l",
+   "pdf_url": "https://openreview.net/pdf?id=Y7r5ZODl7l"
+  }
+ ]
+}

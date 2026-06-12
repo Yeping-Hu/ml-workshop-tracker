@@ -1,0 +1,572 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/UrbanAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:25.516Z",
+ "paper_count": 54,
+ "papers": [
+  {
+   "title": "A Glass-Box AI Framework for Predicting and Explaining Urban Solar Energy Generation",
+   "authors": [
+    "Yumin Zhou",
+    "Whye Loon Tung",
+    "Hiok Quek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9sceaEvxIr",
+   "pdf_url": "https://openreview.net/pdf?id=9sceaEvxIr"
+  },
+  {
+   "title": "A Knowledge-Based Framework for Urban Event Detection via Temporal Knowledge Graphs and Large Language Models",
+   "authors": [
+    "Aleksandr Antonov",
+    "Liubov Tupikina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x1V08cXHdu",
+   "pdf_url": "https://openreview.net/pdf?id=x1V08cXHdu"
+  },
+  {
+   "title": "A scalable and transferable approach for spatio-temporal indoor air temperature forecasting in multi-zone buildings exploiting knowledge graph contextual information",
+   "authors": [
+    "Rocco Giudice"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WiQIvokAfm",
+   "pdf_url": "https://openreview.net/pdf?id=WiQIvokAfm"
+  },
+  {
+   "title": "A Two-Stage Hierarchical Optimization framework for Efficient Generative Urban Design",
+   "authors": [
+    "Xiao Hu",
+    "Dayi Lai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QwxZCUkxzT",
+   "pdf_url": "https://openreview.net/pdf?id=QwxZCUkxzT"
+  },
+  {
+   "title": "Advancing Building Autonomy with LLM-Based Fault Detection and Preventive Maintenance",
+   "authors": [
+    "Sagar Sudhakara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6duZh6rQhI",
+   "pdf_url": "https://openreview.net/pdf?id=6duZh6rQhI"
+  },
+  {
+   "title": "AutoDrive-QA: A Multiple-Choice Benchmark for  Vision–Language Evaluation in Urban Autonomous  Driving",
+   "authors": [
+    "Boshra Khalili",
+    "Andrew Smyth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AlSZwZ0qms",
+   "pdf_url": "https://openreview.net/pdf?id=AlSZwZ0qms"
+  },
+  {
+   "title": "Beyond Shortest Path: Agentic Vehicular Routing with Semantic Context",
+   "authors": [
+    "Carnot Braun",
+    "Rafael O. Jarczewski",
+    "Gabriel Ukstin Talasso",
+    "Leandro Aparecido Villas",
+    "Allan M. de Souza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PyX0wkuuLH",
+   "pdf_url": "https://openreview.net/pdf?id=PyX0wkuuLH"
+  },
+  {
+   "title": "CoolShift: Lightweight modeling of building cooling demand with causal machine learning",
+   "authors": [
+    "Tong Xiao",
+    "Peng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RUWNdUWcBw",
+   "pdf_url": "https://openreview.net/pdf?id=RUWNdUWcBw"
+  },
+  {
+   "title": "CoSSA: Correlation-Structure Shift Adapter for Cross-City Urban Forecasting",
+   "authors": [
+    "Md Muntaqim Meherab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=596OsHKOpf",
+   "pdf_url": "https://openreview.net/pdf?id=596OsHKOpf"
+  },
+  {
+   "title": "Demographics-Informed Neural Network for Multi-Modal Spatiotemporal Forecasting of Urban Growth and Travel Patterns Using Satellite Imagery",
+   "authors": [
+    "Eugene Kofi Okrah Denteh",
+    "Andrews Danyo",
+    "Joshua Kofi Asamoah",
+    "Blessing Agyei Kyem",
+    "Armstrong Aboah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EhaRCVSE60",
+   "pdf_url": "https://openreview.net/pdf?id=EhaRCVSE60"
+  },
+  {
+   "title": "Duo-View Pedestrian Behavior Prediction via Multi-modal Cross-Attentive Fusion",
+   "authors": [
+    "Zhengming Zhang",
+    "TAOTAO JING",
+    "Zhengming Ding",
+    "Renran Tian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fuG6cbWxsx",
+   "pdf_url": "https://openreview.net/pdf?id=fuG6cbWxsx"
+  },
+  {
+   "title": "Embedding Building Operation Cycles into Transformer Models for Indoor Temperature Prediction",
+   "authors": [
+    "Shundong Li",
+    "Nan Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VboauTGHf4",
+   "pdf_url": "https://openreview.net/pdf?id=VboauTGHf4"
+  },
+  {
+   "title": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
+   "authors": [
+    "Seyedeh Mobina Noorani",
+    "Shangde Gao",
+    "Changjie Chen",
+    "Karla Saldana Ochoa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bKfHuyeI9L",
+   "pdf_url": "https://openreview.net/pdf?id=bKfHuyeI9L"
+  },
+  {
+   "title": "Enhancing Rural Autonomous Driving Performance with Diffusion-Augmented Synthetic Datasets",
+   "authors": [
+    "Siddharth Arun",
+    "Trisha Panchangmath",
+    "Saanvi Celamkoti",
+    "Vayden Wong",
+    "Charles Duong",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EhAn7Pmjlu",
+   "pdf_url": "https://openreview.net/pdf?id=EhAn7Pmjlu"
+  },
+  {
+   "title": "From Counts to Choice: Choice-Driven Spatial-Temporal Counting Process Models",
+   "authors": [
+    "Chao Yang",
+    "Yiling Kuang",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vLfdDx3DNJ",
+   "pdf_url": "https://openreview.net/pdf?id=vLfdDx3DNJ"
+  },
+  {
+   "title": "From Image Generation to Infrastructure Design: a Multi-agent Pipeline for Street Design Generation",
+   "authors": [
+    "Chenguang Wang",
+    "Xiang Yan",
+    "Yilong Dai",
+    "Ziyi Wang",
+    "Susu Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PUbhyARaen",
+   "pdf_url": "https://openreview.net/pdf?id=PUbhyARaen"
+  },
+  {
+   "title": "From Walled Gardens to Open Streets: A Pipeline for Cross-City Data Harmonization",
+   "authors": [
+    "Sean Hardesty Lewis",
+    "Junfeng Jiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kD8kGUEO1l",
+   "pdf_url": "https://openreview.net/pdf?id=kD8kGUEO1l"
+  },
+  {
+   "title": "Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards",
+   "authors": [
+    "Luis Lara",
+    "ZhiHao Luo",
+    "Aristides Milios",
+    "Aditya Sharma",
+    "Ge Ya Luo",
+    "Christopher Beckham",
+    "Florian Golemo",
+    "Christopher Pal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZMmDwqjQN9",
+   "pdf_url": "https://openreview.net/pdf?id=ZMmDwqjQN9"
+  },
+  {
+   "title": "Graph Neural Networks for Predicting Wastewater Service Type At A Land Parcel Level",
+   "authors": [
+    "Sylvia Imanirakiza",
+    "Nana Akua Agyemang Sereboo",
+    "Nelson da Luz",
+    "Emily Kumpel",
+    "Jay Taneja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5g6Jr4AGIL",
+   "pdf_url": "https://openreview.net/pdf?id=5g6Jr4AGIL"
+  },
+  {
+   "title": "HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction",
+   "authors": [
+    "Bingqing Wei",
+    "Lianmin Chen",
+    "Zhongyu Xia",
+    "Yongtao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nGtVmT756m",
+   "pdf_url": "https://openreview.net/pdf?id=nGtVmT756m"
+  },
+  {
+   "title": "Higher-Order Action Regularization in Deep Reinforcement Learning: From Continuous Control to Building Energy Management",
+   "authors": [
+    "Faizan Ahmed",
+    "Aniket Dixit",
+    "James Brusey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xOl9ThfQed",
+   "pdf_url": "https://openreview.net/pdf?id=xOl9ThfQed"
+  },
+  {
+   "title": "HVAC-SPICE: Value-Uncertainty In-Context RL with Thompson Sampling for Zero-Shot HVAC Control",
+   "authors": [
+    "Anaïs Berkes",
+    "Vincent Taboga",
+    "Donna Vakalis",
+    "David Rolnick",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ovzyb9iB6M",
+   "pdf_url": "https://openreview.net/pdf?id=Ovzyb9iB6M"
+  },
+  {
+   "title": "Hybrid MPC for Building Heat Pump Demand Flexibility under Unmeasured Disturbances",
+   "authors": [
+    "Sang woo Ham",
+    "Donghun Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8cLtu3CYWs",
+   "pdf_url": "https://openreview.net/pdf?id=8cLtu3CYWs"
+  },
+  {
+   "title": "Hybrid XGBoost-PINN Multi-Stage Framework for Scalable Building Temperature Prediction",
+   "authors": [
+    "Tushar Shinde",
+    "Rohan Saha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4TNvF0WQvg",
+   "pdf_url": "https://openreview.net/pdf?id=4TNvF0WQvg"
+  },
+  {
+   "title": "InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection",
+   "authors": [
+    "Zhongyu Xia",
+    "Hansong Yang",
+    "Yongtao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aisK2qdEK3",
+   "pdf_url": "https://openreview.net/pdf?id=aisK2qdEK3"
+  },
+  {
+   "title": "Joint Cooling and Computing Optimization for Language Model Serving",
+   "authors": [
+    "Nardos Abera",
+    "Yize Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5bIXqexp46",
+   "pdf_url": "https://openreview.net/pdf?id=5bIXqexp46"
+  },
+  {
+   "title": "Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting",
+   "authors": [
+    "Ruslan Gokhman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NQMrHIhK3n",
+   "pdf_url": "https://openreview.net/pdf?id=NQMrHIhK3n"
+  },
+  {
+   "title": "LLM-Powered Digital Twins for Interactive Urban Mobility Simulation: Integrating SUMO with AI Agents",
+   "authors": [
+    "Yiming Xu",
+    "Jihyung Park",
+    "Junfeng Jiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vEZtmnqmtO",
+   "pdf_url": "https://openreview.net/pdf?id=vEZtmnqmtO"
+  },
+  {
+   "title": "LLM-Powered Report-Driven Markov Modelling for Large-Scale Predictive Bridge Maintenance in Japan",
+   "authors": [
+    "Takayuki Shinohara",
+    "J-katagiri",
+    "Hidetaka Saomoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NE2uiXUAqn",
+   "pdf_url": "https://openreview.net/pdf?id=NE2uiXUAqn"
+  },
+  {
+   "title": "LLM-Raft: Enhancing Urban Traffic Efficiency and Safety through Decentralized Coordination of Autonomous Vehicles",
+   "authors": [
+    "Lingfeng Zhou",
+    "Shuaixing Chen",
+    "Jin Gao",
+    "Dequan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yTMFKGdCRC",
+   "pdf_url": "https://openreview.net/pdf?id=yTMFKGdCRC"
+  },
+  {
+   "title": "Multi-Band Fusion Framework Using Hybrid Predictors for Indoor Temperature Forecasting",
+   "authors": [
+    "Kanxuan He",
+    "Hongshan Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2OWNsoi6fO",
+   "pdf_url": "https://openreview.net/pdf?id=2OWNsoi6fO"
+  },
+  {
+   "title": "Multi-fidelity Data Reconstruction for Wind Pressure on Building",
+   "authors": [
+    "Yanyu Ke",
+    "Yifan Wang",
+    "Junle Liu",
+    "Wenliang CHEN",
+    "Tim K.T. Tse",
+    "Gang Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vpWfDncP3G",
+   "pdf_url": "https://openreview.net/pdf?id=vpWfDncP3G"
+  },
+  {
+   "title": "Origin-Conditional Trajectory Encoding: Measuring Urban Configurational Asymmetries through Neural Decomposition",
+   "authors": [
+    "Stephen Law",
+    "Tao yang",
+    "Nanjiang Chen",
+    "Xuhui Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V1JvLI1E2s",
+   "pdf_url": "https://openreview.net/pdf?id=V1JvLI1E2s"
+  },
+  {
+   "title": "OSMGen: Highly Controllable Satellite Image Synthesis using OpenStreetMap Data",
+   "authors": [
+    "Amir Ziashahabi",
+    "Narges Ghasemi",
+    "Sajjad Shahabi",
+    "John Krumm",
+    "Salman Avestimehr",
+    "Cyrus Shahabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rGupHfO146",
+   "pdf_url": "https://openreview.net/pdf?id=rGupHfO146"
+  },
+  {
+   "title": "Physics-Guided Dual Neural ODEs with Bidirectional Information Exchange for Air Quality Prediction",
+   "authors": [
+    "Jiaxu Feng",
+    "Jindong Tian",
+    "Yan Cen",
+    "Xinyuan Wei",
+    "Yun Xiong",
+    "Bin Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qAf64hd2mx",
+   "pdf_url": "https://openreview.net/pdf?id=qAf64hd2mx"
+  },
+  {
+   "title": "Physics-Informed Large Language Models for HVAC Anomaly Detection with Autonomous Rule Generation",
+   "authors": [
+    "Subin Lin",
+    "Chuanbo Hua"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rp9RXxAbys",
+   "pdf_url": "https://openreview.net/pdf?id=Rp9RXxAbys"
+  },
+  {
+   "title": "Physics-Informed Learning via Diffusion Framework for System State Estimation",
+   "authors": [
+    "Tianyi Zeng",
+    "Tianyi Wang",
+    "Jiaru Zhang",
+    "Yajie Zou",
+    "Yangyang Wang",
+    "Junfeng Jiao",
+    "Christian Claudel",
+    "Chenxinbo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dBH2EUkEk4",
+   "pdf_url": "https://openreview.net/pdf?id=dBH2EUkEk4"
+  },
+  {
+   "title": "Physics-Informed Probabilistic Learning of Low-Altitude Urban Wind from Onboard Motion Data",
+   "authors": [
+    "Minghao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wfYXDYtoYV",
+   "pdf_url": "https://openreview.net/pdf?id=wfYXDYtoYV"
+  },
+  {
+   "title": "Plug In For Lunch: Exploring Dining Options Around American EV Charging Stations",
+   "authors": [
+    "Seung Gyu Baik",
+    "Ahyoung Chang",
+    "Junfeng Jiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jk79hRJ9Eo",
+   "pdf_url": "https://openreview.net/pdf?id=Jk79hRJ9Eo"
+  },
+  {
+   "title": "PMA-Diffusion: A Physics-guided Mask Aware Diffusion Framework for Traffic State Estimation from Sparse Observations",
+   "authors": [
+    "Lindong Liu",
+    "Seongjin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wuS9xSMlA1",
+   "pdf_url": "https://openreview.net/pdf?id=wuS9xSMlA1"
+  },
+  {
+   "title": "PresCast: Physics-Constrained Fourier Kolmogorov-Arnold Networks for Bluff Bodies Spatiotemporal Wall Pressure Forecast",
+   "authors": [
+    "Junle Liu",
+    "Yanyu Ke",
+    "Haoyan Li",
+    "Wenliang CHEN",
+    "Tianle Niu",
+    "Tim K.T. Tse",
+    "Gang Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ibWIrx69yc",
+   "pdf_url": "https://openreview.net/pdf?id=ibWIrx69yc"
+  },
+  {
+   "title": "Quantile-SMPC for Grid-Interactive Buildings with Multivariate Temporal Fusion Transformers",
+   "authors": [
+    "Spencer Hutchinson",
+    "Abraham P. Vinod",
+    "François Germain",
+    "Stefano Di Cairano",
+    "Christopher R. Laughman",
+    "Ankush Chakrabarty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hArraYIuFS",
+   "pdf_url": "https://openreview.net/pdf?id=hArraYIuFS"
+  },
+  {
+   "title": "Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows",
+   "authors": [
+    "Achim von Stryk",
+    "Martin Spitznagel",
+    "Janis Keuper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZHeacn6fTL",
+   "pdf_url": "https://openreview.net/pdf?id=ZHeacn6fTL"
+  },
+  {
+   "title": "Recovering Origin–Destination Flows from Bus CCTV: Early Results from Nairobi and Kigali",
+   "authors": [
+    "Nthenya Kyatha",
+    "Jay Taneja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gv78CFPb1B",
+   "pdf_url": "https://openreview.net/pdf?id=Gv78CFPb1B"
+  },
+  {
+   "title": "ShadeBench: A Benchmark Dataset and Method for Shade Simulation in Sustainable Society",
+   "authors": [
+    "Longchao Da",
+    "Xiangrui Liu",
+    "Mithun Shivakoti",
+    "T Pranav Kutralingam",
+    "Yezhou Yang",
+    "Hua Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=brBCPRgCz3",
+   "pdf_url": "https://openreview.net/pdf?id=brBCPRgCz3"
+  },
+  {
+   "title": "Smart Building Temperature Forecasting with Probabilistic Temporal Fusion Transformers",
+   "authors": [
+    "Abhinav Sagar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZsZ4KwtKBg",
+   "pdf_url": "https://openreview.net/pdf?id=ZsZ4KwtKBg"
+  },
+  {
+   "title": "Spatiotemporal AI Modeling of Remote Sensor Data for Accurate Prediction and Anomaly Detection in Urban Underground Water Systems",
+   "authors": [
+    "Qiming Guo",
+    "Bishal Khatri",
+    "Hua Zhang",
+    "Wenlu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MFYfjOAzlK",
+   "pdf_url": "https://openreview.net/pdf?id=MFYfjOAzlK"
+  },
+  {
+   "title": "StreetTransformer: A Large Scale Multimodal Benchmark for Change Detection in Urban Streets",
+   "authors": [
+    "Jon Atkins",
+    "Joao Rulff",
+    "Claudio Silva",
+    "Maryam Hosseini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5eqN8LIHZh",
+   "pdf_url": "https://openreview.net/pdf?id=5eqN8LIHZh"
+  },
+  {
+   "title": "teLLMe Why (Ain’t Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+   "authors": [
+    "Qiwei Li",
+    "Jorge Ortiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZRYMVnXc9M",
+   "pdf_url": "https://openreview.net/pdf?id=ZRYMVnXc9M"
+  },
+  {
+   "title": "The Subtle Art of Problem Formulation: Fusing Physics into Graph Structures for GNN-Based Pressure Monitoring in Water Distribution Networks",
+   "authors": [
+    "Amin E. Bakhshipour",
+    "Mahta Bakhshizadeh",
+    "Sven O. Krumke",
+    "Ulrich Dittmer",
+    "Ali Haghighi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uIVDlHc3KJ",
+   "pdf_url": "https://openreview.net/pdf?id=uIVDlHc3KJ"
+  },
+  {
+   "title": "Towards Energy-Efficient Buildings",
+   "authors": [
+    "Timothy Mulumba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oNJlFvU3xd",
+   "pdf_url": "https://openreview.net/pdf?id=oNJlFvU3xd"
+  },
+  {
+   "title": "Trust-Based Multi-Agent Framework for On-Ramp Merging Integrating Large Language Models",
+   "authors": [
+    "Tianyi Wang",
+    "Tianyi Zeng",
+    "Yangyang Wang",
+    "Junfeng Jiao",
+    "Christian Claudel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6hnP4qrCzj",
+   "pdf_url": "https://openreview.net/pdf?id=6hnP4qrCzj"
+  },
+  {
+   "title": "Unlocking the Invisible Urban Traffic Dynamics under Extreme Weather: A New Physics-Constrained Hamiltonian Learning Algorithm",
+   "authors": [
+    "Xuhui Lin",
+    "Qiuchen Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kldGeOLhB9",
+   "pdf_url": "https://openreview.net/pdf?id=kldGeOLhB9"
+  },
+  {
+   "title": "XGBoost with physics-informed features and residual regressor for the SBCS benchmark",
+   "authors": [
+    "Vladimir Pyltsov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fIL0lvY5y3",
+   "pdf_url": "https://openreview.net/pdf?id=fIL0lvY5y3"
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/PRAL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:04.673Z",
+ "paper_count": 26,
+ "papers": [
+  {
+   "title": "Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization",
+   "authors": [
+    "Mingzhe Du",
+    "Anh Tuan Luu",
+    "Yue Liu",
+    "Yuhao QING",
+    "Dong HUANG",
+    "Xinyi He",
+    "Qian Liu",
+    "Zejun MA",
+    "See-Kiong Ng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RTI8LsGjSi",
+   "pdf_url": "https://openreview.net/pdf?id=RTI8LsGjSi"
+  },
+  {
+   "title": "Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies",
+   "authors": [
+    "Chengzhi Cao",
+    "Yinghao Fu",
+    "Chao Yang",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mXDB3wuXhN",
+   "pdf_url": "https://openreview.net/pdf?id=mXDB3wuXhN"
+  },
+  {
+   "title": "DyPO: Dynamic Policy Optimization for Multi-Turn Interactive Reasoning",
+   "authors": [
+    "Xiao Feng",
+    "Bo Han",
+    "Zhanke Zhou",
+    "Jiaqi Fan",
+    "Jiangchao Yao",
+    "Ka Ho Li",
+    "Dahai Yu",
+    "Michael Ng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OWDBiMKYdo",
+   "pdf_url": "https://openreview.net/pdf?id=OWDBiMKYdo"
+  },
+  {
+   "title": "EditLord: Learning Code Transformation Rules for Code Editing",
+   "authors": [
+    "Weichen Li",
+    "Albert Jan",
+    "Baishakhi Ray",
+    "Junfeng Yang",
+    "Chengzhi Mao",
+    "Kexin Pei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rCUJFqn9YO",
+   "pdf_url": "https://openreview.net/pdf?id=rCUJFqn9YO"
+  },
+  {
+   "title": "FormulaCode: Evaluating Agentic Superoptimization on Large Codebases",
+   "authors": [
+    "Atharva Sehgal",
+    "James Hou",
+    "Swarat Chaudhuri",
+    "Jennifer J. Sun",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMdtl83aZF",
+   "pdf_url": "https://openreview.net/pdf?id=CMdtl83aZF"
+  },
+  {
+   "title": "How Robust Reinforcement Learning Enables Courier-Friendly Route Planning for Last-Mile Delivery?",
+   "authors": [
+    "Ziying Jia",
+    "Zeyu Dong",
+    "Miao Yin",
+    "Sihong He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QznWjA6XTK",
+   "pdf_url": "https://openreview.net/pdf?id=QznWjA6XTK"
+  },
+  {
+   "title": "Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search",
+   "authors": [
+    "Samuel Holt",
+    "Max Ruiz Luyten",
+    "Thomas Pouplin",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nqWsNxbkDV",
+   "pdf_url": "https://openreview.net/pdf?id=nqWsNxbkDV"
+  },
+  {
+   "title": "Improving Parallel Program Performance with LLM Optimizers via Agent-System Interfaces",
+   "authors": [
+    "Anjiang Wei",
+    "Allen Nie",
+    "Thiago S. F. X. Teixeira",
+    "Rohan Yadav",
+    "Wonchan Lee",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DFplmbCyR4",
+   "pdf_url": "https://openreview.net/pdf?id=DFplmbCyR4"
+  },
+  {
+   "title": "Inefficiencies of Meta Agents for Agent Design",
+   "authors": [
+    "Batu El",
+    "Mert Yuksekgonul",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cnKYqIgNy5",
+   "pdf_url": "https://openreview.net/pdf?id=cnKYqIgNy5"
+  },
+  {
+   "title": "InstructFlow: Adaptive Symbolic Constraint-Guided Code Generation for Long-Horizon Planning",
+   "authors": [
+    "Haotian Chi",
+    "Zeyu Feng",
+    "Yueming Lyu",
+    "Chengqi Zheng",
+    "Linbo Luo",
+    "Yew-Soon Ong",
+    "Ivor Tsang",
+    "Hechang Chen",
+    "Yi Chang",
+    "Haiyan Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wr47LsSUjH",
+   "pdf_url": "https://openreview.net/pdf?id=wr47LsSUjH"
+  },
+  {
+   "title": "Interpretable Reward Modeling with Active Concept Bottlenecks",
+   "authors": [
+    "Sonia Laguna",
+    "Kasia Kobalczyk",
+    "Julia E Vogt",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TrFxW944EE",
+   "pdf_url": "https://openreview.net/pdf?id=TrFxW944EE"
+  },
+  {
+   "title": "Large Language Models Can Think and Act Probabilistically",
+   "authors": [
+    "Kou Misaki",
+    "Takuya Akiba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u7a95cXSd4",
+   "pdf_url": "https://openreview.net/pdf?id=u7a95cXSd4"
+  },
+  {
+   "title": "Learned Representations Enhance Multi Agent Path Planning",
+   "authors": [
+    "Marius Captari",
+    "Herke van Hoof"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rpjWkcL7eS",
+   "pdf_url": "https://openreview.net/pdf?id=rpjWkcL7eS"
+  },
+  {
+   "title": "Learning Game-Playing Agents with Generative Code Optimization",
+   "authors": [
+    "Zhiyi Kuang",
+    "Ryan Rong",
+    "YuCheng Yuan",
+    "Allen Nie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZM65X3NoTd",
+   "pdf_url": "https://openreview.net/pdf?id=ZM65X3NoTd"
+  },
+  {
+   "title": "Learning to Discover Abstractions for LLM Reasoning",
+   "authors": [
+    "Yuxiao Qu",
+    "Anikait Singh",
+    "Yoonho Lee",
+    "Amrith Setlur",
+    "Ruslan Salakhutdinov",
+    "Chelsea Finn",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zwEUO0KT8G",
+   "pdf_url": "https://openreview.net/pdf?id=zwEUO0KT8G"
+  },
+  {
+   "title": "Leveraging LLM-based sentiment analysis for portfolio optimization with proximal policy optimization",
+   "authors": [
+    "Kemal Kirtac",
+    "Guido Germano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lHssSZqF67",
+   "pdf_url": "https://openreview.net/pdf?id=lHssSZqF67"
+  },
+  {
+   "title": "Lifelong Experience Abstraction and Planning",
+   "authors": [
+    "Peiqi Liu",
+    "Leslie Pack Kaelbling",
+    "Joshua B. Tenenbaum",
+    "Jiayuan Mao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5zwkRf8Etp",
+   "pdf_url": "https://openreview.net/pdf?id=5zwkRf8Etp"
+  },
+  {
+   "title": "Making LLMs Program Interpreters via Execution Trace Chain of Thought",
+   "authors": [
+    "Koshi Eguchi",
+    "Takuya Akiba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pFyBdPyOCQ",
+   "pdf_url": "https://openreview.net/pdf?id=pFyBdPyOCQ"
+  },
+  {
+   "title": "Optimizing Agentic Architectures for Cybersecurity Tasks with Trace",
+   "authors": [
+    "Anish Chaudhuri",
+    "Prerit Choudhary",
+    "Max Piasevoli",
+    "Shannon Xiao",
+    "Allen Nie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uRV6vlXiOQ",
+   "pdf_url": "https://openreview.net/pdf?id=uRV6vlXiOQ"
+  },
+  {
+   "title": "ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation",
+   "authors": [
+    "Yihua Zhang",
+    "Xi Liu",
+    "Xihuan Zeng",
+    "Mingfu Liang",
+    "Jiyan Yang",
+    "Rong Jin",
+    "Wen-Yen Chen",
+    "Yiping Han",
+    "Hao Ma",
+    "Bo Long",
+    "Huayu Li",
+    "Buyun Zhang",
+    "Liang Luo",
+    "Sijia Liu",
+    "Tianlong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fCcN2pJ1Vx",
+   "pdf_url": "https://openreview.net/pdf?id=fCcN2pJ1Vx"
+  },
+  {
+   "title": "Representing Prompting Patterns with PDL: Compliance Agent Case Study",
+   "authors": [
+    "Mandana Vaziri",
+    "Louis Mandel",
+    "Yuji Watanabe",
+    "Hirokuni Kitahara",
+    "Martin Hirzel",
+    "Anca Sailer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c3PxSjfUYZ",
+   "pdf_url": "https://openreview.net/pdf?id=c3PxSjfUYZ"
+  },
+  {
+   "title": "Searching Latent Program Spaces",
+   "authors": [
+    "Matthew Macfarlane",
+    "Clément Bonnet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Va937YZ9it",
+   "pdf_url": "https://openreview.net/pdf?id=Va937YZ9it"
+  },
+  {
+   "title": "Sketch-Plan-Generalize : Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts",
+   "authors": [
+    "Namasivayam Kalithasan",
+    "Sachit Sachdeva",
+    "Gurarmaan Singh Panjeta",
+    "Harsh Himanshu Vora",
+    "Himanshu Gaurav Singh",
+    "Vishal Bindal",
+    "Arnav Tuli",
+    "Divyanshu Agarwal",
+    "Rohan Paul",
+    "Parag Singla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pTOQwAQ14h",
+   "pdf_url": "https://openreview.net/pdf?id=pTOQwAQ14h"
+  },
+  {
+   "title": "Time to Impeach LLM-as-a-Judge: Programs are the Future of Evaluation",
+   "authors": [
+    "Tzu-Heng Huang",
+    "Harit Vishwakarma",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=T7tfgX37ql",
+   "pdf_url": "https://openreview.net/pdf?id=T7tfgX37ql"
+  },
+  {
+   "title": "Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors",
+   "authors": [
+    "Fan Nie",
+    "Lan Feng",
+    "Haotian Ye",
+    "Weixin Liang",
+    "Pan Lu",
+    "Huaxiu Yao",
+    "Alexandre Alahi",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xO4HjrkF2r",
+   "pdf_url": "https://openreview.net/pdf?id=xO4HjrkF2r"
+  },
+  {
+   "title": "Zero-Shot Instruction Following in RL via Structured LTL Representations",
+   "authors": [
+    "Mattia Giuri",
+    "Mathias Jackermeier",
+    "Alessandro Abate"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XDMRtSRnaO",
+   "pdf_url": "https://openreview.net/pdf?id=XDMRtSRnaO"
+  }
+ ]
+}

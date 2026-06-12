@@ -1,0 +1,319 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2024/Workshop/WCBM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:46.747Z",
+ "paper_count": 25,
+ "papers": [
+  {
+   "title": "A Comparison of Imitation Learning Algorithms for Bimanual Manipulation",
+   "authors": [
+    "Michael Drolet",
+    "Simon Stepputtis",
+    "Siva Kailas",
+    "Ajinkya Jain",
+    "Jan Peters",
+    "Stefan Schaal",
+    "Heni Ben Amor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ScHTOMuvqW",
+   "pdf_url": "https://openreview.net/pdf?id=ScHTOMuvqW"
+  },
+  {
+   "title": "Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation",
+   "authors": [
+    "Ian Chuang",
+    "Andrew Lee",
+    "Dechen Gao",
+    "Mahdi Naddaf",
+    "Iman Soltani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OR8dlLFPS4",
+   "pdf_url": "https://openreview.net/pdf?id=OR8dlLFPS4"
+  },
+  {
+   "title": "AnySkin: Plug-and-play Skin Sensing for Robotic Touch",
+   "authors": [
+    "Raunaq Bhirangi",
+    "Venkatesh Pattabiraman",
+    "Mehmet Enes Erciyes",
+    "Yifeng Cao",
+    "Tess Hellebrekers",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=alQeBjY7Ue",
+   "pdf_url": "https://openreview.net/pdf?id=alQeBjY7Ue"
+  },
+  {
+   "title": "AsymDex: Leveraging Asymmetry and Relative Motion in Learning Bimanual Dexterity",
+   "authors": [
+    "Zhaodong Yang",
+    "Yunhai Han",
+    "Harish Ravichandar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g3vjZtYfMb",
+   "pdf_url": "https://openreview.net/pdf?id=g3vjZtYfMb"
+  },
+  {
+   "title": "Augmented Action-space Whole-Body Teleoperation of Mobile Manipulation Robots",
+   "authors": [
+    "Sophie C. Lueth",
+    "Georgia Chalvatzaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sVlBSoKfzy",
+   "pdf_url": "https://openreview.net/pdf?id=sVlBSoKfzy"
+  },
+  {
+   "title": "Bi3D Diffuser Actor: 3D Policy Diffusion for Bi-manual Robot Manipulation",
+   "authors": [
+    "Tsung-Wei Ke",
+    "Nikolaos Gkanatsios",
+    "Jiahe Xu",
+    "Katerina Fragkiadaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0bFKqUbwTr",
+   "pdf_url": "https://openreview.net/pdf?id=0bFKqUbwTr"
+  },
+  {
+   "title": "Continuously Improving Mobile Manipulation with Autonomous Real-World RL",
+   "authors": [
+    "Russell Mendonca",
+    "Emmanuel Panov",
+    "Bernadette Bucher",
+    "Jiuguang Wang",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xRu3sp4u6k",
+   "pdf_url": "https://openreview.net/pdf?id=xRu3sp4u6k"
+  },
+  {
+   "title": "CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics",
+   "authors": [
+    "Jiawei Gao",
+    "Ziqin Wang",
+    "Zeqi Xiao",
+    "Jingbo Wang",
+    "Tai Wang",
+    "Jinkun Cao",
+    "Xiaolin Hu",
+    "Si Liu",
+    "Jifeng Dai",
+    "Jiangmiao Pang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z0SnIO30IS",
+   "pdf_url": "https://openreview.net/pdf?id=z0SnIO30IS"
+  },
+  {
+   "title": "DexHub and DART: Towards Internet Scale Robot Data Collection",
+   "authors": [
+    "Younghyo Park",
+    "Jagdeep Singh Bhatia",
+    "Lars Lien Ankile",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NetoKkWbNP",
+   "pdf_url": "https://openreview.net/pdf?id=NetoKkWbNP"
+  },
+  {
+   "title": "DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems",
+   "authors": [
+    "Kaibo He",
+    "Chenhui Zuo",
+    "Chengtian Ma",
+    "Yanan Sui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFeWDQXzZu",
+   "pdf_url": "https://openreview.net/pdf?id=wFeWDQXzZu"
+  },
+  {
+   "title": "EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning",
+   "authors": [
+    "Jingyun Yang",
+    "Ziang Cao",
+    "Congyue Deng",
+    "Rika Antonova",
+    "Shuran Song",
+    "Jeannette Bohg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TLAtAxn4cb",
+   "pdf_url": "https://openreview.net/pdf?id=TLAtAxn4cb"
+  },
+  {
+   "title": "Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing",
+   "authors": [
+    "Haoru Xue",
+    "Chaoyi Pan",
+    "Zeji Yi",
+    "Guannan Qu",
+    "Guanya Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ok4kvllgW4",
+   "pdf_url": "https://openreview.net/pdf?id=ok4kvllgW4"
+  },
+  {
+   "title": "Goal Achievement Guided Exploration: Mitigating Premature Convergence in Learning Robot Control",
+   "authors": [
+    "Shengchao Yan",
+    "Baohe Zhang",
+    "Joschka Boedecker",
+    "Wolfram Burgard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pn8uRpPsrU",
+   "pdf_url": "https://openreview.net/pdf?id=pn8uRpPsrU"
+  },
+  {
+   "title": "Hierarchical World Models as Visual Whole-Body Humanoid Controllers",
+   "authors": [
+    "Nicklas Hansen",
+    "Jyothir S V",
+    "Vlad Sobal",
+    "Yann LeCun",
+    "Xiaolong Wang",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LJDP0TXhW8",
+   "pdf_url": "https://openreview.net/pdf?id=LJDP0TXhW8"
+  },
+  {
+   "title": "Latent Action Pretraining From Videos",
+   "authors": [
+    "Seonghyeon Ye",
+    "Joel Jang",
+    "Byeongguk Jeon",
+    "Se June Joo",
+    "Jianwei Yang",
+    "Baolin Peng",
+    "Ajay Mandlekar",
+    "Reuben Tan",
+    "Yu-Wei Chao",
+    "Bill Yuchen Lin",
+    "Lars Liden",
+    "Kimin Lee",
+    "Jianfeng Gao",
+    "Luke Zettlemoyer",
+    "Dieter Fox",
+    "Minjoon Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NCOP0KYb0u",
+   "pdf_url": "https://openreview.net/pdf?id=NCOP0KYb0u"
+  },
+  {
+   "title": "Learning Autonomous Humanoid Loco-manipulation Through Foundation Models",
+   "authors": [
+    "Jin Wang",
+    "Rui Dai",
+    "Weijie Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pg2BQRPy10",
+   "pdf_url": "https://openreview.net/pdf?id=Pg2BQRPy10"
+  },
+  {
+   "title": "Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck",
+   "authors": [
+    "Bipasha Sen",
+    "Michelle Wang",
+    "Nandini Thakur",
+    "Aditya Agarwal",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U1ZaGYOm7S",
+   "pdf_url": "https://openreview.net/pdf?id=U1ZaGYOm7S"
+  },
+  {
+   "title": "OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation",
+   "authors": [
+    "Aadhithya Iyer",
+    "Zhuoran Peng",
+    "Yinlong Dai",
+    "Irmak Guzey",
+    "Siddhant Haldar",
+    "Soumith Chintala",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HWoRzfPYXX",
+   "pdf_url": "https://openreview.net/pdf?id=HWoRzfPYXX"
+  },
+  {
+   "title": "PerAct2: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks",
+   "authors": [
+    "Markus Grotz",
+    "Mohit Shridhar",
+    "Yu-Wei Chao",
+    "Tamim Asfour",
+    "Dieter Fox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nIU0ZFmptX",
+   "pdf_url": "https://openreview.net/pdf?id=nIU0ZFmptX"
+  },
+  {
+   "title": "Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning",
+   "authors": [
+    "Younggyo Seo",
+    "Pieter Abbeel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v4hCFVUaby",
+   "pdf_url": "https://openreview.net/pdf?id=v4hCFVUaby"
+  },
+  {
+   "title": "SkillBlender: Towards Versatile Humanoid Whole-Body Control via Skill Blending",
+   "authors": [
+    "Yuxuan Kuang",
+    "Amine Elhafsi",
+    "Haoran Geng",
+    "Marco Pavone",
+    "Yue Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4MUgd8EN0F",
+   "pdf_url": "https://openreview.net/pdf?id=4MUgd8EN0F"
+  },
+  {
+   "title": "Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks",
+   "authors": [
+    "Ji Woong Kim",
+    "Tony Z. Zhao",
+    "Samuel Schmidgall",
+    "Anton Deguet",
+    "Marin Kobilarov",
+    "Chelsea Finn",
+    "Axel Krieger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1XqtUR4lzP",
+   "pdf_url": "https://openreview.net/pdf?id=1XqtUR4lzP"
+  },
+  {
+   "title": "The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control",
+   "authors": [
+    "Oleg Kaidanov",
+    "Firas Al-Hafez",
+    "Yusuf Süvari",
+    "Boris Belousov",
+    "Jan Peters"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ahx1zNx3GE",
+   "pdf_url": "https://openreview.net/pdf?id=ahx1zNx3GE"
+  },
+  {
+   "title": "Time Your Rewards: Learning Temporally Consistent Rewards from a Single Video Demonstration",
+   "authors": [
+    "Huaxiaoyue Wang",
+    "William Huey",
+    "Anne Wu",
+    "Yoav Artzi",
+    "Sanjiban Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gsgkiuv9BS",
+   "pdf_url": "https://openreview.net/pdf?id=gsgkiuv9BS"
+  },
+  {
+   "title": "UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers",
+   "authors": [
+    "Huy Ha",
+    "Yihuai Gao",
+    "Zipeng Fu",
+    "Jie Tan",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VtJMXwHj5p",
+   "pdf_url": "https://openreview.net/pdf?id=VtJMXwHj5p"
+  }
+ ]
+}

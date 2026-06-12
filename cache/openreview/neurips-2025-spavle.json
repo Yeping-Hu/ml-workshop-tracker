@@ -1,0 +1,690 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/SpaVLE",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:53:20.856Z",
+ "paper_count": 56,
+ "papers": [
+  {
+   "title": "An Emergent Symbolic Representation of Space as a Bridge Between Language and Reinforcement Learning in Continuous Environments",
+   "authors": [
+    "Ziqi Ma",
+    "Sao Mai Nguyen",
+    "Philippe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ssn0cw9F7f",
+   "pdf_url": "https://openreview.net/pdf?id=Ssn0cw9F7f"
+  },
+  {
+   "title": "Avi: A 3D Vision-Language Action Model Architecture generating Action from Volumetric Inference",
+   "authors": [
+    "Harris Song",
+    "Long Le"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xpkthxhDx2",
+   "pdf_url": "https://openreview.net/pdf?id=xpkthxhDx2"
+  },
+  {
+   "title": "BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning",
+   "authors": [
+    "Hongyi Zhou",
+    "Weiran Liao",
+    "Xi Huang",
+    "Yucheng Tang",
+    "Fabian Otto",
+    "Xiaogang Jia",
+    "Xinkai Jiang",
+    "Simon Hilber",
+    "Ge Li",
+    "Qian Wang",
+    "Ömer Erdinç Yağmurlu",
+    "Nils Blank",
+    "Moritz Reuss",
+    "Rudolf Lioutikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VztnfFEikg",
+   "pdf_url": "https://openreview.net/pdf?id=VztnfFEikg"
+  },
+  {
+   "title": "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents",
+   "authors": [
+    "Tianyi Ma",
+    "Yue Zhang",
+    "Zehao Wang",
+    "Parisa Kordjamshidi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vEL31CS2Wi",
+   "pdf_url": "https://openreview.net/pdf?id=vEL31CS2Wi"
+  },
+  {
+   "title": "Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots",
+   "authors": [
+    "Haochen Su",
+    "Cristian Meo",
+    "Francesco Stella",
+    "Andrea Peirone",
+    "Kai Junge",
+    "Josie Hughes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ygFofwQQKZ",
+   "pdf_url": "https://openreview.net/pdf?id=ygFofwQQKZ"
+  },
+  {
+   "title": "COREVQA: Spatial Reasoning and Multi-Step Visual Entailment in Crowded Environments",
+   "authors": [
+    "Kazuma Choji",
+    "Ishant Yunay Chintapatla",
+    "Naaisha Agarwal",
+    "Andrew Lwin",
+    "Charles Duong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mMWuaIjht0",
+   "pdf_url": "https://openreview.net/pdf?id=mMWuaIjht0"
+  },
+  {
+   "title": "DenseScan: Advancing 3D Scene Understanding with 2D Dense Annotation",
+   "authors": [
+    "Zirui Wang",
+    "Tao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5WTB07h5L1",
+   "pdf_url": "https://openreview.net/pdf?id=5WTB07h5L1"
+  },
+  {
+   "title": "Evaluation of Vision-LLMs in Surveillance Video",
+   "authors": [
+    "Pascal Benschop",
+    "Cristian Meo",
+    "Justin Dauwels"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v6hQVc4TSP",
+   "pdf_url": "https://openreview.net/pdf?id=v6hQVc4TSP"
+  },
+  {
+   "title": "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation",
+   "authors": [
+    "Yi-Ruei Liu",
+    "You-Zhe Xie",
+    "Yu-Hsiang Hsu",
+    "I-Sheng Fang",
+    "Yu-Lun Liu",
+    "Jun-Cheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rT1LqVMQyD",
+   "pdf_url": "https://openreview.net/pdf?id=rT1LqVMQyD"
+  },
+  {
+   "title": "FINDINGDORY: A Benchmark to Evaluate Memory in Embodied Agents",
+   "authors": [
+    "Karmesh Yadav",
+    "Yusuf Ali",
+    "Gunshi Gupta",
+    "Yarin Gal",
+    "Zsolt Kira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vhkd8RekOx",
+   "pdf_url": "https://openreview.net/pdf?id=vhkd8RekOx"
+  },
+  {
+   "title": "Flow Equivariant World Models: Structured Dynamics Outside the Field of View",
+   "authors": [
+    "Hansen Lillemark",
+    "Benhao Huang",
+    "Fangneng Zhan",
+    "Yilun Du",
+    "T. Anderson Keller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hq2nQ1K7E5",
+   "pdf_url": "https://openreview.net/pdf?id=hq2nQ1K7E5"
+  },
+  {
+   "title": "FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing",
+   "authors": [
+    "Tanawan Premsri",
+    "Parisa Kordjamshidi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cXIi55uneW",
+   "pdf_url": "https://openreview.net/pdf?id=cXIi55uneW"
+  },
+  {
+   "title": "From Static Domain Adaptation to State-Adaptive Perception in Embodied Agents",
+   "authors": [
+    "Yu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q7kD7ERF0S",
+   "pdf_url": "https://openreview.net/pdf?id=Q7kD7ERF0S"
+  },
+  {
+   "title": "GeoGrid-Bench: Can Foundation Models Understand Multimodal Gridded Geo-Spatial Data?",
+   "authors": [
+    "Bowen Jiang",
+    "Yangxinyu Xie",
+    "Xiaomeng Wang",
+    "Jiashu He",
+    "John K Hutchison",
+    "Camillo Jose Taylor",
+    "Tanwi Mallick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I89IGUlf6N",
+   "pdf_url": "https://openreview.net/pdf?id=I89IGUlf6N"
+  },
+  {
+   "title": "Grounding Foundational Vision Models with 3D Human Poses for Robust Action Recognition",
+   "authors": [
+    "Nicholas Babey",
+    "Tiffany Gu",
+    "Yiheng Li",
+    "Cristian Meo",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=irR1pKNMSS",
+   "pdf_url": "https://openreview.net/pdf?id=irR1pKNMSS"
+  },
+  {
+   "title": "Hierarchical Equivariant Policy via Frame Transfer",
+   "authors": [
+    "Haibo Zhao",
+    "Dian Wang",
+    "Yizhe Zhu",
+    "Xupeng Zhu",
+    "Owen Lewis Howell",
+    "Linfeng Zhao",
+    "Yaoyao Qian",
+    "Robin Walters",
+    "Robert Platt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q9wkIRCOdd",
+   "pdf_url": "https://openreview.net/pdf?id=q9wkIRCOdd"
+  },
+  {
+   "title": "Hierarchical Object-Oriented POMDP Planning for Object Rearrangement",
+   "authors": [
+    "Rajesh Devaraddi Mangannavar",
+    "Alan Fern",
+    "Prasad Tadepalli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s33SjyvvM0",
+   "pdf_url": "https://openreview.net/pdf?id=s33SjyvvM0"
+  },
+  {
+   "title": "I Know Kung Fu: Synthetic Dexterous Hand Demonstration Collection via VR Teleoperation",
+   "authors": [
+    "Kara Lu",
+    "Yanzi He",
+    "Cohen Lu",
+    "Peihao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6emNJjnETY",
+   "pdf_url": "https://openreview.net/pdf?id=6emNJjnETY"
+  },
+  {
+   "title": "Improving Vision-and-Language Navigation with Explicit Sub-Instruction Alignment",
+   "authors": [
+    "Mulang Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=90AtvsW3Fn",
+   "pdf_url": "https://openreview.net/pdf?id=90AtvsW3Fn"
+  },
+  {
+   "title": "LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors",
+   "authors": [
+    "Yusuf Dalva",
+    "Yijun Li",
+    "Qing Liu",
+    "Nanxuan Zhao",
+    "Jianming Zhang",
+    "Zhe Lin",
+    "Pinar Yanardag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TqhYm67NdT",
+   "pdf_url": "https://openreview.net/pdf?id=TqhYm67NdT"
+  },
+  {
+   "title": "LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning",
+   "authors": [
+    "Zezhong Fan",
+    "Xiaohan Li",
+    "Luyi Ma",
+    "Kai Zhao",
+    "Liang Peng",
+    "Topojoy Biswas",
+    "Evren Korpeoglu",
+    "Kaushiki Nag",
+    "Kannan Achan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lf0MQDTl65",
+   "pdf_url": "https://openreview.net/pdf?id=lf0MQDTl65"
+  },
+  {
+   "title": "Learning Dynamics of Multitask Training Data in Vision Language Models",
+   "authors": [
+    "Tyler Zhu",
+    "Nathan Koome Murungi",
+    "Polina Kirichenko",
+    "Olga Russakovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O65Q2CqFcK",
+   "pdf_url": "https://openreview.net/pdf?id=O65Q2CqFcK"
+  },
+  {
+   "title": "Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views",
+   "authors": [
+    "Anna Deichler",
+    "Jonas Beskow"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tKw5WdxIIq",
+   "pdf_url": "https://openreview.net/pdf?id=tKw5WdxIIq"
+  },
+  {
+   "title": "Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots",
+   "authors": [
+    "Junyao Shi",
+    "Rujia Yang",
+    "Kaitian Chao",
+    "Bingqing Selina Wan",
+    "Yifei Simon Shao",
+    "Jiahui Lei",
+    "Jianing Qian",
+    "Long Le",
+    "Pratik Chaudhari",
+    "Kostas Daniilidis",
+    "Chuan Wen",
+    "Dinesh Jayaraman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oykeBpHHXE",
+   "pdf_url": "https://openreview.net/pdf?id=oykeBpHHXE"
+  },
+  {
+   "title": "Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark",
+   "authors": [
+    "Xinjie Shen",
+    "Mufei Li",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b3wObO8CH8",
+   "pdf_url": "https://openreview.net/pdf?id=b3wObO8CH8"
+  },
+  {
+   "title": "MetaVLA: Unified Meta Co-Training for Efficient Embodied Adaptation",
+   "authors": [
+    "Chen Li",
+    "Han Zhang",
+    "Zhantao Yang",
+    "Fangyi Chen",
+    "Anudeepsekhar Bolimera",
+    "Marios Savvides"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tsKxrBjQoo",
+   "pdf_url": "https://openreview.net/pdf?id=tsKxrBjQoo"
+  },
+  {
+   "title": "Motion as Language: Towards a Situation–Motion Language for Spatio-Temporal Learning",
+   "authors": [
+    "Alejandro Sanchez Guinea",
+    "Achref Doula",
+    "Thomas Kreutz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1xMzJhx25r",
+   "pdf_url": "https://openreview.net/pdf?id=1xMzJhx25r"
+  },
+  {
+   "title": "NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language",
+   "authors": [
+    "Danial Kamali",
+    "Parisa Kordjamshidi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LRZu7jCWBP",
+   "pdf_url": "https://openreview.net/pdf?id=LRZu7jCWBP"
+  },
+  {
+   "title": "NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows",
+   "authors": [
+    "Denis Tarasov",
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Albina Klepach",
+    "Lyubaykin Nikita",
+    "Andrei Polubarov",
+    "Alexander Derevyagin",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OUbe6dGpu8",
+   "pdf_url": "https://openreview.net/pdf?id=OUbe6dGpu8"
+  },
+  {
+   "title": "Object-Centric Agentic Robot Policies",
+   "authors": [
+    "Sacha Morin",
+    "Kumaraditya Gupta",
+    "Mahtab Sandhu",
+    "Charlie Gauthier",
+    "Francesco Argenziano",
+    "Kirsty Ellis",
+    "Liam Paull"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ze5SVsXsmq",
+   "pdf_url": "https://openreview.net/pdf?id=ze5SVsXsmq"
+  },
+  {
+   "title": "Probing the Limits of Embodied Spatial Planning in LLMs",
+   "authors": [
+    "Xiangjue Dong",
+    "Manling Li",
+    "James Caverlee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1efQWb0skf",
+   "pdf_url": "https://openreview.net/pdf?id=1efQWb0skf"
+  },
+  {
+   "title": "Rethinking the Simulation vs. Rendering Dichotomy: No Free Lunch in Spatial World Modelling",
+   "authors": [
+    "Dezhi Luo",
+    "Qingying Gao",
+    "Hokin Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OZt9jSBZDc",
+   "pdf_url": "https://openreview.net/pdf?id=OZt9jSBZDc"
+  },
+  {
+   "title": "Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting",
+   "authors": [
+    "Duochao Shi",
+    "Weijie Wang",
+    "Donny Y. Chen",
+    "Zeyu Zhang",
+    "Jia-Wang Bian",
+    "Bohan Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0UIic6Mov6",
+   "pdf_url": "https://openreview.net/pdf?id=0UIic6Mov6"
+  },
+  {
+   "title": "RIV-CoT: Retrieval-Based Interleaved Visual Chain-of-Thought for Multimodal Reasoning",
+   "authors": [
+    "Charles Corbière",
+    "Simon Roburin",
+    "Syrielle Montariol",
+    "Antoine Bosselut",
+    "Alexandre Alahi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NR0iURnSdK",
+   "pdf_url": "https://openreview.net/pdf?id=NR0iURnSdK"
+  },
+  {
+   "title": "RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems",
+   "authors": [
+    "Mingcong Lei",
+    "Honghao Cai",
+    "Zezhou Cui",
+    "Liangchen Tan",
+    "Junkun Hong",
+    "Gehan Hu",
+    "Shuangyu Zhu",
+    "Yimou Wu",
+    "Shaohan Jiang",
+    "Ge Wang",
+    "Zhen Li",
+    "Shuguang Cui",
+    "Yiming Zhao",
+    "Yatong Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HHGzG1Choi",
+   "pdf_url": "https://openreview.net/pdf?id=HHGzG1Choi"
+  },
+  {
+   "title": "ROSE: Reconstructing Objects, Scenes, and Trajectories from Casual Videos for Robotic Manipulation",
+   "authors": [
+    "Peihao Li",
+    "Haoran Geng",
+    "Jameson Crate",
+    "Yanbing Han",
+    "Junyi Zhang",
+    "Feishi Wang",
+    "Charlie Tianyue Cheng",
+    "Runpei Dong",
+    "Yen-Jen Wang",
+    "Haozhe Lou",
+    "Trevor Darrell",
+    "Pieter Abbeel",
+    "Jitendra Malik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=93uwCUhxkv",
+   "pdf_url": "https://openreview.net/pdf?id=93uwCUhxkv"
+  },
+  {
+   "title": "See it. Say it. Sorted: Agentic System for Compositional Diagram Generation",
+   "authors": [
+    "Hantao Zhang",
+    "Jingyang Liu",
+    "Ed Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OogsknkS2v",
+   "pdf_url": "https://openreview.net/pdf?id=OogsknkS2v"
+  },
+  {
+   "title": "Seeing Beyond the Scene: Analyzing and Mitigating Background Bias in Action Recognition",
+   "authors": [
+    "Ellie Zhou",
+    "Jihoon Chung",
+    "Olga Russakovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6gDTFEFS1B",
+   "pdf_url": "https://openreview.net/pdf?id=6gDTFEFS1B"
+  },
+  {
+   "title": "Self-Augmented Learning of Differentiable Object Models for Compositional Interpretation of Complex Scenes",
+   "authors": [
+    "Antoni Nowinowski",
+    "Krzysztof Krawiec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bvTv2G2CPV",
+   "pdf_url": "https://openreview.net/pdf?id=bvTv2G2CPV"
+  },
+  {
+   "title": "SITCOM: Scaling Inference-Time COMpute for VLAs",
+   "authors": [
+    "Ayudh Saxena",
+    "Harsh Shah",
+    "Sandeep Routray",
+    "Rishi Rajesh Shah",
+    "Esha Pahwa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=375endtFqF",
+   "pdf_url": "https://openreview.net/pdf?id=375endtFqF"
+  },
+  {
+   "title": "Spatial Reasoning in Foundation Models: Benchmarking Object-Centric Spatial Understanding",
+   "authors": [
+    "Vahid Mirjalili",
+    "Ramin Giahi",
+    "Sriram Kollipara",
+    "Akshay Kekuda",
+    "Kehui Yao",
+    "Kai Zhao",
+    "Jianpeng Xu",
+    "Kaushiki Nag",
+    "Sinduja Subramaniam",
+    "Topojoy Biswas",
+    "Evren Korpeoglu",
+    "Kannan Achan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wq0zQjzbJs",
+   "pdf_url": "https://openreview.net/pdf?id=Wq0zQjzbJs"
+  },
+  {
+   "title": "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning",
+   "authors": [
+    "Byungwoo Jeon",
+    "Dongyoung Kim",
+    "Huiwon Jang",
+    "Insoo Kim",
+    "Jinwoo Shin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q4gW7LorVN",
+   "pdf_url": "https://openreview.net/pdf?id=q4gW7LorVN"
+  },
+  {
+   "title": "SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards",
+   "authors": [
+    "Hunar Batra",
+    "Haoqin Tu",
+    "Hardy Chen",
+    "Yuanze Lin",
+    "Cihang Xie",
+    "Ronald Clark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TUIpY8PAZO",
+   "pdf_url": "https://openreview.net/pdf?id=TUIpY8PAZO"
+  },
+  {
+   "title": "Spatio-Temporal Grounding of Large Language Models from Perception Streams",
+   "authors": [
+    "Jacob Anderson",
+    "Bardh Hoxha",
+    "Georgios Fainekos",
+    "HIDEKI OKAMOTO",
+    "Danil V. Prokhorov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZTXpdpSvMe",
+   "pdf_url": "https://openreview.net/pdf?id=ZTXpdpSvMe"
+  },
+  {
+   "title": "SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs",
+   "authors": [
+    "Yuyou Zhang",
+    "Radu Corcodel",
+    "Chiori Hori",
+    "Anoop Cherian",
+    "Ding Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S9gUg6Awmf",
+   "pdf_url": "https://openreview.net/pdf?id=S9gUg6Awmf"
+  },
+  {
+   "title": "TC-LoRA: Temporally Modulated Conditional LoRA for Adaptive Diffusion Control",
+   "authors": [
+    "Minkyoung Cho",
+    "Ruben Ohana",
+    "Christian Jacobsen",
+    "Adityan Jothi",
+    "Zhuoqing Mao",
+    "Min-Hung Chen",
+    "Ethem F. Can"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AWBuOppcjF",
+   "pdf_url": "https://openreview.net/pdf?id=AWBuOppcjF"
+  },
+  {
+   "title": "Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning",
+   "authors": [
+    "mobin habibpour",
+    "Fatemeh Afghah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bi9WjNCpBO",
+   "pdf_url": "https://openreview.net/pdf?id=bi9WjNCpBO"
+  },
+  {
+   "title": "TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance",
+   "authors": [
+    "Yuyang Liu",
+    "Chuan Wen",
+    "Yihang Hu",
+    "Dinesh Jayaraman",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KMJu0TzV21",
+   "pdf_url": "https://openreview.net/pdf?id=KMJu0TzV21"
+  },
+  {
+   "title": "Towards Understanding Multimodal Fine-Tuning:  A Case Study into Spatial Features",
+   "authors": [
+    "Lachin Naghashyar",
+    "Hunar Batra",
+    "Ashkan Khakzar",
+    "Philip Torr",
+    "Ronald Clark",
+    "Christian Schroeder de Witt",
+    "Constantin Venhoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=InnlXgdzjS",
+   "pdf_url": "https://openreview.net/pdf?id=InnlXgdzjS"
+  },
+  {
+   "title": "TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing",
+   "authors": [
+    "Susmit Neogi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TnqR5pzyH5",
+   "pdf_url": "https://openreview.net/pdf?id=TnqR5pzyH5"
+  },
+  {
+   "title": "VFSI: Validity First Spatial Intelligence for Constraint-Guided Traffic Diffusion",
+   "authors": [
+    "Kargi Chauhan",
+    "Leilani H. Gilpin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UmEuK3SXOX",
+   "pdf_url": "https://openreview.net/pdf?id=UmEuK3SXOX"
+  },
+  {
+   "title": "Viewpoint-Invariant Latent Action Learning from Human Video Demonstrations",
+   "authors": [
+    "Jung Min Lee",
+    "Dohyeok Lee",
+    "Jungwoo Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dd4UIrXLKj",
+   "pdf_url": "https://openreview.net/pdf?id=Dd4UIrXLKj"
+  },
+  {
+   "title": "VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning",
+   "authors": [
+    "Li Kang",
+    "Xiufeng Song",
+    "Heng Zhou",
+    "Yiran Qin",
+    "Jie Yang",
+    "Xiaohong Liu",
+    "Philip Torr",
+    "LEI BAI",
+    "Zhenfei Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lg8CvV2hqB",
+   "pdf_url": "https://openreview.net/pdf?id=lg8CvV2hqB"
+  },
+  {
+   "title": "ViPRA: Video Prediction for Robot Actions",
+   "authors": [
+    "Sandeep Routray",
+    "Hengkai Pan",
+    "Unnat Jain",
+    "Shikhar Bahl",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hs2TUwRa8p",
+   "pdf_url": "https://openreview.net/pdf?id=hs2TUwRa8p"
+  },
+  {
+   "title": "Weakly-supervised Latent Models for Task-specific Visual-Language Control",
+   "authors": [
+    "Xian Yeow Lee",
+    "Lasitha Vidyaratne",
+    "Gregory Sin",
+    "Ahmed K. Farahat",
+    "Chetan Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GBiA6rcRjH",
+   "pdf_url": "https://openreview.net/pdf?id=GBiA6rcRjH"
+  },
+  {
+   "title": "Wholly Unsupervised! Segmenting Objects by Contrast and Context",
+   "authors": [
+    "Fei Pan",
+    "Yixing Wang",
+    "Sangryul Jeon",
+    "Stella X. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wy1PcgV3K6",
+   "pdf_url": "https://openreview.net/pdf?id=Wy1PcgV3K6"
+  }
+ ]
+}

@@ -1,0 +1,890 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/MemAgent",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:22.769Z",
+ "paper_count": 70,
+ "papers": [
+  {
+   "title": "A Lightweight, Domain-Adaptive Memory System for LLM Agents",
+   "authors": [
+    "Juntao Tan",
+    "Liangwei Yang",
+    "Wenting Zhao",
+    "Jielin Qiu",
+    "Ming Zhu",
+    "Rithesh Murthy",
+    "Silvio Savarese",
+    "Huan Wang",
+    "Shelby Heinecke",
+    "Caiming Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PLkhOUxkHQ",
+   "pdf_url": "https://openreview.net/pdf?id=PLkhOUxkHQ"
+  },
+  {
+   "title": "Adaptive Memory Admission Control For LLM Agents",
+   "authors": [
+    "Guilin Zhang",
+    "Wei Jiang",
+    "Xiejiashan Wang",
+    "Aisha Behr",
+    "Kai Zhao",
+    "Jeffrey Friedman",
+    "Xu Chu",
+    "Amine Anoun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mmdqUrEY24",
+   "pdf_url": "https://openreview.net/pdf?id=mmdqUrEY24"
+  },
+  {
+   "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+   "authors": [
+    "Qizheng Zhang",
+    "Changran Hu",
+    "Shubhangi Upasani",
+    "Boyuan Ma",
+    "Fenglu Hong",
+    "Vamsidhar Kamanuru",
+    "Jay Rainton",
+    "Chen Wu",
+    "Mengmeng Ji",
+    "Hanchen Li",
+    "Urmish Thakker",
+    "James Zou",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9EPY8DDQYv",
+   "pdf_url": "https://openreview.net/pdf?id=9EPY8DDQYv"
+  },
+  {
+   "title": "Agentic Memory Should Localize Compression",
+   "authors": [
+    "Izaaz Inhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ztmwHisqJ4",
+   "pdf_url": "https://openreview.net/pdf?id=ztmwHisqJ4"
+  },
+  {
+   "title": "Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction",
+   "authors": [
+    "Mutian He",
+    "Philip N. Garner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nyJy6R348F",
+   "pdf_url": "https://openreview.net/pdf?id=nyJy6R348F"
+  },
+  {
+   "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+   "authors": [
+    "Yujie Zhao",
+    "Boqin Yuan",
+    "Junbo Huang",
+    "Haocheng Yuan",
+    "Zhongming Yu",
+    "Lanxiang Hu",
+    "Haozhou Xu",
+    "Abhilash Shankarampeta",
+    "Zimeng Huang",
+    "Wentao Ni",
+    "Yuandong Tian",
+    "Jishen Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GoSVL7mLcM",
+   "pdf_url": "https://openreview.net/pdf?id=GoSVL7mLcM"
+  },
+  {
+   "title": "ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems",
+   "authors": [
+    "Yifei Zhang",
+    "Hooshang Nayyeri",
+    "Rinat Khaziev",
+    "Emine Yilmaz",
+    "Gokhan Tur",
+    "Dilek Hakkani-Tür",
+    "Hari P Thadakamalla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1L7cY1x2zp",
+   "pdf_url": "https://openreview.net/pdf?id=1L7cY1x2zp"
+  },
+  {
+   "title": "Belief Engine: Bayesian Memory for Configurable Opinion Dynamics in LLM Agents",
+   "authors": [
+    "Joshua C. Yang",
+    "Damian Dailisan",
+    "Maurice Flechtner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cbkX3XQtip",
+   "pdf_url": "https://openreview.net/pdf?id=cbkX3XQtip"
+  },
+  {
+   "title": "CAOTE: Optimizing KV Cache Memory Through Attention Output Error-based Token Eviction",
+   "authors": [
+    "Raghavv Goel",
+    "Junyoung Park",
+    "Mukul Gagrani",
+    "Dalton Jones",
+    "Matthew J Morse",
+    "Matthew Harper Langston",
+    "Christopher Lott",
+    "Mingu Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yolbP0NoZv",
+   "pdf_url": "https://openreview.net/pdf?id=yolbP0NoZv"
+  },
+  {
+   "title": "Chow–Liu Ordering for Long-Context Reasoning in Chain-of-Agents",
+   "authors": [
+    "Naman Gupta",
+    "Vaibhav Singh",
+    "Arun Iyer",
+    "Kirankumar Shiragur",
+    "Pratham Grover",
+    "Ramakrishna B Bairi",
+    "Ritabrata Maiti",
+    "Sankarshan Damle",
+    "Shachee Mishra Gupta",
+    "Rishikesh Maurya",
+    "Vageesh D C"
+   ],
+   "forum_url": "https://openreview.net/forum?id=krfs16Y8SA",
+   "pdf_url": "https://openreview.net/pdf?id=krfs16Y8SA"
+  },
+  {
+   "title": "CloneMem: Benchmarking Long-Term Memory for AI Clones",
+   "authors": [
+    "Sen Hu",
+    "Zhiyu Zhang",
+    "YUXIANG WEI",
+    "Xueran Han",
+    "Zhenheng Tang",
+    "Ronghao Chen",
+    "Huacan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iC2umYHSKW",
+   "pdf_url": "https://openreview.net/pdf?id=iC2umYHSKW"
+  },
+  {
+   "title": "CoMem: Context Management with A Decoupled Long-Context Model",
+   "authors": [
+    "Yuwei Zhang",
+    "Chengyu Dong",
+    "Shuowei Jin",
+    "Changlong Yu",
+    "Hejie Cui",
+    "Hongye Jin",
+    "Xinyang Zhang",
+    "Hamed Bonab",
+    "Colin Lockard",
+    "Jianshu Chen",
+    "Zhenyu Shi",
+    "Jingbo Shang",
+    "Xian Li",
+    "Bing Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tc9GAKlxQC",
+   "pdf_url": "https://openreview.net/pdf?id=tc9GAKlxQC"
+  },
+  {
+   "title": "Compute Allocation for Reasoning-Intensive Retrieval Agents",
+   "authors": [
+    "Sreeja Apparaju",
+    "Nilesh Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nqr4eTODKl",
+   "pdf_url": "https://openreview.net/pdf?id=nqr4eTODKl"
+  },
+  {
+   "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+   "authors": [
+    "Pearl Mody",
+    "Mihir Panchal",
+    "Rishit Kar",
+    "Kiran Bhowmick",
+    "Ruhina Karani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tts94WVw40",
+   "pdf_url": "https://openreview.net/pdf?id=Tts94WVw40"
+  },
+  {
+   "title": "Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory",
+   "authors": [
+    "Boqin Yuan",
+    "Yue Su",
+    "Kun Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cxYbqAtBIz",
+   "pdf_url": "https://openreview.net/pdf?id=cxYbqAtBIz"
+  },
+  {
+   "title": "DialSim: A Dialogue Simulator for Evaluating Long-Term Multi-Party Dialogue Understanding of Conversational Agents",
+   "authors": [
+    "Jiho Kim",
+    "Woosog Chay",
+    "Hyeonji Hwang",
+    "Daeun Kyung",
+    "Hyunseung Chung",
+    "Eunbyeol Cho",
+    "Yeonsu Kwon",
+    "Yohan Jo",
+    "Edward Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jysCqv1y8O",
+   "pdf_url": "https://openreview.net/pdf?id=jysCqv1y8O"
+  },
+  {
+   "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
+   "authors": [
+    "Madhava Gaikwad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iGRGjdhl9r",
+   "pdf_url": "https://openreview.net/pdf?id=iGRGjdhl9r"
+  },
+  {
+   "title": "Distilling Feedback into Memory-as-a-Tool",
+   "authors": [
+    "Victor Gallego"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hvfhz64q0O",
+   "pdf_url": "https://openreview.net/pdf?id=hvfhz64q0O"
+  },
+  {
+   "title": "Do LLMs Benefit From Their Own Words?",
+   "authors": [
+    "Jenny Y. Huang",
+    "Leshem Choshen",
+    "Ramón Fernandez Astudillo",
+    "Tamara Broderick",
+    "Jacob Andreas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=paoXhcxHgS",
+   "pdf_url": "https://openreview.net/pdf?id=paoXhcxHgS"
+  },
+  {
+   "title": "ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents",
+   "authors": [
+    "Daivik Patel",
+    "Shrenik Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qajz4UkgIw",
+   "pdf_url": "https://openreview.net/pdf?id=qajz4UkgIw"
+  },
+  {
+   "title": "Entropic Memory: A Thermodynamics-Inspired Consolidation Mechanism for Lifelong Agent Learning",
+   "authors": [
+    "Jing Du",
+    "Hang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=um6VpjcOtj",
+   "pdf_url": "https://openreview.net/pdf?id=um6VpjcOtj"
+  },
+  {
+   "title": "Episodic Memory from Compression Boundaries in Latent Representation Space",
+   "authors": [
+    "David Oneil Campos Ferreira",
+    "Priscila Rocha Maia Freitas Ribeiro",
+    "EMANUEL BORGES PASSINATO",
+    "Diogo Fernandes Costa Silva",
+    "Arlindo Rodrigues Galvão Filho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=En9aRT4uz8",
+   "pdf_url": "https://openreview.net/pdf?id=En9aRT4uz8"
+  },
+  {
+   "title": "Epistemic Memory Failures in Long-Form Narrative Agents: A Deployment Study",
+   "authors": [
+    "CHEN XIWEI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u5VS0Eg9DO",
+   "pdf_url": "https://openreview.net/pdf?id=u5VS0Eg9DO"
+  },
+  {
+   "title": "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Niels Mündler",
+    "Mark Niklas Mueller",
+    "Veselin Raychev",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pLi3A8bscP",
+   "pdf_url": "https://openreview.net/pdf?id=pLi3A8bscP"
+  },
+  {
+   "title": "Evaluating Memory Structure in LLM Agents",
+   "authors": [
+    "Alina Shutova",
+    "Alexandra Olenina",
+    "Vinogradov Ivan",
+    "Anton Sinitsin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a9vY2sJkf4",
+   "pdf_url": "https://openreview.net/pdf?id=a9vY2sJkf4"
+  },
+  {
+   "title": "Experiential Reflective Learning for Self-Improving LLM Agents",
+   "authors": [
+    "Allard Marc-Antoine",
+    "Arnaud Teinturier",
+    "Victor Xing",
+    "Gautier Viaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hQgSl6kj1W",
+   "pdf_url": "https://openreview.net/pdf?id=hQgSl6kj1W"
+  },
+  {
+   "title": "FactorMiner: A Self-Evolving Agent with Skills and Experience Memory for Financial Alpha Discovery",
+   "authors": [
+    "Yanlong Wang",
+    "Jian Xu",
+    "Hongkang Zhang",
+    "Shao-Lun Huang",
+    "Danny Dongning Sun",
+    "Xiao-Ping Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TTsecyqrW3",
+   "pdf_url": "https://openreview.net/pdf?id=TTsecyqrW3"
+  },
+  {
+   "title": "Fast-Write, Deep-Read: EcphoryRAG as Dynamic Associative Memory for Lifelong Agents",
+   "authors": [
+    "ZIRUI LIAO",
+    "ZhengXian Wu",
+    "Zhuohong Chen",
+    "Xiaoyu Liu",
+    "Yifan Xu",
+    "Yunyao Yu",
+    "Haoqian Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YHSoIbQWR8",
+   "pdf_url": "https://openreview.net/pdf?id=YHSoIbQWR8"
+  },
+  {
+   "title": "Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison",
+   "authors": [
+    "Yoonho Lee",
+    "Joseph Boen",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uw5G3H26ps",
+   "pdf_url": "https://openreview.net/pdf?id=Uw5G3H26ps"
+  },
+  {
+   "title": "From Lossy to Verified: A Provenance-Aware Tiered Memory for Agents",
+   "authors": [
+    "Qiming Zhu",
+    "Shunian Chen",
+    "Rui Yu",
+    "Zhehao Wu",
+    "Benyou Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dJgeY3Awrv",
+   "pdf_url": "https://openreview.net/pdf?id=dJgeY3Awrv"
+  },
+  {
+   "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+   "authors": [
+    "Jinghao Luo",
+    "Yuchen Tian",
+    "Chuxue Cao",
+    "Ziyang Luo",
+    "Hongzhan Lin",
+    "Kaixin Li",
+    "Chuyi Kong",
+    "Ruichao Yang",
+    "Jing Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l9Ly41xxPb",
+   "pdf_url": "https://openreview.net/pdf?id=l9Ly41xxPb"
+  },
+  {
+   "title": "GAM: Hierarchical Graph Memory for LLM-based Agents",
+   "authors": [
+    "Zhaofen Wu",
+    "Hanrong Zhang",
+    "Fulin Lin",
+    "Wujiang Xu",
+    "Xinran Xu",
+    "Yankai Chen",
+    "Henry Peng Zou",
+    "Shaowen Chen",
+    "Weizhi Zhang",
+    "Xue Liu",
+    "Philip S. Yu",
+    "Hongwei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mmsVZGaYyp",
+   "pdf_url": "https://openreview.net/pdf?id=mmsVZGaYyp"
+  },
+  {
+   "title": "Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction",
+   "authors": [
+    "Diego C. Lerma-Torres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QufkvHbQs7",
+   "pdf_url": "https://openreview.net/pdf?id=QufkvHbQs7"
+  },
+  {
+   "title": "INFMEM: Learning System-2 Memory Control for Long-Context Agent",
+   "authors": [
+    "Xinyu Wang",
+    "Mingze Li",
+    "Peng Lu",
+    "Xiao-Wen Chang",
+    "Lifeng Shang",
+    "Jinpeng Li",
+    "Fei Mi",
+    "Prasanna Parthasarathi",
+    "Yufei Cui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zJirFEiqem",
+   "pdf_url": "https://openreview.net/pdf?id=zJirFEiqem"
+  },
+  {
+   "title": "Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates",
+   "authors": [
+    "Yibo Li",
+    "Zijie Lin",
+    "Ailin Deng",
+    "Xuan Zhang",
+    "Yufei He",
+    "Shuo Ji",
+    "Tri Cao",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=us2YPNouOm",
+   "pdf_url": "https://openreview.net/pdf?id=us2YPNouOm"
+  },
+  {
+   "title": "LaCy: What Small Language Models Can and Should Learn into Limited Parametric Memory",
+   "authors": [
+    "Szilvia Ujváry",
+    "Louis Béthune",
+    "Pierre Ablin",
+    "Joao Monteiro",
+    "marco cuturi",
+    "Michael Kirchhof"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OK8yNPxQgZ",
+   "pdf_url": "https://openreview.net/pdf?id=OK8yNPxQgZ"
+  },
+  {
+   "title": "Latent Action Reparameterization for Efficient Agent Inference",
+   "authors": [
+    "Qingwen Zeng",
+    "Wenhao Huang",
+    "Zerui Xu",
+    "Zijie Guo",
+    "Yu Sun",
+    "Cheng Yang",
+    "Siru Ouyang",
+    "Jiri Gesi",
+    "Fang Wu",
+    "Jiayi Zhang",
+    "Bang Liu",
+    "Chenglin Wu",
+    "Xiangru Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nmFfyHEs76",
+   "pdf_url": "https://openreview.net/pdf?id=nmFfyHEs76"
+  },
+  {
+   "title": "Learning Multimodal Trajectory Representations for Web Agent Planning",
+   "authors": [
+    "Xuan Zhang",
+    "Shengbo Cai",
+    "Ziyan Jiang",
+    "Rui Meng",
+    "Zora Zhiruo Wang",
+    "Lu Guangcheng",
+    "Zhiyong Wu",
+    "Yanyi Shang",
+    "Dehan Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XZputtLpjz",
+   "pdf_url": "https://openreview.net/pdf?id=XZputtLpjz"
+  },
+  {
+   "title": "Learning Safe Robot Planning from Unsafe Experiences: An Episodic Memory Approach for LLM-based Agents",
+   "authors": [
+    "Hang Zhao",
+    "Jing Du",
+    "Shengwei An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KrmyJtyE6k",
+   "pdf_url": "https://openreview.net/pdf?id=KrmyJtyE6k"
+  },
+  {
+   "title": "Learning to Continually Learn via Meta-learning Agentic Memory Designs",
+   "authors": [
+    "Yiming Xiong",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PRkA1cwXC2",
+   "pdf_url": "https://openreview.net/pdf?id=PRkA1cwXC2"
+  },
+  {
+   "title": "Learning What to Learn: Curriculum Curation for Test-Time Agent Learning",
+   "authors": [
+    "Qizheng Zhang",
+    "Sherry Ruan",
+    "Shubhangi Upasani",
+    "Fenglu Hong",
+    "Changxiu Ji",
+    "Changran Hu",
+    "Bo Li",
+    "Hanchen Li",
+    "Kunle Olukotun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qr5bhBbBOb",
+   "pdf_url": "https://openreview.net/pdf?id=Qr5bhBbBOb"
+  },
+  {
+   "title": "LLMs Can't Play Hangman: On the Necessity of a Private Working Memory for Language Agents",
+   "authors": [
+    "Davide Baldelli",
+    "Ali Parviz",
+    "Amal Zouaq",
+    "Sarath Chandar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AiDSgIwVqL",
+   "pdf_url": "https://openreview.net/pdf?id=AiDSgIwVqL"
+  },
+  {
+   "title": "Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation",
+   "authors": [
+    "Peter Baile Chen",
+    "Yi Zhang",
+    "Dan Roth",
+    "Samuel Madden",
+    "Jacob Andreas",
+    "Mike Cafarella"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tn8umfh5X0",
+   "pdf_url": "https://openreview.net/pdf?id=tn8umfh5X0"
+  },
+  {
+   "title": "Look Before You Leap: Thermodynamic Arbitration of  Parametric and Non-Parametric Knowledge in LLM Agents via Self-Regulating Memory Architectures",
+   "authors": [
+    "Akash Das",
+    "Ishan Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w9kwK5Xzvb",
+   "pdf_url": "https://openreview.net/pdf?id=w9kwK5Xzvb"
+  },
+  {
+   "title": "LP-RAG: A Link Prediction-Based Framework for Retrieval-Augmented Generation",
+   "authors": [
+    "Erik Jhones Freitas do Nascimento",
+    "Jorge Luiz Franco",
+    "Amauri H Souza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y8Txo8vaH7",
+   "pdf_url": "https://openreview.net/pdf?id=Y8Txo8vaH7"
+  },
+  {
+   "title": "MemFly: On-the-Fly Memory Optimization via Information Bottleneck",
+   "authors": [
+    "Zhenyuan Zhang",
+    "Jia Xianzhang",
+    "Zhiqin Yang",
+    "Mingming Chen",
+    "Zhenbo Song",
+    "Wei Xue",
+    "Sirui Han",
+    "Yike Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=udAdzc3rx9",
+   "pdf_url": "https://openreview.net/pdf?id=udAdzc3rx9"
+  },
+  {
+   "title": "MemGrad: A Memory-Guided Optimization of Agentic Software Development via Abstracted Textual Gradients",
+   "authors": [
+    "Anish Natekar",
+    "Ashutosh Ranjan",
+    "Vivek Srivastava",
+    "Shirish Karande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GeaPE7iw1V",
+   "pdf_url": "https://openreview.net/pdf?id=GeaPE7iw1V"
+  },
+  {
+   "title": "MemoGraph: Augmenting LLMs with Explicit Episodic Memory for Multi-step Mathematical Reasoning",
+   "authors": [
+    "Yutong Li",
+    "Yitian Zhou",
+    "Guo Chen",
+    "Xudong Wang",
+    "Chenghao Li",
+    "Chaoning Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HaCqQlEjCN",
+   "pdf_url": "https://openreview.net/pdf?id=HaCqQlEjCN"
+  },
+  {
+   "title": "Memory Injection Attacks on LLM Agents via Query-Only Interaction",
+   "authors": [
+    "Shen Dong",
+    "Shaochen Xu",
+    "Pengfei He",
+    "Yige Li",
+    "Jiliang Tang",
+    "Tianming Liu",
+    "Hui Liu",
+    "Zhen Xiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i7J62t2wtV",
+   "pdf_url": "https://openreview.net/pdf?id=i7J62t2wtV"
+  },
+  {
+   "title": "MEMORY IS RECONSTRUCTED, NOT RETRIEVED: GRAPH MEMORY FOR LLM AGENTS",
+   "authors": [
+    "Shuo Ji",
+    "Yibo Li",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YPoHy6lgKP",
+   "pdf_url": "https://openreview.net/pdf?id=YPoHy6lgKP"
+  },
+  {
+   "title": "Memory Transplants for LLM Agents: Disentangling Architecture and Content Transfer under a Code-to-Math Shift",
+   "authors": [
+    "Zhaoxiang Feng",
+    "Mingyang Yao",
+    "David Scott Lewis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AIJsjIqfsp",
+   "pdf_url": "https://openreview.net/pdf?id=AIJsjIqfsp"
+  },
+  {
+   "title": "Memory-Efficient Multilingual Embeddings with a Diffusion-LM Backbone",
+   "authors": [
+    "Sedigheh Eslami",
+    "Maksim Gaiduk",
+    "Markus Krimmel",
+    "Louis Mark Milliken",
+    "Bo Wang",
+    "Denis Bykov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QdfiYLNRfB",
+   "pdf_url": "https://openreview.net/pdf?id=QdfiYLNRfB"
+  },
+  {
+   "title": "MIRROR: Complementary Encoding and Reconstructive Consolidation for Persistent State in LLM Systems",
+   "authors": [
+    "Nicole Hsing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IviO4bIZc7",
+   "pdf_url": "https://openreview.net/pdf?id=IviO4bIZc7"
+  },
+  {
+   "title": "Multi-Agent Collaborative Framework for Intelligent IT Operations: An AOI System with Context-Aware Compression and Dynamic Task Scheduling",
+   "authors": [
+    "Yixin Wang",
+    "Yingxin Su",
+    "Bingli Zhang",
+    "Zishan Bai",
+    "Guozhong Zhang",
+    "Junzhao Jiang",
+    "Xinyu Wang",
+    "Zhang Chengbiao",
+    "Yifan Wang",
+    "Xiang Luo",
+    "Jin Cheng",
+    "Ernie Tian",
+    "Xiaotong Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q16XXJou3O",
+   "pdf_url": "https://openreview.net/pdf?id=Q16XXJou3O"
+  },
+  {
+   "title": "Norm-Guided KV-Cache Eviction for Memory-Efficient Reasoning",
+   "authors": [
+    "Prasanth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xOW2jXDKG3",
+   "pdf_url": "https://openreview.net/pdf?id=xOW2jXDKG3"
+  },
+  {
+   "title": "PROCED-MEM: BENCHMARKING PROCEDURAL MEMORY RETRIEVAL IN LANGUAGE AGENTS ACROSS DOMAINS",
+   "authors": [
+    "Ishant Kohar",
+    "Aswanth Krishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4YhU3BZgoZ",
+   "pdf_url": "https://openreview.net/pdf?id=4YhU3BZgoZ"
+  },
+  {
+   "title": "R-KVHash: Reasoning Model KV Cache Compression Via SimHash-based Estimation of Redundant Tokens",
+   "authors": [
+    "Aadi Palnitkar",
+    "Tahseen Rabbani",
+    "Dixi Yao",
+    "Ce Zhang",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UTRuEFJ57H",
+   "pdf_url": "https://openreview.net/pdf?id=UTRuEFJ57H"
+  },
+  {
+   "title": "Real-Time Procedural Learning From Experience for AI Agents",
+   "authors": [
+    "Dasheng Bi",
+    "Yubin Hu",
+    "Mohammed N Nasir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HLuPQ0G1do",
+   "pdf_url": "https://openreview.net/pdf?id=HLuPQ0G1do"
+  },
+  {
+   "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
+   "authors": [
+    "Thomas Palmeira Ferraz",
+    "Romain Deffayet",
+    "Vassilina Nikoulina",
+    "Hervé Déjean",
+    "Stéphane Clinchant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HXTOSwUwF6",
+   "pdf_url": "https://openreview.net/pdf?id=HXTOSwUwF6"
+  },
+  {
+   "title": "SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents",
+   "authors": [
+    "Alejandro Cuadron",
+    "Pengfei Yu",
+    "Yang Liu",
+    "Arpit Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=En2z9dckgP",
+   "pdf_url": "https://openreview.net/pdf?id=En2z9dckgP"
+  },
+  {
+   "title": "SelfEvoWM:Self-Evolving Task Discovery and In-Imagination Robot Learning with DROID-Grounded World Models",
+   "authors": [
+    "Chen hao",
+    "Min Zhang",
+    "Sen Cui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lVn5vLOkjP",
+   "pdf_url": "https://openreview.net/pdf?id=lVn5vLOkjP"
+  },
+  {
+   "title": "ShiftBench: Measuring Recovery of Agent Memory Under Distribution Shift",
+   "authors": [
+    "Teresa Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CCSztIjmOy",
+   "pdf_url": "https://openreview.net/pdf?id=CCSztIjmOy"
+  },
+  {
+   "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+   "authors": [
+    "Jiaqi Liu",
+    "Yaofeng Su",
+    "Peng Xia",
+    "Siwei Han",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMveUVer0m",
+   "pdf_url": "https://openreview.net/pdf?id=CMveUVer0m"
+  },
+  {
+   "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+   "authors": [
+    "Peng Xia",
+    "Jianwen Chen",
+    "Hanyang Wang",
+    "Jiaqi Liu",
+    "Kaide Zeng",
+    "Yu Wang",
+    "Siwei Han",
+    "Yiyang Zhou",
+    "Xujiang Zhao",
+    "Haifeng Chen",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Huaxiu Yao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=By7Pj576U3",
+   "pdf_url": "https://openreview.net/pdf?id=By7Pj576U3"
+  },
+  {
+   "title": "Spectral Attention Steering for Prompt Highlighting",
+   "authors": [
+    "Weixian Waylon Li",
+    "Yuchen Niu",
+    "Yongxin Yang",
+    "Keshuang Li",
+    "Tiejun Ma",
+    "Shay B Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HAmQ65v22N",
+   "pdf_url": "https://openreview.net/pdf?id=HAmQ65v22N"
+  },
+  {
+   "title": "SuperIntelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+   "authors": [
+    "Zeyu Yang",
+    "Qi Ma",
+    "Chun-cheng Jason Chen",
+    "Anshumali Shrivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CzzeLatTnI",
+   "pdf_url": "https://openreview.net/pdf?id=CzzeLatTnI"
+  },
+  {
+   "title": "Tool use is provably more scalable than in-weight memory for Large Language Models",
+   "authors": [
+    "Sam Houliston",
+    "Ambroise Odonnat",
+    "Charles Arnal",
+    "Vivien Cabannes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s7IRNX6FUs",
+   "pdf_url": "https://openreview.net/pdf?id=s7IRNX6FUs"
+  },
+  {
+   "title": "Toward a Theory of Hierarchical Memory for Language Agents",
+   "authors": [
+    "Yashar Talebirad",
+    "Ali Parsaee",
+    "Csongor Y. Szepesvari",
+    "Amirhossein Nadiri",
+    "Osmar Zaiane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8GRnzouMjR",
+   "pdf_url": "https://openreview.net/pdf?id=8GRnzouMjR"
+  },
+  {
+   "title": "UltRAG: A universal simple scalable recipe for knowledge graph RAG",
+   "authors": [
+    "Dobrik Georgiev Georgiev",
+    "Kheeran K. Naidu",
+    "Alberto Cattaneo",
+    "Federico Monti",
+    "Carlo Luschi",
+    "Daniel Justus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yN7OBR5lkV",
+   "pdf_url": "https://openreview.net/pdf?id=yN7OBR5lkV"
+  },
+  {
+   "title": "WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance",
+   "authors": [
+    "Genglin Liu",
+    "Shijie Geng",
+    "Sha Li",
+    "Hejie Cui",
+    "Sarah Zhang",
+    "Xin Liu",
+    "Tianyi Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FDrGfjwQM5",
+   "pdf_url": "https://openreview.net/pdf?id=FDrGfjwQM5"
+  }
+ ]
+}

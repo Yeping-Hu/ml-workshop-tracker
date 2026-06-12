@@ -1,0 +1,534 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/MemFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:59.735Z",
+ "paper_count": 45,
+ "papers": [
+  {
+   "title": "\\textsc{ContinuousBench}: Can Differentially Private Synthetic Text Improve Capabilities?",
+   "authors": [
+    "Peihan Liu",
+    "Lucas Rosenblatt",
+    "Weiwei Kong",
+    "Natalia Ponomareva",
+    "Gautam Kamath",
+    "Rachel Cummings",
+    "Roxana Geambasu",
+    "Yu Gan",
+    "Lillian Tsai",
+    "Alex Bie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EjoLcsnlHD",
+   "pdf_url": "https://openreview.net/pdf?id=EjoLcsnlHD"
+  },
+  {
+   "title": "Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models",
+   "authors": [
+    "Xinyue Liu",
+    "Niloofar Mireshghallah",
+    "Jane C. Ginsburg",
+    "Tuhin Chakrabarty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=62zTHbtiDH",
+   "pdf_url": "https://openreview.net/pdf?id=62zTHbtiDH"
+  },
+  {
+   "title": "Alignment-aware Data Selection for Unlearning in Contrastive Vision-Language Models",
+   "authors": [
+    "Dongjun Hwang",
+    "Yejin Kim",
+    "Beomyun Kwon",
+    "Junsuk Choe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Urnkawsb3P",
+   "pdf_url": "https://openreview.net/pdf?id=Urnkawsb3P"
+  },
+  {
+   "title": "Amplifying Membership Signal Through Iterative Regeneration",
+   "authors": [
+    "Stanisław Pawlak",
+    "Wojciech Łapacz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VbNH2nRuWv",
+   "pdf_url": "https://openreview.net/pdf?id=VbNH2nRuWv"
+  },
+  {
+   "title": "An Explicit Memory-Driven Agentic Framework for Power System Simulation",
+   "authors": [
+    "Qinjuan Wang",
+    "Yongli Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1rqKSX6g63",
+   "pdf_url": "https://openreview.net/pdf?id=1rqKSX6g63"
+  },
+  {
+   "title": "Auditing Reasoning-Trace Memorization Claims after Unlearning with Head-Conditioned Canaries",
+   "authors": [
+    "Yanhang Li",
+    "Zhichao Fan",
+    "Zexin Zhuang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xlbsCYjje8",
+   "pdf_url": "https://openreview.net/pdf?id=xlbsCYjje8"
+  },
+  {
+   "title": "Bayes-Optimal Coexistence via Fact Localizability in Trainable-Feature Decoder-Only Transformers",
+   "authors": [
+    "Manoj Saravanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZRS07ZsRc",
+   "pdf_url": "https://openreview.net/pdf?id=LZRS07ZsRc"
+  },
+  {
+   "title": "Break the Output Geometry for Large Language Model Unlearning",
+   "authors": [
+    "Yejin Kim",
+    "William F. Shen",
+    "Seokwon Jung",
+    "Seong Joon Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UELnN26zPQ",
+   "pdf_url": "https://openreview.net/pdf?id=UELnN26zPQ"
+  },
+  {
+   "title": "Cheap Forgetting: Linear Adapter Interpolation as a Post-Hoc Memorization Mitigation",
+   "authors": [
+    "Anmol Pandey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QnMOXuXuPQ",
+   "pdf_url": "https://openreview.net/pdf?id=QnMOXuXuPQ"
+  },
+  {
+   "title": "Deployment-Time Memorization in Foundation-Model Agents",
+   "authors": [
+    "Rachel Chen",
+    "Guilin Zhang",
+    "Kai Zhao",
+    "Xu Chu",
+    "Amine Anoun",
+    "Jerry Ting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mc7fVimV9b",
+   "pdf_url": "https://openreview.net/pdf?id=mc7fVimV9b"
+  },
+  {
+   "title": "Detecting Functional Memorization in Code Language Models",
+   "authors": [
+    "Matthieu Meeus",
+    "Anil Ramakrishna",
+    "Matthew Grange",
+    "Zheng Xu",
+    "Luca Melis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OD9xrXF5Ak",
+   "pdf_url": "https://openreview.net/pdf?id=OD9xrXF5Ak"
+  },
+  {
+   "title": "Do Text Anonymizers Generalize Across Contexts? Extending RAT-Bench to Malaysian Microdata and PII",
+   "authors": [
+    "David Hong Liang Chew",
+    "Zexi Yao",
+    "Nataša Krčo",
+    "Matthieu Meeus",
+    "Waqas Khalid Obeidy",
+    "Yves-Alexandre de Montjoye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GnrrLsHYOx",
+   "pdf_url": "https://openreview.net/pdf?id=GnrrLsHYOx"
+  },
+  {
+   "title": "Estimating Model-Level Membership Inference Vulnerability Without Reference Models",
+   "authors": [
+    "Euodia Dodd",
+    "Nataša Krčo",
+    "Igor Shilov",
+    "Matthew Robert Wicker",
+    "Yves-Alexandre de Montjoye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xq9yZki2uy",
+   "pdf_url": "https://openreview.net/pdf?id=xq9yZki2uy"
+  },
+  {
+   "title": "Estimating near-verbatim extraction risk in language models with decoding-constrained beam search",
+   "authors": [
+    "A. Feder Cooper",
+    "Mark Lemley",
+    "Christopher De Sa",
+    "Lea Duesterwald",
+    "Allison Casasola",
+    "Jamie Hayes",
+    "Katherine Lee",
+    "Daniel E. Ho",
+    "Percy Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yH2QS5ba6l",
+   "pdf_url": "https://openreview.net/pdf?id=yH2QS5ba6l"
+  },
+  {
+   "title": "Evidence-bearing Insights under Differential Privacy: Beyond the Limits of Private Text Generation",
+   "authors": [
+    "Tsubasa Takahashi",
+    "Takumi Hiraoka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XmMCXq9bSx",
+   "pdf_url": "https://openreview.net/pdf?id=XmMCXq9bSx"
+  },
+  {
+   "title": "Internal Data Repetition Destroys Language Models",
+   "authors": [
+    "Jessica Chudnovsky",
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Yegor Denisov-Blanch",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xWcBpqJofG",
+   "pdf_url": "https://openreview.net/pdf?id=xWcBpqJofG"
+  },
+  {
+   "title": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
+   "authors": [
+    "Mufei Li",
+    "Shikun Liu",
+    "Dongqi Fu",
+    "Haoyu Peter Wang",
+    "Yinglong Xia",
+    "Hong Li",
+    "Hong Yan",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dOrmkrvRVM",
+   "pdf_url": "https://openreview.net/pdf?id=dOrmkrvRVM"
+  },
+  {
+   "title": "Local Coverage Governs Memorization in Diffusion Models",
+   "authors": [
+    "Claudia Merger",
+    "Sebastian Goldt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wUCcl1vNxd",
+   "pdf_url": "https://openreview.net/pdf?id=wUCcl1vNxd"
+  },
+  {
+   "title": "Machine Text Detectors are Membership Inference Attacks",
+   "authors": [
+    "Ryuto Koike",
+    "Liam Dugan",
+    "Masahiro Kaneko",
+    "Chris Callison-Burch",
+    "Naoaki Okazaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KC1vYb9W3q",
+   "pdf_url": "https://openreview.net/pdf?id=KC1vYb9W3q"
+  },
+  {
+   "title": "MemBoost: A Memory-Boosted Framework for Cost-Aware LLM Inference",
+   "authors": [
+    "Joris Köster",
+    "Zixuan Liu",
+    "Zizhan Zheng",
+    "Siavash H. Khajavi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AAtD3jSaha",
+   "pdf_url": "https://openreview.net/pdf?id=AAtD3jSaha"
+  },
+  {
+   "title": "Memorization Dynamics of Fill-in-the-Middle Pretraining",
+   "authors": [
+    "Tobias von Arx",
+    "Tanguy Dieudonné"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZkP3oHo8c",
+   "pdf_url": "https://openreview.net/pdf?id=TZkP3oHo8c"
+  },
+  {
+   "title": "Memorization Removal as a Two-Player Game: The Adversarial Work Criterion as a Test for Foundation-Model Defenses",
+   "authors": [
+    "Fryderyk Kuzma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2So4GDtDJ8",
+   "pdf_url": "https://openreview.net/pdf?id=2So4GDtDJ8"
+  },
+  {
+   "title": "Memory Adapters Enable Fast, Flexible Knowledge Unlearning in LLMs",
+   "authors": [
+    "Keltin Grimes",
+    "Kevin Kuo",
+    "Steven Wu",
+    "Virginia Smith",
+    "Marissa Catherine Connor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LCVFastmwR",
+   "pdf_url": "https://openreview.net/pdf?id=LCVFastmwR"
+  },
+  {
+   "title": "Mitigating Unintended Memory Use in LLMs via Structured Memory",
+   "authors": [
+    "Hakeem Hannoon",
+    "Andrew Zhao",
+    "Mihir Narayan",
+    "Sharvin Goyal",
+    "Ivaxi Sheth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jd4jcyDKzL",
+   "pdf_url": "https://openreview.net/pdf?id=jd4jcyDKzL"
+  },
+  {
+   "title": "NumLeak: Public Numeric Benchmarks as Latent Label in Foundation Models",
+   "authors": [
+    "Anany Kotawala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lMz94LnBxn",
+   "pdf_url": "https://openreview.net/pdf?id=lMz94LnBxn"
+  },
+  {
+   "title": "On Optimization Complexity of Second-Order Certified Unlearning",
+   "authors": [
+    "Nikita Doikov",
+    "Anastasia Koloskova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7dQauUMzJ1",
+   "pdf_url": "https://openreview.net/pdf?id=7dQauUMzJ1"
+  },
+  {
+   "title": "On the Geometry of Memorization: Interpolation and Second-Order Representation Irregularity",
+   "authors": [
+    "Satwik Bathula"
+   ],
+   "forum_url": "https://openreview.net/forum?id=khVMWyj9BP",
+   "pdf_url": "https://openreview.net/pdf?id=khVMWyj9BP"
+  },
+  {
+   "title": "On the Learning Dynamics of Label-Noise Memorization in ReLU MLPs",
+   "authors": [
+    "Yannis Kaltampanidis",
+    "Mykola Pechenizkiy",
+    "Hannah Pinson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y1R5J5ylLA",
+   "pdf_url": "https://openreview.net/pdf?id=Y1R5J5ylLA"
+  },
+  {
+   "title": "Position: The Term “Machine Unlearning” Is Overused in LLMs",
+   "authors": [
+    "Sangyeon Yoon",
+    "Yeachan Jun",
+    "Albert No"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J6VhgYtgYZ",
+   "pdf_url": "https://openreview.net/pdf?id=J6VhgYtgYZ"
+  },
+  {
+   "title": "Probing Memorization of Tabular In-Context Learning",
+   "authors": [
+    "Francesco Capano",
+    "Jonas Böhler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wet1THUD4q",
+   "pdf_url": "https://openreview.net/pdf?id=wet1THUD4q"
+  },
+  {
+   "title": "Probing Policy-Level Memorization in Reasoning LLMs via Atomic Chess",
+   "authors": [
+    "Ryan Co",
+    "Karthik Reddy Konuganti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4OT5FZih8N",
+   "pdf_url": "https://openreview.net/pdf?id=4OT5FZih8N"
+  },
+  {
+   "title": "Prune to Protect: Faster Training and Enhanced Privacy by Dynamic Data Pruning",
+   "authors": [
+    "Chinmay Joshi",
+    "Advait Gadhikar",
+    "Celia Rubio-Madrigal",
+    "Aneet Kumar Dutta",
+    "Mridula Singh",
+    "Rebekka Burkholz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IFnzabrAbl",
+   "pdf_url": "https://openreview.net/pdf?id=IFnzabrAbl"
+  },
+  {
+   "title": "Rare, Distinctive, Memorized: Auditing Memorization in Fine-Tuned Medical Foundation Models",
+   "authors": [
+    "Santhosh Parampottupadam",
+    "Sinem Sav",
+    "Dimitrios Bounias",
+    "Saikat Roy",
+    "Klaus Maier-Hein",
+    "Adam Dziedzic",
+    "Franziska Boenisch",
+    "Ralf Floca"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iHevqczT2u",
+   "pdf_url": "https://openreview.net/pdf?id=iHevqczT2u"
+  },
+  {
+   "title": "Reconstructing Training Images from Foundation Model Parameters in the Healthcare Domain: Privacy Risks and Defences",
+   "authors": [
+    "Athanasios Panagiotis Glykos",
+    "Yannis Kaltampanidis",
+    "Mykola Pechenizkiy",
+    "Hannah Pinson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GadNmjrI9r",
+   "pdf_url": "https://openreview.net/pdf?id=GadNmjrI9r"
+  },
+  {
+   "title": "Scale Dependent Data Duplication",
+   "authors": [
+    "Joshua Kazdan",
+    "Noam Itzhak Levi",
+    "Rylan Schaeffer",
+    "Jessica Chudnovsky",
+    "Abhay Puri",
+    "Bo He",
+    "Mehmet Donmez",
+    "Sanmi Koyejo",
+    "David L. Donoho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N835H9OajI",
+   "pdf_url": "https://openreview.net/pdf?id=N835H9OajI"
+  },
+  {
+   "title": "Semantic Gravity: When Parametric Memory Overpowers Visual Thermodynamics in Video-LLMs",
+   "authors": [
+    "Vidya Ganesh",
+    "Sethuraman T V",
+    "Aylmer Britto Rex Harison",
+    "Sibi Anitha Ragunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TKFQdSqb6M",
+   "pdf_url": "https://openreview.net/pdf?id=TKFQdSqb6M"
+  },
+  {
+   "title": "Structural Memorization in AlphaFold: Adversarial Mutations Reveal Template Reliance, Confidence Failures, and Implications for Protein Design",
+   "authors": [
+    "Jonathan Feldman",
+    "Maximilian Brogi",
+    "Jeffrey Skolnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9IGz9nI3vD",
+   "pdf_url": "https://openreview.net/pdf?id=9IGz9nI3vD"
+  },
+  {
+   "title": "Suppression is not Deletion: Adversarial Probes Recover Unlearned Knowledge in Code LLMs",
+   "authors": [
+    "Dhairyasheel Patil",
+    "Gustavo Sandoval"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6WYjBeIioq",
+   "pdf_url": "https://openreview.net/pdf?id=6WYjBeIioq"
+  },
+  {
+   "title": "SYMBOLICDRIFT: Measuring Reasoning Drift on Unverifiable Questions",
+   "authors": [
+    "Weijie Xu",
+    "Xi Fang",
+    "Yingqiang Ge",
+    "Yuhui Xu",
+    "Scott Nickleach",
+    "Stephanie Eckman",
+    "Chandan K. Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BoGO5fsgoN",
+   "pdf_url": "https://openreview.net/pdf?id=BoGO5fsgoN"
+  },
+  {
+   "title": "Synthetic Data and the Rise of Spiky Intelligence",
+   "authors": [
+    "Abitha Thankaraj",
+    "Amro Abbas",
+    "Dongyang Fan",
+    "Vineeth Dorna",
+    "Luke Merrick",
+    "David J. Schwab",
+    "Anshuman Suri",
+    "Aldo Gael Carranza",
+    "Alex Fang",
+    "Alvin Deng",
+    "Brett W. Larsen",
+    "Darren Teh",
+    "Diego Kiner",
+    "Fan Pan",
+    "Haakon Mongstad",
+    "Haoli Yin",
+    "Jack Urbanek",
+    "Jason Chan Lee",
+    "Jason Telanoff",
+    "Josh Wills",
+    "Katherine L. Mentzer",
+    "Maximilian Böther",
+    "Parth Doshi",
+    "Paul Burstein",
+    "Rishabh Adiga",
+    "Siddharth Joshi",
+    "Tony Jiang",
+    "Vidhi Jain",
+    "Zhengping Wang",
+    "Yonatan Bisk",
+    "Bogdan Gaza",
+    "Ari S. Morcos",
+    "Matthew L Leavitt",
+    "Pratyush Maini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IkDmEuCNXs",
+   "pdf_url": "https://openreview.net/pdf?id=IkDmEuCNXs"
+  },
+  {
+   "title": "The Distillation Game: Adaptive Attacks & Efficient Defenses",
+   "authors": [
+    "Youssef Allouah",
+    "Mahdi Haghifam",
+    "Sanmi Koyejo",
+    "Reza Shokri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fwXZNHoJYQ",
+   "pdf_url": "https://openreview.net/pdf?id=fwXZNHoJYQ"
+  },
+  {
+   "title": "The Source of Competence Shapes Metacognition in Language Models",
+   "authors": [
+    "Roi Cohen",
+    "Gerard de Melo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h4y6IIKNzV",
+   "pdf_url": "https://openreview.net/pdf?id=h4y6IIKNzV"
+  },
+  {
+   "title": "Watermarking for Proprietary Dataset Protection",
+   "authors": [
+    "John Kirchenbauer",
+    "Brian R. Bartoldson",
+    "Bhavya Kailkhura",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QENUpbNXzF",
+   "pdf_url": "https://openreview.net/pdf?id=QENUpbNXzF"
+  },
+  {
+   "title": "What to Forget in Unlearning? Forget Set Curation for Language Models",
+   "authors": [
+    "Animesh Jha",
+    "Arpandeep Khatua",
+    "Youssef Allouah",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zf9b9ESaZ7",
+   "pdf_url": "https://openreview.net/pdf?id=Zf9b9ESaZ7"
+  },
+  {
+   "title": "Why Forget-Only Unlearning Needs Memorization",
+   "authors": [
+    "Luka Radić",
+    "Vikrant Singhal",
+    "Amartya Sanyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NG4RPdcNKG",
+   "pdf_url": "https://openreview.net/pdf?id=NG4RPdcNKG"
+  }
+ ]
+}

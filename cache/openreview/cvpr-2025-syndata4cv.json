@@ -1,0 +1,768 @@
+{
+ "venue_id": "thecvf.com/CVPR/2025/Workshop/SynData4CV",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:44:22.435Z",
+ "paper_count": 63,
+ "papers": [
+  {
+   "title": "ACTUPose: Active Curriculum Training for Unsupervised Domain Adaptation in Pose Estimation",
+   "authors": [
+    "Isha Dua",
+    "Arjun Sharma",
+    "Shuaib Ahmed",
+    "Rahul Tallamraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4ygxQu5sLD",
+   "pdf_url": "https://openreview.net/pdf?id=4ygxQu5sLD"
+  },
+  {
+   "title": "Analyze, Generate, Improve: Failure-Based Data Generation for Large Multimodal Models",
+   "authors": [
+    "Gabriela Ben-Melech Stan",
+    "Estelle Aflalo",
+    "Avinash Madasu",
+    "Vasudev Lal",
+    "Phillip Howard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MctBpV4isI",
+   "pdf_url": "https://openreview.net/pdf?id=MctBpV4isI"
+  },
+  {
+   "title": "Ano-Skin: Clinical Feature-Aware Diffusion Model for  Dermatological Image Anonymization",
+   "authors": [
+    "YeonGyu Han",
+    "Jung Im Na",
+    "Seong Hwan Kim",
+    "Dongheon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=miyfwh8sKb",
+   "pdf_url": "https://openreview.net/pdf?id=miyfwh8sKb"
+  },
+  {
+   "title": "Applying Longitudinal Augmentation and Data Generation (LAUGEN) in Medical Imaging",
+   "authors": [
+    "Nico Disch",
+    "Balint Kovacs",
+    "Constantin Ulrich",
+    "Robin Peretzke",
+    "Saikat Roy",
+    "Maximilian Rouven Rokuss",
+    "Yannick Kirchhoff",
+    "David Zimmerer",
+    "Klaus Maier-Hein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sRh6ZMebXJ",
+   "pdf_url": "https://openreview.net/pdf?id=sRh6ZMebXJ"
+  },
+  {
+   "title": "Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?",
+   "authors": [
+    "Shashank Agnihotri",
+    "David Schader",
+    "Nico Sharei",
+    "Mehmet Ege Kaçar",
+    "Margret Keuper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mPqVEApjIw",
+   "pdf_url": "https://openreview.net/pdf?id=mPqVEApjIw"
+  },
+  {
+   "title": "Ask, Pose, Unite: Scaling Data Acquisition for Close Interaction Meshes with Vision Language Models",
+   "authors": [
+    "Laura Bravo-Sánchez",
+    "Jaewoo Heo",
+    "Zhenzhen Weng",
+    "Kuan-Chieh Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rwACYTdvVM",
+   "pdf_url": "https://openreview.net/pdf?id=rwACYTdvVM"
+  },
+  {
+   "title": "BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions",
+   "authors": [
+    "Anas Awadalla",
+    "Le Xue",
+    "Manli Shu",
+    "An Yan",
+    "Jun Wang",
+    "Senthil Purushwalkam",
+    "Sheng Shen",
+    "Hannah Lee",
+    "Oscar Lo",
+    "Jae Sung Park",
+    "Etash Kumar Guha",
+    "Silvio Savarese",
+    "Ludwig Schmidt",
+    "Yejin Choi",
+    "Caiming Xiong",
+    "Ran Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UyPo2zzagc",
+   "pdf_url": "https://openreview.net/pdf?id=UyPo2zzagc"
+  },
+  {
+   "title": "Boosting Synthetic Data for VLMs via Diffusion Noise Optimization",
+   "authors": [
+    "Ren Ohkubo",
+    "Rintaro Yanagi",
+    "Hirokatsu Kataoka",
+    "Yutaka Satoh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yUB4MibBqn",
+   "pdf_url": "https://openreview.net/pdf?id=yUB4MibBqn"
+  },
+  {
+   "title": "Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Maps",
+   "authors": [
+    "Alessandro Simoni",
+    "Francesco Pelosin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sb6ke6gIo3",
+   "pdf_url": "https://openreview.net/pdf?id=sb6ke6gIo3"
+  },
+  {
+   "title": "BRADD: Balancing Representations with Anomaly Detection and Diffusion",
+   "authors": [
+    "Filipe Laitenberger",
+    "Nesta Midavaine",
+    "Ioana Simion",
+    "Stefan Vasilev",
+    "Hirokatsu Kataoka",
+    "Cees G. M. Snoek",
+    "Yuki M Asano",
+    "Mohammadreza Salehi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZcopSR7ndo",
+   "pdf_url": "https://openreview.net/pdf?id=ZcopSR7ndo"
+  },
+  {
+   "title": "Bridging the Domain Gap: Enhancing Underwater Laser Stripe Segmentation with Synthetic Data",
+   "authors": [
+    "Javiera Fuentes-Guíñez",
+    "Giancarlo Troni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BVl22RNRJb",
+   "pdf_url": "https://openreview.net/pdf?id=BVl22RNRJb"
+  },
+  {
+   "title": "Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding",
+   "authors": [
+    "Clémentin Boittiaux",
+    "Vincent Lepetit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1LmsiOaMTy",
+   "pdf_url": "https://openreview.net/pdf?id=1LmsiOaMTy"
+  },
+  {
+   "title": "Challenges in 3D Data Synthesis for Training Neural Networks on Topological Features",
+   "authors": [
+    "Dylan Peek",
+    "Matthew P. Skerritt",
+    "Siddharth Pritam",
+    "Stephan Chalup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FhzCijTQJC",
+   "pdf_url": "https://openreview.net/pdf?id=FhzCijTQJC"
+  },
+  {
+   "title": "COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning",
+   "authors": [
+    "Xindi Wu",
+    "Hee Seung Hwang",
+    "Polina Kirichenko",
+    "Olga Russakovsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8drM5q3vAp",
+   "pdf_url": "https://openreview.net/pdf?id=8drM5q3vAp"
+  },
+  {
+   "title": "Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization",
+   "authors": [
+    "Ruichuan An",
+    "Kai Zeng",
+    "Ming Lu",
+    "Sihan Yang",
+    "Renrui Zhang",
+    "Huitong Ji",
+    "Qizhe Zhang",
+    "Yulin Luo",
+    "Hao Liang",
+    "Wentao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=66BVzr6TES",
+   "pdf_url": "https://openreview.net/pdf?id=66BVzr6TES"
+  },
+  {
+   "title": "Corner Cases: How Size and Position of Objects Challenge ImageNet-Trained Models",
+   "authors": [
+    "Mishal Fatima",
+    "Steffen Jung",
+    "Margret Keuper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B6l94JAyKr",
+   "pdf_url": "https://openreview.net/pdf?id=B6l94JAyKr"
+  },
+  {
+   "title": "DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning",
+   "authors": [
+    "Zhengrong Xue",
+    "Shuying Deng",
+    "Zhenyang Chen",
+    "Yixuan Wang",
+    "Zhecheng Yuan",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oOHm8k5Eji",
+   "pdf_url": "https://openreview.net/pdf?id=oOHm8k5Eji"
+  },
+  {
+   "title": "Diffusion Deepfake",
+   "authors": [
+    "Chaitali Bhattacharyya",
+    "Hanxiao Wang",
+    "Feng Zhang",
+    "Sungho Kim",
+    "Xiatian Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EgD99KSdOL",
+   "pdf_url": "https://openreview.net/pdf?id=EgD99KSdOL"
+  },
+  {
+   "title": "DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions",
+   "authors": [
+    "Shashank Agnihotri",
+    "Amaan Ansari",
+    "Annika Dackermann",
+    "Fabian Rösch",
+    "Margret Keuper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yIEInigSp9",
+   "pdf_url": "https://openreview.net/pdf?id=yIEInigSp9"
+  },
+  {
+   "title": "DocGenie: A Framework for High-Fidelity Synthetic Document Generation via Seed-Guided Multimodal LLM and Document-Aware Evaluation",
+   "authors": [
+    "Harikrishnan P M",
+    "SIDDARTHA REDDY",
+    "Goutham Vignesh",
+    "Rohit Agrawal",
+    "Vishal Vaddina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cT5v6GjdsH",
+   "pdf_url": "https://openreview.net/pdf?id=cT5v6GjdsH"
+  },
+  {
+   "title": "Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data",
+   "authors": [
+    "Yiwen Liu",
+    "Jessica Bader",
+    "Jae Myung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oDt455GCmM",
+   "pdf_url": "https://openreview.net/pdf?id=oDt455GCmM"
+  },
+  {
+   "title": "Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data",
+   "authors": [
+    "Thomas Lips",
+    "Francis Wyffels"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zr4CQezRYw",
+   "pdf_url": "https://openreview.net/pdf?id=zr4CQezRYw"
+  },
+  {
+   "title": "GASR: Generated Artwork dataset for Image Super-Resolution",
+   "authors": [
+    "Noritake Kodama",
+    "Go Ohtani",
+    "Yuto Matsuo",
+    "Rintaro Yanagi",
+    "Nakamasa Inoue",
+    "Yoshimitsu Aoki",
+    "Hirokatsu Kataoka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=msSl7qCbtO",
+   "pdf_url": "https://openreview.net/pdf?id=msSl7qCbtO"
+  },
+  {
+   "title": "Generate Any Scene: Evaluating and Improving Text-to-Vision Generation with Scene Graph Programming",
+   "authors": [
+    "Ziqi Gao",
+    "Weikai Huang",
+    "Jieyu Zhang",
+    "Aniruddha Kembhavi",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nhkkWCwZhL",
+   "pdf_url": "https://openreview.net/pdf?id=nhkkWCwZhL"
+  },
+  {
+   "title": "Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID",
+   "authors": [
+    "Koray Ulusan",
+    "Benjamin Kiefer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2o0RxrcV23",
+   "pdf_url": "https://openreview.net/pdf?id=2o0RxrcV23"
+  },
+  {
+   "title": "Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer",
+   "authors": [
+    "Filip Slezák",
+    "Magnus Kaufmann Gjerde",
+    "Joakim Bruslund Haurum",
+    "Ivan Nikolov",
+    "Morten Stigaard Laursen",
+    "Thomas B. Moeslund"
+   ],
+   "forum_url": "https://openreview.net/forum?id=290A5r6wQA",
+   "pdf_url": "https://openreview.net/pdf?id=290A5r6wQA"
+  },
+  {
+   "title": "GIMO: Generative Image Outpainting for Early Smoke Segmentation",
+   "authors": [
+    "Sahir Shrestha",
+    "Weihao Li",
+    "Gao Zhu",
+    "Nick Barnes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Hy0khV6tE",
+   "pdf_url": "https://openreview.net/pdf?id=3Hy0khV6tE"
+  },
+  {
+   "title": "H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos",
+   "authors": [
+    "Guangrun Li",
+    "Yaoxu Lyu",
+    "Zhuoyang Liu",
+    "Chengkai Hou",
+    "Yinda Xu",
+    "Jieyu Zhang",
+    "Shanghang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=meY9nInitM",
+   "pdf_url": "https://openreview.net/pdf?id=meY9nInitM"
+  },
+  {
+   "title": "Harnessing Diffusion-Generated Synthetic Images for Fair Image Classification",
+   "authors": [
+    "Abhipsa Basu",
+    "Aviral Gupta",
+    "Abhijnya Bhat",
+    "Venkatesh Babu Radhakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f4bVOfrD5h",
+   "pdf_url": "https://openreview.net/pdf?id=f4bVOfrD5h"
+  },
+  {
+   "title": "Improving Physical Object State Representation in Text-to-Image Generative Systems",
+   "authors": [
+    "Tianle Chen",
+    "Chaitanya Chakka",
+    "Deepti Ghadiyaram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nIko6QDKTa",
+   "pdf_url": "https://openreview.net/pdf?id=nIko6QDKTa"
+  },
+  {
+   "title": "Instant Particle Size Distribution Measurement Using CNNs Trained on Synthetic Data",
+   "authors": [
+    "Yasser El Jarida",
+    "Youssef Iraqi",
+    "Loubna Mekouar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wPgGTUWmhl",
+   "pdf_url": "https://openreview.net/pdf?id=wPgGTUWmhl"
+  },
+  {
+   "title": "Investigating the Influence of Image Augmentations on the Sim-to-Real Generalization of Deep Learning Perception Models",
+   "authors": [
+    "Joachim Rüter",
+    "Umut Durak",
+    "Johann C. Dauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wYPNSxXjvY",
+   "pdf_url": "https://openreview.net/pdf?id=wYPNSxXjvY"
+  },
+  {
+   "title": "Investigating the Scaling Effect of Instruction Templates for Training Multimodal Language Model",
+   "authors": [
+    "Shijian Wang",
+    "Linxin Song",
+    "Jieyu Zhang",
+    "Ryotaro Shimizu",
+    "Jiarui Jin",
+    "Ao Luo",
+    "Yuan Lu",
+    "Li Yao",
+    "Cunjian Chen",
+    "Julian McAuley",
+    "Wentao Zhang",
+    "Hanqian Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=etI6gacJRs",
+   "pdf_url": "https://openreview.net/pdf?id=etI6gacJRs"
+  },
+  {
+   "title": "Latent Video Dataset Distillation",
+   "authors": [
+    "Ning Li",
+    "Antai Andy Liu",
+    "Jingran Zhang",
+    "Justin Cui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Cu1LMzhNn0",
+   "pdf_url": "https://openreview.net/pdf?id=Cu1LMzhNn0"
+  },
+  {
+   "title": "LATTE: Learning to Reason with Vision Specialists",
+   "authors": [
+    "Zixian Ma",
+    "Jianguo Zhang",
+    "Zhiwei Liu",
+    "Jieyu Zhang",
+    "Juntao Tan",
+    "Manli Shu",
+    "Juan Carlos Niebles",
+    "Shelby Heinecke",
+    "Huan Wang",
+    "Caiming Xiong",
+    "Ranjay Krishna",
+    "silvio savarese"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NPQJXevFF5",
+   "pdf_url": "https://openreview.net/pdf?id=NPQJXevFF5"
+  },
+  {
+   "title": "Learning 3D Representations from Procedural 3D Programs",
+   "authors": [
+    "Xuweiyi Chen",
+    "Zezhou Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cwTQv5ZOmz",
+   "pdf_url": "https://openreview.net/pdf?id=cwTQv5ZOmz"
+  },
+  {
+   "title": "Learning from Synthetic Data for Visual Grounding",
+   "authors": [
+    "Ruozhen He",
+    "Ziyan Yang",
+    "Paola Cascante-Bonilla",
+    "Alexander C. Berg",
+    "Vicente Ordonez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sD4mn4fJcs",
+   "pdf_url": "https://openreview.net/pdf?id=sD4mn4fJcs"
+  },
+  {
+   "title": "Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion",
+   "authors": [
+    "Xin Su",
+    "Xiuyi Jia",
+    "Chen Wu",
+    "Dianjie Lu",
+    "Guijuan Zhang",
+    "Yang Wen",
+    "Zhuoran Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dmk5mUxKp2",
+   "pdf_url": "https://openreview.net/pdf?id=Dmk5mUxKp2"
+  },
+  {
+   "title": "Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding",
+   "authors": [
+    "Yuchen Rao",
+    "Stefan Ainetter",
+    "Sinisa Stekovic",
+    "Vincent Lepetit",
+    "Friedrich Fraundorfer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VIRf63lV9X",
+   "pdf_url": "https://openreview.net/pdf?id=VIRf63lV9X"
+  },
+  {
+   "title": "LFQUIAD: Lookup-Free Quantized autoencoder for few-shot Unsupervised Industrial Anomaly Detection via Synthetic Diffusion Inpainting",
+   "authors": [
+    "SHIH-CHIH LIN",
+    "Shang-Hong Lai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mfKDaJZYF3",
+   "pdf_url": "https://openreview.net/pdf?id=mfKDaJZYF3"
+  },
+  {
+   "title": "LiveVQA: Assessing Models with Live Visual Knowledge",
+   "authors": [
+    "Mingyang Fu",
+    "Yuyang Peng",
+    "Benlin Liu",
+    "Yao Wan",
+    "Dongping Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sLFrSp7xNs",
+   "pdf_url": "https://openreview.net/pdf?id=sLFrSp7xNs"
+  },
+  {
+   "title": "Minimizing Data, Maximizing Performance: Generative Examples for Continual Task Learning",
+   "authors": [
+    "Mahsa Mozafarinia",
+    "Joshua Andle",
+    "Santhosh Karnik",
+    "Daniel Goldfarb",
+    "PAul HAnd",
+    "Salimeh Sekeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CRyJiF03eT",
+   "pdf_url": "https://openreview.net/pdf?id=CRyJiF03eT"
+  },
+  {
+   "title": "MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World",
+   "authors": [
+    "Ankit Dhiman",
+    "Manan Shah",
+    "Venkatesh Babu Radhakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7h3AHQzYJ3",
+   "pdf_url": "https://openreview.net/pdf?id=7h3AHQzYJ3"
+  },
+  {
+   "title": "MoireDB: A Formula-driven Image Dataset for Robustness Enhancement",
+   "authors": [
+    "Yuto Matsuo",
+    "Yoshihiro Fukuhara",
+    "Yuki M Asano",
+    "Hirokatsu Kataoka",
+    "Akio Nakamura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GhDmrlCsJO",
+   "pdf_url": "https://openreview.net/pdf?id=GhDmrlCsJO"
+  },
+  {
+   "title": "MultiRef: Controllable Image Generation with Multiple Visual References",
+   "authors": [
+    "Ruoxi Chen",
+    "Siyuan Wu",
+    "Dongping Chen",
+    "Shiyun Lang",
+    "Petr Sushko",
+    "Gaoyang Jiang",
+    "Sinan Wang",
+    "Yao Wan",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TZwQU36KFd",
+   "pdf_url": "https://openreview.net/pdf?id=TZwQU36KFd"
+  },
+  {
+   "title": "Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation",
+   "authors": [
+    "Shaobo Wang",
+    "Yantai Yang",
+    "Qilong Wang",
+    "Kaixin Li",
+    "Linfeng Zhang",
+    "Junchi Yan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ulgRu6zM3a",
+   "pdf_url": "https://openreview.net/pdf?id=ulgRu6zM3a"
+  },
+  {
+   "title": "Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting",
+   "authors": [
+    "Alfred T. Christiansen",
+    "Andreas H. Højrup",
+    "Morten K. Stephansen",
+    "Md Ibtihaj Amin",
+    "Taman S. Poojary",
+    "Filip Slezák",
+    "Morten Stigaard Laursen",
+    "Thomas B. Moeslund",
+    "Joakim Bruslund Haurum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NYb2O01IUw",
+   "pdf_url": "https://openreview.net/pdf?id=NYb2O01IUw"
+  },
+  {
+   "title": "Quo Vadis Handwritten Text Generation for Handwritten Text Recognition?",
+   "authors": [
+    "Konstantina Nikolaidou",
+    "Vittorio Pippi",
+    "Silvia Cascianelli",
+    "Marcus Liwicki",
+    "Rita Cucchiara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ltOF4AqwvU",
+   "pdf_url": "https://openreview.net/pdf?id=ltOF4AqwvU"
+  },
+  {
+   "title": "R3ST: A Synthetic Dataset with Real Trajectories for Urban Traffic Analysis",
+   "authors": [
+    "Simone Teglia",
+    "Claudia Melis Tonti",
+    "Francesco Pro",
+    "Leonardo Russo",
+    "Andrea Alfarano",
+    "Matteo Pentassuglia",
+    "Irene Amerini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VCORXe6I5B",
+   "pdf_url": "https://openreview.net/pdf?id=VCORXe6I5B"
+  },
+  {
+   "title": "RAFT: Robust Augmentation of FeaTures for Image Segmentation",
+   "authors": [
+    "Edward Steven Humes",
+    "Xiaomin Lin",
+    "Utteja Kallakuri",
+    "Tinoosh Mohsenin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uHxvIXPT2c",
+   "pdf_url": "https://openreview.net/pdf?id=uHxvIXPT2c"
+  },
+  {
+   "title": "ReSIT: A more Realistic Synthetic Driving Dataset for Multi-Domain Image-to-Image Translation",
+   "authors": [
+    "Joonhyung Park",
+    "Yeong-Seok Kim",
+    "HeonJeong Chu",
+    "Hye-Rin Kim",
+    "Seungryong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TrlL7ApZpA",
+   "pdf_url": "https://openreview.net/pdf?id=TrlL7ApZpA"
+  },
+  {
+   "title": "RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives",
+   "authors": [
+    "Chirag Parikh",
+    "Deepti Rawat",
+    "Rakshitha R. T.",
+    "Tathagata Ghosh",
+    "Ravi Kiran Sarvadevabhatla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OFlJ3fZyDM",
+   "pdf_url": "https://openreview.net/pdf?id=OFlJ3fZyDM"
+  },
+  {
+   "title": "SDI-Paste: Synthetic Dynamic Instance Copy-Paste",
+   "authors": [
+    "Sahir Shrestha",
+    "Weihao Li",
+    "Gao Zhu",
+    "Nick Barnes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TiN5TIwAKk",
+   "pdf_url": "https://openreview.net/pdf?id=TiN5TIwAKk"
+  },
+  {
+   "title": "Stable Bidirectional Graph Convolutional Networks for Label-Frugal Skeleton-based Recognition",
+   "authors": [
+    "Hichem Sahbi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QGK4KHhS90",
+   "pdf_url": "https://openreview.net/pdf?id=QGK4KHhS90"
+  },
+  {
+   "title": "SynSHRP2: A Synthetic Multimodal Benchmark for Driving Safety-critical Events Derived from Real-world Driving Data",
+   "authors": [
+    "Liang Shi",
+    "Boyu Jiang",
+    "Zhenyuan Yuan",
+    "Miguel A. Perez",
+    "Feng Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fytSeKOsOp",
+   "pdf_url": "https://openreview.net/pdf?id=fytSeKOsOp"
+  },
+  {
+   "title": "SynTable: A Synthetic Data Generation Pipeline for Unseen Object Amodal Instance Segmentation of Cluttered Tabletop Scenes",
+   "authors": [
+    "Zhili Ng",
+    "Haozhe Wang",
+    "Zhengshen Zhang",
+    "Francis E. H. Tay",
+    "Marcelo H Ang Jr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L7xL80JclK",
+   "pdf_url": "https://openreview.net/pdf?id=L7xL80JclK"
+  },
+  {
+   "title": "Synthesizing 3D Abstractions by Inverting Procedural Buildings with Transformers",
+   "authors": [
+    "Maximilian Dax",
+    "Jordi Serrano Berbel",
+    "Jan Stria",
+    "Leonidas Guibas",
+    "Urs M Bergmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y0qcRulYlO",
+   "pdf_url": "https://openreview.net/pdf?id=y0qcRulYlO"
+  },
+  {
+   "title": "Synthetic Data Generation for Demonstrating Noise Reduction in Facial Depth Imaging",
+   "authors": [
+    "Connah Kendrick",
+    "Moi Hoon Yap",
+    "Kevin Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uSAXSkGYhr",
+   "pdf_url": "https://openreview.net/pdf?id=uSAXSkGYhr"
+  },
+  {
+   "title": "Synthetic Generation and Latent Projection Denoising of Rim Lesions in Multiple Sclerosis",
+   "authors": [
+    "Alexandra Grace Roberts",
+    "Ha Manh Luu",
+    "Mert Sisman",
+    "Alexey V. Dimov",
+    "Ceren Tozlu",
+    "Ilhami Kovanlikaya",
+    "Susan Gauthier",
+    "Thanh D. Nguyen",
+    "Yi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFkiqB5spT",
+   "pdf_url": "https://openreview.net/pdf?id=wFkiqB5spT"
+  },
+  {
+   "title": "Synthetic Human Action Video Data Generation with Pose Transfer",
+   "authors": [
+    "Václav Knapp",
+    "Maty Bohacek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KTXL0idiky",
+   "pdf_url": "https://openreview.net/pdf?id=KTXL0idiky"
+  },
+  {
+   "title": "Synthetically Trained Music-to-Pose Encoder Diffusion for Automated Choreography Generation",
+   "authors": [
+    "Nokap Tony Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4dLvzmkFp5",
+   "pdf_url": "https://openreview.net/pdf?id=4dLvzmkFp5"
+  },
+  {
+   "title": "Text-guided Synthetic Geometric Augmentation for Zero-shot 3D Understanding",
+   "authors": [
+    "Kohei Torimi",
+    "Ryosuke Yamada",
+    "Daichi Otsuka",
+    "Kensho Hara",
+    "Yuki M Asano",
+    "Hirokatsu Kataoka",
+    "Yoshimitsu Aoki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rnV8rV8y1W",
+   "pdf_url": "https://openreview.net/pdf?id=rnV8rV8y1W"
+  },
+  {
+   "title": "You Are Your Best Teacher: Semi-Supervised Surgical Point Tracking with Cycle-Consistent Self-Distillation",
+   "authors": [
+    "Valay Bundele",
+    "Mehran Hosseinzadeh",
+    "Hendrik Lensch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YElCgs8Vlt",
+   "pdf_url": "https://openreview.net/pdf?id=YElCgs8Vlt"
+  }
+ ]
+}

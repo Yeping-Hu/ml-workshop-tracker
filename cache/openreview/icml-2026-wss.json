@@ -1,0 +1,533 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/WSS",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:11.379Z",
+ "paper_count": 51,
+ "papers": [
+  {
+   "title": "A Geometric View of Model Merging: Quotient Fréchet Averages from Toy Models to LoRA",
+   "authors": [
+    "Marvin F. da Silva",
+    "Mohammed Adnan",
+    "Felix Dangel",
+    "Sageev Oore"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FsaM9HE6Cv",
+   "pdf_url": null
+  },
+  {
+   "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
+   "authors": [
+    "Yuanyi Wang",
+    "Yanggan Gu",
+    "Su Lu",
+    "Yifan Yang",
+    "Zhaoyi Yan",
+    "Congkai Xie",
+    "Jianmin Wu",
+    "Hongxia Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aQIOppFWrT",
+   "pdf_url": "https://openreview.net/pdf?id=aQIOppFWrT"
+  },
+  {
+   "title": "Analyzing Stream Collapse in Hyper-Connections: From Diagnosis to Mitigation",
+   "authors": [
+    "Ekaterina Alimaskina",
+    "Gleb Molodtsov",
+    "Aleksandr Beznosikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xyrii4O2nw",
+   "pdf_url": "https://openreview.net/pdf?id=Xyrii4O2nw"
+  },
+  {
+   "title": "Are we Merging the Right Models? Impact of Expert Training Duration on Model Merging for LLMs",
+   "authors": [
+    "Nikita Kozodoi",
+    "Zainab Afolabi",
+    "Jack Butler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KVAdINcwe5",
+   "pdf_url": null
+  },
+  {
+   "title": "Attention Weight Decomposition for Vision Model Compression",
+   "authors": [
+    "Hyunwoo Yu",
+    "Yubin Cho",
+    "Kyeongbo Kong",
+    "Suk-Ju Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1TzWIuYoHM",
+   "pdf_url": null
+  },
+  {
+   "title": "Auditing Neural Thickets with Low-Rank Routes",
+   "authors": [
+    "Miroslav Lžičař"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xe8pKZ1Xdk",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Pairwise: Diagnosing Higher-Order Merge Failures via Hodge Decomposition",
+   "authors": [
+    "Dongzhe Zheng",
+    "Christine Allen-Blanchette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5IsDyRzKks",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability",
+   "authors": [
+    "Vincent Bürgin",
+    "Daniel Herbst",
+    "Ya-Wei Eileen Lin",
+    "Stefanie Jegelka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8EOiVFhzZS",
+   "pdf_url": "https://openreview.net/pdf?id=8EOiVFhzZS"
+  },
+  {
+   "title": "Block-Level Weight-Space Structure Persists Under Post-Training: An Empirical Study Across LLM Families",
+   "authors": [
+    "Zhaohui Geoffrey Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jdVfddhT65",
+   "pdf_url": "https://openreview.net/pdf?id=jdVfddhT65"
+  },
+  {
+   "title": "Breaking Random-Init Symmetry: Theory-Informed Initialization for ReLU Networks",
+   "authors": [
+    "Anass Al ammiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6HWPQVqio1",
+   "pdf_url": null
+  },
+  {
+   "title": "Debugging ReBasin: What Limits Symmetry-Based Model Merging?",
+   "authors": [
+    "Elliot Stein",
+    "Christine Evers",
+    "Jonathon Hare"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zffCxj5BdZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics",
+   "authors": [
+    "Connall Garrod",
+    "Jonathan P. Keating",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KKNaCDURpP",
+   "pdf_url": "https://openreview.net/pdf?id=KKNaCDURpP"
+  },
+  {
+   "title": "Different Layers, Different Manifolds: Module-Wise Weight-Space Geometry in Transformer Optimization",
+   "authors": [
+    "Kirato Yoshihara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0uL5u1Lywf",
+   "pdf_url": null
+  },
+  {
+   "title": "DotResize: Reducing LLM Width via Discrete Optimal Transport-based Neuron Merging",
+   "authors": [
+    "Neha Verma",
+    "Kenton Murray",
+    "Kevin Duh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMTvyKf7lW",
+   "pdf_url": null
+  },
+  {
+   "title": "Endpoint Symmetry for Edge Updates: Weight-Space Redundancy in GNNs on Undirected Graphs",
+   "authors": [
+    "Charlotte Cambier van Nooten",
+    "Stijn van den Beemt",
+    "Yuliya Shapovalova",
+    "Tom Heskes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPAZaGHBFx",
+   "pdf_url": null
+  },
+  {
+   "title": "Flow Equivariant Transformers",
+   "authors": [
+    "Ibrahim Khaliliya",
+    "T. Anderson Keller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lXTPf5HDHy",
+   "pdf_url": null
+  },
+  {
+   "title": "Generic Fibers and Functional Dimension of Multi-Head Attention",
+   "authors": [
+    "Nathan W. Henry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7vPmnHdAPl",
+   "pdf_url": null
+  },
+  {
+   "title": "Hierarchical Mixture-of-Experts with Two-Stage Optimization",
+   "authors": [
+    "Gleb Molodtsov",
+    "Alexander Miasnikov",
+    "Aleksandr Beznosikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQ99lol4LC",
+   "pdf_url": "https://openreview.net/pdf?id=MQ99lol4LC"
+  },
+  {
+   "title": "How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs",
+   "authors": [
+    "Mark Kozdoba",
+    "Shie Mannor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0DBUa6xKUD",
+   "pdf_url": null
+  },
+  {
+   "title": "How the Optimizer Shapes Learned Solutions in Equivariant Neural Networks",
+   "authors": [
+    "Teodor-Mihai Stupariu",
+    "Andrei Manolache"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ymiSLNQlkK",
+   "pdf_url": null
+  },
+  {
+   "title": "Iterative Magnitude Pruning Reduces Weight-Space Coupling",
+   "authors": [
+    "Lucas Perez",
+    "Mariana Ordones Oliveira Soares",
+    "Jackson de Faria",
+    "Fabricio Murai",
+    "Renato M. Assunção"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ptldsu5fQY",
+   "pdf_url": null
+  },
+  {
+   "title": "Low-Rank Networks Recover Weight and Functional Symmetry Better",
+   "authors": [
+    "Janis Aiad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jC7nGjmgQ0",
+   "pdf_url": null
+  },
+  {
+   "title": "LS-Merge: Merging Language Models in Latent Space",
+   "authors": [
+    "Bedionita Soro",
+    "Aoxuan Silvia Zhang",
+    "Bruno Andreis",
+    "Jaehyeong Jo",
+    "Song Chong",
+    "Sung Ju Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iAM1LQf5dF",
+   "pdf_url": null
+  },
+  {
+   "title": "Meta-Merging by Checkpoint Nowcasting",
+   "authors": [
+    "Albert Manuel Orozco Camacho",
+    "Boris Knyazev",
+    "Eugene Belilovsky",
+    "Guy Wolf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=whl40fLEnM",
+   "pdf_url": null
+  },
+  {
+   "title": "Model Merging by Output-Space Projection",
+   "authors": [
+    "Bethan Evans",
+    "Benjamin Etheridge",
+    "S Roberts",
+    "Jared Tanner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RPtqaL32u4",
+   "pdf_url": null
+  },
+  {
+   "title": "Model Merging via Averaged Representational Similarity",
+   "authors": [
+    "Christopher Wang",
+    "Vighnesh Subramaniam",
+    "Dan Gutfreund",
+    "Boris Katz",
+    "Phillip Isola",
+    "Brian Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QTjESU5HXy",
+   "pdf_url": null
+  },
+  {
+   "title": "MoRE: Mixture of Reused Experts",
+   "authors": [
+    "Eric S. Qiu",
+    "Utku Umur ACIKALIN",
+    "Justin Lovelace",
+    "Christian Belardi",
+    "Arjun B. Mulchandani",
+    "Carla P Gomes",
+    "Kilian Q Weinberger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DR4nLvRCoe",
+   "pdf_url": null
+  },
+  {
+   "title": "No Global Gauge in Neural Weight Space: Branched Quotient Geometry and Atlas-Optimal Learning",
+   "authors": [
+    "Manoj Saravanan",
+    "Rohit Kumar Salla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jm2dzZotw7",
+   "pdf_url": null
+  },
+  {
+   "title": "Objective-Specific Privileged Bases via Full-Prefix Matryoshka Learning",
+   "authors": [
+    "Arghamitra Talukder",
+    "Philippe Chlenski",
+    "Itsik Pe'er"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n2eFNO41Qa",
+   "pdf_url": null
+  },
+  {
+   "title": "On the Interplay of Priors and Overparametrization in Bayesian Neural Network Posteriors",
+   "authors": [
+    "Julius Kobialka",
+    "Emanuel Sommer",
+    "Chris Kolb",
+    "Juntae Kwon",
+    "Daniel Dold",
+    "David Rügamer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LDwJbA66Dg",
+   "pdf_url": null
+  },
+  {
+   "title": "Parameter symmetries determine representational geometry in overparameterized nonlinear networks",
+   "authors": [
+    "Marvin Theiss",
+    "Lukas Braun",
+    "Andrew M Saxe",
+    "Erin Grant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CT8TbdqYmn",
+   "pdf_url": null
+  },
+  {
+   "title": "Pre-Normalization Momentum Governs Optimizer-Induced Rank Bias",
+   "authors": [
+    "Raghav Kaushik Ravi",
+    "Srivarshinee Sridhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aLhQNH4k7C",
+   "pdf_url": null
+  },
+  {
+   "title": "Quantifying Symmetries: How Optimisers Impact the Functional Dimension",
+   "authors": [
+    "Johanna Marie Gegenfurtner",
+    "Naima Elosegui Borras",
+    "Georgios Arvanitidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tj0VJrPBGI",
+   "pdf_url": null
+  },
+  {
+   "title": "Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression",
+   "authors": [
+    "Artur Zagitov",
+    "Alexander Miasnikov",
+    "Maxim Krutikov",
+    "Artem Tsedenov",
+    "Vladimir Aletov",
+    "Gleb Molodtsov",
+    "Nail Bashirov",
+    "Aleksandr Beznosikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e2CpbE7fES",
+   "pdf_url": "https://openreview.net/pdf?id=e2CpbE7fES"
+  },
+  {
+   "title": "Rotation Symmetry in Vision Quantization: The Objective Function is the Bottleneck",
+   "authors": [
+    "Jaewoo Park",
+    "Jihae Lee",
+    "Yunjeong yong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4dnRxUOPv8",
+   "pdf_url": null
+  },
+  {
+   "title": "Scale-Equivariant Alignment:  Closing the Residual Barrier After Permutation Matching",
+   "authors": [
+    "Kaustubh S. Bukkapatnam",
+    "Siddharth Karuturi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vl4iv7siTg",
+   "pdf_url": null
+  },
+  {
+   "title": "Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks",
+   "authors": [
+    "Shivam Pal",
+    "Piyush Rai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VCFiwg3qqU",
+   "pdf_url": null
+  },
+  {
+   "title": "Sharpness-Aware Minimization Directly on the Boolean Hypercube",
+   "authors": [
+    "Ba-Hien TRAN"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YwVm1lnbzX",
+   "pdf_url": "https://openreview.net/pdf?id=YwVm1lnbzX"
+  },
+  {
+   "title": "Shortcuts in the Tail: Debiasing via Post-Hoc Spectral Compression of Fine-Tuning Updates",
+   "authors": [
+    "Edward Sun",
+    "Dmitrii Troitskii"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4ZSmSVsUjI",
+   "pdf_url": "https://openreview.net/pdf?id=4ZSmSVsUjI"
+  },
+  {
+   "title": "SIB: Reparameterization of LLMs for Better Learning-Forgetting under SFT",
+   "authors": [
+    "Albert Catalan-Tatjer",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p6MoyF2fiq",
+   "pdf_url": null
+  },
+  {
+   "title": "Symmetry Acquisition in Predictive Coding Networks",
+   "authors": [
+    "Adam Shaw",
+    "Jiayu Li",
+    "Michael Sperling",
+    "Michael Kim",
+    "Alvin Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pKajdnNBN8",
+   "pdf_url": null
+  },
+  {
+   "title": "Symmetry-Induced Non-Identifiability in Neural Circuit Inference",
+   "authors": [
+    "Seungwon Yu",
+    "Jaeho Yang",
+    "Kijung Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Myvm7z5Ca",
+   "pdf_url": null
+  },
+  {
+   "title": "T-REX: Tied Recurrence Extraction",
+   "authors": [
+    "Mozes Jacobs",
+    "T. Anderson Keller",
+    "Thomas Fel",
+    "Bingbin Liu",
+    "Richard Hakim",
+    "Yilun Du",
+    "Demba E. Ba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BC10Dk7nv2",
+   "pdf_url": null
+  },
+  {
+   "title": "Task-Restricted Symmetries in Recurrent Weight Space",
+   "authors": [
+    "Simon Dräger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N6duB6Lqom",
+   "pdf_url": null
+  },
+  {
+   "title": "The GL(r) Gauge Symmetry of LoRA: Principal Bundle Structure, Loss Landscape Geometry, and Implications for Adapter Merging",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Laksh Patel",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YMsbYXDtqw",
+   "pdf_url": null
+  },
+  {
+   "title": "The Role of Symmetry in Optimizing Overparameterized Networks",
+   "authors": [
+    "Kusha Sareen",
+    "Mohammad Pedramfar",
+    "Sékou-Oumar Kaba",
+    "Mehran Shakerinava",
+    "Siamak Ravanbakhsh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ijTq79ete6",
+   "pdf_url": null
+  },
+  {
+   "title": "Toward a Type-Theoretic Framework for Linear Mode Connectivity: Univalence and Path-Finding in Weight Spaces",
+   "authors": [
+    "Şuayp Talha Kocabay",
+    "Kerem Yalçın",
+    "Talha Rüzgar Akkuş",
+    "Erik Hillbom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xIoWLMIAiV",
+   "pdf_url": null
+  },
+  {
+   "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
+   "authors": [
+    "Tzu-Heng Huang",
+    "Aditya Goyal",
+    "John Cooper",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5GJDmHFNUY",
+   "pdf_url": null
+  },
+  {
+   "title": "Weight Space Representation Learning via Neural Field Adaptation",
+   "authors": [
+    "Zhuoqian Yang",
+    "Mathieu Salzmann",
+    "Sabine Süsstrunk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4u3jAFaabQ",
+   "pdf_url": null
+  },
+  {
+   "title": "What Survives of Path Norms? Path-Lifting as an Intermediate Representation for ReLU Networks",
+   "authors": [
+    "Antoine Gonon",
+    "Rémi Gribonval"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R3PRCMigUC",
+   "pdf_url": "https://openreview.net/pdf?id=R3PRCMigUC"
+  },
+  {
+   "title": "WK, WV is (Linearly) All You Need: On the Necessity of the QKV Weight Triplet in Self-Attention Transformers",
+   "authors": [
+    "Marko Karbevski",
+    "Antonij Mijoski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9DE8ISZNak",
+   "pdf_url": null
+  }
+ ]
+}

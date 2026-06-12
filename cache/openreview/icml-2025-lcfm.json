@@ -1,0 +1,442 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/LCFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:51.931Z",
+ "paper_count": 35,
+ "papers": [
+  {
+   "title": "Accelerated Inference with Long-Sequence Transformers on CPUs",
+   "authors": [
+    "Yuzhen Mao",
+    "Martin Ester",
+    "Ke Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JTn8Yjcgni",
+   "pdf_url": "https://openreview.net/pdf?id=JTn8Yjcgni"
+  },
+  {
+   "title": "ALCo-FM: Adaptive Long-Context Foundation Model for Accident Prediction",
+   "authors": [
+    "Pinaki Prasad Guha Neogi",
+    "Ahmad Mohammadshirazi",
+    "Rajiv Ramnath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EGdXLl4OxE",
+   "pdf_url": "https://openreview.net/pdf?id=EGdXLl4OxE"
+  },
+  {
+   "title": "BSA: Ball Sparse Attention for Large-scale Geometries",
+   "authors": [
+    "Cătălin-Emanuel Brița",
+    "Hieu Nguyen",
+    "Lohithsai Yadala Chanchu",
+    "Domonkos Nagy",
+    "Maksim Zhdanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VbPd9V6Wm0",
+   "pdf_url": "https://openreview.net/pdf?id=VbPd9V6Wm0"
+  },
+  {
+   "title": "CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs",
+   "authors": [
+    "Insu Han",
+    "Zeliang Zhang",
+    "Zhiyuan Wang",
+    "Yifan Zhu",
+    "Susan Liang",
+    "Jiani Liu",
+    "Haiting Lin",
+    "Mingjie Zhao",
+    "Chenliang Xu",
+    "Kun Wan",
+    "Wentian Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=etOMfHWlPP",
+   "pdf_url": "https://openreview.net/pdf?id=etOMfHWlPP"
+  },
+  {
+   "title": "Dynamic Causal‐Graph Memory: Structured Retrieval for Million–Token Reasoning",
+   "authors": [
+    "Thomas Y Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Us7om0vhZ",
+   "pdf_url": "https://openreview.net/pdf?id=0Us7om0vhZ"
+  },
+  {
+   "title": "e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs",
+   "authors": [
+    "Amrith Setlur",
+    "Matthew Y. R. Yang",
+    "Charlie Victor Snell",
+    "Jeremiah Greer",
+    "Ian Wu",
+    "Virginia Smith",
+    "Max Simchowitz",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4oWZ1fBMLN",
+   "pdf_url": "https://openreview.net/pdf?id=4oWZ1fBMLN"
+  },
+  {
+   "title": "Enhancing Retrieval-Augmented Generation with Dehallucinating Parallel Context Extension",
+   "authors": [
+    "Zexiong Ma",
+    "Shengnan An",
+    "Zeqi Lin",
+    "Yanzhen Zou",
+    "Jian-Guang Lou",
+    "Bing Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iSS4ufmtB8",
+   "pdf_url": "https://openreview.net/pdf?id=iSS4ufmtB8"
+  },
+  {
+   "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+   "authors": [
+    "Yuanzhe Hu",
+    "Yu Wang",
+    "Julian McAuley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZgQ0t3zYTQ",
+   "pdf_url": "https://openreview.net/pdf?id=ZgQ0t3zYTQ"
+  },
+  {
+   "title": "Foreign Sparse Attention: Effective Distillation into Sparse Attention",
+   "authors": [
+    "Vijaykaarti Sundarapandiyan",
+    "Tom Goldstein",
+    "Ashwinee Panda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y50Mdo9k1v",
+   "pdf_url": "https://openreview.net/pdf?id=Y50Mdo9k1v"
+  },
+  {
+   "title": "GSM-Infinite: How Do your LLMs Behave over Infinitely Increasing Reasoning Complexity and Context Length?",
+   "authors": [
+    "Yang Zhou",
+    "Hongyi Liu",
+    "Zhuoming Chen",
+    "Yuandong Tian",
+    "Beidi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FGoZOZzotG",
+   "pdf_url": "https://openreview.net/pdf?id=FGoZOZzotG"
+  },
+  {
+   "title": "HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading",
+   "authors": [
+    "Cheng Luo",
+    "Zefan Cai",
+    "Hanshi Sun",
+    "Jinqi Xiao",
+    "Bo Yuan",
+    "Wen Xiao",
+    "Junjie Hu",
+    "Jiawei Zhao",
+    "Beidi Chen",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPryLFoy4G",
+   "pdf_url": "https://openreview.net/pdf?id=qPryLFoy4G"
+  },
+  {
+   "title": "How Much Context Does Natural Language Actually Require?  An Analysis Using LLMs as Statistical Oracles",
+   "authors": [
+    "Vala Vakilian",
+    "Sadegh Mahdavi",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Z9JQ7EVHl",
+   "pdf_url": "https://openreview.net/pdf?id=9Z9JQ7EVHl"
+  },
+  {
+   "title": "Improving Context Fidelity via Native Retrieval-Augmented Reasoning",
+   "authors": [
+    "Suyuchen Wang",
+    "Jinlin Wang",
+    "Xinyu Wang",
+    "Shiqi Li",
+    "Xiangru Tang",
+    "Sirui Hong",
+    "Xiao-Wen Chang",
+    "Chenglin Wu",
+    "Bang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qTsU1QLOph",
+   "pdf_url": "https://openreview.net/pdf?id=qTsU1QLOph"
+  },
+  {
+   "title": "Jailbreaking in the Haystack",
+   "authors": [
+    "Rishi Rajesh Shah",
+    "Chen Henry Wu",
+    "Ziqian Zhong",
+    "Alexander Robey",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yOOPdomStD",
+   "pdf_url": "https://openreview.net/pdf?id=yOOPdomStD"
+  },
+  {
+   "title": "Kinetics: Rethinking Test-Time Scaling Laws",
+   "authors": [
+    "Ranajoy Sadhukhan",
+    "Zhuoming Chen",
+    "Haizhong Zheng",
+    "Yang Zhou",
+    "Emma Strubell",
+    "Beidi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zTz2RwHXYo",
+   "pdf_url": "https://openreview.net/pdf?id=zTz2RwHXYo"
+  },
+  {
+   "title": "Language Modeling with Learned Meta-Tokens",
+   "authors": [
+    "Alok Shah",
+    "Khush Gupta",
+    "Keshav Ramji",
+    "Pratik Chaudhari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oaHYnLldHM",
+   "pdf_url": "https://openreview.net/pdf?id=oaHYnLldHM"
+  },
+  {
+   "title": "Looking beyond the next token",
+   "authors": [
+    "Abitha Thankaraj",
+    "Yiding Jiang",
+    "J Zico Kolter",
+    "Yonatan Bisk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VjXDViBcsM",
+   "pdf_url": "https://openreview.net/pdf?id=VjXDViBcsM"
+  },
+  {
+   "title": "Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement",
+   "authors": [
+    "Xuechen Zhang",
+    "Zijian Huang",
+    "Chenshun Ni",
+    "Ziyang Xiong",
+    "Jiasi Chen",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tZBhvKaLUJ",
+   "pdf_url": "https://openreview.net/pdf?id=tZBhvKaLUJ"
+  },
+  {
+   "title": "MatMuls are Enough for Efficient and Performant Linear-Time Attention",
+   "authors": [
+    "Andrew Argatkiny",
+    "Ilya Makarov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yLh58rr4JX",
+   "pdf_url": "https://openreview.net/pdf?id=yLh58rr4JX"
+  },
+  {
+   "title": "MKA: Memory-Keyed Attention for Efficient Long-Context Reasoning",
+   "authors": [
+    "Dong Liu",
+    "Yanxuan Yu",
+    "Xuhong Wang",
+    "Ben Lengerich",
+    "Ying Nian Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r1GbqYMJys",
+   "pdf_url": "https://openreview.net/pdf?id=r1GbqYMJys"
+  },
+  {
+   "title": "MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly",
+   "authors": [
+    "Zhaowei Wang",
+    "Wenhao Yu",
+    "Xiyu REN",
+    "Jipeng Zhang",
+    "Yu Zhao",
+    "Rohit Saxena",
+    "Liang Cheng",
+    "Ginny Wong",
+    "Simon See",
+    "Pasquale Minervini",
+    "Yangqiu Song",
+    "Mark Steedman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zsdJSkeS9S",
+   "pdf_url": "https://openreview.net/pdf?id=zsdJSkeS9S"
+  },
+  {
+   "title": "Multiscale Byte Language Models -- A Hierarchical Architecture for Causal Million-Length Sequence Modeling",
+   "authors": [
+    "Eric Egli",
+    "Matteo Manica",
+    "Jannis Born"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2r7YTSdWYD",
+   "pdf_url": "https://openreview.net/pdf?id=2r7YTSdWYD"
+  },
+  {
+   "title": "NovelHopQA: Diagnosing Multi-Hop Reasoning Failures in Long Narrative Contexts",
+   "authors": [
+    "Abhay Gupta",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Michael Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8P14NUp4IZ",
+   "pdf_url": "https://openreview.net/pdf?id=8P14NUp4IZ"
+  },
+  {
+   "title": "OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction",
+   "authors": [
+    "Yuanbing Zhu",
+    "Zhenheng Tang",
+    "Xiang Liu",
+    "Ang Li",
+    "Bo Li",
+    "Xiaowen Chu",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KHM2YOGgX9",
+   "pdf_url": "https://openreview.net/pdf?id=KHM2YOGgX9"
+  },
+  {
+   "title": "Pause-Tuning for Long-Context Comprehension: A Lightweight Approach to LLM Attention Recalibration",
+   "authors": [
+    "James Begin",
+    "Namit Agrawal",
+    "Eshan Singh",
+    "Yicheng Fu",
+    "Sean O'Brien",
+    "Vasu Sharma",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xe7qHB7zLW",
+   "pdf_url": "https://openreview.net/pdf?id=xe7qHB7zLW"
+  },
+  {
+   "title": "PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation",
+   "authors": [
+    "Albert Gong",
+    "Chao Wan",
+    "Kamilė Stankevičiūtė",
+    "Anmol Kabra",
+    "Raphael Thesmar",
+    "Johann Lee",
+    "Julius Klenke",
+    "Carla P Gomes",
+    "Kilian Q Weinberger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7EnAi1DTVe",
+   "pdf_url": "https://openreview.net/pdf?id=7EnAi1DTVe"
+  },
+  {
+   "title": "pLSTM: parallelizable Linear Source Transition Mark networks",
+   "authors": [
+    "Korbinian Pöppel",
+    "Richard Freinschlag",
+    "Thomas Schmied",
+    "Wei Lin",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yBTidXdqjn",
+   "pdf_url": "https://openreview.net/pdf?id=yBTidXdqjn"
+  },
+  {
+   "title": "Say as It Is: Verbatim Fidelity Evaluation of Long-Context Language Model",
+   "authors": [
+    "Kyu Won Kim",
+    "Suhwan Choi",
+    "Myeongho Jeon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pOODCLuYdu",
+   "pdf_url": "https://openreview.net/pdf?id=pOODCLuYdu"
+  },
+  {
+   "title": "Scalable LLM Math Reasoning Acceleration with Low-rank Distillation",
+   "authors": [
+    "Harry Dong",
+    "Bilge Acun",
+    "Beidi Chen",
+    "Yuejie Chi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=59lpo8DY3y",
+   "pdf_url": "https://openreview.net/pdf?id=59lpo8DY3y"
+  },
+  {
+   "title": "Scaling Laws for Many-Shot In-Context Learning with Self-Generated Annotations",
+   "authors": [
+    "Zhengyao Gu",
+    "Henry Peng Zou",
+    "Aiwei Liu",
+    "Yankai Chen",
+    "Weizhi Zhang",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U25OPNKfEj",
+   "pdf_url": "https://openreview.net/pdf?id=U25OPNKfEj"
+  },
+  {
+   "title": "Simple, Scalable Reasoning via Iterated Summarization",
+   "authors": [
+    "Vivek Vajipey",
+    "Aditya Tadimeti",
+    "Justin Shen",
+    "Ben Prystawski",
+    "Michael Y. Li",
+    "Noah Goodman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uhZLKclfGB",
+   "pdf_url": "https://openreview.net/pdf?id=uhZLKclfGB"
+  },
+  {
+   "title": "SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling",
+   "authors": [
+    "Krishna C Puvvada",
+    "Faisal Ladhak",
+    "Santiago Akle Serano",
+    "Cheng-Ping Hsieh",
+    "Shantanu Acharya",
+    "Somshubra Majumdar",
+    "Fei Jia",
+    "Samuel Kriman",
+    "Simeng Sun",
+    "Dima Rekesh",
+    "Boris Ginsburg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mfK2h2LSBu",
+   "pdf_url": "https://openreview.net/pdf?id=mfK2h2LSBu"
+  },
+  {
+   "title": "Thinformer: Guaranteed Attention Approximation via Low-Rank Thinning",
+   "authors": [
+    "Annabelle Michael Carrell",
+    "Albert Gong",
+    "Abhishek Shetty",
+    "Raaz Dwivedi",
+    "Lester Mackey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KTUt8xtQEN",
+   "pdf_url": "https://openreview.net/pdf?id=KTUt8xtQEN"
+  },
+  {
+   "title": "Towards Understanding Self-Pretraining for Sequence Classification",
+   "authors": [
+    "Omar Coser",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K1SVB3b3wb",
+   "pdf_url": "https://openreview.net/pdf?id=K1SVB3b3wb"
+  },
+  {
+   "title": "Unable to Forget: Proactive Interference Reveals Working Memory Limits in LLMs Beyond Context Length",
+   "authors": [
+    "Chupei Wang",
+    "Jiaqiu Vince Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YUHksmL8aw",
+   "pdf_url": "https://openreview.net/pdf?id=YUHksmL8aw"
+  }
+ ]
+}

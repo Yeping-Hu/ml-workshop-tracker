@@ -1,0 +1,397 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/LCFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:07.660Z",
+ "paper_count": 30,
+ "papers": [
+  {
+   "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+   "authors": [
+    "Yair Schiff",
+    "Chia Hsiang Kao",
+    "Aaron Gokaslan",
+    "Tri Dao",
+    "Albert Gu",
+    "Volodymyr Kuleshov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iYNSCJTlPO",
+   "pdf_url": "https://openreview.net/pdf?id=iYNSCJTlPO"
+  },
+  {
+   "title": "CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory",
+   "authors": [
+    "Zexue He",
+    "Leonid Karlinsky",
+    "Donghyun Kim",
+    "Julian McAuley",
+    "Dmitry Krotov",
+    "Rogerio Feris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VLDTzg1a4Y",
+   "pdf_url": "https://openreview.net/pdf?id=VLDTzg1a4Y"
+  },
+  {
+   "title": "CD-Pos: Long Context Generalization in LLMs Through Continuous and Discrete Position Synthesis",
+   "authors": [
+    "Zhiyuan Hu",
+    "Yuliang Liu",
+    "Jinman Zhao",
+    "Suyuchen Wang",
+    "WangYan",
+    "Wei Shen",
+    "Chao Yin",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPrKw3mQOn",
+   "pdf_url": "https://openreview.net/pdf?id=oPrKw3mQOn"
+  },
+  {
+   "title": "Demonstrations in In-context Learning for LLMs with Large Label Space",
+   "authors": [
+    "Zhan Li",
+    "Fanghui Liu",
+    "Volkan Cevher",
+    "Grigorios Chrysos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OKImsVzG2M",
+   "pdf_url": "https://openreview.net/pdf?id=OKImsVzG2M"
+  },
+  {
+   "title": "ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models",
+   "authors": [
+    "Thibaut Thonet",
+    "Jos Rozen",
+    "laurent besacier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xSAfSBcnF3",
+   "pdf_url": "https://openreview.net/pdf?id=xSAfSBcnF3"
+  },
+  {
+   "title": "FastDecode: High-Throughput LLM Serving through Disaggregating Attention Computation",
+   "authors": [
+    "Jiaao He",
+    "Kezhao Huang",
+    "Jidong Zhai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GahfuPsGw2",
+   "pdf_url": "https://openreview.net/pdf?id=GahfuPsGw2"
+  },
+  {
+   "title": "Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise",
+   "authors": [
+    "Qimin Yang",
+    "rongshengwang",
+    "CHEN JIEXIN",
+    "Runqi Su",
+    "Tao Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dSNnyFYZwB",
+   "pdf_url": "https://openreview.net/pdf?id=dSNnyFYZwB"
+  },
+  {
+   "title": "From Text to Pixel: Advancing Long-Context Understanding in MLLMs",
+   "authors": [
+    "Yujie Lu",
+    "Xiujun Li",
+    "Tsu-Jui Fu",
+    "Miguel Eckstein",
+    "William Yang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jBb0rvLjPR",
+   "pdf_url": "https://openreview.net/pdf?id=jBb0rvLjPR"
+  },
+  {
+   "title": "Improved Algorithms for Kernel Matrix-Vector Multiplication",
+   "authors": [
+    "Piotr Indyk",
+    "Michael Kapralov",
+    "Kshiteej Sheth",
+    "Tal Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7CCzyEtZXH",
+   "pdf_url": "https://openreview.net/pdf?id=7CCzyEtZXH"
+  },
+  {
+   "title": "In-Context Learning with Long-Context Models: An In-Depth Exploration",
+   "authors": [
+    "Amanda Bertsch",
+    "Maor Ivgi",
+    "Uri Alon",
+    "Jonathan Berant",
+    "Matthew R. Gormley",
+    "Graham Neubig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4KAmc7vUbq",
+   "pdf_url": "https://openreview.net/pdf?id=4KAmc7vUbq"
+  },
+  {
+   "title": "InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory",
+   "authors": [
+    "Chaojun Xiao",
+    "Pengle Zhang",
+    "Xu Han",
+    "Guangxuan Xiao",
+    "Yankai Lin",
+    "Zhengyan Zhang",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i5SEw4guQK",
+   "pdf_url": "https://openreview.net/pdf?id=i5SEw4guQK"
+  },
+  {
+   "title": "Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data",
+   "authors": [
+    "Younghun Lee",
+    "Sungchul Kim",
+    "Ryan A. Rossi",
+    "Tong Yu",
+    "Xiang Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NQz6YS0MfN",
+   "pdf_url": "https://openreview.net/pdf?id=NQz6YS0MfN"
+  },
+  {
+   "title": "Long Context Understanding using Self-Generated Synthetic Data",
+   "authors": [
+    "Jerry Li",
+    "Subhro Das",
+    "Aude Oliva",
+    "Dmitry Krotov",
+    "Leonid Karlinsky",
+    "Rogerio Feris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EciNEiW1uq",
+   "pdf_url": "https://openreview.net/pdf?id=EciNEiW1uq"
+  },
+  {
+   "title": "Long-Context Vision Large Language Models: Empirical Insights and A Baseline",
+   "authors": [
+    "Yongshuo Zong",
+    "Ismail Elezi",
+    "Yongxin Yang",
+    "Jiankang Deng",
+    "Timothy Hospedales"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NaldExCoyW",
+   "pdf_url": "https://openreview.net/pdf?id=NaldExCoyW"
+  },
+  {
+   "title": "LongAlign: A Recipe for Long Context Alignment of Large Language Models",
+   "authors": [
+    "Yushi Bai",
+    "Xin Lv",
+    "Jiajie Zhang",
+    "Yuze He",
+    "Ji Qi",
+    "Lei Hou",
+    "Jie Tang",
+    "Yuxiao Dong",
+    "Juanzi Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mrpusfHyI8",
+   "pdf_url": "https://openreview.net/pdf?id=mrpusfHyI8"
+  },
+  {
+   "title": "Many-Shot In-Context Learning",
+   "authors": [
+    "Rishabh Agarwal",
+    "Avi Singh",
+    "Lei M Zhang",
+    "Bernd Bohnet",
+    "Luis Rosias",
+    "Stephanie C.Y. Chan",
+    "Biao Zhang",
+    "Ankesh Anand",
+    "Zaheer Abbas",
+    "Azade Nova",
+    "John D Co-Reyes",
+    "Eric Chu",
+    "Feryal Behbahani",
+    "Aleksandra Faust",
+    "Hugo Larochelle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8ul3foe9yF",
+   "pdf_url": "https://openreview.net/pdf?id=8ul3foe9yF"
+  },
+  {
+   "title": "MINI-SEQUENCE TRANSFORMER: Optimizing Intermediate Memory for Long Sequences Training",
+   "authors": [
+    "Cheng Luo",
+    "Jiawei Zhao",
+    "Zhuoming Chen",
+    "Beidi Chen",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l2QqHpoA2z",
+   "pdf_url": "https://openreview.net/pdf?id=l2QqHpoA2z"
+  },
+  {
+   "title": "Mitigate Position Bias in Large Language Models via Scaling a Single Dimension",
+   "authors": [
+    "Yijiong Yu",
+    "Huiqiang Jiang",
+    "Xufang Luo",
+    "Qianhui Wu",
+    "Chin-Yew Lin",
+    "Dongsheng Li",
+    "Yuqing Yang",
+    "Yongfeng Huang",
+    "Lili Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mo7cdmBlUi",
+   "pdf_url": "https://openreview.net/pdf?id=mo7cdmBlUi"
+  },
+  {
+   "title": "MSAMamba: Adapting Subquadratic Models To Long-Context DNA MSA Analysis",
+   "authors": [
+    "Vishrut Thoutam",
+    "Dina Ellsworth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KE2TppEorI",
+   "pdf_url": "https://openreview.net/pdf?id=KE2TppEorI"
+  },
+  {
+   "title": "PhaseEvo: Towards Unified Long-Context Prompt Optimization for Large Language Models",
+   "authors": [
+    "Wendi Cui",
+    "Jiaxin Zhang",
+    "Zhuohang Li",
+    "Hao Sun",
+    "Damien Lopez",
+    "Kamalika Das",
+    "Bradley A. Malin",
+    "Sricharan Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xp2RfmDTQJ",
+   "pdf_url": "https://openreview.net/pdf?id=xp2RfmDTQJ"
+  },
+  {
+   "title": "Position Coupling: Leveraging Task Structure for Improved Length Generalization of Transformers",
+   "authors": [
+    "Hanseul Cho",
+    "Jaeyoung Cha",
+    "Pranjal Awasthi",
+    "Srinadh Bhojanapalli",
+    "Anupam Gupta",
+    "Chulhee Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TDGZmWslPf",
+   "pdf_url": "https://openreview.net/pdf?id=TDGZmWslPf"
+  },
+  {
+   "title": "Pretrained Hybrids with MAD Skills",
+   "authors": [
+    "Nicholas Roberts",
+    "Samuel Guo",
+    "Zhiqi Gao",
+    "Satya Sai Srinath Namburi GNVV",
+    "Sonia Cromp",
+    "Chengjun Wu",
+    "Chengyu Duan",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rznfO6ZofG",
+   "pdf_url": "https://openreview.net/pdf?id=rznfO6ZofG"
+  },
+  {
+   "title": "Probing the Decision Boundaries of In-context Learning in Large Language Models",
+   "authors": [
+    "Siyan Zhao",
+    "Tung Nguyen",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t90UB9wvUZ",
+   "pdf_url": "https://openreview.net/pdf?id=t90UB9wvUZ"
+  },
+  {
+   "title": "RepoQA: Evaluating Long Context Code Understanding",
+   "authors": [
+    "Jiawei Liu",
+    "Jia Le Tian",
+    "Vijay Daita",
+    "Yuxiang Wei",
+    "Yifeng Ding",
+    "Yuhan Katherine Wang",
+    "Jun Yang",
+    "LINGMING ZHANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hK9YSrFuGf",
+   "pdf_url": "https://openreview.net/pdf?id=hK9YSrFuGf"
+  },
+  {
+   "title": "Spatio-Spectral Graph Neural Networks",
+   "authors": [
+    "Simon Geisler",
+    "Arthur Kosmala",
+    "Daniel Herbst",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OQBKtOj7B5",
+   "pdf_url": "https://openreview.net/pdf?id=OQBKtOj7B5"
+  },
+  {
+   "title": "Spectral State Space Models",
+   "authors": [
+    "Naman Agarwal",
+    "Daniel Suo",
+    "Xinyi Chen",
+    "Elad Hazan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1jdMHPmOZ",
+   "pdf_url": "https://openreview.net/pdf?id=f1jdMHPmOZ"
+  },
+  {
+   "title": "Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack",
+   "authors": [
+    "Xiaoyue Xu",
+    "Qinyuan Ye",
+    "Xiang Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ltgEKXnZt",
+   "pdf_url": "https://openreview.net/pdf?id=5ltgEKXnZt"
+  },
+  {
+   "title": "Vision-LSTM: xLSTM as Generic Vision Backbone",
+   "authors": [
+    "Benedikt Alkin",
+    "Maximilian Beck",
+    "Korbinian Pöppel",
+    "Sepp Hochreiter",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HEQBFj9Lnb",
+   "pdf_url": "https://openreview.net/pdf?id=HEQBFj9Lnb"
+  },
+  {
+   "title": "xLSTM: Extended Long Short-Term Memory",
+   "authors": [
+    "Korbinian Pöppel",
+    "Maximilian Beck",
+    "Markus Spanring",
+    "Andreas Auer",
+    "Oleksandra Prudnikova",
+    "Michael K Kopp",
+    "Günter Klambauer",
+    "Johannes Brandstetter",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dh0Y88UAXR",
+   "pdf_url": "https://openreview.net/pdf?id=Dh0Y88UAXR"
+  },
+  {
+   "title": "ZigMa: A DiT-style Zigzag Mamba Diffusion Model",
+   "authors": [
+    "Vincent Tao Hu",
+    "Stefan Andreas Baumann",
+    "Ming Gui",
+    "Olga Grebenkova",
+    "Pingchuan Ma",
+    "Johannes Schusterbauer",
+    "Björn Ommer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Uu7miVxZI6",
+   "pdf_url": "https://openreview.net/pdf?id=Uu7miVxZI6"
+  }
+ ]
+}

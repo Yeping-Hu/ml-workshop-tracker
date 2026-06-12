@@ -1,0 +1,1076 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Compression",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:26.695Z",
+ "paper_count": 95,
+ "papers": [
+  {
+   "title": "A Theory for Compressibility of Graph Transformers for Transductive Learning",
+   "authors": [
+    "Hamed Shirzad",
+    "Honghao Lin",
+    "Ameya Velingker",
+    "Balaji Venkatachalam",
+    "David Woodruff",
+    "Danica J. Sutherland"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EVg54ky3ZH",
+   "pdf_url": "https://openreview.net/pdf?id=EVg54ky3ZH"
+  },
+  {
+   "title": "A Tighter Complexity Analysis of SparseGPT",
+   "authors": [
+    "Xiaoyu Li",
+    "Yingyu Liang",
+    "Zhenmei Shi",
+    "Zhao Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=443oNjXhsT",
+   "pdf_url": "https://openreview.net/pdf?id=443oNjXhsT"
+  },
+  {
+   "title": "Accelerating Memory-Efficient LLM Training and Fine-Tuning via Tracking the Gradient Subspace",
+   "authors": [
+    "Sahar Rajabi",
+    "Sirisha Rambhatla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qgTvp6nzgW",
+   "pdf_url": "https://openreview.net/pdf?id=qgTvp6nzgW"
+  },
+  {
+   "title": "Adapting Language Models via Token Translation",
+   "authors": [
+    "Zhili Feng",
+    "Tanya Marwah",
+    "Lester Mackey",
+    "David Alvarez-Melis",
+    "Nicolo Fusi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lFnNjkkAwQ",
+   "pdf_url": "https://openreview.net/pdf?id=lFnNjkkAwQ"
+  },
+  {
+   "title": "Adaptive Quantization and Pruning of Deep Neural Networks via Layer Importance Estimation",
+   "authors": [
+    "Tushar Shinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kf6x9RCvHf",
+   "pdf_url": "https://openreview.net/pdf?id=kf6x9RCvHf"
+  },
+  {
+   "title": "AdaQuantLM: LLM Quantization with Adaptive Bit-Widths",
+   "authors": [
+    "Shuangyi Chen",
+    "Ashish J Khisti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fnHOTCcq2Y",
+   "pdf_url": "https://openreview.net/pdf?id=fnHOTCcq2Y"
+  },
+  {
+   "title": "An image to tailor: I-Frame Domain Adaptation in Neural Video Compression",
+   "authors": [
+    "Alberto Presta",
+    "Gabriele Spadaro",
+    "Attilio Fiandrotti",
+    "Marco Grangetto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6AU7JglYSV",
+   "pdf_url": "https://openreview.net/pdf?id=6AU7JglYSV"
+  },
+  {
+   "title": "An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models",
+   "authors": [
+    "Anuj K. Nayak",
+    "Lav R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wZWcslCVFY",
+   "pdf_url": "https://openreview.net/pdf?id=wZWcslCVFY"
+  },
+  {
+   "title": "Benchmarking neural lossless compression algorithms on multi-purpose astronomical image data",
+   "authors": [
+    "Tuan Truong",
+    "Rithwik Sudharsan",
+    "Yibo Yang",
+    "Peter Xiangyuan Ma",
+    "Ruihan Yang",
+    "Stephan Mandt",
+    "Joshua S. Bloom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0gep0iXzRI",
+   "pdf_url": "https://openreview.net/pdf?id=0gep0iXzRI"
+  },
+  {
+   "title": "BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models",
+   "authors": [
+    "Xingyu Zheng",
+    "Xianglong Liu",
+    "Haotong Qin",
+    "Xudong Ma",
+    "Mingyuan Zhang",
+    "Haojie Hao",
+    "Jiakai Wang",
+    "Zixiang Zhao",
+    "Jinyang Guo",
+    "Michele Magno"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cCE46s1obO",
+   "pdf_url": "https://openreview.net/pdf?id=cCE46s1obO"
+  },
+  {
+   "title": "Breaking Smoothness: The Struggles of Neural Compressors with Discontinuous Mappings",
+   "authors": [
+    "Ezgi Ozyilkan",
+    "Jona Ballé",
+    "Sourbh Bhadane",
+    "Aaron B. Wagner",
+    "Elza Erkip"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qcM1fkFj3Y",
+   "pdf_url": "https://openreview.net/pdf?id=qcM1fkFj3Y"
+  },
+  {
+   "title": "Bridging the Gap between Diffusion Models and Universal Quantization for Image Compression",
+   "authors": [
+    "Lucas Relic",
+    "Roberto Azevedo",
+    "Yang Zhang",
+    "Markus Gross",
+    "Christopher Schroers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wqN6rWwYsr",
+   "pdf_url": "https://openreview.net/pdf?id=wqN6rWwYsr"
+  },
+  {
+   "title": "CDQuant: Greedy Coordinate Descent for Accurate LLM Quantization",
+   "authors": [
+    "Pranav Ajit Nair",
+    "Arun Suggala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ej0qyjvn6V",
+   "pdf_url": "https://openreview.net/pdf?id=Ej0qyjvn6V"
+  },
+  {
+   "title": "Communication Compression for Tensor Parallel LLM Inference",
+   "authors": [
+    "Jan Hansen-Palmus",
+    "Michael Truong Le",
+    "Oliver Hausdörfer",
+    "Alok Verma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YkttwLldEb",
+   "pdf_url": "https://openreview.net/pdf?id=YkttwLldEb"
+  },
+  {
+   "title": "Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging",
+   "authors": [
+    "Ismail Erbas",
+    "Vikas Pandey",
+    "Aporva Amarnath",
+    "Naigang Wang",
+    "Karthik Swaminathan",
+    "Stefan T. Radev",
+    "Xavier Intes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q1XDjAXIKJ",
+   "pdf_url": "https://openreview.net/pdf?id=Q1XDjAXIKJ"
+  },
+  {
+   "title": "Conditional Hallucinations for Image Compression",
+   "authors": [
+    "Till Aczel",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JOSTI9Ba4t",
+   "pdf_url": "https://openreview.net/pdf?id=JOSTI9Ba4t"
+  },
+  {
+   "title": "Copula-based Estimation of Continuous Sources for a Class of Constrained Rate-Distortion Functions",
+   "authors": [
+    "Giuseppe Serra",
+    "Photios A. Stavrou",
+    "Marios Kountouris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c8N3GYTldw",
+   "pdf_url": "https://openreview.net/pdf?id=c8N3GYTldw"
+  },
+  {
+   "title": "Deep Clustering with Associative Memories",
+   "authors": [
+    "Bishwajit Saha",
+    "Dmitry Krotov",
+    "Mohammed J Zaki",
+    "Parikshit Ram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AqglcDyLem",
+   "pdf_url": "https://openreview.net/pdf?id=AqglcDyLem"
+  },
+  {
+   "title": "Dense Backpropagation Improves Routing for Sparsely-Gated Mixture-of-Experts",
+   "authors": [
+    "Ashwinee Panda",
+    "Vatsal Baherwani",
+    "Zain Sarwar",
+    "Benjamin Thérien",
+    "Stephen Rawls",
+    "Sambit Sahu",
+    "Supriyo Chakraborty",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9g285TLTM8",
+   "pdf_url": "https://openreview.net/pdf?id=9g285TLTM8"
+  },
+  {
+   "title": "Differentiable Attention",
+   "authors": [
+    "Yancheng Wang",
+    "Dongfang Sun",
+    "Yingzhen Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=35nPpzFJeW",
+   "pdf_url": "https://openreview.net/pdf?id=35nPpzFJeW"
+  },
+  {
+   "title": "Diffusion Models With Learned Adaptive Noise",
+   "authors": [
+    "Subham Sekhar Sahoo",
+    "Aaron Gokaslan",
+    "Christopher De Sa",
+    "Volodymyr Kuleshov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2N3ROqE6bc",
+   "pdf_url": "https://openreview.net/pdf?id=2N3ROqE6bc"
+  },
+  {
+   "title": "Distillation of Discrete Diffusion through Dimensional Correlations",
+   "authors": [
+    "Satoshi Hayakawa",
+    "Yuhta Takida",
+    "Masaaki Imaizumi",
+    "Hiromi Wakaki",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ibxO5X7kxc",
+   "pdf_url": "https://openreview.net/pdf?id=ibxO5X7kxc"
+  },
+  {
+   "title": "Does Representation Matter? Exploring Intermediate Layers in Large Language Models",
+   "authors": [
+    "Oscar Skean",
+    "Md Rifat Arefin",
+    "Ravid Shwartz-Ziv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FN0tZ9pVLz",
+   "pdf_url": "https://openreview.net/pdf?id=FN0tZ9pVLz"
+  },
+  {
+   "title": "EAMQ: Environment-based Adaptive Model Quantization on Federated Reinforcement Learning",
+   "authors": [
+    "YU CHENYUE"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r5hUr6BJwK",
+   "pdf_url": "https://openreview.net/pdf?id=r5hUr6BJwK"
+  },
+  {
+   "title": "Efficient and Robust Spike Ensemble Coding of Signals",
+   "authors": [
+    "Anik Chattopadhyay",
+    "Arunava Banerjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0EPOybjEYT",
+   "pdf_url": "https://openreview.net/pdf?id=0EPOybjEYT"
+  },
+  {
+   "title": "Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling",
+   "authors": [
+    "Xihaier Luo",
+    "Samuel Lurvey",
+    "Yi Huang",
+    "Yihui Ren",
+    "Jin Huang",
+    "Byung-Jun Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3UUsfFlu8I",
+   "pdf_url": "https://openreview.net/pdf?id=3UUsfFlu8I"
+  },
+  {
+   "title": "Efficient Model Compression Techniques with FishLeg",
+   "authors": [
+    "Jamie McGowan",
+    "Wei Sheng Lai",
+    "Weibin Chen",
+    "Henry Aldridge",
+    "Jools Clarke",
+    "Jezabel R Garcia",
+    "Rui Xia",
+    "Yilei Liang",
+    "Guillaume Hennequin",
+    "Alberto Bernacchia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0PnN3hKYL7",
+   "pdf_url": "https://openreview.net/pdf?id=0PnN3hKYL7"
+  },
+  {
+   "title": "Empirical Upper Bounds for Unstructured Sparsity in Compute-Efficient Language Modeling",
+   "authors": [
+    "Esha Singh",
+    "Shane Bergsma",
+    "Nolan Simran Dey",
+    "Joel Hestness",
+    "Gavia Gray"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qOnKSqiGtR",
+   "pdf_url": "https://openreview.net/pdf?id=qOnKSqiGtR"
+  },
+  {
+   "title": "EXAQ: Exponent Aware Quantization For LLMs Acceleration",
+   "authors": [
+    "Moran Shkolnik",
+    "Maxim Fishman",
+    "Brian Chmiel",
+    "Hilla Ben-Yaacov",
+    "Ron Banner",
+    "Kfir Yehuda Levy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AuJ6gDjcZK",
+   "pdf_url": "https://openreview.net/pdf?id=AuJ6gDjcZK"
+  },
+  {
+   "title": "Exploiting Temporal Priors for Efficient Real-time Compression and Feedback of Wireless Channels",
+   "authors": [
+    "Akshay Malhotra",
+    "Mohamed Salah Ibrahim",
+    "Keya Patani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AVESbmxxMA",
+   "pdf_url": "https://openreview.net/pdf?id=AVESbmxxMA"
+  },
+  {
+   "title": "FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models",
+   "authors": [
+    "Yang Zhang",
+    "Yawei Li",
+    "Xinpeng Wang",
+    "Qianli Shen",
+    "Barbara Plank",
+    "Bernd Bischl",
+    "Mina Rezaei",
+    "Kenji Kawaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jrSWzgno4W",
+   "pdf_url": "https://openreview.net/pdf?id=jrSWzgno4W"
+  },
+  {
+   "title": "Flexible image decoding in learned image compression",
+   "authors": [
+    "Hossein Motamednia",
+    "Azadeh Mansouri",
+    "Fariba Saadati Monem",
+    "Ahmad Mahmoudi-Aznaveh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9aQ3gZASAw",
+   "pdf_url": "https://openreview.net/pdf?id=9aQ3gZASAw"
+  },
+  {
+   "title": "Formalizing Limits of Knowledge Distillation Using Partial Information Decomposition",
+   "authors": [
+    "Pasan Dissanayake",
+    "Faisal Hamman",
+    "Barproda Halder",
+    "Ilia Sucholutsky",
+    "Qiuyi Zhang",
+    "Sanghamitra Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gl0VTpv3hz",
+   "pdf_url": "https://openreview.net/pdf?id=Gl0VTpv3hz"
+  },
+  {
+   "title": "Fused-Layer CNNs for Memory-Efficient Inference on Microcontrollers",
+   "authors": [
+    "Mark Deutel",
+    "Frank Hannig",
+    "Christopher Mutschler",
+    "Jürgen Teich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2O8qbyxH6X",
+   "pdf_url": "https://openreview.net/pdf?id=2O8qbyxH6X"
+  },
+  {
+   "title": "FV-NeRV: Neural Compression for Free Viewpoint Videos",
+   "authors": [
+    "Takuya Fujihashi",
+    "Sorachi Kato",
+    "Toshiaki Koike-Akino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fDEKEGqbLw",
+   "pdf_url": "https://openreview.net/pdf?id=fDEKEGqbLw"
+  },
+  {
+   "title": "Getting free Bits Back from Rotational Symmetries in LLMs",
+   "authors": [
+    "Jiajun He",
+    "Gergely Flamich",
+    "José Miguel Hernández-Lobato"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jvjRNm6tb3",
+   "pdf_url": "https://openreview.net/pdf?id=jvjRNm6tb3"
+  },
+  {
+   "title": "Graph Transformation Augmentation for Contrastive Learning of Graph-Level Representation: An Initial Exploration",
+   "authors": [
+    "Tianchao Li",
+    "Yulong Pei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UPH26kEP5d",
+   "pdf_url": "https://openreview.net/pdf?id=UPH26kEP5d"
+  },
+  {
+   "title": "Grow to Compress? Efficient Training of Robust Networks on the Edge",
+   "authors": [
+    "Vignesh Sundaresha",
+    "Naresh Shanbhag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8rko2UqXdB",
+   "pdf_url": "https://openreview.net/pdf?id=8rko2UqXdB"
+  },
+  {
+   "title": "How Many Does It Take to Prune a Network: Comparing One-Shot vs. Iterative Pruning Regimes",
+   "authors": [
+    "Tomasz Wojnar",
+    "Mikołaj Janusz",
+    "Luca Benini",
+    "Yawei Li",
+    "Kamil Adamczewski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XoYiyOLtMv",
+   "pdf_url": "https://openreview.net/pdf?id=XoYiyOLtMv"
+  },
+  {
+   "title": "Improving Knowledge Distillation with Teacher's Explanation",
+   "authors": [
+    "Sayantan Chowdhury",
+    "Ben Liang",
+    "Ali Tizghadam",
+    "Ilijc Albanese"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Y6gc7sesn",
+   "pdf_url": "https://openreview.net/pdf?id=3Y6gc7sesn"
+  },
+  {
+   "title": "Information-theoretic Generalization Analysis for Vector-Quantized VAEs",
+   "authors": [
+    "Futoshi Futami",
+    "Masahiro Fujisawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8VHR1OWs2F",
+   "pdf_url": "https://openreview.net/pdf?id=8VHR1OWs2F"
+  },
+  {
+   "title": "Integration of Large Vision Models in Driver Monitoring Systems: Compressing and Distilling for Real-Time Automotive Applications",
+   "authors": [
+    "Georgios Markos Chatziloizos",
+    "Andrea Ancora",
+    "Andrew I. Comport",
+    "Barat Christian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I0s8b4ktYx",
+   "pdf_url": "https://openreview.net/pdf?id=I0s8b4ktYx"
+  },
+  {
+   "title": "Interactions Across Blocks in Post-Training Quantization of Large Language Models",
+   "authors": [
+    "Khasmamad Shabanovi",
+    "Lukas Wiest",
+    "Vladimir Golkov",
+    "Daniel Cremers",
+    "Thomas Pfeil"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SswYBdQYxK",
+   "pdf_url": "https://openreview.net/pdf?id=SswYBdQYxK"
+  },
+  {
+   "title": "Interpretability as Compression: Reconsidering SAE Explanations of Neural Activations",
+   "authors": [
+    "Kola Ayonrinde",
+    "Michael T Pearce",
+    "Lee Sharkey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cblEXlSaWz",
+   "pdf_url": "https://openreview.net/pdf?id=cblEXlSaWz"
+  },
+  {
+   "title": "Large Language Model Compression with Neural Architecture Search",
+   "authors": [
+    "Rhea Sanjay Sukthanker",
+    "Benedikt Staffler",
+    "Frank Hutter",
+    "Aaron Klein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ikbfl5T5Y4",
+   "pdf_url": "https://openreview.net/pdf?id=Ikbfl5T5Y4"
+  },
+  {
+   "title": "Latent Probabilistic Dataset Distillation with Theoretical Guarantees",
+   "authors": [
+    "Progyan Das",
+    "Shrutimoy Das",
+    "Anirban Dasgupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rFIfCYMSmA",
+   "pdf_url": "https://openreview.net/pdf?id=rFIfCYMSmA"
+  },
+  {
+   "title": "Layer-Importance guided Adaptive Quantization for Efficient Speech Emotion Recognition",
+   "authors": [
+    "Tushar Shinde",
+    "RITIKA JAIN",
+    "Avinash Kumar Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3H6YyCBF7p",
+   "pdf_url": "https://openreview.net/pdf?id=3H6YyCBF7p"
+  },
+  {
+   "title": "Layer-wise Quantization for Distributed Variational Inequalities",
+   "authors": [
+    "Anh Duc Nguyen",
+    "Ilia Markov",
+    "Ali Ramezani-Kebrya",
+    "Kimon Antonakopoulos",
+    "Dan Alistarh",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lqBdJrwiCA",
+   "pdf_url": "https://openreview.net/pdf?id=lqBdJrwiCA"
+  },
+  {
+   "title": "Learnable Fourier-based Activations for Implicit Signal Representations",
+   "authors": [
+    "Parsa Mojarad Adi",
+    "Ali Mehrabian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oRtLjYkmLQ",
+   "pdf_url": "https://openreview.net/pdf?id=oRtLjYkmLQ"
+  },
+  {
+   "title": "Learning to Compress: Local Rank and Information Compression in Deep Neural Networks",
+   "authors": [
+    "Niket Nikul Patel",
+    "Ravid Shwartz-Ziv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=31LwSPU20u",
+   "pdf_url": "https://openreview.net/pdf?id=31LwSPU20u"
+  },
+  {
+   "title": "LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization",
+   "authors": [
+    "Rui Xie",
+    "Tianchen Zhao",
+    "Zhihang Yuan",
+    "Rui Wan",
+    "Wenxi Gao",
+    "Zhenhua Zhu",
+    "Xuefei Ning",
+    "Yu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qPhmWkr6JO",
+   "pdf_url": "https://openreview.net/pdf?id=qPhmWkr6JO"
+  },
+  {
+   "title": "LLM Vocabulary Compression for Low-Compute Environments",
+   "authors": [
+    "Sreeram Vennam",
+    "Anish R Joishy",
+    "Ponnurangam Kumaraguru"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dtcizKLshW",
+   "pdf_url": "https://openreview.net/pdf?id=dtcizKLshW"
+  },
+  {
+   "title": "LORC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy",
+   "authors": [
+    "Rongzhi Zhang",
+    "Kuan Wang",
+    "Liyuan Liu",
+    "Shuohang Wang",
+    "Hao Cheng",
+    "Chao Zhang",
+    "yelong shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=axAdW65dYt",
+   "pdf_url": "https://openreview.net/pdf?id=axAdW65dYt"
+  },
+  {
+   "title": "Losslessly Compressible Neural Network Parameters",
+   "authors": [
+    "Matthew Farrugia-Roberts"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VhhsbII0Lk",
+   "pdf_url": "https://openreview.net/pdf?id=VhhsbII0Lk"
+  },
+  {
+   "title": "LSH-E Tells You What To Discard: An Adaptive Locality-Sensitive Strategy for KV Cache Compression",
+   "authors": [
+    "Tahseen Rabbani",
+    "Minghui Liu",
+    "Tony O'Halloran",
+    "Ananth Sankaralingam",
+    "Mary-Anne Hartley",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hMxmRWGIsm",
+   "pdf_url": "https://openreview.net/pdf?id=hMxmRWGIsm"
+  },
+  {
+   "title": "M2M-TAG: Training-Free Many-to-Many Token Aggregation for Vision Transformer Acceleration",
+   "authors": [
+    "Fanhu Zeng",
+    "Deli Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LO3Mw8Jrk0",
+   "pdf_url": "https://openreview.net/pdf?id=LO3Mw8Jrk0"
+  },
+  {
+   "title": "Majority Kernels: An Approach to Leverage Big Model Dynamics for Efficient Small Model Training",
+   "authors": [
+    "Hanna Mazzawi",
+    "Pranjal Awasthi",
+    "Javier Gonzalvo",
+    "Srikumar Ramalingam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ufo1aQ34ev",
+   "pdf_url": "https://openreview.net/pdf?id=ufo1aQ34ev"
+  },
+  {
+   "title": "MAPLE: Memory-Aware Predict and Load for Efficient LLM Inference",
+   "authors": [
+    "Zhenyu Liu",
+    "Zhemin Zhang",
+    "Zirui Zhang",
+    "Yanyuan Qin",
+    "Jiayi Luo",
+    "Zhenyu Gu",
+    "Liu Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vj3dYidMc6",
+   "pdf_url": "https://openreview.net/pdf?id=Vj3dYidMc6"
+  },
+  {
+   "title": "MCUCoder: Adaptive Bitrate Learned Video Compression for IoT Devices",
+   "authors": [
+    "Ali Hojjat",
+    "Janek Haberer",
+    "Olaf Landsiedel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ESjy0fQJJE",
+   "pdf_url": "https://openreview.net/pdf?id=ESjy0fQJJE"
+  },
+  {
+   "title": "Mind the Gap Between Synthetic and Real: Probing Transfer Capabilities of Stable Diffusion Images",
+   "authors": [
+    "Leonhard Hennicke",
+    "Christian Medeiros Adriano",
+    "Holger Giese",
+    "Jan Mathias Koehler",
+    "Lukas Schott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V4JmOozfea",
+   "pdf_url": "https://openreview.net/pdf?id=V4JmOozfea"
+  },
+  {
+   "title": "Neural Compression for Multispectral Satellite Images",
+   "authors": [
+    "Woojin Cho",
+    "Steve Andreas Immanuel",
+    "Junhyuk Heo",
+    "Darongsae Kwon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gk2m2OIKMs",
+   "pdf_url": "https://openreview.net/pdf?id=gk2m2OIKMs"
+  },
+  {
+   "title": "Neural Normalized Compression Distance and the Disconnect Between Compression and Classification",
+   "authors": [
+    "John Hurwitz",
+    "Charles K. Nicholas",
+    "Edward Raff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zUEkg6MrAi",
+   "pdf_url": "https://openreview.net/pdf?id=zUEkg6MrAi"
+  },
+  {
+   "title": "Non-interactive Remote Coordination",
+   "authors": [
+    "Yassine Hamdi",
+    "Xueyan Niu",
+    "Bo Bai",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AdngqFnIrz",
+   "pdf_url": "https://openreview.net/pdf?id=AdngqFnIrz"
+  },
+  {
+   "title": "On the Relationship Between Model Training Dynamics and Early Pruning Periods",
+   "authors": [
+    "Elvis Nunez",
+    "Stefano Soatto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tnykAJ5ViF",
+   "pdf_url": "https://openreview.net/pdf?id=tnykAJ5ViF"
+  },
+  {
+   "title": "P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks",
+   "authors": [
+    "Malyaban Bal",
+    "Abhronil Sengupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=35gF1nqsgw",
+   "pdf_url": "https://openreview.net/pdf?id=35gF1nqsgw"
+  },
+  {
+   "title": "Partially Frozen Random Networks Contain Compact Strong Lottery Tickets",
+   "authors": [
+    "Hikari Otsuka",
+    "Daiki Chijiwa",
+    "Ángel López García-Arias",
+    "Yasuyuki Okoshi",
+    "Kazushi Kawamura",
+    "Thiem Van Chu",
+    "Daichi Fujiki",
+    "Susumu Takeuchi",
+    "Masato Motomura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xfE4Dk3X6c",
+   "pdf_url": "https://openreview.net/pdf?id=xfE4Dk3X6c"
+  },
+  {
+   "title": "Perception Loss Function Adaptive to Rate for Learned Video Compression",
+   "authors": [
+    "Sadaf Salehkalaibar",
+    "Buu Phan",
+    "João Atz Dick",
+    "Ashish J Khisti",
+    "Jun Chen",
+    "Wei Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XQN2sBSjuQ",
+   "pdf_url": "https://openreview.net/pdf?id=XQN2sBSjuQ"
+  },
+  {
+   "title": "PerCo (SD): Open Perceptual Compression",
+   "authors": [
+    "Nikolai Körber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8xvygfdRWy",
+   "pdf_url": "https://openreview.net/pdf?id=8xvygfdRWy"
+  },
+  {
+   "title": "Polar Codes for Channel Simulation",
+   "authors": [
+    "Sharang M. Sriramu",
+    "Rochelle Barsz",
+    "Elizabeth Polito",
+    "Aaron B. Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AFhLUZGDsY",
+   "pdf_url": "https://openreview.net/pdf?id=AFhLUZGDsY"
+  },
+  {
+   "title": "Prechastic Coding: An Alternative Approach to Neural Network Description Lengths",
+   "authors": [
+    "Paris Dominic Louis Flood",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oq7bhphUBO",
+   "pdf_url": "https://openreview.net/pdf?id=oq7bhphUBO"
+  },
+  {
+   "title": "QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models",
+   "authors": [
+    "Zhumazhan Balapanov",
+    "Vanessa Matvei",
+    "Olivia Holmberg",
+    "Edward Magongo",
+    "Kevin Zhu",
+    "Jonathan Pei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d2V3K5LA0G",
+   "pdf_url": "https://openreview.net/pdf?id=d2V3K5LA0G"
+  },
+  {
+   "title": "Randomly Pivoted V-optimal Design: Fast Data Selection under Low Intrinsic Dimension",
+   "authors": [
+    "Yijun Dong",
+    "Xiang Pan",
+    "Hoang Phan",
+    "Qi Lei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WPvQVQrbch",
+   "pdf_url": "https://openreview.net/pdf?id=WPvQVQrbch"
+  },
+  {
+   "title": "Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning",
+   "authors": [
+    "Benjamin Leblanc",
+    "Mathieu Bazinet",
+    "Nathaniel D'Amours",
+    "Alexandre Drouin",
+    "Pascal Germain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7v8HzCUVbh",
+   "pdf_url": "https://openreview.net/pdf?id=7v8HzCUVbh"
+  },
+  {
+   "title": "Sample compression unleashed : New generalization bounds for real valued losses",
+   "authors": [
+    "Mathieu Bazinet",
+    "Valentina Zantedeschi",
+    "Pascal Germain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rutp5J4ks2",
+   "pdf_url": "https://openreview.net/pdf?id=rutp5J4ks2"
+  },
+  {
+   "title": "SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding",
+   "authors": [
+    "Zhenglin Wang",
+    "Jialong Wu",
+    "Yilong Lai",
+    "Congzhi Zhang",
+    "Deyu Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hIQtXkbFmp",
+   "pdf_url": "https://openreview.net/pdf?id=hIQtXkbFmp"
+  },
+  {
+   "title": "Self-Data Distillation for Recovering Quality in Pruned Large Language Models",
+   "authors": [
+    "Vithursan Thangarasa",
+    "Ganesh Venkatesh",
+    "Nish Sinnadurai",
+    "Sean Lie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aUaltIxtol",
+   "pdf_url": "https://openreview.net/pdf?id=aUaltIxtol"
+  },
+  {
+   "title": "Shrinking the Size of Deep Extreme Multi-Label Classification",
+   "authors": [
+    "Marco Bornstein",
+    "Tahseen Rabbani",
+    "Brian Joseph Gravelle",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MIZAzmfsGz",
+   "pdf_url": "https://openreview.net/pdf?id=MIZAzmfsGz"
+  },
+  {
+   "title": "Simple LLM Compression Recovery Using Dynamic Prompting with Theoretical Analysis",
+   "authors": [
+    "Duc N.M Hoang",
+    "Minsik Cho",
+    "Thomas Merth",
+    "Mohammad Rastegari",
+    "Zhangyang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4nV383120k",
+   "pdf_url": "https://openreview.net/pdf?id=4nV383120k"
+  },
+  {
+   "title": "SNeRV: Scalable Neural Representations for Video Coding",
+   "authors": [
+    "Yiying Wei",
+    "Hadi Amirpour",
+    "Christian Timmerer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZqN4bnXSSY",
+   "pdf_url": "https://openreview.net/pdf?id=ZqN4bnXSSY"
+  },
+  {
+   "title": "SpikingVTG: Saliency Feedback Gating Enabled Spiking Video Temporal Grounding",
+   "authors": [
+    "Malyaban Bal",
+    "Brian Matejek",
+    "Susmit Jha",
+    "Adam D. Cobb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=30xMvMFtOA",
+   "pdf_url": "https://openreview.net/pdf?id=30xMvMFtOA"
+  },
+  {
+   "title": "Sustainable AI: Efficient Pruning of Large Language Models in Resource-Limited Environments",
+   "authors": [
+    "Ashhadul Islam",
+    "SAMIR BELHAOUARI",
+    "Amine Bermak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rp5ONsVtew",
+   "pdf_url": "https://openreview.net/pdf?id=Rp5ONsVtew"
+  },
+  {
+   "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",
+   "authors": [
+    "Makoto Shing",
+    "Kou Misaki",
+    "Han Bao",
+    "Sho Yokoi",
+    "Takuya Akiba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xorMT2QZRS",
+   "pdf_url": "https://openreview.net/pdf?id=xorMT2QZRS"
+  },
+  {
+   "title": "The Rate-Distortion-Perception Trade-Off with Algorithmic Realism",
+   "authors": [
+    "Yassine Hamdi",
+    "Aaron B. Wagner",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fFkbEL1bM0",
+   "pdf_url": "https://openreview.net/pdf?id=fFkbEL1bM0"
+  },
+  {
+   "title": "The Trichromatic Strong Lottery Ticket Hypothesis: Neural Compression With Three Primary Supermasks",
+   "authors": [
+    "Ángel López García-Arias",
+    "Yasuyuki Okoshi",
+    "Hikari Otsuka",
+    "Daiki Chijiwa",
+    "Yasuhiro Fujiwara",
+    "Susumu Takeuchi",
+    "Masato Motomura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CfI2KfPb4C",
+   "pdf_url": "https://openreview.net/pdf?id=CfI2KfPb4C"
+  },
+  {
+   "title": "Towards Scalable Compression with Universally Quantized Diffusion Models",
+   "authors": [
+    "Yibo Yang",
+    "Justus Will",
+    "Stephan Mandt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1groaXTrKo",
+   "pdf_url": "https://openreview.net/pdf?id=1groaXTrKo"
+  },
+  {
+   "title": "Training Block-wise Sparse Models Using Kronecker Product Decomposition",
+   "authors": [
+    "Ding Zhu",
+    "Zhiqun Zuo",
+    "Mohammad Mahdi Khalili"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ai4NTky7HS",
+   "pdf_url": "https://openreview.net/pdf?id=Ai4NTky7HS"
+  },
+  {
+   "title": "Training-Free Visual Token Compression via Delayed Spatial Merging",
+   "authors": [
+    "Jung Hwan Heo",
+    "Seyedarmin Azizi",
+    "Arash Fayyazi",
+    "Massoud Pedram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4JXo4wOUfQ",
+   "pdf_url": "https://openreview.net/pdf?id=4JXo4wOUfQ"
+  },
+  {
+   "title": "Transformers Learn to Compress Variable-order Markov Chains in-Context",
+   "authors": [
+    "Ruida Zhou",
+    "Chao Tian",
+    "Suhas Diggavi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AbbQPMj4cj",
+   "pdf_url": "https://openreview.net/pdf?id=AbbQPMj4cj"
+  },
+  {
+   "title": "Unified Lookup Tables: Privacy-Preserving Foundation Models",
+   "authors": [
+    "Nikita Janakarajan",
+    "Irina Espejo Morales",
+    "Marvin Alberts",
+    "Andrea Giovannini",
+    "Matteo Manica",
+    "Antonio Foncubierta-Rodríguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1caxcqCiIp",
+   "pdf_url": "https://openreview.net/pdf?id=1caxcqCiIp"
+  },
+  {
+   "title": "Unifying Subsampling Pattern Variations for Compressed Sensing MRI with Neural Operators",
+   "authors": [
+    "Armeet Singh Jatyani",
+    "Jiayun Wang",
+    "Zihui Wu",
+    "Miguel Liu-Schiaffini",
+    "Bahareh Tolooshams",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JOSuqnyQ0W",
+   "pdf_url": "https://openreview.net/pdf?id=JOSuqnyQ0W"
+  },
+  {
+   "title": "Vector Quantization with Sorting Transformation",
+   "authors": [
+    "Hongzhi Wang",
+    "Tanveer Syeda-mahmood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DK1jO9qtT2",
+   "pdf_url": "https://openreview.net/pdf?id=DK1jO9qtT2"
+  },
+  {
+   "title": "VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression",
+   "authors": [
+    "Yunkee Chae",
+    "Woosung Choi",
+    "Yuhta Takida",
+    "Junghyun Koo",
+    "Yukara Ikemiya",
+    "Zhi Zhong",
+    "Kin Wai Cheuk",
+    "Marco A. Martínez-Ramírez",
+    "Kyogu Lee",
+    "Wei-Hsiang Liao",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EuPaZLX657",
+   "pdf_url": "https://openreview.net/pdf?id=EuPaZLX657"
+  },
+  {
+   "title": "Wasserstein Distortion with Intrinsic $\\sigma$-Maps",
+   "authors": [
+    "Yang Qiu",
+    "Ziyuan Lin",
+    "Aaron B. Wagner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8lwDe1eOTV",
+   "pdf_url": "https://openreview.net/pdf?id=8lwDe1eOTV"
+  },
+  {
+   "title": "Weight-Sharing Method for Upsampling Layer from Feature Embedding Recursive Block",
+   "authors": [
+    "Jinwoo Hyun",
+    "YunKyong Hyon",
+    "Mira Lee",
+    "Sunju Lee",
+    "Taeyoung Ha",
+    "Young Rock Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=De3884o7zG",
+   "pdf_url": "https://openreview.net/pdf?id=De3884o7zG"
+  },
+  {
+   "title": "What Makes for Good Image Captions?",
+   "authors": [
+    "Delong Chen",
+    "Samuel Cahyawijaya",
+    "Etsuko Ishii",
+    "Ho Shu Chan",
+    "Yejin Bang",
+    "Pascale Fung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2VutjTnRyo",
+   "pdf_url": "https://openreview.net/pdf?id=2VutjTnRyo"
+  }
+ ]
+}

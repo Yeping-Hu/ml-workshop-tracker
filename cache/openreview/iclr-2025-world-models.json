@@ -1,0 +1,795 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/World_Models",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:52.349Z",
+ "paper_count": 63,
+ "papers": [
+  {
+   "title": "A Proposal for Networks Capable of Continual Learning",
+   "authors": [
+    "Zeki Doruk Erden",
+    "Boi Faltings"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FgtgxJyc0P",
+   "pdf_url": "https://openreview.net/pdf?id=FgtgxJyc0P"
+  },
+  {
+   "title": "A Virtual Reality-Integrated System for Behavioral Analysis in Neurological Decline",
+   "authors": [
+    "Chen Zhang",
+    "Jiaxin Shi",
+    "Yanan Sui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TenxyMM4xi",
+   "pdf_url": "https://openreview.net/pdf?id=TenxyMM4xi"
+  },
+  {
+   "title": "Accelerating Goal-Conditioned RL Algorithms and Research",
+   "authors": [
+    "Michał Bortkiewicz",
+    "Władysław Pałucki",
+    "Vivek Myers",
+    "Tadeusz Dziarmaga",
+    "Tomasz Arczewski",
+    "Łukasz Kuciński",
+    "Benjamin Eysenbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wzwX2kC8Ud",
+   "pdf_url": "https://openreview.net/pdf?id=wzwX2kC8Ud"
+  },
+  {
+   "title": "Accelerating Model-Based Reinforcement Learning with State-Space World Models",
+   "authors": [
+    "Elie Aljalbout",
+    "Maria Krinner",
+    "Angel Romero",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q5s1aRmRQm",
+   "pdf_url": "https://openreview.net/pdf?id=q5s1aRmRQm"
+  },
+  {
+   "title": "ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer",
+   "authors": [
+    "Jinyi Hu",
+    "Shengding Hu",
+    "Yuxuan Song",
+    "Yufei Huang",
+    "Mingxuan Wang",
+    "Hao Zhou",
+    "Zhiyuan Liu",
+    "Wei-Ying Ma",
+    "Maosong Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1E9Cxdz4f7",
+   "pdf_url": "https://openreview.net/pdf?id=1E9Cxdz4f7"
+  },
+  {
+   "title": "ACT-Bench: Towards Action Controllable World Models for Autonomous Driving",
+   "authors": [
+    "Hidehisa Arai",
+    "Keishi Ishihara",
+    "Tsubasa Takahashi",
+    "Yu Yamaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=26KlsDgwLi",
+   "pdf_url": "https://openreview.net/pdf?id=26KlsDgwLi"
+  },
+  {
+   "title": "Adapting a World Model for Trajectory Following in a 3D Game",
+   "authors": [
+    "Marko Tot",
+    "Shu Ishida",
+    "Abdelhak Lemkhenter",
+    "David Bignell",
+    "Pallavi Choudhury",
+    "Chris Lovett",
+    "Luis França",
+    "Matheus Ribeiro Furtado de Mendonça",
+    "Tarun Gupta",
+    "Darren Gehring",
+    "Sam Devlin",
+    "Sergio Valcarcel Macua",
+    "Raluca Georgescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KhWDZQenjd",
+   "pdf_url": "https://openreview.net/pdf?id=KhWDZQenjd"
+  },
+  {
+   "title": "BEYOND SINGLE-STEP: MULTI-FRAME ACTION- CONDITIONED VIDEO GENERATION FOR REINFORCE- MENT LEARNING ENVIRONMENTS",
+   "authors": [
+    "Zongyue Li",
+    "Sikuan Yan",
+    "Yunpu Ma",
+    "Yusong Li",
+    "Xing Lyu",
+    "Matthias Schubert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tShfX66qOL",
+   "pdf_url": "https://openreview.net/pdf?id=tShfX66qOL"
+  },
+  {
+   "title": "BiD: Behavioral Agents in Dynamic Auctions",
+   "authors": [
+    "Weitong Zhang",
+    "Chengqi Zang",
+    "Mark Schmidt",
+    "Richard Blythman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IjAna3o7Ba",
+   "pdf_url": "https://openreview.net/pdf?id=IjAna3o7Ba"
+  },
+  {
+   "title": "COMPARATIVE STUDY OF WORLD MODELS, NVAE-BASED HIERARCHICAL MODELS, AND NOISYNET-AUGMENTED MODELS IN CARRACING-V2",
+   "authors": [
+    "Vidyavarshini Holenarasipur Jayashankar",
+    "Banafsheh Rekabdar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wWVKhXfYOy",
+   "pdf_url": "https://openreview.net/pdf?id=wWVKhXfYOy"
+  },
+  {
+   "title": "Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models",
+   "authors": [
+    "Yang Zhang",
+    "Chenjia Bai",
+    "Bin Zhao",
+    "Junchi Yan",
+    "Xiu Li",
+    "Xuelong Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s3IY1RBlDQ",
+   "pdf_url": "https://openreview.net/pdf?id=s3IY1RBlDQ"
+  },
+  {
+   "title": "DIALOGUES BETWEEN ADAM AND EVE: EXPLORATION OF UNKNOWN CIVILIZATION LANGUAGE BY LLM",
+   "authors": [
+    "WangXu",
+    "Fengzhou Wang",
+    "YiquanWang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ca1Q9AGJD0",
+   "pdf_url": "https://openreview.net/pdf?id=ca1Q9AGJD0"
+  },
+  {
+   "title": "Distribution Recovery in Compact Diffusion World Models via Conditioned Frame Interpolation",
+   "authors": [
+    "Sam Gijsen",
+    "Kerstin Ritter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Zrl1HedHb",
+   "pdf_url": "https://openreview.net/pdf?id=8Zrl1HedHb"
+  },
+  {
+   "title": "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation",
+   "authors": [
+    "Qiyue Gao",
+    "Xinyu Pi",
+    "Kevin Liu",
+    "Junrong Chen",
+    "Ruolan Yang",
+    "Xinqi Huang",
+    "Xinyu Fang",
+    "Lu Sun",
+    "Gautham Kishore",
+    "Bo Ai",
+    "Stone Tao",
+    "Mengyang Liu",
+    "Jiaxi Yang",
+    "Chao-Jung Lai",
+    "Chuanyang Jin",
+    "Jiannan Xiang",
+    "Benhao Huang",
+    "David Danks",
+    "Hao Su",
+    "Tianmin Shu",
+    "Ziqiao Ma",
+    "Lianhui Qin",
+    "Zhiting Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tpPv3ayoqo",
+   "pdf_url": "https://openreview.net/pdf?id=tpPv3ayoqo"
+  },
+  {
+   "title": "Effectively Designing 2-Dimensional Sequence Models for Multivariate Time Series",
+   "authors": [
+    "Daniel Yiming Cao",
+    "Ali Behrouz",
+    "Ali Parviz",
+    "Mahdi Karami",
+    "Michele Santacatterina",
+    "Ramin Zabih"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xkFRduCUNz",
+   "pdf_url": "https://openreview.net/pdf?id=xkFRduCUNz"
+  },
+  {
+   "title": "Emergent Stack Representations in Modeling Counter Languages Using Transformers",
+   "authors": [
+    "Utkarsh Tiwari",
+    "Aviral Gupta",
+    "Michael Hahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o5xTyDilNs",
+   "pdf_url": "https://openreview.net/pdf?id=o5xTyDilNs"
+  },
+  {
+   "title": "Fixed-Point RNNs: From Diagonal to Dense in a Few Iterations",
+   "authors": [
+    "Sajad Movahedi",
+    "Felix Sarnthein",
+    "Nicola Muca Cirone",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6nS6mscJXO",
+   "pdf_url": "https://openreview.net/pdf?id=6nS6mscJXO"
+  },
+  {
+   "title": "From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment",
+   "authors": [
+    "Yilin Wu",
+    "Ran Tian",
+    "Gokul Swamy",
+    "Andrea Bajcsy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qiv716hVAM",
+   "pdf_url": "https://openreview.net/pdf?id=qiv716hVAM"
+  },
+  {
+   "title": "Generalist World Model Pre-Training for Efficient Reinforcement Learning",
+   "authors": [
+    "Yi Zhao",
+    "Aidan Scannell",
+    "Yuxin Hou",
+    "Tianyu Cui",
+    "Le Chen",
+    "Dieter Büchler",
+    "Arno Solin",
+    "Juho Kannala",
+    "Joni Pajarinen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WtJnrr4BGO",
+   "pdf_url": "https://openreview.net/pdf?id=WtJnrr4BGO"
+  },
+  {
+   "title": "Generating Symbolic World Models via Test-time Scaling of Large Language Models",
+   "authors": [
+    "Zhouliang Yu",
+    "Yuhuan Yuan",
+    "Tim Z. Xiao",
+    "Fuxiang Frank Xia",
+    "Jie Fu",
+    "Ge Zhang",
+    "Ge lin",
+    "Weiyang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=038CjPZZ2G",
+   "pdf_url": "https://openreview.net/pdf?id=038CjPZZ2G"
+  },
+  {
+   "title": "GOLLuM: Gaussian Process Optimized LLMs — Reframing LLM Finetuning through Bayesian Optimization",
+   "authors": [
+    "Bojana Ranković",
+    "Philippe Schwaller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ORViHAUbf",
+   "pdf_url": "https://openreview.net/pdf?id=2ORViHAUbf"
+  },
+  {
+   "title": "HEP-JEPA: A foundation model for collider physics",
+   "authors": [
+    "Jai Bardhan",
+    "Radhikesh Agrawal",
+    "Abhiram Tilak",
+    "Cyrin Neeraj",
+    "Subhadip Mitra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lyse4eJqto",
+   "pdf_url": "https://openreview.net/pdf?id=Lyse4eJqto"
+  },
+  {
+   "title": "HuWo: Building Physical Interaction World Models for Humanoid Robot Locomotion",
+   "authors": [
+    "Han Zheng",
+    "Yi Cheng",
+    "Hang Liu",
+    "Linqi Ye",
+    "Houde Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AjbabLIbrd",
+   "pdf_url": "https://openreview.net/pdf?id=AjbabLIbrd"
+  },
+  {
+   "title": "Improving Transformer World Models for Data-Efficient RL",
+   "authors": [
+    "Antoine Dedieu",
+    "Joseph Ortiz",
+    "Xinghua Lou",
+    "Carter Wendelken",
+    "Wolfgang Lehrach",
+    "J Swaroop Guntupalli",
+    "Miguel Lazaro-Gredilla",
+    "Kevin Patrick Murphy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SzdiLmoOed",
+   "pdf_url": "https://openreview.net/pdf?id=SzdiLmoOed"
+  },
+  {
+   "title": "Improving World Models using Supervision with Co-Evolving Linear Probes",
+   "authors": [
+    "Andrii Zahorodnii"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kSAJdxOUZX",
+   "pdf_url": "https://openreview.net/pdf?id=kSAJdxOUZX"
+  },
+  {
+   "title": "Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles",
+   "authors": [
+    "Ayush Bheemaiah",
+    "Seungyong Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3FgeeQ1OHf",
+   "pdf_url": "https://openreview.net/pdf?id=3FgeeQ1OHf"
+  },
+  {
+   "title": "Latent Action Learning Requires Supervision in the Presence of Distractors",
+   "authors": [
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Denis Tarasov",
+    "Lyubaykin Nikita",
+    "Andrei Polubarov",
+    "Igor Kiselev",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uj0KOsyRHl",
+   "pdf_url": "https://openreview.net/pdf?id=uj0KOsyRHl"
+  },
+  {
+   "title": "Latent Representation Encoding and Multimodal Biomarkers for Post-Stroke Speech Assessment",
+   "authors": [
+    "Giulia Sanguedolce",
+    "Dragos-Cristian Gruia",
+    "Patrick Naylor",
+    "Fatemeh Geranmayeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4PyQzrYCEy",
+   "pdf_url": "https://openreview.net/pdf?id=4PyQzrYCEy"
+  },
+  {
+   "title": "LEARNING FROM LESS: SINDY SURROGATES IN RL",
+   "authors": [
+    "Aniket Dixit",
+    "Muhammad Ibrahim Khan",
+    "Faizan Ahmed",
+    "James Brusey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vjC6H84NCS",
+   "pdf_url": "https://openreview.net/pdf?id=vjC6H84NCS"
+  },
+  {
+   "title": "Masked Generative Priors Improve World Models Sequence Modelling Capabilities",
+   "authors": [
+    "Cristian Meo",
+    "Mircea Tudor Lică",
+    "Zarif Ikram",
+    "Akihiro Nakano",
+    "Vedant Shah",
+    "Aniket Rajiv Didolkar",
+    "Dianbo Liu",
+    "Anirudh Goyal",
+    "Justin Dauwels"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vRdn74Jkqp",
+   "pdf_url": "https://openreview.net/pdf?id=vRdn74Jkqp"
+  },
+  {
+   "title": "Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs",
+   "authors": [
+    "Gengyuan Zhang",
+    "Mingcong Ding",
+    "Tong Liu",
+    "Yao Zhang",
+    "Volker Tresp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NFEZq3pIqv",
+   "pdf_url": "https://openreview.net/pdf?id=NFEZq3pIqv"
+  },
+  {
+   "title": "Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity",
+   "authors": [
+    "Weixin Liang",
+    "Junhong Shen",
+    "Genghan Zhang",
+    "Ning Dong",
+    "Luke Zettlemoyer",
+    "LILI YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lWc00zuDx0",
+   "pdf_url": "https://openreview.net/pdf?id=lWc00zuDx0"
+  },
+  {
+   "title": "Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models",
+   "authors": [
+    "Weixin Liang",
+    "LILI YU",
+    "Liang Luo",
+    "Srini Iyer",
+    "Ning Dong",
+    "Chunting Zhou",
+    "Gargi Ghosh",
+    "Mike Lewis",
+    "Wen-tau Yih",
+    "Luke Zettlemoyer",
+    "Xi Victoria Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vksqRL2Yyz",
+   "pdf_url": "https://openreview.net/pdf?id=vksqRL2Yyz"
+  },
+  {
+   "title": "Model-based Offline Reinforcement Learning with Lower Expectile Q-Learning",
+   "authors": [
+    "Kwanyoung Park",
+    "Youngwoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cYn58wFs4W",
+   "pdf_url": "https://openreview.net/pdf?id=cYn58wFs4W"
+  },
+  {
+   "title": "MS-SSM: A Multi-Scale State Space Model for Enhanced Sequence Modeling",
+   "authors": [
+    "Mahdi Karami",
+    "Ali Behrouz",
+    "Peilin Zhong",
+    "Razvan Pascanu",
+    "Vahab Mirrokni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gfm4W1g7NH",
+   "pdf_url": "https://openreview.net/pdf?id=gfm4W1g7NH"
+  },
+  {
+   "title": "Newton - A Small Benchmark for Interactive Foundation World Models",
+   "authors": [
+    "Spruce Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xlp6P6qaRW",
+   "pdf_url": "https://openreview.net/pdf?id=xlp6P6qaRW"
+  },
+  {
+   "title": "Object-Centric Latent Action Learning",
+   "authors": [
+    "Albina Klepach",
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Denis Tarasov",
+    "Alexander Derevyagin",
+    "Andrei Polubarov",
+    "Lyubaykin Nikita",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NoaAIO1HRH",
+   "pdf_url": "https://openreview.net/pdf?id=NoaAIO1HRH"
+  },
+  {
+   "title": "Object-Centric Representations Generalize Better Compositionally with Less Compute",
+   "authors": [
+    "Ferdinand Kapl",
+    "Amir Mohammad Karimi Mamaghan",
+    "Max Horn",
+    "Carsten Marr",
+    "Stefan Bauer",
+    "Andrea Dittadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eCXID1kA3",
+   "pdf_url": "https://openreview.net/pdf?id=4eCXID1kA3"
+  },
+  {
+   "title": "Object-Centric World Model for Language-Guided Manipulation",
+   "authors": [
+    "Youngjoon Jeong",
+    "Junha Chun",
+    "Soonwoo Cha",
+    "Taesup Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMItmXqrue",
+   "pdf_url": "https://openreview.net/pdf?id=CMItmXqrue"
+  },
+  {
+   "title": "PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data",
+   "authors": [
+    "Keonvin Park",
+    "Jisu Kim",
+    "Jaemin Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gPY5qrRbHS",
+   "pdf_url": "https://openreview.net/pdf?id=gPY5qrRbHS"
+  },
+  {
+   "title": "Pre-Trained Video Generative Models as World Simulators",
+   "authors": [
+    "Haoran He",
+    "Yang Zhang",
+    "Liang Lin",
+    "Zhongwen Xu",
+    "Ling Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oTYF8WUadL",
+   "pdf_url": "https://openreview.net/pdf?id=oTYF8WUadL"
+  },
+  {
+   "title": "Programmatic Video Prediction Using Large Language Models",
+   "authors": [
+    "Hao Tang",
+    "Kevin Ellis",
+    "Suhas Lohit",
+    "Michael J. Jones",
+    "Moitreya Chatterjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pSjE6gXyRL",
+   "pdf_url": "https://openreview.net/pdf?id=pSjE6gXyRL"
+  },
+  {
+   "title": "Pushing the Limit of Sample-Efficient Offline Reinforcement Learning",
+   "authors": [
+    "Peng Cheng",
+    "Zhihao Wu",
+    "Jianxiong Li",
+    "Ziteng He",
+    "Haoran Xu",
+    "Wei Sun",
+    "Youfang Lin",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5Tz2oao8Nb",
+   "pdf_url": "https://openreview.net/pdf?id=5Tz2oao8Nb"
+  },
+  {
+   "title": "RADI: LLMs as World Models for Robotic Action Decomposition and Imagination",
+   "authors": [
+    "Dongqi Zuo",
+    "Zheng CHEN",
+    "Chuan Zhou",
+    "Yandong Guo",
+    "Xiao He",
+    "Mingming Gong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cPo2iS6lwP",
+   "pdf_url": "https://openreview.net/pdf?id=cPo2iS6lwP"
+  },
+  {
+   "title": "Reconstructing Dynamics from Steady Spatial Patterns with Partial Observations",
+   "authors": [
+    "Xinyue Luo",
+    "Xuzhe Qian",
+    "Yu Chen",
+    "Huaxiong Huang",
+    "Jin Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0iRsiNazHM",
+   "pdf_url": "https://openreview.net/pdf?id=0iRsiNazHM"
+  },
+  {
+   "title": "Recurrent world model with tokenized latent states",
+   "authors": [
+    "Guangyao Zhai",
+    "Xingyuan Zhang",
+    "Nassir Navab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xmwcdUdcWz",
+   "pdf_url": "https://openreview.net/pdf?id=xmwcdUdcWz"
+  },
+  {
+   "title": "Revisiting the Othello World Model Hypothesis",
+   "authors": [
+    "Yifei Yuan",
+    "Anders Søgaard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0x6LFXvQz9",
+   "pdf_url": "https://openreview.net/pdf?id=0x6LFXvQz9"
+  },
+  {
+   "title": "Reward-free World Models for Online Imitation Learning",
+   "authors": [
+    "Shangzhe Li",
+    "Zhiao Huang",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CJdqbjMMmI",
+   "pdf_url": "https://openreview.net/pdf?id=CJdqbjMMmI"
+  },
+  {
+   "title": "Scalable Humanoid Whole-Body Control via Differentiable Neural Network Dynamics",
+   "authors": [
+    "Yu Lei",
+    "Zhengyi Luo",
+    "Tairan He",
+    "Jinkun Cao",
+    "Guanya Shi",
+    "Kris Kitani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FPgKt7bA8w",
+   "pdf_url": "https://openreview.net/pdf?id=FPgKt7bA8w"
+  },
+  {
+   "title": "Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension",
+   "authors": [
+    "Xiyao Wang",
+    "Zhengyuan Yang",
+    "Linjie Li",
+    "Hongjin Lu",
+    "Yuancheng Xu",
+    "Chung-Ching Lin",
+    "Kevin Lin",
+    "Furong Huang",
+    "Lijuan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EMQqcsnn5N",
+   "pdf_url": "https://openreview.net/pdf?id=EMQqcsnn5N"
+  },
+  {
+   "title": "Scaling Laws for Pre-training Agents and World Models",
+   "authors": [
+    "Tim Pearce",
+    "Tabish Rashid",
+    "David Bignell",
+    "Raluca Georgescu",
+    "Sam Devlin",
+    "Katja Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kb38hvyhNT",
+   "pdf_url": "https://openreview.net/pdf?id=Kb38hvyhNT"
+  },
+  {
+   "title": "SEAL: SEmantic-Augmented Imitation Learning via Language Model",
+   "authors": [
+    "Chengyang GU",
+    "Yuxin Pan",
+    "Haotian Bai",
+    "Hui Xiong",
+    "Yize Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=smFF3Zyilw",
+   "pdf_url": "https://openreview.net/pdf?id=smFF3Zyilw"
+  },
+  {
+   "title": "Stress-Testing Offline Reward-Free Reinforcement Learning: A Case for Planning with Latent Dynamics Models",
+   "authors": [
+    "Vlad Sobal",
+    "Wancong Zhang",
+    "Kyunghyun Cho",
+    "Randall Balestriero",
+    "Tim G. J. Rudner",
+    "Yann LeCun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xMlQiTAt9x",
+   "pdf_url": "https://openreview.net/pdf?id=xMlQiTAt9x"
+  },
+  {
+   "title": "Temporal Difference Flows",
+   "authors": [
+    "Jesse Farebrother",
+    "Matteo Pirotta",
+    "Andrea Tirinzoni",
+    "Remi Munos",
+    "Alessandro Lazaric",
+    "Ahmed Touati"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nYL0pn3z3u",
+   "pdf_url": "https://openreview.net/pdf?id=nYL0pn3z3u"
+  },
+  {
+   "title": "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation",
+   "authors": [
+    "Mengkang Hu",
+    "Tianxing Chen",
+    "Yude Zou",
+    "Yuheng Lei",
+    "Qiguang Chen",
+    "Ming Li",
+    "Qiwei Liang",
+    "Yao Mu",
+    "Hongyuan Zhang",
+    "Wenqi Shao",
+    "Ping Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dIQNOxuBay",
+   "pdf_url": "https://openreview.net/pdf?id=dIQNOxuBay"
+  },
+  {
+   "title": "Trajectory World Models for Heterogeneous Environments",
+   "authors": [
+    "Shaofeng Yin",
+    "Jialong Wu",
+    "Siqiao Huang",
+    "Xingjian Su",
+    "Xu He",
+    "Jianye HAO",
+    "Mingsheng Long"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tOBTQZVIi5",
+   "pdf_url": "https://openreview.net/pdf?id=tOBTQZVIi5"
+  },
+  {
+   "title": "Transformers Use Causal World Models in Maze-Solving Tasks",
+   "authors": [
+    "Alexander F Spies",
+    "William Edwards",
+    "Michael Ivanitskiy",
+    "Adrians Skapars",
+    "Tilman Räuker",
+    "Katsumi Inoue",
+    "Alessandra Russo",
+    "Murray Shanahan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LAXNQrbRA1",
+   "pdf_url": "https://openreview.net/pdf?id=LAXNQrbRA1"
+  },
+  {
+   "title": "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets",
+   "authors": [
+    "Yuzhe YANG",
+    "Yifei Zhang",
+    "Minghao Wu",
+    "Kaidi Zhang",
+    "Yunmiao Zhang",
+    "Honghai Yu",
+    "Yan Hu",
+    "Benyou Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CoTAytuDz1",
+   "pdf_url": "https://openreview.net/pdf?id=CoTAytuDz1"
+  },
+  {
+   "title": "Unifying Causal and Object-centric Representation Learning allows Causal Composition",
+   "authors": [
+    "Avinash Kori",
+    "Ben Glocker",
+    "Bernhard Schölkopf",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=51u8go0inu",
+   "pdf_url": "https://openreview.net/pdf?id=51u8go0inu"
+  },
+  {
+   "title": "Unifying Unsupervised and Offline RL for Fast Adaptation Using World Models",
+   "authors": [
+    "Daniel Khapun",
+    "Dan Rosenbaum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aUS9C2N4pS",
+   "pdf_url": "https://openreview.net/pdf?id=aUS9C2N4pS"
+  },
+  {
+   "title": "Utilizing World Models for Adaptively Covariate Acquisition Under Limited Budget for Causal Decision Making Problem",
+   "authors": [
+    "Haocheng Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wUcuUP2DjK",
+   "pdf_url": "https://openreview.net/pdf?id=wUcuUP2DjK"
+  },
+  {
+   "title": "When do neural networks learn world models?",
+   "authors": [
+    "Tianren Zhang",
+    "Guanyu Chen",
+    "Feng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=31oP8B5s5B",
+   "pdf_url": "https://openreview.net/pdf?id=31oP8B5s5B"
+  },
+  {
+   "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning",
+   "authors": [
+    "Siyin Wang",
+    "Zhaoye Fei",
+    "Qinyuan Cheng",
+    "Shiduo Zhang",
+    "Panpan Cai",
+    "Jinlan Fu",
+    "Xipeng Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HCXshVxxdg",
+   "pdf_url": "https://openreview.net/pdf?id=HCXshVxxdg"
+  }
+ ]
+}

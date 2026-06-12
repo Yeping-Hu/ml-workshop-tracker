@@ -1,0 +1,300 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/PML",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:05.277Z",
+ "paper_count": 28,
+ "papers": [
+  {
+   "title": "Balancing Privacy and Performance for Private Federated Learning Algorithms",
+   "authors": [
+    "Xiangjian Hou",
+    "Sarit Khirirat",
+    "Mohammad Yaqub",
+    "Samuel Horváth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IGSEEf1FTK",
+   "pdf_url": "https://openreview.net/pdf?id=IGSEEf1FTK"
+  },
+  {
+   "title": "Byzantine Robustness and Partial Participation Can Be Achieved Simultaneously: Just Clip Gradient Differences",
+   "authors": [
+    "Grigory Malinovsky",
+    "Eduard Gorbunov",
+    "Samuel Horváth",
+    "Peter Richtárik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXTxHUPLTh",
+   "pdf_url": "https://openreview.net/pdf?id=bXTxHUPLTh"
+  },
+  {
+   "title": "Cache Me If You Can: The Case For Retrieval Augmentation in Federated Learning",
+   "authors": [
+    "Aashiq Muhamed",
+    "Pratiksha Thaker",
+    "Mona T. Diab",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MKd1SkDbbz",
+   "pdf_url": "https://openreview.net/pdf?id=MKd1SkDbbz"
+  },
+  {
+   "title": "Communication-Efficient Differentially Private Federated Learning Using Second-Order Information",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=J0IwrkICp8",
+   "pdf_url": "https://openreview.net/pdf?id=J0IwrkICp8"
+  },
+  {
+   "title": "Confidential-DPproof : Confidential Proof of Differentially Private Training",
+   "authors": [
+    "Ali Shahin Shamsabadi",
+    "Gefei Tan",
+    "Tudor Ioan Cebere",
+    "Aurélien Bellet",
+    "Hamed Haddadi",
+    "Nicolas Papernot",
+    "Xiao Wang",
+    "Adrian Weller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=npcpaeCVQE",
+   "pdf_url": "https://openreview.net/pdf?id=npcpaeCVQE"
+  },
+  {
+   "title": "Data Forging Is Harder Than You Think",
+   "authors": [
+    "Mohamed Suliman",
+    "Swanand Kadhe",
+    "Anisa Halimi",
+    "Douglas Leith",
+    "Nathalie Baracaldo",
+    "Ambrish Rawat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FjyFdQvo90",
+   "pdf_url": "https://openreview.net/pdf?id=FjyFdQvo90"
+  },
+  {
+   "title": "Differentially Private Best Subset Selection Via Integer Programming",
+   "authors": [
+    "Kayhan Behdin",
+    "Peter Prastakos",
+    "Rahul Mazumder"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EZkiDK6nhj",
+   "pdf_url": "https://openreview.net/pdf?id=EZkiDK6nhj"
+  },
+  {
+   "title": "Differentially Private Latent Diffusion Models",
+   "authors": [
+    "Saiyue Lyu",
+    "Michael F Liu",
+    "Margarita Vinaroz",
+    "Mijung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o3c7kVQtZ4",
+   "pdf_url": "https://openreview.net/pdf?id=o3c7kVQtZ4"
+  },
+  {
+   "title": "DNA: Differential privacy Neural Augmentation for contact tracing",
+   "authors": [
+    "Rob Romijnders",
+    "Christos Louizos",
+    "Yuki M Asano",
+    "Max Welling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pc0fJtKkOd",
+   "pdf_url": "https://openreview.net/pdf?id=Pc0fJtKkOd"
+  },
+  {
+   "title": "Efficient Language Model Architectures for Differentially Private Federated Learning",
+   "authors": [
+    "Jae Hun Ro",
+    "Srinadh Bhojanapalli",
+    "Zheng Xu",
+    "Yanxiang Zhang",
+    "Ananda Theertha Suresh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1kqaMdxXTZ",
+   "pdf_url": "https://openreview.net/pdf?id=1kqaMdxXTZ"
+  },
+  {
+   "title": "Efficient Private Federated Non-Convex Optimization With Shuffled Model",
+   "authors": [
+    "Lingxiao Wang",
+    "Xingyu Zhou",
+    "Kumar Kshitij Patel",
+    "Lawrence Tang",
+    "Aadirupa Saha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t7mv0y8OPE",
+   "pdf_url": "https://openreview.net/pdf?id=t7mv0y8OPE"
+  },
+  {
+   "title": "FairProof : Confidential and Certifiable Fairness for Neural Networks",
+   "authors": [
+    "Chhavi Yadav",
+    "Amrita Roy Chowdhury",
+    "Dan Boneh",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7DKr1p4mVj",
+   "pdf_url": "https://openreview.net/pdf?id=7DKr1p4mVj"
+  },
+  {
+   "title": "Fed Up with Complexity: Simplifying Many-Task Federated Learning with NTKFedAvg",
+   "authors": [
+    "Aashiq Muhamed",
+    "Meher Mankikar",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K8jxsDF9xO",
+   "pdf_url": "https://openreview.net/pdf?id=K8jxsDF9xO"
+  },
+  {
+   "title": "Federated Unlearning: a Perspective of Stability and Fairness",
+   "authors": [
+    "Jiaqi Shao",
+    "Tao Lin",
+    "Xuanyu Cao",
+    "Bing Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AqL7kcw8xG",
+   "pdf_url": "https://openreview.net/pdf?id=AqL7kcw8xG"
+  },
+  {
+   "title": "Gradient-Congruity Guided Federated Sparse Training",
+   "authors": [
+    "Chris XING TIAN",
+    "Yibing Liu",
+    "Haoliang Li",
+    "Ray C.C. Cheung",
+    "Shiqi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KHDncjMdjJ",
+   "pdf_url": "https://openreview.net/pdf?id=KHDncjMdjJ"
+  },
+  {
+   "title": "Guarding Multiple Secrets: Enhanced Summary Statistic Privacy for Data Sharing",
+   "authors": [
+    "Shuaiqi Wang",
+    "Rongzhe Wei",
+    "Mohsen Ghassemi",
+    "Eleonora Kreacic",
+    "Vamsi K. Potluru"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s2f9uFrSYL",
+   "pdf_url": "https://openreview.net/pdf?id=s2f9uFrSYL"
+  },
+  {
+   "title": "Having your Privacy Cake and Eating it Too: Platform-supported Auditing of Social Media Algorithms for Public Interest",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=qj6KORbx5o",
+   "pdf_url": "https://openreview.net/pdf?id=qj6KORbx5o"
+  },
+  {
+   "title": "Langevin Unlearning",
+   "authors": [
+    "Eli Chien",
+    "Haoyu Peter Wang",
+    "Ziang Chen",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VRrdtaaYiy",
+   "pdf_url": "https://openreview.net/pdf?id=VRrdtaaYiy"
+  },
+  {
+   "title": "Linearizing Models for Efficient yet Robust Private Inference",
+   "authors": [
+    "Sreetama Sarkar",
+    "Souvik Kundu",
+    "Peter Anthony Beerel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ms1EChxjMY",
+   "pdf_url": "https://openreview.net/pdf?id=Ms1EChxjMY"
+  },
+  {
+   "title": "Online Experimentation under Privacy Induced Identity Fragmentation",
+   "authors": [
+    "Shiv Shankar",
+    "Ritwik Sinha",
+    "Madalina Fiterau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HzuLJDWoWd",
+   "pdf_url": "https://openreview.net/pdf?id=HzuLJDWoWd"
+  },
+  {
+   "title": "Personalized Differential Privacy for Ridge Regression",
+   "authors": [
+    "Krishna Acharya",
+    "Franziska Boenisch",
+    "Rakshit Naidu",
+    "Juba Ziani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UTfhi1xLjn",
+   "pdf_url": "https://openreview.net/pdf?id=UTfhi1xLjn"
+  },
+  {
+   "title": "Posterior Probability-based Label Recovery Attack in Federated Learning",
+   "authors": [
+    "Rui Zhang",
+    "Song Guo",
+    "Ping Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8yELN390FL",
+   "pdf_url": "https://openreview.net/pdf?id=8yELN390FL"
+  },
+  {
+   "title": "PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs",
+   "authors": [
+    "Charlie Hou",
+    "Akshat Shrivastava",
+    "Hongyuan Zhan",
+    "Rylan Conway",
+    "Trang Le",
+    "Adithya Sagar",
+    "Giulia Fanti",
+    "Daniel Lazar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SbyqM0cJM0",
+   "pdf_url": "https://openreview.net/pdf?id=SbyqM0cJM0"
+  },
+  {
+   "title": "Privacy-preserving data release leveraging optimal transport and particle gradient descent",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=AYWoiRPfCT",
+   "pdf_url": "https://openreview.net/pdf?id=AYWoiRPfCT"
+  },
+  {
+   "title": "Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private  Stochastic Optimisation",
+   "authors": [
+    "Ossi Räisä",
+    "Joonas Jälkö",
+    "Antti Honkela"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jYHGmYsFEd",
+   "pdf_url": "https://openreview.net/pdf?id=jYHGmYsFEd"
+  },
+  {
+   "title": "The Privacy Power of Correlated Noise in Decentralized Learning",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=UuRbpnAvIR",
+   "pdf_url": "https://openreview.net/pdf?id=UuRbpnAvIR"
+  },
+  {
+   "title": "Understanding Practical Membership Privacy of Deep Learning",
+   "authors": [
+    "Marlon Tobaben",
+    "Gauri Pradhan",
+    "Yuan He",
+    "Joonas Jälkö",
+    "Antti Honkela"
+   ],
+   "forum_url": "https://openreview.net/forum?id=28TUPQWhBA",
+   "pdf_url": "https://openreview.net/pdf?id=28TUPQWhBA"
+  },
+  {
+   "title": "WAVES: Benchmarking the Robustness of Image Watermarks",
+   "authors": [],
+   "forum_url": "https://openreview.net/forum?id=tUumjNa7TF",
+   "pdf_url": "https://openreview.net/pdf?id=tUumjNa7TF"
+  }
+ ]
+}

@@ -1,0 +1,1001 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/ES-FoMo-II",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:59.638Z",
+ "paper_count": 80,
+ "papers": [
+  {
+   "title": "AdaInf: Adaptive Inference for Resource-Constrained Foundation Models",
+   "authors": [
+    "Zhuoyan Xu",
+    "Khoi Duc Nguyen",
+    "Preeti Mukherjee",
+    "Somali Chaterji",
+    "Yingyu Liang",
+    "Yin Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A942VRmfhQ",
+   "pdf_url": "https://openreview.net/pdf?id=A942VRmfhQ"
+  },
+  {
+   "title": "Adam-mini: Use Fewer Learning Rates To Gain More",
+   "authors": [
+    "Yushun Zhang",
+    "Congliang Chen",
+    "Ziniu Li",
+    "Tian Ding",
+    "Chenwei Wu",
+    "Yinyu Ye",
+    "Zhi-Quan Luo",
+    "Ruoyu Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TOnkMNfx9d",
+   "pdf_url": "https://openreview.net/pdf?id=TOnkMNfx9d"
+  },
+  {
+   "title": "AdaNF: Quantization Group Adaptive NormalFloat for Low Bit Fine-tuning of LLMs",
+   "authors": [
+    "Yeojoon Youn",
+    "Sehoon Kim",
+    "Suhong Moon",
+    "Sang Keun Choe",
+    "Ce Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nH7k4BkmcX",
+   "pdf_url": "https://openreview.net/pdf?id=nH7k4BkmcX"
+  },
+  {
+   "title": "BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts",
+   "authors": [
+    "Qizhen Zhang",
+    "Nikolas Gritsch",
+    "Dwaraknath Gnaneshwar",
+    "Simon Guo",
+    "David Cairuz",
+    "Bharat Venkitesh",
+    "Jakob Nicolaus Foerster",
+    "Phil Blunsom",
+    "Sebastian Ruder",
+    "Ahmet Üstün",
+    "Acyr Locatelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IfdVxuAHLr",
+   "pdf_url": "https://openreview.net/pdf?id=IfdVxuAHLr"
+  },
+  {
+   "title": "Block Verification Accelerates Speculative Decoding",
+   "authors": [
+    "Ziteng Sun",
+    "Uri Mendlovic",
+    "Yaniv Leviathan",
+    "Asaf Aharoni",
+    "Ahmad Beirami",
+    "Jae Hun Ro",
+    "Ananda Theertha Suresh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OWwc8eOIm8",
+   "pdf_url": "https://openreview.net/pdf?id=OWwc8eOIm8"
+  },
+  {
+   "title": "Can Transformers Solve Least Squares to High Precision?",
+   "authors": [
+    "Jerry Weihong Liu",
+    "Jessica Grogan",
+    "Owen M Dugan",
+    "Simran Arora",
+    "Atri Rudra",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gf3JV7kAYG",
+   "pdf_url": "https://openreview.net/pdf?id=gf3JV7kAYG"
+  },
+  {
+   "title": "Characterizing Prompt Compression Methods for Long Context Inference",
+   "authors": [
+    "Siddharth Jha",
+    "Lutfi Eren Erdogan",
+    "Sehoon Kim",
+    "Kurt Keutzer",
+    "Amir Gholami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vs6CCDuK7l",
+   "pdf_url": "https://openreview.net/pdf?id=vs6CCDuK7l"
+  },
+  {
+   "title": "CLAM: Unifying Finetuning, Quantization, and Pruning by Chaining LLM Adapter Modules",
+   "authors": [
+    "Neelay Velingker",
+    "Jason Liu",
+    "Amish Sethi",
+    "William Dodds",
+    "Zhiqiu Xu",
+    "Saikat Dutta",
+    "Mayur Naik",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1mKtFkElnu",
+   "pdf_url": "https://openreview.net/pdf?id=1mKtFkElnu"
+  },
+  {
+   "title": "CO2: Precise Attention Score Observation for improving KV Cache Replacement in Large Language Model",
+   "authors": [
+    "Meguru Yamazaki",
+    "Shivaram Venkataraman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=02zPmtcZa0",
+   "pdf_url": "https://openreview.net/pdf?id=02zPmtcZa0"
+  },
+  {
+   "title": "Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead",
+   "authors": [
+    "Rickard Brüel Gabrielsson",
+    "Jiacheng Zhu",
+    "Onkar Bhardwaj",
+    "Leshem Choshen",
+    "Kristjan Greenewald",
+    "Mikhail Yurochkin",
+    "Justin Solomon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Y7ivapjW7G",
+   "pdf_url": "https://openreview.net/pdf?id=Y7ivapjW7G"
+  },
+  {
+   "title": "DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation",
+   "authors": [
+    "Ahmad Mohammadshirazi",
+    "Ali Nosratifiroozsalari",
+    "Mengxi Zhou",
+    "Dheeraj Kulshrestha",
+    "Rajiv Ramnath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sNOPsEQTIh",
+   "pdf_url": "https://openreview.net/pdf?id=sNOPsEQTIh"
+  },
+  {
+   "title": "Does your data spark joy? Performance gains from domain upsampling at the end of training",
+   "authors": [
+    "Cody Blakeney",
+    "Mansheej Paul",
+    "Brett W. Larsen",
+    "Sean Owen",
+    "Jonathan Frankle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g5CK5ReB3k",
+   "pdf_url": "https://openreview.net/pdf?id=g5CK5ReB3k"
+  },
+  {
+   "title": "Efficient LLM Pruning with Global Token-Dependency Awareness and Hardware-Adapted Inference",
+   "authors": [
+    "Oshin Dutta",
+    "Ritvik Gupta",
+    "Sumeet Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cqhAzteLzc",
+   "pdf_url": "https://openreview.net/pdf?id=cqhAzteLzc"
+  },
+  {
+   "title": "Efficient multi-prompt evaluation of LLMs",
+   "authors": [
+    "Felipe Maia Polo",
+    "Ronald Xu",
+    "Lucas Weber",
+    "Mírian Silva",
+    "Onkar Bhardwaj",
+    "Leshem Choshen",
+    "Allysson Flavio Melo de Oliveira",
+    "Yuekai Sun",
+    "Mikhail Yurochkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TaUpKLQpDn",
+   "pdf_url": "https://openreview.net/pdf?id=TaUpKLQpDn"
+  },
+  {
+   "title": "Efficient Training of Language Models with Compact and Consistent Next Token Distributions",
+   "authors": [
+    "Ashutosh Sathe",
+    "Sunita Sarawagi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SkoI6lSaQL",
+   "pdf_url": "https://openreview.net/pdf?id=SkoI6lSaQL"
+  },
+  {
+   "title": "Enhancing Stability for Large Models Training in Constrained Bandwidth Networks",
+   "authors": [
+    "Yun Dai",
+    "Tejas Dharamsi",
+    "Pin-Lun Hsu",
+    "Tao Song",
+    "Hamed Firooz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aznJXs4zOO",
+   "pdf_url": "https://openreview.net/pdf?id=aznJXs4zOO"
+  },
+  {
+   "title": "Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion",
+   "authors": [
+    "Filip Szatkowski",
+    "Bartosz Wójcik",
+    "Mikołaj Piórczyński",
+    "Simone Scardapane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RoX83BEdzd",
+   "pdf_url": "https://openreview.net/pdf?id=RoX83BEdzd"
+  },
+  {
+   "title": "Exploring and Improving Drafts in Blockwise Parallel Decoding",
+   "authors": [
+    "Taehyeon Kim",
+    "Ananda Theertha Suresh",
+    "Kishore A Papineni",
+    "Michael Riley",
+    "Sanjiv Kumar",
+    "Adrian Benton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KtnUTS1f91",
+   "pdf_url": "https://openreview.net/pdf?id=KtnUTS1f91"
+  },
+  {
+   "title": "Exploring Monotonicity in Early-Exiting Language Models",
+   "authors": [
+    "Filipe Laitenberger",
+    "Max Belitsky",
+    "Denys Sheremet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BM1Aijdheb",
+   "pdf_url": "https://openreview.net/pdf?id=BM1Aijdheb"
+  },
+  {
+   "title": "ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement",
+   "authors": [
+    "Eashan Adhikarla",
+    "Kai Zhang",
+    "John Nicholson",
+    "Brian D. Davison"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X9L6PatYhH",
+   "pdf_url": "https://openreview.net/pdf?id=X9L6PatYhH"
+  },
+  {
+   "title": "Exponential Quantum Communication Advantage in Distributed Inference and Learning",
+   "authors": [
+    "Hagay Michaeli",
+    "Dar Gilboa",
+    "Daniel Soudry",
+    "Jarrod Ryan McClean"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O8MGZinDu8",
+   "pdf_url": "https://openreview.net/pdf?id=O8MGZinDu8"
+  },
+  {
+   "title": "Fast Adaptation and Robust Quantization of Multi-Modal Foundation Models from Associative Memory: A Case Study in SpeechLM",
+   "authors": [
+    "Shang Wu",
+    "Yen-Ju Lu",
+    "Haozheng Luo",
+    "Jerry Yao-Chieh Hu",
+    "Jiayi Wang",
+    "Najim Dehak",
+    "Jesus Villalba",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kZBM2UYiQh",
+   "pdf_url": "https://openreview.net/pdf?id=kZBM2UYiQh"
+  },
+  {
+   "title": "Fast and Memory-Efficient Multi-Sequence Generation via Structured Masking",
+   "authors": [
+    "Daniel Mingyi Israel",
+    "Siyan Zhao",
+    "Guy Van den Broeck",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yW2xBKonVg",
+   "pdf_url": "https://openreview.net/pdf?id=yW2xBKonVg"
+  },
+  {
+   "title": "Fast yet Safe: Early-Exiting with Risk Control",
+   "authors": [
+    "Metod Jazbec",
+    "Alexander Timans",
+    "Tin Hadži Veljković",
+    "Kaspar Sakmann",
+    "Dan Zhang",
+    "Christian A. Naesseth",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hACHuDzi1U",
+   "pdf_url": "https://openreview.net/pdf?id=hACHuDzi1U"
+  },
+  {
+   "title": "Fewer Truncations Improve Language Modeling",
+   "authors": [
+    "Hantian Ding",
+    "Zijian Wang",
+    "Giovanni Paolini",
+    "Varun Kumar",
+    "Anoop Deoras",
+    "Dan Roth",
+    "Stefano Soatto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CFq11PdN0i",
+   "pdf_url": "https://openreview.net/pdf?id=CFq11PdN0i"
+  },
+  {
+   "title": "GPTVQ: The Blessing of Dimensionality for LLM Quantization",
+   "authors": [
+    "Mart Van Baalen",
+    "Andrey Kuzmin",
+    "Markus Nagel",
+    "Peter Couperus",
+    "Artem Bolshakov",
+    "Cedric Bastoul",
+    "Eric Mahurin",
+    "Tijmen Blankevoort",
+    "Paul Whatmough"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sFWttLybEu",
+   "pdf_url": "https://openreview.net/pdf?id=sFWttLybEu"
+  },
+  {
+   "title": "GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients",
+   "authors": [
+    "Aashiq Muhamed",
+    "Oscar Li",
+    "David Woodruff",
+    "Mona T. Diab",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HJezss5JIG",
+   "pdf_url": "https://openreview.net/pdf?id=HJezss5JIG"
+  },
+  {
+   "title": "Hardware-Efficient Quantization for Green Custom Foundation Models",
+   "authors": [
+    "Toshiaki Koike-Akino",
+    "Chang Meng",
+    "Volkan Cevher",
+    "Giovanni De Micheli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NODACmWFNJ",
+   "pdf_url": "https://openreview.net/pdf?id=NODACmWFNJ"
+  },
+  {
+   "title": "HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis",
+   "authors": [
+    "Darren Yan Key",
+    "Andy He",
+    "Mason Bulling",
+    "Andrew Chang",
+    "Skyler Shapiro",
+    "Everett Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tvmCsGnyLq",
+   "pdf_url": "https://openreview.net/pdf?id=tvmCsGnyLq"
+  },
+  {
+   "title": "Hydragen: High-Throughput LLM Inference with Shared Prefixes",
+   "authors": [
+    "Jordan Juravsky",
+    "Bradley Brown",
+    "Ryan Saul Ehrlich",
+    "Daniel Y Fu",
+    "Christopher Re",
+    "Azalia Mirhoseini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ye3ia34Fpp",
+   "pdf_url": "https://openreview.net/pdf?id=Ye3ia34Fpp"
+  },
+  {
+   "title": "Implicit Optimization Bias of Next-token Prediction in Linear Models",
+   "authors": [
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wmVUPJjEy1",
+   "pdf_url": "https://openreview.net/pdf?id=wmVUPJjEy1"
+  },
+  {
+   "title": "In Defense of Structural Sparse Adapters for Concurrent LLM Serving",
+   "authors": [
+    "Junda Su",
+    "Zirui Liu",
+    "Zeju Qiu",
+    "Weiyang Liu",
+    "Zhaozhuo Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XmkNjekAOm",
+   "pdf_url": "https://openreview.net/pdf?id=XmkNjekAOm"
+  },
+  {
+   "title": "Janus: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences",
+   "authors": [
+    "Krithik Ramesh",
+    "Sameed Muneeb Siddiqui",
+    "Michael Mitzenmacher",
+    "Pardis Sabeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vC6MVMeRuM",
+   "pdf_url": "https://openreview.net/pdf?id=vC6MVMeRuM"
+  },
+  {
+   "title": "Just read twice: closing the recall gap for recurrent language models",
+   "authors": [
+    "Simran Arora",
+    "Aman Timalsina",
+    "Aaryan Singhal",
+    "Sabri Eyuboglu",
+    "Xinyi Zhao",
+    "Ashish Rao",
+    "Atri Rudra",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RsqCqziLAt",
+   "pdf_url": "https://openreview.net/pdf?id=RsqCqziLAt"
+  },
+  {
+   "title": "LAuReL: Learned Augmented Residual Layer",
+   "authors": [
+    "Gaurav Menghani",
+    "Ravi Kumar",
+    "Sanjiv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=honBJOVRn5",
+   "pdf_url": "https://openreview.net/pdf?id=honBJOVRn5"
+  },
+  {
+   "title": "LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference",
+   "authors": [
+    "Qichen Fu",
+    "Minsik Cho",
+    "Thomas Merth",
+    "Sachin Mehta",
+    "Mohammad Rastegari",
+    "Mahyar Najibi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGZD1dsJqZ",
+   "pdf_url": "https://openreview.net/pdf?id=gGZD1dsJqZ"
+  },
+  {
+   "title": "Learned Best-Effort LLM Serving",
+   "authors": [
+    "Siddharth Jha",
+    "Coleman Richard Charles Hooper",
+    "Xiaoxuan Liu",
+    "Sehoon Kim",
+    "Kurt Keutzer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qmdfAGUYoj",
+   "pdf_url": "https://openreview.net/pdf?id=qmdfAGUYoj"
+  },
+  {
+   "title": "Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs",
+   "authors": [
+    "Ashwinee Panda",
+    "Berivan Isik",
+    "Xiangyu Qi",
+    "Sanmi Koyejo",
+    "Tsachy Weissman",
+    "Prateek Mittal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rwUiAeI1ga",
+   "pdf_url": "https://openreview.net/pdf?id=rwUiAeI1ga"
+  },
+  {
+   "title": "Low Rank Quantization-Aware Training for LLMs",
+   "authors": [
+    "Yelysei Bondarenko",
+    "Riccardo Del Chiaro",
+    "Markus Nagel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RJCBalFiCg",
+   "pdf_url": "https://openreview.net/pdf?id=RJCBalFiCg"
+  },
+  {
+   "title": "Low-rank Linearization of Large Language Models",
+   "authors": [
+    "Michael Zhang",
+    "Aaryan Singhal",
+    "Benjamin Frederick Spector",
+    "Simran Arora",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WHVYyWsxB3",
+   "pdf_url": "https://openreview.net/pdf?id=WHVYyWsxB3"
+  },
+  {
+   "title": "Mamba-PTQ: Outlier Channels in Recurrent Large Language Models",
+   "authors": [
+    "Alessandro Pierro",
+    "Steven Abreu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h3hCUxBi9M",
+   "pdf_url": "https://openreview.net/pdf?id=h3hCUxBi9M"
+  },
+  {
+   "title": "MInference: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+   "authors": [
+    "Huiqiang Jiang",
+    "YUCHENG LI",
+    "Chengruidong Zhang",
+    "Qianhui Wu",
+    "Xufang Luo",
+    "Surin Ahn",
+    "Zhenhua Han",
+    "Amir H. Abdi",
+    "Dongsheng Li",
+    "Chin-Yew Lin",
+    "Yuqing Yang",
+    "Lili Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C5Nh2UFJ9S",
+   "pdf_url": "https://openreview.net/pdf?id=C5Nh2UFJ9S"
+  },
+  {
+   "title": "Mobile and Edge Evaluation of Large Language Models",
+   "authors": [
+    "Stefanos Laskaridis",
+    "Kleomenis Katevas",
+    "Lorenzo Minto",
+    "Hamed Haddadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aAtCQnCsya",
+   "pdf_url": "https://openreview.net/pdf?id=aAtCQnCsya"
+  },
+  {
+   "title": "MoRe Fine-Tuning with 10x Fewer Parameters",
+   "authors": [
+    "Wenxuan Tan",
+    "Nicholas Roberts",
+    "Tzu-Heng Huang",
+    "Jitian Zhao",
+    "John Cooper",
+    "Samuel Guo",
+    "Chengyu Duan",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ua9ndTCxme",
+   "pdf_url": "https://openreview.net/pdf?id=ua9ndTCxme"
+  },
+  {
+   "title": "NVDSL: Simplifying Tensor Cores with Python-Driven MLIR Metaprogramming",
+   "authors": [
+    "guray ozen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rBgK6Gv8jD",
+   "pdf_url": "https://openreview.net/pdf?id=rBgK6Gv8jD"
+  },
+  {
+   "title": "OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training",
+   "authors": [
+    "Sami Jaghouar",
+    "Johannes Hagemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AzFhwMa6X0",
+   "pdf_url": "https://openreview.net/pdf?id=AzFhwMa6X0"
+  },
+  {
+   "title": "OpenELM: An Efficient Language Model Family with Open Training and Inference Framework",
+   "authors": [
+    "Sachin Mehta",
+    "Mohammad Hossein Sekhavat",
+    "Qingqing Cao",
+    "Maxwell Horton",
+    "Yanzi Jin",
+    "Chenfan Sun",
+    "Seyed Iman Mirzadeh",
+    "Mahyar Najibi",
+    "Dmitry Belenko",
+    "Peter Zatloukal",
+    "Mohammad Rastegari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XNMbTkxroF",
+   "pdf_url": "https://openreview.net/pdf?id=XNMbTkxroF"
+  },
+  {
+   "title": "Optimised Grouped-Query Attention Mechanism for Transformers",
+   "authors": [
+    "Yuang Chen",
+    "Cheng Zhang",
+    "Xitong Gao",
+    "Robert D. Mullins",
+    "George Anthony Constantinides",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=13MMghY6Kh",
+   "pdf_url": "https://openreview.net/pdf?id=13MMghY6Kh"
+  },
+  {
+   "title": "Optimistic Verifiable Training by Controlling Hardware Nondeterminism",
+   "authors": [
+    "Megha Srivastava",
+    "Simran Arora",
+    "Dan Boneh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QLwzA4bj2Y",
+   "pdf_url": "https://openreview.net/pdf?id=QLwzA4bj2Y"
+  },
+  {
+   "title": "OutEffHop: A Principled Outlier-Efficient Attention Layer from Dense Associative Memory Models",
+   "authors": [
+    "Haozheng Luo",
+    "Jerry Yao-Chieh Hu",
+    "Pei-Hsuan Chang",
+    "Hong-Yu Chen",
+    "Weijian Li",
+    "Wei-Po Wang",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZCrRCICOkr",
+   "pdf_url": "https://openreview.net/pdf?id=ZCrRCICOkr"
+  },
+  {
+   "title": "Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs",
+   "authors": [
+    "Davide Paglieri",
+    "Saurabh Dash",
+    "Tim Rocktäschel",
+    "Jack Parker-Holder"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G01UBemh55",
+   "pdf_url": "https://openreview.net/pdf?id=G01UBemh55"
+  },
+  {
+   "title": "Performance Control in Early Exiting to Deploy Large Models at the Same Cost of Smaller Ones",
+   "authors": [
+    "Mehrnaz Mofakhami",
+    "Reza Bayat",
+    "Ioannis Mitliagkas",
+    "Joao Monteiro",
+    "Valentina Zantedeschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7zf1584SUG",
+   "pdf_url": "https://openreview.net/pdf?id=7zf1584SUG"
+  },
+  {
+   "title": "PQV-Mobile: A Combined Pruning and Quantization Toolkit to Optimize Vision Transformers for Mobile Applications",
+   "authors": [
+    "Kshitij Bhardwaj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RGkJmq5gIJ",
+   "pdf_url": "https://openreview.net/pdf?id=RGkJmq5gIJ"
+  },
+  {
+   "title": "Prepacking: A Simple Method for Fast Prefilling and Increased Throughput in Large Language Models",
+   "authors": [
+    "Siyan Zhao",
+    "Daniel Mingyi Israel",
+    "Guy Van den Broeck",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k5gQw7leGH",
+   "pdf_url": "https://openreview.net/pdf?id=k5gQw7leGH"
+  },
+  {
+   "title": "Pretrained Hybrids with MAD Skills",
+   "authors": [
+    "Nicholas Roberts",
+    "Samuel Guo",
+    "Zhiqi Gao",
+    "Satya Sai Srinath Namburi GNVV",
+    "Sonia Cromp",
+    "Chengjun Wu",
+    "Chengyu Duan",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dxbpKODTmn",
+   "pdf_url": "https://openreview.net/pdf?id=dxbpKODTmn"
+  },
+  {
+   "title": "Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones",
+   "authors": [
+    "Andrey Zhmoginov",
+    "Jihwan Lee",
+    "Mark Sandler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F7mGtT3fQh",
+   "pdf_url": "https://openreview.net/pdf?id=F7mGtT3fQh"
+  },
+  {
+   "title": "Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation",
+   "authors": [
+    "Harry Dong",
+    "Beidi Chen",
+    "Yuejie Chi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PPnBUTrSzy",
+   "pdf_url": "https://openreview.net/pdf?id=PPnBUTrSzy"
+  },
+  {
+   "title": "Quantum-PEFT: Ultra parameter-efficient fine-tuning",
+   "authors": [
+    "Toshiaki Koike-Akino",
+    "Francesco Tonin",
+    "Yongtao Wu",
+    "Leyla Naz Candogan",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iMxbQ6N4uF",
+   "pdf_url": "https://openreview.net/pdf?id=iMxbQ6N4uF"
+  },
+  {
+   "title": "Revealing the Utilized Rank of Subspaces of Learning in Neural Networks",
+   "authors": [
+    "Isha Garg",
+    "Christian Koguchi",
+    "Eshan Verma",
+    "Daniel Ulbricht"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q19mMIRegj",
+   "pdf_url": "https://openreview.net/pdf?id=q19mMIRegj"
+  },
+  {
+   "title": "Revisiting Cascaded Ensembles for Efficient Inference",
+   "authors": [
+    "Steven Kolawole",
+    "Don Dennis",
+    "Ameet Talwalkar",
+    "Virginia Smith"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SjGmChKOee",
+   "pdf_url": "https://openreview.net/pdf?id=SjGmChKOee"
+  },
+  {
+   "title": "Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA",
+   "authors": [
+    "Shuangyi Chen",
+    "Yue Ju",
+    "Hardik Dalal",
+    "Zhongwen Zhu",
+    "Ashish J Khisti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xT0acYbgOF",
+   "pdf_url": "https://openreview.net/pdf?id=xT0acYbgOF"
+  },
+  {
+   "title": "Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations",
+   "authors": [
+    "Alexander Hägele",
+    "Elie Bakouch",
+    "Atli Kosson",
+    "Loubna Ben allal",
+    "Leandro Von Werra",
+    "Martin Jaggi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ompl7supoX",
+   "pdf_url": "https://openreview.net/pdf?id=ompl7supoX"
+  },
+  {
+   "title": "Scavenging Hyena: Distilling Transformers into Long Convolution Models",
+   "authors": [
+    "Tokiniaina Raharison Ralambomihanta",
+    "Shahrad Mohammadzadeh",
+    "Sami Nur Islam",
+    "Wassim Jabbour",
+    "Laurence Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rtCzrFF9GI",
+   "pdf_url": "https://openreview.net/pdf?id=rtCzrFF9GI"
+  },
+  {
+   "title": "Seeded LoRA: Collaborative Fine-Tuning Through Seed Initialization of Adapters",
+   "authors": [
+    "Alejandro R. Salamanca",
+    "Ahmet Üstün",
+    "Nicki Skafte Detlefsen",
+    "Tim Dettmers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7aNXyyXoni",
+   "pdf_url": "https://openreview.net/pdf?id=7aNXyyXoni"
+  },
+  {
+   "title": "Simple linear attention language models balance the recall-throughput tradeoff",
+   "authors": [
+    "Simran Arora",
+    "Sabri Eyuboglu",
+    "Michael Zhang",
+    "Aman Timalsina",
+    "Silas Alberti",
+    "Dylan Zinsley",
+    "James Zou",
+    "Atri Rudra",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rR5sGOsI7E",
+   "pdf_url": "https://openreview.net/pdf?id=rR5sGOsI7E"
+  },
+  {
+   "title": "SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths",
+   "authors": [
+    "Kaixuan Huang",
+    "Xudong Guo",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZwwY5UgNGh",
+   "pdf_url": "https://openreview.net/pdf?id=ZwwY5UgNGh"
+  },
+  {
+   "title": "SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors",
+   "authors": [
+    "Vijay Lingam",
+    "Atula Tejaswi Neerkaje",
+    "Aditya Vavre",
+    "Aneesh Shetty",
+    "Gautham Krishna Gudur",
+    "Joydeep Ghosh",
+    "Alex Dimakis",
+    "Eunsol Choi",
+    "Aleksandar Bojchevski",
+    "sujay sanghavi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Td9qej8nS5",
+   "pdf_url": "https://openreview.net/pdf?id=Td9qej8nS5"
+  },
+  {
+   "title": "Task Addition and Weight Disentanglement in Closed-Vocabulary Models",
+   "authors": [
+    "Adam Hazimeh",
+    "Alessandro Favero",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t6GZM7a3Nc",
+   "pdf_url": "https://openreview.net/pdf?id=t6GZM7a3Nc"
+  },
+  {
+   "title": "The Mamba in the Llama: Distilling and Accelerating Hybrid Models",
+   "authors": [
+    "Junxiong Wang",
+    "Daniele Paliotta",
+    "Avner May",
+    "Alexander M Rush",
+    "Tri Dao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UBSOUBC8Fd",
+   "pdf_url": "https://openreview.net/pdf?id=UBSOUBC8Fd"
+  },
+  {
+   "title": "Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding",
+   "authors": [
+    "Benjamin Bergner",
+    "Andrii Skliar",
+    "Amelie Royer",
+    "Tijmen Blankevoort",
+    "Yuki M Asano",
+    "Babak Ehteshami Bejnordi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JkpZ8X3c2E",
+   "pdf_url": "https://openreview.net/pdf?id=JkpZ8X3c2E"
+  },
+  {
+   "title": "TinyAgent: Quantization-aware Model Compression and Adaptation for On-device LLM Agent Deployment",
+   "authors": [
+    "Jason Kong",
+    "Lanxiang Hu",
+    "Flavio Ponzina",
+    "Tajana Rosing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ntI0eq0urB",
+   "pdf_url": "https://openreview.net/pdf?id=ntI0eq0urB"
+  },
+  {
+   "title": "Towards Efficient Large-Scale Language-3D Representation Learning",
+   "authors": [
+    "Shentong Mo",
+    "Xiaogang Xu",
+    "Tongzhou Wang",
+    "Antonio Torralba",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GtHx6P7HP9",
+   "pdf_url": "https://openreview.net/pdf?id=GtHx6P7HP9"
+  },
+  {
+   "title": "Towards smaller language models via layer looping",
+   "authors": [
+    "Sabri Eyuboglu",
+    "Dylan Zinsley",
+    "Jon Saad-Falcon",
+    "Simran Arora",
+    "Atri Rudra",
+    "James Zou",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2N3CtUdoB0",
+   "pdf_url": "https://openreview.net/pdf?id=2N3CtUdoB0"
+  },
+  {
+   "title": "Train your cake and eat it too! Repurposing collaborative training to tailor LLMs to private data without sharing",
+   "authors": [
+    "Boris Radovič",
+    "Mohammed Aljahdali",
+    "Marco Canini",
+    "Veljko Pejović",
+    "Zuhair Khayyat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FGupKd365r",
+   "pdf_url": "https://openreview.net/pdf?id=FGupKd365r"
+  },
+  {
+   "title": "Training-Free Acceleration of ViTs with Delayed Spatial Merging",
+   "authors": [
+    "Jung Hwan Heo",
+    "Seyedarmin Azizi",
+    "Arash Fayyazi",
+    "Massoud Pedram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=udgPcv8y56",
+   "pdf_url": "https://openreview.net/pdf?id=udgPcv8y56"
+  },
+  {
+   "title": "Understanding and Minimising Outlier Features in Neural Network Training",
+   "authors": [
+    "Bobby He",
+    "Lorenzo Noci",
+    "Daniele Paliotta",
+    "Imanol Schlag",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6dQzmuOkIH",
+   "pdf_url": "https://openreview.net/pdf?id=6dQzmuOkIH"
+  },
+  {
+   "title": "Unlocking the Global Synergies in Low-Rank Adapters",
+   "authors": [
+    "Zixi Zhang",
+    "Cheng Zhang",
+    "Xitong Gao",
+    "Robert D. Mullins",
+    "George Anthony Constantinides",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NM8tItEDhL",
+   "pdf_url": "https://openreview.net/pdf?id=NM8tItEDhL"
+  },
+  {
+   "title": "Why Transformers Need Adam: A Hessian Perspective",
+   "authors": [
+    "Yushun Zhang",
+    "Congliang Chen",
+    "Tian Ding",
+    "Ziniu Li",
+    "Ruoyu Sun",
+    "Zhi-Quan Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wlcs1rujrz",
+   "pdf_url": "https://openreview.net/pdf?id=Wlcs1rujrz"
+  },
+  {
+   "title": "xLSTM: Extended Long Short-Term Memory",
+   "authors": [
+    "Maximilian Beck",
+    "Korbinian Pöppel",
+    "Markus Spanring",
+    "Andreas Auer",
+    "Oleksandra Prudnikova",
+    "Michael K Kopp",
+    "Günter Klambauer",
+    "Johannes Brandstetter",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0s9QXjy6YM",
+   "pdf_url": "https://openreview.net/pdf?id=0s9QXjy6YM"
+  },
+  {
+   "title": "Zeroth-Order Fine-Tuning of LLMs with Extreme Sparsity",
+   "authors": [
+    "Wentao Guo",
+    "Jikai Long",
+    "Yimeng Zeng",
+    "Zirui Liu",
+    "Xinyu Yang",
+    "Yide Ran",
+    "Jacob R. Gardner",
+    "Osbert Bastani",
+    "Christopher De Sa",
+    "Xiaodong Yu",
+    "Beidi Chen",
+    "Zhaozhuo Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CDvOJzZUCH",
+   "pdf_url": "https://openreview.net/pdf?id=CDvOJzZUCH"
+  }
+ ]
+}

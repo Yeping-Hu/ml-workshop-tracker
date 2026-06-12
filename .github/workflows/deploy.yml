@@ -1,0 +1,70 @@
+# Builds and deploys the site to GitHub Pages:
+#   - on every push to main
+#   - on a weekly schedule (keeps derived statuses fresh with zero commits)
+#   - manually via "Run workflow"
+#
+# One-time setup: repo Settings → Pages → Source = "GitHub Actions".
+#
+# Using Cloudflare Pages instead? Delete this file and connect the repo in the
+# Cloudflare dashboard (see README — no base path needed there).
+name: Build & deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 5 * * 1' # Mondays 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            site/package-lock.json
+      - run: npm ci
+      - name: Validate data before building
+        run: node scripts/validate.mjs
+      - run: npm ci --prefix site
+      - name: Build site
+        env:
+          # Custom domain (set in repo Settings -> Pages -> Custom domain).
+          # To go back to plain project pages: SITE_URL=https://<owner>.github.io
+          # and SITE_BASE=/<repo-name>.
+          SITE_URL: https://aiworkshoptracker.com
+          SITE_BASE: /
+          PUBLIC_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          # Optional, privacy-friendly analytics (repo Settings -> Secrets and
+          # variables -> Actions -> Variables). Leave unset for no tracking.
+          PUBLIC_GOATCOUNTER: ${{ vars.GOATCOUNTER_CODE }}
+          PUBLIC_CF_ANALYTICS_TOKEN: ${{ vars.CF_ANALYTICS_TOKEN }}
+        run: npm run build --prefix site
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

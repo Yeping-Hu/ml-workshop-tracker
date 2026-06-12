@@ -1,0 +1,850 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Behavioral_ML",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:23.236Z",
+ "paper_count": 72,
+ "papers": [
+  {
+   "title": "A Behavioral Economics Approach to Principled Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Eric Mazumdar",
+    "Kishan Panaganti",
+    "Laixi Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SKWfQtfR3v",
+   "pdf_url": "https://openreview.net/pdf?id=SKWfQtfR3v"
+  },
+  {
+   "title": "A New Approach to Generate Individual Level Data of Walled Garden Platforms: Linear Programming Reconstruction",
+   "authors": [
+    "Yifei Pang",
+    "Sreenidhi Ganachari",
+    "Yuan Yuan",
+    "Steven Wu",
+    "Xiaojing Dong",
+    "Jin Xu",
+    "Zhenyu Yan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VVYnNKUzdH",
+   "pdf_url": "https://openreview.net/pdf?id=VVYnNKUzdH"
+  },
+  {
+   "title": "A Spatio-Temporal Flow Matching Framework for Pedestrian Trajectory Prediction",
+   "authors": [
+    "Hui Zhang",
+    "Gang Li",
+    "Zebin Guan",
+    "Jian Wu",
+    "Shuo Bu",
+    "Jinchuan Chai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yyf0d1Vr8y",
+   "pdf_url": "https://openreview.net/pdf?id=Yyf0d1Vr8y"
+  },
+  {
+   "title": "Accuracy Isn’t Everything: Understanding the Desiderata of AI Tools in Legal-Financial Settings",
+   "authors": [
+    "Sudhan Chitgopkar",
+    "Noah Dohrmann",
+    "Stephanie Monson",
+    "Jimmy Mendez",
+    "Finale Doshi-Velez",
+    "Weiwei Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h2Go8UoWl9",
+   "pdf_url": "https://openreview.net/pdf?id=h2Go8UoWl9"
+  },
+  {
+   "title": "An Experimental Study of Competitive Market Behavior Through LLMs",
+   "authors": [
+    "Jingru Jia",
+    "Zehua Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A4s8lzbxIf",
+   "pdf_url": "https://openreview.net/pdf?id=A4s8lzbxIf"
+  },
+  {
+   "title": "Analyzing Reward Functions via Trajectory Alignment",
+   "authors": [
+    "Calarina Muslimani",
+    "Suyog Chandramouli",
+    "Serena Booth",
+    "W. Bradley Knox",
+    "Matthew E. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Shnso8m57C",
+   "pdf_url": "https://openreview.net/pdf?id=Shnso8m57C"
+  },
+  {
+   "title": "Are LLMs good pragmatic speakers?",
+   "authors": [
+    "Mingyue Jian",
+    "Siddharth N"
+   ],
+   "forum_url": "https://openreview.net/forum?id=htFtNdgWdf",
+   "pdf_url": "https://openreview.net/pdf?id=htFtNdgWdf"
+  },
+  {
+   "title": "Assessing Behavioral Alignment of Personality-Driven Generative Agents in Social Dilemma Games",
+   "authors": [
+    "Ritwik Bose",
+    "Mattson Ogg",
+    "Michael Wolmetz",
+    "Christopher Ratto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WCa25ExtbJ",
+   "pdf_url": "https://openreview.net/pdf?id=WCa25ExtbJ"
+  },
+  {
+   "title": "Assessing Social Alignment: Do Personality-Prompted Large Language Models Behave Like Humans?",
+   "authors": [
+    "Ivan Zakazov",
+    "Mikolaj Boronski",
+    "Lorenzo Drudi",
+    "Robert West"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WJD2DI2FdB",
+   "pdf_url": "https://openreview.net/pdf?id=WJD2DI2FdB"
+  },
+  {
+   "title": "Attention Redistribution During Event Segmentation In Large Language Model",
+   "authors": [
+    "Yuyang Xu",
+    "Qingqing Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l0K0ADWKTq",
+   "pdf_url": "https://openreview.net/pdf?id=l0K0ADWKTq"
+  },
+  {
+   "title": "Behavioral Sequence Modeling with Ensemble Learning",
+   "authors": [
+    "Maxime Kawawa-Beaudan",
+    "Srijan Sood",
+    "Soham Palande",
+    "Ganapathy Mani",
+    "Tucker Balch",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YoZ525iS6Z",
+   "pdf_url": "https://openreview.net/pdf?id=YoZ525iS6Z"
+  },
+  {
+   "title": "Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks",
+   "authors": [
+    "Yun-Shiuan Chuang",
+    "Krirk Nirunwiroj",
+    "Zach Studdiford",
+    "Agam Goyal",
+    "Vincent V. Frigo",
+    "Sijia Yang",
+    "Dhavan V. Shah",
+    "Junjie Hu",
+    "Timothy T. Rogers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yhF93Bwmmd",
+   "pdf_url": "https://openreview.net/pdf?id=yhF93Bwmmd"
+  },
+  {
+   "title": "Cognitive Bias for Human-AI ad hoc Teamwork",
+   "authors": [
+    "Shray Bansal",
+    "Jin Xu",
+    "Miguel Morales",
+    "Jonathan Streater",
+    "Ayanna Howard",
+    "Charles Jr."
+   ],
+   "forum_url": "https://openreview.net/forum?id=cHYskywlIa",
+   "pdf_url": "https://openreview.net/pdf?id=cHYskywlIa"
+  },
+  {
+   "title": "Comparing Human and LLM Ratings of Music-Recommendation Quality with User Context",
+   "authors": [
+    "Sherol Chen",
+    "Yuri Vasilevski",
+    "Andrew Kyle Lampinen",
+    "Amnah Ahmad",
+    "Ndaba Ndebele",
+    "Sally Goldman",
+    "Michael Curtis Mozer",
+    "Jie Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QyLYF7SOpS",
+   "pdf_url": "https://openreview.net/pdf?id=QyLYF7SOpS"
+  },
+  {
+   "title": "Computational discovery of human reinforcement learning dynamics from choice behavior",
+   "authors": [
+    "Daniel Weinhardt",
+    "Maria K Eckstein",
+    "Sebastian Musslick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x2WDZrpgmB",
+   "pdf_url": "https://openreview.net/pdf?id=x2WDZrpgmB"
+  },
+  {
+   "title": "CoS: Enhancing Personalization with Context Steering",
+   "authors": [
+    "Sashrika Pandey",
+    "Jerry Zhi-Yang He",
+    "Mariah L Schrum",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AzRZS9qImj",
+   "pdf_url": "https://openreview.net/pdf?id=AzRZS9qImj"
+  },
+  {
+   "title": "Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations",
+   "authors": [
+    "Jinyung Hong",
+    "Eun Som Jeon",
+    "Changhoon Kim",
+    "Keun Hee Park",
+    "Utkarsh Nath",
+    "Yezhou Yang",
+    "Pavan K. Turaga",
+    "Theodore P. Pavlic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SoqFoRAofo",
+   "pdf_url": "https://openreview.net/pdf?id=SoqFoRAofo"
+  },
+  {
+   "title": "Deep and shallow thinking in a single forward pass",
+   "authors": [
+    "Jennifer Hu",
+    "Michael Franke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nHg1giMiOW",
+   "pdf_url": "https://openreview.net/pdf?id=nHg1giMiOW"
+  },
+  {
+   "title": "Designing Algorithmic Delegates",
+   "authors": [
+    "Sophie Greenwood",
+    "Karen Levy",
+    "Solon Barocas",
+    "Jon Kleinberg",
+    "Hoda Heidari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KVMlER9Mpv",
+   "pdf_url": "https://openreview.net/pdf?id=KVMlER9Mpv"
+  },
+  {
+   "title": "Do Language Models Have Bayesian Brains? Distinguishing Stochastic and Deterministic Decision Patterns within Large Language Models",
+   "authors": [
+    "Andrea Yaoyun Cui",
+    "Pengfei Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VfdF1Q8zxc",
+   "pdf_url": "https://openreview.net/pdf?id=VfdF1Q8zxc"
+  },
+  {
+   "title": "Does GPT Really Get It? A Hierarchical Scale to Quantify Human and AI's Understanding of Algorithms",
+   "authors": [
+    "Mirabel Reid",
+    "Santosh Vempala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BmdjBAzBGz",
+   "pdf_url": "https://openreview.net/pdf?id=BmdjBAzBGz"
+  },
+  {
+   "title": "Empowering Neural Networks with Control and Planning Abilities",
+   "authors": [
+    "Shuyuan Wang",
+    "Philip D Loewen",
+    "Bhushan Gopaluni",
+    "Michael Forbes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p9BlZleEEx",
+   "pdf_url": "https://openreview.net/pdf?id=p9BlZleEEx"
+  },
+  {
+   "title": "Evidence from the Synthetic Laboratory: Language Models as Auction Participants",
+   "authors": [
+    "Kehang Zhu",
+    "John Joseph Horton",
+    "Yanchen Jiang",
+    "David C. Parkes",
+    "Anand V. Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FB9mTtJpJI",
+   "pdf_url": "https://openreview.net/pdf?id=FB9mTtJpJI"
+  },
+  {
+   "title": "ExpressivityArena: Can LLMs Express Information Implicitly?",
+   "authors": [
+    "Joshua Tint",
+    "Som Sagar",
+    "Aditya Taparia",
+    "Caleb Liu",
+    "Kelly Raines",
+    "Bimsara Pathiraja",
+    "Ransalu Senanayake"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UpS5lTr1UG",
+   "pdf_url": "https://openreview.net/pdf?id=UpS5lTr1UG"
+  },
+  {
+   "title": "From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs",
+   "authors": [
+    "Navya Jain",
+    "Zekun Wu",
+    "CRISTIAN ENRIQUE MUNOZ VILLALOBOS",
+    "Airlie Hilliard",
+    "Adriano Koshiyama",
+    "Emre Kazim",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FtxrgIpO30",
+   "pdf_url": "https://openreview.net/pdf?id=FtxrgIpO30"
+  },
+  {
+   "title": "Generating and Validating Agent and Environment Code for Simulating Realistic Personality Profiles with Large Language Models",
+   "authors": [
+    "Nathan Cloos",
+    "M Ganesh Kumar",
+    "Adam Manoogian",
+    "Christopher J Cueva",
+    "Shawn A. Rhoads"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p3T9CtEu1S",
+   "pdf_url": "https://openreview.net/pdf?id=p3T9CtEu1S"
+  },
+  {
+   "title": "Helping People Predict Agent Behaviors by Operationalizing the Variation Theory of Learning",
+   "authors": [
+    "Tiffany Horter",
+    "Serena Booth",
+    "Vinitha Gadiraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1mO4BuJowX",
+   "pdf_url": "https://openreview.net/pdf?id=1mO4BuJowX"
+  },
+  {
+   "title": "HuLE-Nav: Human-Like Exploration for Zero-Shot Object Navigation via Vision-Language Models",
+   "authors": [
+    "Peilong Han",
+    "Min Zhang",
+    "Jianye HAO",
+    "Hongyao Tang",
+    "YAN ZHENG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=akVkINWMxg",
+   "pdf_url": "https://openreview.net/pdf?id=akVkINWMxg"
+  },
+  {
+   "title": "Impact of a biomimetic training regimen based on early visual experience on neural network organization and behavior",
+   "authors": [
+    "Marin Vogelsang",
+    "Lukas Vogelsang",
+    "Gordon Pipa",
+    "Sidney Diamond",
+    "Pawan Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Aeu8DFBVdy",
+   "pdf_url": "https://openreview.net/pdf?id=Aeu8DFBVdy"
+  },
+  {
+   "title": "Improving optimal control and estimation for realistic noise models of the sensorimotor system",
+   "authors": [
+    "Francesco Damiani",
+    "Akiyuki Anzai",
+    "Jan Drugowitsch",
+    "Gregory C DeAngelis",
+    "Rubén Moreno-Bote"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jAOwx9bjcX",
+   "pdf_url": "https://openreview.net/pdf?id=jAOwx9bjcX"
+  },
+  {
+   "title": "Integrating Preference-Aware Modeling of Human Spatial Behavior in Cyber-Physical-Human Systems",
+   "authors": [
+    "Maral Doctorarastoo",
+    "Katherine A. Flanigan",
+    "Mario Berges",
+    "Christopher McComb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLEmnpGj3K",
+   "pdf_url": "https://openreview.net/pdf?id=CLEmnpGj3K"
+  },
+  {
+   "title": "Investigating Same-Different Concept Understanding in Generative Multimodal Models",
+   "authors": [
+    "Sunayana Rane",
+    "Declan Iain Campbell",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sM2XncqWq2",
+   "pdf_url": "https://openreview.net/pdf?id=sM2XncqWq2"
+  },
+  {
+   "title": "Learning to Cooperate with Humans using Generative Agents",
+   "authors": [
+    "Yancheng Liang",
+    "Daphne Chen",
+    "Abhishek Gupta",
+    "Simon Shaolei Du",
+    "Natasha Jaques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vHGgdh7aBs",
+   "pdf_url": "https://openreview.net/pdf?id=vHGgdh7aBs"
+  },
+  {
+   "title": "Limitations in Planning Ability in AlphaZero",
+   "authors": [
+    "Daisy Xinlei Lin",
+    "Brenden Lake",
+    "Wei Ji Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZAbYb4jDJt",
+   "pdf_url": "https://openreview.net/pdf?id=ZAbYb4jDJt"
+  },
+  {
+   "title": "LLM to Bridge Human Instructions with a Dynamic Symbolic Representation in  Hierarchical Reinforcement Learning",
+   "authors": [
+    "Sao Mai Nguyen",
+    "Mehdi Zadem",
+    "Zihe Ji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GNVfcHACC6",
+   "pdf_url": "https://openreview.net/pdf?id=GNVfcHACC6"
+  },
+  {
+   "title": "LLMs and Personalities: Inconsistencies Across Scales",
+   "authors": [
+    "Tosato Tommaso",
+    "Mahmood Hegazy",
+    "David Lemay",
+    "Mohammed Abukalam",
+    "Irina Rish",
+    "Guillaume Dumas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vBg3OvsHwv",
+   "pdf_url": "https://openreview.net/pdf?id=vBg3OvsHwv"
+  },
+  {
+   "title": "Meaning Through Motion: DUET – A Multimodal Dataset for Kinesics Analysis in Dyadic Activities",
+   "authors": [
+    "Cheyu Lin",
+    "Katherine A. Flanigan",
+    "Sirajum Munir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4kUXVhPz1I",
+   "pdf_url": "https://openreview.net/pdf?id=4kUXVhPz1I"
+  },
+  {
+   "title": "Measuring Implicit Bias in Explicitly Unbiased Large Language Models",
+   "authors": [
+    "Xuechunzi Bai",
+    "Angelina Wang",
+    "Ilia Sucholutsky",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gHq5nPcGvV",
+   "pdf_url": "https://openreview.net/pdf?id=gHq5nPcGvV"
+  },
+  {
+   "title": "Mitigating Overconfidence in Large Language Models: A Behavioral Lens on Confidence Estimation and Calibration",
+   "authors": [
+    "Bingbing Wen",
+    "Chenjun Xu",
+    "Bin HAN",
+    "Robert Wolfe",
+    "Lucy Lu Wang",
+    "Bill Howe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y9UdO5cmHs",
+   "pdf_url": "https://openreview.net/pdf?id=y9UdO5cmHs"
+  },
+  {
+   "title": "Modulating Language Model Experiences through Frictions",
+   "authors": [
+    "Katherine M. Collins",
+    "Valerie Chen",
+    "Ilia Sucholutsky",
+    "Hannah Rose Kirk",
+    "Malak Sadek",
+    "Holli Sargeant",
+    "Ameet Talwalkar",
+    "Adrian Weller",
+    "Umang Bhatt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IlY37cF9ri",
+   "pdf_url": "https://openreview.net/pdf?id=IlY37cF9ri"
+  },
+  {
+   "title": "Monitoring Behavioral Changes Using Spatiotemporal Graphs: A Case Study on the StudentLife Dataset",
+   "authors": [
+    "Anoushka Harit",
+    "Zhongtian Sun",
+    "Jongmin Yu",
+    "Noura Al Moubayed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WyAKFNSYl2",
+   "pdf_url": "https://openreview.net/pdf?id=WyAKFNSYl2"
+  },
+  {
+   "title": "Multimodal Integration in Audio-Visual Speech Recognition --- How Far Are We From Human-Level Robustness?",
+   "authors": [
+    "Marianne Schweitzer",
+    "Anna Montagnini",
+    "Abdellah Fourtassi",
+    "Thomas Schatz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rwe8P8fVP4",
+   "pdf_url": "https://openreview.net/pdf?id=Rwe8P8fVP4"
+  },
+  {
+   "title": "Multivariate Prediction of Human Behavior in Task fMRI",
+   "authors": [
+    "Alessandra Camassa",
+    "Joseph Park",
+    "Margot Wagner",
+    "Terrence Sejnowski",
+    "Gerald M Pao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvZ3JairIX",
+   "pdf_url": "https://openreview.net/pdf?id=TvZ3JairIX"
+  },
+  {
+   "title": "MuMA-ToM: Multi-modal Multi-Agent Theory of Mind",
+   "authors": [
+    "Haojun Shi",
+    "Suyu Ye",
+    "Xinyu Fang",
+    "Chuanyang Jin",
+    "Leyla Isik",
+    "Yen-Ling Kuo",
+    "Tianmin Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oyezHf3CV0",
+   "pdf_url": "https://openreview.net/pdf?id=oyezHf3CV0"
+  },
+  {
+   "title": "Non-local Exchange: Introduce Non-locality via Graph Re-wiring to Graph Neural Networks",
+   "authors": [
+    "Ziquan Wei",
+    "Guorong Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dw4pR39eUD",
+   "pdf_url": "https://openreview.net/pdf?id=dw4pR39eUD"
+  },
+  {
+   "title": "Optimizing Reward Models with Proximal Policy Exploration in Preference-Based Reinforcement Learning",
+   "authors": [
+    "Yiwen Zhu",
+    "Jinyi Liu",
+    "Yifu Yuan",
+    "Wenya Wei",
+    "Zhenxing Ge",
+    "qianyi fu",
+    "Zhou Fang",
+    "Yujing Hu",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hmXie9J7yy",
+   "pdf_url": "https://openreview.net/pdf?id=hmXie9J7yy"
+  },
+  {
+   "title": "Outcome-Irrelevant and State-Independent Learning Mechanisms in Human Reinforcement Learning",
+   "authors": [
+    "Ido Ben-Artzi",
+    "Nitzan Shahar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JADzOpkqiU",
+   "pdf_url": "https://openreview.net/pdf?id=JADzOpkqiU"
+  },
+  {
+   "title": "PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences",
+   "authors": [
+    "Daiwei Chen",
+    "Yi Chen",
+    "Aniket Rege",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BpfxrR8tYs",
+   "pdf_url": "https://openreview.net/pdf?id=BpfxrR8tYs"
+  },
+  {
+   "title": "Predicting human decisions with behavioral theories and machine learning",
+   "authors": [
+    "Ori Plonsky",
+    "Reut Apel",
+    "Eyal Ert",
+    "Moshe Tennenholtz",
+    "David Bourgin",
+    "Joshua Peterson",
+    "Daniel Reichman",
+    "Thomas L. Griffiths",
+    "Stuart Russell",
+    "Evan Carter",
+    "James F. Cavanagh",
+    "Ido Erev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u39P8vE3Gf",
+   "pdf_url": "https://openreview.net/pdf?id=u39P8vE3Gf"
+  },
+  {
+   "title": "Principled probing of foundation models in the auditory modality",
+   "authors": [
+    "Etienne Bost",
+    "Mitsuko Aramaki",
+    "Richard Kronland-Martinet",
+    "Sølvi Ystad",
+    "Thierry Artières",
+    "Thomas Schatz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5GRLjqXXGi",
+   "pdf_url": "https://openreview.net/pdf?id=5GRLjqXXGi"
+  },
+  {
+   "title": "Principles of Animal Cognition for LLM Evaluations: A Case Study on Transitive Inference",
+   "authors": [
+    "Sunayana Rane",
+    "Cyrus Kirkman",
+    "Amanda Royka",
+    "Graham Todd",
+    "Ryan Law",
+    "Jacob Gates Foster",
+    "Erica Cartmill"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RSbSX0Bf24",
+   "pdf_url": "https://openreview.net/pdf?id=RSbSX0Bf24"
+  },
+  {
+   "title": "Probing LLM World Models: Enhancing Guesstimation with Wisdom of Crowds Decoding",
+   "authors": [
+    "Yun-Shiuan Chuang",
+    "Nikunj Harlalka",
+    "Sameer Narendran",
+    "Alexander Cheung",
+    "Sizhe Gao",
+    "Siddharth Suresh",
+    "Junjie Hu",
+    "Timothy T. Rogers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kLmsqcij4G",
+   "pdf_url": "https://openreview.net/pdf?id=kLmsqcij4G"
+  },
+  {
+   "title": "pSAE-chiatry: Utilizing Sparse Autoencoders to Uncover Mental-Health-Related Features in Language Models",
+   "authors": [
+    "Declan Grabb"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BODZDzpXUF",
+   "pdf_url": "https://openreview.net/pdf?id=BODZDzpXUF"
+  },
+  {
+   "title": "Rational Metareasoning for Large Language Models",
+   "authors": [
+    "C. Nicolò De Sabbata",
+    "Theodore Sumers",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ECXVwc1L4g",
+   "pdf_url": "https://openreview.net/pdf?id=ECXVwc1L4g"
+  },
+  {
+   "title": "Reassessing Number-Detector Units in Convolutional Neural Networks",
+   "authors": [
+    "Nhut Truong",
+    "Shahryar Noei",
+    "Alireza Karami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n5cV83qUrs",
+   "pdf_url": "https://openreview.net/pdf?id=n5cV83qUrs"
+  },
+  {
+   "title": "Rediscovering the Latent Dimensions of Personality with Large Language Models as Trait Descriptors",
+   "authors": [
+    "Joseph Suh",
+    "Suhong Moon",
+    "Minwoo Kang",
+    "David Chan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HmtCakUGHj",
+   "pdf_url": "https://openreview.net/pdf?id=HmtCakUGHj"
+  },
+  {
+   "title": "Selective Preference Aggregation",
+   "authors": [
+    "Shreyas Kadekodi",
+    "Hayden McTavish",
+    "Berk Ustun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9MXGK3W2R0",
+   "pdf_url": "https://openreview.net/pdf?id=9MXGK3W2R0"
+  },
+  {
+   "title": "Self-Attention Limits Working Memory Capacity of Transformer-Based Models",
+   "authors": [
+    "Dongyu Gong",
+    "Hantao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dXjQgm9kAr",
+   "pdf_url": "https://openreview.net/pdf?id=dXjQgm9kAr"
+  },
+  {
+   "title": "StepCountJITAI: simulation environment for RL with application to physical activity adaptive intervention",
+   "authors": [
+    "Karine Karine",
+    "Benjamin Marlin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zEFQfGiUWz",
+   "pdf_url": "https://openreview.net/pdf?id=zEFQfGiUWz"
+  },
+  {
+   "title": "Superficial Alignment, Subtle Divergence, and Nudge Sensitivity in LLM Decision-Making",
+   "authors": [
+    "Manuel Cherep",
+    "Nikhil Singh",
+    "Patricia Maes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=chbdsWgjS6",
+   "pdf_url": "https://openreview.net/pdf?id=chbdsWgjS6"
+  },
+  {
+   "title": "The Double-Edged Sword of Behavioral Responses in Strategic Classification",
+   "authors": [
+    "Raman Ebrahimi",
+    "Kristen Vaccaro",
+    "Parinaz Naghizadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rEnH2cyO6i",
+   "pdf_url": "https://openreview.net/pdf?id=rEnH2cyO6i"
+  },
+  {
+   "title": "Towards Deliberating Agents: Evaluating the Ability of Large Language Models to Deliberate",
+   "authors": [
+    "Arjun Karanam",
+    "Farnaz Jahanbakhsh",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gEg2p6Az1k",
+   "pdf_url": "https://openreview.net/pdf?id=gEg2p6Az1k"
+  },
+  {
+   "title": "Towards Robust Estimation of Human Intention Hierarchy in Robot Teleoperation",
+   "authors": [
+    "Nikki Lijing Kuang",
+    "Songpo Li",
+    "Soshi Iba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xk4mb8xctm",
+   "pdf_url": "https://openreview.net/pdf?id=Xk4mb8xctm"
+  },
+  {
+   "title": "Ultimatum Bargaining: Algorithms vs. Humans",
+   "authors": [
+    "Ali Ozkes",
+    "Nobuyuki Hanaki",
+    "Dieter Vanderelst",
+    "Jurgen Willems"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n9wpnZIzH3",
+   "pdf_url": "https://openreview.net/pdf?id=n9wpnZIzH3"
+  },
+  {
+   "title": "Understanding Graphical Perception in Data Visualization through Zero-shot Prompting of Vision-Language Models",
+   "authors": [
+    "Grace Guo",
+    "Jenna Kang",
+    "Raj Sanjay Shah",
+    "Hanspeter Pfister",
+    "Sashank Varma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fEwDUc4VJC",
+   "pdf_url": "https://openreview.net/pdf?id=fEwDUc4VJC"
+  },
+  {
+   "title": "Unexploited Information Value in Human-AI Collaboration",
+   "authors": [
+    "Ziyang Guo",
+    "Yifan Wu",
+    "Jason Hartline",
+    "Jessica Hullman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p7a08mENAo",
+   "pdf_url": "https://openreview.net/pdf?id=p7a08mENAo"
+  },
+  {
+   "title": "Using LLMs to Model the Beliefs and Preferences of Targeted Populations",
+   "authors": [
+    "Keiichi Namikoshi",
+    "Alexandre Filipowicz",
+    "David Ayman Shamma",
+    "Rumen I Iliev",
+    "Candice L Hogan",
+    "Nikos Arechiga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QH8kkxz4Za",
+   "pdf_url": "https://openreview.net/pdf?id=QH8kkxz4Za"
+  },
+  {
+   "title": "Virtual Personas for Language Models via an Anthology of Backstories",
+   "authors": [
+    "Suhong Moon",
+    "Marwa Abdulhai",
+    "Minwoo Kang",
+    "Joseph Suh",
+    "Widyadewi Soedarmadji",
+    "Eran Kohen Behar",
+    "David Chan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qnqkpWHaVz",
+   "pdf_url": "https://openreview.net/pdf?id=qnqkpWHaVz"
+  },
+  {
+   "title": "Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models",
+   "authors": [
+    "Yushi Hu",
+    "Weijia Shi",
+    "Xingyu Fu",
+    "Dan Roth",
+    "Mari Ostendorf",
+    "Luke Zettlemoyer",
+    "Noah A. Smith",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=prJ4b0GMSB",
+   "pdf_url": "https://openreview.net/pdf?id=prJ4b0GMSB"
+  },
+  {
+   "title": "What you say or how you say it? Predicting Conflict Outcomes in Real and LLM-Generated Conversations",
+   "authors": [
+    "Priya Ronald DCosta",
+    "Evan Rowbotham",
+    "Xinlan Emily Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iQ9h0fRfoy",
+   "pdf_url": "https://openreview.net/pdf?id=iQ9h0fRfoy"
+  },
+  {
+   "title": "WildFeedback: Aligning LLMs With In-situ User Interactions And Feedback",
+   "authors": [
+    "Taiwei Shi",
+    "Zhuoer Wang",
+    "Longqi Yang",
+    "Ying-Chun Lin",
+    "Zexue He",
+    "Mengting Wan",
+    "Pei Zhou",
+    "Sujay Kumar Jauhar",
+    "Xiaofeng Xu",
+    "Xia Song",
+    "Jennifer Neville"
+   ],
+   "forum_url": "https://openreview.net/forum?id=07QCozT1pi",
+   "pdf_url": "https://openreview.net/pdf?id=07QCozT1pi"
+  },
+  {
+   "title": "Words that work: Using language to generate hypotheses",
+   "authors": [
+    "Rafael M. Batista",
+    "James Ross"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pvnXlajGBZ",
+   "pdf_url": "https://openreview.net/pdf?id=pvnXlajGBZ"
+  }
+ ]
+}

@@ -1,0 +1,748 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/MFHAIA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:09.978Z",
+ "paper_count": 60,
+ "papers": [
+  {
+   "title": "\"You just can’t go around killing people'' Explaining Agent Behavior to a Human Terminator",
+   "authors": [
+    "Uri Menkes",
+    "Ofra Amir",
+    "Assaf Hallak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0BdPwBncot",
+   "pdf_url": "https://openreview.net/pdf?id=0BdPwBncot"
+  },
+  {
+   "title": "A Theoretical Framework for Partially Observed Reward-States in RLHF",
+   "authors": [
+    "Chinmaya Kausik",
+    "Mirco Mutti",
+    "Aldo Pacchiano",
+    "Ambuj Tewari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F23BiGmGor",
+   "pdf_url": "https://openreview.net/pdf?id=F23BiGmGor"
+  },
+  {
+   "title": "Accelerating Best-of-N via Speculative Rejection",
+   "authors": [
+    "Ruiqi Zhang",
+    "Momin Haider",
+    "Ming Yin",
+    "Jiahao Qiu",
+    "Mengdi Wang",
+    "Peter Bartlett",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FKelfq62ay",
+   "pdf_url": "https://openreview.net/pdf?id=FKelfq62ay"
+  },
+  {
+   "title": "Adversarial Multi-dueling Bandits",
+   "authors": [
+    "Pratik Gajane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5dhgCowdri",
+   "pdf_url": "https://openreview.net/pdf?id=5dhgCowdri"
+  },
+  {
+   "title": "AI Alignment with Changing and Influenceable Reward Functions",
+   "authors": [
+    "Micah Carroll",
+    "Davis Foote",
+    "Anand Siththaranjan",
+    "Stuart Russell",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=stqTKdpVAH",
+   "pdf_url": "https://openreview.net/pdf?id=stqTKdpVAH"
+  },
+  {
+   "title": "Aligning Crowd Feedback via Distributional Preference Reward Modeling",
+   "authors": [
+    "Dexun Li",
+    "Cong Zhang",
+    "Kuicai Dong",
+    "Derrick Goh Xin Deik",
+    "Ruiming Tang",
+    "Yong Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HHtV1kshHP",
+   "pdf_url": "https://openreview.net/pdf?id=HHtV1kshHP"
+  },
+  {
+   "title": "Aligning Large Language Models with Representation Editing: A Control Perspective",
+   "authors": [
+    "Lingkai Kong",
+    "Haorui Wang",
+    "Wenhao Mu",
+    "Yuanqi Du",
+    "Yuchen Zhuang",
+    "Yifei Zhou",
+    "Yue Song",
+    "Rongzhi Zhang",
+    "Kai Wang",
+    "Chao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ABztIs0m2b",
+   "pdf_url": "https://openreview.net/pdf?id=ABztIs0m2b"
+  },
+  {
+   "title": "AMBER: An Entropy Maximizing Environment Design Algorithm for Inverse Reinforcement Learning",
+   "authors": [
+    "Paul Nitschke",
+    "Lars Lien Ankile",
+    "Eura Nofshin",
+    "Siddharth Swaroop",
+    "Finale Doshi-Velez",
+    "Weiwei Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=diGbG37AxC",
+   "pdf_url": "https://openreview.net/pdf?id=diGbG37AxC"
+  },
+  {
+   "title": "Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation",
+   "authors": [
+    "Katherine M. Collins",
+    "Najoung Kim",
+    "Yonatan Bitton",
+    "Verena Rieser",
+    "Shayegan Omidshafiei",
+    "Yushi Hu",
+    "Sherol Chen",
+    "Senjuti Dutta",
+    "Minsuk Chang",
+    "Kimin Lee",
+    "Youwei Liang",
+    "Georgina Evans",
+    "Sahil Singla",
+    "Gang Li",
+    "Adrian Weller",
+    "Junfeng He",
+    "Deepak Ramachandran",
+    "Krishnamurthy Dj Dvijotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tyAxAXD6Zu",
+   "pdf_url": "https://openreview.net/pdf?id=tyAxAXD6Zu"
+  },
+  {
+   "title": "Bootstrapping Language Models with DPO Implicit Rewards",
+   "authors": [
+    "Changyu Chen",
+    "Zichen Liu",
+    "Chao Du",
+    "Tianyu Pang",
+    "Qian Liu",
+    "Arunesh Sinha",
+    "Pradeep Varakantham",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=POXfn3OH9G",
+   "pdf_url": "https://openreview.net/pdf?id=POXfn3OH9G"
+  },
+  {
+   "title": "Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization",
+   "authors": [
+    "Hritik Bansal",
+    "Ashima Suvarna",
+    "Gantavya Bhatt",
+    "Nanyun Peng",
+    "Kai-Wei Chang",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AzMnkF0jRT",
+   "pdf_url": "https://openreview.net/pdf?id=AzMnkF0jRT"
+  },
+  {
+   "title": "Comparing Comparisons: Informative and Easy Human Feedback with Distinguishability Queries",
+   "authors": [
+    "Xuening Feng",
+    "Zhaohui JIANG",
+    "Timo Kaufmann",
+    "Eyke Hüllermeier",
+    "Paul Weng",
+    "Yifei Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4TuJKMpSKH",
+   "pdf_url": "https://openreview.net/pdf?id=4TuJKMpSKH"
+  },
+  {
+   "title": "Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels",
+   "authors": [
+    "Zhuorui Ye",
+    "Stephanie Milani",
+    "Fei Fang",
+    "Geoffrey J. Gordon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rEwQH3muoq",
+   "pdf_url": "https://openreview.net/pdf?id=rEwQH3muoq"
+  },
+  {
+   "title": "Cross-Domain Knowledge Transfer for RL via Preference Consistency",
+   "authors": [
+    "Ting-Hsuan Huang",
+    "Ping-Chun Hsieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8GZq1USmc5",
+   "pdf_url": "https://openreview.net/pdf?id=8GZq1USmc5"
+  },
+  {
+   "title": "Distributional Preference Alignment of LLMs via Optimal Transport",
+   "authors": [
+    "Igor Melnyk",
+    "Youssef Mroueh",
+    "Brian Belgodere",
+    "Mattia Rigotti",
+    "Apoorva Nitsure",
+    "Mikhail Yurochkin",
+    "Kristjan Greenewald",
+    "Jiri Navratil",
+    "Jarret Ross"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OQIGwA2Ku9",
+   "pdf_url": "https://openreview.net/pdf?id=OQIGwA2Ku9"
+  },
+  {
+   "title": "DPM: Dual Preferences-based Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Sehyeok Kang",
+    "Yongsik Lee",
+    "Se-Young Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TW3DIP2h5p",
+   "pdf_url": "https://openreview.net/pdf?id=TW3DIP2h5p"
+  },
+  {
+   "title": "DPO Meets PPO: Reinforced Token Optimization for RLHF",
+   "authors": [
+    "Han Zhong",
+    "Guhao Feng",
+    "Wei Xiong",
+    "Xinle Cheng",
+    "Li Zhao",
+    "Di He",
+    "Jiang Bian",
+    "Liwei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gtFG2tBREa",
+   "pdf_url": "https://openreview.net/pdf?id=gtFG2tBREa"
+  },
+  {
+   "title": "Efficient Inverse Reinforcement Learning without Compounding Errors",
+   "authors": [
+    "Nicolas Espinosa Dice",
+    "Gokul Swamy",
+    "Sanjiban Choudhury",
+    "Wen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j8XVuNuU0Q",
+   "pdf_url": "https://openreview.net/pdf?id=j8XVuNuU0Q"
+  },
+  {
+   "title": "Enhancing Intent Understanding for Ambiguous prompt: A Human-Machine Co-Adaption Strategy",
+   "authors": [
+    "Yangfan He",
+    "Yuxuan Bai",
+    "TIANYU SHI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NaLxbHXcoS",
+   "pdf_url": "https://openreview.net/pdf?id=NaLxbHXcoS"
+  },
+  {
+   "title": "Filtered Direct Preference Optimization",
+   "authors": [
+    "Tetsuro Morimura",
+    "Mitsuki Sakamoto",
+    "Yuu Jinnai",
+    "Kenshi Abe",
+    "Kaito Ariu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IucAp5WfZb",
+   "pdf_url": "https://openreview.net/pdf?id=IucAp5WfZb"
+  },
+  {
+   "title": "Free-Energy Equilibria: Toward a Theory of Interactions Between Boundedly-Rational Agents",
+   "authors": [
+    "David Hyland",
+    "Tomáš Gavenčiak",
+    "Lancelot Da Costa",
+    "Conor Heins",
+    "Vojtech Kovarik",
+    "Julian Gutierrez",
+    "Michael J. Wooldridge",
+    "Jan Kulveit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Ft7DcrjdO",
+   "pdf_url": "https://openreview.net/pdf?id=4Ft7DcrjdO"
+  },
+  {
+   "title": "Generalizing Offline Alignment Theoretical Paradigm with Diverse Divergence Constraints",
+   "authors": [
+    "Haoyuan Sun",
+    "Yuxin Zheng",
+    "Yifei Zhao",
+    "Yongzhe Chang",
+    "Xueqian Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7DxEPUrSS4",
+   "pdf_url": "https://openreview.net/pdf?id=7DxEPUrSS4"
+  },
+  {
+   "title": "Hummer: Towards Limited Competitive Preference Dataset",
+   "authors": [
+    "Li Jiang",
+    "Yusen Wu",
+    "Junwu Xiong",
+    "Jingqing Ruan",
+    "Yichuan Ding",
+    "Qingpei Guo",
+    "zujie wen",
+    "JUN ZHOU",
+    "Xiaotie Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RVEFjhOE0A",
+   "pdf_url": "https://openreview.net/pdf?id=RVEFjhOE0A"
+  },
+  {
+   "title": "Informed Meta-Learning",
+   "authors": [
+    "Kasia Kobalczyk",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W7m5LAMJGc",
+   "pdf_url": "https://openreview.net/pdf?id=W7m5LAMJGc"
+  },
+  {
+   "title": "Inverse Reinforcement Learning from Demonstrations for LLM Alignment",
+   "authors": [
+    "Hao Sun",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BrUxhfVepA",
+   "pdf_url": "https://openreview.net/pdf?id=BrUxhfVepA"
+  },
+  {
+   "title": "Is a Good Description Worth a Thousand Pictures? Reducing Multimodal Alignment to Text-Based, Unimodal Alignment",
+   "authors": [
+    "Amin Memarian",
+    "Touraj Laleh",
+    "Irina Rish",
+    "Ardavan S. Nobandegani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8FaDGQmH2N",
+   "pdf_url": "https://openreview.net/pdf?id=8FaDGQmH2N"
+  },
+  {
+   "title": "Is poisoning a real threat to LLM alignment? Maybe more so than you think",
+   "authors": [
+    "Pankayaraj Pathmanathan",
+    "Souradip Chakraborty",
+    "Xiangyu Liu",
+    "Yongyuan Liang",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QTviVh3VQU",
+   "pdf_url": "https://openreview.net/pdf?id=QTviVh3VQU"
+  },
+  {
+   "title": "Language Alignment via Nash-learning and Adaptive feedback",
+   "authors": [
+    "Ari Azarafrooz",
+    "Farshid Faal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mENkq1MiiK",
+   "pdf_url": "https://openreview.net/pdf?id=mENkq1MiiK"
+  },
+  {
+   "title": "Learning the eye of the beholder: Statistical modeling and estimation for personalized color perception",
+   "authors": [
+    "Xuanzhou Chen",
+    "Austin Xu",
+    "Jingyan Wang",
+    "Ashwin Pananjady"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ypBCebHuoe",
+   "pdf_url": "https://openreview.net/pdf?id=ypBCebHuoe"
+  },
+  {
+   "title": "Learning to Assist Humans without Inferring Rewards",
+   "authors": [
+    "Vivek Myers",
+    "Evan Ellis",
+    "Benjamin Eysenbach",
+    "Sergey Levine",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pN8bDIqpBM",
+   "pdf_url": "https://openreview.net/pdf?id=pN8bDIqpBM"
+  },
+  {
+   "title": "MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences",
+   "authors": [
+    "Souradip Chakraborty",
+    "Jiahao Qiu",
+    "Hui Yuan",
+    "Alec Koppel",
+    "Furong Huang",
+    "Dinesh Manocha",
+    "Amrit Bedi",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NCQp4KpT8R",
+   "pdf_url": "https://openreview.net/pdf?id=NCQp4KpT8R"
+  },
+  {
+   "title": "Modeling the Plurality of Human Preferences via Ideal Points",
+   "authors": [
+    "Daiwei Chen",
+    "Yi Chen",
+    "Aniket Rege",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YkdoxVxy6a",
+   "pdf_url": "https://openreview.net/pdf?id=YkdoxVxy6a"
+  },
+  {
+   "title": "Models That Prove Their Own Correctness",
+   "authors": [
+    "Noga Amit",
+    "Shafi Goldwasser",
+    "Orr Paradise",
+    "Guy N. Rothblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fEsKFQAU8E",
+   "pdf_url": "https://openreview.net/pdf?id=fEsKFQAU8E"
+  },
+  {
+   "title": "Multi-Agent Imitation Learning: Value is Easy, Regret is Hard",
+   "authors": [
+    "Jingwu Tang",
+    "Gokul Swamy",
+    "Fei Fang",
+    "Steven Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jVOAtDGNor",
+   "pdf_url": "https://openreview.net/pdf?id=jVOAtDGNor"
+  },
+  {
+   "title": "MultiScale Policy Learning for Alignment with Long Term Objectives",
+   "authors": [
+    "Richa Rastogi",
+    "Yuta Saito",
+    "Thorsten Joachims"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QhXBXekwVm",
+   "pdf_url": "https://openreview.net/pdf?id=QhXBXekwVm"
+  },
+  {
+   "title": "New Desiderata for Direct Preference Optimization",
+   "authors": [
+    "Xiangkun Hu",
+    "Tong He",
+    "David Wipf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fgf0iAOb22",
+   "pdf_url": "https://openreview.net/pdf?id=Fgf0iAOb22"
+  },
+  {
+   "title": "Off-Policy Evaluation from Logged Human Feedback",
+   "authors": [
+    "Aniruddha Bhargava",
+    "Lalit K Jain",
+    "Branislav Kveton",
+    "Ge Liu",
+    "Subhojyoti Mukherjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ws3fmkCGGI",
+   "pdf_url": "https://openreview.net/pdf?id=ws3fmkCGGI"
+  },
+  {
+   "title": "Optimal Design for Human Feedback",
+   "authors": [
+    "Subhojyoti Mukherjee",
+    "Anusha Lalitha",
+    "Kousha Kalantari",
+    "Aniket Anand Deshmukh",
+    "Ge Liu",
+    "Yifei Ma",
+    "Branislav Kveton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hg6u9LBf06",
+   "pdf_url": "https://openreview.net/pdf?id=Hg6u9LBf06"
+  },
+  {
+   "title": "Order-Optimal Instance-Dependent Bounds for  Offline Reinforcement Learning with Preference Feedback",
+   "authors": [
+    "Zhirui Chen",
+    "Vincent Y. F. Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BKSJv4wqKi",
+   "pdf_url": "https://openreview.net/pdf?id=BKSJv4wqKi"
+  },
+  {
+   "title": "PIPER: Primitive-Informed Preference-based Hierarchical Reinforcement Learning via Hindsight Relabeling",
+   "authors": [
+    "Utsav Singh",
+    "Wesley A. Suttle",
+    "Brian M. Sadler",
+    "Vinay P. Namboodiri",
+    "Amrit Singh Bedi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e93YTi9nKp",
+   "pdf_url": "https://openreview.net/pdf?id=e93YTi9nKp"
+  },
+  {
+   "title": "Preference Elicitation for Offline Reinforcement Learning",
+   "authors": [
+    "Alizée Pace",
+    "Bernhard Schölkopf",
+    "Gunnar Ratsch",
+    "Giorgia Ramponi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=umJkP7Bpiv",
+   "pdf_url": "https://openreview.net/pdf?id=umJkP7Bpiv"
+  },
+  {
+   "title": "Preference Learning Algorithms Do Not Learn Preference Rankings",
+   "authors": [
+    "Angelica Chen",
+    "Sadhika Malladi",
+    "Lily H Zhang",
+    "Xinyi Chen",
+    "Qiuyi Zhang",
+    "Rajesh Ranganath",
+    "Kyunghyun Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Go1OP9pk1P",
+   "pdf_url": "https://openreview.net/pdf?id=Go1OP9pk1P"
+  },
+  {
+   "title": "Prompt Optimization with Human Feedback",
+   "authors": [
+    "Xiaoqiang Lin",
+    "Zhongxiang Dai",
+    "Arun Verma",
+    "See-Kiong Ng",
+    "Patrick Jaillet",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=344O51eTPN",
+   "pdf_url": "https://openreview.net/pdf?id=344O51eTPN"
+  },
+  {
+   "title": "Query Design for Crowdsourced Clustering: Effect of Cognitive Overload and Contextual Bias",
+   "authors": [
+    "Yi Chen",
+    "Ramya Korlakai Vinayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0yvQsZQumt",
+   "pdf_url": "https://openreview.net/pdf?id=0yvQsZQumt"
+  },
+  {
+   "title": "REBEL: Reinforcement Learning via Regressing Relative Rewards",
+   "authors": [
+    "Zhaolin Gao",
+    "Jonathan Daniel Chang",
+    "Wenhao Zhan",
+    "Owen Oertell",
+    "Gokul Swamy",
+    "Kianté Brantley",
+    "Thorsten Joachims",
+    "J. Andrew Bagnell",
+    "Jason D. Lee",
+    "Wen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4SKidIUPP6",
+   "pdf_url": "https://openreview.net/pdf?id=4SKidIUPP6"
+  },
+  {
+   "title": "Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment",
+   "authors": [
+    "Yuu Jinnai",
+    "Tetsuro Morimura",
+    "Kaito Ariu",
+    "Kenshi Abe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ewRlZPAReR",
+   "pdf_url": "https://openreview.net/pdf?id=ewRlZPAReR"
+  },
+  {
+   "title": "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input",
+   "authors": [
+    "Belen Martin Urcelay",
+    "Andreas Krause",
+    "Giorgia Ramponi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nEBqZmtLzY",
+   "pdf_url": "https://openreview.net/pdf?id=nEBqZmtLzY"
+  },
+  {
+   "title": "Relatively Rational: Learning Utilities and Rationalities Jointly from Pairwise Preferences",
+   "authors": [
+    "Taku Yamagata",
+    "Tobias Oberkofler",
+    "Timo Kaufmann",
+    "Viktor Bengs",
+    "Eyke Hüllermeier",
+    "Raul Santos-Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N9o8afNUfr",
+   "pdf_url": "https://openreview.net/pdf?id=N9o8afNUfr"
+  },
+  {
+   "title": "Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment",
+   "authors": [
+    "Zhaofeng Wu",
+    "Ananth Balashankar",
+    "Yoon Kim",
+    "Jacob Eisenstein",
+    "Ahmad Beirami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IUhNTCNjox",
+   "pdf_url": "https://openreview.net/pdf?id=IUhNTCNjox"
+  },
+  {
+   "title": "Revisiting Successor Features for Inverse Reinforcement Learning",
+   "authors": [
+    "Arnav Kumar Jain",
+    "Harley Wiltzer",
+    "Jesse Farebrother",
+    "Irina Rish",
+    "Glen Berseth",
+    "Sanjiban Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hmQve0ooT6",
+   "pdf_url": "https://openreview.net/pdf?id=hmQve0ooT6"
+  },
+  {
+   "title": "RLHF and IIA: Perverse Incentives",
+   "authors": [
+    "Wanqiao Xu",
+    "Shi Dong",
+    "Xiuyuan Lu",
+    "Grace Lam",
+    "Zheng Wen",
+    "Benjamin Van Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AxjFomomkT",
+   "pdf_url": "https://openreview.net/pdf?id=AxjFomomkT"
+  },
+  {
+   "title": "Scalable Oversight by Accounting for Unreliable Feedback",
+   "authors": [
+    "Shivam Singhal",
+    "Cassidy Laidlaw",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Noy5wbyiCS",
+   "pdf_url": "https://openreview.net/pdf?id=Noy5wbyiCS"
+  },
+  {
+   "title": "Scalably Solving Assistance Games",
+   "authors": [
+    "Cassidy Laidlaw",
+    "Eli Bronstein",
+    "Timothy Guo",
+    "Dylan Feng",
+    "Lukas Berglund",
+    "Justin Svegliato",
+    "Stuart Russell",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xVS7dFKoMR",
+   "pdf_url": "https://openreview.net/pdf?id=xVS7dFKoMR"
+  },
+  {
+   "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
+   "authors": [
+    "Rafael Rafailov",
+    "Yaswanth Chittepu",
+    "Ryan Park",
+    "Harshit Sikchi",
+    "Joey Hejna",
+    "W. Bradley Knox",
+    "Chelsea Finn",
+    "Scott Niekum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WTrwDXdRTS",
+   "pdf_url": "https://openreview.net/pdf?id=WTrwDXdRTS"
+  },
+  {
+   "title": "Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping",
+   "authors": [
+    "Haoyu Wang",
+    "Guozheng Ma",
+    "Ziqiao Meng",
+    "Zeyu Qin",
+    "Li Shen",
+    "Zhong Zhang",
+    "Bingzhe Wu",
+    "Liu Liu",
+    "Yatao Bian",
+    "Tingyang Xu",
+    "Xueqian Wang",
+    "Peilin Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lAXNiTcMar",
+   "pdf_url": "https://openreview.net/pdf?id=lAXNiTcMar"
+  },
+  {
+   "title": "Stochastic Concept Bottleneck Models",
+   "authors": [
+    "Moritz Vandenhirtz",
+    "Sonia Laguna",
+    "Ričards Marcinkevičs",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XXla06lziC",
+   "pdf_url": "https://openreview.net/pdf?id=XXla06lziC"
+  },
+  {
+   "title": "Towards Aligning Language Models with Textual Feedback",
+   "authors": [
+    "Saüc Abadal Lloret",
+    "Shehzaad Dhuliawala",
+    "Keerthiram Murugesan",
+    "Mrinmaya Sachan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PurTK6zas8",
+   "pdf_url": "https://openreview.net/pdf?id=PurTK6zas8"
+  },
+  {
+   "title": "Towards Safe Large Language Models for Medicine",
+   "authors": [
+    "Tessa Han",
+    "Aounon Kumar",
+    "Chirag Agarwal",
+    "Himabindu Lakkaraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1cq9pmwRgG",
+   "pdf_url": "https://openreview.net/pdf?id=1cq9pmwRgG"
+  },
+  {
+   "title": "Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback",
+   "authors": [
+    "Sheng Xu",
+    "Bo Yue",
+    "Hongyuan Zha",
+    "Guiliang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oVVg7lug1F",
+   "pdf_url": "https://openreview.net/pdf?id=oVVg7lug1F"
+  },
+  {
+   "title": "Weak-to-Strong Extrapolation Expedites Alignment",
+   "authors": [
+    "Chujie Zheng",
+    "Ziqi Wang",
+    "Heng Ji",
+    "Minlie Huang",
+    "Nanyun Peng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DbyqbL4ztr",
+   "pdf_url": "https://openreview.net/pdf?id=DbyqbL4ztr"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "venue_id": "IEEE.org/ICRA/2025/Workshop/Beyond_Pick_and_Place",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:19.464Z",
+ "paper_count": 12,
+ "papers": [
+  {
+   "title": "AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks",
+   "authors": [
+    "Ryan Diaz",
+    "Adam Imdieke",
+    "Vivek Veeriah",
+    "Karthik Desingh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cpqoWkTdAa",
+   "pdf_url": "https://openreview.net/pdf?id=cpqoWkTdAa"
+  },
+  {
+   "title": "DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation",
+   "authors": [
+    "Jiangran Lyu",
+    "Ziming Li",
+    "Xuesong Shi",
+    "Chaoyi Xu",
+    "Yizhou Wang",
+    "He Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=flY9V3CfyJ",
+   "pdf_url": "https://openreview.net/pdf?id=flY9V3CfyJ"
+  },
+  {
+   "title": "FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation",
+   "authors": [
+    "Zihao He",
+    "Hongjie Fang",
+    "Jingjing Chen",
+    "Hao-Shu Fang",
+    "Cewu Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cbjluXVaJz",
+   "pdf_url": "https://openreview.net/pdf?id=cbjluXVaJz"
+  },
+  {
+   "title": "GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization",
+   "authors": [
+    "Austin Patel",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a3HKP0sgsg",
+   "pdf_url": "https://openreview.net/pdf?id=a3HKP0sgsg"
+  },
+  {
+   "title": "Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins",
+   "authors": [
+    "Venkatesh Pattabiraman",
+    "Yifeng Cao",
+    "Siddhant Haldar",
+    "Lerrel Pinto",
+    "Raunaq Bhirangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cppHnPLvh6",
+   "pdf_url": "https://openreview.net/pdf?id=cppHnPLvh6"
+  },
+  {
+   "title": "Metric Semantic Manipulation-Enhanced Mapping via Belief Prediction Models",
+   "authors": [
+    "Nils Dengler",
+    "Joao Marcos Correia Marques",
+    "Jesper Mücke",
+    "Shenlong Wang",
+    "Kris Hauser",
+    "Maren Bennewitz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r0OpFLXwJG",
+   "pdf_url": "https://openreview.net/pdf?id=r0OpFLXwJG"
+  },
+  {
+   "title": "Mobile Pedipulation for Object Sliding via a Wheeled Bipedal Robot",
+   "authors": [
+    "Yue Qin",
+    "Yanran Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x9abm6FLot",
+   "pdf_url": "https://openreview.net/pdf?id=x9abm6FLot"
+  },
+  {
+   "title": "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation",
+   "authors": [
+    "Han Xue",
+    "Jieji Ren",
+    "Wendi Chen",
+    "Gu Zhang",
+    "Fang Yuan",
+    "Guoying Gu",
+    "Huazhe Xu",
+    "Cewu Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zRhjjLGUAp",
+   "pdf_url": "https://openreview.net/pdf?id=zRhjjLGUAp"
+  },
+  {
+   "title": "Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments",
+   "authors": [
+    "Haritheja Etukuru",
+    "Norihito Naka",
+    "Zijin Hu",
+    "Seungjae Lee",
+    "Chris Paxton",
+    "Soumith Chintala",
+    "Lerrel Pinto",
+    "Nur Muhammad Mahi Shafiullah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ggj9Le18gr",
+   "pdf_url": "https://openreview.net/pdf?id=Ggj9Le18gr"
+  },
+  {
+   "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
+   "authors": [
+    "Nadun Ranawaka Arachchige",
+    "Zhenyang Chen",
+    "Wonsuhk Jung",
+    "Woo Chul Shin",
+    "Rohan Bansal",
+    "Yu Hang He",
+    "Yingyan Celine Lin",
+    "Benjamin Joffe",
+    "Shreyas Kousik",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PFWGXS5MLP",
+   "pdf_url": "https://openreview.net/pdf?id=PFWGXS5MLP"
+  },
+  {
+   "title": "Streaming Flow Policy: Simplifying diffusion/flow policies by treating action trajectories as flow trajectories",
+   "authors": [
+    "Sunshine Jiang",
+    "Xiaolin Fang",
+    "Nicholas Roy",
+    "Tomás Lozano-Pérez",
+    "Leslie Pack Kaelbling",
+    "Siddharth Ancha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ay5lYpmywr",
+   "pdf_url": "https://openreview.net/pdf?id=ay5lYpmywr"
+  },
+  {
+   "title": "Tool-as-Interface: Learning Robot Tool Use from Human Play through Imitation Learning",
+   "authors": [
+    "Haonan Chen",
+    "Cheng Zhu",
+    "Yunzhu Li",
+    "Katherine Rose Driggs-Campbell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jNpSiamyZe",
+   "pdf_url": "https://openreview.net/pdf?id=jNpSiamyZe"
+  }
+ ]
+}

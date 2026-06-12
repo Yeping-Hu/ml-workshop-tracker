@@ -1,0 +1,336 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/VisCon",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:49:17.014Z",
+ "paper_count": 27,
+ "papers": [
+  {
+   "title": "A Taxonomy-Aware Evaluation for Open-Vocabulary Wildlife Detection",
+   "authors": [
+    "Wenqi Xue",
+    "Pengxi Zhang",
+    "William Wang",
+    "Yijia Cai",
+    "Jieyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NyToxSzr7s",
+   "pdf_url": "https://openreview.net/pdf?id=NyToxSzr7s"
+  },
+  {
+   "title": "CGEBench: Benchmarking Concept Generalization of Promptable Image Segmentation Models",
+   "authors": [
+    "Alexander von Recum",
+    "Christoph Schnabl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mKYntJP8Wx",
+   "pdf_url": "https://openreview.net/pdf?id=mKYntJP8Wx"
+  },
+  {
+   "title": "ConceptOT: Fine-Grained Vision-Language Alignment via Low-Rank Unbalanced Optimal Transport",
+   "authors": [
+    "Pawan Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EU0tuTbrKn",
+   "pdf_url": "https://openreview.net/pdf?id=EU0tuTbrKn"
+  },
+  {
+   "title": "CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models",
+   "authors": [
+    "Abhijith Babu",
+    "Ramneet Kaur",
+    "Nathaniel D. Bastian",
+    "Olivera Kotevska",
+    "Susmit Jha",
+    "Yanzhao Wu",
+    "Sumit Kumar Jha",
+    "Anirban Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ri3c82xhcX",
+   "pdf_url": "https://openreview.net/pdf?id=ri3c82xhcX"
+  },
+  {
+   "title": "Dissecting Representation Structure in Vision Transformers: A Rigorous Architectural Study",
+   "authors": [
+    "Kim-Cuc Nguyen",
+    "Ngai-Man Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UfKZ9mkjF8",
+   "pdf_url": "https://openreview.net/pdf?id=UfKZ9mkjF8"
+  },
+  {
+   "title": "Do VLMs Reason About Faces? Probing the Perception-Reasoning Gap in Identity Judgment",
+   "authors": [
+    "Mahsa Khoshnoodi",
+    "Sarah Adel Bargal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1MfgN2Yi7m",
+   "pdf_url": "https://openreview.net/pdf?id=1MfgN2Yi7m"
+  },
+  {
+   "title": "Entropy-based Patchification Creates Semantic Tokens",
+   "authors": [
+    "Suhao Yu",
+    "Jingjia Peng",
+    "Yao Tang",
+    "Jiatao Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AyoGBKzOqn",
+   "pdf_url": "https://openreview.net/pdf?id=AyoGBKzOqn"
+  },
+  {
+   "title": "Forecasting Animal Motion in the Wild",
+   "authors": [
+    "Neerja Thakkar",
+    "Shiry Ginosar",
+    "Jacob C Walker",
+    "Jitendra Malik",
+    "Joao Carreira",
+    "Carl Doersch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E2dxYkSiBH",
+   "pdf_url": "https://openreview.net/pdf?id=E2dxYkSiBH"
+  },
+  {
+   "title": "From Comparison to Composition: Towards Understanding Machine Cognition of Unseen Categories",
+   "authors": [
+    "Minghao Fu",
+    "Sheng Zhang",
+    "Guangyi Chen",
+    "Zijian Li",
+    "Fan Feng",
+    "Yifan Shen",
+    "Shaoan Xie",
+    "Heng Huang",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OMN8c88IN5",
+   "pdf_url": "https://openreview.net/pdf?id=OMN8c88IN5"
+  },
+  {
+   "title": "Hidden Clones: Exposing and Fixing Family Bias in Vision-Language Model Ensembles",
+   "authors": [
+    "Zacharie Bugaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tik6NupZIy",
+   "pdf_url": "https://openreview.net/pdf?id=tik6NupZIy"
+  },
+  {
+   "title": "Improved Vision-Language Alignment via Text-Conditioned Image Embeddings using Sparse Autoencoders",
+   "authors": [
+    "Sweta Mahajan",
+    "Sukrut Rao",
+    "Jiahao Xie",
+    "Alexander Koller",
+    "Bernt Schiele"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hef6JlXjFS",
+   "pdf_url": "https://openreview.net/pdf?id=Hef6JlXjFS"
+  },
+  {
+   "title": "INSID3: Training-Free In-Context Segmentation with DINOv3",
+   "authors": [
+    "Claudia Cuttano",
+    "Gabriele Trivigno",
+    "Christoph Reich",
+    "Daniel Cremers",
+    "Carlo Masone",
+    "Stefan Roth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9jOcjLRMIe",
+   "pdf_url": "https://openreview.net/pdf?id=9jOcjLRMIe"
+  },
+  {
+   "title": "LandCIS: Hierarchical Semantic Anchoring for Concept-Centric Continual Segmentation",
+   "authors": [
+    "Yuyin Ma",
+    "Yijian wu",
+    "Wang Xinyu",
+    "Yijun Lu",
+    "Zhen Tian",
+    "Ming YAN",
+    "Yunni Xia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jW6O6MiQQz",
+   "pdf_url": "https://openreview.net/pdf?id=jW6O6MiQQz"
+  },
+  {
+   "title": "Learning Sparse Visual Representations via Spatial-Semantic Factorization",
+   "authors": [
+    "Theodore Zhengde Zhao",
+    "Sid Kiblawi",
+    "Jianwei Yang",
+    "Naoto Usuyama",
+    "Reuben Tan",
+    "Noel C Codella",
+    "Tristan Naumann",
+    "Hoifung Poon",
+    "Mu Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7yqR3y3SGT",
+   "pdf_url": "https://openreview.net/pdf?id=7yqR3y3SGT"
+  },
+  {
+   "title": "MCSBench: Probing Multimodal Conceptual Structure of Multimodal LLMs",
+   "authors": [
+    "Sheng Zhang",
+    "Minghao Fu",
+    "Kelin Yu",
+    "Tong Zheng",
+    "Guangyi Chen",
+    "Hong Jiao",
+    "Salman Khan",
+    "Zhiqiang Shen",
+    "Heng Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=locRthIqgo",
+   "pdf_url": "https://openreview.net/pdf?id=locRthIqgo"
+  },
+  {
+   "title": "Most of This Video Is Boring",
+   "authors": [
+    "Anya Singh",
+    "Jiahang He",
+    "Varun Nair",
+    "Jai Relan",
+    "Vidyut Baradwaj",
+    "Cabrel Happi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fvZdXvN5tx",
+   "pdf_url": "https://openreview.net/pdf?id=fvZdXvN5tx"
+  },
+  {
+   "title": "Multi-hop Relational Contrastive Learning: Extending Spatial Contrastive Pre-training Beyond Pairwise Relations",
+   "authors": [
+    "Sheikh Tanvir Ahmed",
+    "Md. Tanvir Raihan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x68cCTqnKc",
+   "pdf_url": "https://openreview.net/pdf?id=x68cCTqnKc"
+  },
+  {
+   "title": "Seeing Only What Exists: Visibility-Aware Contrastive Learning for Concept-Level Hallucination in Vision–Language Models",
+   "authors": [
+    "Hikaru Shijo",
+    "Yutaka Yoshihama",
+    "Yasunori Ishii",
+    "Takayoshi Yamashita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aRg9xlWz7I",
+   "pdf_url": "https://openreview.net/pdf?id=aRg9xlWz7I"
+  },
+  {
+   "title": "Self-Consistency for LLM-Based Motion Trajectory Generation and Verification",
+   "authors": [
+    "Jiaju Ma",
+    "R. Kenny Jones",
+    "Jiajun Wu",
+    "Maneesh Agrawala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n6X4np04Bc",
+   "pdf_url": "https://openreview.net/pdf?id=n6X4np04Bc"
+  },
+  {
+   "title": "Semantic Concept Conditioning for State Space Image Super-Resolution",
+   "authors": [
+    "Andrii Ahitoliev",
+    "Bohdan Milian",
+    "Oleh Shtohryn",
+    "Anna-Alina Bondarets",
+    "Alina Labaz",
+    "Taras Rumezhak",
+    "Volodymyr Karpiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eDC9vBSSm5",
+   "pdf_url": "https://openreview.net/pdf?id=eDC9vBSSm5"
+  },
+  {
+   "title": "SPOT: Structured Prompting with Object-centric Tokens for open-world scene graphs",
+   "authors": [
+    "Mengqi Zhang",
+    "Sahil Khose",
+    "Fiona Ryan",
+    "Judy Hoffman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sgz3wUm40i",
+   "pdf_url": "https://openreview.net/pdf?id=Sgz3wUm40i"
+  },
+  {
+   "title": "Test-Time Visual Concept Anchoring via Entropic Optimal Transport",
+   "authors": [
+    "Pawan Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B1pblQaPEG",
+   "pdf_url": "https://openreview.net/pdf?id=B1pblQaPEG"
+  },
+  {
+   "title": "Toward Compact and Structured Visual Representations in VLMs: SSM-Based Vision Encoders as an Alternative to Transformers",
+   "authors": [
+    "Shang-Jui Ray Kuo",
+    "Paola Cascante-Bonilla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eeOWxlYZYi",
+   "pdf_url": "https://openreview.net/pdf?id=eeOWxlYZYi"
+  },
+  {
+   "title": "Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models",
+   "authors": [
+    "Hayeon Kim",
+    "Ji Ha Jang",
+    "Junghun James Kim",
+    "Se Young Chun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tIdICrs2Hs",
+   "pdf_url": "https://openreview.net/pdf?id=tIdICrs2Hs"
+  },
+  {
+   "title": "VCode: A Multimodal Coding Benchmark with SVG as Symbolic Visual Representation",
+   "authors": [
+    "Kevin Qinghong Lin",
+    "Yuhao Zheng",
+    "Hangyu Ran",
+    "Dongxing Mao",
+    "Linjie Li",
+    "Philip Torr",
+    "Alex Jinpeng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i3gGPtDdip",
+   "pdf_url": "https://openreview.net/pdf?id=i3gGPtDdip"
+  },
+  {
+   "title": "VisAnalog: A Diagnostic Suite for Visual Concept Transfer on Natural Images",
+   "authors": [
+    "Zhaonan Li",
+    "Kyle R. Chickering",
+    "Bangzheng Li",
+    "Jacob Dineen",
+    "Xiao Ye",
+    "Zhikun Xu",
+    "Shijie Lu",
+    "Yuxi Huang",
+    "Ming Shen",
+    "Bach Nguyen",
+    "Jaya Adithya Pavuluri",
+    "Mau Son Nguyen",
+    "Sanika Chavan",
+    "Ngoc Minh Thu Le",
+    "Muhao Chen",
+    "Ben Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Ny4mHbSJC",
+   "pdf_url": "https://openreview.net/pdf?id=3Ny4mHbSJC"
+  },
+  {
+   "title": "WristCompass: Kinematic Coupling as a Learnable Visual Concept for Ego-Camera Orientation",
+   "authors": [
+    "Varun Nair",
+    "Vidyut Baradwaj",
+    "Jiahang He",
+    "Anya Singh",
+    "Jai Relan",
+    "Cabrel Happi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mutabl2pFo",
+   "pdf_url": "https://openreview.net/pdf?id=mutabl2pFo"
+  }
+ ]
+}

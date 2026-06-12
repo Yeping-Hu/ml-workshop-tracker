@@ -1,0 +1,450 @@
+---
+import Base from '../components/Base.astro';
+import WorkshopRow from '../components/WorkshopRow.astro';
+import {
+  topics,
+  workshops,
+  upcomingWithDeadline,
+  upcomingTba,
+  conferences,
+  paperCount,
+  proposalCalls,
+  conferenceById,
+} from '../lib/data';
+import { href, REPO_URL } from '../lib/site';
+
+const base = (import.meta.env.BASE_URL || '/').replace(/\/+$/, '');
+// conference display-name -> color, for badges on search results
+const confColors = Object.fromEntries(conferences.map((c) => [c.name, c.color]));
+// Facet options + counts computed from the data at build time: exact,
+// workshop-only, and rendered instantly without waiting for the search index.
+const topicLabel = new Map(topics.map((t: any) => [t.id, t.label]));
+const facetCounts: Record<string, Record<string, number>> = { conference: {}, status: {}, year: {}, topic: {} };
+const bump = (f: string, v: string) => { facetCounts[f][v] = (facetCounts[f][v] ?? 0) + 1; };
+for (const w of workshops) {
+  bump('conference', conferenceById.get(w.conference)?.name ?? w.conference);
+  bump('status', w.statusLabel);
+  bump('year', String(w.year));
+  for (const t of w.topics ?? []) bump('topic', topicLabel.get(t) ?? t);
+}
+// Compact per-workshop facet tuples (~20 KB) so the dropdowns can compute
+// exact, mutually consistent counts under any selection, instantly.
+const FW = workshops.map((w) => ({
+  conference: conferenceById.get(w.conference)?.name ?? w.conference,
+  status: w.statusLabel,
+  year: String(w.year),
+  topic: (w.topics ?? []).map((t: string) => topicLabel.get(t) ?? t),
+}));
+---
+
+<Base>
+  <section class="hero">
+    <p class="eyebrow">{[...conferences].map((c) => c.name).sort().join(' · ')}</p>
+    <h1>Every workshop. Every paper. One search.</h1>
+    <p class="lede">
+      Deadlines, past editions, and accepted papers for AI &amp; robotics conference
+      workshops — community-maintained, so always confirm on the official page.
+    </p>
+    <div class="kw-box hero-box" onclick="document.getElementById('q')?.focus()">
+      <span id="kwChips"></span>
+      <input id="q" type="search" placeholder="Search workshops & papers… (Enter adds a keyword)" aria-label="Search workshops and papers" />
+    </div>
+    <div class="filterbar facetbar">
+      <details class="dd"><summary data-facet-summary="conference">Conference</summary><div class="dd-panel" data-facet="conference"></div></details>
+      <details class="dd"><summary data-facet-summary="status">Status</summary><div class="dd-panel" data-facet="status"></div></details>
+      <details class="dd"><summary data-facet-summary="year">Year</summary><div class="dd-panel" data-facet="year"></div></details>
+      <details class="dd"><summary data-facet-summary="topic">Topic</summary><div class="dd-panel" data-facet="topic"></div></details>
+      <button class="btn-quiet" id="clearSearch" type="button">Clear all</button>
+      <span class="resultcount" id="searchCount"></span>
+    </div>
+    <div class="statline">
+      <span><strong>{workshops.length}</strong> workshop editions</span>
+      <span><strong>{paperCount.toLocaleString('en-US')}</strong> papers</span>
+      <span><strong>{upcomingWithDeadline.length}</strong> open calls</span>
+    </div>
+    <p class="nextline" id="next-deadline" aria-live="off">Next deadline: …</p>
+  </section>
+
+  <!-- search mode -->
+  <section id="searchPanel" hidden>
+    <ol class="pf-results" id="results"></ol>
+    <p class="muted" id="searchStatus" hidden></p>
+  </section>
+
+  <!-- default mode -->
+  <div id="homeDefault">
+    <h2>Upcoming deadlines</h2>
+    {upcomingWithDeadline.length > 0 ? (
+      <section class="board" aria-label="Workshop deadlines">
+        {upcomingWithDeadline.map((w) => <WorkshopRow w={w} />)}
+      </section>
+    ) : (
+      <p class="muted" style="margin-top: 1rem;">
+        No open calls right now — new conference cycles are imported automatically as soon as
+        they're announced. Meanwhile, every past workshop and paper is searchable above.
+      </p>
+    )}
+    {upcomingTba.length > 0 && (
+      <p class="muted small" style="margin-top: 0.9rem;">
+        {upcomingTba.length} more announced workshops haven't published a deadline yet — find
+        them with the search box above, and help <a href={`${REPO_URL}/blob/main/CONTRIBUTING.md`}>add what's missing</a>.
+      </p>
+    )}
+
+    {proposalCalls.length > 0 && (
+      <section>
+        <h2>Organizing a workshop? Proposal deadlines</h2>
+        <ul class="proposal-list">
+          {proposalCalls.map((c) => {
+            const conf = conferenceById.get(c.conference);
+            return (
+              <li>
+                <span class="badge" style={`--conf:${conf?.color ?? '#888'}; padding: 0.28rem 0.7rem;`}>{conf?.name} {c.year}</span>
+                <span class="mono">{c.deadlineWallClock}</span>
+                {c.open ? (
+                  <span class="countdown" data-deadline-ms={c.deadlineUtcMs} data-name={`${conf?.name} ${c.year} workshop proposals`}>—</span>
+                ) : (
+                  <span class="pill deadline_passed">Closed</span>
+                )}
+                <a href={c.url} rel="noopener">Call for proposals ↗</a>
+                {c.notes && <span class="muted small" style="flex-basis: 100%;">{c.notes}</span>}
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
+
+    <aside class="cta">
+      <p>
+        <strong>Missing a workshop?</strong> Add it in about two minutes — fill in the form
+        and a pull request is opened automatically.
+      </p>
+      <span>
+        <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Add a workshop</a>
+      </span>
+    </aside>
+  </div>
+
+  <script src="../scripts/board.js"></script>
+
+  <script is:inline define:vars={{ base, confColors, facetCounts, FW }}>
+    // ---- Unified search over every workshop & paper (Pagefind, faceted) ----
+    const $ = (s) => document.querySelector(s);
+    const input = $('#q');
+    const chipsBox = $('#kwChips');
+    const FACETS = ['conference', 'status', 'year', 'topic'];
+    const FACET_LABEL = { conference: 'Conference', status: 'Status', year: 'Year', topic: 'Topic' };
+    let keywords = [];
+    const sel = Object.fromEntries(FACETS.map((f) => [f, new Set()]));
+    let pfReady = null, pagefind = null;
+    const initialCounts = facetCounts;
+    let facetOptions = null;
+
+    const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
+    function isSearching() {
+      return keywords.length > 0 || input.value.trim() !== '' || FACETS.some((f) => sel[f].size);
+    }
+    function setMode(searching) {
+      $('#homeDefault').hidden = searching;
+      $('#searchPanel').hidden = !searching;
+    }
+
+    function renderChips() {
+      chipsBox.innerHTML = keywords
+        .map((k, i) => `<span class="kw-chip">${esc(k)}<button type="button" class="kw-x" data-i="${i}" aria-label="Remove keyword ${esc(k)}">×</button></span>`)
+        .join('');
+    }
+
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (keywords.length) p.set('q', keywords.join(','));
+      for (const f of FACETS) if (sel[f].size) p.set(f, [...sel[f]].join(','));
+      if (isSearching() && rState.page > 1) p.set('page', String(rState.page));
+      history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
+    }
+
+    async function ensurePagefind() {
+      // Single-flight: concurrent callers (idle prefetch, focus, first click)
+      // share one initialization promise — double-init corrupted the facets.
+      if (!pfReady) {
+        pfReady = (async () => {
+          const pf = await import(`${base}/pagefind/pagefind.js`);
+          await pf.options({ baseUrl: `${base}/` });
+          await pf.mergeIndex(`${base}/pagefind-papers/`, { baseUrl: `${base}/` });
+          await pf.init();
+          pagefind = pf;
+          return pf;
+        })().catch((err) => {
+          const st = $('#searchStatus');
+          st.hidden = false;
+          st.textContent = "Search couldn't load: " + (err?.message || err) + ' (in local dev, run a full build first).';
+          return null;
+        });
+      }
+      return pfReady;
+    }
+
+    function facetSort(f, keys) {
+      if (f === 'year') return keys.sort((a, b) => b.localeCompare(a));
+      if (f === 'status') {
+        const order = ['Open call', 'Deadline unknown', 'Past'];
+        return keys.sort((a, b) => order.indexOf(a) - order.indexOf(b));
+      }
+      return keys.sort();
+    }
+
+    // Counts for facet f reflect every OTHER facet's selection (standard
+    // faceted-search semantics: "what would I get if I also picked this?").
+    function liveCounts() {
+      const out = Object.fromEntries(FACETS.map((f) => [f, {}]));
+      for (const w of FW) {
+        const match = Object.fromEntries(
+          FACETS.map((f) => {
+            const vals = Array.isArray(w[f]) ? w[f] : [w[f]];
+            return [f, sel[f].size === 0 || vals.some((v) => sel[f].has(v))];
+          }),
+        );
+        for (const f of FACETS) {
+          if (FACETS.every((o) => o === f || match[o])) {
+            for (const v of Array.isArray(w[f]) ? w[f] : [w[f]]) out[f][v] = (out[f][v] ?? 0) + 1;
+          }
+        }
+      }
+      return out;
+    }
+
+    function updateLiveCounts() {
+      if (!facetOptions) return;
+      const live = liveCounts();
+      for (const f of FACETS) {
+        for (const v of facetOptions[f]) {
+          const el = document.querySelector(`[data-count="${f}:${CSS.escape(v)}"]`);
+          if (el) el.textContent = `(${live[f][v] ?? 0})`;
+        }
+      }
+    }
+
+    function renderFacetPanels() {
+      if (!facetOptions) return;
+      const live = liveCounts();
+      for (const f of FACETS) {
+        const panel = document.querySelector(`[data-facet="${f}"]`);
+        const counts = live[f] ?? {};
+        panel.innerHTML = facetOptions[f]
+          .map((v) => `<label class="check"><input type="checkbox" data-f="${f}" value="${esc(v)}" ${sel[f].has(v) ? 'checked' : ''}/> ${esc(v)} <span class="muted small" data-count="${f}:${esc(v)}">(${counts[v] ?? 0})</span></label>`)
+          .join('');
+      }
+      updateFacetSummaries();
+    }
+
+    function updateFacetSummaries() {
+      for (const f of FACETS) {
+        const s = document.querySelector(`[data-facet-summary="${f}"]`);
+        s.textContent = sel[f].size ? `${FACET_LABEL[f]} · ${sel[f].size}` : FACET_LABEL[f];
+      }
+    }
+
+    // Per-query cache so page flips don't refetch fragments.
+    let rState = { key: '', groups: [], page: 1, totalWs: 0, totalPaperPages: 0 };
+    let pendingPage = 1; // from a deep link, consumed once
+    const PAGE_SIZE = 50;
+
+    async function runSearch() {
+      setMode(isSearching());
+      if (!isSearching()) { $('#results').innerHTML = ''; $('#searchCount').textContent = ''; rState.key = ''; syncUrl(); return; }
+      const pf = await ensurePagefind();
+      if (!pf) return;
+      const terms = [...keywords, input.value.trim()].filter(Boolean);
+      const filters = {};
+      for (const f of FACETS) if (sel[f].size) filters[f] = { any: [...sel[f]] };
+      const query = terms.join(' ') || null;
+      // Empty query = browsing: order by the build-time key (open calls
+      // first, soonest deadline on top). With keywords, Pagefind's
+      // relevance ranking is what people expect — don't override it.
+      const opts = query === null
+        ? { filters: { ...filters, type: { any: ['Workshops'] } }, sort: { order: 'asc' } }
+        : { filters };
+      const res = await pf.debouncedSearch(query, opts, 220);
+      if (res === null) return; // superseded
+      const key = JSON.stringify([query, filters]);
+      if (key !== rState.key) {
+        if (res.results.length > 150) {
+          $('#results').innerHTML = `<li class="muted">Loading ${res.results.length} results…</li>`;
+        }
+        const data = await Promise.all(res.results.map((r) => r.data()));
+        const groups = new Map();
+        for (const d of data) {
+          const gkey = d.url.split('#')[0];
+          if (!groups.has(gkey)) groups.set(gkey, { ws: null, papers: null });
+          const g = groups.get(gkey);
+          if ((d.filters?.type ?? []).includes('Papers')) g.papers = d;
+          else g.ws = d;
+        }
+        // Headline counts describe exactly what's listed: distinct workshops,
+        // and the individual papers matched inside them. (Previously '2
+        // workshops · 67 with matching papers' counted two different page
+        // types — metadata matches vs papers-section matches — which read
+        // as nonsense next to a 69-entry list.)
+        const hasQuery = query !== null;
+        // Keywords are AND for workshops (the page must contain all of
+        // them). Enforce the same AND per individual paper: a paper counts
+        // only if its own excerpt carries highlight marks for every
+        // keyword. (Previously a papers section containing both words
+        // anywhere listed papers matching EITHER word — so adding a
+        // keyword could inflate the paper count while workshops shrank.)
+        const paperMatchesAll = (excerpt) => {
+          if (terms.length < 2) return true;
+          const marked = [...String(excerpt).matchAll(/<mark>([^<]*)<\/mark>/g)].map((m) => m[1].toLowerCase());
+          return terms.every((t) =>
+            t.toLowerCase().split(/\s+/).every((tok) => marked.some((w) => w.startsWith(tok) || tok.startsWith(w))),
+          );
+        };
+        let nPapers = 0;
+        const entries = [...groups.entries()].map(([gkey, g]) => {
+          let subs = [];
+          if (hasQuery && g.papers) {
+            subs = (g.papers.sub_results || []).filter((sr) => sr.url.includes('#p-') && paperMatchesAll(sr.excerpt));
+            nPapers += subs.length;
+            if (subs.length === 0) {
+              subs = [{
+                title: terms.length > 1 ? 'Keywords matched across different papers →' : 'Matching papers →',
+                url: `${gkey}#papers`,
+                fall: true,
+              }];
+            }
+          }
+          return [gkey, { ...g, subs }];
+        });
+        rState = {
+          key,
+          groups: entries,
+          page: Math.min(Math.max(1, pendingPage), Math.max(1, Math.ceil(entries.length / PAGE_SIZE))),
+          nPapers,
+          hasQuery,
+        };
+        pendingPage = 1;
+      }
+      renderResultsPage();
+    }
+
+    function renderResultsPage() {
+      const { groups, page, nPapers, hasQuery } = rState;
+      const SUBS_PER_WS = 5;
+      const nPages = Math.max(1, Math.ceil(groups.length / PAGE_SIZE));
+      const rows = [];
+      for (const [key, g] of groups.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)) {
+        const src = g.ws ?? g.papers;
+        const conf = src.meta?.conference ?? '';
+        const color = confColors[conf] ?? '#888';
+        const pillClass = { 'Open call': 'upcoming', 'Deadline unknown': 'unknown' }[src.meta?.status] ?? 'past';
+        const wsName = g.ws?.meta?.title ?? String(g.papers?.meta?.title ?? '').replace(/ — accepted papers$/, '');
+        let papersHtml = '';
+        if (hasQuery && g.subs.length) {
+          const subs = g.subs;
+          papersHtml =
+            '<ul class="pf-papers"><li class="pf-subhead">Matching papers</li>' +
+            subs.slice(0, SUBS_PER_WS).map((sr) => sr.fall
+              ? `
+              <li class="pf-xfall"><a target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(sr.title)}</a></li>`
+              : `
+              <li><a class="pf-ptitle" target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(sr.title)}</a><p class="pf-excerpt">${sr.excerpt}</p></li>`).join('') +
+            (subs.length > SUBS_PER_WS
+              ? `<li class="pf-more"><a target="_blank" rel="noopener" href="${esc(key)}#papers">…${subs.length - SUBS_PER_WS} more matching papers →</a></li>`
+              : '') +
+            '</ul>';
+        }
+        rows.push(`
+        <li class="pf-result">
+          <div class="result-meta"><span class="badge" style="--conf:${color}; padding:0.2rem 0.6rem;">${esc(conf)} ${esc(src.meta?.year ?? '')}</span><span class="pill ${pillClass}">${esc(src.meta?.status ?? '')}</span>${src.meta?.status === 'Open call' && src.meta?.deadline ? `<span class="muted" style="font-size:0.82rem;">due ${esc(src.meta.deadline)}</span>` : ''}</div>
+          <a class="pf-title" target="_blank" rel="noopener" href="${esc(key)}">${esc(wsName)}</a>
+          ${g.ws ? `<p class="pf-excerpt">${g.ws.excerpt}</p>` : ''}
+          ${papersHtml}
+        </li>`);
+      }
+      if (nPages > 1) {
+        rows.push(
+          '<li class="pager-row"><nav class="pager" aria-label="Result pages">' +
+            Array.from({ length: nPages }, (_, i) => i + 1)
+              .map((n) => `<button type="button" data-page="${n}" class="${n === page ? 'is-on' : ''}" ${n === page ? 'aria-current="page"' : ''}>${n}</button>`)
+              .join('') +
+            '</nav></li>',
+        );
+      }
+      const n = groups.length;
+      $('#searchCount').textContent = n
+        ? `${n} workshop${n === 1 ? '' : 's'}${hasQuery && nPapers ? ` · ${nPapers} matching paper${nPapers === 1 ? '' : 's'}` : ''}${!hasQuery ? ' · open calls first' : ' · by relevance'}${nPages > 1 ? ` · page ${page}/${nPages}` : ''}`
+        : '';
+      $('#results').innerHTML =
+        rows.join('') ||
+        '<li class="muted">No matches — remove a keyword or filter, or <a href="' + esc(`${base}/about/`) + '">add the workshop</a>.</li>';
+      syncUrl();
+    }
+
+    // events
+    input.addEventListener('input', runSearch);
+    input.addEventListener('focus', ensurePagefind, { once: true });
+    (window.requestIdleCallback || ((fn) => setTimeout(fn, 300)))(() => ensurePagefind());
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ',') {
+        e.preventDefault();
+        const v = input.value.trim().toLowerCase();
+        if (v && !keywords.includes(v)) keywords.push(v);
+        input.value = '';
+        renderChips(); runSearch();
+      } else if (e.key === 'Backspace' && input.value === '' && keywords.length) {
+        keywords.pop(); renderChips(); runSearch();
+      }
+    });
+    $('#results').addEventListener('click', (e) => {
+      const btn = e.target.closest('.pager button[data-page]');
+      if (!btn) return;
+      rState.page = Number(btn.dataset.page);
+      renderResultsPage();
+      document.getElementById('searchPanel').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    chipsBox.addEventListener('click', (e) => {
+      const btn = e.target.closest('.kw-x');
+      if (!btn) return;
+      keywords.splice(Number(btn.dataset.i), 1);
+      renderChips(); runSearch(); input.focus();
+    });
+    document.addEventListener('change', (e) => {
+      const cb = e.target.closest('input[data-f]');
+      if (!cb) return;
+      sel[cb.dataset.f][cb.checked ? 'add' : 'delete'](cb.value);
+      updateLiveCounts(); updateFacetSummaries(); runSearch();
+    });
+    $('#clearSearch').addEventListener('click', () => {
+      keywords = []; input.value = '';
+      for (const f of FACETS) sel[f].clear();
+      renderChips(); renderFacetPanels(); runSearch();
+    });
+    // Facet dropdowns: only one open at a time; click-away closes them.
+    // (Handled on summary click — the <details> toggle event fires
+    // asynchronously, which left two panels visible for a frame.)
+    const dds = [...document.querySelectorAll('.facetbar details.dd')];
+    for (const d of dds) {
+      d.querySelector('summary').addEventListener('click', () => {
+        for (const o of dds) if (o !== d) o.open = false;
+      });
+    }
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.facetbar details.dd')) for (const o of dds) o.open = false;
+    });
+
+    facetOptions = Object.freeze(
+      Object.fromEntries(FACETS.map((f) => [f, Object.freeze(facetSort(f, Object.keys(initialCounts[f] ?? {})))])),
+    );
+
+    // hydrate from URL, THEN render panels so deep-linked boxes draw checked
+    const p = new URLSearchParams(location.search);
+    keywords = (p.get('q') || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+    for (const f of FACETS) for (const v of (p.get(f) || '').split(',').filter(Boolean)) sel[f].add(v);
+    pendingPage = Math.max(1, Number(p.get('page')) || 1);
+    renderChips();
+    renderFacetPanels();
+    if (isSearching()) runSearch();
+  </script>
+</Base>

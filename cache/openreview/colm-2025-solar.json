@@ -1,0 +1,303 @@
+{
+ "venue_id": "colmweb.org/COLM/2025/Workshop/SoLaR",
+ "source_api": "v2",
+ "fetched_at": "2026-06-11T15:51:38.241Z",
+ "paper_count": 25,
+ "papers": [
+  {
+   "title": "A Generative Approach to LLM Harmfulness Mitigation with Red Flag Tokens",
+   "authors": [
+    "Sophie Xhonneux",
+    "David Dobre",
+    "Mehrnaz Mofakhami",
+    "Leo Schwinn",
+    "Gauthier Gidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f2W7YTTCAR",
+   "pdf_url": "https://openreview.net/pdf?id=f2W7YTTCAR"
+  },
+  {
+   "title": "A Study of Large Language Models for Extraction of Themes from Homeless Shelter Case Notes",
+   "authors": [
+    "Madhumitha Selvaraj",
+    "Teale Masrani",
+    "Yani Ioannou",
+    "Geoffrey Messier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YXK5KloMJR",
+   "pdf_url": "https://openreview.net/pdf?id=YXK5KloMJR"
+  },
+  {
+   "title": "Accidental Vulnerability: Factors in Fine-Tuning that Shift Model Safeguards",
+   "authors": [
+    "Punya Syon Pandey",
+    "Samuel Simko",
+    "Kellin Pelrine",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zKhSRlJEmv",
+   "pdf_url": "https://openreview.net/pdf?id=zKhSRlJEmv"
+  },
+  {
+   "title": "CONECUT: Scalable Removal of Preference Redundancy",
+   "authors": [
+    "Purbid bambroo",
+    "Daniel S. Brown",
+    "Ana Marasovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kzq808GLkB",
+   "pdf_url": "https://openreview.net/pdf?id=kzq808GLkB"
+  },
+  {
+   "title": "CourtReasoner: Can LLM Agents Reason Like Judges?",
+   "authors": [
+    "Simeng Han",
+    "Yoshiki Takashima",
+    "Shannon Zejiang Shen",
+    "Chen Liu",
+    "Yixin Liu",
+    "Roque K. Thuo",
+    "Sonia Knowlton",
+    "Ruzica Piskac",
+    "Scott J Shapiro",
+    "Arman Cohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wAV9X7DkAK",
+   "pdf_url": "https://openreview.net/pdf?id=wAV9X7DkAK"
+  },
+  {
+   "title": "Detecting Biased Language in Icelandic: A Named Entity Recognition Approach for Socially Responsible Text Analysis",
+   "authors": [
+    "Steinunn Rut Friðriksdóttir",
+    "Hafsteinn Einarsson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U9dXoU36DQ",
+   "pdf_url": "https://openreview.net/pdf?id=U9dXoU36DQ"
+  },
+  {
+   "title": "IMPersona: Evaluating Individual Level LM Impersonation",
+   "authors": [
+    "Quan Shi",
+    "Carlos E Jimenez",
+    "Stephen Dong",
+    "Brian Seo",
+    "Caden Yao",
+    "Adam Kelch",
+    "Karthik R Narasimhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N8vaJAcVKz",
+   "pdf_url": "https://openreview.net/pdf?id=N8vaJAcVKz"
+  },
+  {
+   "title": "Investigating Model Editing for Unlearning in Large Language Models",
+   "authors": [
+    "Shariqah Hossain",
+    "Lalana Kagal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sV0fo22GDl",
+   "pdf_url": "https://openreview.net/pdf?id=sV0fo22GDl"
+  },
+  {
+   "title": "Large Language Models in the Task of Automatic Validation of Text Classifier Predictions",
+   "authors": [
+    "Aleksandr Tsymbalov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9UBtoZOvpT",
+   "pdf_url": "https://openreview.net/pdf?id=9UBtoZOvpT"
+  },
+  {
+   "title": "LLMs are Vulnerable to Malicious Prompts Disguised as Scientific Language",
+   "authors": [
+    "Yubin Ge",
+    "Neeraja Kirtane",
+    "Hao Peng",
+    "Dilek Hakkani-Tür"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WBn3rZYLho",
+   "pdf_url": "https://openreview.net/pdf?id=WBn3rZYLho"
+  },
+  {
+   "title": "LLMs on Trial: Evaluating Judicial Fairness for Large Language Models",
+   "authors": [
+    "Yiran HU",
+    "Zongyue Xue",
+    "Haitao Li",
+    "Siyuan Zheng",
+    "Qingjing Chen",
+    "Shaochun Wang",
+    "Xihan Zhang",
+    "Ning Zheng",
+    "Yun Liu",
+    "Qingyao Ai",
+    "Yiqun LIU",
+    "Charles L. A. Clarke",
+    "Weixing Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nEa51p6Vc7",
+   "pdf_url": "https://openreview.net/pdf?id=nEa51p6Vc7"
+  },
+  {
+   "title": "MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment",
+   "authors": [
+    "John Timothy Halloran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EARtWMv5aq",
+   "pdf_url": "https://openreview.net/pdf?id=EARtWMv5aq"
+  },
+  {
+   "title": "MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering",
+   "authors": [
+    "Yuexing Hao",
+    "Kumail Alhamoud",
+    "Hyewon Jeong",
+    "Haoran Zhang",
+    "Isha Puri",
+    "Philip Torr",
+    "Mike Schaekermann",
+    "Ariel Dora Stern",
+    "Marzyeh Ghassemi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GgKtVXvC3a",
+   "pdf_url": "https://openreview.net/pdf?id=GgKtVXvC3a"
+  },
+  {
+   "title": "Multi-Turn Jailbreaks Are Simpler Than They Seem",
+   "authors": [
+    "Xiaoxue Yang",
+    "Jaeha Lee",
+    "Anna-Katharina Dick",
+    "Jasper Timm",
+    "Fei Xie",
+    "Diogo Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SLdXRZ1QXI",
+   "pdf_url": "https://openreview.net/pdf?id=SLdXRZ1QXI"
+  },
+  {
+   "title": "Neither Valid nor Reliable? Investigating the Use of LLMs as Judges",
+   "authors": [
+    "Khaoula Chehbouni",
+    "Mohammed Haddou",
+    "Jackie CK Cheung",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SKCdC9JuUP",
+   "pdf_url": "https://openreview.net/pdf?id=SKCdC9JuUP"
+  },
+  {
+   "title": "Poor Alignment and Steerability of Large Language Models: Evidence Using 30,000 College Admissions Essays",
+   "authors": [
+    "Jinsook Lee",
+    "AJ Alvero",
+    "Thorsten Joachims",
+    "Rene F Kizilcec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LTRDBQWVe4",
+   "pdf_url": "https://openreview.net/pdf?id=LTRDBQWVe4"
+  },
+  {
+   "title": "Practical Evaluation of Machine Learning Efficiency Requires Model Life Cycle Assessment",
+   "authors": [
+    "Jared Fernandez",
+    "Clara Na",
+    "Yonatan Bisk",
+    "Constantine Samaras",
+    "Emma Strubell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BdWarHDYeF",
+   "pdf_url": "https://openreview.net/pdf?id=BdWarHDYeF"
+  },
+  {
+   "title": "Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
+   "authors": [
+    "Yubeen Bae",
+    "Minchan Kim",
+    "Jaejin Lee",
+    "Sangbum Kim",
+    "Jaehyung Kim",
+    "Yejin Choi",
+    "Niloofar Mireshghallah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vgjnmaGEnJ",
+   "pdf_url": "https://openreview.net/pdf?id=vgjnmaGEnJ"
+  },
+  {
+   "title": "Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods",
+   "authors": [
+    "Yeonwoo Jang",
+    "Shariqah Hossain",
+    "Ashwin Sreevatsa",
+    "Diogo Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvwYQ4RycZ",
+   "pdf_url": "https://openreview.net/pdf?id=RvwYQ4RycZ"
+  },
+  {
+   "title": "Red Teaming Vision Language Models Under Change",
+   "authors": [
+    "Rebecca Tsekanovskiy",
+    "James Hendler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aK69DKMoF7",
+   "pdf_url": "https://openreview.net/pdf?id=aK69DKMoF7"
+  },
+  {
+   "title": "Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques",
+   "authors": [
+    "Lang Xiong",
+    "Raina Gao",
+    "Alyssa Jeong",
+    "Yicheng Fu",
+    "Kevin Zhu",
+    "Sean O'Brien",
+    "Vasu Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pCHDOIaaOI",
+   "pdf_url": "https://openreview.net/pdf?id=pCHDOIaaOI"
+  },
+  {
+   "title": "The Alignment Game: The Inevitable Conflict of Values in Generative Models",
+   "authors": [
+    "Ali Falahati",
+    "Mohammad Mohammadi Amiri",
+    "Kate Larson",
+    "Lukasz Golab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sYuzzrO39n",
+   "pdf_url": "https://openreview.net/pdf?id=sYuzzrO39n"
+  },
+  {
+   "title": "Towards Attuned AI: Integrating Care Ethics in Large Language Model Development and Alignment",
+   "authors": [
+    "Rayane El Masri",
+    "Aaron J Snoswell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s42bQle1CQ",
+   "pdf_url": "https://openreview.net/pdf?id=s42bQle1CQ"
+  },
+  {
+   "title": "TRUTH: Teaching LLMs to Rerank for Truth in Misinformation Detection",
+   "authors": [
+    "Hao Yu",
+    "Shenyang Huang",
+    "Zachary Yang",
+    "Maximilian Puelma Touzel",
+    "Kellin Pelrine",
+    "Jean-François Godbout",
+    "Reihaneh Rabbany"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S8TNODptF7",
+   "pdf_url": "https://openreview.net/pdf?id=S8TNODptF7"
+  },
+  {
+   "title": "When Do Language Models Endorse Limitations on Universal Human Rights Principles?",
+   "authors": [
+    "Keenan Samway",
+    "Rada Mihalcea",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qcrRfwPUjJ",
+   "pdf_url": "https://openreview.net/pdf?id=qcrRfwPUjJ"
+  }
+ ]
+}

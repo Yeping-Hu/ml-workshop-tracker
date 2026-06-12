@@ -1,0 +1,41 @@
+# Monthly: re-fetch OpenReview paper caches for recent years and open a PR
+# with any changes for the maintainer to review and merge.
+name: Refresh OpenReview paper caches
+
+on:
+  schedule:
+    - cron: '23 4 3 * *' # 3rd of each month, 04:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch recent venues
+        run: node scripts/fetch_openreview.mjs --recent
+      - name: Validate
+        run: node scripts/validate.mjs
+      - name: Publish cache changes (if any)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain cache/openreview)" ]; then
+            echo "No cache changes this month."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cache/openreview
+          git commit -m "data: monthly paper-cache refresh (auto-published)"
+          git push
+          gh workflow run deploy.yml --ref main

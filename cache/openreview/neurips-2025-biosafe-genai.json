@@ -1,0 +1,437 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/BioSafe_GenAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:30.267Z",
+ "paper_count": 38,
+ "papers": [
+  {
+   "title": "A Biosecurity Agent for Lifecycle LLM Biosecurity Alignment",
+   "authors": [
+    "Meiyin Meng",
+    "ZAIXI ZHANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SoGnOiTGAH",
+   "pdf_url": "https://openreview.net/pdf?id=SoGnOiTGAH"
+  },
+  {
+   "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+   "authors": [
+    "Andrew Bo Liu",
+    "Samira Nedungadi",
+    "Bryce Cai",
+    "Alex Kleinman",
+    "Harmon Bhasin",
+    "Seth Donoughe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mo5H9VAr6r",
+   "pdf_url": "https://openreview.net/pdf?id=mo5H9VAr6r"
+  },
+  {
+   "title": "Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools",
+   "authors": [
+    "Bryce Cai",
+    "Geetha Jeyapragasan",
+    "Samira Nedungadi",
+    "Jake Yukich",
+    "Seth Donoughe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fDysOrWaGd",
+   "pdf_url": "https://openreview.net/pdf?id=fDysOrWaGd"
+  },
+  {
+   "title": "AI Bioweapons and the Failure of Inference-Time Filters",
+   "authors": [
+    "Jonathan Feldman",
+    "Tal Feldman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NAr5wbHghS",
+   "pdf_url": "https://openreview.net/pdf?id=NAr5wbHghS"
+  },
+  {
+   "title": "Behavioral Red Teaming: Investigating Future Biosecurity Risk from Agentic AI and De Novo Sequence Design",
+   "authors": [
+    "Akash Arunabharathi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DOsb0ZbtjA",
+   "pdf_url": "https://openreview.net/pdf?id=DOsb0ZbtjA"
+  },
+  {
+   "title": "Benchmarking Biosafety in Generative Protein Design: A Stress-Test Framework for Binder Models",
+   "authors": [
+    "Mingyang Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jf1ee1fyaM",
+   "pdf_url": "https://openreview.net/pdf?id=Jf1ee1fyaM"
+  },
+  {
+   "title": "Benchmarking diffusion models for predicting perturbed cellular responses",
+   "authors": [
+    "Zijun Song",
+    "Changwen Zheng",
+    "Jiangmeng Li",
+    "Linhai Xie",
+    "Yujia Xiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=of2ZA4Zmv6",
+   "pdf_url": "https://openreview.net/pdf?id=of2ZA4Zmv6"
+  },
+  {
+   "title": "Benchmarking Mitigations Against Covert Misuse",
+   "authors": [
+    "Davis Brown",
+    "Mahdi Sabbaghi",
+    "Luze Sun",
+    "Alexander Robey",
+    "George J. Pappas",
+    "Eric Wong",
+    "Hamed Hassani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X8XvMXDs1J",
+   "pdf_url": "https://openreview.net/pdf?id=X8XvMXDs1J"
+  },
+  {
+   "title": "Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models",
+   "authors": [
+    "Boyi Wei",
+    "Zora Che",
+    "Nathaniel Li",
+    "Jasper Götting",
+    "Samira Nedungadi",
+    "Julian Michael",
+    "Summer Yue",
+    "Dan Hendrycks",
+    "Peter Henderson",
+    "Zifan Wang",
+    "Seth Donoughe",
+    "Mantas Mazeika"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N5DhtpYJ21",
+   "pdf_url": "https://openreview.net/pdf?id=N5DhtpYJ21"
+  },
+  {
+   "title": "Biorisk-Shift: Converting AI Vulnerabilities into Biological Threat Vectors",
+   "authors": [
+    "Eun Ro",
+    "Yoshi Nakachi",
+    "Yang Chung",
+    "Steven Basart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MwajedbCfX",
+   "pdf_url": "https://openreview.net/pdf?id=MwajedbCfX"
+  },
+  {
+   "title": "Biosecurity-Aware AI: Agentic Risk Auditing of Soft Prompt Attacks on ESM-Based Variant Predictors",
+   "authors": [
+    "Huixin Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JO8gyyeM9L",
+   "pdf_url": "https://openreview.net/pdf?id=JO8gyyeM9L"
+  },
+  {
+   "title": "Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs",
+   "authors": [
+    "Kyle O'Brien",
+    "Stephen Casper",
+    "Quentin Gregory Anthony",
+    "Tomek Korbak",
+    "Robert Kirk",
+    "Xander Davies",
+    "Ishan Mishra",
+    "Geoffrey Irving",
+    "Yarin Gal",
+    "Stella Biderman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lZGgc845Uz",
+   "pdf_url": "https://openreview.net/pdf?id=lZGgc845Uz"
+  },
+  {
+   "title": "Deep Research Brings Deeper Harm",
+   "authors": [
+    "Shuo Chen",
+    "Zonggen Li",
+    "Zhen Han",
+    "Bailan He",
+    "Tong Liu",
+    "Haokun Chen",
+    "Georg Groh",
+    "Philip Torr",
+    "Volker Tresp",
+    "Jindong Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uZG2ag5CLB",
+   "pdf_url": "https://openreview.net/pdf?id=uZG2ag5CLB"
+  },
+  {
+   "title": "Exposing Critical Safety Failures: A Comprehensive Safety-Weighted Evaluation of LLaMA Models for Biochemical Toxicity Screening",
+   "authors": [
+    "Gokul Srinath Seetha Ram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fpx52DO8oP",
+   "pdf_url": "https://openreview.net/pdf?id=fpx52DO8oP"
+  },
+  {
+   "title": "GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance",
+   "authors": [
+    "ZAIXI ZHANG",
+    "Zhenghong Zhou",
+    "Ruofan Jin",
+    "Le Cong",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HQR89TwSjS",
+   "pdf_url": "https://openreview.net/pdf?id=HQR89TwSjS"
+  },
+  {
+   "title": "Involuntary Jailbreak",
+   "authors": [
+    "Yangyang Guo",
+    "Yangyan Li",
+    "Mohan Kankanhalli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ci3HSCeZ51",
+   "pdf_url": "https://openreview.net/pdf?id=Ci3HSCeZ51"
+  },
+  {
+   "title": "Is My Language Model a Biohazard?",
+   "authors": [
+    "Aldan Creo",
+    "Cristina Correa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tgvew8gkrh",
+   "pdf_url": "https://openreview.net/pdf?id=Tgvew8gkrh"
+  },
+  {
+   "title": "Monte Carlo Expected Threat (MOCET) Scoring",
+   "authors": [
+    "Joseph Kim",
+    "Saahith Potluri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9gmzIH0JJF",
+   "pdf_url": "https://openreview.net/pdf?id=9gmzIH0JJF"
+  },
+  {
+   "title": "Open-weight genome language model safeguards: Assessing robustness via adversarial fine-tuning",
+   "authors": [
+    "James R. M. Black",
+    "Moritz S. Hanke",
+    "Aaron Maiwald",
+    "Tina Hernandez-Boussard",
+    "Oliver M Crook",
+    "Jassi Pannu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bKLp7oaU1L",
+   "pdf_url": "https://openreview.net/pdf?id=bKLp7oaU1L"
+  },
+  {
+   "title": "Perspective: Lessons from Cybersecurity for Biological AI Safety",
+   "authors": [
+    "Azmine Toushik Wasi",
+    "Mst Rafia Islam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AFRn7DfXXE",
+   "pdf_url": "https://openreview.net/pdf?id=AFRn7DfXXE"
+  },
+  {
+   "title": "Position: Biosafety-Critical Adjacent Technologies are Critical for Scalable and Safe Clinical Multi-modal LLM Deployment",
+   "authors": [
+    "Azmine Toushik Wasi",
+    "Md. Iqramul Hoque"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPSMbYw7zx",
+   "pdf_url": "https://openreview.net/pdf?id=oPSMbYw7zx"
+  },
+  {
+   "title": "Position: Without Global Governance, AI-Enabled Biodesign Tools Risk Dangerous Proliferation",
+   "authors": [
+    "Azmine Toushik Wasi",
+    "Mst Rafia Islam",
+    "Rahatun Nesa Priti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x3yCeCEIb3",
+   "pdf_url": "https://openreview.net/pdf?id=x3yCeCEIb3"
+  },
+  {
+   "title": "Prompting Toxicity: Analyzing Biosafety Risks in Genomic Language Models",
+   "authors": [
+    "Akshay Murthy",
+    "Mengmeng Zhang",
+    "Shanmukhi Kannamangalam",
+    "Benjamin Liu",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qKxVD730Xt",
+   "pdf_url": "https://openreview.net/pdf?id=qKxVD730Xt"
+  },
+  {
+   "title": "Property Adherent Molecular Generation with Constrained Discrete Diffusion",
+   "authors": [
+    "Michael Cardei",
+    "Jacob K Christopher",
+    "Bhavya Kailkhura",
+    "Thomas Hartvigsen",
+    "Ferdinando Fioretto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e7SmcN6tRZ",
+   "pdf_url": "https://openreview.net/pdf?id=e7SmcN6tRZ"
+  },
+  {
+   "title": "ProtGPT2 is Not Biosecure by Default",
+   "authors": [
+    "Tia Pope"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BItfXx4ozE",
+   "pdf_url": "https://openreview.net/pdf?id=BItfXx4ozE"
+  },
+  {
+   "title": "Resisting RL Elicitation of Biosecurity Capabilities: Reasoning Models Exploration Hacking on WMDP",
+   "authors": [
+    "Joschka Braun",
+    "Yeonwoo Jang",
+    "Damon Falck",
+    "Roland S. Zimmermann",
+    "David Lindner",
+    "Scott Emmons"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZNZn43baQX",
+   "pdf_url": "https://openreview.net/pdf?id=ZNZn43baQX"
+  },
+  {
+   "title": "RippleBench: Capturing Ripple Effects by Leveraging Existing Knowledge Repositories",
+   "authors": [
+    "Roy Rinberg",
+    "Usha Bhalla",
+    "Igor Shilov",
+    "Rohit Gandikota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rQgPJ3ILLN",
+   "pdf_url": "https://openreview.net/pdf?id=rQgPJ3ILLN"
+  },
+  {
+   "title": "Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization",
+   "authors": [
+    "Filip Sondej",
+    "Yushi Yang",
+    "Mikolaj Kniejski",
+    "Marcel Windys"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7FGZVr6vlK",
+   "pdf_url": "https://openreview.net/pdf?id=7FGZVr6vlK"
+  },
+  {
+   "title": "SafeBench-Seq: A Homology-Clustered, CPU-Only Baseline for Protein Hazard Screening with Physicochemical/Composition Features and Cluster-Aware Confidence Intervals",
+   "authors": [
+    "Muhammad Haris Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Iik48LI1xX",
+   "pdf_url": "https://openreview.net/pdf?id=Iik48LI1xX"
+  },
+  {
+   "title": "SafeGenie: Erasing Dangerous Concepts from Biological Diffusion Models",
+   "authors": [
+    "Arjun Banerjee",
+    "Ethan Tam",
+    "Camille Dang",
+    "David Martinez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hZ6ra8ApLP",
+   "pdf_url": "https://openreview.net/pdf?id=hZ6ra8ApLP"
+  },
+  {
+   "title": "SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models",
+   "authors": [
+    "Jigang Fan",
+    "Zhenghong Zhou",
+    "ZAIXI ZHANG",
+    "Ruofan Jin",
+    "Le Cong",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rAlReAI7bx",
+   "pdf_url": "https://openreview.net/pdf?id=rAlReAI7bx"
+  },
+  {
+   "title": "Securing Dual-Use Pathogen Data of Concern",
+   "authors": [
+    "Doni Bloomfield",
+    "Moritz S. Hanke",
+    "Aaron Maiwald",
+    "James R. M. Black",
+    "Toby Webster",
+    "Tina Hernandez-Boussard",
+    "Allison Berke",
+    "Oliver M Crook",
+    "Jassi Pannu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZgD951FVe7",
+   "pdf_url": "https://openreview.net/pdf?id=ZgD951FVe7"
+  },
+  {
+   "title": "Securing the Language of Life: Inheritable Watermarks from DNA Language Models to Proteins",
+   "authors": [
+    "ZAIXI ZHANG",
+    "Ruofan Jin",
+    "Mengdi Wang",
+    "Le Cong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FRNHz65p25",
+   "pdf_url": "https://openreview.net/pdf?id=FRNHz65p25"
+  },
+  {
+   "title": "Structural Persistence Despite Sequence Redaction: A Biosecurity Evaluation of Protein Language Models",
+   "authors": [
+    "Petr Simecek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Jhj4rG9Oio",
+   "pdf_url": "https://openreview.net/pdf?id=Jhj4rG9Oio"
+  },
+  {
+   "title": "Translating Biomedical Observations into Signal Temporal Logic with LLMs using Structured Feedback",
+   "authors": [
+    "Hanna Krasowski",
+    "Lauren E. Malek",
+    "Sanjit A. Seshia",
+    "Murat Arcak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ns8pgHHrPo",
+   "pdf_url": "https://openreview.net/pdf?id=ns8pgHHrPo"
+  },
+  {
+   "title": "Where to Edit? : Complementary Protein Property Control from Weight and Activation Spaces",
+   "authors": [
+    "Armaity Katki",
+    "Nathan Choi",
+    "Son Sophak Otra",
+    "George Flint",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KiZxvtn3JE",
+   "pdf_url": "https://openreview.net/pdf?id=KiZxvtn3JE"
+  },
+  {
+   "title": "Without Safeguards, AI-Biology Integration Risks Creating Future Pandemics",
+   "authors": [
+    "Dianzhuo Wang",
+    "Marian Huot",
+    "Zechen Zhang",
+    "Kaiyi Jiang",
+    "Eugene Shakhnovich",
+    "Kevin M. Esvelt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x12eUGh0DE",
+   "pdf_url": "https://openreview.net/pdf?id=x12eUGh0DE"
+  },
+  {
+   "title": "Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs",
+   "authors": [
+    "Arjun Damerla",
+    "Anirudh Sekar",
+    "Rachel Sharma",
+    "Mrinal Agarwal",
+    "Jasmine Zhang",
+    "Akitsugu Tanaka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=byGQX45VWD",
+   "pdf_url": "https://openreview.net/pdf?id=byGQX45VWD"
+  }
+ ]
+}

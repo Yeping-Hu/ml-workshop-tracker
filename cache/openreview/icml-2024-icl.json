@@ -1,0 +1,466 @@
+{
+ "venue_id": "ICML.cc/2024/Workshop/ICL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:05.387Z",
+ "paper_count": 39,
+ "papers": [
+  {
+   "title": "A Theoretical Understanding of Self-Correction through In-context Alignment",
+   "authors": [
+    "Yifei Wang",
+    "Yuyang Wu",
+    "Zeming Wei",
+    "Stefanie Jegelka",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XHP3t1AUp3",
+   "pdf_url": "https://openreview.net/pdf?id=XHP3t1AUp3"
+  },
+  {
+   "title": "An In-Context Learning Theoretic Analysis of Chain-of-Thought",
+   "authors": [
+    "Chenxiao Yang",
+    "Zhiyuan Li",
+    "David Wipf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ig9jEr8qCN",
+   "pdf_url": "https://openreview.net/pdf?id=Ig9jEr8qCN"
+  },
+  {
+   "title": "Automatic Domain Adaptation by Transformers in In-Context Learning",
+   "authors": [
+    "Ryuichiro Hataya",
+    "Kota Matsui",
+    "Masaaki Imaizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XWRvcEaqan",
+   "pdf_url": "https://openreview.net/pdf?id=XWRvcEaqan"
+  },
+  {
+   "title": "Can large language models explore in-context?",
+   "authors": [
+    "Akshay Krishnamurthy",
+    "Keegan Harris",
+    "Dylan J Foster",
+    "Cyril Zhang",
+    "Aleksandrs Slivkins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8KpkKsGjED",
+   "pdf_url": "https://openreview.net/pdf?id=8KpkKsGjED"
+  },
+  {
+   "title": "Can LLMs predict the convergence of Stochastic Gradient Descent?",
+   "authors": [
+    "Oussama Zekri",
+    "Abdelhakim Benechehab",
+    "Ievgen Redko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FraikHzMu9",
+   "pdf_url": "https://openreview.net/pdf?id=FraikHzMu9"
+  },
+  {
+   "title": "Can Mamba In-Context Learn Task Mixtures?",
+   "authors": [
+    "Yingcong Li",
+    "Xupeng Wei",
+    "Haonan Zhao",
+    "Taigao Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFEzQwYSQS",
+   "pdf_url": "https://openreview.net/pdf?id=LFEzQwYSQS"
+  },
+  {
+   "title": "Can Transformers Solve Least Squares to High Precision?",
+   "authors": [
+    "Jerry Weihong Liu",
+    "Jessica Grogan",
+    "Owen M Dugan",
+    "Simran Arora",
+    "Atri Rudra",
+    "Christopher Re"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qf4qZgDDj6",
+   "pdf_url": "https://openreview.net/pdf?id=Qf4qZgDDj6"
+  },
+  {
+   "title": "Cross-lingual QA: A Key to Unlocking In-context Cross-lingual Performance",
+   "authors": [
+    "Sunkyoung Kim",
+    "Dayeon Ki",
+    "Yireun Kim",
+    "Jinsik Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CzcCUzJQER",
+   "pdf_url": "https://openreview.net/pdf?id=CzcCUzJQER"
+  },
+  {
+   "title": "DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning",
+   "authors": [
+    "Zijian Zhou",
+    "Xiaoqiang Lin",
+    "Xinyi Xu",
+    "Alok Prakash",
+    "Daniela Rus",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uILj5HPrag",
+   "pdf_url": "https://openreview.net/pdf?id=uILj5HPrag"
+  },
+  {
+   "title": "Fast Training Dataset Attribution via In-Context Learning",
+   "authors": [
+    "Milad fotouhi",
+    "Mohammad Taha Bahadori",
+    "Seyi Feyisetan",
+    "Payman Arabshahi",
+    "David Heckerman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vD0bP7GLHg",
+   "pdf_url": "https://openreview.net/pdf?id=vD0bP7GLHg"
+  },
+  {
+   "title": "Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond",
+   "authors": [
+    "Yingcong Li",
+    "Ankit Singh Rawat",
+    "Samet Oymak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1vM1a7KrC6",
+   "pdf_url": "https://openreview.net/pdf?id=1vM1a7KrC6"
+  },
+  {
+   "title": "Improve Temporal Awareness of LLMs for Domain-general Sequential Recommendation",
+   "authors": [
+    "Zhendong Chu",
+    "Zichao Wang",
+    "Ruiyi Zhang",
+    "Yangfeng Ji",
+    "Hongning Wang",
+    "Tong Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zGyPLns0v7",
+   "pdf_url": "https://openreview.net/pdf?id=zGyPLns0v7"
+  },
+  {
+   "title": "In-Context Generalization to New Tasks From Unlabeled Observation Data",
+   "authors": [
+    "Anthony Liang",
+    "Pavel Czempin",
+    "Yutai Zhou",
+    "Stephen Tu",
+    "Erdem Biyik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M1v4y0rbFS",
+   "pdf_url": "https://openreview.net/pdf?id=M1v4y0rbFS"
+  },
+  {
+   "title": "In-Context Learning from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Training Data Structure",
+   "authors": [
+    "Kevin Christian Wibisono",
+    "Yixin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zvwwnfwxa4",
+   "pdf_url": "https://openreview.net/pdf?id=Zvwwnfwxa4"
+  },
+  {
+   "title": "In-context learning in presence of spurious correlations",
+   "authors": [
+    "Hrayr Harutyunyan",
+    "Rafayel Darbinyan",
+    "Samvel Karapetyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uwkYY4Y8I1",
+   "pdf_url": "https://openreview.net/pdf?id=uwkYY4Y8I1"
+  },
+  {
+   "title": "In-Context Learning of Energy Functions",
+   "authors": [
+    "Rylan Schaeffer",
+    "Mikail Khona",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9QI3E2iaSD",
+   "pdf_url": "https://openreview.net/pdf?id=9QI3E2iaSD"
+  },
+  {
+   "title": "In-Context Principle Learning from Mistakes",
+   "authors": [
+    "Tianjun Zhang",
+    "Aman Madaan",
+    "Luyu Gao",
+    "Steven Zhang",
+    "Swaroop Mishra",
+    "Yiming Yang",
+    "Niket Tandon",
+    "Uri Alon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yV6acl90Fq",
+   "pdf_url": "https://openreview.net/pdf?id=yV6acl90Fq"
+  },
+  {
+   "title": "In-Context Reinforcement Learning Without Optimal Action Labels",
+   "authors": [
+    "Juncheng Dong",
+    "Moyang Guo",
+    "Ethan X Fang",
+    "Zhuoran Yang",
+    "Vahid Tarokh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Dey9wo2qA",
+   "pdf_url": "https://openreview.net/pdf?id=8Dey9wo2qA"
+  },
+  {
+   "title": "In-Context Symmetries: Self-Supervised Learning through Contextual World Models",
+   "authors": [
+    "Sharut Gupta",
+    "Chenyu Wang",
+    "Yifei Wang",
+    "Tommi Jaakkola",
+    "Stefanie Jegelka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y0PQVjMbRf",
+   "pdf_url": "https://openreview.net/pdf?id=y0PQVjMbRf"
+  },
+  {
+   "title": "Learning Fast and Slow: Representations for In-Context Weight Modulation",
+   "authors": [
+    "Andrey Zhmoginov",
+    "Jihwan Lee",
+    "Max Vladymyrov",
+    "Mark Sandler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XDzS9lCfQc",
+   "pdf_url": "https://openreview.net/pdf?id=XDzS9lCfQc"
+  },
+  {
+   "title": "Learning Task Representations from In-Context Learning",
+   "authors": [
+    "Baturay Saglam",
+    "Zhuoran Yang",
+    "Dionysis Kalogerias",
+    "Amin Karbasi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JMvxJeuW8B",
+   "pdf_url": "https://openreview.net/pdf?id=JMvxJeuW8B"
+  },
+  {
+   "title": "Linear Transformers are Versatile In-Context Learners",
+   "authors": [
+    "Max Vladymyrov",
+    "Johannes von Oswald",
+    "Mark Sandler",
+    "Rong Ge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MWV9zfgW9s",
+   "pdf_url": "https://openreview.net/pdf?id=MWV9zfgW9s"
+  },
+  {
+   "title": "LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language",
+   "authors": [
+    "James Requeima",
+    "John F Bronskill",
+    "Dami Choi",
+    "Richard E. Turner",
+    "David Duvenaud"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C60IT3ScL4",
+   "pdf_url": "https://openreview.net/pdf?id=C60IT3ScL4"
+  },
+  {
+   "title": "LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law",
+   "authors": [
+    "Toni J.B. Liu",
+    "Nicolas Boulle",
+    "Raphaël Sarfati",
+    "Christopher Earls"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ANeHJIoF54",
+   "pdf_url": "https://openreview.net/pdf?id=ANeHJIoF54"
+  },
+  {
+   "title": "Localized Zeroth-Order Prompt Optimization",
+   "authors": [
+    "Wenyang Hu",
+    "Yao Shu",
+    "Zongmin Yu",
+    "Zhaoxuan Wu",
+    "Xiaoqiang Lin",
+    "Zhongxiang Dai",
+    "See-Kiong Ng",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xTfvKvVmAM",
+   "pdf_url": "https://openreview.net/pdf?id=xTfvKvVmAM"
+  },
+  {
+   "title": "Many-shot In-Context Learning",
+   "authors": [
+    "Rishabh Agarwal",
+    "Avi Singh",
+    "Lei M Zhang",
+    "Bernd Bohnet",
+    "Luis Rosias",
+    "Stephanie C.Y. Chan",
+    "Biao Zhang",
+    "Aleksandra Faust",
+    "Hugo Larochelle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=goi7DFHlqS",
+   "pdf_url": "https://openreview.net/pdf?id=goi7DFHlqS"
+  },
+  {
+   "title": "Many-Shot In-Context Learning in Multimodal Foundation Models",
+   "authors": [
+    "Yixing Jiang",
+    "Jeremy Andrew Irvin",
+    "Ji Hun Wang",
+    "Muhammad Ahmed Chaudhry",
+    "Jonathan H Chen",
+    "Andrew Y. Ng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j2rKwWXdcz",
+   "pdf_url": "https://openreview.net/pdf?id=j2rKwWXdcz"
+  },
+  {
+   "title": "Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment",
+   "authors": [
+    "Max Wilcoxson",
+    "Morten Svendgård",
+    "Ria Doshi",
+    "Dylan Davis",
+    "Reya Vir",
+    "Anant Sahai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Xku9fR8dR",
+   "pdf_url": "https://openreview.net/pdf?id=8Xku9fR8dR"
+  },
+  {
+   "title": "Probing the Decision Boundaries of In-context  Learning in Large Language Models",
+   "authors": [
+    "Siyan Zhao",
+    "Tung Nguyen",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rfCtCcPuSt",
+   "pdf_url": "https://openreview.net/pdf?id=rfCtCcPuSt"
+  },
+  {
+   "title": "Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars",
+   "authors": [
+    "Zhaoxuan Wu",
+    "Xiaoqiang Lin",
+    "Zhongxiang Dai",
+    "Wenyang Hu",
+    "Yao Shu",
+    "See-Kiong Ng",
+    "Patrick Jaillet",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TYxOXHYU6b",
+   "pdf_url": "https://openreview.net/pdf?id=TYxOXHYU6b"
+  },
+  {
+   "title": "Retrieval & Fine-Tuning for In-Context Tabular Models",
+   "authors": [
+    "Valentin Thomas",
+    "Junwei Ma",
+    "Rasa Hosseinzadeh",
+    "Keyvan Golestan",
+    "Guangwei Yu",
+    "Maksims Volkovs",
+    "Anthony L. Caterini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LN5X5rdlb3",
+   "pdf_url": "https://openreview.net/pdf?id=LN5X5rdlb3"
+  },
+  {
+   "title": "TabMDA: Tabular Manifold Data Augmentation for Any Classifier using Transformers with In-context Subsetting",
+   "authors": [
+    "Andrei Margeloiu",
+    "Adrián Bazaga",
+    "Nikola Simidjievski",
+    "Pietro Lio",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tntVlbDdoD",
+   "pdf_url": "https://openreview.net/pdf?id=tntVlbDdoD"
+  },
+  {
+   "title": "Task Descriptors Help Transformers Learn Linear Models In-Context",
+   "authors": [
+    "Ruomin Huang",
+    "Rong Ge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4SfCI1DJhr",
+   "pdf_url": "https://openreview.net/pdf?id=4SfCI1DJhr"
+  },
+  {
+   "title": "Transformers are Minimax Optimal Nonparametric In-Context Learners",
+   "authors": [
+    "Juno Kim",
+    "Tai Nakamaki",
+    "Taiji Suzuki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WjrKBQTWKp",
+   "pdf_url": "https://openreview.net/pdf?id=WjrKBQTWKp"
+  },
+  {
+   "title": "Transformers as Stochastic Optimizers",
+   "authors": [
+    "Ryuichiro Hataya",
+    "Masaaki Imaizumi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4FRXFBSM2A",
+   "pdf_url": "https://openreview.net/pdf?id=4FRXFBSM2A"
+  },
+  {
+   "title": "Transformers Can Perform Distributionally-robust Optimisation through In-context Learning",
+   "authors": [
+    "Taeyoung Kim",
+    "Hongseok Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MOgg2cEms5",
+   "pdf_url": "https://openreview.net/pdf?id=MOgg2cEms5"
+  },
+  {
+   "title": "Transformers Learn Temporal Difference Methods for In-Context  Reinforcement Learning",
+   "authors": [
+    "Jiuqi Wang",
+    "Ethan H Blaser",
+    "Hadi Daneshmand",
+    "Shangtong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mEqddgqf5w",
+   "pdf_url": "https://openreview.net/pdf?id=mEqddgqf5w"
+  },
+  {
+   "title": "Universal Self-Consistency for Large Language Models",
+   "authors": [
+    "Xinyun Chen",
+    "Renat Aksitov",
+    "Uri Alon",
+    "Jie Ren",
+    "Kefan Xiao",
+    "Pengcheng Yin",
+    "Sushant Prakash",
+    "Charles Sutton",
+    "Xuezhi Wang",
+    "Denny Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LjsjHF7nAN",
+   "pdf_url": "https://openreview.net/pdf?id=LjsjHF7nAN"
+  },
+  {
+   "title": "Verbalized Machine Learning: Revisiting Machine Learning with Language Models",
+   "authors": [
+    "Tim Z. Xiao",
+    "Robert Bamler",
+    "Bernhard Schölkopf",
+    "Weiyang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3kFfldGNwg",
+   "pdf_url": "https://openreview.net/pdf?id=3kFfldGNwg"
+  }
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/MINT",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:45.152Z",
+ "paper_count": 31,
+ "papers": [
+  {
+   "title": "Ablation is Not Enough to Emulate DPO: How Neuron Dynamics Drive Toxicity Reduction",
+   "authors": [
+    "Yushi Yang",
+    "Filip Sondej",
+    "Harry Mayne",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qY1rkqcRuM",
+   "pdf_url": "https://openreview.net/pdf?id=qY1rkqcRuM"
+  },
+  {
+   "title": "Analysing the Residual Stream of Language Models Under Knowledge Conflicts",
+   "authors": [
+    "Yu Zhao",
+    "Xiaotang Du",
+    "Giwon Hong",
+    "Aryo Pradipta Gema",
+    "Alessio Devoto",
+    "Hongru WANG",
+    "Xuanli He",
+    "Kam-Fai Wong",
+    "Pasquale Minervini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Y0xm1q58x",
+   "pdf_url": "https://openreview.net/pdf?id=3Y0xm1q58x"
+  },
+  {
+   "title": "Analyzing (In)Abilities of SAEs via Formal Languages",
+   "authors": [
+    "Abhinav Menon",
+    "Manish Shrivastava",
+    "Ekdeep Singh Lubana",
+    "David Krueger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FDn8YNn6U6",
+   "pdf_url": "https://openreview.net/pdf?id=FDn8YNn6U6"
+  },
+  {
+   "title": "Can sparse autoencoders be used to decompose and interpret steering vectors?",
+   "authors": [
+    "Harry Mayne",
+    "Yushi Yang",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QRpzG4b5dz",
+   "pdf_url": "https://openreview.net/pdf?id=QRpzG4b5dz"
+  },
+  {
+   "title": "Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks",
+   "authors": [
+    "Madeline Brumley",
+    "Joe Kwon",
+    "David Krueger",
+    "Dmitrii Krasheninnikov",
+    "Usman Anwar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VMiWNaWVJ5",
+   "pdf_url": "https://openreview.net/pdf?id=VMiWNaWVJ5"
+  },
+  {
+   "title": "Decomposing and Editing Predictions by Modeling Model Computation",
+   "authors": [
+    "Harshay Shah",
+    "Andrew Ilyas",
+    "Aleksander Madry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DCCtUcyvpm",
+   "pdf_url": "https://openreview.net/pdf?id=DCCtUcyvpm"
+  },
+  {
+   "title": "Dipper: Diversity in Prompts for Producing Large Language Model Ensembles in Reasoning tasks",
+   "authors": [
+    "Gregory Kang Ruey Lau",
+    "Wenyang Hu",
+    "Liu Diwen",
+    "Chen Jizhuo",
+    "See-Kiong Ng",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0wQsCNrlFl",
+   "pdf_url": "https://openreview.net/pdf?id=0wQsCNrlFl"
+  },
+  {
+   "title": "Do LLMs internally ``know'' when they follow instructions?",
+   "authors": [
+    "Juyeon Heo",
+    "Christina Heinze-Deml",
+    "Oussama Elachqar",
+    "Shirley You Ren",
+    "Kwan Ho Ryan Chan",
+    "Udhyakumar Nallasamy",
+    "Andrew Miller",
+    "Jaya Narain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v2tgdAcuDI",
+   "pdf_url": "https://openreview.net/pdf?id=v2tgdAcuDI"
+  },
+  {
+   "title": "Entropy-Based Decoding for Retrieval-Augmented Large Language Models",
+   "authors": [
+    "Zexuan Qiu",
+    "Zijing Ou",
+    "Bin Wu",
+    "Jingjing Li",
+    "Aiwei Liu",
+    "Irwin King"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S5AKkXI2M6",
+   "pdf_url": "https://openreview.net/pdf?id=S5AKkXI2M6"
+  },
+  {
+   "title": "Extracting Paragraphs from LLM Token Activations",
+   "authors": [
+    "Nicky Pochinkov",
+    "Angelo Benoit",
+    "Lovkush Agarwal",
+    "Zainab Ali Majid",
+    "Lucile Ter-Minassian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4b675AHcqq",
+   "pdf_url": "https://openreview.net/pdf?id=4b675AHcqq"
+  },
+  {
+   "title": "GPT-2 Small Fine-Tuned on Logical Reasoning Summarizes Information on Punctuation Tokens",
+   "authors": [
+    "Sonakshi Chauhan",
+    "Atticus Geiger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6gvM1koUTl",
+   "pdf_url": "https://openreview.net/pdf?id=6gvM1koUTl"
+  },
+  {
+   "title": "Is Free Self-Alignment Possible?",
+   "authors": [
+    "Dyah Adila",
+    "Changho Shin",
+    "Yijing Zhang",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ondGQUZTfx",
+   "pdf_url": "https://openreview.net/pdf?id=ondGQUZTfx"
+  },
+  {
+   "title": "Linearly Controlled Language Generation with Performative Guarantees",
+   "authors": [
+    "Emily Cheng",
+    "Marco Baroni",
+    "Carmen Amo Alonso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V2xBBD1Xtu",
+   "pdf_url": "https://openreview.net/pdf?id=V2xBBD1Xtu"
+  },
+  {
+   "title": "Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models",
+   "authors": [
+    "Xinyu Zhou",
+    "Delong Chen",
+    "Samuel Cahyawijaya",
+    "Xufeng Duan",
+    "Zhenguang Cai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BfLvu8JERw",
+   "pdf_url": "https://openreview.net/pdf?id=BfLvu8JERw"
+  },
+  {
+   "title": "LoFiT: Localized Fine-tuning on LLM Representations",
+   "authors": [
+    "Fangcong Yin",
+    "Xi Ye",
+    "Greg Durrett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rtgb9JTnI7",
+   "pdf_url": "https://openreview.net/pdf?id=rtgb9JTnI7"
+  },
+  {
+   "title": "Pay Attention to What Matters",
+   "authors": [
+    "Pedro Luiz Silva",
+    "Fadhel Ayed",
+    "Antonio De Domenico",
+    "Ali Maatouk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F6o58A0OrX",
+   "pdf_url": "https://openreview.net/pdf?id=F6o58A0OrX"
+  },
+  {
+   "title": "Probing the Decision Boundaries of In-context Learning in Large Language Models",
+   "authors": [
+    "Siyan Zhao",
+    "Tung Nguyen",
+    "Aditya Grover"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZpEsmtjMI8",
+   "pdf_url": "https://openreview.net/pdf?id=ZpEsmtjMI8"
+  },
+  {
+   "title": "Representation Tuning",
+   "authors": [
+    "Christopher Ackerman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I42ekFEqVi",
+   "pdf_url": "https://openreview.net/pdf?id=I42ekFEqVi"
+  },
+  {
+   "title": "SCIURus: Shared Circuits for Interpretable Uncertainty Representations in Language Models",
+   "authors": [
+    "Carter Teplica",
+    "Yixin Liu",
+    "Arman Cohan",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hvx0dRfUN6",
+   "pdf_url": "https://openreview.net/pdf?id=Hvx0dRfUN6"
+  },
+  {
+   "title": "Secret Seeds in Text-to-Image Diffusion Models",
+   "authors": [
+    "Katherine Xu",
+    "Lingzhi Zhang",
+    "Jianbo Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FLaxARPNRi",
+   "pdf_url": "https://openreview.net/pdf?id=FLaxARPNRi"
+  },
+  {
+   "title": "Semantic Entropy Neurons: Encoding Semantic Uncertainty in the Latent Space of LLMs",
+   "authors": [
+    "Jiatong Han",
+    "Jannik Kossen",
+    "Muhammed Razzak",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BbZKxrZCNn",
+   "pdf_url": "https://openreview.net/pdf?id=BbZKxrZCNn"
+  },
+  {
+   "title": "Steering Clear: A Systematic Study of Activation Steering in a Toy Setup",
+   "authors": [
+    "Dmitrii Krasheninnikov",
+    "David Krueger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ygvbAGTgzA",
+   "pdf_url": "https://openreview.net/pdf?id=ygvbAGTgzA"
+  },
+  {
+   "title": "Steering Large Language Models using Conceptors: Improving Addition-Based Activation Engineering",
+   "authors": [
+    "Joris Postmus",
+    "Steven Abreu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gyAnAq16HC",
+   "pdf_url": "https://openreview.net/pdf?id=gyAnAq16HC"
+  },
+  {
+   "title": "Steering semantic search with interpretable features from sparse autoencoders",
+   "authors": [
+    "Christine Ye",
+    "Charles O'Neill",
+    "John F Wu",
+    "Kartheik G. Iyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oacksuh7Tu",
+   "pdf_url": "https://openreview.net/pdf?id=oacksuh7Tu"
+  },
+  {
+   "title": "Toward Explanation Bottleneck Models",
+   "authors": [
+    "Shin'ya Yamaguchi",
+    "Kosuke Nishida"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QsF1gbGwpf",
+   "pdf_url": "https://openreview.net/pdf?id=QsF1gbGwpf"
+  },
+  {
+   "title": "Towards Reliable Evaluation of Behavior Steering Interventions in LLMs",
+   "authors": [
+    "Itamar Pres",
+    "Laura Ruis",
+    "Ekdeep Singh Lubana",
+    "David Krueger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7xJcX2gbm9",
+   "pdf_url": "https://openreview.net/pdf?id=7xJcX2gbm9"
+  },
+  {
+   "title": "Uncovering Uncertainty in Transformer Inference",
+   "authors": [
+    "Greyson Brothers",
+    "Willa M. Mannering",
+    "John Winder",
+    "Amber Tien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ceLabCFfxh",
+   "pdf_url": "https://openreview.net/pdf?id=ceLabCFfxh"
+  },
+  {
+   "title": "Understanding Visual Concepts Across Models",
+   "authors": [
+    "Brandon Trabucco",
+    "Max A Gurinas",
+    "Kyle Doherty",
+    "Russ Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FSvMJGzjgR",
+   "pdf_url": "https://openreview.net/pdf?id=FSvMJGzjgR"
+  },
+  {
+   "title": "Unveiling and Manipulating Concepts in Time Series Foundation Models",
+   "authors": [
+    "Michał Wiliński",
+    "Mononito Goswami",
+    "Nina Żukowska",
+    "Willa Potosnak",
+    "Artur Dubrawski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7WHKzcF3dR",
+   "pdf_url": "https://openreview.net/pdf?id=7WHKzcF3dR"
+  },
+  {
+   "title": "WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models",
+   "authors": [
+    "Peng Wang",
+    "Zexi Li",
+    "Ningyu Zhang",
+    "Ziwen Xu",
+    "Yunzhi Yao",
+    "Yong Jiang",
+    "Pengjun Xie",
+    "Fei Huang",
+    "Huajun Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NpoDbZBPZH",
+   "pdf_url": "https://openreview.net/pdf?id=NpoDbZBPZH"
+  },
+  {
+   "title": "Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering",
+   "authors": [
+    "Ido Sobol",
+    "Chenfeng Xu",
+    "Or Litany"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nWLaTkTTIK",
+   "pdf_url": "https://openreview.net/pdf?id=nWLaTkTTIK"
+  }
+ ]
+}

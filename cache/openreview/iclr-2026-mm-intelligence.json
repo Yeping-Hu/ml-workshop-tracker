@@ -1,0 +1,800 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/MM_Intelligence",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:29.004Z",
+ "paper_count": 60,
+ "papers": [
+  {
+   "title": "A Single Image and Multimodality Is All You Need for Novel View Synthesis",
+   "authors": [
+    "Amirhosein Javadi",
+    "Chi-Shiang Gau",
+    "Konstantinos D. Polyzos",
+    "Tara Javidi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cLTqNJPCVY",
+   "pdf_url": "https://openreview.net/pdf?id=cLTqNJPCVY"
+  },
+  {
+   "title": "A Systematic Study of Behavioral Cloning for Scientific Data Annotation",
+   "authors": [
+    "Ishaan Singh Chandok",
+    "Core Francisco Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FmfeSSskVp",
+   "pdf_url": "https://openreview.net/pdf?id=FmfeSSskVp"
+  },
+  {
+   "title": "AdaTS: Adaptive Token Sampling for Efficient Speech Language Models",
+   "authors": [
+    "Sonal Sannigrahi",
+    "Giuseppe Attanasio",
+    "Andre Martins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9XelZ6s8qe",
+   "pdf_url": "https://openreview.net/pdf?id=9XelZ6s8qe"
+  },
+  {
+   "title": "An Efficient Training Pipeline for Reasoning Graphical User Interface Agents",
+   "authors": [
+    "Georgios Pantazopoulos",
+    "Eda B. Ozyigit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XMNElrezif",
+   "pdf_url": "https://openreview.net/pdf?id=XMNElrezif"
+  },
+  {
+   "title": "Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning",
+   "authors": [
+    "Xingang Guo",
+    "Utkarsh Tyagi",
+    "Advait Gosai",
+    "Paula Vergara",
+    "Jayeon Park",
+    "Ernesto Gabriel Hernández Montoya",
+    "Chen Bo Calvin Zhang",
+    "Bin Hu",
+    "Yunzhong He",
+    "Bing Liu",
+    "Rakshith Sharma Srinivasa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JfRtB3Ss1A",
+   "pdf_url": "https://openreview.net/pdf?id=JfRtB3Ss1A"
+  },
+  {
+   "title": "BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers",
+   "authors": [
+    "Justin Deschenaux",
+    "Caglar Gulcehre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tnLmp2m2ZQ",
+   "pdf_url": "https://openreview.net/pdf?id=tnLmp2m2ZQ"
+  },
+  {
+   "title": "Bridging Generative and Predictive Paradigms via Hidden-Self-Distillation",
+   "authors": [
+    "Scott C. Lowe",
+    "Anthony Fuller",
+    "Sageev Oore",
+    "Evan Shelhamer",
+    "Graham W. Taylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YkMrN90inE",
+   "pdf_url": "https://openreview.net/pdf?id=YkMrN90inE"
+  },
+  {
+   "title": "Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?",
+   "authors": [
+    "Apratim Bhattacharyya",
+    "Bicheng Xu",
+    "Sanjay Haresh",
+    "Reza Pourreza",
+    "Litian Liu",
+    "Sunny Panchal",
+    "Pulkit Madan",
+    "Leonid Sigal",
+    "Roland Memisevic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yethQhZVAw",
+   "pdf_url": "https://openreview.net/pdf?id=yethQhZVAw"
+  },
+  {
+   "title": "Can Vision Models Process Physiological Signals? Exploring Visual Tokenization as a Representation Interface",
+   "authors": [
+    "Frida M. E. Westby",
+    "Li Meng",
+    "Anis Yazidi",
+    "Ali Ramezani-Kebrya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xeIZoNyCBe",
+   "pdf_url": "https://openreview.net/pdf?id=xeIZoNyCBe"
+  },
+  {
+   "title": "CARPE: Context-Aware Image Representation Prioritization via Ensemble for Large Vision-Language Models",
+   "authors": [
+    "Dong Hee Lee",
+    "Rui Cai",
+    "Zhe Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NpFsyTmQKP",
+   "pdf_url": "https://openreview.net/pdf?id=NpFsyTmQKP"
+  },
+  {
+   "title": "City Navigation in the Wild: Exploring Emergent Navigation from Web-Scale Knowledge in MLLMs",
+   "authors": [
+    "Dwip Dalal",
+    "Utkarsh Mishra",
+    "Narendra Ahuja",
+    "Nebojsa Jojic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wSPOCW4yt2",
+   "pdf_url": "https://openreview.net/pdf?id=wSPOCW4yt2"
+  },
+  {
+   "title": "CMRAG: Co-modality-based visual document retrieval and question answering",
+   "authors": [
+    "Wang Chen",
+    "Wenhan Yu",
+    "Guanqiang QI",
+    "Weikang Li",
+    "Yang Li",
+    "Lei Sha",
+    "Deguo Xia",
+    "Jizhou Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JoCZZoDnl4",
+   "pdf_url": "https://openreview.net/pdf?id=JoCZZoDnl4"
+  },
+  {
+   "title": "CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks",
+   "authors": [
+    "Songqin Nong",
+    "Xiaoxuan Tang",
+    "Jingxuan Xu",
+    "Sheng Zhou",
+    "JianfengChen",
+    "Tao Jiang",
+    "Wenhao Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cZPE02ZizY",
+   "pdf_url": "https://openreview.net/pdf?id=cZPE02ZizY"
+  },
+  {
+   "title": "Data Provenance for Image Auto-Regressive Generation",
+   "authors": [
+    "Bihe Zhao",
+    "Louis Kerner",
+    "Michel Meintz",
+    "Tameem Bakr",
+    "Franziska Boenisch",
+    "Adam Dziedzic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VP9uKV7Ubm",
+   "pdf_url": "https://openreview.net/pdf?id=VP9uKV7Ubm"
+  },
+  {
+   "title": "DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning",
+   "authors": [
+    "Tianrun Xu",
+    "Haoda Jing",
+    "Ye Li",
+    "Yuquan Wei",
+    "Jun Feng",
+    "Guanyu Chen",
+    "Tianren Zhang",
+    "Jing Liu",
+    "Haichuan Gao",
+    "Feng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZQfuoOR8m6",
+   "pdf_url": "https://openreview.net/pdf?id=ZQfuoOR8m6"
+  },
+  {
+   "title": "Depth Over Specialization in Small Multimodal Transformers",
+   "authors": [
+    "Jakub Mroz",
+    "Henry Ndubuaku"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rMrUJyrKHk",
+   "pdf_url": "https://openreview.net/pdf?id=rMrUJyrKHk"
+  },
+  {
+   "title": "Diagnosing the Curse: A Scale-Consistent and All-Phase Metric for Modality Bias in MLLMs",
+   "authors": [
+    "Jinlin He",
+    "Chenfei Liao",
+    "Xu Zheng",
+    "Mengyu Jin",
+    "Xuming Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GdNIawAbXN",
+   "pdf_url": "https://openreview.net/pdf?id=GdNIawAbXN"
+  },
+  {
+   "title": "DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone",
+   "authors": [
+    "Vaibhav Singh",
+    "Oleksiy Ostapenko",
+    "Pierre-Andre Noel",
+    "Eugene Belilovsky",
+    "Torsten Scholak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Q6TiBFiXy",
+   "pdf_url": "https://openreview.net/pdf?id=4Q6TiBFiXy"
+  },
+  {
+   "title": "DISCO: Document Intelligence Suite for COmparative Evaluation",
+   "authors": [
+    "Kenza Benkirane",
+    "Martin Asenov",
+    "Daniel Goldwater",
+    "Aneiss Ghodsi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bb9vBASVzX",
+   "pdf_url": "https://openreview.net/pdf?id=Bb9vBASVzX"
+  },
+  {
+   "title": "Does Semantic Noise Initialization Transfer from Images to Videos? A Paired Diagnostic Study",
+   "authors": [
+    "Yixiao Jing",
+    "Chaoyu Zhang",
+    "Zixuan Zhong",
+    "Peizhou Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NtQUhch0w4",
+   "pdf_url": "https://openreview.net/pdf?id=NtQUhch0w4"
+  },
+  {
+   "title": "Efficient Multimodal Generation via Redundancy-Aware Mixture-of-Experts",
+   "authors": [
+    "Raman Dutt",
+    "Harleen Hanspal",
+    "Petru-Daniel Tudosiu",
+    "Alexander Black",
+    "Yongxin Yang",
+    "Steven McDonagh",
+    "Sarah Parisot"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jlYSLZ4DFB",
+   "pdf_url": "https://openreview.net/pdf?id=jlYSLZ4DFB"
+  },
+  {
+   "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction",
+   "authors": [
+    "Qineng Wang",
+    "Wenlong Huang",
+    "Yu Zhou",
+    "Hang Yin",
+    "Tianwei Bao",
+    "Jianwen Lyu",
+    "Weiyu Liu",
+    "Ruohan Zhang",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F5kadadRQ5",
+   "pdf_url": "https://openreview.net/pdf?id=F5kadadRQ5"
+  },
+  {
+   "title": "Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs",
+   "authors": [
+    "Subham Sekhar Sahoo",
+    "Zhihan Yang",
+    "Yash Akhauri",
+    "Johnna Liu",
+    "Deepansha Singh",
+    "Zhoujun Cheng",
+    "Zhengzhong Liu",
+    "Eric P. Xing",
+    "John Thickstun",
+    "Arash Vahdat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CKrPJveQIr",
+   "pdf_url": "https://openreview.net/pdf?id=CKrPJveQIr"
+  },
+  {
+   "title": "Fine-Tuning Masked Diffusion for Provable Self-Correction",
+   "authors": [
+    "Jaeyeon Kim",
+    "Seunggeun Kim",
+    "Taekyun Lee",
+    "David Z. Pan",
+    "Hyeji Kim",
+    "Sham M. Kakade",
+    "Sitan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jAnyF5OzvM",
+   "pdf_url": "https://openreview.net/pdf?id=jAnyF5OzvM"
+  },
+  {
+   "title": "GHVL: Geometry-Grounded Hyperbolic Vision-Language Models for Hierarchical Multimodal Representation Learning",
+   "authors": [
+    "Kathy Wu",
+    "Sarthak Srivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lt0efMQ3uN",
+   "pdf_url": "https://openreview.net/pdf?id=Lt0efMQ3uN"
+  },
+  {
+   "title": "GRAID: Enhancing Spatial Reasoning of VLMs through High-Fidelity Data Generation",
+   "authors": [
+    "Karim Elmaaroufi",
+    "Liheng Lai",
+    "Justin Svegliato",
+    "Yutong Bai",
+    "Sanjit A. Seshia",
+    "Matei Zaharia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UpypsAzuPh",
+   "pdf_url": "https://openreview.net/pdf?id=UpypsAzuPh"
+  },
+  {
+   "title": "Growing Visual Generative Capacity for Pre-Trained MLLMs",
+   "authors": [
+    "Hanyu Wang",
+    "Jiaming Han",
+    "Ziyan Yang",
+    "Qi Zhao",
+    "Shanchuan Lin",
+    "Xiangyu Yue",
+    "Abhinav Shrivastava",
+    "Zhenheng Yang",
+    "Hao Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5aQ0apIvlC",
+   "pdf_url": "https://openreview.net/pdf?id=5aQ0apIvlC"
+  },
+  {
+   "title": "INDEX-PRESERVING LIGHTWEIGHT TOKEN PRUNING FOR EFFICIENT DOCUMENT UNDERSTANDING IN VISION-LANGUAGE MODELS",
+   "authors": [
+    "Jaemin Son",
+    "Sujin Choi",
+    "Inyong Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7uERGq4rDc",
+   "pdf_url": "https://openreview.net/pdf?id=7uERGq4rDc"
+  },
+  {
+   "title": "Infinity and Beyond: Compositional Alignment in VAR and Diffusion T2I Models",
+   "authors": [
+    "Hossein Shahabadi",
+    "Niki Sepasian",
+    "Arash Marioriyad",
+    "Ali Sharifi-Zarchi",
+    "Mahdieh Soleymani Baghshah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VQYTs3Ymtu",
+   "pdf_url": "https://openreview.net/pdf?id=VQYTs3Ymtu"
+  },
+  {
+   "title": "Is Extending Modality The Right Path Towards Omni-Modality?",
+   "authors": [
+    "Tinghui Zhu",
+    "Kai Zhang",
+    "Muhao Chen",
+    "Yu Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h2QEBUFF5h",
+   "pdf_url": "https://openreview.net/pdf?id=h2QEBUFF5h"
+  },
+  {
+   "title": "LanteRn: Latent Visual Structured Reasoning",
+   "authors": [
+    "Andre G. Viveiros",
+    "Nuno Gonçalves",
+    "Matthias Lindemann",
+    "Andre Martins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sX9ldaj5xX",
+   "pdf_url": "https://openreview.net/pdf?id=sX9ldaj5xX"
+  },
+  {
+   "title": "MapQA: A Map-Question-Answering Benchmark for Visual Language Model Reasoning",
+   "authors": [
+    "Christian Michael Arnold",
+    "Andrew Alini",
+    "Jonathan Wang",
+    "Pieter M Feenstra",
+    "Conner Arnold",
+    "Jan DeWitt",
+    "Natalie C Ritsema",
+    "Jung Hyun Yae",
+    "Boris Katz",
+    "Andrei Barbu",
+    "Brian Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EEKJXEJJKK",
+   "pdf_url": "https://openreview.net/pdf?id=EEKJXEJJKK"
+  },
+  {
+   "title": "MLLMs are Deeply Affected by Modality Bias",
+   "authors": [
+    "Xu Zheng",
+    "Chenfei Liao",
+    "Yuqian Fu",
+    "Kaiyu Lei",
+    "Yuanhuiyi Lyu",
+    "Lutao Jiang",
+    "Bin Ren",
+    "Jialei Chen",
+    "Jiawen Wang",
+    "Chengxin Li",
+    "Linfeng Zhang",
+    "Danda Pani Paudel",
+    "Xuanjing Huang",
+    "Yu-Gang Jiang",
+    "Nicu Sebe",
+    "Dacheng Tao",
+    "Luc Van Gool",
+    "Xuming Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4iMmzvNxcz",
+   "pdf_url": "https://openreview.net/pdf?id=4iMmzvNxcz"
+  },
+  {
+   "title": "Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding",
+   "authors": [
+    "Emmanouil Zaranis",
+    "António Farinhas",
+    "Saul Santos",
+    "Beatriz Canaverde",
+    "Miguel Moura Ramos",
+    "Wafaa Mohammed",
+    "Giuseppe Attanasio",
+    "Chrysoula Zerva",
+    "Nithin Sivakumaran",
+    "Shoubin Yu",
+    "Elena Bueno-Benito",
+    "Aditya K Surikuchi",
+    "Ben Peters",
+    "Danae Sanchez Villegas",
+    "Andre G. Viveiros",
+    "Pavlo Vasylenko",
+    "Baohao Liao",
+    "Sonal Sannigrahi",
+    "Jaehong Yoon",
+    "Elias Stengel-Eskin",
+    "Mariella Dimiccoli",
+    "Oswald Lanz",
+    "Alessandro Suglia",
+    "Mohit Bansal",
+    "Sandro Pezzelle",
+    "Stella Frank",
+    "Vlad Niculae",
+    "Desmond Elliott",
+    "Raffaella Bernardi",
+    "Raquel Fernández",
+    "Andre Martins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i58ycqyHiV",
+   "pdf_url": "https://openreview.net/pdf?id=i58ycqyHiV"
+  },
+  {
+   "title": "Multimodal Language Models Cannot Spot Spatial Inconsistencies",
+   "authors": [
+    "Om Khangaonkar",
+    "Hadi J. Rad",
+    "Hamed Pirsiavash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I7eLnpJfSn",
+   "pdf_url": "https://openreview.net/pdf?id=I7eLnpJfSn"
+  },
+  {
+   "title": "Neural Signals Generate Clinical Notes in the Wild",
+   "authors": [
+    "Jathurshan Pradeepkumar",
+    "Zheng Chen",
+    "Jimeng Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OgSSKlnfBQ",
+   "pdf_url": "https://openreview.net/pdf?id=OgSSKlnfBQ"
+  },
+  {
+   "title": "Next-Scale Autoregression on Spectrograms for Sound Generation",
+   "authors": [
+    "Eleonora Ristori",
+    "Luca Bindini",
+    "Paolo Frasconi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nLr5craHWh",
+   "pdf_url": "https://openreview.net/pdf?id=nLr5craHWh"
+  },
+  {
+   "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
+   "authors": [
+    "Bryce Grant",
+    "Xijia Zhao",
+    "Peng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w8Mw9zJt1y",
+   "pdf_url": "https://openreview.net/pdf?id=w8Mw9zJt1y"
+  },
+  {
+   "title": "Reinforce Your Layout: Online Reward-Guided Diffusion for Layout-to-lmage Generation",
+   "authors": [
+    "Ruijie Li",
+    "Xiaojun Shan",
+    "Zheng Ding",
+    "Zeyuan Chen",
+    "Zhuowen Tu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=awfx7eNf5D",
+   "pdf_url": "https://openreview.net/pdf?id=awfx7eNf5D"
+  },
+  {
+   "title": "Rethinking Visual Information Processing in Multimodal LLMs",
+   "authors": [
+    "Dongwan Kim",
+    "Viresh Ranjan",
+    "Takashi Nagata",
+    "Arnab Dhua",
+    "Amit Kumar K C"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0mHpRxbotY",
+   "pdf_url": "https://openreview.net/pdf?id=0mHpRxbotY"
+  },
+  {
+   "title": "RigidBench: Evaluating Rigid-Body Physics in Video Generation Models",
+   "authors": [
+    "Swarnim Jain",
+    "Shangzhe Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=19bu6d4HcO",
+   "pdf_url": "https://openreview.net/pdf?id=19bu6d4HcO"
+  },
+  {
+   "title": "Scaling Next-Brain-Token Prediction for MEG",
+   "authors": [
+    "Richard Csaky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nfzob9aK4E",
+   "pdf_url": "https://openreview.net/pdf?id=Nfzob9aK4E"
+  },
+  {
+   "title": "SCOPE: Selective Cross-modal Orchestration of Visual Perception Experts",
+   "authors": [
+    "Tianyu Zhang",
+    "Suyuchen Wang",
+    "Chao Wang",
+    "Juan A. Rodriguez",
+    "Ahmed Masry",
+    "Xiangru Jian",
+    "Yoshua Bengio",
+    "Perouz Taslakian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eivEfMhJJb",
+   "pdf_url": "https://openreview.net/pdf?id=eivEfMhJJb"
+  },
+  {
+   "title": "Seeing to Generalize: How Visual Data Corrects Binding Shortcuts",
+   "authors": [
+    "Nicolas Buzeta",
+    "Felipe del Rio",
+    "Cristian Hinostroza",
+    "Denis Parra",
+    "Hans Lobel",
+    "Rodrigo Toro Icarte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=plXkULS4q4",
+   "pdf_url": "https://openreview.net/pdf?id=plXkULS4q4"
+  },
+  {
+   "title": "StarFlow: Generating Structured Workflow Outputs From Sketch Images",
+   "authors": [
+    "Patrice Bechard",
+    "Chao Wang",
+    "Amirhossein Abaskohi",
+    "Juan A. Rodriguez",
+    "Christopher Pal",
+    "David Vazquez",
+    "Spandana Gella",
+    "Sai Rajeswar",
+    "Perouz Taslakian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1V6S6lGQ0X",
+   "pdf_url": "https://openreview.net/pdf?id=1V6S6lGQ0X"
+  },
+  {
+   "title": "Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training",
+   "authors": [
+    "Jaeyeon Kim",
+    "Jonathan Geuter",
+    "David Alvarez-Melis",
+    "Sham M. Kakade",
+    "Sitan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UIcRg65DF0",
+   "pdf_url": "https://openreview.net/pdf?id=UIcRg65DF0"
+  },
+  {
+   "title": "The Efficiency Gap in Byte Modeling",
+   "authors": [
+    "Celine Lee",
+    "Jing Nathan Yan",
+    "Chen Liang",
+    "Jiaxin Shi",
+    "Yin Zhang",
+    "Jeremiah Zhe Liu",
+    "Pengcheng Yin",
+    "Ed H. Chi",
+    "Fernando Pereira",
+    "Derek Zhiyuan Cheng",
+    "Alexander M Rush",
+    "Ruoxi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CWPqTqLOeG",
+   "pdf_url": "https://openreview.net/pdf?id=CWPqTqLOeG"
+  },
+  {
+   "title": "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings",
+   "authors": [
+    "Aakriti Agrawal",
+    "Gouthaman KV",
+    "Rohith Aralikatti",
+    "Gauri Jagatap",
+    "Jiaxin Yuan",
+    "Vijay Kamarshi",
+    "Andrea Fanelli",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hwt4WXtKXM",
+   "pdf_url": "https://openreview.net/pdf?id=hwt4WXtKXM"
+  },
+  {
+   "title": "TowerVision: Understanding and Improving Multilinguality in Vision-Language Models",
+   "authors": [
+    "Andre G. Viveiros",
+    "Patrick Fernandes",
+    "Saul Santos",
+    "Sonal Sannigrahi",
+    "Emmanouil Zaranis",
+    "Nuno M Guerreiro",
+    "Amin Farajian",
+    "Graham Neubig",
+    "Andre Martins"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8U58maC7gk",
+   "pdf_url": "https://openreview.net/pdf?id=8U58maC7gk"
+  },
+  {
+   "title": "UniFusion: Vision-Language Model as Unified Encoder in Image Generation and Editing",
+   "authors": [
+    "Yu-Teng Li",
+    "Manuel Brack",
+    "Sudeep Katakol",
+    "Hareesh Ravi",
+    "Ajinkya Kale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V9l4tDFYjf",
+   "pdf_url": "https://openreview.net/pdf?id=V9l4tDFYjf"
+  },
+  {
+   "title": "Unifying Autoregressive and Discrete Diffusion Language Modeling via Cross-Regressive Decoding",
+   "authors": [
+    "Dmitry Abulkhanov",
+    "Daniil Strizhakov",
+    "Maxim Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7mdoWMtX8v",
+   "pdf_url": "https://openreview.net/pdf?id=7mdoWMtX8v"
+  },
+  {
+   "title": "Vid2Sid: Videos Can Help Close the Sim2Real Gap",
+   "authors": [
+    "Kevin Qiu",
+    "Yu Zhang",
+    "Marek Cygan",
+    "Josie Hughes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0o7j2gJQqW",
+   "pdf_url": "https://openreview.net/pdf?id=0o7j2gJQqW"
+  },
+  {
+   "title": "VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents",
+   "authors": [
+    "Zirui Wang",
+    "Junyi Zhang",
+    "Jiaxin Ge",
+    "Long Lian",
+    "Letian Fu",
+    "Lisa Dunlap",
+    "Ken Goldberg",
+    "XuDong Wang",
+    "Ion Stoica",
+    "David M. Chan",
+    "Sewon Min",
+    "Joseph E. Gonzalez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a1BPrP50zh",
+   "pdf_url": "https://openreview.net/pdf?id=a1BPrP50zh"
+  },
+  {
+   "title": "Visual Representation Alignment for Multimodal Large Language Models",
+   "authors": [
+    "Heeji Yoon",
+    "Jaewoo Jung",
+    "Junwan Kim",
+    "Hyungyu Choi",
+    "Heeseong Shin",
+    "Sangbeom Lim",
+    "Honggyu An",
+    "Chaehyun Kim",
+    "Jisang Han",
+    "Donghyun Kim",
+    "Chanho Eom",
+    "Sunghwan Hong",
+    "Seungryong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OAQO08QC3V",
+   "pdf_url": "https://openreview.net/pdf?id=OAQO08QC3V"
+  },
+  {
+   "title": "Visuals Lie, Consistency Speaks: Disentangling Spatial Attention from Reliability in Vision-Language Models",
+   "authors": [
+    "Logan Mann",
+    "Yi Xia",
+    "Ajit Saravanan",
+    "Ishan Dave",
+    "Saadullah Ismail",
+    "Shikhar Shiromani",
+    "Emily Huang",
+    "Ruizhe Li",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fyDhQ2dKdw",
+   "pdf_url": "https://openreview.net/pdf?id=fyDhQ2dKdw"
+  },
+  {
+   "title": "VLM-RobustBench: A Robustness Benchmark for Vision-Language Models",
+   "authors": [
+    "Rohit Saxena",
+    "Alessandro Suglia",
+    "Pasquale Minervini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ljDfM5KtW1",
+   "pdf_url": "https://openreview.net/pdf?id=ljDfM5KtW1"
+  },
+  {
+   "title": "Worse Together: Understanding the Brittleness of Multimodal Models on Rare Concept Pairs",
+   "authors": [
+    "Helen Qu",
+    "Sang Michael Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qg3QTNp9Cy",
+   "pdf_url": "https://openreview.net/pdf?id=qg3QTNp9Cy"
+  },
+  {
+   "title": "You Can Learn Tokenization End-to-End with Reinforcement Learning",
+   "authors": [
+    "Sam Dauncey",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q8ATsdnN7V",
+   "pdf_url": "https://openreview.net/pdf?id=Q8ATsdnN7V"
+  },
+  {
+   "title": "Your Autoregressive Visual Model is a Natively Multi-Token Predictor : Speculative Coupled Decoding for Fast Autoregressive Visual Generation",
+   "authors": [
+    "Junhyuk So",
+    "Hyunho Kook",
+    "Chaeyeon Jang",
+    "Eunhyeok Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eSufe2qcFf",
+   "pdf_url": "https://openreview.net/pdf?id=eSufe2qcFf"
+  },
+  {
+   "title": "Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in",
+   "authors": [
+    "Xiaoqian Shen",
+    "Min-Hung Chen",
+    "Yu-Chiang Frank Wang",
+    "Mohamed Elhoseiny",
+    "Ryo Hachiuma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uGrsXWUxBo",
+   "pdf_url": "https://openreview.net/pdf?id=uGrsXWUxBo"
+  }
+ ]
+}

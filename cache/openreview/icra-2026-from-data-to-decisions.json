@@ -1,0 +1,444 @@
+{
+ "venue_id": "IEEE.org/ICRA/2026/Workshop/From_Data_to_Decisions",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T19:09:48.897Z",
+ "paper_count": 32,
+ "papers": [
+  {
+   "title": "A Social-interaction World Model Pipeline: Multimodal Data Acquisition for Capturing Bifurcating Social Intents in HRI",
+   "authors": [
+    "Yutaka Nakamura",
+    "Xu Chenfei",
+    "YUMA KABE",
+    "Kaoruko Shinkawa",
+    "Yuya Okadome",
+    "Yoshihiro Nakata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n5HU4ITXt3",
+   "pdf_url": "https://openreview.net/pdf?id=n5HU4ITXt3"
+  },
+  {
+   "title": "AbsVLA: Learning Robust Primitive Manipulation Skills for VLA Models in Object-Centric Abstracted States",
+   "authors": [
+    "Meiqi Shao",
+    "Zackory Erickson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gllnM5b9dg",
+   "pdf_url": "https://openreview.net/pdf?id=gllnM5b9dg"
+  },
+  {
+   "title": "AR-VLA: True Autoregressive Action Expert for Vision–Language–Action Models",
+   "authors": [
+    "Yutong Hu",
+    "Jan-Nico Zaech",
+    "Nikolay Nikolov",
+    "Yuanqi Yao",
+    "Sombit Dey",
+    "Giuliano Albanese",
+    "Renaud Detry",
+    "Luc Van Gool",
+    "Danda Pani Paudel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yHtCbAjk7O",
+   "pdf_url": "https://openreview.net/pdf?id=yHtCbAjk7O"
+  },
+  {
+   "title": "CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion",
+   "authors": [
+    "Ralf Römer",
+    "Yi Zhang",
+    "Yuming Li",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4qsn6fQ536",
+   "pdf_url": "https://openreview.net/pdf?id=4qsn6fQ536"
+  },
+  {
+   "title": "Closing The Performance Gap Between Zero-shot And Post-trained Reward Models",
+   "authors": [
+    "Marius Memmel",
+    "Ankit Goyal",
+    "Dieter Fox",
+    "Abhishek Gupta",
+    "Anqi Li",
+    "Fabio Ramos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J7V1TCft3i",
+   "pdf_url": "https://openreview.net/pdf?id=J7V1TCft3i"
+  },
+  {
+   "title": "CRISP - Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation",
+   "authors": [
+    "Daniel San José Pro",
+    "Oliver Hausdörfer",
+    "Ralf Römer",
+    "Maximilian Dösch",
+    "Martin Schuck",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=94gEsH7m1f",
+   "pdf_url": "https://openreview.net/pdf?id=94gEsH7m1f"
+  },
+  {
+   "title": "DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning",
+   "authors": [
+    "Alvin Zhu",
+    "Mingzhang Zhu",
+    "Beom Jun Kim",
+    "Jose Victor S. H. Ramos",
+    "Yike Shi",
+    "Yufeng Wu",
+    "Raayan Dhar",
+    "Fuyi Yang",
+    "Ruochen Hou",
+    "Hanzhang Fang",
+    "Quanyou Wang",
+    "Yuchen Cui",
+    "Dennis Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N7fHNog4ce",
+   "pdf_url": "https://openreview.net/pdf?id=N7fHNog4ce"
+  },
+  {
+   "title": "Energy-Based Action Heads Know When They Don’t Know",
+   "authors": [
+    "Jalal Naghiyev",
+    "Kirill Khvastow",
+    "Alexi Gladstone",
+    "Ralf Römer",
+    "Heng Ji",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iivQgw2npm",
+   "pdf_url": "https://openreview.net/pdf?id=iivQgw2npm"
+  },
+  {
+   "title": "EVE: A Generator-Verifier System for Generative Policies",
+   "authors": [
+    "Yusuf Ali",
+    "Gryphon Patlin",
+    "Karthik Kothuri",
+    "Jeremiah Coholich",
+    "Muhammad Zubair Irshad",
+    "Wuwei Liang",
+    "Zsolt Kira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D4RYmWxJsk",
+   "pdf_url": "https://openreview.net/pdf?id=D4RYmWxJsk"
+  },
+  {
+   "title": "Execution-Aware Task Planning for Language-Conditioned Bimanual Manipulation",
+   "authors": [
+    "Emanuele Cuzzocrea",
+    "Giuseppina Iannotti",
+    "Luca Rossini",
+    "Arturo Laurenzi",
+    "Luca Muratore",
+    "Nikolaos G. Tsagarakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HRX9blXN5S",
+   "pdf_url": "https://openreview.net/pdf?id=HRX9blXN5S"
+  },
+  {
+   "title": "From Aerial Twins to VLA Tuples: A Zero-NRE Data Factory with Caption Drift Evaluation",
+   "authors": [
+    "Anuj Gupta",
+    "Sourang Sri hari",
+    "Dibyendusekhar Goswami",
+    "Michael Vu",
+    "Abhishek Shinde",
+    "Mayank Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dpf5OhL6gZ",
+   "pdf_url": "https://openreview.net/pdf?id=dpf5OhL6gZ"
+  },
+  {
+   "title": "From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies",
+   "authors": [
+    "Ralf Römer",
+    "Julian Balletshofer",
+    "Jakob Thumm",
+    "Marco Pavone",
+    "Angela P. Schoellig",
+    "Matthias Althoff"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5TW0tqxJlS",
+   "pdf_url": "https://openreview.net/pdf?id=5TW0tqxJlS"
+  },
+  {
+   "title": "GAM: Generalized Action Model for Robotic Manipulation",
+   "authors": [
+    "Uday Kamal",
+    "Jeffrey Jiang",
+    "Chaitanya Mitash",
+    "Weiyao Wang",
+    "Ikechukwu Obi-Okoye",
+    "Che Wang",
+    "Aatif Jiwani",
+    "Huitan Mao",
+    "Hai Huu Nguyen",
+    "Michel Breyer",
+    "Wenyu Xia",
+    "Nikhil Mishra",
+    "Kostas Bekris",
+    "Kapil Katyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zXECJjZL0U",
+   "pdf_url": "https://openreview.net/pdf?id=zXECJjZL0U"
+  },
+  {
+   "title": "Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control",
+   "authors": [
+    "Huseyin ARSLAN",
+    "Ozgur Erkent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k63Vehh2LR",
+   "pdf_url": "https://openreview.net/pdf?id=k63Vehh2LR"
+  },
+  {
+   "title": "How VLAs Fail Differently: Black-Box Action Monitoring Reveals Architecture-Specific Failure Signatures",
+   "authors": [
+    "Krishnam Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4T5EOTdjVX",
+   "pdf_url": "https://openreview.net/pdf?id=4T5EOTdjVX"
+  },
+  {
+   "title": "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation",
+   "authors": [
+    "Zhenyu Zhao",
+    "Hongyi Jing",
+    "Xiawei Liu",
+    "Jiageng Mao",
+    "Abha Jha",
+    "Hanwen Yang",
+    "Rong Xue",
+    "Sergey Zakharov",
+    "Vitor Campagnolo Guizilini",
+    "Yue Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dVmx4u2U0c",
+   "pdf_url": "https://openreview.net/pdf?id=dVmx4u2U0c"
+  },
+  {
+   "title": "Inside the Reasoning Menu: Discrete Failure Bands in Driving VLAs Under Sensor Perturbations",
+   "authors": [
+    "Abhinaw Priyadershi",
+    "Jelena Frtunikj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P0Dcoamyf7",
+   "pdf_url": "https://openreview.net/pdf?id=P0Dcoamyf7"
+  },
+  {
+   "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation",
+   "authors": [
+    "Abhay Deshpande",
+    "Maya Guru",
+    "Rose Hendrix",
+    "Snehal Jauhri",
+    "Ainaz Eftekhar",
+    "Rohun Tripathi",
+    "Max Argus",
+    "Jordi Salvador",
+    "Haoquan Fang",
+    "Matthew Wallingford",
+    "Wilbert Pumacay",
+    "Yejin Kim",
+    "Quinn Pfeifer",
+    "Ying-Chun Lee",
+    "Piper Wolters",
+    "Omar Rayyan",
+    "Mingtong Zhang",
+    "Jiafei Duan",
+    "Karen Farley",
+    "Winson Han",
+    "Eli VanderBilt",
+    "Dieter Fox",
+    "Ali Farhadi",
+    "Georgia Chalvatzaki",
+    "Dhruv Shah",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bJRNV4Ddvz",
+   "pdf_url": "https://openreview.net/pdf?id=bJRNV4Ddvz"
+  },
+  {
+   "title": "Per-Group Error, Not Total MSE: Fine-Tuning Vision-Language-Action Models for 11-DoF Mobile Manipulation",
+   "authors": [
+    "Pau Montagut Bofi",
+    "Mario García Blasco",
+    "Tessa Pulli",
+    "Markus Vincze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KJyid92lLR",
+   "pdf_url": "https://openreview.net/pdf?id=KJyid92lLR"
+  },
+  {
+   "title": "ProMix: Learning Optimal Data Mixtures for Robotic Imitation via Proxy-Reference Distillation",
+   "authors": [
+    "Qie Sima",
+    "Wei Xue",
+    "Yike Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ee2sKBWzVh",
+   "pdf_url": "https://openreview.net/pdf?id=Ee2sKBWzVh"
+  },
+  {
+   "title": "Rethinking Exploration Through Context for RL",
+   "authors": [
+    "Sunshine Jiang",
+    "Zhang-Wei Hong",
+    "John Marangola",
+    "Nitish Dashora",
+    "Richard Li",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yOqWgiDUQC",
+   "pdf_url": "https://openreview.net/pdf?id=yOqWgiDUQC"
+  },
+  {
+   "title": "ReVer: Reasoning-Guided Verification for Embodied Agents",
+   "authors": [
+    "Akila Ayanthi",
+    "Darshana Priyasad",
+    "Tharindu Fernando",
+    "Sridha Sridharan",
+    "Clinton Fookes",
+    "Peyman Moghadam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nWw8gDm3m1",
+   "pdf_url": "https://openreview.net/pdf?id=nWw8gDm3m1"
+  },
+  {
+   "title": "sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader",
+   "authors": [
+    "Gopi Krishna Erabati",
+    "Bjarne Johannsen",
+    "Angus Stewart",
+    "Vardeep Singh Sandhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WUqtwuwzF1",
+   "pdf_url": "https://openreview.net/pdf?id=WUqtwuwzF1"
+  },
+  {
+   "title": "Toward Hierarchical Vision-Language-Action Models with Continuous Skill Abstraction",
+   "authors": [
+    "Shih-Min Yang",
+    "Yufei Zhu",
+    "Yuxuan Yang",
+    "Tatsuya Matsushima",
+    "Johannes A. Stork",
+    "Yusuke Iwasawa",
+    "Martin Magnusson",
+    "Todor Stoyanov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c4XLon4X6K",
+   "pdf_url": "https://openreview.net/pdf?id=c4XLon4X6K"
+  },
+  {
+   "title": "Towards Data-Efficient VLA Post-Training: a case study of an industrial task",
+   "authors": [
+    "Anna Schooneveld",
+    "Geet Rose Jose",
+    "Cuong Kasperzyk",
+    "Surabhi Rammurthy",
+    "IJ Smallman",
+    "Riccardo Secoli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7tPa4tiMSl",
+   "pdf_url": "https://openreview.net/pdf?id=7tPa4tiMSl"
+  },
+  {
+   "title": "UniOMA: Unified Optimal-Transport Multi-Modal Structural Alignment for Robot Perception",
+   "authors": [
+    "Xinrui Zu",
+    "Kevin Sebastian Luck",
+    "Shujian Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rcc5qZ6CtV",
+   "pdf_url": "https://openreview.net/pdf?id=rcc5qZ6CtV"
+  },
+  {
+   "title": "Verifier-Guided Action Selection For Embodied Agents",
+   "authors": [
+    "Nishad Singhi",
+    "Christian Bialas",
+    "Snehal Jauhri",
+    "Vignesh Prasad",
+    "Georgia Chalvatzaki",
+    "Marcus Rohrbach",
+    "Anna Rohrbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bFfMHllDYm",
+   "pdf_url": "https://openreview.net/pdf?id=bFfMHllDYm"
+  },
+  {
+   "title": "VGM: Value-Gated Modulation for Minute-Level Residual Adaptation of VLA Policies",
+   "authors": [
+    "Zihan Wang",
+    "Yizhe Li",
+    "Zhe Han",
+    "Guoping Pan",
+    "Yi Cheng",
+    "Houde Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JPWQCkGp8u",
+   "pdf_url": "https://openreview.net/pdf?id=JPWQCkGp8u"
+  },
+  {
+   "title": "VL-N3RD-Bench: Benchmarking Vision-Language Navigation with 3D Gaussian Splatting Reconstruction for Deployment",
+   "authors": [
+    "Yu-Lun Chou",
+    "Lu-Ching Wang",
+    "Ying-Sheng Luo",
+    "Yu-Tang Liu",
+    "Jeng-Lin Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UWLmdL70WQ",
+   "pdf_url": "https://openreview.net/pdf?id=UWLmdL70WQ"
+  },
+  {
+   "title": "vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models",
+   "authors": [
+    "Suhwan Choi",
+    "Yunsung Lee",
+    "Yu Been Park",
+    "Chris Dongjoo Kim",
+    "Ranjay Krishna",
+    "Dieter Fox",
+    "Youngjae Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IpKQsHWaYS",
+   "pdf_url": "https://openreview.net/pdf?id=IpKQsHWaYS"
+  },
+  {
+   "title": "When Absolute State Fails: Evaluating Proprioceptive Encodings for Robust Manipulation",
+   "authors": [
+    "Maxime Alvarez",
+    "Ryo Watanabe",
+    "Paul A. Crook",
+    "Afshin Zeinaddini Meymand",
+    "Suvin Kurian",
+    "Pablo Ferreiro",
+    "Genki Sano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RSgu9W5nTj",
+   "pdf_url": "https://openreview.net/pdf?id=RSgu9W5nTj"
+  },
+  {
+   "title": "X-Diffusion: Training Diffusion Policies on Cross-Embodiment",
+   "authors": [
+    "Maximus Adrian Pace",
+    "Prithwish Dan",
+    "Chuanruo Ning",
+    "Atiksh Bhardwaj",
+    "Audrey Du",
+    "Edward Duan",
+    "Wei-Chiu Ma",
+    "Kushal Kedia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZLN8j34vTg",
+   "pdf_url": "https://openreview.net/pdf?id=ZLN8j34vTg"
+  }
+ ]
+}

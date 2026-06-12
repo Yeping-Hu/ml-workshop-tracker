@@ -1,0 +1,632 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/GenProCC",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:51.178Z",
+ "paper_count": 55,
+ "papers": [
+  {
+   "title": "Accelerate Creation of Product Claims Using Generative AI",
+   "authors": [
+    "PO-YU LIANG",
+    "Yong Zhang",
+    "Tatiana Fiorillo Hwa",
+    "Aaron LeRey Byers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TOaZkpu2uY",
+   "pdf_url": "https://openreview.net/pdf?id=TOaZkpu2uY"
+  },
+  {
+   "title": "Adaptive Originality Filtering: Rejection‑Based Prompting and RiddleScore for Culturally Grounded Multilingual Riddle Generation",
+   "authors": [
+    "Duy Le",
+    "Kent Ziti",
+    "Evan Girard-Sun",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=86saMEArPl",
+   "pdf_url": "https://openreview.net/pdf?id=86saMEArPl"
+  },
+  {
+   "title": "Carbon Literacy for Generative AI: Visualizing Training Emissions Through Human-Scale Equivalents",
+   "authors": [
+    "Mahveen Raza",
+    "Maximus Powers"
+   ],
+   "forum_url": "https://openreview.net/forum?id=86NT1eVitH",
+   "pdf_url": "https://openreview.net/pdf?id=86NT1eVitH"
+  },
+  {
+   "title": "Comparing Occupational Gender Bias in AI-Generated Anime-style and Realistic Illustrations",
+   "authors": [
+    "Ayano Ito",
+    "Shoma Mizuno",
+    "Keiichi Namikoshi",
+    "Yuko Sakurai",
+    "Satoshi Oyama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDJN2raF3u",
+   "pdf_url": "https://openreview.net/pdf?id=JDJN2raF3u"
+  },
+  {
+   "title": "Context-Masked Meta-Prompting for Privacy-Preserving LLM Adaptation in Finance",
+   "authors": [
+    "Sayash Raaj Hiraou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8IIPX9g4ua",
+   "pdf_url": "https://openreview.net/pdf?id=8IIPX9g4ua"
+  },
+  {
+   "title": "CPT: Controllable & Editable Design Variations with Language Models",
+   "authors": [
+    "Karthik Suresh",
+    "Amine Ben Khalifa",
+    "Li Zhang",
+    "Wei-ting Hsu",
+    "Fangzheng Wu",
+    "Vinay More",
+    "Asim Kadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cZIVS8fVZD",
+   "pdf_url": "https://openreview.net/pdf?id=cZIVS8fVZD"
+  },
+  {
+   "title": "Decomate: Leveraging Generative Models for Co-Creative SVG Animation",
+   "authors": [
+    "Jihyeon Park",
+    "Jiyoon Myung",
+    "Seone Shin",
+    "JUNGKI SON",
+    "Joohyung Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQLX16H1be",
+   "pdf_url": "https://openreview.net/pdf?id=MQLX16H1be"
+  },
+  {
+   "title": "Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings",
+   "authors": [
+    "Pura Peetathawatchai",
+    "Wei-Ning Chen",
+    "Berivan Isik",
+    "Sanmi Koyejo",
+    "Albert No"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2fZLgrTczQ",
+   "pdf_url": "https://openreview.net/pdf?id=2fZLgrTczQ"
+  },
+  {
+   "title": "Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech",
+   "authors": [
+    "Jinju Kim",
+    "Taesoo Kim",
+    "Dong Chan Kim",
+    "Jong Hwan Ko",
+    "Gyeong-Moon Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nq5hEXsOvW",
+   "pdf_url": "https://openreview.net/pdf?id=Nq5hEXsOvW"
+  },
+  {
+   "title": "DuoLens: A Framework for Robust Detection of Machine-Generated Multilingual Text and Code",
+   "authors": [
+    "Shriyansh Agrawal",
+    "Aidan Lau",
+    "Sanyam Shah",
+    "Ahan M R"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bVYOKSj0m0",
+   "pdf_url": "https://openreview.net/pdf?id=bVYOKSj0m0"
+  },
+  {
+   "title": "Dynamic Guardrail Generation (DGG): A Framework  for Prompt-Time Mitigation of LLM Harms",
+   "authors": [
+    "Nguyen Dao Minh Anh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=78OlFwkFUV",
+   "pdf_url": "https://openreview.net/pdf?id=78OlFwkFUV"
+  },
+  {
+   "title": "Dynamic VLM-Guided Negative Prompting for Diffusion Models",
+   "authors": [
+    "Hoyeon Chang",
+    "Seungjin Kim",
+    "Yoonseok Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sHw9f48LQh",
+   "pdf_url": "https://openreview.net/pdf?id=sHw9f48LQh"
+  },
+  {
+   "title": "EgoAnimate: Generating Human Animations from Egocentric top-down Views via Controllable Latent Diffusion Models",
+   "authors": [
+    "Gurbuz Kutay Turkoglu",
+    "Julian Tanke",
+    "Iheb Belgacem",
+    "Lev Markhasin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tg3JzqJzaL",
+   "pdf_url": "https://openreview.net/pdf?id=Tg3JzqJzaL"
+  },
+  {
+   "title": "Emotional Framing as a Control Channel: Effects of Prompt Valence on LLM Performance",
+   "authors": [
+    "Enmanuel Felix-Pena",
+    "Tiki Li",
+    "Ayo Akinkugbe",
+    "Kevin Zhu",
+    "Wayne Chen",
+    "Ethan Hin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l3YyW4JEgQ",
+   "pdf_url": "https://openreview.net/pdf?id=l3YyW4JEgQ"
+  },
+  {
+   "title": "EnTruth: Tracing the Unauthorized Dataset Usage in Diffusion Models",
+   "authors": [
+    "Jie Ren",
+    "Yingqian Cui",
+    "Chen Chen",
+    "Yue Xing",
+    "Hui Liu",
+    "Lingjuan Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mbreZbKz6m",
+   "pdf_url": "https://openreview.net/pdf?id=mbreZbKz6m"
+  },
+  {
+   "title": "Evaluating the Evaluators: Metrics for Compositional Text-to-Image Generation",
+   "authors": [
+    "Seyed Amir Kasaei",
+    "Ali Aghayari",
+    "Arash Marioriyad",
+    "Niki Sepasian",
+    "MohammadAmin Fazli",
+    "Mahdieh Soleymani Baghshah",
+    "Mohammad Hossein Rohban"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5aJbtBOnKa",
+   "pdf_url": "https://openreview.net/pdf?id=5aJbtBOnKa"
+  },
+  {
+   "title": "Evolve to Inspire: Novelty Search for Diverse Image Generation",
+   "authors": [
+    "Alex Inch",
+    "Passawis Chaiyapattanaporn",
+    "Yuchen Zhu",
+    "Yuan Lu",
+    "Ting-Wen Ko",
+    "Davide Paglieri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jFjWZ0cKbd",
+   "pdf_url": "https://openreview.net/pdf?id=jFjWZ0cKbd"
+  },
+  {
+   "title": "Explainable AI-Generated Image Detection RewardBench",
+   "authors": [
+    "Michael Yang",
+    "Shijian Deng",
+    "William T. Doan",
+    "Kai Wang",
+    "Tianyu Yang",
+    "Harsh Singh",
+    "Yapeng Tian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gXQmFb3zmY",
+   "pdf_url": "https://openreview.net/pdf?id=gXQmFb3zmY"
+  },
+  {
+   "title": "FlashFoley: Fast Interactive Sketch2Audio Generation",
+   "authors": [
+    "Zachary Novack",
+    "Koichi Saito",
+    "Zhi Zhong",
+    "Takashi Shibuya",
+    "Shuyang Cui",
+    "Julian McAuley",
+    "Taylor Berg-Kirkpatrick",
+    "christian simon",
+    "Shusuke Takahashi",
+    "Yuki Mitsufuji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fsqxyyjysv",
+   "pdf_url": "https://openreview.net/pdf?id=Fsqxyyjysv"
+  },
+  {
+   "title": "FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion",
+   "authors": [
+    "Yufan Zhou",
+    "Haoyu Shen",
+    "Huan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5pRqu1T6QI",
+   "pdf_url": "https://openreview.net/pdf?id=5pRqu1T6QI"
+  },
+  {
+   "title": "GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models",
+   "authors": [
+    "Yusuf Dalva",
+    "Hidir Yesiltepe",
+    "Pinar Yanardag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eo0FCShehI",
+   "pdf_url": "https://openreview.net/pdf?id=Eo0FCShehI"
+  },
+  {
+   "title": "GenAIM: A Multimodal AI Music Generator with Only Lyrics or Images",
+   "authors": [
+    "Callie C. Liao",
+    "Ellie L. Zhang",
+    "Duoduo Liao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ecyOV8U6FO",
+   "pdf_url": "https://openreview.net/pdf?id=ecyOV8U6FO"
+  },
+  {
+   "title": "Generative AI Agents for Controllable and Protected Content Creation",
+   "authors": [
+    "Haris Khan",
+    "Sadia Asif"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K88qmSAs7V",
+   "pdf_url": "https://openreview.net/pdf?id=K88qmSAs7V"
+  },
+  {
+   "title": "Guiding Audio Editing with Audio Language Model",
+   "authors": [
+    "Zitong Lan",
+    "Yiduo Hao",
+    "Mingmin Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z9GD4k3ZZw",
+   "pdf_url": "https://openreview.net/pdf?id=Z9GD4k3ZZw"
+  },
+  {
+   "title": "Hallucination as an Upper Bound: A New Perspective on Text-to-Image Evaluation",
+   "authors": [
+    "Seyed Amir Kasaei",
+    "Mohammad Hossein Rohban"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cNmfxMwPkk",
+   "pdf_url": "https://openreview.net/pdf?id=cNmfxMwPkk"
+  },
+  {
+   "title": "Instance-Specific Test-Time Training for Speech Editing in the Wild",
+   "authors": [
+    "Taewoo Kim",
+    "Uijong Lee",
+    "Hayoung Park",
+    "Choongsang Cho",
+    "Nam In Park",
+    "Young Han Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0wJ2WNcGyZ",
+   "pdf_url": "https://openreview.net/pdf?id=0wJ2WNcGyZ"
+  },
+  {
+   "title": "Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs",
+   "authors": [
+    "Xingyu Fu",
+    "Siyi Liu",
+    "Yinuo Xu",
+    "Pan Lu",
+    "Yejin Choi",
+    "James Zou",
+    "Dan Roth",
+    "Chris Callison-Burch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L1jeJCkXZi",
+   "pdf_url": "https://openreview.net/pdf?id=L1jeJCkXZi"
+  },
+  {
+   "title": "LegalWiz: A Multi-Agent Generation Framework for Contradiction Detection in Legal Documents",
+   "authors": [
+    "Ananya Mantravadi",
+    "Shivali Dalmia",
+    "Abhishek Mukherji",
+    "Nand Dave",
+    "Anudha Mittal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fd8j7abybv",
+   "pdf_url": "https://openreview.net/pdf?id=Fd8j7abybv"
+  },
+  {
+   "title": "Localized-Attention-Guided Concept Erasure for Text-to-Image Diffusion Models",
+   "authors": [
+    "Zhuan Shi",
+    "Alireza Dehghanpour Farashah",
+    "Rik de Vries",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xCWVXwRswD",
+   "pdf_url": "https://openreview.net/pdf?id=xCWVXwRswD"
+  },
+  {
+   "title": "Membership and Dataset Inference Attacks on Large Audio Generative Models",
+   "authors": [
+    "Jakub Proboszcz",
+    "Paweł Kochański",
+    "Karol Korszun",
+    "Katarzyna Stankiewicz",
+    "Giorgio Strano",
+    "Donato Crisostomi",
+    "Emanuele Rodolà",
+    "Kamil Deja",
+    "Jan Dubiński"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hUKdfscM9i",
+   "pdf_url": "https://openreview.net/pdf?id=hUKdfscM9i"
+  },
+  {
+   "title": "MITHRIL: A Multi-modal and Immersive Generative AI Approach for Roleplaying Tabletop Games",
+   "authors": [
+    "Michael Atkins",
+    "William Denman",
+    "Tuna Han Salih Meral",
+    "Mustafa Doga Dogan",
+    "Pinar Yanardag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EKZV46BGsS",
+   "pdf_url": "https://openreview.net/pdf?id=EKZV46BGsS"
+  },
+  {
+   "title": "Multimodal Robustness Benchmark for Concept Erasure in Diffusion Models",
+   "authors": [
+    "Ju-Hsuan Weng",
+    "Jia-Wei Liao",
+    "Cheng-Fu Chou",
+    "Jun-Cheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yHq9mxIzXA",
+   "pdf_url": "https://openreview.net/pdf?id=yHq9mxIzXA"
+  },
+  {
+   "title": "My Art My Choice: Adversarial Protection Against Image Generation",
+   "authors": [
+    "Ilke Demir",
+    "Anthony Rhodes",
+    "Ram Bhagat",
+    "Nese Alyuz",
+    "Sinem Aslan",
+    "Umur A. Ciftci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mAUPQ2FtK4",
+   "pdf_url": "https://openreview.net/pdf?id=mAUPQ2FtK4"
+  },
+  {
+   "title": "Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video",
+   "authors": [
+    "Alexander Htet Kyaw",
+    "Lenin Ravindranath Sivalingam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SsJQJ7qrES",
+   "pdf_url": "https://openreview.net/pdf?id=SsJQJ7qrES"
+  },
+  {
+   "title": "Not All Deepfakes Are Created Equal: Triaging Audio Forgeries for Robust Deepfake Singer Identification",
+   "authors": [
+    "Davide Salvi",
+    "Hendrik Vincent Koops",
+    "Elio Quinton"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Mp0KPx7YR",
+   "pdf_url": "https://openreview.net/pdf?id=2Mp0KPx7YR"
+  },
+  {
+   "title": "Not All That’s Colorful Is Real: Rethinking Metrics for Image Colorization",
+   "authors": [
+    "Swarnim Maheshwari",
+    "Syed Imam Ali",
+    "Arkaprava Majumdar",
+    "Panshul Jindal",
+    "Vineeth N. Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g9rZwouBla",
+   "pdf_url": "https://openreview.net/pdf?id=g9rZwouBla"
+  },
+  {
+   "title": "On Forging Semantic Watermarks in Diffusion Models: A Theoretical Perspective",
+   "authors": [
+    "Cheng-Yi Lee",
+    "Yu-Feng Chen",
+    "Chun-Shien Lu",
+    "Jun-Cheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UnYIzFOk3s",
+   "pdf_url": "https://openreview.net/pdf?id=UnYIzFOk3s"
+  },
+  {
+   "title": "Patch’n Play: Zero-Shot Video Editing by Fusing Local and Global Patches",
+   "authors": [
+    "Hidir Yesiltepe",
+    "Yusuf Dalva",
+    "Ritika Allada",
+    "Pinar Yanardag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8M57nCJfCa",
+   "pdf_url": "https://openreview.net/pdf?id=8M57nCJfCa"
+  },
+  {
+   "title": "Perturb your Data: Paraphrase-Guided Training Data Watermarking",
+   "authors": [
+    "Pranav Shetty",
+    "Mirazul Haque",
+    "Petr Babkin",
+    "Zhiqiang Ma",
+    "Xiaomo Liu",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3LRQTufBlb",
+   "pdf_url": "https://openreview.net/pdf?id=3LRQTufBlb"
+  },
+  {
+   "title": "Prefilled responses enhance zero-shot detection of AI-generated images",
+   "authors": [
+    "Zoher Kachwala",
+    "Danishjeet Singh",
+    "Danielle Yang",
+    "Filippo Menczer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hw56fm4Ujv",
+   "pdf_url": "https://openreview.net/pdf?id=hw56fm4Ujv"
+  },
+  {
+   "title": "Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models",
+   "authors": [
+    "Jiwoo Shin",
+    "Byeonghu Na",
+    "Mina Kang",
+    "Wonhyeok Choi",
+    "Il-chul Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZeFAru4sK0",
+   "pdf_url": "https://openreview.net/pdf?id=ZeFAru4sK0"
+  },
+  {
+   "title": "Prompting Away Stereotypes? Evaluating Bias in Text-to-Image Models for Occupations",
+   "authors": [
+    "Shaina Raza",
+    "Maximus Powers",
+    "PARTHA PRATIM SAHA",
+    "Mahveen Raza",
+    "Rizwan Qureshi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BXbr8PsrSN",
+   "pdf_url": "https://openreview.net/pdf?id=BXbr8PsrSN"
+  },
+  {
+   "title": "ReadEasy: Bridging Reading Accessibility Gaps using Responsible Multimodal Simplification with Generative AI",
+   "authors": [
+    "Sharv Murgai",
+    "Shivatmica Murgai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tA5R6r6d3A",
+   "pdf_url": "https://openreview.net/pdf?id=tA5R6r6d3A"
+  },
+  {
+   "title": "ReadEasy: Bridging Reading Accessibility Gaps using Responsible Multimodal Simplification with Generative AI",
+   "authors": [
+    "Sharv Murgai",
+    "Shivatmica Murgai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FKcIefSPxe",
+   "pdf_url": "https://openreview.net/pdf?id=FKcIefSPxe"
+  },
+  {
+   "title": "Setting the DC: Tool-Grounded D&D Simulations to Test LLM Agents",
+   "authors": [
+    "Ziyi Zeng",
+    "Shengqi Li",
+    "Jiajun Xi",
+    "Andrew Zhu",
+    "Prithviraj Ammanabrolu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3Op7kJOvaD",
+   "pdf_url": "https://openreview.net/pdf?id=3Op7kJOvaD"
+  },
+  {
+   "title": "SHIELD: A Benchmark Study on Zero-Shot Detection of AI-Edited Images with Vision Language Models",
+   "authors": [
+    "Siyuan Cheng",
+    "Hanxi Guo",
+    "Zhenting Wang",
+    "Xiangyu Zhang",
+    "Lingjuan Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hEZPVTDXCy",
+   "pdf_url": "https://openreview.net/pdf?id=hEZPVTDXCy"
+  },
+  {
+   "title": "ShrutiSense: Microtonal Modeling and Correction in Indian Classical Music",
+   "authors": [
+    "Rajarshi Ghosh",
+    "Jayanth Athipatla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0XGiwI2W3O",
+   "pdf_url": "https://openreview.net/pdf?id=0XGiwI2W3O"
+  },
+  {
+   "title": "Side Effects of Erasing Concepts from Diffusion Models",
+   "authors": [
+    "Shaswati Saha",
+    "Sourajit Saha",
+    "Manas Gaur",
+    "Tejas Gokhale"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D7ZwMIbNv8",
+   "pdf_url": "https://openreview.net/pdf?id=D7ZwMIbNv8"
+  },
+  {
+   "title": "SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow",
+   "authors": [
+    "Kenan Tang",
+    "Yanhong Li",
+    "Yao Qin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3CGj0ANxaZ",
+   "pdf_url": "https://openreview.net/pdf?id=3CGj0ANxaZ"
+  },
+  {
+   "title": "SpotEdit: Evaluating Visually-Guided Image Editing Methods",
+   "authors": [
+    "Sara Ghazanfari",
+    "Wei-An Lin",
+    "Haitong Tian",
+    "Ersin Yumer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cHkndVcp0b",
+   "pdf_url": "https://openreview.net/pdf?id=cHkndVcp0b"
+  },
+  {
+   "title": "The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation",
+   "authors": [
+    "Ashwin Nagarajan",
+    "Hao-Wen Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=23j50pLV1m",
+   "pdf_url": "https://openreview.net/pdf?id=23j50pLV1m"
+  },
+  {
+   "title": "TokenSwap: A Lightweight Method to Disrupt Memorized Sequences in LLMs",
+   "authors": [
+    "Kaustubh Ponkshe",
+    "Parjanya Prajakta Prashant",
+    "Babak Salimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FAqLrmEMup",
+   "pdf_url": "https://openreview.net/pdf?id=FAqLrmEMup"
+  },
+  {
+   "title": "VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip",
+   "authors": [
+    "Wenqi Marshall Guo",
+    "Shan Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w0bs77q3Pc",
+   "pdf_url": "https://openreview.net/pdf?id=w0bs77q3Pc"
+  },
+  {
+   "title": "Watermarking Diffusion Language Models",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Robin Staab",
+    "Nikola Jovanović",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Iw6kgfvsaL",
+   "pdf_url": "https://openreview.net/pdf?id=Iw6kgfvsaL"
+  },
+  {
+   "title": "Winning Solution to the NeurIPS 2024 Invisible Watermark Removal Challenge",
+   "authors": [
+    "Fahad Shamshad",
+    "Tameem Bakr",
+    "Yahia Salaheldin Shaaban",
+    "Noor Hazim Hussein",
+    "Karthik Nandakumar",
+    "Nils Lukas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SIrUucuYUq",
+   "pdf_url": "https://openreview.net/pdf?id=SIrUucuYUq"
+  }
+ ]
+}

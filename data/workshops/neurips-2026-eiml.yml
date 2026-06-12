@@ -1,0 +1,18 @@
+# --- Missing: submission deadline -----------------------------------------
+# Know it? Add two lines anywhere below, for example:
+#   submission_deadline: 2026-09-15 23:59    # or just a date: 2026-09-15
+#   timezone: AoE                            # AoE / UTC / America/Los_Angeles
+# Then click "Commit changes..." -> "Propose changes" to open a pull request.
+# It is validated automatically and usually merged within a day.
+# ---------------------------------------------------------------------------
+name: "NeurIPS 2026 Workshop: Epistemic Intelligence in Machine Learning"
+acronym: The Roots of Intelligence
+conference: neurips
+year: 2026
+website: https://epistemic-intelligence-in-ml.github.io
+topics:
+  - other
+openreview_venue_id: NeurIPS.cc/2026/Workshop/EIML
+submission_portal: openreview
+notes: NeurIPS 2026 workshop decisions are expected over the summer; this OpenReview venue was created early and no deadline is published yet. Auto-imported from the OpenReview venue record on 2026-06-10 — please verify and enrich (topics are keyword-guessed).
+added: "2026-06-10"

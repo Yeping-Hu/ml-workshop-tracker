@@ -1,0 +1,684 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/SCOPE",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:44.185Z",
+ "paper_count": 56,
+ "papers": [
+  {
+   "title": "A Unified Approach to Routing and Cascading for LLMs",
+   "authors": [
+    "Jasper Dekoninck",
+    "Maximilian Baader",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qe8BfREMrb",
+   "pdf_url": "https://openreview.net/pdf?id=qe8BfREMrb"
+  },
+  {
+   "title": "Acceleration Multiple Heads Decoding for LLM via Dynamic Tree Attention",
+   "authors": [
+    "Zhendong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wn5QaSiMEV",
+   "pdf_url": "https://openreview.net/pdf?id=Wn5QaSiMEV"
+  },
+  {
+   "title": "Adaptive Length Image Tokenization via Recurrent Allocation",
+   "authors": [
+    "Shivam Duggal",
+    "Phillip Isola",
+    "Antonio Torralba",
+    "William T. Freeman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AgevIIF7LN",
+   "pdf_url": "https://openreview.net/pdf?id=AgevIIF7LN"
+  },
+  {
+   "title": "AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting",
+   "authors": [
+    "Abdelhakim Benechehab",
+    "Vasilii Feofanov",
+    "Giuseppe Paolo",
+    "Albert Thomas",
+    "Maurizio Filippone",
+    "Balázs Kégl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S3i6HAmmZu",
+   "pdf_url": "https://openreview.net/pdf?id=S3i6HAmmZu"
+  },
+  {
+   "title": "AsymLoRA: Unlocking the Power of Multimodal LLMs via Asymmetric LoRA",
+   "authors": [
+    "Xuyang Wei",
+    "Chunlin Tian",
+    "Li Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E2T8wulSb9",
+   "pdf_url": "https://openreview.net/pdf?id=E2T8wulSb9"
+  },
+  {
+   "title": "Attention Is All You Need For Mixture-of-Depths Routing",
+   "authors": [
+    "Advait Gadhikar",
+    "Souptik Kumar Majumdar",
+    "Niclas Popp",
+    "Piyapat Saranrittichai",
+    "Martin Rapp",
+    "Lukas Schott"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1uDP4ld3eZ",
+   "pdf_url": "https://openreview.net/pdf?id=1uDP4ld3eZ"
+  },
+  {
+   "title": "ChameleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters",
+   "authors": [
+    "Kamer Ali Yuksel",
+    "Hassan Sawaf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=laZJQhzIIS",
+   "pdf_url": "https://openreview.net/pdf?id=laZJQhzIIS"
+  },
+  {
+   "title": "Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models",
+   "authors": [
+    "Andy Zhou",
+    "Ron Arel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YqYcm0mpFp",
+   "pdf_url": "https://openreview.net/pdf?id=YqYcm0mpFp"
+  },
+  {
+   "title": "Conformal Transformations for Symmetric Power Transformers",
+   "authors": [
+    "Saurabh Kumar",
+    "Jacob Buckman",
+    "Carles Gelada",
+    "Xiaowen Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PiUgK03Tqd",
+   "pdf_url": "https://openreview.net/pdf?id=PiUgK03Tqd"
+  },
+  {
+   "title": "Context Is All You Need: Efficient Retrieval Augmented Generation for Domain Specific AI",
+   "authors": [
+    "Peixi Xiong",
+    "Chaunte W. Lacewell",
+    "Sameh Gobriel",
+    "Nilesh Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6bKHoUQWlo",
+   "pdf_url": "https://openreview.net/pdf?id=6bKHoUQWlo"
+  },
+  {
+   "title": "DARS : ROBUST SPARSE FINE-TUNING WITH REGULARIZED SUBSPACE DISALIGNMENT",
+   "authors": [
+    "Sumin Park",
+    "Noseong Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nV6e9KjJrH",
+   "pdf_url": "https://openreview.net/pdf?id=nV6e9KjJrH"
+  },
+  {
+   "title": "DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs",
+   "authors": [
+    "Zhen Tan",
+    "Daize Dong",
+    "Xinyu Zhao",
+    "Jianing Cai",
+    "Jie Peng",
+    "Yu Cheng",
+    "Tianlong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E9Jw3IHuDH",
+   "pdf_url": "https://openreview.net/pdf?id=E9Jw3IHuDH"
+  },
+  {
+   "title": "Domain-Invariant Prompt Learning for Vision-Language Models",
+   "authors": [
+    "Arsham Gholamzadeh Khoee",
+    "Yinan Yu",
+    "Robert Feldt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SODTFGcNfp",
+   "pdf_url": "https://openreview.net/pdf?id=SODTFGcNfp"
+  },
+  {
+   "title": "Efficient Distributed Optimization under Heavy-Tailed Noise",
+   "authors": [
+    "Su Hyeong Lee",
+    "Manzil Zaheer",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HvLbOMgIax",
+   "pdf_url": "https://openreview.net/pdf?id=HvLbOMgIax"
+  },
+  {
+   "title": "Efficient Open-set Test Time Adaptation of Vision Language Models",
+   "authors": [
+    "Manogna Sreenivas",
+    "Soma Biswas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ELR4ifkX3j",
+   "pdf_url": "https://openreview.net/pdf?id=ELR4ifkX3j"
+  },
+  {
+   "title": "Effortless Efficiency: Low-Cost Pruning of Diffusion Models",
+   "authors": [
+    "Yang Zhang",
+    "Er Jin",
+    "Yanfei Dong",
+    "Ashkan Khakzar",
+    "Philip Torr",
+    "Johannes Stegmaier",
+    "Kenji Kawaguchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y1LE41gGWS",
+   "pdf_url": "https://openreview.net/pdf?id=y1LE41gGWS"
+  },
+  {
+   "title": "Enhanced Continual Learning of Vision-Language Models with Model Fusion",
+   "authors": [
+    "Haoyuan Gao",
+    "Zicong Zhang",
+    "Yuqi Wei",
+    "Linglan Zhao",
+    "Guilin Li",
+    "Yexin Li",
+    "Linghe Kong",
+    "Weiran Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EAvuWKHhtq",
+   "pdf_url": "https://openreview.net/pdf?id=EAvuWKHhtq"
+  },
+  {
+   "title": "Fast Gradient Computation for RoPE Attention in Almost Linear Time",
+   "authors": [
+    "Yifang Chen",
+    "Jiayan Huo",
+    "Xiaoyu Li",
+    "Yingyu Liang",
+    "Zhenmei Shi",
+    "Zhao Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nVXcDUTkcF",
+   "pdf_url": "https://openreview.net/pdf?id=nVXcDUTkcF"
+  },
+  {
+   "title": "FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models",
+   "authors": [
+    "Raghav Singhal",
+    "Kaustubh Ponkshe",
+    "Praneeth Vepakomma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hB1Ln3yGZU",
+   "pdf_url": "https://openreview.net/pdf?id=hB1Ln3yGZU"
+  },
+  {
+   "title": "Fixed-Point RNNs: From Diagonal to Dense in a Few Iterations",
+   "authors": [
+    "Sajad Movahedi",
+    "Felix Sarnthein",
+    "Nicola Muca Cirone",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W82H3kQqEG",
+   "pdf_url": "https://openreview.net/pdf?id=W82H3kQqEG"
+  },
+  {
+   "title": "Grams: Gradient Descent with Adaptive Momentum Scaling",
+   "authors": [
+    "Yang Cao",
+    "Xiaoyu Li",
+    "Zhao Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GmKQnpQdsc",
+   "pdf_url": "https://openreview.net/pdf?id=GmKQnpQdsc"
+  },
+  {
+   "title": "Graph Low-Rank Adapters of High Regularity for Graph Neural Networks and Graph Transformers",
+   "authors": [
+    "Pantelis Papageorgiou",
+    "Haitz Sáez de Ocáriz Borde",
+    "Anastasis Kratsios",
+    "Michael M. Bronstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gxhZj6uvFC",
+   "pdf_url": "https://openreview.net/pdf?id=gxhZj6uvFC"
+  },
+  {
+   "title": "In-batch Ensemble Drafting: Robust Speculative Decoding for LVLMs",
+   "authors": [
+    "Minjae Lee",
+    "Wonjun Kang",
+    "Byeongkeun Ahn",
+    "Christian Classen",
+    "Minghao Yan",
+    "Hyung Il Koo",
+    "Kangwook Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ffDhpmwqdu",
+   "pdf_url": "https://openreview.net/pdf?id=ffDhpmwqdu"
+  },
+  {
+   "title": "Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters",
+   "authors": [
+    "Kevin Li",
+    "Sachin Goyal",
+    "João D. Semedo",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pNiN6weRZl",
+   "pdf_url": "https://openreview.net/pdf?id=pNiN6weRZl"
+  },
+  {
+   "title": "Initialization using Update Approximation is a Silver Bullet for Extremely Efficient Low-Rank Fine-Tuning",
+   "authors": [
+    "Kaustubh Ponkshe",
+    "Raghav Singhal",
+    "Eduard Gorbunov",
+    "Alexey Tumanov",
+    "Samuel Horváth",
+    "Praneeth Vepakomma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WQZFXVpQow",
+   "pdf_url": "https://openreview.net/pdf?id=WQZFXVpQow"
+  },
+  {
+   "title": "KV Prediction for Improved Time to First Token",
+   "authors": [
+    "Maxwell Horton",
+    "Qingqing Cao",
+    "Chenfan Sun",
+    "Yanzi Jin",
+    "Sachin Mehta",
+    "Mohammad Rastegari",
+    "Moin Nabi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bni1wy49vY",
+   "pdf_url": "https://openreview.net/pdf?id=Bni1wy49vY"
+  },
+  {
+   "title": "LANTERN++: Enhancing Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models",
+   "authors": [
+    "Sihwan Park",
+    "Doohyuk Jang",
+    "Sung-Yub Kim",
+    "Souvik Kundu",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4avKYhpmn5",
+   "pdf_url": "https://openreview.net/pdf?id=4avKYhpmn5"
+  },
+  {
+   "title": "Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts",
+   "authors": [
+    "Weigao Sun",
+    "Disen Lan",
+    "Tong Zhu",
+    "Xiaoye Qu",
+    "Yu Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HKIvuZxGbl",
+   "pdf_url": "https://openreview.net/pdf?id=HKIvuZxGbl"
+  },
+  {
+   "title": "Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing",
+   "authors": [
+    "Aviv Bick",
+    "Tobias Katsch",
+    "Nimit Sharad Sohoni",
+    "Arjun D Desai",
+    "Albert Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uciWntM6iv",
+   "pdf_url": "https://openreview.net/pdf?id=uciWntM6iv"
+  },
+  {
+   "title": "Low-Rank Continual Personalization of Diffusion Models",
+   "authors": [
+    "Łukasz Staniszewski",
+    "Katarzyna Zaleska",
+    "Kamil Deja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XsXhhq4Kvx",
+   "pdf_url": "https://openreview.net/pdf?id=XsXhhq4Kvx"
+  },
+  {
+   "title": "M2R2: EFFICIENT TRANSFORMERS WITH MIXTURE OF MULTI-RATE RESIDUALS",
+   "authors": [
+    "Nikhil Bhendawade",
+    "Mahyar Najibi",
+    "Devang Naik",
+    "Irina Belousova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tQGhxewTEl",
+   "pdf_url": "https://openreview.net/pdf?id=tQGhxewTEl"
+  },
+  {
+   "title": "Margin-aware Preference Optimization for Aligning Diffusion Models without Reference",
+   "authors": [
+    "Jiwoo Hong",
+    "Sayak Paul",
+    "Noah Lee",
+    "Kashif Rasul",
+    "James Thorne",
+    "Jongheon Jeong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JMVWaMR53s",
+   "pdf_url": "https://openreview.net/pdf?id=JMVWaMR53s"
+  },
+  {
+   "title": "MixER: Better Mixture of Experts Routing for Hierarchical Meta-Learning",
+   "authors": [
+    "Roussel Desmond Nzoyem",
+    "Grant Stevens",
+    "Amarpal Sahota",
+    "David A.W. Barton",
+    "Tom Deakin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NteuHm0UXw",
+   "pdf_url": "https://openreview.net/pdf?id=NteuHm0UXw"
+  },
+  {
+   "title": "Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity",
+   "authors": [
+    "Weixin Liang",
+    "Junhong Shen",
+    "Genghan Zhang",
+    "Ning Dong",
+    "Luke Zettlemoyer",
+    "LILI YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CefELq6MSq",
+   "pdf_url": "https://openreview.net/pdf?id=CefELq6MSq"
+  },
+  {
+   "title": "N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs",
+   "authors": [
+    "Ilya Zisman",
+    "Alexander Nikulin",
+    "Viacheslav Sinii",
+    "Denis Tarasov",
+    "Lyubaykin Nikita",
+    "Andrei Polubarov",
+    "Igor Kiselev",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KlHiiePhJ8",
+   "pdf_url": "https://openreview.net/pdf?id=KlHiiePhJ8"
+  },
+  {
+   "title": "Neuromorphic Principles for Efficient Large Language Models on Intel Loihi 2",
+   "authors": [
+    "Steven Abreu",
+    "Sumit Bam Shrestha",
+    "Rui-Jie Zhu",
+    "Jason Eshraghian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qaDM1R2nlm",
+   "pdf_url": "https://openreview.net/pdf?id=qaDM1R2nlm"
+  },
+  {
+   "title": "On Vanishing Variance in Transformer Length Generalization",
+   "authors": [
+    "Ruining Li",
+    "Gabrijel Boduljak",
+    "Jensen Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CTaazJWPgn",
+   "pdf_url": "https://openreview.net/pdf?id=CTaazJWPgn"
+  },
+  {
+   "title": "OPPA: OPtimizing PArallelism for Language Model Training",
+   "authors": [
+    "Apivich Hemachandra",
+    "Yizhan Han",
+    "See-Kiong Ng",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qsx5vPJlOx",
+   "pdf_url": "https://openreview.net/pdf?id=qsx5vPJlOx"
+  },
+  {
+   "title": "Overtrained Language Models Are Harder to Fine-Tune",
+   "authors": [
+    "Jacob Mitchell Springer",
+    "Sachin Goyal",
+    "Kaiyue Wen",
+    "Tanishq Kumar",
+    "Xiang Yue",
+    "Sadhika Malladi",
+    "Graham Neubig",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H2SbfCYsgn",
+   "pdf_url": "https://openreview.net/pdf?id=H2SbfCYsgn"
+  },
+  {
+   "title": "PENCIL: Long Thoughts with Short Memory",
+   "authors": [
+    "Chenxiao Yang",
+    "Nathan Srebro",
+    "David McAllester",
+    "Zhiyuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KRI2Fmffqr",
+   "pdf_url": "https://openreview.net/pdf?id=KRI2Fmffqr"
+  },
+  {
+   "title": "QMambaExtend: Improving Long-Context Extension of Memory-Efficient Mamba Models",
+   "authors": [
+    "Seyedarmin Azizi",
+    "Souvik Kundu",
+    "Mohammad Erfan Sadeghi",
+    "Massoud Pedram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bDVryXGGv2",
+   "pdf_url": "https://openreview.net/pdf?id=bDVryXGGv2"
+  },
+  {
+   "title": "RecurFormer: Not All Transformer Heads Need Self-Attention",
+   "authors": [
+    "RuiqingYan",
+    "Linghan Zheng",
+    "Xingbo Du",
+    "Han Zou",
+    "Yufeng Guo",
+    "Jianfei Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ADl8dT8fKm",
+   "pdf_url": "https://openreview.net/pdf?id=ADl8dT8fKm"
+  },
+  {
+   "title": "Relevance Isn't All You Need: Scaling RAG Systems With Inference-Time Compute Via Multi-Criteria Reranking",
+   "authors": [
+    "Will LeVine",
+    "Bijan Varjavand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bl884pjXhN",
+   "pdf_url": "https://openreview.net/pdf?id=bl884pjXhN"
+  },
+  {
+   "title": "ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals",
+   "authors": [
+    "Utkarsh Saxena",
+    "Sayeh Sharify",
+    "Kaushik Roy",
+    "Xin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sROOmwTHyW",
+   "pdf_url": "https://openreview.net/pdf?id=sROOmwTHyW"
+  },
+  {
+   "title": "Revisiting Associative Recall in Modern Recurrent Models",
+   "authors": [
+    "Destiny Okpekpe",
+    "Antonio Orvieto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CcqAd5RPk5",
+   "pdf_url": "https://openreview.net/pdf?id=CcqAd5RPk5"
+  },
+  {
+   "title": "SageAttention2: Efficient Attention with Smoothing Q and Per-thread Quantization",
+   "authors": [
+    "Jintao Zhang",
+    "Haofeng Huang",
+    "Pengle Zhang",
+    "Jia wei",
+    "Jun Zhu",
+    "Jianfei Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z1ph7lcmpv",
+   "pdf_url": "https://openreview.net/pdf?id=z1ph7lcmpv"
+  },
+  {
+   "title": "SPAM: SPIKE-AWARE ADAM WITH MOMENTUM RESET FOR STABLE LLM TRAINING",
+   "authors": [
+    "Tianjin Huang",
+    "Ziquan Zhu",
+    "Gaojie Jin",
+    "Lu Liu",
+    "Zhangyang Wang",
+    "Shiwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P8RGSaUFOR",
+   "pdf_url": "https://openreview.net/pdf?id=P8RGSaUFOR"
+  },
+  {
+   "title": "Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam",
+   "authors": [
+    "Tianjin Huang",
+    "Haotian Hu",
+    "Zhenyu Zhang",
+    "Gaojie Jin",
+    "Xiang Li",
+    "Li Shen",
+    "Tianlong Chen",
+    "Lu Liu",
+    "Qingsong Wen",
+    "Zhangyang Wang",
+    "Shiwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gk2pBIAMUl",
+   "pdf_url": "https://openreview.net/pdf?id=Gk2pBIAMUl"
+  },
+  {
+   "title": "STIV: SCALABLE TEXT AND IMAGE CONDITIONED VIDEO GENERATION",
+   "authors": [
+    "Zongyu Lin",
+    "Wei Liu",
+    "Chen Chen",
+    "Jiasen Lu",
+    "Wenze Hu",
+    "Tsu-Jui Fu",
+    "Jesse Allardice",
+    "Zhengfeng Lai",
+    "Liangchen Song",
+    "Bowen Zhang",
+    "cha chen",
+    "Yiran Fei",
+    "Yifan Jiang",
+    "Lezhi Li",
+    "Yizhou Sun",
+    "Kai-Wei Chang",
+    "Yinfei Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OF76H2WUqi",
+   "pdf_url": "https://openreview.net/pdf?id=OF76H2WUqi"
+  },
+  {
+   "title": "The Curse of Depth in Large Language Models",
+   "authors": [
+    "Wenfang Sun",
+    "Xinyuan Song",
+    "Pengxiang Li",
+    "Lu Yin",
+    "Yefeng Zheng",
+    "Shiwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z3O80VlP7v",
+   "pdf_url": "https://openreview.net/pdf?id=z3O80VlP7v"
+  },
+  {
+   "title": "Towards Infinite-Long Prefix in Transformers",
+   "authors": [
+    "Yingyu Liang",
+    "Zhenmei Shi",
+    "Zhao Song",
+    "Chiwun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ltd6tJ5pHJ",
+   "pdf_url": "https://openreview.net/pdf?id=ltd6tJ5pHJ"
+  },
+  {
+   "title": "Training Domain Draft Models for Speculative Decoding: Best Practices and Insights",
+   "authors": [
+    "Fenglu Hong",
+    "Ravi Shanker Raju",
+    "Jonathan Lingjie Li",
+    "Bo Li",
+    "Urmish Thakker",
+    "Avinash Ravichandran",
+    "Swayambhoo Jain",
+    "Changran Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7FBJIxYXxd",
+   "pdf_url": "https://openreview.net/pdf?id=7FBJIxYXxd"
+  },
+  {
+   "title": "UniForm: A Reuse Attention Mechanism for Efficient Transformers on Resource-Constrained Edge Devices",
+   "authors": [
+    "Seul-Ki Yeom",
+    "Tae-Ho Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rjnKCFZuJt",
+   "pdf_url": "https://openreview.net/pdf?id=rjnKCFZuJt"
+  },
+  {
+   "title": "Universal LLM Routing with Correctness-Based Representation",
+   "authors": [
+    "Wittawat Jitkrittum",
+    "Harikrishna Narasimhan",
+    "Ankit Singh Rawat",
+    "Jeevesh Juneja",
+    "Zifeng Wang",
+    "Chen-Yu Lee",
+    "Pradeep Shenoy",
+    "Rina Panigrahy",
+    "Aditya Krishna Menon",
+    "Sanjiv Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QpOCijgaBE",
+   "pdf_url": "https://openreview.net/pdf?id=QpOCijgaBE"
+  },
+  {
+   "title": "XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units",
+   "authors": [
+    "Arghadip Das",
+    "Arnab Raha",
+    "Shamik Kundu",
+    "Soumendu Kumar Ghosh",
+    "Deepak Mathaikutty",
+    "Vijay Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5kKdgokvCj",
+   "pdf_url": "https://openreview.net/pdf?id=5kKdgokvCj"
+  },
+  {
+   "title": "Yes, Q-learning Helps Offline In-Context RL",
+   "authors": [
+    "Denis Tarasov",
+    "Alexander Nikulin",
+    "Ilya Zisman",
+    "Albina Klepach",
+    "Andrei Polubarov",
+    "Lyubaykin Nikita",
+    "Alexander Derevyagin",
+    "Igor Kiselev",
+    "Vladislav Kurenkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d8FOzVhhmH",
+   "pdf_url": "https://openreview.net/pdf?id=d8FOzVhhmH"
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/ML4RS_Main_Track",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:23.913Z",
+ "paper_count": 42,
+ "papers": [
+  {
+   "title": "A Benchmark for Presence-Uncertain Few-Shot Segmentation in Real-World Remote Sensing Scenarios",
+   "authors": [
+    "Youngtack Oh",
+    "Jeongwon Ryu",
+    "Minseok Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7k27o7R7Sa",
+   "pdf_url": "https://openreview.net/pdf?id=7k27o7R7Sa"
+  },
+  {
+   "title": "ACCELERATED HIGH-RESOLUTION RADIATIVE TRANSFER SIMULATION FOR CO2 CONCENTRATION ESTIMATION FROM NANOCARB MEASUREMENTS",
+   "authors": [
+    "Jordan Lontsi Tedongmo",
+    "Pablo Musé",
+    "Andres Almansa",
+    "Gabriele Facciolo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sFqrGe3GYF",
+   "pdf_url": "https://openreview.net/pdf?id=sFqrGe3GYF"
+  },
+  {
+   "title": "Assessing the Impact of Threshold on Cloud Masking Algorithms for Downstream Tasks",
+   "authors": [
+    "Fernando Kenzo Imami Fugihara",
+    "Marlon Fernandes de Souza",
+    "RUBENS AUGUSTO CAMARGO LAMPARELLI",
+    "Helio Pedrini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0X7yZncUk6",
+   "pdf_url": "https://openreview.net/pdf?id=0X7yZncUk6"
+  },
+  {
+   "title": "Beyond Spatial Resolution: Comparing Sentinel-2 and PlanetScope imagery for efficient remote mapping",
+   "authors": [
+    "Murilo Henrique Souza de Oliveira",
+    "Marlon Fernandes de Souza",
+    "Fernando Kenzo Imami Fugihara",
+    "RUBENS AUGUSTO CAMARGO LAMPARELLI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KrttzXQWRe",
+   "pdf_url": "https://openreview.net/pdf?id=KrttzXQWRe"
+  },
+  {
+   "title": "Bridging the \"Predictability Desert\": A Probabilistic Bias Correction Framework for AI and Dynamical Subseasonal Forecasts",
+   "authors": [
+    "Hannah Guan",
+    "Soukayna Mouatadid",
+    "Paulo Orenstein",
+    "Judah Cohen",
+    "Zekun Ni",
+    "Haiyu Dong",
+    "Genevieve Elaine Flaspohler",
+    "Alex Xijie Lu",
+    "Jonathan A. Weyn",
+    "Lester Mackey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oqCTH31O88",
+   "pdf_url": "https://openreview.net/pdf?id=oqCTH31O88"
+  },
+  {
+   "title": "CERBERUS: A Three-Headed Decoder for Vertical Cloud Profiles",
+   "authors": [
+    "Emily Katherine de Jong",
+    "Kevin M. Smalley",
+    "Peter Martin Caldwell",
+    "Nipun Gunawardena",
+    "Hassan Beydoun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3eQBmoPBkw",
+   "pdf_url": "https://openreview.net/pdf?id=3eQBmoPBkw"
+  },
+  {
+   "title": "Changing Modalities by Cross-Band Transfer, Addition, and Peeking",
+   "authors": [
+    "Tim G. Zhou",
+    "Anthony Fuller",
+    "Geoff Pleiss",
+    "Evan Shelhamer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rkGlI80m12",
+   "pdf_url": "https://openreview.net/pdf?id=rkGlI80m12"
+  },
+  {
+   "title": "Characterizing Brazilian Atlantic Forest Restoration Outcomes with Geospatial Alpha-Earth Embeddings",
+   "authors": [
+    "Alice Heiman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wpU64TLQg5",
+   "pdf_url": "https://openreview.net/pdf?id=wpU64TLQg5"
+  },
+  {
+   "title": "Correcting Geospatial Data Displacement with Foundation Vision Models",
+   "authors": [
+    "Eduardo Lopes de Lemos",
+    "Jefersson A Dos Santos",
+    "Wesley Nunes Gonçalves"
+   ],
+   "forum_url": "https://openreview.net/forum?id=APR7Bkh3QL",
+   "pdf_url": "https://openreview.net/pdf?id=APR7Bkh3QL"
+  },
+  {
+   "title": "Deep Learning for Super-resolution of Sea Ice Concentration: Case Study of OSISAF Downscaler",
+   "authors": [
+    "Julia Borisova",
+    "Dmitry Morozov",
+    "Dmitry Gilemkhanov",
+    "Nikolay Nikitin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nLxgFdKi30",
+   "pdf_url": "https://openreview.net/pdf?id=nLxgFdKi30"
+  },
+  {
+   "title": "DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery",
+   "authors": [
+    "Geet Sethi",
+    "Panav Shah",
+    "Ashutosh Gandhe",
+    "Soumitra Darshan Nayak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NegRR3ewZ5",
+   "pdf_url": "https://openreview.net/pdf?id=NegRR3ewZ5"
+  },
+  {
+   "title": "EMBEDDING-ONLY UPLINK FOR ONBOARD RETRIEVAL UNDER SHIFT IN REMOTE SENSING",
+   "authors": [
+    "Sangcheol Sim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IbzEpGdblY",
+   "pdf_url": "https://openreview.net/pdf?id=IbzEpGdblY"
+  },
+  {
+   "title": "EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data",
+   "authors": [
+    "Nils Lehmann",
+    "Yi Wang",
+    "Zhitong Xiong",
+    "Xiao Xiang Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nCpZOcdrbJ",
+   "pdf_url": "https://openreview.net/pdf?id=nCpZOcdrbJ"
+  },
+  {
+   "title": "Evaluating Self-Supervised Objectives for Spectroscopic Satellite Embeddings",
+   "authors": [
+    "Manuel Ignacio Pérez-Carrasco",
+    "Core Francisco Park",
+    "Qindan Zhu",
+    "Rocco Di Tella",
+    "Zolal Ayazpour",
+    "Gonzalo González Abad",
+    "Cecilia Garraffo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vDOfmVF3r6",
+   "pdf_url": "https://openreview.net/pdf?id=vDOfmVF3r6"
+  },
+  {
+   "title": "FOCUS: A Noise-Aware Geospatial Learning Framework for PFAS Contamination Mapping",
+   "authors": [
+    "Jowaria Khan",
+    "Alexa Friedman",
+    "Sydney Evans",
+    "Rachel Klein",
+    "Runzi Wang",
+    "Katherine E. Manz",
+    "Kaley Beins",
+    "David Q. Andrews",
+    "Elizabeth Bondi-Kelly"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zLMTU3U3ym",
+   "pdf_url": "https://openreview.net/pdf?id=zLMTU3U3ym"
+  },
+  {
+   "title": "From Pixels to Patches: Pooling Strategies for Earth Embeddings",
+   "authors": [
+    "Isaac Corley",
+    "Caleb Robinson",
+    "Juan M Lavista Ferres",
+    "Inbal Becker-Reshef"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oPfOVLFIrU",
+   "pdf_url": "https://openreview.net/pdf?id=oPfOVLFIrU"
+  },
+  {
+   "title": "Fusion of Foundation Models for Imbalanced SAR Ship Classification",
+   "authors": [
+    "Ch Muhammad Awais",
+    "Marco Reggiannini",
+    "Davide Moroni",
+    "Oktay Karakus"
+   ],
+   "forum_url": "https://openreview.net/forum?id=g99Bn9Az1f",
+   "pdf_url": "https://openreview.net/pdf?id=g99Bn9Az1f"
+  },
+  {
+   "title": "GeoAI Agency Primitives",
+   "authors": [
+    "Akram Zaytar",
+    "Rohan Sawahn",
+    "Caleb Robinson",
+    "Gilles HACHEME",
+    "Girmaw Abebe Tadesse",
+    "Inbal Becker-Reshef",
+    "Rahul M Dodhia",
+    "Juan M Lavista Ferres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wvebCGiQfZ",
+   "pdf_url": "https://openreview.net/pdf?id=wvebCGiQfZ"
+  },
+  {
+   "title": "GeoCrossBench: Cross-Band Generalization for Remote Sensing",
+   "authors": [
+    "Hakob Tamazyan",
+    "Ani Vanyan",
+    "Alvard Barseghyan",
+    "Anna Khosrovyan",
+    "Evan Shelhamer",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2PVcpYjZNw",
+   "pdf_url": "https://openreview.net/pdf?id=2PVcpYjZNw"
+  },
+  {
+   "title": "Global Particulate Matter Forecasting Using Lightweight, Region-Specific Deep Learning Models",
+   "authors": [
+    "Ansh Kushwaha",
+    "Kaushik Gopalan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K0xkTNEmJ9",
+   "pdf_url": "https://openreview.net/pdf?id=K0xkTNEmJ9"
+  },
+  {
+   "title": "Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark",
+   "authors": [
+    "Nathan Senyard",
+    "Salem Hamdani",
+    "Astrid Zhang",
+    "Derek Wang",
+    "Evan Shelhamer",
+    "Mathias Lécuyer",
+    "Joséphine Gantois"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mOMTBBgq5n",
+   "pdf_url": "https://openreview.net/pdf?id=mOMTBBgq5n"
+  },
+  {
+   "title": "HOSS-Bench: Open-Set Cross-Modal Vessel Re-Identification Benchmark",
+   "authors": [
+    "Anna Khosrovyan",
+    "Hakob Tamazyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hZwvQwTfU8",
+   "pdf_url": "https://openreview.net/pdf?id=hZwvQwTfU8"
+  },
+  {
+   "title": "Human-Guided Causal Hypothesis Testing for Remote Sensing Anomaly Detection",
+   "authors": [
+    "Kaustubha V"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kvHQLFw53R",
+   "pdf_url": "https://openreview.net/pdf?id=kvHQLFw53R"
+  },
+  {
+   "title": "Large Multimodal Models Enable Scalable Monitoring of Aquaculture Ponds",
+   "authors": [
+    "Anmol Kabra",
+    "Felipe Siqueira Pacheco",
+    "Brendan Hogan Rappazzo",
+    "Laura Greenstreet",
+    "Joshua Fan",
+    "Aaron M Ferber",
+    "MARTA EICHEMBERGER UMMUS",
+    "Alecsander Gomes Brito",
+    "Alexander Flecker",
+    "Carla P Gomes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NBVRAgXDYM",
+   "pdf_url": "https://openreview.net/pdf?id=NBVRAgXDYM"
+  },
+  {
+   "title": "MapRef: A Referring Expression Comprehension Benchmark for Maps",
+   "authors": [
+    "Michael J. Bianco",
+    "Jacob Kovarskiy",
+    "Raphael Tang",
+    "Qi Zhang",
+    "Xiaojie Guo",
+    "Jay Patravali",
+    "Cassandra Burgess",
+    "Heming Liao",
+    "Matthew Scott Washburn",
+    "Suvam Bag",
+    "Talha Kilic",
+    "Zirui Xu",
+    "Nikolaos Karianakis",
+    "Fuxun Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P39YgSzQwI",
+   "pdf_url": "https://openreview.net/pdf?id=P39YgSzQwI"
+  },
+  {
+   "title": "Monitoring access to piped water and sanitation infrastructure in Africa at disaggregated scales using satellite imagery and self-supervised learning",
+   "authors": [
+    "Othmane Echchabi",
+    "Aya Lahlou",
+    "Nizar Talty",
+    "Tongshu Zheng",
+    "Ka Leung Lam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lLk9o9liOm",
+   "pdf_url": "https://openreview.net/pdf?id=lLk9o9liOm"
+  },
+  {
+   "title": "Multimodal AI-Driven Global Mapping of Anthropogenic Methane Emitters",
+   "authors": [
+    "Jiahao Li",
+    "Xiaomeng Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZ0QGjiJ8R",
+   "pdf_url": "https://openreview.net/pdf?id=LZ0QGjiJ8R"
+  },
+  {
+   "title": "Precipitation nowcasting of satellite data using physically-aligned neural networks",
+   "authors": [
+    "Antônio Catão",
+    "Melvin Poveda",
+    "Leonardo Voltarelli",
+    "Paulo Orenstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qIka1ACAEF",
+   "pdf_url": "https://openreview.net/pdf?id=qIka1ACAEF"
+  },
+  {
+   "title": "Recovering Cloud Microstructures with Cascaded Diffusion Inversion",
+   "authors": [
+    "Hanan Gani",
+    "Guy Pulik",
+    "Daniel Rosenfeld",
+    "Duncan Watson-Parris",
+    "Salman Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xz7in1KpXr",
+   "pdf_url": "https://openreview.net/pdf?id=Xz7in1KpXr"
+  },
+  {
+   "title": "Representation Mismatch in Remote Sensing Foundation Models",
+   "authors": [
+    "Gabriel Nixon",
+    "Aditya Mhatre"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a2aRpGILl8",
+   "pdf_url": "https://openreview.net/pdf?id=a2aRpGILl8"
+  },
+  {
+   "title": "SAR-Conditioned Flow Matching for SAR-to-Optical Image Translation",
+   "authors": [
+    "Jeongwon Ryu",
+    "Youngtack Oh",
+    "Minseok Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MKO9VC17Uz",
+   "pdf_url": "https://openreview.net/pdf?id=MKO9VC17Uz"
+  },
+  {
+   "title": "Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing",
+   "authors": [
+    "Kursat Komurcu",
+    "Linas Petkevicius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WBHfQLbgZR",
+   "pdf_url": "https://openreview.net/pdf?id=WBHfQLbgZR"
+  },
+  {
+   "title": "Self-Supervised Pretraining for Power Generation via Dynamic Guided Masking",
+   "authors": [
+    "Ananya Shriram",
+    "Advika Srivastava",
+    "Ishita Choudhary",
+    "Ananya Das",
+    "Sarvesh Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m34TWtcYRT",
+   "pdf_url": "https://openreview.net/pdf?id=m34TWtcYRT"
+  },
+  {
+   "title": "Spatially-Constrained Clustering of Geospatial Features for Heat Vulnerability Assessment of Favelas in Rio de Janeiro",
+   "authors": [
+    "Baptiste CLEMENCE",
+    "Thomas Hallopeau",
+    "Laurent Demagistri",
+    "Joris Guerin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h4iRub352n",
+   "pdf_url": "https://openreview.net/pdf?id=h4iRub352n"
+  },
+  {
+   "title": "Spectral Gaps and Spatial Priors: Studying Hyperspectral Downstream Adaptation Using TerraMind",
+   "authors": [
+    "Julia Anna Leonardi",
+    "Johannes Jakubik",
+    "Paolo Fraccaro",
+    "Maria Antonia Brovelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bASL3IcgZP",
+   "pdf_url": "https://openreview.net/pdf?id=bASL3IcgZP"
+  },
+  {
+   "title": "Survey Protocol Cards for Crop Maps",
+   "authors": [
+    "Akram Zaytar",
+    "Girmaw Abebe Tadesse",
+    "Caleb Robinson",
+    "Gilles HACHEME",
+    "Inbal Becker-Reshef",
+    "Rahul M Dodhia",
+    "Juan M Lavista Ferres"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fqms9xeRpD",
+   "pdf_url": "https://openreview.net/pdf?id=Fqms9xeRpD"
+  },
+  {
+   "title": "Transitive Semantic Alignment in Class-Conditioned Latent Diffusion for Martian Hyperspectral Mineral Mapping",
+   "authors": [
+    "Abhiroop Chatterjee",
+    "Susmita Ghosh",
+    "Ashish Ghosh",
+    "Emmett Ientilucci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VYET9KJ32Z",
+   "pdf_url": "https://openreview.net/pdf?id=VYET9KJ32Z"
+  },
+  {
+   "title": "Understanding Representation Gaps across Scales in Tropical Tree Species Classification from Drone Imagery",
+   "authors": [
+    "Sulagna Saha",
+    "Arthur Ouaknine",
+    "Etienne Laliberté",
+    "Carol Altimas",
+    "Evan M. Gora",
+    "Adriane Esquivel Muelbert",
+    "Ian R. McGregor",
+    "Cesar Gutierrez",
+    "Vanessa E. Rubio",
+    "David Rolnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xHobw3DisK",
+   "pdf_url": "https://openreview.net/pdf?id=xHobw3DisK"
+  },
+  {
+   "title": "VibrantSR: Sub-Meter Canopy Height Models from Sentinel-2 Using Generative Flow Matching",
+   "authors": [
+    "Kiarie Ndegwa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MVadBIaOwi",
+   "pdf_url": "https://openreview.net/pdf?id=MVadBIaOwi"
+  },
+  {
+   "title": "When Does Embedding Arithmetic Fail? A Systematic Analysis in Remote Sensing Vision-Language Models",
+   "authors": [
+    "Jinpyo Hong",
+    "Le Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SmTDce10MP",
+   "pdf_url": "https://openreview.net/pdf?id=SmTDce10MP"
+  },
+  {
+   "title": "When Less Is More: Simplicity Beats Complexity for Physics-Constrained InSAR Phase Unwrapping",
+   "authors": [
+    "Prabhjot Singh",
+    "Manmeet Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=liJldeR5ZX",
+   "pdf_url": "https://openreview.net/pdf?id=liJldeR5ZX"
+  },
+  {
+   "title": "When Vision Needs a Second Look: Tool-Augmented Active Perception for Earth Observation",
+   "authors": [
+    "Atul Dev",
+    "Shivank Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MJASv2eP2K",
+   "pdf_url": "https://openreview.net/pdf?id=MJASv2eP2K"
+  }
+ ]
+}

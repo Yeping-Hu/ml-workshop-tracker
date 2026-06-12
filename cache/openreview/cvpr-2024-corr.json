@@ -1,0 +1,178 @@
+{
+ "venue_id": "thecvf.com/CVPR/2024/Workshop/CORR",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:41:09.648Z",
+ "paper_count": 14,
+ "papers": [
+  {
+   "title": "4D Unsupervised Object Discovery",
+   "authors": [
+    "Yuqi Wang",
+    "Yuntao Chen",
+    "Zhaoxiang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LZWnZDaFsY",
+   "pdf_url": "https://openreview.net/pdf?id=LZWnZDaFsY"
+  },
+  {
+   "title": "Adaptive Slot Attention: Object Discovery with Dynamic Slot Number",
+   "authors": [
+    "Ke Fan",
+    "Zechen Bai",
+    "Tianjun Xiao",
+    "Tong He",
+    "Max Horn",
+    "Yanwei Fu",
+    "Francesco Locatello",
+    "Zheng Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IbO09UhfZa",
+   "pdf_url": "https://openreview.net/pdf?id=IbO09UhfZa"
+  },
+  {
+   "title": "Adaptive Visual Abstraction via Object Token Merging and Pruning for Efficient Robot Manipulation",
+   "authors": [
+    "Jisu Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s4A6cJG3Dn",
+   "pdf_url": "https://openreview.net/pdf?id=s4A6cJG3Dn"
+  },
+  {
+   "title": "CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge Causality Research",
+   "authors": [
+    "Andreas W.M. Sauter",
+    "Erman Acar",
+    "Aske Plaat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MiGEQ6L624",
+   "pdf_url": "https://openreview.net/pdf?id=MiGEQ6L624"
+  },
+  {
+   "title": "CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement Learning",
+   "authors": [
+    "Andreas W.M. Sauter",
+    "Nicolò Botteghi",
+    "Erman Acar",
+    "Aske Plaat"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UhngAkFmWr",
+   "pdf_url": "https://openreview.net/pdf?id=UhngAkFmWr"
+  },
+  {
+   "title": "Diagnosing Hallucination Problem in Object Navigation",
+   "authors": [
+    "Kaiwen Zhou",
+    "Kwonjoon Lee",
+    "Yue Fan",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GOtJcSGbJB",
+   "pdf_url": "https://openreview.net/pdf?id=GOtJcSGbJB"
+  },
+  {
+   "title": "DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer",
+   "authors": [
+    "Jack Collins",
+    "Ingmar Posner",
+    "Yizhe Wu",
+    "Haitz Sáez de Ocáriz Borde",
+    "Oiwi Parker Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UXKGi7YLeT",
+   "pdf_url": "https://openreview.net/pdf?id=UXKGi7YLeT"
+  },
+  {
+   "title": "EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation",
+   "authors": [
+    "Chanyoung Kim",
+    "Woojung Han",
+    "Dayun Ju",
+    "Seong Jae Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JCYoVUjpKs",
+   "pdf_url": "https://openreview.net/pdf?id=JCYoVUjpKs"
+  },
+  {
+   "title": "Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement",
+   "authors": [
+    "Nikolaos Gkanatsios",
+    "Ayush Jain",
+    "Zhou Xian",
+    "Yunchu Zhang",
+    "Christopher G Atkeson",
+    "Katerina Fragkiadaki"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YtozUfp0Ly",
+   "pdf_url": "https://openreview.net/pdf?id=YtozUfp0Ly"
+  },
+  {
+   "title": "Modular World Models with Competitive Independent Mechanisms",
+   "authors": [
+    "Anson Lei",
+    "Frederik P. Nolte",
+    "Bernhard Schölkopf",
+    "Ingmar Posner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8exP12DDJo",
+   "pdf_url": "https://openreview.net/pdf?id=8exP12DDJo"
+  },
+  {
+   "title": "SPOT: Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers",
+   "authors": [
+    "Ioannis Kakogeorgiou",
+    "Spyros Gidaris",
+    "Konstantinos Karantzalos",
+    "Nikos Komodakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WPWhUjX05f",
+   "pdf_url": "https://openreview.net/pdf?id=WPWhUjX05f"
+  },
+  {
+   "title": "Towards Interpretable Controllability in Object-Centric Learning",
+   "authors": [
+    "Jinwoo Kim",
+    "Janghyuk Choi",
+    "Jaehyun Kang",
+    "Changyeon Lee",
+    "Ho-Jin Choi",
+    "Seon Joo Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXhnXhBHQs",
+   "pdf_url": "https://openreview.net/pdf?id=KXhnXhBHQs"
+  },
+  {
+   "title": "Understanding Video Transformers via Universal Concept Discovery",
+   "authors": [
+    "Matthew Kowal",
+    "Achal Dave",
+    "Rares Andrei Ambrus",
+    "Adrien Gaidon",
+    "Konstantinos G. Derpanis",
+    "Pavel Tokmakov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eb64G2BEM8",
+   "pdf_url": "https://openreview.net/pdf?id=Eb64G2BEM8"
+  },
+  {
+   "title": "Unsupervised Open-Vocabulary Object Localization in Videos",
+   "authors": [
+    "Ke Fan",
+    "Zechen Bai",
+    "Tianjun Xiao",
+    "Dominik Zietlow",
+    "Max Horn",
+    "Zixu Zhao",
+    "Carl-Johann Simon-Gabriel",
+    "Mike Zheng Shou",
+    "Francesco Locatello",
+    "Bernt Schiele",
+    "Thomas Brox",
+    "Zheng Zhang",
+    "Yanwei Fu",
+    "Tong He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lKHN5k6Sbi",
+   "pdf_url": "https://openreview.net/pdf?id=lKHN5k6Sbi"
+  }
+ ]
+}

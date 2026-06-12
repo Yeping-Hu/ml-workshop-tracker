@@ -1,0 +1,497 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/VerifAI-2",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:46.950Z",
+ "paper_count": 39,
+ "papers": [
+  {
+   "title": "A  NASH EQUILIBRIUM FRAMEWORK FOR TRAINING FREE MULTIMODAL STEP VERIFICATION",
+   "authors": [
+    "Rohit Sinha",
+    "Kunal Tilaganji",
+    "Tanuja Ganu",
+    "Nagarajan Natarajan",
+    "Amit Sharma",
+    "Vineeth N. Balasubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j6DyGytZRn",
+   "pdf_url": null
+  },
+  {
+   "title": "A Minimal Agent for Automated Theorem Proving",
+   "authors": [
+    "Borja Requena",
+    "Austin Letson",
+    "Krystian Nowakowski",
+    "Izan Beltran Ferreiro",
+    "Leopoldo Sarra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E30g7bO7rU",
+   "pdf_url": null
+  },
+  {
+   "title": "Agentic Uncertainty Reveals Agentic Overconfidence",
+   "authors": [
+    "Jean Kaddour",
+    "Srijan Patel",
+    "Gbetondji Jean-Sebastien Dovonon",
+    "Leo Richter",
+    "Pasquale Minervini",
+    "Matt J. Kusner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wCeL77m2aP",
+   "pdf_url": null
+  },
+  {
+   "title": "Autoformalizing Memory Device Specifications with Agents",
+   "authors": [
+    "Jan Ole Ernst",
+    "Dmitri Michelangelo Saberi",
+    "Thomas Zimmermann",
+    "Derek Christ",
+    "Rajath Salegame",
+    "Suhaas M Bhat",
+    "Stanislav Levental",
+    "Thomas Dybdahl Ahle",
+    "Matthias Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pWWjN29mA1",
+   "pdf_url": null
+  },
+  {
+   "title": "Beaver: An Efficient Deterministic LLM Verifier",
+   "authors": [
+    "Tarun Suresh",
+    "Nalin Wadhwa",
+    "Debangshu Banerjee",
+    "Gagandeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xO3efBXHM9",
+   "pdf_url": null
+  },
+  {
+   "title": "Benchmarking Code Verification Strategies with LLMs-as-a-judge",
+   "authors": [
+    "Arnav Kumar Jain",
+    "Justin T Chiu",
+    "Tom Sherborne",
+    "Matthias Gallé"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AP8ZlN7lwU",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Self-Checking: Fragment-Level Verification Across Diverse LLMs",
+   "authors": [
+    "Ken Mueller",
+    "Arihant Choudhary",
+    "David Perez",
+    "Scott Mueller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U19s6I8Q0u",
+   "pdf_url": null
+  },
+  {
+   "title": "Computational Arbitrage in AI Model Markets",
+   "authors": [
+    "Ricardo Olmedo",
+    "Bernhard Schölkopf",
+    "Moritz Hardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EvEntPtGO0",
+   "pdf_url": null
+  },
+  {
+   "title": "Conv-to-Bench: Evaluating Language Models Via User–Assistant Dialogues In Code Tasks",
+   "authors": [
+    "Victor Moreli dos Santos",
+    "André Cerqueira Castro",
+    "Samuel Lopes de Souza Toledo",
+    "Bruno Moreira Lavalli Calura",
+    "Lisandra Cristina de Moura Menezes",
+    "Raul César Reis Mata",
+    "Telma Woerle de Lima Soares",
+    "Bryan Lincoln Marques de Oliveira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4phh5PRlp",
+   "pdf_url": null
+  },
+  {
+   "title": "DafnyLLM: Pre-training Dafny Representations with Large Language Models for Code Verification",
+   "authors": [
+    "Shentong Mo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YCLj6gpEPx",
+   "pdf_url": null
+  },
+  {
+   "title": "Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning",
+   "authors": [
+    "Kyuhee Kim",
+    "Auguste Poiroux",
+    "Antoine Bosselut"
+   ],
+   "forum_url": "https://openreview.net/forum?id=90UYzUQ7Nq",
+   "pdf_url": null
+  },
+  {
+   "title": "Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy",
+   "authors": [
+    "Andrea Brunello",
+    "Luca Geatti",
+    "Michele Mignani",
+    "Angelo Montanari",
+    "Nicola Saccomanno"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gzeu7hMpo4",
+   "pdf_url": null
+  },
+  {
+   "title": "Enforcing Temporal Constraints for LLM Agents",
+   "authors": [
+    "Adharsh Kamath",
+    "Sishen Zhang",
+    "Changming Xu",
+    "Shubham Ugare",
+    "Gagandeep Singh",
+    "Sasa Misailovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VeRehDnGJJ",
+   "pdf_url": null
+  },
+  {
+   "title": "Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning",
+   "authors": [
+    "Manan Tayal",
+    "Mumuksh Tayal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U3EW3m3Ys5",
+   "pdf_url": null
+  },
+  {
+   "title": "Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence",
+   "authors": [
+    "Bingji Yi",
+    "Qiyuan Liu",
+    "Yuwei Cheng",
+    "Haifeng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dXH1zC8Goy",
+   "pdf_url": null
+  },
+  {
+   "title": "Evaluating Agentic Optimization on Large Codebases",
+   "authors": [
+    "Atharva Sehgal",
+    "James Hou",
+    "Akanksha Sarkar",
+    "Ishaan Mantripragada",
+    "Swarat Chaudhuri",
+    "Jennifer J. Sun",
+    "Yisong Yue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l3lANclaJg",
+   "pdf_url": null
+  },
+  {
+   "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+   "authors": [
+    "Nikil Ravi",
+    "Kexing Ying",
+    "Vasilii Nesterov",
+    "Rayan Krishnan",
+    "Elif Uskuplu",
+    "Bingyu Xia",
+    "Janitha Aswedige",
+    "Langston Nashold"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1LdnVndCEG",
+   "pdf_url": null
+  },
+  {
+   "title": "Geometry of Reason: Probabilistic Spectral Verification for Mathematical Reasoning",
+   "authors": [
+    "Valentin NOËL"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4eLnZQgCP",
+   "pdf_url": null
+  },
+  {
+   "title": "GLEAN: Guideline-Grounded Evidence Accumulation for High-Stakes Agent Verification",
+   "authors": [
+    "Yichi Zhang",
+    "Nabeel Seedat",
+    "Yinpeng Dong",
+    "Peng Cui",
+    "Jun Zhu",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l82IbMOAzp",
+   "pdf_url": null
+  },
+  {
+   "title": "Grounding Long-Horizon Agent Coordination in GUI Environments via Contract-based Structural Planning",
+   "authors": [
+    "Hao Yu",
+    "Weiming Li",
+    "Yueming Lyu",
+    "Jie-Jing Shao",
+    "Yulei Sui",
+    "Ivor Tsang",
+    "Haiyan Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cTwRYWVzHO",
+   "pdf_url": null
+  },
+  {
+   "title": "Identifying and Mitigating Reasoning Errors in VLM Verifiers via Activation Decomposition",
+   "authors": [
+    "Joonhyuk Cha",
+    "Moises Andrade",
+    "Zsolt Kira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fGQDQgrFyz",
+   "pdf_url": null
+  },
+  {
+   "title": "interwhen: A Generalizable Framework for Verifiable Reasoning with Test-time Monitors",
+   "authors": [
+    "Vishak K Bhat",
+    "Prateek Chanda",
+    "Ashmit Khandelwal",
+    "Maitreyi Swaroop",
+    "Subbarao Kambhampati",
+    "Vineeth N. Balasubramanian",
+    "Nagarajan Natarajan",
+    "Amit Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SFOkliC171",
+   "pdf_url": null
+  },
+  {
+   "title": "ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?",
+   "authors": [
+    "Ayush Nangia",
+    "Shikhar Mishra",
+    "Aman Gokrani",
+    "Paras Chopra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gPfqEnaKCy",
+   "pdf_url": null
+  },
+  {
+   "title": "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math",
+   "authors": [
+    "Guijin Son",
+    "Donghun Yang",
+    "Hitesh Laxmichand Patel",
+    "Hyunwoo Ko",
+    "Amit Agarwal",
+    "Sunghee Ahn",
+    "Kyong-Ha Lee",
+    "Youngjae Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mLkl6bHiNW",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning from Synthetic Data Improves Multi-hop Reasoning",
+   "authors": [
+    "Anmol Kabra",
+    "Yilun Yin",
+    "Albert Gong",
+    "Kamilė Stankevičiūtė",
+    "Dongyoung Go",
+    "Johann Lee",
+    "Katie Z Luo",
+    "Carla P Gomes",
+    "Kilian Q Weinberger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JEA9UcQncY",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Rank the Initial Branching Order of SAT Solvers",
+   "authors": [
+    "Arvid Eriksson",
+    "Gabriel Poesia",
+    "Roman Bresson",
+    "Karl Henrik Johansson",
+    "David Broman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NJVfVE9i1h",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Repair Lean Proofs from Compiler Feedback",
+   "authors": [
+    "Evan Wang",
+    "Simon Chess",
+    "Daniel Lee",
+    "Siyuan Ge",
+    "Ajit Mallavarapu",
+    "Vasily Ilin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fF46jVTjS8",
+   "pdf_url": null
+  },
+  {
+   "title": "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models",
+   "authors": [
+    "Guijin Son",
+    "Dongkeun Yoon",
+    "Juyoung Suk",
+    "Javier Aula-Blasco",
+    "Mano Aslan",
+    "Kim Vu",
+    "Shayekh Bin Islam",
+    "Jaume Prats-Cristià",
+    "Lucía Tormo-Bañuelos",
+    "Seungone Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dxhtb2CxEY",
+   "pdf_url": null
+  },
+  {
+   "title": "NANOZK: Layerwise Zero-Knowledge Proofs for Verifiable Large Language Model Inference",
+   "authors": [
+    "Zhaohui Geoffrey Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zNTAvn3sct",
+   "pdf_url": null
+  },
+  {
+   "title": "ProofRepairBench: Exploring Proof Repair in Lean",
+   "authors": [
+    "Manooshree Patel",
+    "Bartosz Piotrowski",
+    "Leopold Haller",
+    "Hugh James Leather"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6SwWVNwEJK",
+   "pdf_url": null
+  },
+  {
+   "title": "Quokka: Accelerating Program Verification with LLMs via Invariant Synthesis",
+   "authors": [
+    "Anjiang Wei",
+    "Tarun Suresh",
+    "Tianran Sun",
+    "Haoze Wu",
+    "Ke Wang",
+    "Alex Aiken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nq03VvBki2",
+   "pdf_url": null
+  },
+  {
+   "title": "ROC-n-reroll: How verifier imperfection affects test-time scaling",
+   "authors": [
+    "Florian E. Dorner",
+    "Yatong Chen",
+    "André F Cruz",
+    "Fanny Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KFaIb7j13t",
+   "pdf_url": null
+  },
+  {
+   "title": "RocqSmith: Can Automatic Optimization Forge Better Proof Agents?",
+   "authors": [
+    "Andrei Kozyrev",
+    "Nikita Khramov",
+    "Denis Lochmelis",
+    "Valerio Morelli",
+    "Gleb Solovev",
+    "Anton Podkopaev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xFEF0vZVBc",
+   "pdf_url": null
+  },
+  {
+   "title": "Scaling Evaluation-Time Compute with Reasoning Models as Process Evaluators",
+   "authors": [
+    "Seungone Kim",
+    "Ian Wu",
+    "Jinu Lee",
+    "Xiang Yue",
+    "Seongyun Lee",
+    "Minkyeong Moon",
+    "Carolin Lawrence",
+    "Kiril Gashteovski",
+    "Julia Hockenmaier",
+    "Graham Neubig",
+    "Sean Welleck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4fSeK1moXd",
+   "pdf_url": null
+  },
+  {
+   "title": "SorryDB: Can AI Provers Complete Real-World Lean Theorems?",
+   "authors": [
+    "Austin Letson",
+    "Leopoldo Sarra",
+    "Auguste Poiroux",
+    "Oliver Dressler",
+    "Paul Lezeau",
+    "Dhyan Aranha",
+    "Frederick Pu",
+    "Aaron Hill",
+    "Miguel Corredera Hidalgo",
+    "Julian Berman",
+    "George Tsoukalas",
+    "Lenny Taelman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BAAskLzM1W",
+   "pdf_url": null
+  },
+  {
+   "title": "The Dual Nature of Unlearning: Impact of Fact Salience and Model Fine-Tuning",
+   "authors": [
+    "Anna Borisiuk",
+    "Andrey Savchenko",
+    "Alexander Panchenko",
+    "Elena Tutubalina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oQLCpJLBUL",
+   "pdf_url": null
+  },
+  {
+   "title": "ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents",
+   "authors": [
+    "Dawei Li",
+    "Yuguang Yao",
+    "Zhen Tan",
+    "huan liu",
+    "Ruocheng Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ge4MZdIRis",
+   "pdf_url": null
+  },
+  {
+   "title": "Unified Operational Formalism for LLM-based Theorem-proving Systems",
+   "authors": [
+    "Avaljot Singh",
+    "Shaurya Gomber",
+    "Yasmin Sarita",
+    "José Meseguer",
+    "Gagandeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OCmzbtoeUx",
+   "pdf_url": null
+  },
+  {
+   "title": "Verification Limits Code LLM Training",
+   "authors": [
+    "Srishti Gureja",
+    "Marzieh Fadaee",
+    "Sara Hooker",
+    "Matthias Gallé",
+    "Jingyi He",
+    "Elena Tommasone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KP2nLjrkhD",
+   "pdf_url": null
+  }
+ ]
+}

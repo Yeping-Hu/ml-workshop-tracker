@@ -1,0 +1,1386 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/GenAI4Health",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:50.015Z",
+ "paper_count": 99,
+ "papers": [
+  {
+   "title": "3D Brain MRI Generation with a Clinically-Conditioned VAE-GAN and Diffusion-Driven Feature Sampling",
+   "authors": [
+    "Najmeh Mashhadi",
+    "Emmanouil Nikolakakis",
+    "Razvan Marinescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kjl51A6Pe9",
+   "pdf_url": "https://openreview.net/pdf?id=Kjl51A6Pe9"
+  },
+  {
+   "title": "An Interactive Framework for Generating Clinical Data with Human Feedback",
+   "authors": [
+    "Yu Yang",
+    "Jiafeng Song",
+    "Zhishuai Liu",
+    "Henry P Foote",
+    "Rishikesan Kamaleswaran",
+    "Pan Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wi4BYFoEOz",
+   "pdf_url": "https://openreview.net/pdf?id=wi4BYFoEOz"
+  },
+  {
+   "title": "Application of Whisper in Clinical Practice: the Post-Stroke Speech Assessment during a Naming Task",
+   "authors": [
+    "Milena Davudova",
+    "Ziyuan Cai",
+    "Valentina Giunchiglia",
+    "Dragos-Cristian Gruia",
+    "Giulia Sanguedolce",
+    "Adam Hampshire",
+    "Fatemeh Geranmayeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1P8VudBhpW",
+   "pdf_url": "https://openreview.net/pdf?id=1P8VudBhpW"
+  },
+  {
+   "title": "ArtifactGen: Benchmarking WGAN-GP vs Diffusion for Label-Aware EEG Artifact Synthesis",
+   "authors": [
+    "Hritik Arasu",
+    "Faisal R Jahangiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r0216Av8tP",
+   "pdf_url": "https://openreview.net/pdf?id=r0216Av8tP"
+  },
+  {
+   "title": "Automatic Correction of AI Reports using Fact-Checking Model-guided LLMs",
+   "authors": [
+    "Raziuddin Mahmood",
+    "Pingkun Yan",
+    "Tanveer F Syeda-Mahmood"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QT2aaP4mtx",
+   "pdf_url": "https://openreview.net/pdf?id=QT2aaP4mtx"
+  },
+  {
+   "title": "Balancing Safety and Helpfulness in Healthcare AI Assistants through Iterative Preference Alignment",
+   "authors": [
+    "Huy Nghiem",
+    "Swetasudha Panda",
+    "Devashish Khatwani",
+    "Huy V. Nguyen",
+    "Krishnaram Kenthapadi",
+    "Hal Daumé III"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4EbrxbyNJc",
+   "pdf_url": "https://openreview.net/pdf?id=4EbrxbyNJc"
+  },
+  {
+   "title": "Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL",
+   "authors": [
+    "Che Liu",
+    "Haozhe Wang",
+    "Jiazhen Pan",
+    "Zhongwei Wan",
+    "Yong Dai",
+    "Fangzhen Lin",
+    "Wenjia Bai",
+    "Daniel Rueckert",
+    "Rossella Arcucci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZ4WkOMDkB",
+   "pdf_url": "https://openreview.net/pdf?id=pZ4WkOMDkB"
+  },
+  {
+   "title": "Beyond Overall Accuracy: A Psychometric Deep Dive into the Topic-Specific Medical Capabilities of 80 Large Language Models",
+   "authors": [
+    "Zhimeng Luo",
+    "Lixin Wu",
+    "Adam Frisch",
+    "Daqing He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DVIHi5TFoc",
+   "pdf_url": "https://openreview.net/pdf?id=DVIHi5TFoc"
+  },
+  {
+   "title": "Bridging Graph and State-Space Modeling for Intensive Care Unit Length of Stay Prediction",
+   "authors": [
+    "Shuqi Zi",
+    "Haitz Sáez de Ocáriz Borde",
+    "Emma Charlotte Rocheteau",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bFWXfajCBH",
+   "pdf_url": "https://openreview.net/pdf?id=bFWXfajCBH"
+  },
+  {
+   "title": "Brittleness and Promise: Knowledge Graph–Based Reward Modeling for Diagnostic Reasoning",
+   "authors": [
+    "Saksham Khatwani",
+    "He Cheng",
+    "Majid Afshar",
+    "Dmitriy Dligach",
+    "Yanjun Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1NghvzH72L",
+   "pdf_url": "https://openreview.net/pdf?id=1NghvzH72L"
+  },
+  {
+   "title": "Can You Spot the Virtual Patient (VP)? Expert Evaluation, Turing Test, Linguistic Analysis, and Semantic Similarity Analysis",
+   "authors": [
+    "Reyhaneh Hosseinpourkhoshkbari",
+    "Wei-chen Huang",
+    "Suvel Muttreja",
+    "Richard M. Golden"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lmUsdeFVPo",
+   "pdf_url": "https://openreview.net/pdf?id=lmUsdeFVPo"
+  },
+  {
+   "title": "CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation",
+   "authors": [
+    "Alyssa Unell",
+    "Noel C Codella",
+    "J. Samuel Preston",
+    "Peniel Argaw",
+    "Wen-wai Yim",
+    "Zelalem Gero",
+    "Cliff Wong",
+    "Eric Horvitz",
+    "Amanda Hall",
+    "Rachel Ruican Zhong",
+    "Jiachen Li",
+    "Shrey Jain",
+    "Mu Wei",
+    "Matthew P. Lungren",
+    "Hoifung Poon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Oo275ALOU1",
+   "pdf_url": "https://openreview.net/pdf?id=Oo275ALOU1"
+  },
+  {
+   "title": "ChatThero: A Language Agent for Recovery Support",
+   "authors": [
+    "Junda Wang",
+    "Zonghai Yao",
+    "Lingxi Li",
+    "Junhui Qian",
+    "Zhichao Yang",
+    "hong yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pA1wNCCZNZ",
+   "pdf_url": "https://openreview.net/pdf?id=pA1wNCCZNZ"
+  },
+  {
+   "title": "Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation",
+   "authors": [
+    "Radhika Dua",
+    "Young Joon Fred Kwon",
+    "Siddhant Dogra",
+    "Daniel Freedman",
+    "Diana Ruan",
+    "Motaz Nashawaty",
+    "Danielle Rigau",
+    "Daniel Alexander Alber",
+    "Kang Zhang",
+    "Kyunghyun Cho",
+    "Eric Karl Oermann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WjfBWxDT6f",
+   "pdf_url": "https://openreview.net/pdf?id=WjfBWxDT6f"
+  },
+  {
+   "title": "Count-Based Approaches Remain Strong: A Benchmark Against Transformer and LLM Pipelines on Structured EHR",
+   "authors": [
+    "Jifan Gao",
+    "Michael Rosenthal",
+    "Brian Wolpin",
+    "Simona Cristea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fKJtKew2YQ",
+   "pdf_url": "https://openreview.net/pdf?id=fKJtKew2YQ"
+  },
+  {
+   "title": "Demo: An Agentic Multi-Persona Generative AI System for Mental Health Companionship",
+   "authors": [
+    "Yuekai Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qpo7JoeuOf",
+   "pdf_url": "https://openreview.net/pdf?id=Qpo7JoeuOf"
+  },
+  {
+   "title": "Demo: Building Maternal Health LLMs for Low-Resource Settings",
+   "authors": [
+    "Lyvia Lusiji",
+    "Stanslaus Mwongela",
+    "Francesco Piccinno",
+    "Jay Patel",
+    "Stephen Obonyo",
+    "Ellen Sebastian",
+    "Annalisa Pawlosky",
+    "Mfoniso Ukwak",
+    "Kelvin Ndambuki",
+    "Sylvia Mbugua",
+    "Sathy Rajasekharan",
+    "Dennis Troper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3dQU1dKn3B",
+   "pdf_url": "https://openreview.net/pdf?id=3dQU1dKn3B"
+  },
+  {
+   "title": "Demo: Can Visual Stimulation Enhance Reminiscence-Therapy Chatbot?",
+   "authors": [
+    "Sofiia Kononovych",
+    "Ostap Kilbasovych",
+    "Kateryna Bilyk",
+    "Yuliia Vistak",
+    "Zhiwen Fan",
+    "Junyuan Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Bv1yogTK2q",
+   "pdf_url": "https://openreview.net/pdf?id=Bv1yogTK2q"
+  },
+  {
+   "title": "Demo: Clinically Diverse Chest X-ray Synthesis via Cross-Modal Conditioning",
+   "authors": [
+    "Hassan Hamidi",
+    "Salamata Konate",
+    "Sara Hassani",
+    "Andrew Sellergren",
+    "Ali Sadeghi-Naini",
+    "Laleh Seyyed-Kalantari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=00HTjFAtJF",
+   "pdf_url": "https://openreview.net/pdf?id=00HTjFAtJF"
+  },
+  {
+   "title": "Demo: Customizing Open-Source LLMs for Quantitative Medication Attribute Extraction across Heterogeneous EHR Systems",
+   "authors": [
+    "Zhe Fei",
+    "Mehmet Yigit Turali",
+    "Shreyas Rajesh",
+    "Xinyang Dai",
+    "Huyen Pham",
+    "Pavan S Holur",
+    "Yuhui Zhu",
+    "Larissa J. Mooney",
+    "Yih-Ing Hser",
+    "vwani Roychowdhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aieNhat1mI",
+   "pdf_url": "https://openreview.net/pdf?id=aieNhat1mI"
+  },
+  {
+   "title": "Demo: Generative AI helps Radiotherapy Planning with User Preference",
+   "authors": [
+    "Riqiang Gao",
+    "Simon Arberet",
+    "Martin Kraus",
+    "Han Liu",
+    "Wilko F.A.R. Verbakel",
+    "Dorin Comaniciu",
+    "Florin-Cristian Ghesu",
+    "Ali Kamen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=euBfZb1iKZ",
+   "pdf_url": "https://openreview.net/pdf?id=euBfZb1iKZ"
+  },
+  {
+   "title": "Demo: Guide-RAG: Evidence-Driven Corpus Curation for Retrieval-Augmented Generation in Long COVID",
+   "authors": [
+    "Philip DiGiacomo",
+    "Haoyang Wang",
+    "Jinrui Fang",
+    "Yan Leng",
+    "William Brode",
+    "Ying Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rgWjc7JhKW",
+   "pdf_url": "https://openreview.net/pdf?id=rgWjc7JhKW"
+  },
+  {
+   "title": "Demo: H2AI: A Framework for Experiential Learning and De-Risking Generative AI in Healthcare",
+   "authors": [
+    "Rohan M. Rani",
+    "Jacqueline Sandling",
+    "Francis Arellano",
+    "Nika Shroff",
+    "Yumin Gao",
+    "Raj Ratwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=quBkUUwonV",
+   "pdf_url": "https://openreview.net/pdf?id=quBkUUwonV"
+  },
+  {
+   "title": "Demo: Medbot, A Practical Tool Built by Clinicians for Clinicians to Leverage AI Agents to Enhance Clinical Practice",
+   "authors": [
+    "Li Lianjie Anthony",
+    "Antonio Bandeira",
+    "Niroj Bhandari",
+    "Rahul Gorijavolu",
+    "Aaron Teo Rui Kang",
+    "Jasmine Xiaojin Zhang",
+    "Alvin Aung Aung Hein",
+    "March I-Cheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4tnyi8RQks",
+   "pdf_url": "https://openreview.net/pdf?id=4tnyi8RQks"
+  },
+  {
+   "title": "Demo: Orchestrating Large Language Model Agents and Resources for Medical Deep Research",
+   "authors": [
+    "Yuan Li",
+    "Matthew Pan",
+    "Claire Liu",
+    "Hengjin Zhu",
+    "Xijing Wang",
+    "Yingtao Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nkt0fG4Y4X",
+   "pdf_url": "https://openreview.net/pdf?id=nkt0fG4Y4X"
+  },
+  {
+   "title": "Demo: PeerCoPilot: A Language Model-Powered Assistant for Behavioral Health Organizations",
+   "authors": [
+    "Gao Mo",
+    "Naveen Janaki Raman",
+    "Megan Chai",
+    "Cindy Peng",
+    "Shannon Pagdon",
+    "Nev Jones",
+    "Hong Shen",
+    "Fei Fang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c2YimzwXkR",
+   "pdf_url": "https://openreview.net/pdf?id=c2YimzwXkR"
+  },
+  {
+   "title": "Demo: PharmaData-Agent: A Specialized Agent for Pharmaceutical Data Analysis",
+   "authors": [
+    "Zihan Guan",
+    "Hanyin Wang",
+    "Zhongliang Zhou",
+    "Qiaohui Zhou",
+    "Peining Tao",
+    "Junshui Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yC2MKDfMee",
+   "pdf_url": "https://openreview.net/pdf?id=yC2MKDfMee"
+  },
+  {
+   "title": "Demo: Sanitizing Medical Documents with Differential Privacy using Large Language Models",
+   "authors": [
+    "Rushil Thareja",
+    "Gautam Gupta",
+    "Preslav Nakov",
+    "Praneeth Vepakomma",
+    "Nils Lukas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nWA29OOsOn",
+   "pdf_url": "https://openreview.net/pdf?id=nWA29OOsOn"
+  },
+  {
+   "title": "Demo: Statistically Significant Results on Biases and Errors of LLMs Do Not Guarantee Generalizable Results",
+   "authors": [
+    "Jonathan Liu",
+    "Haoling Qiu",
+    "Jonathan Lasko",
+    "Damianos Karakos",
+    "Mahsa Yarmohammadi",
+    "Mark Dredze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9WjoHI44Gf",
+   "pdf_url": "https://openreview.net/pdf?id=9WjoHI44Gf"
+  },
+  {
+   "title": "Demo: Streamlining Health Insurance Claims Verifications with AI-Blockchain Integration through AI+ROAX (Rod of Asclepius eXchange)",
+   "authors": [
+    "Li Lianjie Anthony",
+    "Kenneth Goh",
+    "Ansel Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nRo1shVxiU",
+   "pdf_url": "https://openreview.net/pdf?id=nRo1shVxiU"
+  },
+  {
+   "title": "Demo: Towards Generating Long-Sequence Sleep Heart Rate Signals with Conditional Diffusion",
+   "authors": [
+    "Manasa Mariam Mammen",
+    "PRIYANKA MARY MAMMEN",
+    "Emil Joswin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Br2Tepp5Ao",
+   "pdf_url": "https://openreview.net/pdf?id=Br2Tepp5Ao"
+  },
+  {
+   "title": "Detecting Synthetic Radiology Reports using Style Disentanglement",
+   "authors": [
+    "Tanvi Ranga",
+    "Arjun Ramesh Kaushik",
+    "Nalini K. Ratha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8oYr06sfBO",
+   "pdf_url": "https://openreview.net/pdf?id=8oYr06sfBO"
+  },
+  {
+   "title": "Editing with AI: How Doctors Refine LLM-Generated Answers to Patient Queries",
+   "authors": [
+    "Rahul Sharma",
+    "Pragnya Ramjee",
+    "Kaushik Murali",
+    "Mohit Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WyaJ7jBTed",
+   "pdf_url": "https://openreview.net/pdf?id=WyaJ7jBTed"
+  },
+  {
+   "title": "Enhancing Fine-Tuning-Free Clinical Reasoning via Test-Time Scaling",
+   "authors": [
+    "Ji Young Byun",
+    "Young-Jin Park",
+    "Navid Azizan",
+    "Rama Chellappa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eSTtdVIw6",
+   "pdf_url": "https://openreview.net/pdf?id=4eSTtdVIw6"
+  },
+  {
+   "title": "Examining the Vulnerability of Multi-Agent Medical Systems to Human Interventions for Clinical Reasoning",
+   "authors": [
+    "Benjamin Liu",
+    "Dillon Mehta",
+    "Rishi Malhotra",
+    "Adam Zobian",
+    "Yong Ying Tan",
+    "Samir Chopra",
+    "Daniella Rand",
+    "Natalie Pang",
+    "Abhiram Gudimella",
+    "Raghav Thallapragada",
+    "Derek Jiu",
+    "Prisha Shah",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sjEuoLSvqS",
+   "pdf_url": "https://openreview.net/pdf?id=sjEuoLSvqS"
+  },
+  {
+   "title": "Explainable Insulin Pump Control with LLMs for Type 1 Diabetes",
+   "authors": [
+    "Maya Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8lOB3Dc0oy",
+   "pdf_url": "https://openreview.net/pdf?id=8lOB3Dc0oy"
+  },
+  {
+   "title": "Explaining Temporal Effects in Sepsis Prediction",
+   "authors": [
+    "Chaehyeon Kim",
+    "Eric Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cxffbxltME",
+   "pdf_url": "https://openreview.net/pdf?id=cxffbxltME"
+  },
+  {
+   "title": "FairGRPO: Towards Fair Reasoning Foundation Models for Clinical Diagnosis",
+   "authors": [
+    "Shiqi Dai",
+    "Wei Dai",
+    "Jiaee Cheong",
+    "Paul Pu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D0SgzgdBjo",
+   "pdf_url": "https://openreview.net/pdf?id=D0SgzgdBjo"
+  },
+  {
+   "title": "Faithful or Just Plausible? Evaluating Faithfulness for Medical Reasoning in Closed-Source LLMs",
+   "authors": [
+    "Halimat Afolabi",
+    "Zainab Afolabi",
+    "Elizabeth Friel",
+    "Jude Roberts",
+    "Antonio Ji-Xu",
+    "Lloyd Chen",
+    "Egheosa Ogbomo",
+    "Emiliomo Imevbore",
+    "Phil Eneje",
+    "Wissal El Ouahidi",
+    "Aaron Sohal",
+    "Alisa Kennan",
+    "Shreya Srivastava",
+    "Anirudh Vairavan",
+    "Laura Napitu",
+    "Katie McClure"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fmu8N88Mzo",
+   "pdf_url": "https://openreview.net/pdf?id=fmu8N88Mzo"
+  },
+  {
+   "title": "FedMentor: Domain-Aware Differential Privacy for Heterogeneous Federated LLMs in Mental Health",
+   "authors": [
+    "Nobin Sarwar",
+    "Shubhashis Roy Dipta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gESaAIYL3w",
+   "pdf_url": "https://openreview.net/pdf?id=gESaAIYL3w"
+  },
+  {
+   "title": "Foresight-England: Development of a National-Scale Generative AI Model of Patient Electronic Health Records for General Medical Event Prediction across the COVID-19 Pandemic",
+   "authors": [
+    "Simon Ellershaw",
+    "Christopher Tomlinson",
+    "Zeljko Kraljevic",
+    "Spiros Denaxas",
+    "Harry Hemingway",
+    "Anoop D. Shah",
+    "Richard Dobson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wc6Fsbrn9l",
+   "pdf_url": "https://openreview.net/pdf?id=wc6Fsbrn9l"
+  },
+  {
+   "title": "GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop",
+   "authors": [
+    "Omid Bazgir",
+    "Mohammad Jafarnejad",
+    "Vineeth Manthapuri",
+    "Ilia Rattsev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OazPz69SzL",
+   "pdf_url": "https://openreview.net/pdf?id=OazPz69SzL"
+  },
+  {
+   "title": "H-DDx: A Hierarchical Evaluation Framework for Differential Diagnosis",
+   "authors": [
+    "Seungseop Lim",
+    "Gibaeg Kim",
+    "Hyunkyung Lee",
+    "Wooseok Han",
+    "Jean Seo",
+    "Jaehyo Yoo",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gTq3VkpBvN",
+   "pdf_url": "https://openreview.net/pdf?id=gTq3VkpBvN"
+  },
+  {
+   "title": "HealthSLM-Bench: Benchmarking Small Language Models for Mobile and Wearable Healthcare Monitoring",
+   "authors": [
+    "Xin Wang",
+    "Ting Dang",
+    "Xinyu Zhang",
+    "Vassilis Kostakos",
+    "Michael J. Witbrock",
+    "Hong Jia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GyqY7cekce",
+   "pdf_url": "https://openreview.net/pdf?id=GyqY7cekce"
+  },
+  {
+   "title": "Hearing Health in Home Healthcare: Leveraging LLMs for Illness Scoring and ALMs for Vocal Biomarker Extraction",
+   "authors": [
+    "Yu-Wen Chen",
+    "William Ho",
+    "Sasha M Vergez",
+    "Grace Flaherty",
+    "Pallavi Gupta",
+    "Zhihong Zhang",
+    "Maryam Zolnoori",
+    "Margaret V. McDonald",
+    "Maxim Topaz",
+    "Zoran Kostic",
+    "Julia Hirschberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ACVFkCW5IU",
+   "pdf_url": "https://openreview.net/pdf?id=ACVFkCW5IU"
+  },
+  {
+   "title": "High-Fidelity Synthetic ECG Generation via Mel-Spectrogram Informed Diffusion Training",
+   "authors": [
+    "Zhuoyi Huang",
+    "Nutan Sahoo",
+    "Anamika Kumari",
+    "Girish Kumar",
+    "Kexuan Cai",
+    "Shixing Cao",
+    "Yue Kang",
+    "Tian Xia",
+    "Somya Chatterjee",
+    "Nicholas Hausman",
+    "Aidan Jay",
+    "Eric S. Rosenthal",
+    "Soundararajan Srinivasan",
+    "Sadid A. Hasan",
+    "Alex Fedorov",
+    "Sulaiman Vesal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jX8lTlmuXK",
+   "pdf_url": "https://openreview.net/pdf?id=jX8lTlmuXK"
+  },
+  {
+   "title": "Improvisational Reasoning with Vision-Language Models for Grounded Procedural Planning",
+   "authors": [
+    "Md Masudur Rahman",
+    "Yupeng Zhuo",
+    "Juan Wachs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qlFqAk3i52",
+   "pdf_url": "https://openreview.net/pdf?id=qlFqAk3i52"
+  },
+  {
+   "title": "K-Stain: Keypoint-Driven Correspondence for H\\&E-to-IHC Virtual Staining",
+   "authors": [
+    "Sicheng Yang",
+    "Zhaohu Xing",
+    "Haipeng Zhou",
+    "Lei Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ck3RhAa5wU",
+   "pdf_url": "https://openreview.net/pdf?id=ck3RhAa5wU"
+  },
+  {
+   "title": "Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care",
+   "authors": [
+    "Vinicius Anjos de Almeida",
+    "Vinicius de Camargo",
+    "Raquel Gomez Bravo",
+    "Kees van Boven",
+    "Egbert van der Haring",
+    "Marcelo Finger",
+    "Luis Fernandez Lopez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kl7KZwJFEG",
+   "pdf_url": "https://openreview.net/pdf?id=Kl7KZwJFEG"
+  },
+  {
+   "title": "Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes",
+   "authors": [
+    "Lo Pang-Yun Ting",
+    "Chengshuai Zhao",
+    "Yu-Hua Zeng",
+    "Yuan Jee Lim",
+    "Kun-Ta Chuang",
+    "huan liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mszIDOG8CX",
+   "pdf_url": "https://openreview.net/pdf?id=mszIDOG8CX"
+  },
+  {
+   "title": "m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning in Large Language Models",
+   "authors": [
+    "Xiaoke Huang",
+    "Juncheng Wu",
+    "Hui Liu",
+    "Xianfeng Tang",
+    "Yuyin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9l6unbTnQi",
+   "pdf_url": "https://openreview.net/pdf?id=9l6unbTnQi"
+  },
+  {
+   "title": "MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale",
+   "authors": [
+    "Ran Xu",
+    "Yuchen Zhuang",
+    "Yishan Zhong",
+    "Yue Yu",
+    "Xiangru Tang",
+    "Hang Wu",
+    "May Dongmei Wang",
+    "Peifeng Ruan",
+    "Donghan Yang",
+    "Tao Wang",
+    "Guanghua Xiao",
+    "Carl Yang",
+    "Yang Xie",
+    "Wenqi Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oZSofhtmIc",
+   "pdf_url": "https://openreview.net/pdf?id=oZSofhtmIc"
+  },
+  {
+   "title": "MedBrowseComp: Benchmarking Medical Deep Research and Computer Use",
+   "authors": [
+    "Shan Chen",
+    "Pedro José Ferreira Moreira",
+    "Yuxin Xiao",
+    "Samuel Schmidgall",
+    "Jeremy L. Warner",
+    "Hugo Aerts",
+    "Thomas Hartvigsen",
+    "Jack Gallifant",
+    "Danielle Bitterman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pSDvq2ZgPk",
+   "pdf_url": "https://openreview.net/pdf?id=pSDvq2ZgPk"
+  },
+  {
+   "title": "MedGUIDE: Benchmarking Clinical Decision-Making in Large Language Models",
+   "authors": [
+    "Xiaomin Li",
+    "Mingye Gao",
+    "Yuexing Hao",
+    "Taoran Li",
+    "Guangya Wan",
+    "Zihan Wang",
+    "Yijun Wang",
+    "Xupeng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Si6BICL2J9",
+   "pdf_url": "https://openreview.net/pdf?id=Si6BICL2J9"
+  },
+  {
+   "title": "Medical thinking with multiple images",
+   "authors": [
+    "Zonghai Yao",
+    "Benlu Wang",
+    "Yifan Zhang",
+    "Junda Wang",
+    "Iris Xia",
+    "Zhipeng Tang",
+    "Shuo Han",
+    "Feiyun Ouyang",
+    "Zhichao Yang",
+    "Arman Cohan",
+    "hong yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dynv2pD1cN",
+   "pdf_url": "https://openreview.net/pdf?id=dynv2pD1cN"
+  },
+  {
+   "title": "MedVAL: Toward Expert-Level Medical Text Validation with Language Models",
+   "authors": [
+    "Asad Aali",
+    "Vasiliki Bikia",
+    "Maya Varma",
+    "Nicole Chiou",
+    "Sophie Ostmeier",
+    "Arnav Singhvi",
+    "Magdalini Paschali",
+    "Ashwin Kumar",
+    "Andrew Johnston",
+    "Karimar Amador-Martinez",
+    "Eduardo Juan Perez Guerrero",
+    "Paola Naovi Cruz Rivera",
+    "Sergios Gatidis",
+    "Christian Bluethgen",
+    "Eduardo Pontes Reis",
+    "Eddy D. Zandee van Rilland",
+    "Poonam Laxmappa Hosamani",
+    "Kevin R Keet",
+    "Minjoung Go",
+    "Evelyn Ling",
+    "David B. Larson",
+    "Curtis Langlotz",
+    "Roxana Daneshjou",
+    "Jason Hom",
+    "Sanmi Koyejo",
+    "Emily Alsentzer",
+    "Akshay S Chaudhari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ce9IovlPF",
+   "pdf_url": "https://openreview.net/pdf?id=2ce9IovlPF"
+  },
+  {
+   "title": "MedVLThinker: Simple Baselines for Multimodal Medical Reasoning",
+   "authors": [
+    "Xiaoke Huang",
+    "Juncheng Wu",
+    "Hui Liu",
+    "Xianfeng Tang",
+    "Yuyin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AN4huNjF3r",
+   "pdf_url": "https://openreview.net/pdf?id=AN4huNjF3r"
+  },
+  {
+   "title": "Mending synthetic data with MAPS: Model Agnostic Post-hoc Synthetic Data Refinement Framework",
+   "authors": [
+    "Yan Li",
+    "Jennifer Bartell",
+    "Anders Krogh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=imiQ4RhHOs",
+   "pdf_url": "https://openreview.net/pdf?id=imiQ4RhHOs"
+  },
+  {
+   "title": "Mind the Gap: Aligning Knowledge Bases with User Needs to Enhance Mental Health Retrieval",
+   "authors": [
+    "Amanda Chan",
+    "James Jiayu Liu",
+    "Kai He",
+    "Onno P. Kampman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=crfvxJi4c5",
+   "pdf_url": "https://openreview.net/pdf?id=crfvxJi4c5"
+  },
+  {
+   "title": "Mixture-of-Experts Guided Multi-Omic Integration for Gastrointestinal Cancer Subtype Prediction",
+   "authors": [
+    "Sajib Acharjee Dip",
+    "Uddip Acharjee Shuvo",
+    "Dipanwita Mallick",
+    "Abrar Rahman Abir",
+    "Liqing Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WQvsP4VNdw",
+   "pdf_url": "https://openreview.net/pdf?id=WQvsP4VNdw"
+  },
+  {
+   "title": "Modeling PTSD Trajectories with Conditional SVAEs and Synthetic Data Generation: Data-Efficient Prediction and Outcome-Specific Explainability",
+   "authors": [
+    "Mateus Guimarães Lima de Freitas",
+    "Alexander Rasgon",
+    "Shuangyu Li",
+    "Zhan Chen",
+    "João Paulo Abreu Maranhão",
+    "Dongjin Song",
+    "Yunyu Xiao",
+    "Ying Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xEZoocKwj0",
+   "pdf_url": "https://openreview.net/pdf?id=xEZoocKwj0"
+  },
+  {
+   "title": "Multi-Turn LLM Systems for Diagnostic Decision-Making: Considerations, Biases, and Challenges",
+   "authors": [
+    "Benjamin Liu",
+    "Sejong Kim",
+    "Drona Thoka",
+    "Varun Puttagunta",
+    "Kaylin Sheng",
+    "Mark Li",
+    "Thi Uyen Hanh Le",
+    "Sai Chidvilas Gudiboina",
+    "Ali Ugur",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aOoFPWZuXY",
+   "pdf_url": "https://openreview.net/pdf?id=aOoFPWZuXY"
+  },
+  {
+   "title": "Natural Language Grounded Reinforcement Learning for Clinical Decision-Making in Virtual Patient Simulations",
+   "authors": [
+    "Niyel Hassan",
+    "Benjamin Liu",
+    "Jason Tsai",
+    "Jeffrey K Jopling",
+    "Dana Lin",
+    "Edward Melcer",
+    "Cara Liebert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EU3TV1Uq78",
+   "pdf_url": "https://openreview.net/pdf?id=EU3TV1Uq78"
+  },
+  {
+   "title": "Ordinal Label-Distribution Learning with Constrained Asymmetric Priors for Imbalanced Retinal Grading",
+   "authors": [
+    "Nagur Shareef Shaik",
+    "Teja Krishna Cherukuri",
+    "Adnan Masood",
+    "Ehsan Adeli",
+    "Dong Hye Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hatzHLfYtF",
+   "pdf_url": "https://openreview.net/pdf?id=hatzHLfYtF"
+  },
+  {
+   "title": "PAME-AI: Patient Messaging Creation and Optimization using Agentic AI",
+   "authors": [
+    "Junjie Luo",
+    "Yihong Guo",
+    "Anqi Liu",
+    "Ritu Agarwal",
+    "Guodong Gordon Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UqikLa3MVw",
+   "pdf_url": "https://openreview.net/pdf?id=UqikLa3MVw"
+  },
+  {
+   "title": "Pandemic-Potential Viruses are a Blind Spot for Frontier Open-Source LLMs",
+   "authors": [
+    "Laura Luebbert",
+    "Yasha Ektefaie",
+    "Arya S. Rao",
+    "Colby Wilkason",
+    "Dolo Nosamiefan",
+    "Olivia Achonduh-Atijegbe",
+    "Harouna Soumare",
+    "Adefoye Precious Adebayo",
+    "Olufemi Olulaja",
+    "Judith Amadi",
+    "Nicholas Oyejide",
+    "Funmilayo Olayiwola",
+    "Etim Henshaw",
+    "Yusuf Okocha",
+    "Nkechinyere Nwachukwu",
+    "Elechi Friday Ewah",
+    "Sylvanus Okoro",
+    "Ebenezer Nwakpakpa",
+    "Peter Okokhere",
+    "Kelly Iraoyah",
+    "Joseph Okoeguale",
+    "Ireti Dada",
+    "Andy Burris",
+    "Karlie Zhao",
+    "Ellory Laning",
+    "Chase Van Amburg",
+    "Paul Cronan",
+    "Ben Fry",
+    "Christian Happi",
+    "Al Ozonoff",
+    "Pardis Sabeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FWwGjrtDEd",
+   "pdf_url": "https://openreview.net/pdf?id=FWwGjrtDEd"
+  },
+  {
+   "title": "Physician Perceptions of Large Language Models in Clinical Practice: A Mixed-Methods Survey Study",
+   "authors": [
+    "Francis Arellano",
+    "Rohan M. Rani",
+    "Yumin Gao",
+    "Jacqueline Sandling",
+    "Emily Y Chen",
+    "Athena N. Nguyen",
+    "Deeya Garg",
+    "Zahra Ahmad",
+    "Nika Shroff",
+    "Katherine Barnes",
+    "Joshua M. Biro",
+    "Kristen E Miller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jxEewXvTHb",
+   "pdf_url": "https://openreview.net/pdf?id=jxEewXvTHb"
+  },
+  {
+   "title": "Position: Adjacent Technologies Are the Key Enablers of Scalable and Safe Clinical MLLM Deployment",
+   "authors": [
+    "Azmine Toushik Wasi",
+    "Md. Iqramul Hoque"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vTIacVIpL0",
+   "pdf_url": "https://openreview.net/pdf?id=vTIacVIpL0"
+  },
+  {
+   "title": "Position: AI Will Transform Neuropsychology Through Mental Health Digital Twins for Dynamic Mental Health Care, Especially for ADHD",
+   "authors": [
+    "Neil Natarajan",
+    "Sruthi Viswanathan",
+    "Xavier Roberts-Gaal",
+    "Michelle Marie Martel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XDSiOuMV5K",
+   "pdf_url": "https://openreview.net/pdf?id=XDSiOuMV5K"
+  },
+  {
+   "title": "Position: AI-Driven Risk Stratification is Essential for Affordable Early Detection of Cancer",
+   "authors": [
+    "Asif Khan",
+    "Duncan Terell Forster",
+    "Moshir Harsh",
+    "Daniel Ritter",
+    "Chunlei Zheng",
+    "Rose Orenbuch",
+    "Abdullah Kuziez",
+    "Artem Gazizov",
+    "Debora Susan Marks",
+    "Nathanael R. Fillmore",
+    "Chris Sander"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7PJYSePp2L",
+   "pdf_url": "https://openreview.net/pdf?id=7PJYSePp2L"
+  },
+  {
+   "title": "Position: CARE-RAG: Clinical Assessment and Reasoning in RAG",
+   "authors": [
+    "Deepthi Potluri",
+    "Aby Mammen Mathew",
+    "Alexander L. Rasgon",
+    "Jeffrey B Dewitt",
+    "Yide Hao",
+    "Joseph C McGrath",
+    "Junyuan Hong",
+    "Charles Barnet Nemeroff",
+    "Greg Muller",
+    "Ying Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1Sg2lJDifG",
+   "pdf_url": "https://openreview.net/pdf?id=1Sg2lJDifG"
+  },
+  {
+   "title": "Position: Communities of Practice can be used to Address Challenges to Regulation and Governance of Generative AI in South East Asian Countries",
+   "authors": [
+    "Li Lianjie Anthony",
+    "Premikha M",
+    "Ying Tze Siow",
+    "Taufeeq Wahab",
+    "Muhamad Noor Alfarizal",
+    "Ivan Koh",
+    "VIVEK JASON JAYARAJ",
+    "Clive Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DWeFjdBBYp",
+   "pdf_url": "https://openreview.net/pdf?id=DWeFjdBBYp"
+  },
+  {
+   "title": "Position: Ophthalmology as a Lens for Trustworthy GenAI in Europe---Uncertainty-Aware AI under the EU AI Act",
+   "authors": [
+    "Mariya Erokhina",
+    "Achref Doula",
+    "Lukas Bisorca-Gassendorf",
+    "Alejandro Sanchez Guinea"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OzytmWYjGd",
+   "pdf_url": "https://openreview.net/pdf?id=OzytmWYjGd"
+  },
+  {
+   "title": "Position: Restricted Release of Advanced Biological Models Safeguards Biosecurity",
+   "authors": [
+    "Jonathan Feldman",
+    "Tal Feldman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Nhrk0Cuk0",
+   "pdf_url": "https://openreview.net/pdf?id=9Nhrk0Cuk0"
+  },
+  {
+   "title": "Position: Specialty Society-Led Meta-Governance is Essential to Responsible Implementation of Generative AI in Cardiovascular Care",
+   "authors": [
+    "Yumin Gao",
+    "Jacqueline Sandling",
+    "Francis Arellano",
+    "Zahra Ahmad",
+    "Rohan M. Rani",
+    "Deeya Garg",
+    "Emily Y Chen",
+    "Aamir Javaid",
+    "Francoise Marvel",
+    "Seth Martin",
+    "Raj Ratwani",
+    "Charles German"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CIuIfFnGaY",
+   "pdf_url": "https://openreview.net/pdf?id=CIuIfFnGaY"
+  },
+  {
+   "title": "Position: The Pitfalls of Over-Alignment: Overly Caution Health-Related Responses From LLMs are Unethical and Dangerous",
+   "authors": [
+    "Wenqi Marshall Guo",
+    "Yiyang Du",
+    "Heidi J.S. Tworek",
+    "Shan Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QAQZzCVjlN",
+   "pdf_url": "https://openreview.net/pdf?id=QAQZzCVjlN"
+  },
+  {
+   "title": "Position: Thematic Analysis of Unstructured Clinical Transcripts with Large Language Models",
+   "authors": [
+    "Seungjun Yi",
+    "Joakim Nguyen",
+    "Terence Lim",
+    "Andrew Well",
+    "Joseph Skrovan",
+    "Mehak Beri",
+    "YongGeon Lee",
+    "Kavita Radhakrishnan",
+    "Liu Leqi",
+    "Mia Markey",
+    "Ying Ding"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XFvJSodMyi",
+   "pdf_url": "https://openreview.net/pdf?id=XFvJSodMyi"
+  },
+  {
+   "title": "PRISM: Physician Rules Integrated with Small large language Models for probable diagnoses associated with Abdominal Pain",
+   "authors": [
+    "Gautam Ahuja",
+    "Ayush Agarwal",
+    "Hara Prasad Mishra",
+    "Samagra Agrawal",
+    "Rik Ganguly",
+    "Zonunmawia",
+    "Akshay Sharma",
+    "Vatsal Batra",
+    "Bableen Kaur",
+    "Siddhant Poudyal",
+    "Himani Balutia",
+    "Sagarika",
+    "Sanjana Ahuja",
+    "Kedar Natarajan",
+    "Partha Pratim Das",
+    "Ramesh Jain",
+    "Partha Pratim Chakrabarti",
+    "Anurag Agrawal",
+    "Govind Makharia",
+    "Rintu Kutum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c8QFEI1XBI",
+   "pdf_url": "https://openreview.net/pdf?id=c8QFEI1XBI"
+  },
+  {
+   "title": "QRad: Enhancing Radiology Report Generation by Captioning-to-VQA Reframing",
+   "authors": [
+    "Ying Jin",
+    "Noel C Codella",
+    "Yanbo Xu",
+    "Yu Gu",
+    "Mu Wei",
+    "Haoquan Fang",
+    "Thomas Lin",
+    "Paul Vozila",
+    "Jenq-Neng Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iM4KjQWVQU",
+   "pdf_url": "https://openreview.net/pdf?id=iM4KjQWVQU"
+  },
+  {
+   "title": "Reliable or Risky? Assessing Diffusion Models for Biomedical Data Generation",
+   "authors": [
+    "Abdalrahman Alblwi",
+    "Qile Wang",
+    "Norbert Zolek",
+    "Matthew Louis Mauriello",
+    "Kenneth Barner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2UtEuPkG5c",
+   "pdf_url": "https://openreview.net/pdf?id=2UtEuPkG5c"
+  },
+  {
+   "title": "Robust or Suggestible? Exploring Non-Clinical Induction in LLM Drug-Safety Decisions",
+   "authors": [
+    "Siying Liu",
+    "Shisheng Zhang",
+    "Indu Bala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=94uNcGCKpq",
+   "pdf_url": "https://openreview.net/pdf?id=94uNcGCKpq"
+  },
+  {
+   "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing  Medical QA and Diagnostic Reasoning",
+   "authors": [
+    "Chia-Hsuan Hsu",
+    "Jun-En Ding",
+    "Hsin-Ling Hsu",
+    "Chun-Chieh Liao",
+    "Fang-Ming Hung",
+    "Feng Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eo8bhKLbPx",
+   "pdf_url": "https://openreview.net/pdf?id=Eo8bhKLbPx"
+  },
+  {
+   "title": "Scalable Whole-Slide Vision-Language Modeling with Learned Token Pruning",
+   "authors": [
+    "Ali Kerem Bozkurt",
+    "Baris Cem Bakay",
+    "Ibrahim Kulac",
+    "Cigdem Gunduz-Demir",
+    "Erkut Erdem",
+    "Aykut Erdem"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5CChB4UpWi",
+   "pdf_url": "https://openreview.net/pdf?id=5CChB4UpWi"
+  },
+  {
+   "title": "SecureRAG: End-to-End Secure Retrieval-Augmented Generation",
+   "authors": [
+    "Amina Bassit",
+    "Vishnu Boddeti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=njAyzNEaCd",
+   "pdf_url": "https://openreview.net/pdf?id=njAyzNEaCd"
+  },
+  {
+   "title": "Shallow Robustness, Deep Vulnerabilities: Multi-Turn Evaluation of Medical LLMs",
+   "authors": [
+    "Blazej Manczak",
+    "Eric Lin",
+    "Francisco Eiras",
+    "James O' Neill",
+    "Vaikkunth Mugunthan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1JHDdaWhCB",
+   "pdf_url": "https://openreview.net/pdf?id=1JHDdaWhCB"
+  },
+  {
+   "title": "Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization",
+   "authors": [
+    "Wataru Kawakami",
+    "Keita Suzuki",
+    "Junichiro Iwasawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bGkyFZVyRL",
+   "pdf_url": "https://openreview.net/pdf?id=bGkyFZVyRL"
+  },
+  {
+   "title": "SynLLM: A Comparative Analysis of Large Language Models for Medical Tabular Synthetic Data Generation via Prompt Engineering",
+   "authors": [
+    "Arshia Ilaty",
+    "Hossein Shirazi",
+    "Hajar Homayouni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GAEle80mAM",
+   "pdf_url": "https://openreview.net/pdf?id=GAEle80mAM"
+  },
+  {
+   "title": "The Biased Oracle: Assessing LLMs’ Understandability and Empathy in Medical Diagnoses",
+   "authors": [
+    "Jianzhou Yao",
+    "Shunchang Liu",
+    "Guillaume Drui",
+    "Rikard Pettersson",
+    "Alessandro Blasimme",
+    "Sara Kijewski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mhtDi2d4ZC",
+   "pdf_url": "https://openreview.net/pdf?id=mhtDi2d4ZC"
+  },
+  {
+   "title": "The Energy to Say No: Pre-Generation Abstention for Safety-Critical Medical RAG",
+   "authors": [
+    "Ravi Shankar",
+    "Sheng Fung Wong",
+    "Lin Li",
+    "Magdalena Bachmann",
+    "Alex Silverthorne",
+    "Beth Albert",
+    "Gabriel Davis Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MtKSNKnNzN",
+   "pdf_url": "https://openreview.net/pdf?id=MtKSNKnNzN"
+  },
+  {
+   "title": "Towards Application Aligned Synthetic Surgical Image Synthesis",
+   "authors": [
+    "Danush Kumar Venkatesh",
+    "Stefanie Speidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p1kg23CKxG",
+   "pdf_url": "https://openreview.net/pdf?id=p1kg23CKxG"
+  },
+  {
+   "title": "Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach",
+   "authors": [
+    "Afsaneh Mahanipour",
+    "Abdullah Imran",
+    "Hana Khamfroush"
+   ],
+   "forum_url": "https://openreview.net/forum?id=67edlRGd7U",
+   "pdf_url": "https://openreview.net/pdf?id=67edlRGd7U"
+  },
+  {
+   "title": "Towards Synthesizing Normative Data for Cognitive Assessments Using Generative Multimodal Large Language Models",
+   "authors": [
+    "Victoria Yan",
+    "Honor Chotkowski",
+    "Fengran Wang",
+    "Xinhui Li",
+    "Carl Yang",
+    "Jiaying Lu",
+    "Runze Yan",
+    "Xiao Hu",
+    "Alex Fedorov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tezMkKCrCe",
+   "pdf_url": "https://openreview.net/pdf?id=tezMkKCrCe"
+  },
+  {
+   "title": "Traj-CoA: Patient Trajectory Modeling via Chain-of-Agents for Lung Cancer Risk Prediction",
+   "authors": [
+    "Sihang Zeng",
+    "Yujuan Fu",
+    "Sitong Zhou",
+    "Zixuan Yu",
+    "Lucas Jing Liu",
+    "Jun Wen",
+    "Matthew Thompson",
+    "Ruth Etzioni",
+    "Meliha Yetisgen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S4GfRvVTHV",
+   "pdf_url": "https://openreview.net/pdf?id=S4GfRvVTHV"
+  },
+  {
+   "title": "Unanchoring the Mind: AI-Guided Counterfactual Reasoning for Rare Disease Diagnosis",
+   "authors": [
+    "Yuting Yan",
+    "Yinghao Fu",
+    "Wendi Ren",
+    "Shuang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PxOy27lE3H",
+   "pdf_url": "https://openreview.net/pdf?id=PxOy27lE3H"
+  },
+  {
+   "title": "Uncovering Intervention Opportunities for Suicide Prevention with Language Model Assistants",
+   "authors": [
+    "Jaspreet Ranjit",
+    "Hyundong Justin Cho",
+    "Claire J. Smerdon",
+    "Yoonsoo Nam",
+    "Myles Phung",
+    "Jonathan May",
+    "John R. Blosnich",
+    "Swabha Swayamdipta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pZmF9PZTQB",
+   "pdf_url": "https://openreview.net/pdf?id=pZmF9PZTQB"
+  },
+  {
+   "title": "Using LLM-as-a-Judge/Jury to Advance Scalable, Clinically-Validated Safety Evaluations of Model Responses to Users Demonstrating Psychosis",
+   "authors": [
+    "May Lynn Reese",
+    "Markela Zeneli",
+    "Mindy Ng",
+    "Jacob Haimes",
+    "Andreea Damien",
+    "Elizabeth C. Stade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=78ootwhyDQ",
+   "pdf_url": "https://openreview.net/pdf?id=78ootwhyDQ"
+  },
+  {
+   "title": "Vision-Language Reasoning for Burn Depth Assessment with Structured Diagnostic Hypotheses",
+   "authors": [
+    "Md Masudur Rahman",
+    "Mohamed El Masry",
+    "Kristo Nuutila",
+    "Gayle Gordillo",
+    "Juan Wachs"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C9NeJbgJCn",
+   "pdf_url": "https://openreview.net/pdf?id=C9NeJbgJCn"
+  },
+  {
+   "title": "When the Domain Expert Has No Time and the LLM Developer Has No Clinical Expertise: Real-World Lessons from LLM Co-Design in a Safety-Net Hospital",
+   "authors": [
+    "Avni Kothari",
+    "Patrick Vossler",
+    "Jean Digitale",
+    "Seyed Mohammad Forouzannia",
+    "Melanie F. Molina",
+    "Elise Rosenberg",
+    "Michele Lee",
+    "Jenee Bryant",
+    "James D. Marks",
+    "Lucas Zier",
+    "Jean Feng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=58fQf2dqwD",
+   "pdf_url": "https://openreview.net/pdf?id=58fQf2dqwD"
+  },
+  {
+   "title": "Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning",
+   "authors": [
+    "Dongrong Yang",
+    "Xin Wu",
+    "Yibo Xie",
+    "Xinyi Li",
+    "Qiuwen Wu",
+    "Jackie Wu",
+    "Yang Sheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tmRzdJfKaC",
+   "pdf_url": "https://openreview.net/pdf?id=tmRzdJfKaC"
+  }
+ ]
+}

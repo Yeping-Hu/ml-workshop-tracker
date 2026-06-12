@@ -1,0 +1,485 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2024/Workshop/XE",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:47.892Z",
+ "paper_count": 35,
+ "papers": [
+  {
+   "title": "3D-MVP: 3D Multiview Pretraining for Robotic Manipulation",
+   "authors": [
+    "Shengyi Qian",
+    "Kaichun Mo",
+    "Valts Blukis",
+    "David Fouhey",
+    "Dieter Fox",
+    "Ankit Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CEYVJIIuvo",
+   "pdf_url": "https://openreview.net/pdf?id=CEYVJIIuvo"
+  },
+  {
+   "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+   "authors": [
+    "Jiafei Duan",
+    "Wilbert Pumacay",
+    "Nishanth Kumar",
+    "Yi Ru Wang",
+    "Shulin Tian",
+    "Wentao Yuan",
+    "Ranjay Krishna",
+    "Dieter Fox",
+    "Ajay Mandlekar",
+    "Yijie Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IafIzveEAW",
+   "pdf_url": "https://openreview.net/pdf?id=IafIzveEAW"
+  },
+  {
+   "title": "AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility",
+   "authors": [
+    "Wenli Xiao",
+    "Haoru Xue",
+    "Tony Tao",
+    "Dvij Rajesh Kalaria",
+    "John Dolan",
+    "Guanya Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Spot4YawKr",
+   "pdf_url": "https://openreview.net/pdf?id=Spot4YawKr"
+  },
+  {
+   "title": "AnySkin: Plug-and-play Skin Sensing for Robotic Touch",
+   "authors": [
+    "Raunaq Bhirangi",
+    "Venkatesh Pattabiraman",
+    "Mehmet Enes Erciyes",
+    "Yifeng Cao",
+    "Tess Hellebrekers",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RHRaO25U33",
+   "pdf_url": "https://openreview.net/pdf?id=RHRaO25U33"
+  },
+  {
+   "title": "BAKU: An Efficient Transformer for Multi-Task Policy Learning",
+   "authors": [
+    "Siddhant Haldar",
+    "Zhuoran Peng",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8JCDrI095u",
+   "pdf_url": "https://openreview.net/pdf?id=8JCDrI095u"
+  },
+  {
+   "title": "Data Scaling Laws in Imitation Learning for Robotic Manipulation",
+   "authors": [
+    "Yingdong Hu",
+    "Fanqi Lin",
+    "Pingyue Sheng",
+    "Chuan Wen",
+    "Jiacheng You",
+    "Yang Gao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9q2BHi64At",
+   "pdf_url": "https://openreview.net/pdf?id=9q2BHi64At"
+  },
+  {
+   "title": "DexHub and DART: Toward Internet Scale Robot Data Collection",
+   "authors": [
+    "Younghyo Park",
+    "Jagdeep Singh Bhatia",
+    "Lars Lien Ankile",
+    "Pulkit Agrawal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nq0RLYlDl5",
+   "pdf_url": "https://openreview.net/pdf?id=Nq0RLYlDl5"
+  },
+  {
+   "title": "DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation",
+   "authors": [
+    "Peiqi Liu",
+    "Zhanqiu Guo",
+    "Mohit Warke",
+    "Soumith Chintala",
+    "Chris Paxton",
+    "Nur Muhammad Mahi Shafiullah",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Osu8mUhJyI",
+   "pdf_url": "https://openreview.net/pdf?id=Osu8mUhJyI"
+  },
+  {
+   "title": "Early Fusion Helps Vision Language Action Models Generalize Better",
+   "authors": [
+    "Huang Huang",
+    "Fangchen Liu",
+    "Letian Fu",
+    "Tingfan Wu",
+    "Mustafa Mukadam",
+    "Jitendra Malik",
+    "Ken Goldberg",
+    "Pieter Abbeel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yj1yHnLxEg",
+   "pdf_url": "https://openreview.net/pdf?id=yj1yHnLxEg"
+  },
+  {
+   "title": "EgoMimic: Scaling Imitation Learning via Egocentric Video",
+   "authors": [
+    "Simar Kareer",
+    "Dhruv Patel",
+    "Ryan Punamiya",
+    "Pranay Mathur",
+    "Shuo Cheng",
+    "Chen Wang",
+    "Judy Hoffman",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wDuNKFv9NO",
+   "pdf_url": "https://openreview.net/pdf?id=wDuNKFv9NO"
+  },
+  {
+   "title": "ET-SEED: EFFICIENT TRAJECTORY-LEVEL SE(3) EQUIVARIANT DIFFUSION POLICY",
+   "authors": [
+    "Chenrui Tie",
+    "Yue Chen",
+    "Ruihai Wu",
+    "Boxuan Dong",
+    "Zeyi Li",
+    "Chongkai Gao",
+    "Hao Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=STGLCenshB",
+   "pdf_url": "https://openreview.net/pdf?id=STGLCenshB"
+  },
+  {
+   "title": "FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning",
+   "authors": [
+    "Jiaheng Hu",
+    "Rose Hendrix",
+    "Ali Farhadi",
+    "Aniruddha Kembhavi",
+    "Roberto Martín-Martín",
+    "Peter Stone",
+    "Kuo-Hao Zeng",
+    "Kiana Ehsani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j7EFu7XeN4",
+   "pdf_url": "https://openreview.net/pdf?id=j7EFu7XeN4"
+  },
+  {
+   "title": "FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks",
+   "authors": [
+    "Chongkai Gao",
+    "Haozhuo Zhang",
+    "Zhixuan Xu",
+    "Cai Zhehao",
+    "Lin Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zn3LXvB5Sn",
+   "pdf_url": "https://openreview.net/pdf?id=Zn3LXvB5Sn"
+  },
+  {
+   "title": "Flow as the Cross-Domain Manipulation Interface",
+   "authors": [
+    "Mengda Xu",
+    "Zhenjia Xu",
+    "Yinghao Xu",
+    "Cheng Chi",
+    "Gordon Wetzstein",
+    "Manuela Veloso",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rXlBpouQag",
+   "pdf_url": "https://openreview.net/pdf?id=rXlBpouQag"
+  },
+  {
+   "title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation",
+   "authors": [
+    "Homanga Bharadhwaj",
+    "Debidatta Dwibedi",
+    "Abhinav Gupta",
+    "Shubham Tulsiani",
+    "Carl Doersch",
+    "Ted Xiao",
+    "Dhruv Shah",
+    "Fei Xia",
+    "Dorsa Sadigh",
+    "Sean Kirmani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=59U5Sl6nyF",
+   "pdf_url": "https://openreview.net/pdf?id=59U5Sl6nyF"
+  },
+  {
+   "title": "HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation",
+   "authors": [
+    "Yi Li",
+    "Yuquan Deng",
+    "Jesse Zhang",
+    "Joel Jang",
+    "Marius Memmel",
+    "Caelan Reed Garrett",
+    "Fabio Ramos",
+    "Dieter Fox",
+    "Anqi Li",
+    "Abhishek Gupta",
+    "Ankit Goyal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yF3UekSJus",
+   "pdf_url": "https://openreview.net/pdf?id=yF3UekSJus"
+  },
+  {
+   "title": "In-Context Imitation Learning via Next-Token Prediction",
+   "authors": [
+    "Letian Fu",
+    "Huang Huang",
+    "Gaurav Datta",
+    "Lawrence Yunliang Chen",
+    "William Chung-Ho Panitch",
+    "Fangchen Liu",
+    "Hui Li",
+    "Ken Goldberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2zNp7DOAWB",
+   "pdf_url": "https://openreview.net/pdf?id=2zNp7DOAWB"
+  },
+  {
+   "title": "Instant Policy: In-Context Imitation Learning via Graph Diffusion",
+   "authors": [
+    "Vitalis Vosylius",
+    "Edward Johns"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cD4Qop8N8X",
+   "pdf_url": "https://openreview.net/pdf?id=cD4Qop8N8X"
+  },
+  {
+   "title": "Latent Action Pretraining From Videos",
+   "authors": [
+    "Seonghyeon Ye",
+    "Joel Jang",
+    "Byeongguk Jeon",
+    "Se June Joo",
+    "Jianwei Yang",
+    "Baolin Peng",
+    "Ajay Mandlekar",
+    "Reuben Tan",
+    "Yu-Wei Chao",
+    "Bill Yuchen Lin",
+    "Lars Liden",
+    "Kimin Lee",
+    "Jianfeng Gao",
+    "Luke Zettlemoyer",
+    "Dieter Fox",
+    "Minjoon Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sV4Y6i1lvE",
+   "pdf_url": "https://openreview.net/pdf?id=sV4Y6i1lvE"
+  },
+  {
+   "title": "Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins",
+   "authors": [
+    "Venkatesh Pattabiraman",
+    "Yifeng Cao",
+    "Siddhant Haldar",
+    "Lerrel Pinto",
+    "Raunaq Bhirangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6zrf0tjJK9",
+   "pdf_url": "https://openreview.net/pdf?id=6zrf0tjJK9"
+  },
+  {
+   "title": "Learning to Transfer Human Hand Skills for Robot Manipulations",
+   "authors": [
+    "Sungjae Park",
+    "Seungho Lee",
+    "Mingi Choi",
+    "Jiye Lee",
+    "Jeonghwan Kim",
+    "Jisoo Kim",
+    "Hanbyul Joo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2xzn3UMhB2",
+   "pdf_url": "https://openreview.net/pdf?id=2xzn3UMhB2"
+  },
+  {
+   "title": "MotionGlot: A Multi-Embodied Motion Generation Model",
+   "authors": [
+    "Sudarshan Sunil Harithas",
+    "Srinath Sridhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G8qmLJWEv3",
+   "pdf_url": "https://openreview.net/pdf?id=G8qmLJWEv3"
+  },
+  {
+   "title": "One-Shot Imitation under Mismatched Execution",
+   "authors": [
+    "Kushal Kedia",
+    "Prithwish Dan",
+    "Angela Chao",
+    "Maximus Adrian Pace",
+    "Sanjiban Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7sLpUMKOCR",
+   "pdf_url": "https://openreview.net/pdf?id=7sLpUMKOCR"
+  },
+  {
+   "title": "OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation",
+   "authors": [
+    "Aadhithya Iyer",
+    "Zhuoran Peng",
+    "Yinlong Dai",
+    "Irmak Guzey",
+    "Siddhant Haldar",
+    "Soumith Chintala",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u6pnNfjH3w",
+   "pdf_url": "https://openreview.net/pdf?id=u6pnNfjH3w"
+  },
+  {
+   "title": "R+X: Retrieval and Execution from Everyday Human Videos",
+   "authors": [
+    "Georgios Papagiannis",
+    "Norman Di Palo",
+    "Pietro Vitiello",
+    "Edward Johns"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rPcxddPbOr",
+   "pdf_url": "https://openreview.net/pdf?id=rPcxddPbOr"
+  },
+  {
+   "title": "ReMix: Optimizing Data Mixtures for Large Scale Imitation Learning",
+   "authors": [
+    "Joey Hejna",
+    "Chethan Anand Bhateja",
+    "Karl Pertsch",
+    "Dorsa Sadigh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jgys46dD4i",
+   "pdf_url": "https://openreview.net/pdf?id=jgys46dD4i"
+  },
+  {
+   "title": "Robo-DM: Efficient Robot Big Data Management",
+   "authors": [
+    "Kaiyuan Chen",
+    "Letian Fu",
+    "Siyuan Fu",
+    "Lawrence Yunliang Chen",
+    "Huang Huang",
+    "Kush Hari",
+    "Ashwin Balakrishna",
+    "Pannag R Sanketi",
+    "John Kubiatowicz",
+    "Ken Goldberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IhuttrLDdh",
+   "pdf_url": "https://openreview.net/pdf?id=IhuttrLDdh"
+  },
+  {
+   "title": "Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments",
+   "authors": [
+    "Haritheja Etukuru",
+    "Norihito Naka",
+    "Zijin Hu",
+    "Seungjae Lee",
+    "Chris Paxton",
+    "Soumith Chintala",
+    "Lerrel Pinto",
+    "Nur Muhammad Mahi Shafiullah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rh8TEqb4MW",
+   "pdf_url": "https://openreview.net/pdf?id=rh8TEqb4MW"
+  },
+  {
+   "title": "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning",
+   "authors": [
+    "Lawrence Yunliang Chen",
+    "Chenfeng Xu",
+    "Karthik Dharmarajan",
+    "Muhammad Zubair Irshad",
+    "Richard Cheng",
+    "Kurt Keutzer",
+    "Masayoshi Tomizuka",
+    "Quan Vuong",
+    "Ken Goldberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aPInVSkflu",
+   "pdf_url": "https://openreview.net/pdf?id=aPInVSkflu"
+  },
+  {
+   "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation",
+   "authors": [
+    "Soroush Nasiriany",
+    "Sean Kirmani",
+    "Tianli Ding",
+    "Laura Smith",
+    "Yuke Zhu",
+    "Danny Driess",
+    "Dorsa Sadigh",
+    "Ted Xiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y4KugwU0qU",
+   "pdf_url": "https://openreview.net/pdf?id=y4KugwU0qU"
+  },
+  {
+   "title": "STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning",
+   "authors": [
+    "Marius Memmel",
+    "Jacob Berg",
+    "Bingqing Chen",
+    "Abhishek Gupta",
+    "Jonathan Francis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MXNoOqBNLZ",
+   "pdf_url": "https://openreview.net/pdf?id=MXNoOqBNLZ"
+  },
+  {
+   "title": "Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation",
+   "authors": [
+    "Homanga Bharadhwaj",
+    "Roozbeh Mottaghi",
+    "Abhinav Gupta",
+    "Shubham Tulsiani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cTSZPrTCmv",
+   "pdf_url": "https://openreview.net/pdf?id=cTSZPrTCmv"
+  },
+  {
+   "title": "UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers",
+   "authors": [
+    "Huy Ha",
+    "Yihuai Gao",
+    "Zipeng Fu",
+    "Jie Tan",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2AoztlTKfM",
+   "pdf_url": "https://openreview.net/pdf?id=2AoztlTKfM"
+  },
+  {
+   "title": "View-Invariant Policy Learning via Zero-Shot Novel View Synthesis",
+   "authors": [
+    "Stephen Tian",
+    "Blake Wulfe",
+    "Kyle Sargent",
+    "Katherine Liu",
+    "Sergey Zakharov",
+    "Vitor Campagnolo Guizilini",
+    "Jiajun Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z3GKMxQIP2",
+   "pdf_url": "https://openreview.net/pdf?id=z3GKMxQIP2"
+  },
+  {
+   "title": "Vision-based Manipulation from Single Human Video with Open-World Object Graphs",
+   "authors": [
+    "Yifeng Zhu",
+    "Arisrei Lim",
+    "Peter Stone",
+    "Yuke Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H1Jz8FFnve",
+   "pdf_url": "https://openreview.net/pdf?id=H1Jz8FFnve"
+  }
+ ]
+}

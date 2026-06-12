@@ -1,0 +1,513 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/WCUA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:15.143Z",
+ "paper_count": 33,
+ "papers": [
+  {
+   "title": "AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents",
+   "authors": [
+    "Arman Zharmagambetov",
+    "Chuan Guo",
+    "Ivan Evtimov",
+    "Maya Pavlova",
+    "Ruslan Salakhutdinov",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SP0X5rm6f3",
+   "pdf_url": "https://openreview.net/pdf?id=SP0X5rm6f3"
+  },
+  {
+   "title": "API Agents vs. GUI Agents: Divergence and Convergence",
+   "authors": [
+    "Chaoyun Zhang",
+    "Shilin He",
+    "Liqun Li",
+    "Si Qin",
+    "Yu Kang",
+    "Qingwei Lin",
+    "Saravan Rajmohan",
+    "Dongmei Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XuThXhPSQR",
+   "pdf_url": "https://openreview.net/pdf?id=XuThXhPSQR"
+  },
+  {
+   "title": "BIMgent: Towards Autonomous Building Modeling via Computer-use Agents",
+   "authors": [
+    "Zihan Deng",
+    "Changyu Du",
+    "Stavros Nousias",
+    "André Borrmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vQCFwXAl2A",
+   "pdf_url": "https://openreview.net/pdf?id=vQCFwXAl2A"
+  },
+  {
+   "title": "Coding Agents with Multimodal Browsing are Generalist Problem Solvers",
+   "authors": [
+    "Aditya Bharat Soni",
+    "Boxuan Li",
+    "Xingyao Wang",
+    "Valerie Chen",
+    "Graham Neubig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6HF55i7bca",
+   "pdf_url": "https://openreview.net/pdf?id=6HF55i7bca"
+  },
+  {
+   "title": "Context manipulation attacks : Web agents are susceptible to corrupted memory",
+   "authors": [
+    "Atharv Singh Patlan",
+    "S Ashwin Hebbar",
+    "Pramod Viswanath",
+    "Prateek Mittal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4LovHyz92W",
+   "pdf_url": "https://openreview.net/pdf?id=4LovHyz92W"
+  },
+  {
+   "title": "DoomArena: A framework for Testing AI Agents Against Evolving Security Threats",
+   "authors": [
+    "Léo Boisvert",
+    "Abhay Puri",
+    "Gabriel Huang",
+    "Mihir Bansal",
+    "Chandra Kiran Reddy Evuru",
+    "Avinandan Bose",
+    "Maryam Fazel",
+    "Quentin Cappart",
+    "Alexandre Lacoste",
+    "Alexandre Drouin",
+    "Krishnamurthy Dj Dvijotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YeM5q99tBJ",
+   "pdf_url": "https://openreview.net/pdf?id=YeM5q99tBJ"
+  },
+  {
+   "title": "Dynamic Risk Assessments for Offensive Cybersecurity Agents",
+   "authors": [
+    "Boyi Wei",
+    "Benedikt Stroebl",
+    "Jiacen Xu",
+    "Joie Zhang",
+    "Zhou Li",
+    "Peter Henderson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ecPZCBYke8",
+   "pdf_url": "https://openreview.net/pdf?id=ecPZCBYke8"
+  },
+  {
+   "title": "EARL: Early Intent Recognition in GUI Tasks Using Theory of Mind",
+   "authors": [
+    "SHRADDHA VIJAY PAWAR",
+    "Balavarun Pedapudi",
+    "Pramod Kaushik",
+    "Sarath Sivaprasad",
+    "Mario Fritz",
+    "Shirish Karande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nABg9kZ7JR",
+   "pdf_url": "https://openreview.net/pdf?id=nABg9kZ7JR"
+  },
+  {
+   "title": "EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments",
+   "authors": [
+    "Sara Fish",
+    "Julia Shephard",
+    "Minkai Li",
+    "Ran I Shorrer",
+    "Yannai A. Gonczarowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hdR9yRTiD5",
+   "pdf_url": "https://openreview.net/pdf?id=hdR9yRTiD5"
+  },
+  {
+   "title": "GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning",
+   "authors": [
+    "Zhen Xiang",
+    "Linzhi Zheng",
+    "Yanjie Li",
+    "Junyuan Hong",
+    "Qinbin Li",
+    "Han Xie",
+    "Jiawei Zhang",
+    "Zidi Xiong",
+    "Chulin Xie",
+    "Nathaniel D. Bastian",
+    "Carl Yang",
+    "Dawn Song",
+    "Bo Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ITuuEaXcSB",
+   "pdf_url": "https://openreview.net/pdf?id=ITuuEaXcSB"
+  },
+  {
+   "title": "How to Train Your LLM Web Agent: A Statistical Diagnosis",
+   "authors": [
+    "Dheeraj Vattikonda",
+    "Santhoshi Ravichandran",
+    "Emiliano Penaloza",
+    "Hadi Nekoei",
+    "Megh Thakkar",
+    "Thibault Le Sellier de Chezelles",
+    "Nicolas Gontier",
+    "Miguel Muñoz-Mármol",
+    "Sahar Omidi Shayegan",
+    "Stefania Raimondo",
+    "Xue Liu",
+    "Alexandre Drouin",
+    "Laurent Charlin",
+    "Alexandre Piché",
+    "Alexandre Lacoste",
+    "Massimo Caccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6v4fYh1m1c",
+   "pdf_url": "https://openreview.net/pdf?id=6v4fYh1m1c"
+  },
+  {
+   "title": "Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search",
+   "authors": [
+    "Samuel Holt",
+    "Max Ruiz Luyten",
+    "Thomas Pouplin",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0So6RaZ6qL",
+   "pdf_url": "https://openreview.net/pdf?id=0So6RaZ6qL"
+  },
+  {
+   "title": "InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection",
+   "authors": [
+    "Yuhang Liu",
+    "Pengxiang Li",
+    "Zishu Wei",
+    "Congkai Xie",
+    "Xueyu Hu",
+    "Xinchen Xu",
+    "Shengyu Zhang",
+    "Xiaotian Han",
+    "Hongxia Yang",
+    "Fei Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p0h9XJ7fMH",
+   "pdf_url": "https://openreview.net/pdf?id=p0h9XJ7fMH"
+  },
+  {
+   "title": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
+   "authors": [
+    "Boyu Gou",
+    "Zanming Huang",
+    "Yuting Ning",
+    "Yu Gu",
+    "Michael Lin",
+    "Weijian Qi",
+    "Andrei Kopanev",
+    "Botao Yu",
+    "Bernal Jiménez Gutiérrez",
+    "Yiheng Shu",
+    "Chan Hee Song",
+    "Jiaman Wu",
+    "Shijie Chen",
+    "Hanane Nour Moussa",
+    "TIANSHU ZHANG",
+    "Jian Xie",
+    "Yifei Li",
+    "Tianci Xue",
+    "Zeyi Liao",
+    "Kai Zhang",
+    "Boyuan Zheng",
+    "Zhaowei Cai",
+    "Viktor Rozgic",
+    "Morteza Ziyadi",
+    "Huan Sun",
+    "Yu Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lVGl3E6tq8",
+   "pdf_url": "https://openreview.net/pdf?id=lVGl3E6tq8"
+  },
+  {
+   "title": "OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents",
+   "authors": [
+    "Thomas Kuntz",
+    "Agatha Duzan",
+    "Hao Zhao",
+    "Francesco Croce",
+    "J Zico Kolter",
+    "Nicolas Flammarion",
+    "Maksym Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kNHA0QCSQa",
+   "pdf_url": "https://openreview.net/pdf?id=kNHA0QCSQa"
+  },
+  {
+   "title": "OS-MAP: How Far Can Computer Use Agents Go in Breadth and Depth?",
+   "authors": [
+    "Xuetian Chen",
+    "Yinghao Chen",
+    "Xinfeng Yuan",
+    "ZhuoPeng",
+    "Lu Chen",
+    "Yuekeng Li",
+    "Zhoujia Zhang",
+    "Yingqian Huang",
+    "Leyan Huang",
+    "Jiaqing Liang",
+    "Tianbao Xie",
+    "Zhiyong Wu",
+    "Qiushi Sun",
+    "Biqing Qi",
+    "Bowen Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mTheTLtiOt",
+   "pdf_url": "https://openreview.net/pdf?id=mTheTLtiOt"
+  },
+  {
+   "title": "OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents",
+   "authors": [
+    "Reyna Abhyankar",
+    "Qi Qi",
+    "Yiying Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sV3n6mYy7J",
+   "pdf_url": "https://openreview.net/pdf?id=sV3n6mYy7J"
+  },
+  {
+   "title": "Reimagining ABM with LLM Agents via Shachi",
+   "authors": [
+    "So Kuroki",
+    "Yingtao Tian",
+    "Kou Misaki",
+    "Takashi Ikegami",
+    "Takuya Akiba",
+    "Yujin Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VtobeHcQWs",
+   "pdf_url": "https://openreview.net/pdf?id=VtobeHcQWs"
+  },
+  {
+   "title": "Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment",
+   "authors": [
+    "Siliang Zeng",
+    "Quan Wei",
+    "William Brown",
+    "Oana Frunza",
+    "Yuriy Nevmyvaka",
+    "Yang Katie Zhao",
+    "Mingyi Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h83vIG5Hre",
+   "pdf_url": "https://openreview.net/pdf?id=h83vIG5Hre"
+  },
+  {
+   "title": "Replacing thinking with tool usage enables reasoning in small language models",
+   "authors": [
+    "Corrado Rainone",
+    "Tim Bakker",
+    "Roland Memisevic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ge8yEHk35m",
+   "pdf_url": "https://openreview.net/pdf?id=Ge8yEHk35m"
+  },
+  {
+   "title": "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows",
+   "authors": [
+    "Qiushi Sun",
+    "Zhoumianze Liu",
+    "Chang Ma",
+    "Zichen Ding",
+    "Fangzhi Xu",
+    "Zhangyue Yin",
+    "Haiteng Zhao",
+    "Zhenyu Wu",
+    "Kanzhi Cheng",
+    "Zhaoyang Liu",
+    "Jianing Wang",
+    "Qintong Li",
+    "Robert Tang",
+    "Tianbao Xie",
+    "Xiachong Feng",
+    "Xiang Li",
+    "Ben Kao",
+    "Wenhai Wang",
+    "Biqing Qi",
+    "Lingpeng Kong",
+    "Zhiyong Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CTtuhMeU5e",
+   "pdf_url": "https://openreview.net/pdf?id=CTtuhMeU5e"
+  },
+  {
+   "title": "Semantic Context for Tool Orchestration",
+   "authors": [
+    "Robert Müller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WD5y9i4d2d",
+   "pdf_url": "https://openreview.net/pdf?id=WD5y9i4d2d"
+  },
+  {
+   "title": "Silent Sabotage: Injecting Backdoors into AI Agents Through Fine-Tuning",
+   "authors": [
+    "Léo Boisvert",
+    "Abhay Puri",
+    "Chandra Kiran Reddy Evuru",
+    "Joshua Kazdan",
+    "Avinandan Bose",
+    "Quentin Cappart",
+    "Maryam Fazel",
+    "Sai Rajeswar",
+    "Jason Stanley",
+    "Nicolas Chapados",
+    "Alexandre Drouin",
+    "Krishnamurthy Dj Dvijotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RwoMf7YSfD",
+   "pdf_url": "https://openreview.net/pdf?id=RwoMf7YSfD"
+  },
+  {
+   "title": "ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents",
+   "authors": [
+    "Ido Levy",
+    "Ben wiesel",
+    "Sami Marreed",
+    "Alon Oved",
+    "Avi Yaeli",
+    "Segev Shlomov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fAmhr96SUw",
+   "pdf_url": "https://openreview.net/pdf?id=fAmhr96SUw"
+  },
+  {
+   "title": "Toward Autonomous UI Exploration: The UIExplorer Benchmark",
+   "authors": [
+    "Andrei Cristian Nica",
+    "Akshaya Vishnu Kudlu Shanbhogue",
+    "Harshil Shah",
+    "Aleix Cambray",
+    "Tudor Berariu",
+    "Lucas Maystre",
+    "David Barber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DFPYSAyWRv",
+   "pdf_url": "https://openreview.net/pdf?id=DFPYSAyWRv"
+  },
+  {
+   "title": "UI-Evol: Automatic Knowledge Evolving for Computer Use Agents",
+   "authors": [
+    "Ziyun Zhang",
+    "Xinyi Liu",
+    "Xiaoyi Zhang",
+    "Jun Wang",
+    "Gang Chen",
+    "Yan Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vo6nDHdlhU",
+   "pdf_url": "https://openreview.net/pdf?id=vo6nDHdlhU"
+  },
+  {
+   "title": "Universal Retrieval for Multimodal Trajectory Modeling",
+   "authors": [
+    "Xuan Zhang",
+    "Ziyan Jiang",
+    "Rui Meng",
+    "Yifei Leng",
+    "Zhenbang Xiao",
+    "Zora Zhiruo Wang",
+    "Yanyi Shang",
+    "Dehan Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wNFgL1c6It",
+   "pdf_url": "https://openreview.net/pdf?id=wNFgL1c6It"
+  },
+  {
+   "title": "VerificAgent: Integrating Expert Knowledge and Fact-Checked Memory for Robust Domain-Specific Task Planning",
+   "authors": [
+    "Thong Q. Nguyen",
+    "Shubhang Desai",
+    "Yash Jain",
+    "Tanvir Aumi",
+    "Vishal Chowdhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9zvvQcT2ZO",
+   "pdf_url": "https://openreview.net/pdf?id=9zvvQcT2ZO"
+  },
+  {
+   "title": "WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks",
+   "authors": [
+    "Ivan Evtimov",
+    "Arman Zharmagambetov",
+    "Aaron Grattafiori",
+    "Chuan Guo",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i9uBCUYupv",
+   "pdf_url": "https://openreview.net/pdf?id=i9uBCUYupv"
+  },
+  {
+   "title": "Weathering the CUA Storm: Mapping Security Threats in the Rapid Rise of Computer Use Agents",
+   "authors": [
+    "Daniel Jones",
+    "Martin Pouliot",
+    "Giorgio Severi",
+    "Joris de Gruyter",
+    "Gary David Lopez Munoz",
+    "Santiago Zanella-Beguelin",
+    "Justin Song",
+    "Amanda J. Minnich",
+    "Pamela Cortez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zyLikFYOLF",
+   "pdf_url": "https://openreview.net/pdf?id=zyLikFYOLF"
+  },
+  {
+   "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+   "authors": [
+    "Zhepei Wei",
+    "Wenlin Yao",
+    "Yao Liu",
+    "Weizhi Zhang",
+    "Qin Lu",
+    "Liang Qiu",
+    "Changlong Yu",
+    "Puyang Xu",
+    "Chao Zhang",
+    "Bing Yin",
+    "Hyokun Yun",
+    "Lihong Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KqrYTALRjH",
+   "pdf_url": "https://openreview.net/pdf?id=KqrYTALRjH"
+  },
+  {
+   "title": "WebGames: Challenging General-Purpose Web-Browsing AI Agents",
+   "authors": [
+    "George Thomas",
+    "Filippos Christianos",
+    "Alex James Chan",
+    "Rohit Midha",
+    "Jikun Kang",
+    "Wenqi Wu",
+    "Fraser David Greenlee",
+    "Andrew Toulis",
+    "Marvin Purtorab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lEIV7ZWu3t",
+   "pdf_url": "https://openreview.net/pdf?id=lEIV7ZWu3t"
+  },
+  {
+   "title": "WebQuest: A Benchmark for Multimodal QA on Web Page Sequences",
+   "authors": [
+    "Maria Wang",
+    "Srinivas Sunkara",
+    "Jason Lin",
+    "Gilles Baechler",
+    "Fedir Zubach",
+    "Lei Shu",
+    "Yun Zhu",
+    "Jindong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AfMxYJcl77",
+   "pdf_url": "https://openreview.net/pdf?id=AfMxYJcl77"
+  }
+ ]
+}

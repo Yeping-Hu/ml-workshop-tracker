@@ -1,0 +1,966 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/FM4LS",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:44.589Z",
+ "paper_count": 83,
+ "papers": [
+  {
+   "title": "AgriPerceiver: A Parameter-Efficient Vision-Language Model for Structured Macroscopic Crop Phenotyping",
+   "authors": [
+    "Vatsal Khanna",
+    "Davinder Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LUeHTZtwNZ",
+   "pdf_url": null
+  },
+  {
+   "title": "AMR-Bench-mini: A Diagnostic Benchmark for Agentic Mechanistic AMR Reasoning under Evidence Insufficiency",
+   "authors": [
+    "Ali Ihsan Nergiz",
+    "Erva Nur Cinar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i2Onnie8Ao",
+   "pdf_url": null
+  },
+  {
+   "title": "ARO: Aligned Representation learning for multi-Omics data",
+   "authors": [
+    "Amogh Singh",
+    "Yash Shah",
+    "Chiara D'Ercoli",
+    "Arash Mehrjou",
+    "Patrick Schwab",
+    "Timothy M. Jones",
+    "Pietro Lio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fphATMAzi4",
+   "pdf_url": null
+  },
+  {
+   "title": "Auditing Generative Graph Foundation Models for Connectomics: A Score × Predictor × Sampler Decomposition on Real Sparse Directed Connectomes",
+   "authors": [
+    "Ethan Y Wang",
+    "Aayan Alwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8N08lLCs9H",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Nativeness: Viral Proteins in Protein Language Models",
+   "authors": [
+    "Arthur Bigot",
+    "Harmon Bhasin",
+    "Core Francisco Park",
+    "Eugene Shakhnovich",
+    "Dianzhuo Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4BkYpMJ9zC",
+   "pdf_url": "https://openreview.net/pdf?id=4BkYpMJ9zC"
+  },
+  {
+   "title": "Biophysics-Guided Genomic Foundation Models via Attention Gating",
+   "authors": [
+    "Bryan Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZjK8BNTzvl",
+   "pdf_url": null
+  },
+  {
+   "title": "Bolek: A Multimodal Language Model for Molecular Reasoning",
+   "authors": [
+    "Frederic Grabowski",
+    "Jacek Szczerbiński",
+    "Maciej Jaśkowski",
+    "Kalina Jasinska-Kobus",
+    "Pawel Dabrowski-Tumanski",
+    "Tomasz Jetka",
+    "Bartosz Topolski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DXiTuQCMKE",
+   "pdf_url": null
+  },
+  {
+   "title": "Causal-IQD-DTA: Counterfactual Interaction-Quality Disentanglement for Robust Drug–Target Affinity Prediction",
+   "authors": [
+    "khan huang",
+    "Chang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2EhO9Exmhi",
+   "pdf_url": null
+  },
+  {
+   "title": "Cell Painting Generates Single-Cell Transcriptomics via Conditional Diffusion",
+   "authors": [
+    "Reed Naidoo",
+    "Jingyu Hu",
+    "Giuseppe Tripodi",
+    "Chris Bakal",
+    "Tapabrata Chakraborti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ACHMa1e8J1",
+   "pdf_url": null
+  },
+  {
+   "title": "ConfPert: Distribution-Free Conformal Coverage for Single-Cell Perturbation Predictors",
+   "authors": [
+    "Aayan Alwani",
+    "Ethan Y Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1uE9rtYYzp",
+   "pdf_url": null
+  },
+  {
+   "title": "Contrastive Learning for Gene Set Enrichment Analysis Post-Processing",
+   "authors": [
+    "Leonardo P.A. Biral",
+    "Sandeep Dave"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yiN1dLm0H0",
+   "pdf_url": "https://openreview.net/pdf?id=yiN1dLm0H0"
+  },
+  {
+   "title": "Cross-modal transfer learning for mapping bulk transcriptomes at cellular level",
+   "authors": [
+    "Aarthi Venkat",
+    "Zhiwen Jiang",
+    "Daniel Marbach",
+    "Nir Hacohen",
+    "Marinka Zitnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5bHHy81McV",
+   "pdf_url": "https://openreview.net/pdf?id=5bHHy81McV"
+  },
+  {
+   "title": "DELBERT-2: Pretrained Fingerprint Language Models for DEL Protein Binder Prediction",
+   "authors": [
+    "Bing Xu Hu",
+    "Sun Sun",
+    "Shaik salman basha",
+    "Anita Layton",
+    "Helen Hong Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eavD11LSJ6",
+   "pdf_url": null
+  },
+  {
+   "title": "Detecting Sparse Colorectal Cancer Signals from Multi-Modal Cell-Free DNA Representations Using Modern Hopfield Attention",
+   "authors": [
+    "Michael Widrich",
+    "Anooj Patel",
+    "Elisabeth Rumetshofer",
+    "Peter Ulz",
+    "Kaitlyn Coil",
+    "Thomas Royce",
+    "Cheng-Ho Jimmy Lin",
+    "Richard Bourgon",
+    "Anindita Dutta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nq5XAAIUSe",
+   "pdf_url": null
+  },
+  {
+   "title": "Do Clinical VLMs Need Dense Visual Tokens? Probing Spatial Grounding in Radiology Report Generation",
+   "authors": [
+    "Leopoldo Julian Lechuga Lopez",
+    "Tim G. J. Rudner",
+    "Farah E. Shamout"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yQZ93BNJxT",
+   "pdf_url": null
+  },
+  {
+   "title": "DrugAgent: Reliable Multi-Agent Aggregation under Conflicting Biomedical Evidence",
+   "authors": [
+    "Yoshitaka Inoue",
+    "Tianci Song",
+    "Xinling Wang",
+    "Augustin Luna",
+    "Tianfan Fu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nSDxbVaJpQ",
+   "pdf_url": "https://openreview.net/pdf?id=nSDxbVaJpQ"
+  },
+  {
+   "title": "E1: Retrieval-Augmented Protein Encoder Models",
+   "authors": [
+    "Sarthak Jain",
+    "Joel Beazer",
+    "Jeffrey A. Ruffolo",
+    "Aadyot Bhatnagar",
+    "Ali Madani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cKrZo7L60A",
+   "pdf_url": "https://openreview.net/pdf?id=cKrZo7L60A"
+  },
+  {
+   "title": "Empirical Observations on Parameter Scaling in Chemical Language Models",
+   "authors": [
+    "Artur Safrastyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rR0OLTGE9j",
+   "pdf_url": "https://openreview.net/pdf?id=rR0OLTGE9j"
+  },
+  {
+   "title": "ERVNet: A Three-Module Framework for Predicting Endogenous Retrovirus Reactivation, Gene Propagation, and Immunogenicity",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang",
+    "Brendan Lo",
+    "Arnav Pemmaraju",
+    "Joshua Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kbn0sqjGFv",
+   "pdf_url": null
+  },
+  {
+   "title": "esm-bind: How much protein–RNA binding signal is already in frozen ESM-2 + RNA-FM representations?",
+   "authors": [
+    "Ethan B Arnold"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pEFnReWFQh",
+   "pdf_url": null
+  },
+  {
+   "title": "Exploring Set-Aggregated Genome Embeddings for Microbiome Abundance Prediction",
+   "authors": [
+    "Younhun Kim",
+    "Georg K. Gerber",
+    "Travis E Gibson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UTdSecHKb0",
+   "pdf_url": "https://openreview.net/pdf?id=UTdSecHKb0"
+  },
+  {
+   "title": "Few-Shot Biomedical Image Classification by Alignment of Independently Pretrained Encoders",
+   "authors": [
+    "Daniel Shalam",
+    "Simon Korman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U7nPb0GkvG",
+   "pdf_url": null
+  },
+  {
+   "title": "Gene-Embedding Perturbation Operators for Zero-Shot and Transferable Prediction of Transcriptional Responses",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L38ex5K96w",
+   "pdf_url": null
+  },
+  {
+   "title": "Generalization of Protein Foundation Models for Engineered Fluorescent Biosensors",
+   "authors": [
+    "Anirudh Palutla",
+    "Caroline Malin-Mayor",
+    "John N. Koberstein",
+    "Alison G. Tebo",
+    "Srinivas C Turaga"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PSwrUaBwIa",
+   "pdf_url": null
+  },
+  {
+   "title": "GeneZip: Region-Aware Compression for Long Context DNA Modeling",
+   "authors": [
+    "Jianan Zhao",
+    "Xixian Liu",
+    "Zhihao Zhan",
+    "Xinyu Yuan",
+    "Hongyu Guo",
+    "Jian Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ReGsQIsuad",
+   "pdf_url": null
+  },
+  {
+   "title": "GFETM: Genome Foundation-based Embedded Topic Model for scATAC-seq Modeling",
+   "authors": [
+    "Yimin Fan",
+    "Yu Li",
+    "Jun Ding",
+    "Yue Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=56DIsM13xO",
+   "pdf_url": null
+  },
+  {
+   "title": "Group Contrastive Learning for Weakly Paired Multimodal Data",
+   "authors": [
+    "Aditya Gorla",
+    "Hugues Van Assel",
+    "Jan-Christian Huetter",
+    "Heming Yao",
+    "Kyunghyun Cho",
+    "Aviv Regev",
+    "Russell Littman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLKfooTAiO",
+   "pdf_url": null
+  },
+  {
+   "title": "HealthBot: An Open-Source AI Assistant for Longitudinal Personal Health Management",
+   "authors": [
+    "Zheng Yu",
+    "Yanyuan Qiao",
+    "Qi Wu",
+    "Yutong Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nY8p8HPMc5",
+   "pdf_url": "https://openreview.net/pdf?id=nY8p8HPMc5"
+  },
+  {
+   "title": "HistoTx: Early fusion of H&E images and spatial transcriptomics at varying spatial transcriptomics resolution with self-supervised learning",
+   "authors": [
+    "Alice Driessen",
+    "Steffen Wolf",
+    "Emil Malmsten",
+    "Bernd Illing",
+    "Isinsu Katircioglu",
+    "Adriano Martinelli",
+    "Raphael Gottardo",
+    "Marianna Rapsomaniki",
+    "Fei Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hn46pxVev9",
+   "pdf_url": null
+  },
+  {
+   "title": "How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images",
+   "authors": [
+    "Guimeng Liu",
+    "Tianze Yu",
+    "Somayeh Ebrahimkhani",
+    "Lin Zhi Zheng Shawn",
+    "Kok Pin Ng",
+    "Ngai-Man Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yTHTv6djD4",
+   "pdf_url": null
+  },
+  {
+   "title": "ImmunoFoundation: A Multimodal Foundation Model     for Immunogenicity Prediction and Peptide Optimization",
+   "authors": [
+    "João Felipe Rocha",
+    "Hiren Madhu",
+    "Jenny Yongjia Liu",
+    "Apurva Mishra",
+    "Chen Liu",
+    "Rishabh Anand",
+    "Rex Ying",
+    "Smita Krishnaswamy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9RKfXWSQme",
+   "pdf_url": "https://openreview.net/pdf?id=9RKfXWSQme"
+  },
+  {
+   "title": "Is PEFT Enough for Cell Segmentation? An Empirical No-Go Result on Frozen Foundation Models",
+   "authors": [
+    "Joonsuk Hwang",
+    "Hyowon Woo",
+    "Hyobin Seok",
+    "Jangwon Seo",
+    "Jeong Hoon Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7cdGdKdnYA",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Protein Fitness Landscapes with Multimodal Stability Priors",
+   "authors": [
+    "Shannon SQ Zhang",
+    "Yunan Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8sCCiit00K",
+   "pdf_url": "https://openreview.net/pdf?id=8sCCiit00K"
+  },
+  {
+   "title": "Lightweight Alignment of Unimodal Foundation Models for Metabolite Identification",
+   "authors": [
+    "Paul Krzakala",
+    "Gabriel Melo",
+    "Camille Lançon",
+    "Charlotte Laclau",
+    "Rémi Flamary",
+    "Etienne A. Thévenot",
+    "Florence d'Alché-Buc"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZoBAklPA7R",
+   "pdf_url": "https://openreview.net/pdf?id=ZoBAklPA7R"
+  },
+  {
+   "title": "LLMs Can Learn the Language of the Microbiome",
+   "authors": [
+    "Neythen J Treloar",
+    "Jenny Yang",
+    "Saif Ur-Rehman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d6nkUwkFSn",
+   "pdf_url": "https://openreview.net/pdf?id=d6nkUwkFSn"
+  },
+  {
+   "title": "Local-Atlas Control-Anchored Flow Matching for Unpaired Single-Cell Perturbation Prediction",
+   "authors": [
+    "khan huang",
+    "Chang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4Kj8btmGbK",
+   "pdf_url": null
+  },
+  {
+   "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+   "authors": [
+    "Melanie Rieff",
+    "Robin Staab",
+    "Thibaud Gloaguen",
+    "Stefan Hegselmann",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nmf9fBxCgq",
+   "pdf_url": null
+  },
+  {
+   "title": "Mechanistic Synergy in Multi-Modal VEP: DNA Context Complements PLMs under Biophysical Constraints",
+   "authors": [
+    "Yoojin Kim",
+    "Doyeon Ha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ps1a2Qp7xS",
+   "pdf_url": "https://openreview.net/pdf?id=ps1a2Qp7xS"
+  },
+  {
+   "title": "Medmarks: An Open-Source LLM Benchmark Suite for Medical Tasks",
+   "authors": [
+    "Benjamin Warner",
+    "Ratna Sagari Grandhi",
+    "Max Kieffer",
+    "Aymane Ouraq",
+    "Saurav Panigrahi",
+    "Geetu Ambwani",
+    "Kunal Bagga",
+    "Nikhil Khandekar",
+    "Arya Hariharan",
+    "Nishant Mishra",
+    "Manish Ram",
+    "Shamus Sim Zi Yang",
+    "Ahmed Essouaied",
+    "Adepoju Jeremiah Moyondafoluwa",
+    "Robert Scholz",
+    "Bofeng Huang",
+    "Molly Beavers",
+    "Srishti Gureja",
+    "Anish Mahishi",
+    "Sameed Khan",
+    "Maxime Griot",
+    "Hunar Batra",
+    "Jean-Benoit Delbrouck",
+    "Siddhant Bharadwaj",
+    "Ronald Clark",
+    "Ashish Vashist",
+    "Anas Zafar",
+    "Leema Krishna Murali",
+    "Harsh Deshpande",
+    "Ameen Patel",
+    "William Brown",
+    "Johannes Hagemann",
+    "Connor Lane",
+    "Paul Steven Scotti",
+    "Tanishq Mathew Abraham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nYuVOEWuza",
+   "pdf_url": null
+  },
+  {
+   "title": "MESH-HR: Multimodal Fusion of Somatic DNA Profiles and Histopathology for Continuous Breast Cancer Receptor Subtyping via LLM-Assisted Annotation",
+   "authors": [
+    "Shaye Carver",
+    "Kodi Taraszka",
+    "Intae Moon",
+    "Alexander Gusev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nrnk7F5ccA",
+   "pdf_url": null
+  },
+  {
+   "title": "Mode-Aware Phenotype Profiling from Korean Clinical Reports: An LLM-Derived Two-Layer Fingerprint for Autism Characterization",
+   "authors": [
+    "Yeojin Ryu",
+    "Miae Oh",
+    "Joon-Yong An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ClVNdyCzFh",
+   "pdf_url": null
+  },
+  {
+   "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+   "authors": [
+    "Xinjian Zhao",
+    "Xiangru Jian",
+    "Yaoyao Xu",
+    "Xiaozhuang Song",
+    "Wei Pang",
+    "LEI BAI",
+    "Tianshu Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dD95A7ATXn",
+   "pdf_url": null
+  },
+  {
+   "title": "Neuro-Anatomy–Informed Self-Supervised Learning for Structural Brain MRI",
+   "authors": [
+    "Sean Chen Jiale",
+    "Tianze Yu",
+    "Somayeh Ebrahimkhani",
+    "Lin Zhi Zheng Shawn",
+    "Kok Pin Ng",
+    "Ngai-Man Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x5zDSkJEsw",
+   "pdf_url": null
+  },
+  {
+   "title": "OmicsDefense: The First Unified Framework for Defending Against Backdoor Attacks in Single-cell Foundation Models",
+   "authors": [
+    "Bioclaw Team",
+    "Peiting Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gm3WOUJfJA",
+   "pdf_url": null
+  },
+  {
+   "title": "OmicsLM: A Multimodal Large Language Model for Multi-Sample Omics Reasoning",
+   "authors": [
+    "Maciej Sypetkowski",
+    "Joanna Krawczyk",
+    "Łukasz Smoliński",
+    "Remigiusz Kinas",
+    "Przemysław Pietrzak",
+    "Tomasz Jetka",
+    "Rafal Powalski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U0Hhxd7Vod",
+   "pdf_url": null
+  },
+  {
+   "title": "PaCX-MAE: Physiology-Augmented Chest X-Ray Masked Autoencoder",
+   "authors": [
+    "Yancheng Liu",
+    "Kenichi Maeda",
+    "Manan Pancholy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uexI49pco3",
+   "pdf_url": null
+  },
+  {
+   "title": "PaSTel: Anchoring Histology in Spatial Transcriptomics via Multi-Scale Hierarchical Bio-Prior Contrastive Pretraining",
+   "authors": [
+    "Azim Dehghani Amirabad",
+    "Junchao Zhu",
+    "Pushpak Pati",
+    "Walid Abdelmoula",
+    "Tommaso Mansi",
+    "Rui Liao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RnpsYhzwg4",
+   "pdf_url": null
+  },
+  {
+   "title": "PertReasonQA: A Knowledge-Grounded Benchmark and Framework for Cell-State–Conditioned Mechanistic Reasoning of Perturbation Effects",
+   "authors": [
+    "Dongkwan Kim",
+    "Yiming Gao",
+    "Yining Yang",
+    "Yang Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ALWkvFC0O1",
+   "pdf_url": null
+  },
+  {
+   "title": "PerturbDiff: Functional Diffusion for Single-Cell Perturbation Modeling",
+   "authors": [
+    "Xinyu Yuan",
+    "Xixian Liu",
+    "Ya Shi Zhang",
+    "Zuobai Zhang",
+    "Hongyu Guo",
+    "Jian Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qIjCEIueMh",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: AI for Drug Discovery Models Often Do Not Learn as Expected and How to Diagnose These Failure Modes",
+   "authors": [
+    "Nikhil Branson",
+    "Aaron Wenteler",
+    "Guy Durant",
+    "Charlotte Deane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RChoYAHJvi",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Multi-Modal LLMs for Video Behavioral Coding in High-Stakes Decision-Making Are Bounded by Polysemy, Not by Model Scale",
+   "authors": [
+    "Zezheng Lin",
+    "Jinhao Gan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sui9KfHzRn",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Multi-Omics Foundation Models Need a Modality Identifiability Standard, Not Just Aggregate Accuracy",
+   "authors": [
+    "Zezheng Lin",
+    "Fengming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZswqCu8lj1",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Saturation in Single-Cell Foundation Model Benchmarks Signals Identifiability Failure, Not Solved Capability",
+   "authors": [
+    "Zezheng Lin",
+    "Fengming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TeMVV5Yp6V",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Saturation in Single-Cell Foundation Model Benchmarks Signals Identifiability Failure, Not Solved Capability",
+   "authors": [
+    "Zezheng Lin",
+    "Fengming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V8rj3UkC5J",
+   "pdf_url": null
+  },
+  {
+   "title": "Pre-training on noncovalent interactions from synthetic protein-ligand structures to better predict binding affinity",
+   "authors": [
+    "Arun Raja",
+    "Garrett A. Stevenson",
+    "Garrett M Morris",
+    "Jonathan E Allen",
+    "Hyojin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CUpqGH72hv",
+   "pdf_url": null
+  },
+  {
+   "title": "Predicting host-pathogen interactions using a proteome-scale language model",
+   "authors": [
+    "Cyril Malbranke",
+    "Cecilia Fruet",
+    "Anne-Florence Bitbol"
+   ],
+   "forum_url": "https://openreview.net/forum?id=faHMTX8CnE",
+   "pdf_url": null
+  },
+  {
+   "title": "PRIMA: a bidirectional state-space architecture and training approach for sequence modelling of protein-protein interactions",
+   "authors": [
+    "Arturo Fiorellini-Bernardis",
+    "Sebastien Boyer",
+    "Jean QUENTIN",
+    "Ghassene Jebali",
+    "Oliver Bent"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9OVKsH5DXt",
+   "pdf_url": "https://openreview.net/pdf?id=9OVKsH5DXt"
+  },
+  {
+   "title": "Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis",
+   "authors": [
+    "Jingyu Hu",
+    "Giuseppe Tripodi",
+    "Reed Naidoo",
+    "Sarah F McGough",
+    "Tapabrata Chakraborti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=obitoePwOG",
+   "pdf_url": null
+  },
+  {
+   "title": "ProSAM: Modular and Energy-Guided Fine-Tuning of Protein Language Models for Structure Prediction",
+   "authors": [
+    "Yiyang Zheng",
+    "Zhiguo Tao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMsk8XJSA4",
+   "pdf_url": null
+  },
+  {
+   "title": "ProteinJEPA: Latent prediction complements protein language models",
+   "authors": [
+    "Dan Ofer",
+    "Dafna Shahaf",
+    "Michal Linial"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wduEG2D9uR",
+   "pdf_url": null
+  },
+  {
+   "title": "ProteomeLM: A Proteome-Scale Language Model Enables Accurate and Rapid Prediction of Protein-Protein Interactions and Gene Essentiality Across Taxa",
+   "authors": [
+    "Cyril Malbranke",
+    "Gionata Paolo Zalaffi",
+    "Anne-Florence Bitbol"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QYhZc5ANx9",
+   "pdf_url": null
+  },
+  {
+   "title": "PROTEUS: Predicting How Post-Translational Modifications Alter Drug Binding Affinity",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang",
+    "Arnav Pemmaraju",
+    "Joshua Chang",
+    "Brendan Lo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wZVHPYvc65",
+   "pdf_url": null
+  },
+  {
+   "title": "ProtQueSt: Query-Conditioned Retrieval-Augmented Generation for Protein Function Annotation",
+   "authors": [
+    "Linrui Ma",
+    "Yiwei Liang",
+    "Yishu Yu",
+    "Chuhan Joyce Qi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YKMnLFmkiv",
+   "pdf_url": "https://openreview.net/pdf?id=YKMnLFmkiv"
+  },
+  {
+   "title": "ProtSent: Protein Sentence Transformers",
+   "authors": [
+    "Dan Ofer",
+    "Oriel Perets",
+    "Michal Linial",
+    "Nadav Rappoport"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xeJC38ljVM",
+   "pdf_url": null
+  },
+  {
+   "title": "Retrieval-Augmented Foundation Model Enhances Risk Prediction Using Electronic Health Records",
+   "authors": [
+    "Saeed Shurrab",
+    "Mariam Al-Omari",
+    "Dana El Samad",
+    "Farah E. Shamout"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x8uvYI5WGG",
+   "pdf_url": null
+  },
+  {
+   "title": "SaNano - Structure Aware Transfer Learning For Data Limited Protein Modality",
+   "authors": [
+    "Hugo Frelin",
+    "Andrei Kamenski",
+    "Paolo Marcatili"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HFhtMLAKT0",
+   "pdf_url": "https://openreview.net/pdf?id=HFhtMLAKT0"
+  },
+  {
+   "title": "Search, Edit, and Fold: LLM-Guided MSA Optimization for Protein Conformation Prediction",
+   "authors": [
+    "Yu Pei",
+    "Jiangtao Feng",
+    "Hao Wang",
+    "Dongyu Xue",
+    "Keyue Qiu",
+    "Hao Zhou",
+    "Wei-Ying Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L8TR5pzlF2",
+   "pdf_url": null
+  },
+  {
+   "title": "Selective Benefits of Sequence-Drug Multimodal Learning for Antimicrobial Resistance Prediction",
+   "authors": [
+    "Mateusz A. Wlodarski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6tELDJkI1v",
+   "pdf_url": null
+  },
+  {
+   "title": "SIGMMA: Hierarchical Graph-Based Multi-Scale Multi-modal Contrastive Alignment of Histopathology Image and Spatial Transcriptome",
+   "authors": [
+    "Dabin Jeong",
+    "Amirhossein Vahidi",
+    "Ciro Ramírez-Suástegui",
+    "Marie Moullet",
+    "Kevin Ly",
+    "Mohammad Vali Sanian",
+    "Sebastian Birk",
+    "Yinshui Chang",
+    "Adam Boxall",
+    "Daniyal Jafree",
+    "Lloyd Steele",
+    "Vijaya Baskar MS",
+    "Muzlifah Haniffa",
+    "Mohammad Lotfollahi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=npTFOLkCDf",
+   "pdf_url": null
+  },
+  {
+   "title": "Single-Cell Cross-Modal Transfer by Adversarial Fine-Tuning of Foundation Models",
+   "authors": [
+    "Joseph Boyd",
+    "Matthew Lyon",
+    "Martino Mansoldo",
+    "Christian John Hurry",
+    "Finnian Firth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XpyWPRksDS",
+   "pdf_url": "https://openreview.net/pdf?id=XpyWPRksDS"
+  },
+  {
+   "title": "Structural Bottleneck Reasoning: Efficient Medical VQA via Concept Alignment",
+   "authors": [
+    "Hoang Nguyen",
+    "Tran Anh Dang Le",
+    "Ta Duc Huy",
+    "Nguyen Bui Ngoc Han",
+    "Vy Tuong Dang",
+    "Duy Duong-Tran",
+    "Khoa D Doan",
+    "Anji Liu",
+    "Li Shen",
+    "Pengtao Xie",
+    "Mathias Niepert",
+    "Duy Minh Ho Nguyen",
+    "James Zou",
+    "Daniel Sonntag"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9DneZlwAZp",
+   "pdf_url": null
+  },
+  {
+   "title": "Survival-Relevant Directional Pathology–Omics Discordance from Frozen Whole-Slide Foundation Embeddings",
+   "authors": [
+    "KuanTing Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jAPrtGqaZE",
+   "pdf_url": null
+  },
+  {
+   "title": "Synergy-Aware Contrastive Pretraining for Co-recorded Physiological Signals",
+   "authors": [
+    "Lei Chen",
+    "Junetae Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jyTXfvXOHv",
+   "pdf_url": "https://openreview.net/pdf?id=jyTXfvXOHv"
+  },
+  {
+   "title": "The Hallucination Dependence Index: A Cross-Condition Diagnostic for Clinical-LLM Faithfulness",
+   "authors": [
+    "Ishan Gonehal",
+    "Hanson Wen",
+    "Bowman Novey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gjMQHsi2RL",
+   "pdf_url": null
+  },
+  {
+   "title": "Transcriptomics-Conditioned Virtual Tissue Synthesis via Diffusion Transformers",
+   "authors": [
+    "Pantelis Vlachas",
+    "Kalin Nonchev",
+    "Viktor Koelzer",
+    "Gunnar Ratsch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=la1YG6sSlf",
+   "pdf_url": "https://openreview.net/pdf?id=la1YG6sSlf"
+  },
+  {
+   "title": "Transferable Lesion-Supervised Speech Representations for Post-Stroke Modelling",
+   "authors": [
+    "Giulia Sanguedolce",
+    "Niamh Parkinson",
+    "Fatemeh Geranmayeh",
+    "Patrick Naylor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b6j6BqMDir",
+   "pdf_url": null
+  },
+  {
+   "title": "TriFit: Trimodal Fusion with Protein Dynamics for Mutation Fitness Prediction",
+   "authors": [
+    "Seungik Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2sJAFlZR3a",
+   "pdf_url": "https://openreview.net/pdf?id=2sJAFlZR3a"
+  },
+  {
+   "title": "Uncovering evolutionarily remote and highly potent antimicrobial peptides with protein language models",
+   "authors": [
+    "Qinze Yu",
+    "Yu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IJhaKVIApS",
+   "pdf_url": null
+  },
+  {
+   "title": "VFUSE: Virulent Feature Understanding with Sparse autoEncoders",
+   "authors": [
+    "Michael Yu",
+    "Matthew Lyle Olson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1jo35HDiWu",
+   "pdf_url": null
+  },
+  {
+   "title": "Virtual Cell Models Inflate Perturbation Effect Sizes and Undermine Causal Gene Regulatory Network Recovery",
+   "authors": [
+    "Aayan Alwani",
+    "Ethan Y Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nfc6WxZG2x",
+   "pdf_url": null
+  },
+  {
+   "title": "VirtualCeLLM: A Comprehensive Benchmark and Guidance for Large Language Models in Cellular Biology",
+   "authors": [
+    "Jingbo Zhou",
+    "Zhongqi Wang",
+    "Zhen Lei",
+    "Stan Z. Li",
+    "Chang Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=noM7RJiGVs",
+   "pdf_url": null
+  },
+  {
+   "title": "WACA-DTA: Water-Aware Geometric Biases for Structure-Conditioned Drug-Target Affinity Prediction",
+   "authors": [
+    "khan huang",
+    "Chang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HbSthyi1GG",
+   "pdf_url": null
+  },
+  {
+   "title": "What Makes a Virtual Cell a World Model? Three Gaps, Three Axes, and a Roadmap",
+   "authors": [
+    "Chang Yu",
+    "Jingbo Zhou",
+    "Zhongqi Wang",
+    "Zhen Lei",
+    "Stan Z. Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YyI469JbU3",
+   "pdf_url": null
+  }
+ ]
+}

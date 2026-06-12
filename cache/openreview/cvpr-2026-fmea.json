@@ -1,0 +1,462 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/FMEA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:48:17.954Z",
+ "paper_count": 34,
+ "papers": [
+  {
+   "title": "$Re^2$: Reflective Rule Induction and Rule-Guided Refinement for Embodied Planning",
+   "authors": [
+    "Yang Chen",
+    "Hong-Jie You",
+    "Jie-Jing Shao",
+    "Xiao-Wen Yang",
+    "Ming Yang",
+    "Yu-Feng Li",
+    "Lan-Zhe Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=taDQJktM4Q",
+   "pdf_url": "https://openreview.net/pdf?id=taDQJktM4Q"
+  },
+  {
+   "title": "A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models",
+   "authors": [
+    "Nuo Chen",
+    "Lulin Liu",
+    "Zihao Li",
+    "Ziyao Zeng",
+    "Zihao Zhu",
+    "Wenyan Cong",
+    "Junyuan Hong",
+    "Yunhao Yang",
+    "Zhengzhong Tu",
+    "Yan Wang",
+    "Boris Ivanovic",
+    "Marco Pavone",
+    "Zhangyang Wang",
+    "Yang Zhou",
+    "Zhiwen Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RlMArW0XQ4",
+   "pdf_url": "https://openreview.net/pdf?id=RlMArW0XQ4"
+  },
+  {
+   "title": "ADeltaM: An Exploratory Counterfactual Delta-Memory Interface for Egocentric Agents",
+   "authors": [
+    "liyang ruan",
+    "Jiahao Cao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aoaHmvRSGl",
+   "pdf_url": "https://openreview.net/pdf?id=aoaHmvRSGl"
+  },
+  {
+   "title": "Automated Skill Optimization via Formal Verification for Embodied Agents",
+   "authors": [
+    "Yunhao Yang",
+    "Neel P. Bhatt",
+    "Kevin Wang",
+    "Zhangyang Wang",
+    "ufuk topcu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TxGsSn4nrZ",
+   "pdf_url": "https://openreview.net/pdf?id=TxGsSn4nrZ"
+  },
+  {
+   "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
+   "authors": [
+    "Yiyang Du",
+    "Zhanqiu Guo",
+    "Xin Ye",
+    "Liu Ren",
+    "Chenyan Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3mhjhzjL7F",
+   "pdf_url": "https://openreview.net/pdf?id=3mhjhzjL7F"
+  },
+  {
+   "title": "EvoWorld: A World-Model-Centric Framework for Continuous Self-Evolution of Modular Embodied Skills",
+   "authors": [
+    "Boshi Zhang",
+    "Sen Cui",
+    "BaoHuaYin",
+    "Youyi Kou",
+    "Junyu Wu",
+    "Zuo Pu",
+    "TAO XUE",
+    "Zhikang Chen",
+    "Shanshan Wei",
+    "Min Zhang",
+    "Miao Liu",
+    "Changshui Zhang",
+    "Zhang Tao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7kTIQsbb9R",
+   "pdf_url": "https://openreview.net/pdf?id=7kTIQsbb9R"
+  },
+  {
+   "title": "FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning",
+   "authors": [
+    "Zhengyu Fu",
+    "René Zurbrügg",
+    "Kaixian Qu",
+    "Marc Pollefeys",
+    "Marco Hutter",
+    "Hermann Blum",
+    "Zuria Bauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yXEZWA3Bnt",
+   "pdf_url": "https://openreview.net/pdf?id=yXEZWA3Bnt"
+  },
+  {
+   "title": "GeoWorld-VLM: Sequential 3D Generation via Evidential Memory",
+   "authors": [
+    "Renjie Gu",
+    "Kaichen Zhou",
+    "Yan Luo",
+    "Mengyu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y7qw9mrThS",
+   "pdf_url": "https://openreview.net/pdf?id=y7qw9mrThS"
+  },
+  {
+   "title": "HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations",
+   "authors": [
+    "Xiaomeng Xu",
+    "Jisang Park",
+    "Han Zhang",
+    "Eric Cousineau",
+    "Aditya Bhat",
+    "Jose Barreiros",
+    "Dian Wang",
+    "Jeannette Bohg",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u0WKqKzUhR",
+   "pdf_url": "https://openreview.net/pdf?id=u0WKqKzUhR"
+  },
+  {
+   "title": "Inference-Time Planning with Action-Conditioned Video Models for Generalizable Robot Manipulation",
+   "authors": [
+    "Zhiting Mei",
+    "Yanbo Xu",
+    "Tenny Yin",
+    "Ola Sho",
+    "Anirudha Majumdar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gkSuORauJ4",
+   "pdf_url": "https://openreview.net/pdf?id=gkSuORauJ4"
+  },
+  {
+   "title": "InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions",
+   "authors": [
+    "Sirui Xu",
+    "Samuel Schulter",
+    "Morteza Ziyadi",
+    "Xialin He",
+    "Xiaohan Fei",
+    "Yu-Xiong Wang",
+    "Liangyan Gui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6jJrdazT8n",
+   "pdf_url": "https://openreview.net/pdf?id=6jJrdazT8n"
+  },
+  {
+   "title": "LARE: Low-Attention Region Encoding for Text--Image Retrieval",
+   "authors": [
+    "Muhammad Kamran J Khan",
+    "Abdulmalik Alquwayfili",
+    "Faisal AlMeshal",
+    "Jumanah Almajnouni",
+    "Leena Alotaibi",
+    "Huda Abdulhadi Alamri",
+    "Raied Aljadaany",
+    "Faisal alhajari",
+    "Mohammed Alkhrashi",
+    "Alreem Almuhrij",
+    "Abdullah Aldwyish"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zZCq7AcnQd",
+   "pdf_url": "https://openreview.net/pdf?id=zZCq7AcnQd"
+  },
+  {
+   "title": "Learning Situated Awareness in the Real World",
+   "authors": [
+    "Chuhan Li",
+    "Rilyn R. Han",
+    "Joy Hsu",
+    "Yongyuan Liang",
+    "Rajiv Dhawan",
+    "Jiajun Wu",
+    "Ming-Hsuan Yang",
+    "Xin Eric Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wONiRh3OZx",
+   "pdf_url": "https://openreview.net/pdf?id=wONiRh3OZx"
+  },
+  {
+   "title": "Making Your Action Policies Interpretable: Mixture of Action Queries",
+   "authors": [
+    "Suhyung Choi",
+    "Youngseok Joo",
+    "Hyundo Lee",
+    "Kisung Shin",
+    "Kyuhwan Shim",
+    "Chungwoo Lee",
+    "Minjeong Gu",
+    "Jun Ki Lee",
+    "Byoung-Tak Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OdAczSh1lM",
+   "pdf_url": "https://openreview.net/pdf?id=OdAczSh1lM"
+  },
+  {
+   "title": "MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence",
+   "authors": [
+    "Hilton Raj",
+    "Vishnuram AV"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lLx0lDKmci",
+   "pdf_url": "https://openreview.net/pdf?id=lLx0lDKmci"
+  },
+  {
+   "title": "MOSAIC: The Right Modules for Each Task in Embodied Agents",
+   "authors": [
+    "Kevin Wang",
+    "Dweep Trivedi",
+    "Vincent Ha",
+    "Albert Jiang",
+    "Christian Ellis",
+    "ufuk topcu",
+    "Swarat Chaudhuri",
+    "Zhangyang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pF9wISLUYo",
+   "pdf_url": "https://openreview.net/pdf?id=pF9wISLUYo"
+  },
+  {
+   "title": "Multimodal Causal Subtask Modeling for Scalable VLA Pipelines in Long-Horizon Manipulation",
+   "authors": [
+    "Yina Jian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GwqUpCRBVe",
+   "pdf_url": "https://openreview.net/pdf?id=GwqUpCRBVe"
+  },
+  {
+   "title": "PEFT Methods for Embodied VLM Agents: A Systematic Study and MoE-DoRA",
+   "authors": [
+    "Vishnuram AV",
+    "Hilton Raj"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GiosgGKVq5",
+   "pdf_url": "https://openreview.net/pdf?id=GiosgGKVq5"
+  },
+  {
+   "title": "PhysMem: Scaling Test-Time Memory for Embodied Physical Reasoning",
+   "authors": [
+    "Haoyang Li",
+    "Yang You",
+    "Hao Su",
+    "Leonidas Guibas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bSIeAFLv94",
+   "pdf_url": "https://openreview.net/pdf?id=bSIeAFLv94"
+  },
+  {
+   "title": "PInVerify: An Offline Embodied Benchmark for Active Instance Verification",
+   "authors": [
+    "Yuhang Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7X1skQwLpm",
+   "pdf_url": "https://openreview.net/pdf?id=7X1skQwLpm"
+  },
+  {
+   "title": "PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation",
+   "authors": [
+    "Pengyuan Guo",
+    "Zhonghao Mai",
+    "Zhengtong Xu",
+    "Kaidi Zhang",
+    "Quan Khanh Luu",
+    "Heng Zhang",
+    "Zichen Miao",
+    "Arash Ajoudani",
+    "Zachary Kingston",
+    "Qiang Qiu",
+    "Yu She"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PGgh9UF6cR",
+   "pdf_url": "https://openreview.net/pdf?id=PGgh9UF6cR"
+  },
+  {
+   "title": "RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks",
+   "authors": [
+    "Mingxuan Yan",
+    "Yuping Wang",
+    "Zechun Liu",
+    "Jiachen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h3hTSRGTYE",
+   "pdf_url": "https://openreview.net/pdf?id=h3hTSRGTYE"
+  },
+  {
+   "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+   "authors": [
+    "Yinpei Dai",
+    "Hongze Fu",
+    "Jayjun Lee",
+    "Yuejiang Liu",
+    "Haoran Zhang",
+    "Jianing Yang",
+    "Chelsea Finn",
+    "Nima Fazeli",
+    "Joyce Chai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dZGKfUQqlO",
+   "pdf_url": "https://openreview.net/pdf?id=dZGKfUQqlO"
+  },
+  {
+   "title": "RoboPlayground: Democratizing Robotic Evaluation through Structured Physical Domains",
+   "authors": [
+    "Yi Ru Wang",
+    "Carter Ung",
+    "Evan Gubarev",
+    "Christopher Tan",
+    "Siddhartha Srinivasa",
+    "Dieter Fox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MRYSVVAbWg",
+   "pdf_url": "https://openreview.net/pdf?id=MRYSVVAbWg"
+  },
+  {
+   "title": "Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph",
+   "authors": [
+    "Xiang Liu",
+    "Sen Cui",
+    "Guocai Yao",
+    "Zhong Cao",
+    "Jingheng Ma",
+    "Min Zhang",
+    "Miao Liu",
+    "Changshui Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=88IawleLNi",
+   "pdf_url": "https://openreview.net/pdf?id=88IawleLNi"
+  },
+  {
+   "title": "Self-Improving Loops for Visual Robotic Planning",
+   "authors": [
+    "Calvin Luo",
+    "Zilai Zeng",
+    "Mingxi Jia",
+    "Yilun Du",
+    "Chen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HK9OWSMgoq",
+   "pdf_url": "https://openreview.net/pdf?id=HK9OWSMgoq"
+  },
+  {
+   "title": "Semantic Horizons: Information-Theoretic Limits of Foundation Model-Guided Embodied Planning",
+   "authors": [
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CNej21yr6r",
+   "pdf_url": "https://openreview.net/pdf?id=CNej21yr6r"
+  },
+  {
+   "title": "Task-Relevant Depth Quality Metrics for Suction Grasping",
+   "authors": [
+    "Shivansh Inamdar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ALGuBQU9V3",
+   "pdf_url": "https://openreview.net/pdf?id=ALGuBQU9V3"
+  },
+  {
+   "title": "Theory of Space: Benchmarking Active Spatial Belief Construction and Revision in Foundation Models for Embodied Agents",
+   "authors": [
+    "Pingyue Zhang",
+    "Zihan Huang",
+    "Yue Wang",
+    "Jieyu Zhang",
+    "Letian Xue",
+    "Zihan Wang",
+    "Qineng Wang",
+    "Keshigeyan Chandrasegaran",
+    "Ruohan Zhang",
+    "Yejin Choi",
+    "Ranjay Krishna",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c2cxLvsdUp",
+   "pdf_url": "https://openreview.net/pdf?id=c2cxLvsdUp"
+  },
+  {
+   "title": "TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments",
+   "authors": [
+    "Zhiyu Huang",
+    "Yun Zhang",
+    "Johnson Liu",
+    "Rui Song",
+    "Chen Tang",
+    "Jiaqi Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lNN7Di9b4y",
+   "pdf_url": "https://openreview.net/pdf?id=lNN7Di9b4y"
+  },
+  {
+   "title": "VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation",
+   "authors": [
+    "Yi Du",
+    "Taimeng Fu",
+    "Zhipeng Zhao",
+    "Shaoshu Su",
+    "Zitong Zhan",
+    "Qiwei Du",
+    "Zhuoqun Chen",
+    "Bowen Li",
+    "Chen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qZ64ZUT07l",
+   "pdf_url": "https://openreview.net/pdf?id=qZ64ZUT07l"
+  },
+  {
+   "title": "VLS: Steering Pretrained Robot Policies via Vision–Language Models",
+   "authors": [
+    "Shuo Liu",
+    "Ishneet Sukhvinder Singh",
+    "Yiqing Xu",
+    "Jiafei Duan",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qVFCIZ45gM",
+   "pdf_url": "https://openreview.net/pdf?id=qVFCIZ45gM"
+  },
+  {
+   "title": "WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics",
+   "authors": [
+    "Sahil Khose",
+    "Mengqi Zhang",
+    "Prithvijit Chattopadhyay",
+    "Judy Hoffman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uAiq9FZGpU",
+   "pdf_url": "https://openreview.net/pdf?id=uAiq9FZGpU"
+  },
+  {
+   "title": "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning",
+   "authors": [
+    "Shoubin Yu",
+    "Yue Zhang",
+    "Zun Wang",
+    "Jaehong Yoon",
+    "Huaxiu Yao",
+    "Mingyu Ding",
+    "Mohit Bansal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JXTFsvh6Z7",
+   "pdf_url": "https://openreview.net/pdf?id=JXTFsvh6Z7"
+  }
+ ]
+}

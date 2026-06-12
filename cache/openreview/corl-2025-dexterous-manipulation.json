@@ -1,0 +1,203 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/Dexterous_Manipulation",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:49.056Z",
+ "paper_count": 16,
+ "papers": [
+  {
+   "title": "DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation",
+   "authors": [
+    "Suzannah Wistreich",
+    "Baiyu Shi",
+    "Stephen Tian",
+    "Samuel Clarke",
+    "Michael Nath",
+    "Chengyi Xu",
+    "Zhenan Bao",
+    "Jiajun Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DhjvVzPHiP",
+   "pdf_url": "https://openreview.net/pdf?id=DhjvVzPHiP"
+  },
+  {
+   "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation",
+   "authors": [
+    "Mengda Xu",
+    "Han Zhang",
+    "Yifan Hou",
+    "Zhenjia Xu",
+    "Linxi Fan",
+    "Manuela Veloso",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EkigXMH9Ik",
+   "pdf_url": "https://openreview.net/pdf?id=EkigXMH9Ik"
+  },
+  {
+   "title": "EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Policy for Spatially Generalizable Contact-rich Tasks",
+   "authors": [
+    "Joohwan Seo",
+    "Arvind Kruthiventy",
+    "Soomi Lee",
+    "Megan Teng",
+    "Xiang Zhang",
+    "Seoyeon Choi",
+    "Jongeun Choi",
+    "Roberto Horowitz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xju1YYNsO0",
+   "pdf_url": "https://openreview.net/pdf?id=xju1YYNsO0"
+  },
+  {
+   "title": "FLASH: Flow-Based Language-Annotated Grasp Synthesis for Dexterous Hands",
+   "authors": [
+    "Hrishit Leen",
+    "Jeremy A. Collins",
+    "Kunal Aneja",
+    "Nhi Nguyen",
+    "Priyadarshini Tamilselvan",
+    "Sri Siddarth Chakaravarthy P",
+    "Animesh Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZUX7i3xEmX",
+   "pdf_url": "https://openreview.net/pdf?id=ZUX7i3xEmX"
+  },
+  {
+   "title": "FunGrasp: Functional Grasping for Diverse Dexterous Hands",
+   "authors": [
+    "Linyi Huang",
+    "Hui Zhang",
+    "Zijian wu",
+    "Sammy Christen",
+    "Jie Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gYQPuUdw45",
+   "pdf_url": "https://openreview.net/pdf?id=gYQPuUdw45"
+  },
+  {
+   "title": "HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation",
+   "authors": [
+    "Zhecheng Yuan",
+    "Tianming Wei",
+    "Langzhe Gu",
+    "Pu Hua",
+    "Tianhai Liang",
+    "Yuanpei Chen",
+    "Huazhe Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZEuY3asL71",
+   "pdf_url": "https://openreview.net/pdf?id=ZEuY3asL71"
+  },
+  {
+   "title": "Latent Action Diffusion for Cross-Embodiment Manipulation",
+   "authors": [
+    "Erik Bauer",
+    "Elvis Nava",
+    "Robert K. Katzschmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XtvV0dFtCd",
+   "pdf_url": "https://openreview.net/pdf?id=XtvV0dFtCd"
+  },
+  {
+   "title": "mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity",
+   "authors": [
+    "Elvis Nava",
+    "Victoriano Montesinos",
+    "Erik Bauer",
+    "Benedek Forrai",
+    "Jonas Pai",
+    "Stefan Weirich",
+    "Stephan-Daniel Gravert",
+    "Philipp Wand",
+    "Stephan Polinski",
+    "Benjamin F Grewe",
+    "Robert K. Katzschmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u3jtcyKl1j",
+   "pdf_url": "https://openreview.net/pdf?id=u3jtcyKl1j"
+  },
+  {
+   "title": "Scaling Cross-Embodiment World Models for Dexterous Manipulation",
+   "authors": [
+    "Zihao He",
+    "Bo Ai",
+    "Yulin Liu",
+    "Weikang Wan",
+    "Henrik I Christensen",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KvFGpgHmIA",
+   "pdf_url": "https://openreview.net/pdf?id=KvFGpgHmIA"
+  },
+  {
+   "title": "Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enables Embodied Dexterity and In-Hand Teleoperation",
+   "authors": [
+    "Zhaole Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XX9fv8Zx4a",
+   "pdf_url": "https://openreview.net/pdf?id=XX9fv8Zx4a"
+  },
+  {
+   "title": "TacDexGrasp: Compliant and Robust Dexterous Grasping with QP and Tactile Feedback",
+   "authors": [
+    "Yubin Ke",
+    "Jiayi Chen",
+    "He Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TaGbEK5zhq",
+   "pdf_url": "https://openreview.net/pdf?id=TaGbEK5zhq"
+  },
+  {
+   "title": "Tactile Memory with Soft Robot: Tactile Retrieval-based Contact-rich Manipulation with a Soft Wrist",
+   "authors": [
+    "Tatsuya Kamijo",
+    "Mai Nishimura",
+    "Cristian Camilo Beltran-Hernandez",
+    "Masashi Hamaya"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uLE44csBAT",
+   "pdf_url": "https://openreview.net/pdf?id=uLE44csBAT"
+  },
+  {
+   "title": "Vision-Free Object 6D Pose Estimation for In-Hand Manipulation via Multi-Modal Haptic Attention",
+   "authors": [
+    "Chanyoung Ahn",
+    "SungwooPark",
+    "Donghyun Hwang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Wf2usHADW2",
+   "pdf_url": "https://openreview.net/pdf?id=Wf2usHADW2"
+  },
+  {
+   "title": "ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation",
+   "authors": [
+    "Liang Heng",
+    "Haoran Geng",
+    "Kaifeng Zhang",
+    "Pieter Abbeel",
+    "Jitendra Malik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YiIqzkYRhj",
+   "pdf_url": "https://openreview.net/pdf?id=YiIqzkYRhj"
+  },
+  {
+   "title": "Way-Tu: A Framework for Tool Selection and Manipulation Using Waypoint Representations",
+   "authors": [
+    "Ece Kunduracioglu",
+    "Ozgur S. Oguz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1yzolKowBG",
+   "pdf_url": "https://openreview.net/pdf?id=1yzolKowBG"
+  },
+  {
+   "title": "Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks",
+   "authors": [
+    "Beining Han",
+    "Abhishek Joshi",
+    "Jia Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ka8jk0NSeb",
+   "pdf_url": "https://openreview.net/pdf?id=Ka8jk0NSeb"
+  }
+ ]
+}

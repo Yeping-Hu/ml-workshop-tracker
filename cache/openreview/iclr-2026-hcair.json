@@ -1,0 +1,497 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/HCAIR",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:14.612Z",
+ "paper_count": 46,
+ "papers": [
+  {
+   "title": "A Cognitive Lens on Selective Memory in Neural Sequence Models: Surprise, Replay, and Consolidation",
+   "authors": [
+    "SoHyung Kim",
+    "Jea Kwon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sxo1BcVUgp",
+   "pdf_url": "https://openreview.net/pdf?id=sxo1BcVUgp"
+  },
+  {
+   "title": "A Cortically Inspired Architecture for Modular Perceptual AI",
+   "authors": [
+    "Prerna Luthra"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9cpyVRXuP7",
+   "pdf_url": "https://openreview.net/pdf?id=9cpyVRXuP7"
+  },
+  {
+   "title": "A Framework for Aligning Human Linguistics and AI Perception",
+   "authors": [
+    "Joseph Charles Bingham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o7uxJD0tFX",
+   "pdf_url": "https://openreview.net/pdf?id=o7uxJD0tFX"
+  },
+  {
+   "title": "A Human-inspired Framework for Continuous Spacial Reasoning with Tangram Puzzles",
+   "authors": [
+    "Yikun Zong",
+    "Cheston Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SdEDuESaR8",
+   "pdf_url": "https://openreview.net/pdf?id=SdEDuESaR8"
+  },
+  {
+   "title": "Affective Multimodal Agents with Proactive Knowledge Grounding for Aligned Marketing Dialogue",
+   "authors": [
+    "Ernie Tian",
+    "Xiaofei Han",
+    "Yifei Kang",
+    "Xuanjing Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vr3zXrx9a0",
+   "pdf_url": "https://openreview.net/pdf?id=Vr3zXrx9a0"
+  },
+  {
+   "title": "Alignment has a Fantasia Problem",
+   "authors": [
+    "Nathanael Jo",
+    "Zoe De Simone",
+    "Mitchell L Gordon",
+    "Ashia C. Wilson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LLJNhOK5hz",
+   "pdf_url": "https://openreview.net/pdf?id=LLJNhOK5hz"
+  },
+  {
+   "title": "Amodal Completion of Occluded Objects in Deep Neural Networks: A Psychophysical Investigation",
+   "authors": [
+    "Arnav Shakya",
+    "Vaibhav Tripathi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Spebffwi2z",
+   "pdf_url": "https://openreview.net/pdf?id=Spebffwi2z"
+  },
+  {
+   "title": "Cognitive Foundations for Reasoning and Their Manifestation in LLMs",
+   "authors": [
+    "Priyanka Kargupta",
+    "Shuyue Stella Li",
+    "Haocheng Wang",
+    "Dean Light",
+    "Jinu Lee",
+    "Shan Chen",
+    "Orevaoghene Ahia",
+    "Kerem Oktar",
+    "Thomas L. Griffiths",
+    "Max Kleiman-Weiner",
+    "Jiawei Han",
+    "Asli Celikyilmaz",
+    "Yulia Tsvetkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rRSiiKAxCx",
+   "pdf_url": "https://openreview.net/pdf?id=rRSiiKAxCx"
+  },
+  {
+   "title": "Cognitive Models as Evaluation Primitives in Humanoid Factors",
+   "authors": [
+    "Xinyuan Liu",
+    "Eren Sadikoglu",
+    "Ransalu Senanayake",
+    "Lixiao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BhpGFsHTIW",
+   "pdf_url": "https://openreview.net/pdf?id=BhpGFsHTIW"
+  },
+  {
+   "title": "CoTZero: Annotation-Free Human-Like Vision Reasoning via Hierarchical Synthetic CoT",
+   "authors": [
+    "Chengyi Du",
+    "Yazhe Niu",
+    "Dazhong Shen",
+    "Luxin Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6J6a8WojP1",
+   "pdf_url": "https://openreview.net/pdf?id=6J6a8WojP1"
+  },
+  {
+   "title": "Decomposing ARC Programs to Create Simpler Tasks",
+   "authors": [
+    "Matthew Simpson",
+    "Soumya Banerjee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KDXHIVfkEz",
+   "pdf_url": "https://openreview.net/pdf?id=KDXHIVfkEz"
+  },
+  {
+   "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+   "authors": [
+    "Kevin Kingslin",
+    "Anish Natekar",
+    "Ashutosh Ranjan",
+    "Vivek Srivastava",
+    "Savita Bhat",
+    "Shirish Karande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LpRseY4J0J",
+   "pdf_url": "https://openreview.net/pdf?id=LpRseY4J0J"
+  },
+  {
+   "title": "Detection of Adversarial Intent in Human-AI Teams Using LLMs",
+   "authors": [
+    "Abed K. Musaffar",
+    "Ambuj Singh",
+    "Francesco Bullo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CQZrkvJL5O",
+   "pdf_url": "https://openreview.net/pdf?id=CQZrkvJL5O"
+  },
+  {
+   "title": "Directional Confusions Reveal Inductive Bias Through Rate–Distortion Geometry",
+   "authors": [
+    "Leyla Roksan Caglar",
+    "Pedro A. M. Mediano",
+    "Baihan Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nJ8uFxqTMP",
+   "pdf_url": "https://openreview.net/pdf?id=nJ8uFxqTMP"
+  },
+  {
+   "title": "Discovering Differences in Strategic Behavior between Humans and LLMs",
+   "authors": [
+    "Caroline Wang",
+    "Daniel Kasenberg",
+    "Kim Stachenfeld",
+    "Pablo Samuel Castro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jQS8BvJdwq",
+   "pdf_url": "https://openreview.net/pdf?id=jQS8BvJdwq"
+  },
+  {
+   "title": "Do Large Language Models Mentalize When They Teach?",
+   "authors": [
+    "Sevan K Harootonian",
+    "Mark K Ho",
+    "Thomas L. Griffiths",
+    "Yael Niv",
+    "Ilia Sucholutsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0dKNDFRJBe",
+   "pdf_url": "https://openreview.net/pdf?id=0dKNDFRJBe"
+  },
+  {
+   "title": "Do LLMs Share Human-Like Biases? Causal Reasoning Under Prior Knowledge, Irrelevant Context, and Varying Compute Budgets",
+   "authors": [
+    "Hanna Dettki",
+    "Charley M Wu",
+    "Bob Rehder"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qlO26A1OpU",
+   "pdf_url": "https://openreview.net/pdf?id=qlO26A1OpU"
+  },
+  {
+   "title": "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?",
+   "authors": [
+    "Islem Rekik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=chH4gO2tZT",
+   "pdf_url": "https://openreview.net/pdf?id=chH4gO2tZT"
+  },
+  {
+   "title": "Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language Models",
+   "authors": [
+    "Ayush Rajesh Jhaveri",
+    "Anthony GX-Chen",
+    "Ilia Sucholutsky",
+    "Eunsol Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ALCSqYYYdf",
+   "pdf_url": "https://openreview.net/pdf?id=ALCSqYYYdf"
+  },
+  {
+   "title": "From Examples to Solutions: A Cognitive Framework for LLM Code Generation",
+   "authors": [
+    "Shashwat Saxena",
+    "Shreyas Kowshik",
+    "Vikhyath Kothamasu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z74mUM9YyT",
+   "pdf_url": "https://openreview.net/pdf?id=Z74mUM9YyT"
+  },
+  {
+   "title": "From Human Intuition to Causal Graphs: A DOLCE-Based Human-Ensembled Neuro-Symbolic Architecture",
+   "authors": [
+    "Manojshyaam C J"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IQQIWvKxcV",
+   "pdf_url": "https://openreview.net/pdf?id=IQQIWvKxcV"
+  },
+  {
+   "title": "From Interaction to Abstraction: Using Behavior and Brain Activity to Evaluate How AI Systems Learn Games",
+   "authors": [
+    "Botos Csaba",
+    "Sreejan Kumar",
+    "Austin Tudor David Andrews",
+    "Rui Ponte Costa",
+    "Marcelo G Mattar",
+    "Momchil Tomov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CcTemTHU6m",
+   "pdf_url": "https://openreview.net/pdf?id=CcTemTHU6m"
+  },
+  {
+   "title": "Gemma Needs Therapy: Investigating and Mitigating Emotional Instability in LLMs",
+   "authors": [
+    "Anna Soligo",
+    "Vladimir Mikulik",
+    "William Saunders"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gbu18hsdWc",
+   "pdf_url": "https://openreview.net/pdf?id=Gbu18hsdWc"
+  },
+  {
+   "title": "Hidden Meanings in Plain Sight: RebusBench for Evaluating Cognitive Visual Reasoning",
+   "authors": [
+    "Seyed Amir Kasaei",
+    "Arash Marioriyad",
+    "Mahbod Khaleti",
+    "MohammadAmin Fazli",
+    "Mahdieh Soleymani Baghshah",
+    "Mohammad Hossein Rohban"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LCc2CP4aS4",
+   "pdf_url": "https://openreview.net/pdf?id=LCc2CP4aS4"
+  },
+  {
+   "title": "Human-Guided Causal Hypothesis Testing for Remote Sensing Anomaly Detection",
+   "authors": [
+    "Kaustubha V"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PaU9laK3QS",
+   "pdf_url": "https://openreview.net/pdf?id=PaU9laK3QS"
+  },
+  {
+   "title": "Intelligent Robot Manipulation Requires Self-Directed Learning",
+   "authors": [
+    "Li Chen",
+    "Chonghao Sima",
+    "Kashyap Chitta",
+    "Antonio Loquercio",
+    "Ping Luo",
+    "Yi Ma",
+    "Hongyang Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5IpSR7v4gj",
+   "pdf_url": "https://openreview.net/pdf?id=5IpSR7v4gj"
+  },
+  {
+   "title": "Know the Patient, Not Just the Disease: Modeling Human Mental States Through Graph-Based Relational Reasoning",
+   "authors": [
+    "Ratna Kandala",
+    "Akshata Kishore Moharir",
+    "Niva Manchanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=us2OfatNu2",
+   "pdf_url": "https://openreview.net/pdf?id=us2OfatNu2"
+  },
+  {
+   "title": "Large Language Models Show Signs of Alignment with Human Neurocognition During Abstract Reasoning",
+   "authors": [
+    "Christopher Pinier",
+    "Sonia Acuna Vargas",
+    "Mariia Steeghs-Turchina",
+    "Dora Matzke",
+    "Claire E Stevenson",
+    "Michael Nunez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gyoSN8k9vR",
+   "pdf_url": "https://openreview.net/pdf?id=gyoSN8k9vR"
+  },
+  {
+   "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+   "authors": [
+    "Alina Hyk",
+    "Sandhya Saisubramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gW6rUaeVdX",
+   "pdf_url": "https://openreview.net/pdf?id=gW6rUaeVdX"
+  },
+  {
+   "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+   "authors": [
+    "Samuel Cooper",
+    "Michael Harry Cooper"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2dfoGdOKZL",
+   "pdf_url": "https://openreview.net/pdf?id=2dfoGdOKZL"
+  },
+  {
+   "title": "Me, Myself, and $\\pi$: Evaluating and Explaining LLM Introspection",
+   "authors": [
+    "Atharv Naphade",
+    "Samarth Bhargav",
+    "Sean Lim",
+    "McNair Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5yH4Ac5z9C",
+   "pdf_url": "https://openreview.net/pdf?id=5yH4Ac5z9C"
+  },
+  {
+   "title": "Mechanisms of Introspective Awareness",
+   "authors": [
+    "Uzay Macar",
+    "Li Yang",
+    "Atticus Wang",
+    "Peter Wallich",
+    "Emmanuel Ameisen",
+    "Jack Lindsey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lw5e3XFdFK",
+   "pdf_url": "https://openreview.net/pdf?id=Lw5e3XFdFK"
+  },
+  {
+   "title": "MIND:MULTI-AGENT INFERENCE FOR NEGOTIATION DIALOGUE IN TRAVEL PLANNING",
+   "authors": [
+    "HUNMIN DO",
+    "Taejun Yoon",
+    "Ki Yong Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9DrWbVOc3h",
+   "pdf_url": "https://openreview.net/pdf?id=9DrWbVOc3h"
+  },
+  {
+   "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+   "authors": [
+    "Shunchi Zhang",
+    "Jin Lu",
+    "Chuanyang Jin",
+    "Yichao Zhou",
+    "Zhining Zhang",
+    "Tianmin Shu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=R2V8TaxsCH",
+   "pdf_url": "https://openreview.net/pdf?id=R2V8TaxsCH"
+  },
+  {
+   "title": "MIRROR: Converging Cognitive Principles as Computational Mechanisms for AI Reasoning",
+   "authors": [
+    "Nicole Hsing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vN7hncpvOH",
+   "pdf_url": "https://openreview.net/pdf?id=vN7hncpvOH"
+  },
+  {
+   "title": "Multi-shot AutoInterp: Agents Can Explain Complex Features By Refining Explanations",
+   "authors": [
+    "Kamal Maher",
+    "Simon Elias Schrader",
+    "Kola Ayonrinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iwwFFqq2cA",
+   "pdf_url": "https://openreview.net/pdf?id=iwwFFqq2cA"
+  },
+  {
+   "title": "Representing expertise accelerates learning from pedagogical interaction data",
+   "authors": [
+    "Dhara Yu",
+    "Karthikeya Kaushik",
+    "Bill D Thompson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qkx8E2igy1",
+   "pdf_url": "https://openreview.net/pdf?id=Qkx8E2igy1"
+  },
+  {
+   "title": "TESTING BEHAVIORAL THEORIES OF MOTIVATION IN ATARI AGENTS",
+   "authors": [
+    "Maria Gabriela Valeriano",
+    "Esther Luna Colombini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=txbe4pKqzQ",
+   "pdf_url": "https://openreview.net/pdf?id=txbe4pKqzQ"
+  },
+  {
+   "title": "The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind",
+   "authors": [
+    "Andrei Lupu",
+    "Timon Willi",
+    "Jakob Nicolaus Foerster"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c0QfY0N2a4",
+   "pdf_url": "https://openreview.net/pdf?id=c0QfY0N2a4"
+  },
+  {
+   "title": "The Era of Real-World Human Interaction: RL from User Conversations",
+   "authors": [
+    "Chuanyang Jin",
+    "Jing Xu",
+    "Bo Liu",
+    "Leitian Tao",
+    "Olga Golovneva",
+    "Tianmin Shu",
+    "Wenting Zhao",
+    "Xian Li",
+    "Jason E Weston"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E4ZI3zX4ER",
+   "pdf_url": "https://openreview.net/pdf?id=E4ZI3zX4ER"
+  },
+  {
+   "title": "Toward a Reasoning Curriculum for Brain-Trained Foundation Models",
+   "authors": [
+    "Maël Donoso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V4BlRPgxZt",
+   "pdf_url": "https://openreview.net/pdf?id=V4BlRPgxZt"
+  },
+  {
+   "title": "Training Emergent Joint Associations: A Reinforcement Learning Approach to Creative Thinking in Language Models",
+   "authors": [
+    "Mukul Singh",
+    "Ananya Singha",
+    "Aishni Parab",
+    "Mansi Uniyal",
+    "Pronita Mehrotra",
+    "Sumit Gulwani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u2qXdwRXNA",
+   "pdf_url": "https://openreview.net/pdf?id=u2qXdwRXNA"
+  },
+  {
+   "title": "Understanding the Anchoring Effect of LLM with Synthetic Data: Existence, Mechanism, and Potential Mitigations",
+   "authors": [
+    "Yiming Huang",
+    "Biquan Bie",
+    "Zuqiu NA",
+    "Weilin Ruan",
+    "Songxin Lei",
+    "Yutao Yue",
+    "Xinlei He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4JC92Wn81E",
+   "pdf_url": "https://openreview.net/pdf?id=4JC92Wn81E"
+  },
+  {
+   "title": "When AI Agents Disagree Like Humans: Reasoning Trace Analysis for Human-AI Collaborative Moderation",
+   "authors": [
+    "Michał Wawer",
+    "Jaroslaw A. Chudziak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FQ4dU9hDlQ",
+   "pdf_url": "https://openreview.net/pdf?id=FQ4dU9hDlQ"
+  },
+  {
+   "title": "WHO PREFERS STRUCTURED REASONING? AI JUDGES DO, DOMAIN EXPERTS SPLIT",
+   "authors": [
+    "Jordan Rubin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MUNrqgPdG2",
+   "pdf_url": "https://openreview.net/pdf?id=MUNrqgPdG2"
+  },
+  {
+   "title": "Wild Guesses and Mild Guesses in Active Concept Learning",
+   "authors": [
+    "Anirudh Chari",
+    "Neil Pattanaik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SBH19E0aTO",
+   "pdf_url": "https://openreview.net/pdf?id=SBH19E0aTO"
+  }
+ ]
+}

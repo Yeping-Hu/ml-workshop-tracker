@@ -1,0 +1,397 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/DiffCoALG",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:38.186Z",
+ "paper_count": 37,
+ "papers": [
+  {
+   "title": "Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms",
+   "authors": [
+    "Ido Greenberg",
+    "Piotr Sielski",
+    "Hugo Linsenmaier",
+    "Rajesh Gandham",
+    "Shie Mannor",
+    "Alex Fender",
+    "Gal Chechik",
+    "Eli Meirom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bz6TvcWMqx",
+   "pdf_url": "https://openreview.net/pdf?id=bz6TvcWMqx"
+  },
+  {
+   "title": "ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention",
+   "authors": [
+    "Henrik Abgaryan",
+    "Ararat Harutyunyan",
+    "Tristan Cazenave"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o9SL5Um8Yv",
+   "pdf_url": "https://openreview.net/pdf?id=o9SL5Um8Yv"
+  },
+  {
+   "title": "Advancing Differentiable Mechanism Design: Neural Architectures for Combinatorial Auctions",
+   "authors": [
+    "Mai Pham",
+    "Vikrant Vaze",
+    "Peter Chin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hAq8i4x13F",
+   "pdf_url": "https://openreview.net/pdf?id=hAq8i4x13F"
+  },
+  {
+   "title": "Adversarially-Guided TD: Learning Robust Value Functions with Counter-Example Replay",
+   "authors": [
+    "Kalyan Cherukuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eYV3Ijpdrg",
+   "pdf_url": "https://openreview.net/pdf?id=eYV3Ijpdrg"
+  },
+  {
+   "title": "ARC: Leveraging Compositional Representations for Cross-Problem Learning on VRPs",
+   "authors": [
+    "Han-Seul Jeong",
+    "Youngjoon Park",
+    "Hyungseok Song",
+    "Woohyung Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OFY6wTzQZh",
+   "pdf_url": "https://openreview.net/pdf?id=OFY6wTzQZh"
+  },
+  {
+   "title": "Combinatorial Representations for Temporal Reasoning",
+   "authors": [
+    "Alicja Ziarko",
+    "Michał Bortkiewicz",
+    "Michał Zawalski",
+    "Benjamin Eysenbach",
+    "Piotr Miłoś"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I5kkRfoRFD",
+   "pdf_url": "https://openreview.net/pdf?id=I5kkRfoRFD"
+  },
+  {
+   "title": "Filter Equivariant Functions: A symmetric account of length-general extrapolation on lists",
+   "authors": [
+    "Owen Lewis",
+    "Neil Ghani",
+    "Andrew Joseph Dudzik",
+    "Christos Perivolaropoulos",
+    "Razvan Pascanu",
+    "Petar Veličković"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jBzcBqcRhq",
+   "pdf_url": "https://openreview.net/pdf?id=jBzcBqcRhq"
+  },
+  {
+   "title": "Forge: Foundational Optimization Representations from Graph Embeddings",
+   "authors": [
+    "Zohair Shafi",
+    "Serdar Kadioglu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dEE5kdymC7",
+   "pdf_url": "https://openreview.net/pdf?id=dEE5kdymC7"
+  },
+  {
+   "title": "Fundamental Limits of Local Graph Neural Networks on High-Girth Graphs",
+   "authors": [
+    "Kalyan Cherukuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SUKBJNQ94",
+   "pdf_url": "https://openreview.net/pdf?id=7SUKBJNQ94"
+  },
+  {
+   "title": "Fuzzy Logic Composition of Diffusion Models",
+   "authors": [
+    "Peter Blohm",
+    "Vikas K Garg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=V51aXkF9bB",
+   "pdf_url": "https://openreview.net/pdf?id=V51aXkF9bB"
+  },
+  {
+   "title": "G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning",
+   "authors": [
+    "Xiaojun Guo",
+    "Ang Li",
+    "Yifei Wang",
+    "Stefanie Jegelka",
+    "Yisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eAGXsoGe1W",
+   "pdf_url": "https://openreview.net/pdf?id=eAGXsoGe1W"
+  },
+  {
+   "title": "Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization",
+   "authors": [
+    "Yiding Shi",
+    "Jianan Zhou",
+    "Wen Song",
+    "Jieyi Bi",
+    "Yaoxin Wu",
+    "Jie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1yrYnaQSzi",
+   "pdf_url": "https://openreview.net/pdf?id=1yrYnaQSzi"
+  },
+  {
+   "title": "How Do Transformers Align Tokens?",
+   "authors": [
+    "Hadi Daneshmand"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eulUHNBpmx",
+   "pdf_url": "https://openreview.net/pdf?id=eulUHNBpmx"
+  },
+  {
+   "title": "Learning from Algorithm Feedback: One-Shot SAT Solver Guidance with GNNs",
+   "authors": [
+    "Jan Tönshoff",
+    "Martin Grohe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SLux76nNRY",
+   "pdf_url": "https://openreview.net/pdf?id=SLux76nNRY"
+  },
+  {
+   "title": "Learning to Handle Constraints in Routing Problems via a Construct-and-Refine Framework",
+   "authors": [
+    "Jieyi Bi",
+    "Zhiguang Cao",
+    "Jianan Zhou",
+    "Wen Song",
+    "Yaoxin Wu",
+    "Jie Zhang",
+    "Yining Ma",
+    "Cathy Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vb6O2NrVkH",
+   "pdf_url": "https://openreview.net/pdf?id=Vb6O2NrVkH"
+  },
+  {
+   "title": "Learning to Optimize for Mixed-Integer Non-linear Programming with Feasibility Guarantees",
+   "authors": [
+    "Bo Tang",
+    "Elias Boutros Khalil",
+    "Jan Drgona"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o8nHQRJU92",
+   "pdf_url": "https://openreview.net/pdf?id=o8nHQRJU92"
+  },
+  {
+   "title": "Learning to optimize linear regression tasks with improved distribution-dependent guarantees",
+   "authors": [
+    "Maria Florina Balcan",
+    "Saumya Goyal",
+    "Dravyansh Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IaMdVslcY1",
+   "pdf_url": "https://openreview.net/pdf?id=IaMdVslcY1"
+  },
+  {
+   "title": "Learning with Local Search MCMC Layers",
+   "authors": [
+    "Germain Vivier-Ardisson",
+    "Mathieu Blondel",
+    "Axel Parmentier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SksmqlJk00",
+   "pdf_url": "https://openreview.net/pdf?id=SksmqlJk00"
+  },
+  {
+   "title": "Local Fragments, Global Gains: Subgraph Counting using Graph Neural Networks",
+   "authors": [
+    "Shubhajit Roy",
+    "Shrutimoy Das",
+    "Binita Maity",
+    "Anant Kumar",
+    "Anirban Dasgupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O0MtqbAh5C",
+   "pdf_url": "https://openreview.net/pdf?id=O0MtqbAh5C"
+  },
+  {
+   "title": "LPMARL: Linear Programming-based Task Assignment for Hierarchical Multi-agent Reinforcement Learning",
+   "authors": [
+    "Kyuree Ahn",
+    "Jinkyoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a6LMiUUFAU",
+   "pdf_url": "https://openreview.net/pdf?id=a6LMiUUFAU"
+  },
+  {
+   "title": "ML-Guided Primal Heuristics for Mixed Binary Quadratic Programs",
+   "authors": [
+    "Weimin Huang",
+    "Natalie M. Isenberg",
+    "Jan Drgona",
+    "Draguna L Vrabie",
+    "Bistra Dilkina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kJ2cxeXZ5L",
+   "pdf_url": "https://openreview.net/pdf?id=kJ2cxeXZ5L"
+  },
+  {
+   "title": "Neural Embedded Mixed-Integer Optimization for Location-Routing Problems",
+   "authors": [
+    "Waquar Kaleem",
+    "Doyoung Lee",
+    "Changhyun Kwon",
+    "Anirudh Subramanyam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WCILzWMXq9",
+   "pdf_url": "https://openreview.net/pdf?id=WCILzWMXq9"
+  },
+  {
+   "title": "Offline Decision Transformers for Neural Combinatorial Optimization: Surpassing Heuristics on the Traveling Salesman Problem",
+   "authors": [
+    "Hironori Ohigashi",
+    "Shinichiro Hamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TLLSQitTo3",
+   "pdf_url": "https://openreview.net/pdf?id=TLLSQitTo3"
+  },
+  {
+   "title": "On the benefits of label preserving augmentations for self-supervised SAT solvers",
+   "authors": [
+    "Nikita Kostin",
+    "Nikolaos Karalias",
+    "Stefanie Jegelka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rYo5H7CFsp",
+   "pdf_url": "https://openreview.net/pdf?id=rYo5H7CFsp"
+  },
+  {
+   "title": "OptiHive: Ensemble Selection for Learning-Based Optimization via Statistical Modeling",
+   "authors": [
+    "Maxime Bouscary",
+    "Saurabh Amin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oVkkjLv5To",
+   "pdf_url": "https://openreview.net/pdf?id=oVkkjLv5To"
+  },
+  {
+   "title": "Optimizing the Dynamic Drone-Assisted Pickup and Delivery Problem with Deep Reinforcement Learning",
+   "authors": [
+    "Timothy Mulumba"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VzZqMsgMwe",
+   "pdf_url": "https://openreview.net/pdf?id=VzZqMsgMwe"
+  },
+  {
+   "title": "Preference-Based Gradient Estimation for ML-Guided Approximate Combinatorial Optimization",
+   "authors": [
+    "Arman Mielke",
+    "Uwe Bauknecht",
+    "Thilo Strauss",
+    "Mathias Niepert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yBcdMZhspb",
+   "pdf_url": "https://openreview.net/pdf?id=yBcdMZhspb"
+  },
+  {
+   "title": "Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation",
+   "authors": [
+    "Mingfeng Fan",
+    "Jianan Zhou",
+    "Yifeng Zhang",
+    "Yaoxin Wu",
+    "Jinbiao Chen",
+    "Guillaume Adrien Sartoretti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kaNODm8Hs7",
+   "pdf_url": "https://openreview.net/pdf?id=kaNODm8Hs7"
+  },
+  {
+   "title": "Probabilistic Loss Functions for Self-Supervised SAT Solvers",
+   "authors": [
+    "Nikolaos Efthymiou",
+    "Nikolaos Karalias"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YqNdy4lWLS",
+   "pdf_url": "https://openreview.net/pdf?id=YqNdy4lWLS"
+  },
+  {
+   "title": "Reinforcement Learning Assisted Dynamic Large Scale Graph Learning",
+   "authors": [
+    "Ujun Jeong",
+    "Pankaj Rajak",
+    "VENU MADHAV TAMMALI",
+    "Acsw",
+    "Virinchi Roy Surabhi",
+    "Olcay Boz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gBGarUKvhm",
+   "pdf_url": "https://openreview.net/pdf?id=gBGarUKvhm"
+  },
+  {
+   "title": "RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization",
+   "authors": [
+    "Jiwoo Son",
+    "Zhikai Zhao",
+    "Federico Berto",
+    "Chuanbo Hua",
+    "Zhiguang Cao",
+    "Changhyun Kwon",
+    "Jinkyoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MGLt2k07KC",
+   "pdf_url": "https://openreview.net/pdf?id=MGLt2k07KC"
+  },
+  {
+   "title": "Scaling Laws for Neural Combinatorial Optimization with LLaMA Models",
+   "authors": [
+    "Gokul Srinath Seetha Ram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lAeUBLjAoC",
+   "pdf_url": "https://openreview.net/pdf?id=lAeUBLjAoC"
+  },
+  {
+   "title": "Solving Traveling Salesman Problems Using Parallel Environments in Reinforcement Learning",
+   "authors": [
+    "Shaohua Hu",
+    "Ming Zhu",
+    "Tenghai Qiu",
+    "Zhiqiang Pu",
+    "Xiaolin Ai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ekWEE8Jd6Y",
+   "pdf_url": "https://openreview.net/pdf?id=ekWEE8Jd6Y"
+  },
+  {
+   "title": "Structure As Search: Unsupervised Permutation Learning for Combinatorial Optimization",
+   "authors": [
+    "Yimeng Min",
+    "Carla P Gomes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9OjzmHULXM",
+   "pdf_url": "https://openreview.net/pdf?id=9OjzmHULXM"
+  },
+  {
+   "title": "Test-Time Search in Neural Graph Coarsening for the Capacitated Vehicle Routing Problem",
+   "authors": [
+    "Yoonju Sim",
+    "Changhyun Kwon",
+    "Hyeonah Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSLypSkrR8",
+   "pdf_url": "https://openreview.net/pdf?id=fSLypSkrR8"
+  },
+  {
+   "title": "Towards distillation guarantees under  algorithmic alignment",
+   "authors": [
+    "Thien Le"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RQti5I2G03",
+   "pdf_url": "https://openreview.net/pdf?id=RQti5I2G03"
+  },
+  {
+   "title": "Unsupervised Learning of Local Updates for Maximum Independent Set in Dynamic Graphs",
+   "authors": [
+    "Devendra Parkar",
+    "Anya Chaturvedi",
+    "Joshua J. Daymude"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VPOP6ZyWA0",
+   "pdf_url": "https://openreview.net/pdf?id=VPOP6ZyWA0"
+  }
+ ]
+}

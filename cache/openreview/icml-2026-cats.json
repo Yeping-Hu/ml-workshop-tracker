@@ -1,0 +1,537 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/CATS",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:30.283Z",
+ "paper_count": 47,
+ "papers": [
+  {
+   "title": "A loss curvature account of fine-tuning fragility",
+   "authors": [
+    "Ivaylo Dimitrov",
+    "Leo Karoubi",
+    "Sunny Howard",
+    "Dmitrii Krasheninnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LhT1YHmyCN",
+   "pdf_url": "https://openreview.net/pdf?id=LhT1YHmyCN"
+  },
+  {
+   "title": "Aligning Language Models from User Interactions",
+   "authors": [
+    "Thomas Kleine Buening",
+    "Jonas Hübotter",
+    "Barna Pásztor",
+    "Idan Shenfeld",
+    "Giorgia Ramponi",
+    "Andreas Krause"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HL3iloEczS",
+   "pdf_url": "https://openreview.net/pdf?id=HL3iloEczS"
+  },
+  {
+   "title": "Audit Before You Merge: Provenance, Probing, and Continual LoRA Composition",
+   "authors": [
+    "Lenny Aharon",
+    "Neta Glazer",
+    "Lior Aharon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vgsNcwf81w",
+   "pdf_url": "https://openreview.net/pdf?id=vgsNcwf81w"
+  },
+  {
+   "title": "AV-CTTA: Audio-Visual Continual Test-Time Adaptation without Forgetting",
+   "authors": [
+    "Sarthak Kumar Maharana",
+    "Akshay Mehra",
+    "Bhavya Ramakrishna",
+    "Yunhui Guo",
+    "Guan-Ming Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Py5TQcmtBl",
+   "pdf_url": "https://openreview.net/pdf?id=Py5TQcmtBl"
+  },
+  {
+   "title": "Beyond Classification: Continual Learning for Multimodal Retrieval",
+   "authors": [
+    "Alicja Dobrzeniecka",
+    "Filip Szatkowski",
+    "Sebastian Cygert",
+    "Szymon Lukasik",
+    "Bartłomiej Twardowski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=18EqN1GcZr",
+   "pdf_url": "https://openreview.net/pdf?id=18EqN1GcZr"
+  },
+  {
+   "title": "Calibrated Target-Aware Data Selection for Continual Mid-Training in Streams",
+   "authors": [
+    "Ke Wan",
+    "Tianyi Zhao",
+    "Tianhao Huang",
+    "Guanghui Min",
+    "Chen Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IhwYrJs9Ht",
+   "pdf_url": "https://openreview.net/pdf?id=IhwYrJs9Ht"
+  },
+  {
+   "title": "Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams",
+   "authors": [
+    "Jiyeon Kim",
+    "Hyunji Lee",
+    "Dylan Zhou",
+    "Sue Hyun Park",
+    "Seunghyun Yoon",
+    "Trung Bui",
+    "Franck Dernoncourt",
+    "Sungmin Cha",
+    "Minjoon Seo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lSueoTjmJb",
+   "pdf_url": "https://openreview.net/pdf?id=lSueoTjmJb"
+  },
+  {
+   "title": "Catastrophic Forgetting is Low-Rank: A Function-Space Theory for Continual Adaptation",
+   "authors": [
+    "Ido Nitzan Hidekel",
+    "Dan Raviv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Cj3vmS61C6",
+   "pdf_url": "https://openreview.net/pdf?id=Cj3vmS61C6"
+  },
+  {
+   "title": "Characterizing Plastic Regions in Neural Networks",
+   "authors": [
+    "Gwyneth Liu",
+    "Nir N Shavit",
+    "Linghao Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xps07lkTpv",
+   "pdf_url": "https://openreview.net/pdf?id=Xps07lkTpv"
+  },
+  {
+   "title": "Continual Causal Refinement: Learning from Sequential Perturbation Data",
+   "authors": [
+    "Masayuki Nagai",
+    "Alan Murphy",
+    "Peter K Koo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4o4fmg7hPJ",
+   "pdf_url": "https://openreview.net/pdf?id=4o4fmg7hPJ"
+  },
+  {
+   "title": "Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics",
+   "authors": [
+    "Andreas Pattichis",
+    "Constantine Dovrolis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KfEjpHIgp3",
+   "pdf_url": "https://openreview.net/pdf?id=KfEjpHIgp3"
+  },
+  {
+   "title": "Continual Learning of Physical Systems via Derivative Distillation",
+   "authors": [
+    "Claudia Gentili",
+    "Alessandro Trenta",
+    "Andrea Cossu",
+    "Davide Bacciu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vqh0p9hEaP",
+   "pdf_url": "https://openreview.net/pdf?id=Vqh0p9hEaP"
+  },
+  {
+   "title": "DECAF: De-Clustering for Adaptive Representational Unlearning",
+   "authors": [
+    "Anjie Le",
+    "Can Peng",
+    "Hongcheng Guo",
+    "J. Alison Noble"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iJUYhJsRSB",
+   "pdf_url": "https://openreview.net/pdf?id=iJUYhJsRSB"
+  },
+  {
+   "title": "Early Data Exposure Improves Robustness to Subsequent Fine-Tuning",
+   "authors": [
+    "Lawrence Feng",
+    "Gaurav Rohit Ghosal",
+    "Jacob Mitchell Springer",
+    "Ziqian Zhong",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cmQJrMIXW8",
+   "pdf_url": "https://openreview.net/pdf?id=cmQJrMIXW8"
+  },
+  {
+   "title": "Experience-Guided Behavior Adaptation for Large Language Models",
+   "authors": [
+    "Iknoor Singh",
+    "Harjot Singh",
+    "Abhishek Tripathi",
+    "Niresh Agarwal",
+    "Murat Sensoy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D48cOXGkI0",
+   "pdf_url": "https://openreview.net/pdf?id=D48cOXGkI0"
+  },
+  {
+   "title": "Externalizing Plasticity: Zero-Update Continual Learning via Symbolic Memories",
+   "authors": [
+    "Manojshyaam C J"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ycnqzNFtDd",
+   "pdf_url": "https://openreview.net/pdf?id=ycnqzNFtDd"
+  },
+  {
+   "title": "Factor Imbalance and Plasticity Loss in Low-Rank Factorized Networks",
+   "authors": [
+    "Seungwon Oh",
+    "KyungJoong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EvqGp86jSU",
+   "pdf_url": "https://openreview.net/pdf?id=EvqGp86jSU"
+  },
+  {
+   "title": "Fast-weight Product Key Memory",
+   "authors": [
+    "Tianyu Zhao",
+    "Llion Jones"
+   ],
+   "forum_url": "https://openreview.net/forum?id=q61sMN5vHU",
+   "pdf_url": "https://openreview.net/pdf?id=q61sMN5vHU"
+  },
+  {
+   "title": "Functional Task Networks: Cortex-Inspired Spatial Parameter Isolation for Continual Learning",
+   "authors": [
+    "Kevin L McKee",
+    "Yicong Zheng",
+    "Zacharie Bugaud",
+    "Thomas Miconi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m415rVhE4i",
+   "pdf_url": "https://openreview.net/pdf?id=m415rVhE4i"
+  },
+  {
+   "title": "Hard-First: Entropy-Guided Curriculum Distillation Balances Transfer and Preservation in Biomedical Vision-Language Models",
+   "authors": [
+    "Junseob Kim",
+    "Sunil Hwang",
+    "Mehak Arora",
+    "Rishikesan Kamaleswaran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m77YRc6TEe",
+   "pdf_url": "https://openreview.net/pdf?id=m77YRc6TEe"
+  },
+  {
+   "title": "Is Our Benchmark Enough? An Analysis of Continual Learning for MLLMs",
+   "authors": [
+    "Van-Tuan Tran",
+    "Shruthi Gowda",
+    "Merim Dzaferagic",
+    "Marco Ruffini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0OLwkMtann",
+   "pdf_url": "https://openreview.net/pdf?id=0OLwkMtann"
+  },
+  {
+   "title": "Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio",
+   "authors": [
+    "Avi Gupta",
+    "Nilotpal Sinha",
+    "Vishnu Raj",
+    "Sambuddha Saha",
+    "Pratik Joshi",
+    "Koteswar Rao Jerripothula",
+    "Tammam Tillo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yjxf1saheJ",
+   "pdf_url": "https://openreview.net/pdf?id=yjxf1saheJ"
+  },
+  {
+   "title": "Machine Studying: A System-Level Reframing of Continual Adaptation from Declarative Corpora",
+   "authors": [
+    "Xiaochen Li",
+    "Rick Battle",
+    "Omar Khattab"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e7duOnFgL7",
+   "pdf_url": "https://openreview.net/pdf?id=e7duOnFgL7"
+  },
+  {
+   "title": "Measurement Plasticity: Sensor-Level Adaptation for Vision–Language Models",
+   "authors": [
+    "Boyeong Im",
+    "Wooseok Lee",
+    "Yoojin Kwon",
+    "Hyung-Sin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AkbjqVBEUs",
+   "pdf_url": "https://openreview.net/pdf?id=AkbjqVBEUs"
+  },
+  {
+   "title": "Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?",
+   "authors": [
+    "Jeanmely Rojas Nunez",
+    "Viraj Vilas Sawant",
+    "Nathan Allen",
+    "Nomgondalai Amgalanbaatar",
+    "Yannis Zongo",
+    "Kevin Zhu",
+    "Maheep Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d10gWUgUJF",
+   "pdf_url": "https://openreview.net/pdf?id=d10gWUgUJF"
+  },
+  {
+   "title": "MeMo: Memory as a Model",
+   "authors": [
+    "Ryan Wei Heng Quek",
+    "Sanghyuk Lee",
+    "Alfred Wei Lun Leong",
+    "Arun Verma",
+    "Alok Prakash",
+    "Nancy F. Chen",
+    "Bryan Kian Hsiang Low",
+    "Daniela Rus",
+    "Armando Solar-Lezama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SsOPyPR8iW",
+   "pdf_url": "https://openreview.net/pdf?id=SsOPyPR8iW"
+  },
+  {
+   "title": "Merging Adapted Models via Data-Free Covariance Estimation",
+   "authors": [
+    "Marawan Gamal",
+    "Derek Tam",
+    "Pascal Junior Tikeng Notsawo",
+    "Colin Raffel",
+    "Guillaume Rabusseau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zp4jQqF679",
+   "pdf_url": "https://openreview.net/pdf?id=zp4jQqF679"
+  },
+  {
+   "title": "Mitigating Catastrophic Forgetting in Continual RL via Certified Alignment",
+   "authors": [
+    "Maksim Anisimov",
+    "Matthew Robert Wicker",
+    "Francesco Belardinelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jGUgIcMjj6",
+   "pdf_url": "https://openreview.net/pdf?id=jGUgIcMjj6"
+  },
+  {
+   "title": "On the Importance of Trivial Baselines: Re-evaluating LoRA Adapter Transfer for Generative Tasks",
+   "authors": [
+    "Andreas Hochlehnert",
+    "Danni Liu",
+    "Jan Niehues",
+    "Shankar Kumar",
+    "Felix Stahlberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fEeBgr6nlZ",
+   "pdf_url": "https://openreview.net/pdf?id=fEeBgr6nlZ"
+  },
+  {
+   "title": "On-Policy Adaptation Mitigates Hyperparameter-Sensitive Forgetting in Vision-Language Models",
+   "authors": [
+    "Doyoon Kim",
+    "Ziyang Wu",
+    "Jingfeng Yang",
+    "Yi Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hSugVMRCLK",
+   "pdf_url": "https://openreview.net/pdf?id=hSugVMRCLK"
+  },
+  {
+   "title": "Organized Plasticity for Cost-Bounded Continual Adaptation",
+   "authors": [
+    "You Rim Choi",
+    "Subeom Park",
+    "Reeahn Kim",
+    "Hyung-Sin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KFZAi2vIRK",
+   "pdf_url": "https://openreview.net/pdf?id=KFZAi2vIRK"
+  },
+  {
+   "title": "Orthogonal Mixture-of-Expert Low-Rank Adapter for Continual Learning",
+   "authors": [
+    "Zhuoran Xie",
+    "Shichun Yang",
+    "Xu Mohan",
+    "Qingyun Ye",
+    "Jiong Ding",
+    "Chen rui",
+    "Fan Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QDlacoa1i9",
+   "pdf_url": "https://openreview.net/pdf?id=QDlacoa1i9"
+  },
+  {
+   "title": "Provable Forgetting Bounds Drive Capacity Savings: Spectral Thresholding in Continual LoRA",
+   "authors": [
+    "Louis Barinka",
+    "Giulia Lanzillotta",
+    "Enis Simsar",
+    "Tanguy Dieudonné",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=559x6AYm1p",
+   "pdf_url": "https://openreview.net/pdf?id=559x6AYm1p"
+  },
+  {
+   "title": "Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation",
+   "authors": [
+    "Uwe König",
+    "Hamza Kazmi",
+    "Ruizhe Li",
+    "Maheep Chaudhary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ee1Lde3Gyc",
+   "pdf_url": "https://openreview.net/pdf?id=Ee1Lde3Gyc"
+  },
+  {
+   "title": "REPO: Detoxifying LLMs via Representation Erasure-based Preference Optimization",
+   "authors": [
+    "Nazanin Mohammadi Sepahvand",
+    "Eleni Triantafillou",
+    "Hugo Larochelle",
+    "Doina Precup",
+    "Daniel M. Roy",
+    "Gintare Karolina Dziugaite"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o7iEUpHeoe",
+   "pdf_url": "https://openreview.net/pdf?id=o7iEUpHeoe"
+  },
+  {
+   "title": "RepSelect: Robust LLM Unlearning via Representational Selectivity",
+   "authors": [
+    "Filip Sondej",
+    "Yushi Yang",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4oNRpt9T8s",
+   "pdf_url": "https://openreview.net/pdf?id=4oNRpt9T8s"
+  },
+  {
+   "title": "Rotation-Preserving Supervised Fine-Tuning",
+   "authors": [
+    "Hangzhan Jin",
+    "Tianwei Ni",
+    "Lu Li",
+    "Pierre-Luc Bacon",
+    "Mohammad Hamdaqa",
+    "Doina Precup"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aCBKJAfqtK",
+   "pdf_url": "https://openreview.net/pdf?id=aCBKJAfqtK"
+  },
+  {
+   "title": "Route, Reuse, Repurpose: Continual Adaptation of LLMs with Bounded Adapter Pools",
+   "authors": [
+    "Bilge Celik",
+    "Anna Vettoruzzo",
+    "Joaquin Vanschoren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MYsSeRRRpm",
+   "pdf_url": "https://openreview.net/pdf?id=MYsSeRRRpm"
+  },
+  {
+   "title": "Selective Memory Retention for Long-Horizon LLM Agents",
+   "authors": [
+    "Pranath Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9JiPHfleLn",
+   "pdf_url": "https://openreview.net/pdf?id=9JiPHfleLn"
+  },
+  {
+   "title": "Semantic Grouping with Dual-Strategy Distributional Rehearsal for Continual Learning",
+   "authors": [
+    "Khoa Le Nho",
+    "Hồ Xuân Hùng",
+    "Thanh Hai Dang",
+    "Duc-Trong Le",
+    "Quynh-Trang Pham Thi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xSvzku8AS8",
+   "pdf_url": "https://openreview.net/pdf?id=xSvzku8AS8"
+  },
+  {
+   "title": "SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection",
+   "authors": [
+    "Kexian Tang",
+    "Jiani Wang",
+    "Shaowen Wang",
+    "Kaifeng Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wyrtuBoMkt",
+   "pdf_url": "https://openreview.net/pdf?id=wyrtuBoMkt"
+  },
+  {
+   "title": "Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents",
+   "authors": [
+    "Genshin Kakimoto",
+    "Atsushi Yanagisawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rl8nhohM6A",
+   "pdf_url": "https://openreview.net/pdf?id=rl8nhohM6A"
+  },
+  {
+   "title": "Subspace Optimization for Backpropagation-Free Continual Test-Time Adaptation",
+   "authors": [
+    "Damian Sójka",
+    "Sebastian Cygert",
+    "Marc Masana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mc7z8nAPPa",
+   "pdf_url": "https://openreview.net/pdf?id=mc7z8nAPPa"
+  },
+  {
+   "title": "Tell Me What To Learn: Generalizing Neural Memory to be Controllable in Natural Language",
+   "authors": [
+    "Max S. Bennett",
+    "Thomas P Zollo",
+    "Richard Zemel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Sn45JPSdCy",
+   "pdf_url": "https://openreview.net/pdf?id=Sn45JPSdCy"
+  },
+  {
+   "title": "Test-Time Training for Visual Foresight Vision-Language-Action Models",
+   "authors": [
+    "Sangwu Park",
+    "Wonjoong Kim",
+    "Yeonjun In",
+    "Sein Kim",
+    "HongSeok Kang",
+    "Chanyoung Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fqxaTf0kjM",
+   "pdf_url": "https://openreview.net/pdf?id=fqxaTf0kjM"
+  },
+  {
+   "title": "The Geometry of Forgetting: A Fisher-Information Framework for Alignment-Preserving Continual Adaptation",
+   "authors": [
+    "Soham Batra",
+    "Siddharth Karuturi",
+    "Kaustubh S. Bukkapatnam",
+    "Laksh Patel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6NBCrKmAB2",
+   "pdf_url": "https://openreview.net/pdf?id=6NBCrKmAB2"
+  },
+  {
+   "title": "TIMEGATE: Sustainable Time-Boxed Promotion Gates for Continual ML Adaptation Under Resource Constraints",
+   "authors": [
+    "Abhijit Chakraborty",
+    "Suddhasvatta Das",
+    "Yash Shah",
+    "Vivek Gupta",
+    "Kevin A. Gary"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JDwyQ7SzwB",
+   "pdf_url": "https://openreview.net/pdf?id=JDwyQ7SzwB"
+  }
+ ]
+}

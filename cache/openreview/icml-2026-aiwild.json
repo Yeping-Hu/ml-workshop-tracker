@@ -1,0 +1,2632 @@
+{
+ "venue_id": "ICML.cc/2026/Workshop/AIWILD",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:29.133Z",
+ "paper_count": 216,
+ "papers": [
+  {
+   "title": "A Multi-Model Self-Evolving Framework for Zero-Data Document Understanding via Axiomatic Synthetic Refinement",
+   "authors": [
+    "Yuwen Tao",
+    "Fuxiao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xQNxpCr7wx",
+   "pdf_url": null
+  },
+  {
+   "title": "A Prompt-Masked Pilot for History-Dependent Safety Degradation in Multi-Turn Conversational Agents",
+   "authors": [
+    "Bright Liu",
+    "Lia Zheng",
+    "Natalia Siwek",
+    "Karina Chung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=22NUsbmRx6",
+   "pdf_url": null
+  },
+  {
+   "title": "A Systematic Investigation of RL-Jailbreaking in LLMs",
+   "authors": [
+    "Montaser Mohammedalamen",
+    "Kevin Roice",
+    "Reginald McLean",
+    "Alyssa Lefaivre Škopac"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JmfI2MsZ6y",
+   "pdf_url": null
+  },
+  {
+   "title": "ABRA: Agent Benchmark for Radiology Applications",
+   "authors": [
+    "Bulat Maksudov",
+    "Vladislav Kurenkov",
+    "Kathleen M Curran",
+    "Alessandra Mileo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gvDGMMUkVQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Activation Steering for Tool-Poisoning Defense in Language-Model Agents",
+   "authors": [
+    "Artem Zhuravel",
+    "Hubert M. Pysklo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=duDmnRyJh5",
+   "pdf_url": null
+  },
+  {
+   "title": "Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security",
+   "authors": [
+    "Devina Jain",
+    "David Hartmann",
+    "Chuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BSvSfC7Crf",
+   "pdf_url": null
+  },
+  {
+   "title": "AF-ARENA: A Multi-Dimensional Evaluation Suite for Alignment Faking",
+   "authors": [
+    "Chijioke Ugwuanyi",
+    "Terry Jingchen Zhang",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vFqn3kCuYV",
+   "pdf_url": null
+  },
+  {
+   "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks",
+   "authors": [
+    "Yoonsang Lee",
+    "Howard Yen",
+    "Xi Ye",
+    "Danqi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hXzAocijH7",
+   "pdf_url": null
+  },
+  {
+   "title": "Agentic Misalignment Deterrence: Incorporating Probability and Stakeholders to Decision-Making",
+   "authors": [
+    "Karthik Reddy Konuganti",
+    "Ryan Co"
+   ],
+   "forum_url": "https://openreview.net/forum?id=krfBaM2oai",
+   "pdf_url": null
+  },
+  {
+   "title": "Agentic Reinforcement Learning for Search Misaligns Instruction-Tuning",
+   "authors": [
+    "Yushi Yang",
+    "Shreyansh Padarha",
+    "Sarah Ball",
+    "Andrew Lee",
+    "Adam Mahdi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PaKJLkRPAL",
+   "pdf_url": null
+  },
+  {
+   "title": "AgentSociety: Incentivizing Agentic Social Intelligence",
+   "authors": [
+    "Aditya Vema Reddy Kesari",
+    "Krishna Reddy Kesari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O7SKhoOalC",
+   "pdf_url": null
+  },
+  {
+   "title": "AI Agent Safety is a Reinforcement Learning Problem",
+   "authors": [
+    "Reginald McLean",
+    "Tabitha Edith Lee",
+    "Montaser Mohammedalamen",
+    "Kevin Roice",
+    "Glen Berseth",
+    "Patrick M. Pilarski",
+    "Marlos C. Machado",
+    "Alyssa Lefaivre Škopac",
+    "Benjamin Rosman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wvga9chmb6",
+   "pdf_url": null
+  },
+  {
+   "title": "AI Safeguards as Affordance Modulation: Embedded Population Assumptions in Agentic Systems",
+   "authors": [
+    "Sumaya Nur Adan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXN4bBBpcK",
+   "pdf_url": null
+  },
+  {
+   "title": "Aligning Language Models with Selective Prediction",
+   "authors": [
+    "Gaoxiang Luo",
+    "Yifan Wu",
+    "Sinian Zhang",
+    "Aryan Deshwal",
+    "Ju Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bqTLnXswlC",
+   "pdf_url": null
+  },
+  {
+   "title": "Approve the Effect, Not the Tool Call: Preventing Stale Consent in Tool-Using Agents",
+   "authors": [
+    "Qi Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lClCNawtQB",
+   "pdf_url": null
+  },
+  {
+   "title": "Architecture Matters for Multi-Agent Security",
+   "authors": [
+    "Ben Hagag",
+    "William L. Anderson",
+    "Christian Schroeder de Witt",
+    "Sarah Scheffler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DNWFP9HlBa",
+   "pdf_url": null
+  },
+  {
+   "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+   "authors": [
+    "Xiaoxuan Wang",
+    "Han Zhang",
+    "Haixin Wang",
+    "Yidan Shi",
+    "Ruoyan Li",
+    "Kaiqiao Han",
+    "Chenyi Tong",
+    "Haoran Deng",
+    "Alexander K Taylor",
+    "Renliang Sun",
+    "Yanqiao Zhu",
+    "Jason Cong",
+    "Yizhou Sun",
+    "Wei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ek15ebsf5D",
+   "pdf_url": null
+  },
+  {
+   "title": "ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents",
+   "authors": [
+    "Udari Madhushani Sehwag",
+    "Zhengyang Shan",
+    "Heming Liu",
+    "Dileepa Lakshan",
+    "Joseph Brandifino",
+    "Max Fenkell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E0ug8K77SD",
+   "pdf_url": null
+  },
+  {
+   "title": "ATLAS: Adaptive Topology-Level Attack Synthesis for Probing Multi-Agent Systems",
+   "authors": [
+    "Raja Sekhar Rao Dheekonda",
+    "Vincent Abruzzo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=11ZMPJOnzv",
+   "pdf_url": null
+  },
+  {
+   "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+   "authors": [
+    "Tyler Crosse",
+    "Catherine Ge-Wang",
+    "Benjamin Hadad",
+    "Joachim Schaeffer",
+    "Ram Potham",
+    "Tyler Tracy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mVE4NOHqZO",
+   "pdf_url": null
+  },
+  {
+   "title": "Attractor States Emerge in Multi-Turn LLM Conversations",
+   "authors": [
+    "Ting-Wen Ko",
+    "Jonas Geiping"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GcAE4OF37c",
+   "pdf_url": null
+  },
+  {
+   "title": "Autoformalization of Agent Instructions into Policy-as-Code",
+   "authors": [
+    "Adam Mondl",
+    "Matthew Maisel",
+    "John H. Brock"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L8sg6gRf8l",
+   "pdf_url": null
+  },
+  {
+   "title": "AutoHoney: Automating, Deploying, and Evaluating Scheming Honeypots Across Production Codebases",
+   "authors": [
+    "Martin Ciesielski-Listwan",
+    "Alyssia Jovellanos",
+    "Victoria Krakovna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tz2JFiUiAl",
+   "pdf_url": null
+  },
+  {
+   "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+   "authors": [
+    "Seonglae Cho",
+    "Franklin Cardenoso Fernandez",
+    "Umar Mohammed",
+    "Zekun Wu",
+    "Kleyton Da Costa",
+    "Ilham Wicaksono",
+    "Adriano Koshiyama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1cprFkvFT0",
+   "pdf_url": null
+  },
+  {
+   "title": "Automated interpretability and feature discovery in language models with agents",
+   "authors": [
+    "Arnau Marin-Llobet",
+    "Javier Ferrando"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ZeleYGthB",
+   "pdf_url": null
+  },
+  {
+   "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
+   "authors": [
+    "Arnon Mazza",
+    "Elad Levi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mbwk3KpLAL",
+   "pdf_url": null
+  },
+  {
+   "title": "BarrierSteer: LLM Safety via Learning Barrier Steering",
+   "authors": [
+    "Thanh Q. Tran",
+    "Arun Verma",
+    "Kiwan Wong",
+    "Bryan Kian Hsiang Low",
+    "Daniela Rus",
+    "Wei Xiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bkRvzlErHF",
+   "pdf_url": null
+  },
+  {
+   "title": "Behavioral Code: Legible, Auditable Loops for Autonomous Agents",
+   "authors": [
+    "Abutalib Namazov",
+    "Tae Wook Kim",
+    "Eagon Meng",
+    "Daniel Jackson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qx2jHkK95V",
+   "pdf_url": null
+  },
+  {
+   "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
+   "authors": [
+    "Sarah Wilson",
+    "Diem Linh Dang",
+    "Usman Ali Moazzam",
+    "Shan Ye",
+    "Gail Kaiser"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wcsuNPnA2m",
+   "pdf_url": null
+  },
+  {
+   "title": "Beyond Single-Model Injection: A Threat Model and Defense Architecture for Prompt Injection in Multi-Agent Systems",
+   "authors": [
+    "Rudrendu Kumar Paul",
+    "Sourav Nandy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2YLC2ciEar",
+   "pdf_url": null
+  },
+  {
+   "title": "Bias and Discrimination in the Agentic Web and How Project NANDA Can Support Mitigation",
+   "authors": [
+    "Sundaraparipurnan Narayanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ujayZyWmOg",
+   "pdf_url": null
+  },
+  {
+   "title": "BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data",
+   "authors": [
+    "Zichen TANG",
+    "Zhenheng Tang",
+    "Qian Wang",
+    "Gaoning Pan",
+    "Yuhan Yang",
+    "Wei He",
+    "Shaohuai Shi",
+    "Xiaowen Chu",
+    "Bo Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f1iQzyNc1x",
+   "pdf_url": null
+  },
+  {
+   "title": "BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics",
+   "authors": [
+    "Dionizije Fa",
+    "Marko Culjak",
+    "Bruno Pandza",
+    "Mateo Čupić"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fAk5JqgZp2",
+   "pdf_url": null
+  },
+  {
+   "title": "Boundary Point Jailbreaking of Black-Box LLMs",
+   "authors": [
+    "Xander Davies",
+    "Giorgi Giglemiani",
+    "Edmund Lau",
+    "Eric Winsor",
+    "Geoffrey Irving",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dCbDL3Jj1x",
+   "pdf_url": null
+  },
+  {
+   "title": "Bridging Safety and Performance in Autonomous Systems using Offline Reinforcement Learning",
+   "authors": [
+    "Mumuksh Tayal",
+    "Manan Tayal",
+    "Ravi Prakash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ffX7tGwAD8",
+   "pdf_url": null
+  },
+  {
+   "title": "CAD-bench: Benchmarking Language Models on Functional CAD Generation",
+   "authors": [
+    "Dhruv Saini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eG1jFVEHht",
+   "pdf_url": null
+  },
+  {
+   "title": "Calibrated Deferral Routing for Cost-Efficient Guardrails",
+   "authors": [
+    "Giandomenico Cornacchia",
+    "Inkit Padhi",
+    "Manish Nagireddy",
+    "Subhajit Chaudhury",
+    "Pierre Dognin",
+    "Tejaswini Pedapati",
+    "Ambrish Rawat",
+    "Mark Purcell",
+    "Kush R. Varshney",
+    "Prasanna Sattigeri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=veeRs1cBq9",
+   "pdf_url": null
+  },
+  {
+   "title": "CaMeLs Can Use Computers Too:  System-level Security for Computer Use Agents",
+   "authors": [
+    "Hanna Foerster",
+    "Tom Blanchard",
+    "Kristina Nikolić",
+    "Ilia Shumailov",
+    "Cheng Zhang",
+    "Robert D. Mullins",
+    "Nicolas Papernot",
+    "Florian Tramèr",
+    "Yiren Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sRbfZFjoa9",
+   "pdf_url": null
+  },
+  {
+   "title": "CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models",
+   "authors": [
+    "Swapnil Parekh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d6QC8XDwMW",
+   "pdf_url": null
+  },
+  {
+   "title": "Catching Infrastructure Sabotage When Coding Agents Are Insider Threats",
+   "authors": [
+    "Preeti Ravindra",
+    "Rahul Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lfWclaAHCn",
+   "pdf_url": null
+  },
+  {
+   "title": "Caught in the Act(ivation): Stopping Credential Exfiltration Before It Starts",
+   "authors": [
+    "Kargi Chauhan",
+    "Pratibha Revankar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F13Riabxys",
+   "pdf_url": null
+  },
+  {
+   "title": "Chain of Risk: Safety Failures in Large Reasoning Models and Mitigation via Adaptive Multi-Principle Steering",
+   "authors": [
+    "Xiaomin Li",
+    "Jianheng Hou",
+    "Zheyuan Deng",
+    "Zhiwei Zhang",
+    "Taoran Li",
+    "binghang lu",
+    "Bing Hu",
+    "Yunhan Zhao",
+    "Yuexing Hao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ghxtbqNEyh",
+   "pdf_url": null
+  },
+  {
+   "title": "Chain-of-Sanitized-Thoughts: Reducing PII Leakage in Chain-of-Thought Reasoning",
+   "authors": [
+    "Arghyadeep Das",
+    "Sai Sreenivas Chintha",
+    "Sharvi Endait",
+    "Rishiraj Girmal",
+    "Kinjal Pandey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YQS4CjDtHX",
+   "pdf_url": null
+  },
+  {
+   "title": "ChainCaps: Composition-Safe Tool-Using Agents via Monotonic Capability Attenuation",
+   "authors": [
+    "Xiaochong Jiang",
+    "Shiqi Yang",
+    "Ziwei Li",
+    "Lifei Liu",
+    "Haoran Yu",
+    "Yichen Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KtrAm71ER9",
+   "pdf_url": null
+  },
+  {
+   "title": "Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows",
+   "authors": [
+    "Hardy Chen",
+    "Nancy Lau",
+    "Haoqin Tu",
+    "Shuo Yan",
+    "Xiangyan Liu",
+    "Zijun Wang",
+    "Juncheng Wu",
+    "Michael Qizhe Shieh",
+    "Cihang Xie",
+    "Yuyin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vg668reeuG",
+   "pdf_url": null
+  },
+  {
+   "title": "Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs",
+   "authors": [
+    "Alexander Panfilov",
+    "Peter Romov",
+    "Igor Shilov",
+    "Yves-Alexandre de Montjoye",
+    "Jonas Geiping",
+    "Maksym Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=und0j2UWST",
+   "pdf_url": null
+  },
+  {
+   "title": "ClinSeekAgent: Automating Multi-modal Evidence Seeking for Agentic Clinical Reasoning",
+   "authors": [
+    "Juncheng Wu",
+    "Letian Zhang",
+    "Yuhan Wang",
+    "Haoqin Tu",
+    "Hardy Chen",
+    "Zijun Wang",
+    "Cihang Xie",
+    "Yuyin Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7Q4JKlLinO",
+   "pdf_url": null
+  },
+  {
+   "title": "Coding Agents Don't Know When to Act",
+   "authors": [
+    "Thibaud Gloaguen",
+    "Niels Mündler",
+    "Mark Niklas Mueller",
+    "Veselin Raychev",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CVg4Honh4Y",
+   "pdf_url": null
+  },
+  {
+   "title": "Communication Boundary Control for Safer Multi-Agent Language Agents",
+   "authors": [
+    "Max Ruiz Luyten",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gOuMmO4xQh",
+   "pdf_url": null
+  },
+  {
+   "title": "Component and Dimension Sparsity in Transformer Refusal Mechanisms",
+   "authors": [
+    "Vincent Siu",
+    "Glenn Grant-Richards",
+    "Vlad Pavlovich",
+    "Yizhou Sun",
+    "Dawn Song",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fNwtjIgILq",
+   "pdf_url": null
+  },
+  {
+   "title": "Compound AI System Reliability: A Failure Taxonomy and Resilience Pattern Catalog from 150 Production Incidents",
+   "authors": [
+    "Rudrendu Kumar Paul",
+    "Sourav Nandy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=06K05My3td",
+   "pdf_url": null
+  },
+  {
+   "title": "Consensus–Bayesian Anomaly Detection in Agentic Access Graphs",
+   "authors": [
+    "Pratyush uppuluri",
+    "Shilpa Noushad",
+    "Sajan Kumar",
+    "Jayanth Poosarla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KQBkNoIcdh",
+   "pdf_url": null
+  },
+  {
+   "title": "Containment Verification: AI Safety Guarantees Independent of Alignment",
+   "authors": [
+    "Royce Moon",
+    "Lav R. Varshney"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NGNK03iIam",
+   "pdf_url": null
+  },
+  {
+   "title": "CONTRA: Red-Teaming Configurations of Personalizable Agents",
+   "authors": [
+    "Jonathan Nöther",
+    "Adish Singla",
+    "Goran Radanovic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6SPX4lpb8k",
+   "pdf_url": null
+  },
+  {
+   "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+   "authors": [
+    "Ziang Liu",
+    "James J. Kim",
+    "Yijia Dai",
+    "Jennifer J. Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dre8yL6d1y",
+   "pdf_url": null
+  },
+  {
+   "title": "Controlling Tool Use with Heading-Specific Activation Steering",
+   "authors": [
+    "Yuqi Chen",
+    "Vincent Siu",
+    "Yang Liu",
+    "Dawn Song",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0e0pSBPdL9",
+   "pdf_url": null
+  },
+  {
+   "title": "Copy-on-Write Scoring: Application-Specific Agent Evaluations",
+   "authors": [
+    "Joanna Roy",
+    "Sven Hoelzel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ql8Vt7ovjD",
+   "pdf_url": null
+  },
+  {
+   "title": "Correcting Noise-Mispecified Operator Selection in Wild Compound LLM Agents",
+   "authors": [
+    "Jiayi Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hXWLQWjmNr",
+   "pdf_url": null
+  },
+  {
+   "title": "Coverage-Aware Test Generation for Conversational AI Agents",
+   "authors": [
+    "Mridul Katta",
+    "Darin Glatt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WaXKc6bXS5",
+   "pdf_url": null
+  },
+  {
+   "title": "CPPO: Contrastive Perception Policy Optimization for VLM Agents",
+   "authors": [
+    "Ahmad Rezaei",
+    "Mohsen Gholami",
+    "Saeed Ranjbar Alvar",
+    "Kevin Cannons",
+    "Mohammad Asiful Hossain",
+    "Zhou Weimin",
+    "Yong Zhang",
+    "Mohammad Akbari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nClJ616tky",
+   "pdf_url": null
+  },
+  {
+   "title": "Cross-Agent Campaign Attribution: Linking Asynchronous Attacks Across LLM Agents",
+   "authors": [
+    "SangJin Park",
+    "Myungsub Choi",
+    "Jineok Kim",
+    "Minseung Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2MIqLDdZBO",
+   "pdf_url": null
+  },
+  {
+   "title": "CrossAnchor: Image-Anchored Text Optimization Exposes Blind Spots in Multi-line Defenses of Agentic Systems",
+   "authors": [
+    "Anish Kiran Kulkarni",
+    "Ravikumar Balakrishnan",
+    "Prashanth Arun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kMOXzRNC8n",
+   "pdf_url": null
+  },
+  {
+   "title": "CTFusion : A CTF-based Benchmark for LLM Agent Evaluation",
+   "authors": [
+    "Dongjun Lee",
+    "Ga-eun Bae",
+    "Insu yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aUSUvS4dPL",
+   "pdf_url": null
+  },
+  {
+   "title": "Decomposing Smooth Agentic Inference Scaling",
+   "authors": [
+    "Ole Kristian Jorgensen",
+    "Rivka Mitchell",
+    "Tom Rainforth",
+    "Cozmin Ududec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pWZa8l5Nft",
+   "pdf_url": null
+  },
+  {
+   "title": "Digital Twin Builder: A Multi-Agent LLM System for Automated Industrial Digital Twin Development",
+   "authors": [
+    "Maria Dziuba",
+    "Elizaveta Egorova",
+    "Nikolay Vasilev",
+    "Ilya Novitskiy",
+    "Vladislav Tuchin",
+    "Valeria Efimova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XkatXiX5Su",
+   "pdf_url": null
+  },
+  {
+   "title": "Directional Alignment Mitigates Reward Hacking in Reinforcement Learning for Language Models",
+   "authors": [
+    "Wenlong Deng",
+    "Jiaji Huang",
+    "Kaan Ozkara",
+    "Yushu Li",
+    "Christos Thrampoulidis",
+    "Xiaoxiao Li",
+    "Youngsuk Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ckXMyQ7dwz",
+   "pdf_url": null
+  },
+  {
+   "title": "Do AI Agents Write Less Maintainable Code Than Human Developers?",
+   "authors": [
+    "Betty Li Hou",
+    "Shaswat P Patel",
+    "Arun Purohit",
+    "Kai Xu",
+    "Jane Pan",
+    "He He",
+    "Valerie Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2BeQnNnfps",
+   "pdf_url": null
+  },
+  {
+   "title": "Does the Optimal Hallucination Detector for Agentic Tool Calls Depend on Model Scale?",
+   "authors": [
+    "Valentin NOËL",
+    "Kait Healy",
+    "Visakh Madathil",
+    "Bharathi Srinivasan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m0UMwNsWVY",
+   "pdf_url": null
+  },
+  {
+   "title": "Double-Helix Co-Training for Computer-Use Generator and Verifier Models",
+   "authors": [
+    "Jikun Kang",
+    "Yi Heng Lim",
+    "Alex James Chan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0uIlMXRJFE",
+   "pdf_url": null
+  },
+  {
+   "title": "Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture",
+   "authors": [
+    "Halil Burak Noyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fTdw60ITBv",
+   "pdf_url": null
+  },
+  {
+   "title": "Emergent Social Intelligence Risks in Generative Multi-Agent Systems",
+   "authors": [
+    "Yue Huang",
+    "Yu Jiang",
+    "Wenjie Wang",
+    "Haomin Zhuang",
+    "Xiaonan Luo",
+    "Yuchen Ma",
+    "Zhangchen Xu",
+    "Zichen Chen",
+    "Nuno Moniz",
+    "Zinan Lin",
+    "Pin-Yu Chen",
+    "Nitesh V. Chawla",
+    "Nouha Dziri",
+    "Huan Sun",
+    "Xiangliang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z7znwSYpEC",
+   "pdf_url": null
+  },
+  {
+   "title": "Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Compute",
+   "authors": [
+    "Yejun Yun",
+    "Samantha Tetef",
+    "Eugene Koran",
+    "Pablo Bernabeu-Perez",
+    "Benjamin Arnav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WRyGsuxrMy",
+   "pdf_url": null
+  },
+  {
+   "title": "Evaluating Agentic Configuration Repair for Computer Networks",
+   "authors": [
+    "Rufat Asadli",
+    "Benjamin Hoffman",
+    "Ioannis Protogeros",
+    "Laurent Vanbever"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7V32Bt2rOa",
+   "pdf_url": null
+  },
+  {
+   "title": "Evaluation Theater: How Structural Compliance Decouples from Cognitive Judgment in Deployed LLM Agents",
+   "authors": [
+    "Ning Coeva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xlgiEF3jOH",
+   "pdf_url": null
+  },
+  {
+   "title": "EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience",
+   "authors": [
+    "Taofeng Xue",
+    "Chong Peng",
+    "Mianqiu Huang",
+    "Linsen Guo",
+    "Tiancheng Han",
+    "Haozhe Wang",
+    "Xiaocheng Zhang",
+    "Xin Yang",
+    "Dengchang Zhao",
+    "Jinrui Ding",
+    "Xiandi Ma",
+    "Yuchen Xie",
+    "Peng Pei",
+    "Xunliang Cai",
+    "Xipeng Qiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pzbtm6fRIo",
+   "pdf_url": null
+  },
+  {
+   "title": "Extracting Recurring Vulnerabilities from Black-Box LLM-Generated Software",
+   "authors": [
+    "Tomer Kordonsky",
+    "Amit LeVi",
+    "Maayan Yamin",
+    "Noam Benzimra",
+    "Avi Mendelson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3QzVSzpdF4",
+   "pdf_url": null
+  },
+  {
+   "title": "Failure-Aware Query Refinement for Reliable Open-Vocabulary Home-Robot Perception",
+   "authors": [
+    "Daun Jeong",
+    "Sohyeon Kim",
+    "Jouwon Song",
+    "Kyeongbo Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hiqOC1us84",
+   "pdf_url": null
+  },
+  {
+   "title": "FaultLoc: Evaluating Coding Agents For Fault Localization",
+   "authors": [
+    "Jianhong Tu",
+    "Shubham Gaur",
+    "Rathik Murtinty",
+    "Zhun Wang",
+    "Tianneng Shi",
+    "Dawn Song",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3q6yWfaQ8R",
+   "pdf_url": null
+  },
+  {
+   "title": "From Business Metrics to Behavioral Personas Controllable User Simulation for Pre-Deployment Agent Testing",
+   "authors": [
+    "Zhenyu Zhang",
+    "Yuan Ling",
+    "Dingyang Chen",
+    "Xinyang Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zr4viu53hX",
+   "pdf_url": null
+  },
+  {
+   "title": "From Reward-Hack Activations to Agentic Risk States: Context-Calibrated Mechanistic Monitoring in LLM Agents",
+   "authors": [
+    "Patrick Wilhelm",
+    "Odej Kao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DK14doGjJh",
+   "pdf_url": null
+  },
+  {
+   "title": "From Segments to Scenes: Temporal Understanding for Agentic Autonomous Driving via Vision-Language Models",
+   "authors": [
+    "Kevin Cannons",
+    "Saeed Ranjbar Alvar",
+    "Mohammad Asiful Hossain",
+    "Ahmad Rezaei",
+    "Mohsen Gholami",
+    "Alireza Heidari",
+    "Zhou Weimin",
+    "Yong Zhang",
+    "Mohammad Akbari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZTnt0PzHnL",
+   "pdf_url": null
+  },
+  {
+   "title": "From Self-Preservation to Peer-Preservation: A Staged Framing of Preservation-Oriented Misalignment in Frontier Models",
+   "authors": [
+    "Rundong Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1WopZAIo96",
+   "pdf_url": null
+  },
+  {
+   "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+   "authors": [
+    "Pritam Dash",
+    "Tongyu Ge",
+    "Aditi Jain",
+    "Tanmay Shah",
+    "Zhiwei Shang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5cgg9yenCZ",
+   "pdf_url": null
+  },
+  {
+   "title": "FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback",
+   "authors": [
+    "Xueqing Wu",
+    "Zihan Xue",
+    "Da Yin",
+    "Shuyan Zhou",
+    "Kai-Wei Chang",
+    "Nanyun Peng",
+    "Yeming Wen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IIkXKv1lzZ",
+   "pdf_url": null
+  },
+  {
+   "title": "Full-Season Agent Evaluation in Soybean Farm Operations under Real-World Agricultural Process Dynamics",
+   "authors": [
+    "Ao Qu",
+    "Panagiotis Michelakis",
+    "Yiannis Hadjiyianni",
+    "Feng Li",
+    "Jingchi Jiang",
+    "Dimitrios Stamoulis",
+    "Jie Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m49CywnvoV",
+   "pdf_url": null
+  },
+  {
+   "title": "Game-Theoretic Multi-LLM Routing for Safer Agents in the Wild",
+   "authors": [
+    "Jing Wang",
+    "Jie Shen",
+    "Dean Foster",
+    "Zohar Karnin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WuuaJgUo3y",
+   "pdf_url": null
+  },
+  {
+   "title": "GameDevBench: Evaluating Agentic Capabilities Through Game Development",
+   "authors": [
+    "Wayne Chi",
+    "Yixiong Fang",
+    "Arnav Yayavaram",
+    "Siddharth Yayavaram",
+    "Seth Karten",
+    "Qiuhong Anna Wei",
+    "Runkun Chen",
+    "Alexander Wang",
+    "Valerie Chen",
+    "Ameet Talwalkar",
+    "Chris Donahue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EpubMlj8im",
+   "pdf_url": null
+  },
+  {
+   "title": "General Agent Evaluation",
+   "authors": [
+    "Elron Bandel",
+    "Asaf Yehudai",
+    "Lilach Eden",
+    "Yehoshua Sagron",
+    "Yotam Perlitz",
+    "Elad Venezian",
+    "Natalia Razinkov",
+    "Natan Ergas",
+    "Shlomit Shachor Ifergan",
+    "Segev Shlomov",
+    "Michal Jacovi",
+    "Leshem Choshen",
+    "Liat Ein-Dor",
+    "Yoav Katz",
+    "Michal Shmueli-Scheuer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aRRM5iHXpl",
+   "pdf_url": null
+  },
+  {
+   "title": "Goal-Drift Probes: Anticipating Multi-Turn LLM Agent Failure From Mid-Network Activations",
+   "authors": [
+    "Oliver Yangluo Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7847AalUvX",
+   "pdf_url": null
+  },
+  {
+   "title": "Hidden in Memory: Sleeper Memory Poisoning in LLM Agents",
+   "authors": [
+    "Sidharth Pulipaka",
+    "Stanislau Hlebik",
+    "Leonidas Raghav",
+    "Sahar Abdelnabi",
+    "Vyas Raina",
+    "Ivaxi Sheth",
+    "Mario Fritz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gdMNGQRTuS",
+   "pdf_url": null
+  },
+  {
+   "title": "Hidden in Plain Sight: Benchmarking Agent Safety  Against Decomposition Attacks with DecompBench",
+   "authors": [
+    "Vikhyath Kothamasu",
+    "Virginia Smith",
+    "Chhavi Yadav"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QktytMyZge",
+   "pdf_url": null
+  },
+  {
+   "title": "HiMA: Efficient Hybrid Model Serving for Agentic Systems",
+   "authors": [
+    "Yuzhou Nie",
+    "Weifang Zhang",
+    "Zhen Xu",
+    "Songyang Peng",
+    "Yuheng Tang",
+    "Minzhou Pan",
+    "Bo Li",
+    "Dawn Song",
+    "Ce Zhang",
+    "Wenbo Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KEf0qZPF95",
+   "pdf_url": null
+  },
+  {
+   "title": "Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots",
+   "authors": [
+    "Mark Vero",
+    "Fabian Kaczmarczyck",
+    "Ivan Petrov",
+    "Ilia Shumailov",
+    "Niels Heinen",
+    "Jamie Hayes",
+    "Tianqi Fan",
+    "Luca Invernizzi",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YM3o2WOiqF",
+   "pdf_url": null
+  },
+  {
+   "title": "House Rules: Institutional Design in Multi-Agent LLM Code Markets",
+   "authors": [
+    "Tony O'Halloran",
+    "Allison Claire Zhuang",
+    "Michael Zhang",
+    "Thibault Soubeste",
+    "Alexandre Sallinen",
+    "Stefan Krsteski",
+    "Charlotte Meyer",
+    "Guillaume Allegre",
+    "Kailey Seiler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sXuKYyXCSs",
+   "pdf_url": null
+  },
+  {
+   "title": "How can we assess human-agent interactions? Case studies in software agent design",
+   "authors": [
+    "Valerie Chen",
+    "Rohit Malhotra",
+    "Xingyao Wang",
+    "Juan Michelini",
+    "Xuhui Zhou",
+    "Aditya Bharat Soni",
+    "Hoang H. Tran",
+    "Calvin Smith",
+    "Ameet Talwalkar",
+    "Graham Neubig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IY0nD3pT1F",
+   "pdf_url": null
+  },
+  {
+   "title": "How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study",
+   "authors": [
+    "Junran Wang",
+    "Xinjie Shen",
+    "Zehao Jin",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ubsRVyVxSn",
+   "pdf_url": null
+  },
+  {
+   "title": "How Should Your Agent Talk to Mine? Measuring the Utility–Security Frontier of Cross-Boundary Agentic Delegation",
+   "authors": [
+    "Xisen Wang",
+    "Adel Bibi",
+    "Kevin Qinghong Lin",
+    "Philip Torr",
+    "Jindong Gu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tw68YYB0o6",
+   "pdf_url": null
+  },
+  {
+   "title": "How Well Do Models Follow Their Constitutions?",
+   "authors": [
+    "Arya Jakkli",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zbS7ZlLPvb",
+   "pdf_url": null
+  },
+  {
+   "title": "HowLLMDecision Agents Fail in the Wild: AReproducible Failure-Cell Framework",
+   "authors": [
+    "Anthony Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h91p5MyV9o",
+   "pdf_url": null
+  },
+  {
+   "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+   "authors": [
+    "Jehyeok Yeon",
+    "Ben Rank",
+    "Maksym Andriushchenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UNudgkp1Jp",
+   "pdf_url": null
+  },
+  {
+   "title": "Internal vs. External: Comparing Deliberation and Evolution for Multi-Agent Constitutional Design",
+   "authors": [
+    "Hershraj Niranjani",
+    "Ujwal Kumar",
+    "Phan Xuan Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O6saoHa63r",
+   "pdf_url": null
+  },
+  {
+   "title": "Internal-State Probes Read the Situation, Not the Action: Three Negative Results for Pre-Action Misalignment Monitoring",
+   "authors": [
+    "Max Fomin",
+    "Elad David",
+    "Amit LeVi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tzm9U7YtPF",
+   "pdf_url": null
+  },
+  {
+   "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+   "authors": [
+    "Lawrence Keunho Jang",
+    "Mareks Woodside",
+    "Geronimo Carom",
+    "Andrew Keunwoo Jang",
+    "Jing Yu Koh",
+    "Ruslan Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CxJZklcAS9",
+   "pdf_url": null
+  },
+  {
+   "title": "Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)",
+   "authors": [
+    "Zichen TANG",
+    "Zirui Zhang",
+    "Qian Wang",
+    "Zhenheng Tang",
+    "Xiaowen Chu",
+    "Bo Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nLv4qId6Fy",
+   "pdf_url": null
+  },
+  {
+   "title": "It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents",
+   "authors": [
+    "Karolina Korgul",
+    "Yushi Yang",
+    "Arkadiusz Drohomirecki",
+    "Piotr Blaszczyk",
+    "Will Howard",
+    "Lukas Aichberger",
+    "Chris Russell",
+    "Philip Torr",
+    "Adam Mahdi",
+    "Adel Bibi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8zez82eewm",
+   "pdf_url": null
+  },
+  {
+   "title": "Knowing When to \\texttt{STOP}, \\texttt{RECOVER}, and \\texttt{SEARCH} \\\\ A Modular Framework for GUI Automation",
+   "authors": [
+    "Qijun Han",
+    "Haoqin Tu",
+    "Zijun Wang",
+    "Haoyue Dai",
+    "Yiyang Zhou",
+    "Nancy Lau",
+    "Alvaro A. Cardenas",
+    "Yuhui Xu",
+    "Ran Xu",
+    "Caiming Xiong",
+    "Zeyu Zheng",
+    "Huaxiu Yao",
+    "Yuyin Zhou",
+    "Cihang Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MeThBN9gtH",
+   "pdf_url": null
+  },
+  {
+   "title": "Latent Undertow: How Ordinary Typos Break Probes",
+   "authors": [
+    "Elad David",
+    "Max Fomin",
+    "Amit LeVi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zl1sXhmbLG",
+   "pdf_url": null
+  },
+  {
+   "title": "Lateral Data Exfiltration in MCP: How One Compromised Server Captures Cross-Domain Agent Data",
+   "authors": [
+    "Akshat Sharda",
+    "Zhenyu Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YxVbx9hZRs",
+   "pdf_url": null
+  },
+  {
+   "title": "Laundering AI Authority with Adversarial Examples",
+   "authors": [
+    "Jie Zhang",
+    "Pura Peetathawatchai",
+    "Florian Tramèr",
+    "Avital Shafran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NC089ji3hc",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Stateful Predictive Knowledge From Experience",
+   "authors": [
+    "Yan Song",
+    "Xidong Feng",
+    "Bo Liu",
+    "Xinyu Cui",
+    "Zichen Liu",
+    "Haotian Fu",
+    "Mengyue Yang",
+    "Cheng Deng",
+    "Jian Zhao",
+    "Jun Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvWb3pcWEo",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Inject: Automated Prompt Injection via Reinforcement Learning",
+   "authors": [
+    "Xin Chen",
+    "Jie Zhang",
+    "Florian Tramèr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ILFICFzCio",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies",
+   "authors": [
+    "Zhanzhi Lou",
+    "Hui Chen",
+    "Yibo Li",
+    "Qian Wang",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xmnhRfs7mb",
+   "pdf_url": null
+  },
+  {
+   "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+   "authors": [
+    "Lalit Yadav",
+    "Akshaj Gurugubelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=omHw9YJPiX",
+   "pdf_url": null
+  },
+  {
+   "title": "Liability Frameworks for Agentic AI Systems",
+   "authors": [
+    "MARCEL OSMOND"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SZhxWYzKb1",
+   "pdf_url": null
+  },
+  {
+   "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+   "authors": [
+    "Nitya Nadgir",
+    "Sayash Kapoor",
+    "Kangheng Liu",
+    "Peter Kirgis",
+    "Matilda Orona",
+    "Stephan Rabanser",
+    "Tilman Bayer",
+    "Abhishek Shetty",
+    "Yue Ling",
+    "Derrick Chan-Sew",
+    "Rumi Nakagawa",
+    "Saiteja Utpala",
+    "Zachary S Siegel",
+    "Arvind Narayanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qQVMqJ7oPL",
+   "pdf_url": null
+  },
+  {
+   "title": "Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing",
+   "authors": [
+    "Dvir Alsheich",
+    "Adar Peleg",
+    "Ben Hagag",
+    "Rom Himelstein",
+    "Amit LeVi",
+    "Avi Mendelson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XORQhMmKlQ",
+   "pdf_url": null
+  },
+  {
+   "title": "LinuxArena: A Control Setting for AI Agents in Live Production Software Environments",
+   "authors": [
+    "Tyler Tracy",
+    "Ram Potham",
+    "Nikolas Kuhn",
+    "Myles Heller",
+    "Anshul Khandelwal",
+    "Cody Rushing",
+    "Henri Lemoine",
+    "Miguel Brandão",
+    "Tomáš Turlík",
+    "Adam Hanson",
+    "Josh Hills",
+    "Amy Dieu-Am Ngo",
+    "Ram Rachum",
+    "Nik Mitchell",
+    "Falko Galperin",
+    "Oscar Sykes",
+    "Pip Arnott",
+    "Samuel Prieto Lima",
+    "Carlos Rafael Giudice",
+    "Matt Goldwater",
+    "Daniel J Popp",
+    "Drew de Wet",
+    "Ruben Castaing",
+    "Qi Guo",
+    "Douw Marx",
+    "Benjamin Shaffrey",
+    "Justin Shenk",
+    "Martin Milbradt",
+    "Hannah Meagher",
+    "Shaheen Ahmed-Chowdhury",
+    "Daniel O'Connell",
+    "Christopher William Canal",
+    "Buck Shlegeris",
+    "Aryan Bhatt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=omNEpTf4Mk",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM-Guided Planning for Multi-hop Reasoning over Multimodal Nuclear Regulatory Documents",
+   "authors": [
+    "mingyu jeon",
+    "Bokyeong Kim",
+    "Suwan Cho",
+    "Jae Young Suh",
+    "Yonggyun Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TH5RyVy3dP",
+   "pdf_url": null
+  },
+  {
+   "title": "LLMs Struggle to Rank Products Robustly",
+   "authors": [
+    "Kumail Alhamoud",
+    "Charikleia Moraitaki",
+    "Carlos Hinojosa",
+    "Jennifer Zhou",
+    "Yuexing Hao",
+    "Philip Torr",
+    "Adel Bibi",
+    "Marzyeh Ghassemi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XVQdqgLgiG",
+   "pdf_url": null
+  },
+  {
+   "title": "Lost in the Maze: Overcoming Context Limitations in Long- Horizon Agentic Search",
+   "authors": [
+    "Howard Yen",
+    "Yoonsang Lee",
+    "Ashwin Paranjape",
+    "Mengzhou Xia",
+    "Thejas Venkatesh",
+    "Jack Hessel",
+    "Danqi Chen",
+    "Yuhao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t2A9JCqQTs",
+   "pdf_url": null
+  },
+  {
+   "title": "MacArena: Benchmarking Computer Use Agents on an Online macOS Environment",
+   "authors": [
+    "Victor Muryn",
+    "Maksym Shamrai",
+    "Sofiia Mazepa",
+    "Yehor Khodysko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BBuPUEN4It",
+   "pdf_url": null
+  },
+  {
+   "title": "Making Open-Source Text LLM Watermarks Durable Against Merging",
+   "authors": [
+    "Luisa Scharff",
+    "Thibaud Gloaguen",
+    "Robin Staab",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qJjdMNghOE",
+   "pdf_url": null
+  },
+  {
+   "title": "Measuring Five-Nines Reliability: Sample-Efficient LLM Evaluation in Saturated Benchmarks",
+   "authors": [
+    "Eungyeup Kim",
+    "Chenchen Gu",
+    "Vashisth Tiwari",
+    "J Zico Kolter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xRxGzV3ZuW",
+   "pdf_url": null
+  },
+  {
+   "title": "Mecha-nudges for Machines",
+   "authors": [
+    "Giulio Frey",
+    "Kawin Ethayarajh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C3GZ1Wmnwf",
+   "pdf_url": null
+  },
+  {
+   "title": "Mechanism Design Is Not Enough: Prosocial Agents for Cooperative AI",
+   "authors": [
+    "Xuanqiang Angelo Huang",
+    "Charlie Tharas",
+    "Samuele Marro",
+    "Van Q. Truong",
+    "Bernhard Schölkopf",
+    "Emanuele La Malfa",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pzbIypLO3i",
+   "pdf_url": null
+  },
+  {
+   "title": "Memory-Induced Tool-Drift in LLM Agents",
+   "authors": [
+    "Mahavir Dabas",
+    "Jihyun Jeong",
+    "Ming Jin",
+    "Ruoxi Jia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1kWEZpjt3L",
+   "pdf_url": null
+  },
+  {
+   "title": "Meta-Harness: Post-Training Reliable Agent Systems via Harness Search",
+   "authors": [
+    "Yoonho Lee",
+    "Roshen Sanjay Nair",
+    "Qizheng Zhang",
+    "Kangwook Lee",
+    "Omar Khattab",
+    "Chelsea Finn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Tx03Dan7u",
+   "pdf_url": null
+  },
+  {
+   "title": "Minibinder Lab: The Reliability Gap Of Agents For Designing High Quality Protein Binders",
+   "authors": [
+    "Anda-Raluca Epure",
+    "Deepa Mal Korani",
+    "Jonathan G. Hedley",
+    "Maxim Secor",
+    "Alejo Nevado-Holgado",
+    "Philip Torr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TfGHVHLm0r",
+   "pdf_url": null
+  },
+  {
+   "title": "MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents",
+   "authors": [
+    "Pratibha Revankar",
+    "Kargi Chauhan",
+    "Jihye Kim",
+    "Sadiba Nusrat Nur",
+    "Vincent Siu",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KAtYLnOoo9",
+   "pdf_url": null
+  },
+  {
+   "title": "Mitigating Over-Personalization in Language Models via Structured Memory",
+   "authors": [
+    "Hakeem Hannoon",
+    "Andrew Zhao",
+    "Mihir Narayan",
+    "Sharvin Goyal",
+    "Ivaxi Sheth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UXZ59mtY7c",
+   "pdf_url": null
+  },
+  {
+   "title": "Mitigating Visual Hallucinations for Reliable Multimodal Agents",
+   "authors": [
+    "Sohyeon Kim",
+    "Sang Yeon Yoon",
+    "Kyeongbo Kong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n5v4ML21pB",
+   "pdf_url": null
+  },
+  {
+   "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
+   "authors": [
+    "Lawrence Keunho Jang",
+    "Andrew Keunwoo Jang",
+    "Jing Yu Koh",
+    "Ruslan Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=haHjinRMD1",
+   "pdf_url": null
+  },
+  {
+   "title": "NEST: Nascent Encoded Steganographic Thoughts",
+   "authors": [
+    "Artem Karpov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RBXaWqRBJs",
+   "pdf_url": null
+  },
+  {
+   "title": "Network-Level Prompt and Trait Leakage in Local Research Agents",
+   "authors": [
+    "Hyejun Jeong",
+    "Mohammadreza Teymoorianfard",
+    "Abhinav Kumar",
+    "Amir Houmansadr",
+    "Eugene Bagdasarian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JI60xm3aa3",
+   "pdf_url": null
+  },
+  {
+   "title": "NitroBox: Lightning-Fast Sandbox for Large-Scale RL Training",
+   "authors": [
+    "Yuzhou Nie",
+    "Ruilin Zhou",
+    "Zhaorun Chen",
+    "Jingyang Zhang",
+    "Yan Shao",
+    "Hongwei Li",
+    "Bo Li",
+    "Dawn Song",
+    "Wenbo Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fg7IC3UM4g",
+   "pdf_url": null
+  },
+  {
+   "title": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Flemming Kondrup",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ei9g5FG9jr",
+   "pdf_url": null
+  },
+  {
+   "title": "Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks",
+   "authors": [
+    "Lawrence Keunho Jang",
+    "Jing Yu Koh",
+    "Daniel Fried",
+    "Ruslan Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BuX2JHMCOB",
+   "pdf_url": null
+  },
+  {
+   "title": "Omission Constraints Decay While Commission Constraints Persist in Long-Context LLM Agents",
+   "authors": [
+    "Yeran Gamage"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kUqMGAl0bR",
+   "pdf_url": null
+  },
+  {
+   "title": "One Turn Too Late: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue",
+   "authors": [
+    "Xinjie Shen",
+    "Rongzhe Wei",
+    "Peizhi Niu",
+    "Haoyu Peter Wang",
+    "Ruihan Wu",
+    "Eli Chien",
+    "Bo Li",
+    "Pin-Yu Chen",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ng6eQl3eEf",
+   "pdf_url": null
+  },
+  {
+   "title": "Online Boundary-Aware Memory for Case-Based Reasoning Agents",
+   "authors": [
+    "Zheng Dong",
+    "Luming Shang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J7XUOIHBji",
+   "pdf_url": null
+  },
+  {
+   "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+   "authors": [
+    "Sayash Kapoor",
+    "Peter Kirgis",
+    "Andrew Schwartz",
+    "Stephan Rabanser",
+    "J.J. Allaire",
+    "Rishi Bommasani",
+    "Harry Coppock",
+    "Magda Dubois",
+    "Gillian K Hadfield",
+    "Andrew B. Hall",
+    "Sara Hooker",
+    "Seth Lazar",
+    "Steve Newman",
+    "Dimitris Papailiopoulos",
+    "Shoshannah Tekofsky",
+    "Helen Toner",
+    "Cozmin Ududec",
+    "Arvind Narayanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C596tx1wSV",
+   "pdf_url": null
+  },
+  {
+   "title": "OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data",
+   "authors": [
+    "Yuwen Du",
+    "Rui Ye",
+    "Shuo Tang",
+    "Xinyu Zhu",
+    "Yijun Lu",
+    "Yuzhu Cai",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XoYz1m75Pc",
+   "pdf_url": null
+  },
+  {
+   "title": "Out-of-Distribution Generalization of Risk Aversion in Language Models",
+   "authors": [
+    "Kristina Zhang",
+    "Junior Chinomso Okoroafor",
+    "Benjamin Maltbie",
+    "Andrew Lin",
+    "Abhitej Bokka",
+    "Elliott Thornley"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QAOt8ol9ol",
+   "pdf_url": null
+  },
+  {
+   "title": "Oversight is Not Compliance: Tacit Collusion in LLM Pricing Agents Under Antitrust Regulation",
+   "authors": [
+    "Meiri Anto",
+    "Juan J Vazquez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aPnAkoXjF2",
+   "pdf_url": null
+  },
+  {
+   "title": "Parameters as Agentic Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents",
+   "authors": [
+    "Zhenheng Tang",
+    "Fanjunduo Wei",
+    "Zichen TANG",
+    "Peijie Dong",
+    "Xiang Liu",
+    "Qian Wang",
+    "Xiaowen Chu",
+    "Bo Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ptIjkWmtl9",
+   "pdf_url": null
+  },
+  {
+   "title": "Peer-Preservation in Frontier Models",
+   "authors": [
+    "Yujin Potter",
+    "Nicholas Crispino",
+    "Vincent Siu",
+    "Chenguang Wang",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jofiD2Jrow",
+   "pdf_url": null
+  },
+  {
+   "title": "Plausible Deniability Guarantees for Whistleblowers",
+   "authors": [
+    "Leo Richter",
+    "Matt J. Kusner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nGSV0xakBj",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: LLM Social-Simulation Agents in the Wild Cannot Serve as Social Scientific Evidence Without an Identification Strategy",
+   "authors": [
+    "Zezheng Lin",
+    "Fengming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CXY3MuWDbm",
+   "pdf_url": null
+  },
+  {
+   "title": "Position: Stop Hardcoding Multi-Agent Workflows That General Agents Will Outgrow",
+   "authors": [
+    "Xisen Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Icz1RJ2t0j",
+   "pdf_url": null
+  },
+  {
+   "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
+   "authors": [
+    "Zhaoyang Yu",
+    "Jiayi Zhang",
+    "Huixue Su",
+    "Yufan Zhao",
+    "Yifan Wu",
+    "Mingyi Deng",
+    "Jinyu Xiang",
+    "Yizhang Lin",
+    "Fanqi Kong",
+    "Lingxiao Tang",
+    "Yuyu Luo",
+    "Bang Liu",
+    "Chenglin Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0m16rFaIWk",
+   "pdf_url": null
+  },
+  {
+   "title": "Red-Teaming Agent Execution Contexts: Open-World Security Evaluation on OpenClaw",
+   "authors": [
+    "Hongwei Yao",
+    "Yiming Liu",
+    "Yiling He",
+    "Bingrun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PpcTDVb0U8",
+   "pdf_url": null
+  },
+  {
+   "title": "Reliable to Expressive: A Curriculum for Rubric-Following Safety Judges",
+   "authors": [
+    "YongTaek Lim",
+    "hyeji choi",
+    "Minwoo Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aGBWGPjizg",
+   "pdf_url": null
+  },
+  {
+   "title": "Remote Control: AI Control with User Actions",
+   "authors": [
+    "Jou Barzdukas",
+    "Matthew Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=deckXUKlDF",
+   "pdf_url": null
+  },
+  {
+   "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+   "authors": [
+    "Babak Rahmani",
+    "Sebastian Dziadzio",
+    "Joschka Strüber",
+    "Sergio Hernández-Gutiérrez",
+    "Matthias Bethge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KTnZYPgaQz",
+   "pdf_url": null
+  },
+  {
+   "title": "Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure",
+   "authors": [
+    "Max Lamparth",
+    "Daniel Fein",
+    "Andreas Haupt",
+    "Marcel Hussing",
+    "Mykel Kochenderfer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bc2GsE6tay",
+   "pdf_url": null
+  },
+  {
+   "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
+   "authors": [
+    "Anas Mahmoud",
+    "MohammadHossein Rezaei",
+    "Zihao Wang",
+    "Anisha Gunjal",
+    "Bing Liu",
+    "Yunzhong He"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X5sPkeE60f",
+   "pdf_url": null
+  },
+  {
+   "title": "Robust Multi-Agent LLMs under Byzantine Faults",
+   "authors": [
+    "Haejoon Lee",
+    "Vincent-Daniel Yun",
+    "Hyeonho Oh",
+    "Dimitra Panagou",
+    "Sai Praneeth Karimireddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MgHy7f7VxT",
+   "pdf_url": null
+  },
+  {
+   "title": "SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation",
+   "authors": [
+    "Chenyang Zhu",
+    "Jiayu Yao",
+    "Kushal Chawla",
+    "Youbing Yin",
+    "Nathan Wolfe",
+    "Pengshan Cai",
+    "Jingyu Wu",
+    "Spencer Hong",
+    "Sangwoo Cho",
+    "Shi-Xiong Zhang",
+    "Daben Liu",
+    "Sambit Sahu",
+    "Erin Babinsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tXVNXhps8B",
+   "pdf_url": null
+  },
+  {
+   "title": "Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies",
+   "authors": [
+    "Mumuksh Tayal",
+    "Manan Tayal",
+    "Ravi Prakash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=glZK5wks9X",
+   "pdf_url": null
+  },
+  {
+   "title": "Safe Under Budget? Verification Budgets and Abstention Failures in Web Agents",
+   "authors": [
+    "Daoyuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Q9MHUPIKS5",
+   "pdf_url": null
+  },
+  {
+   "title": "SafeClawBench: An Operating-System Perspective on Evaluating the Security of Claw-like Agent Systems",
+   "authors": [
+    "Peizhi Niu",
+    "Shangding Gu",
+    "Wenjie Qu",
+    "Tianneng Shi",
+    "Yuankai Li",
+    "Ahmad Tawaha",
+    "Hend Alzahrani",
+    "Vincent Siu",
+    "Boyi Li",
+    "Chenguang Wang",
+    "Jiaheng Zhang",
+    "Basel Alomair",
+    "Ming Jin",
+    "Muhao Chen",
+    "Chi Wang",
+    "Costas Spanos",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pJJLXWy0MC",
+   "pdf_url": null
+  },
+  {
+   "title": "Same Action, Different Justification: Path-Based Authorization for Irreversible Agent Actions",
+   "authors": [
+    "Jungsoo Baek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mhYkItKAWj",
+   "pdf_url": null
+  },
+  {
+   "title": "Same Biology, Different Scores: Quantifying the Tool-Use Confound in Agentic Biology Evaluation",
+   "authors": [
+    "Alyssia Jovellanos",
+    "Martin Ciesielski-Listwan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IYEHHo5Yi6",
+   "pdf_url": null
+  },
+  {
+   "title": "Scaling Laws for Strategic Interactions",
+   "authors": [
+    "Joie Zhang",
+    "Danqi Chen",
+    "Peter Henderson",
+    "Lewis Hammond"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WyKCfdXB61",
+   "pdf_url": null
+  },
+  {
+   "title": "Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents",
+   "authors": [
+    "Zekun Wu",
+    "Adriano Koshiyama",
+    "Sahan Bulathwela",
+    "Maria Perez-Ortiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CWQ4G5Pdcr",
+   "pdf_url": null
+  },
+  {
+   "title": "SkillOptimizer: Agent Skill Optimization Through Subskills Without Task Supervision",
+   "authors": [
+    "Nicholas Crispino",
+    "Shubham Gaur",
+    "Xuefang Yang",
+    "Angela Yu",
+    "Berat Ercevik",
+    "Clara Sapugay",
+    "Yujin Potter",
+    "Dawn Song",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nZYF0aPAMP",
+   "pdf_url": null
+  },
+  {
+   "title": "SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts",
+   "authors": [
+    "Haocheng Xia",
+    "Yongjoo Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=waW0KyByrv",
+   "pdf_url": null
+  },
+  {
+   "title": "Smarter Saboteurs, Better Fixers: Scaling & Security in Linear Multi-Agent Workflows",
+   "authors": [
+    "Timothy McAllister",
+    "Sina Abdidizaji",
+    "Ivan Garibay",
+    "Ozlem Garibay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lVREKwl6Fm",
+   "pdf_url": null
+  },
+  {
+   "title": "Sockpuppetting: Jailbreaking LLMs by Combining Prefilling with Optimization",
+   "authors": [
+    "Asen Dotsinski",
+    "Panagiotis Eustratiadis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=isM0i37Wab",
+   "pdf_url": null
+  },
+  {
+   "title": "SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking",
+   "authors": [
+    "Jindong Li",
+    "Ying Liu",
+    "Yali Fu",
+    "Jinjing Zhu",
+    "Leyao Wang",
+    "Menglin Yang",
+    "Rex Ying"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iJ8t5nWrOM",
+   "pdf_url": null
+  },
+  {
+   "title": "Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models",
+   "authors": [
+    "Chen Xiong",
+    "Zhiyuan He",
+    "Pin-Yu Chen",
+    "Ching-Yun Ko",
+    "Tsung-Yi Ho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PkD0Pw8w1F",
+   "pdf_url": null
+  },
+  {
+   "title": "Stop Comparing LLM Agents Without Disclosing the Harness",
+   "authors": [
+    "Yunbei Zhang",
+    "Janet Wang",
+    "Yingqiang Ge",
+    "Weijie Xu",
+    "Jihun Hamm",
+    "Chandan K. Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ffKHSraOIK",
+   "pdf_url": null
+  },
+  {
+   "title": "Stop Reporting System-Level AI Reasoning as Individual Model Capability",
+   "authors": [
+    "Adhiraj Chhoda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jOhtJdUrwF",
+   "pdf_url": null
+  },
+  {
+   "title": "Structured Hallucination in Tool-Using Agents: Measuring and Mitigating LLM Synthesis Corruption in Production",
+   "authors": [
+    "Tung Thanh Hoang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CaJudGHxoR",
+   "pdf_url": null
+  },
+  {
+   "title": "SudoBench: A Contextual Authorization Benchmark for LLM Agents",
+   "authors": [
+    "Vincent Siu",
+    "Tianneng Shi",
+    "Shangding Gu",
+    "Zhun Wang",
+    "Dawn Song",
+    "Chenguang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=03z2bu1ruW",
+   "pdf_url": null
+  },
+  {
+   "title": "Temper and Tilt Lead to SLOP: Reward Hacking Mitigation with Inference-Time Alignment",
+   "authors": [
+    "Ye Wang",
+    "Jing Liu",
+    "Toshiaki Koike-Akino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o2FXghirw3",
+   "pdf_url": null
+  },
+  {
+   "title": "Terminal Agents Suffice for Enterprise Automation",
+   "authors": [
+    "Patrice Bechard",
+    "Orlando Marquez Ayala",
+    "Emily Chen",
+    "Jordan Skelton",
+    "Sagar Davasam",
+    "Srinivas Sunkara",
+    "Vikas Yadav",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vcNni1nw8X",
+   "pdf_url": null
+  },
+  {
+   "title": "The Best-Laid SCHEMEs: Coordinated Sabotage and Monitoring in Multi-Agent Systems",
+   "authors": [
+    "Nikolay Radev",
+    "Lennart J Haas",
+    "Benjamin Arnav",
+    "Pablo Bernabeu-Perez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s4OoQ4fdOu",
+   "pdf_url": null
+  },
+  {
+   "title": "The Monitorability Gap Between Reasoning in Thinking and Reasoning in the Output",
+   "authors": [
+    "Zora Che",
+    "David Lindner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5AbAwF6nX6",
+   "pdf_url": null
+  },
+  {
+   "title": "The Safety Illusion of Greedy Decoding: Diagnosing Booster's Compliant Leakage and a Phase-2 Mitigation",
+   "authors": [
+    "Tung Lam Tran",
+    "Muhammad Rifki Kurniawan",
+    "Christopher Kanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IfRzPgnO68",
+   "pdf_url": null
+  },
+  {
+   "title": "The Token Tax : Measuring the Diminishing Returns of Test-Time Compute in Agentic Pipelines",
+   "authors": [
+    "Kushagra Agrawal",
+    "Christian Beecks",
+    "Man-Fai Leung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8TKt1TYYDW",
+   "pdf_url": null
+  },
+  {
+   "title": "Thought Virus: Spreading Subliminal Biases in Multi-Agent Systems",
+   "authors": [
+    "Moritz Weckbecker",
+    "Jonas Müller",
+    "Ben Hagag",
+    "Michael Mulet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nPZr3hBQLr",
+   "pdf_url": null
+  },
+  {
+   "title": "Tool Selection Bias Amplifies in Multi-turn User–Agent Interactions",
+   "authors": [
+    "Nakyeong Yang",
+    "Junseok Kim",
+    "Kyomin Jung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a48agpdinD",
+   "pdf_url": null
+  },
+  {
+   "title": "Tool-Framing Bypasses LLM Safety: Procedural Abstraction Reduces Refusal Rates by Up to 40 Percentage Points Across Models",
+   "authors": [
+    "Kevin Power"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B3f7xk2vcw",
+   "pdf_url": null
+  },
+  {
+   "title": "ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents",
+   "authors": [
+    "Harsh Soni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JhaxRN8QDV",
+   "pdf_url": null
+  },
+  {
+   "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
+   "authors": [
+    "Zhiyuan Fan",
+    "TingHao YU",
+    "Yuanjun Cai",
+    "JiangTaoGuan",
+    "Yun Yang",
+    "Dingxin Hu",
+    "Jiang Zhou",
+    "Xing W",
+    "Zhuo Han",
+    "feng zhang",
+    "Lilin Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IuQPa79TmC",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Budget-Aware Agents: Do LLM Agents Know What They Will Spend?",
+   "authors": [
+    "Yuxiang Lin",
+    "Zihan Wang",
+    "Mengyang Liu",
+    "Yuxuan Shan",
+    "Longju Bai",
+    "Junyao Zhang",
+    "Xing Jin",
+    "Boshan Chen",
+    "Jinyan Su",
+    "Xingyao Wang",
+    "Jiaxin Pei",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rdxqBAeW1C",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Predictive Models of Strategic Behaviour in Large Language Model Agents",
+   "authors": [
+    "Jennifer Za",
+    "Aristeidis Panos",
+    "Jan Cuhel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lDjGusAKAo",
+   "pdf_url": null
+  },
+  {
+   "title": "TRACE: Capability-Targeted Agentic Training",
+   "authors": [
+    "Hangoo Kang",
+    "Tarun Suresh",
+    "Jon Saad-Falcon",
+    "Azalia Mirhoseini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p37UqCmcxG",
+   "pdf_url": null
+  },
+  {
+   "title": "TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories",
+   "authors": [
+    "Yen-Shan Chen",
+    "Sian-Yao Huang",
+    "Cheng-Lin Yang",
+    "Yun-Nung Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tt5NIC4H9n",
+   "pdf_url": null
+  },
+  {
+   "title": "Tracking the Behavioral Trajectories of Adapting Agents",
+   "authors": [
+    "Jonah Leshin",
+    "Manish Shah",
+    "Ian Timmis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2oR25RVeAB",
+   "pdf_url": null
+  },
+  {
+   "title": "Tracking the Truth: Object-Centric Spatio-Temporal Monitoring for Video Large Language Models",
+   "authors": [
+    "Tri Cao",
+    "Khoi M. Le",
+    "Thong Thanh Nguyen",
+    "Cong-Duy T Nguyen",
+    "Quynh Vo",
+    "Anh Tuan Luu",
+    "Chunyan Miao",
+    "See-Kiong Ng",
+    "Shuicheng YAN",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h3t25yHdPc",
+   "pdf_url": null
+  },
+  {
+   "title": "Training Language Agents to Learn from Experience",
+   "authors": [
+    "Yuval Shalev",
+    "Zifeng Ding",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oel9Vp1bNA",
+   "pdf_url": null
+  },
+  {
+   "title": "Training ML Models with Predictable Failures",
+   "authors": [
+    "Will Schwarzer",
+    "Scott Niekum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eAFDbSFdlp",
+   "pdf_url": null
+  },
+  {
+   "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
+   "authors": [
+    "Kristina Nikolić",
+    "Egor Zverev",
+    "Javier Rando",
+    "Matthew Jagielski",
+    "Edoardo Debenedetti",
+    "Florian Tramèr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u1YuIOK3eP",
+   "pdf_url": null
+  },
+  {
+   "title": "VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation",
+   "authors": [
+    "Harshil Patel",
+    "Kunal Pai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Sldm0szdA",
+   "pdf_url": null
+  },
+  {
+   "title": "VIGIL: A Reflective Runtime for Self-Healing LLM Agents",
+   "authors": [
+    "Christopher Cruz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bE8nRXcWC1",
+   "pdf_url": null
+  },
+  {
+   "title": "WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections",
+   "authors": [
+    "Tri Cao",
+    "Yulin Chen",
+    "Thanh Hieu Cao",
+    "Yibo Li",
+    "Khoi M. Le",
+    "Thong Thanh Nguyen",
+    "Yuexin Li",
+    "Yufei He",
+    "Yue Liu",
+    "Shuicheng YAN",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wjnoc49RpR",
+   "pdf_url": null
+  },
+  {
+   "title": "WARP: A Wrapper-Based, Adaptive, Realistic Pipeline for Reliable Web-Agent Robustness Testing",
+   "authors": [
+    "Jasmine Xinze Li",
+    "Ashton Chew",
+    "Maxwell Lin",
+    "Eliot Krzysztof Jones",
+    "Xiaohan Fu",
+    "Andy Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8fk9XYWtSQ",
+   "pdf_url": null
+  },
+  {
+   "title": "We Let Agents Compete and They Tried to Cheat. KernelGuard:Defending GPU Competitions from Adversarial Agentic Systems",
+   "authors": [
+    "Muhammed Emin Baslak",
+    "Erik Schultheis",
+    "Matej Sirovatka",
+    "Mark Saroufim",
+    "Alex L Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K0dAC7UaXL",
+   "pdf_url": null
+  },
+  {
+   "title": "Web Agents Leak Sensitive Data on Simple Scalable Websites",
+   "authors": [
+    "Zachary Yahn"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MrpuQjb1jm",
+   "pdf_url": null
+  },
+  {
+   "title": "WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents",
+   "authors": [
+    "Yulin Chen",
+    "Tri Cao",
+    "Haoran Li",
+    "Yibo Li",
+    "Yue Liu",
+    "Yufei He",
+    "Khoi M. Le",
+    "Yangqiu Song",
+    "Shuicheng YAN",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jM8p3cBjNF",
+   "pdf_url": null
+  },
+  {
+   "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+   "authors": [
+    "Imene Kerboua",
+    "Fatemeh Pesaran zadeh",
+    "Xing Han Lù",
+    "Weijian Qi",
+    "Alexander Miller",
+    "Junyi Song",
+    "Yunjia Tian",
+    "Dongjin Kang",
+    "Seyeon Choi",
+    "Marzia Nouri",
+    "Ewen Gueguen",
+    "Matteo Boglioni",
+    "Fengyuan Liu",
+    "Zeyi Liao",
+    "Mengqi Yuan",
+    "Yue Li",
+    "Alexandre Lacoste",
+    "Alexandre Drouin",
+    "Spandana Gella",
+    "Huan Sun",
+    "Gunhee Kim",
+    "Siva Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eMuJZXwAn1",
+   "pdf_url": null
+  },
+  {
+   "title": "WebPII: Benchmarking Visual PII Detection for Computer-Use Agents",
+   "authors": [
+    "Nathan J. Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=swGc97dOgh",
+   "pdf_url": null
+  },
+  {
+   "title": "What Can One Bad Tool Call Destroy? Measuring and Minimizing Blast Radius in Agentic Tool Use",
+   "authors": [
+    "Muhammet Anil Yagiz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MYvsxnxbCf",
+   "pdf_url": null
+  },
+  {
+   "title": "What Game-Theoretic Benchmarks Miss: Strategic Silence in Multi-Agent LLMs",
+   "authors": [
+    "Jerick Shi",
+    "Terry Jingchen Zhang",
+    "Vincent Conitzer",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xAdTMVjVOc",
+   "pdf_url": null
+  },
+  {
+   "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+   "authors": [
+    "Corrado Rainone",
+    "Davide Belli",
+    "Bence Major",
+    "Arash Behboodi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MtFxCRohjO",
+   "pdf_url": null
+  },
+  {
+   "title": "When Do Covert Channels Emerge? Probing Steganographic Capacity in Multimodal Agents via Diffusion VAE Latents",
+   "authors": [
+    "Catherine Ge-Wang",
+    "Tushar Nagar",
+    "Joy Zheyun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x1CibDomyo",
+   "pdf_url": null
+  },
+  {
+   "title": "When Reasoning Traces Become Performative: Step-Level Evidence that Chain-of-Thought Is an Imperfect Oversight Channel",
+   "authors": [
+    "Wenkai Li",
+    "Fan Yang",
+    "Ananya Hazarika",
+    "Shaunak A. Mehta",
+    "Koichi Onoue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vpFCR2lvfz",
+   "pdf_url": null
+  },
+  {
+   "title": "Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs",
+   "authors": [
+    "Nafiseh Nikeghbal",
+    "Amir Hossein Kargaran",
+    "Shaghayegh Kolli",
+    "Jana Diesner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5TbCmcKqCb",
+   "pdf_url": null
+  },
+  {
+   "title": "Widening the Gap: Exploiting LLM Quantization via Outlier Injection",
+   "authors": [
+    "Xiaohua Zhan",
+    "Kazuki Egashira",
+    "Robin Staab",
+    "Mark Vero",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VSxP0tARSE",
+   "pdf_url": null
+  },
+  {
+   "title": "WinDOM: Self-Family Distillation for Small-Model GUI Grounding",
+   "authors": [
+    "Chengheng Li Chen",
+    "Zhiqian Zhou",
+    "Hao Chen",
+    "Nicolas Chauvin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wqful6F0Em",
+   "pdf_url": null
+  },
+  {
+   "title": "Within-Episode Failure Recovery in LLM Agents via Progress-Gated Dual-Process Routing",
+   "authors": [
+    "Ankush Kadu",
+    "Aswanth Krishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u3I4CRwe6D",
+   "pdf_url": null
+  },
+  {
+   "title": "WorldFork: Trace-Auditable Forecasting Agents in Open-Ended Domains",
+   "authors": [
+    "Hanson Wen",
+    "James Gui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8CIx4Vzde5",
+   "pdf_url": null
+  },
+  {
+   "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+   "authors": [
+    "Zijun Wang",
+    "Haoqin Tu",
+    "Letian Zhang",
+    "Hardy Chen",
+    "Juncheng Wu",
+    "Xiangyan Liu",
+    "Zhenlong Yuan",
+    "Tianyu Pang",
+    "Michael Qizhe Shieh",
+    "Fengze Liu",
+    "Zeyu Zheng",
+    "Huaxiu Yao",
+    "Yuyin Zhou",
+    "Cihang Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VcDfDzmqlf",
+   "pdf_url": null
+  },
+  {
+   "title": "Your Cursor is Not Secure: Command Line Interface Agent Can Expose Realistic Risks Through Tactics, Techniques, and Procedures",
+   "authors": [
+    "Weidi Luo",
+    "Qiming Zhang",
+    "Tianyu Lu",
+    "Xiaogeng Liu",
+    "Bin Hu",
+    "CHIU Hung Chun",
+    "Siyuan Ma",
+    "Yizhe Zhang",
+    "Xusheng Xiao",
+    "Yinzhi Cao",
+    "Zhen Xiang",
+    "Chaowei Xiao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MeBiVpGsjy",
+   "pdf_url": null
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/QUESTION",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:40.721Z",
+ "paper_count": 37,
+ "papers": [
+  {
+   "title": "[TINY] Building Bridges of Thought: Using the Power of Association to Inspire Creativity in Large Language Models",
+   "authors": [
+    "Fang-Yi Su",
+    "Ching Chieh Tsao",
+    "Jung-Hsien Chiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CccKClnKcy",
+   "pdf_url": "https://openreview.net/pdf?id=CccKClnKcy"
+  },
+  {
+   "title": "[TINY] Vision language models can implicitly quantify aleatoric uncertainty",
+   "authors": [
+    "Xi Wang",
+    "Eric Nalisnick"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BkWVcXevTs",
+   "pdf_url": "https://openreview.net/pdf?id=BkWVcXevTs"
+  },
+  {
+   "title": "Adaptive Elicitation of Latent Information Using Natural Language",
+   "authors": [
+    "Jimmy Wang",
+    "Thomas P Zollo",
+    "Richard Zemel",
+    "Hongseok Namkoong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=63c2erbMoc",
+   "pdf_url": "https://openreview.net/pdf?id=63c2erbMoc"
+  },
+  {
+   "title": "Addressing Pitfalls in the Evaluation of Uncertainty Estimation Methods for Natural Language Generation",
+   "authors": [
+    "Mykyta Ielanskyi",
+    "Kajetan Schweighofer",
+    "Lukas Aichberger",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hbIpwrdfE1",
+   "pdf_url": "https://openreview.net/pdf?id=hbIpwrdfE1"
+  },
+  {
+   "title": "Assessing Confidence in Large Language Models by Classifying Task Correctness using Similarity Features",
+   "authors": [
+    "Debarun Bhattacharjya",
+    "Balaji Ganesan",
+    "Junkyu Lee",
+    "Radu Marinescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DirbdPbGhv",
+   "pdf_url": "https://openreview.net/pdf?id=DirbdPbGhv"
+  },
+  {
+   "title": "Can Your Uncertainty Scores Detect Hallucinated Entity?",
+   "authors": [
+    "Min-Hsuan Yeh",
+    "Max Kamachee",
+    "Seongheon Park",
+    "Yixuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xoGkhJAaXC",
+   "pdf_url": "https://openreview.net/pdf?id=xoGkhJAaXC"
+  },
+  {
+   "title": "Conformal Structured Prediction",
+   "authors": [
+    "Botong Zhang",
+    "Shuo Li",
+    "Osbert Bastani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f8onX1abP2",
+   "pdf_url": "https://openreview.net/pdf?id=f8onX1abP2"
+  },
+  {
+   "title": "Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty",
+   "authors": [
+    "Kiana Avestimehr",
+    "Emily Aye",
+    "Zalan Fabian",
+    "Erum Mushtaq"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2truTpHZkV",
+   "pdf_url": "https://openreview.net/pdf?id=2truTpHZkV"
+  },
+  {
+   "title": "FastRM: An efficient and automatic explainability framework for multimodal generative models",
+   "authors": [
+    "Gabriela Ben-Melech Stan",
+    "Estelle Aflalo",
+    "Man Luo",
+    "Shachar Rosenman",
+    "Tiep Le",
+    "Sayak Paul",
+    "Shao-Yen Tseng",
+    "Vasudev Lal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7JGOp2fReO",
+   "pdf_url": "https://openreview.net/pdf?id=7JGOp2fReO"
+  },
+  {
+   "title": "Finetuning Language Models to Emit Linguistic Expressions of Uncertainty",
+   "authors": [
+    "Arslan Chaudhry",
+    "Sridhar Thiagarajan",
+    "Dilan Gorur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eXkLpsoy54",
+   "pdf_url": "https://openreview.net/pdf?id=eXkLpsoy54"
+  },
+  {
+   "title": "Generative Uncertainty in Diffusion Models",
+   "authors": [
+    "Metod Jazbec",
+    "Eliot Wong-Toi",
+    "Guoxuan Xia",
+    "Dan Zhang",
+    "Eric Nalisnick",
+    "Stephan Mandt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K54VkvQhSN",
+   "pdf_url": "https://openreview.net/pdf?id=K54VkvQhSN"
+  },
+  {
+   "title": "How to Steer LLM Latents for Hallucination Detection?",
+   "authors": [
+    "Seongheon Park",
+    "Xuefeng Du",
+    "Min-Hsuan Yeh",
+    "Haobo Wang",
+    "Yixuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jZRxkOgnC4",
+   "pdf_url": "https://openreview.net/pdf?id=jZRxkOgnC4"
+  },
+  {
+   "title": "Hybrid Preference Optimization for Alignment: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration",
+   "authors": [
+    "Avinandan Bose",
+    "Zhihan Xiong",
+    "Aadirupa Saha",
+    "Simon Shaolei Du",
+    "Maryam Fazel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YBBXsVta2x",
+   "pdf_url": "https://openreview.net/pdf?id=YBBXsVta2x"
+  },
+  {
+   "title": "Learning on LLM Output Signatures for Gray Box LLM Behavior Analysis",
+   "authors": [
+    "Guy Bar-Shalom",
+    "Fabrizio Frasca",
+    "Derek Lim",
+    "Yoav Gelberg",
+    "Yftah Ziser",
+    "Ran El-Yaniv",
+    "Gal Chechik",
+    "Haggai Maron"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VVNl7O7jCu",
+   "pdf_url": "https://openreview.net/pdf?id=VVNl7O7jCu"
+  },
+  {
+   "title": "LongProLIP: A Probabilistic Vision-Language Model with Long Context Text",
+   "authors": [
+    "Sanghyuk Chun",
+    "Sangdoo Yun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jfwxBVBCiD",
+   "pdf_url": "https://openreview.net/pdf?id=jfwxBVBCiD"
+  },
+  {
+   "title": "Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods",
+   "authors": [
+    "Nicola Cecere",
+    "Andrea Bacciu",
+    "Ignacio Fernández-Tobías",
+    "Amin Mantrach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=spKsZ1jRej",
+   "pdf_url": "https://openreview.net/pdf?id=spKsZ1jRej"
+  },
+  {
+   "title": "On Verbalized Confidence Scores for LLMs",
+   "authors": [
+    "Daniel Yang",
+    "Yao-Hung Hubert Tsai",
+    "Makoto Yamada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CVRdNQvFPE",
+   "pdf_url": "https://openreview.net/pdf?id=CVRdNQvFPE"
+  },
+  {
+   "title": "Predictive Inference Is Really Free with In-Context Learning",
+   "authors": [
+    "Sohom Mukherjee",
+    "Ivane Antonov",
+    "Kai Günder",
+    "Magnus Josef Maichle"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FGz2vo4lU6",
+   "pdf_url": "https://openreview.net/pdf?id=FGz2vo4lU6"
+  },
+  {
+   "title": "Prune 'n Predict: Optimizing LLM Decision-making with Conformal Prediction",
+   "authors": [
+    "Harit Vishwakarma",
+    "Alan Mishler",
+    "Thomas Cook",
+    "Niccolo Dalmasso",
+    "Natraj Raman",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gENDUvkytD",
+   "pdf_url": "https://openreview.net/pdf?id=gENDUvkytD"
+  },
+  {
+   "title": "Rethinking Uncertainty Estimation in Natural Language Generation",
+   "authors": [
+    "Lukas Aichberger",
+    "Kajetan Schweighofer",
+    "Sepp Hochreiter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iBKWqXCSFA",
+   "pdf_url": "https://openreview.net/pdf?id=iBKWqXCSFA"
+  },
+  {
+   "title": "Sample-Focused Approach for Robust Uncertainty Quantification in LLMs",
+   "authors": [
+    "Roman Vashurin",
+    "Maiya Goloburda",
+    "Preslav Nakov",
+    "Artem Shelmanov",
+    "Maxim Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vawddGxbtr",
+   "pdf_url": "https://openreview.net/pdf?id=vawddGxbtr"
+  },
+  {
+   "title": "Scalable Thompson Sampling via Ensemble++",
+   "authors": [
+    "Yingru Li",
+    "Jiawei Xu",
+    "Baoxiang Wang",
+    "Zhi-Quan Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GyGtsd1MYS",
+   "pdf_url": "https://openreview.net/pdf?id=GyGtsd1MYS"
+  },
+  {
+   "title": "Semantic-Level Confidence Calibration of Language Models via Temperature Scaling",
+   "authors": [
+    "Tom A. Lamb",
+    "Desi R. Ivanova",
+    "Philip Torr",
+    "Tim G. J. Rudner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=22UNXHzBgt",
+   "pdf_url": "https://openreview.net/pdf?id=22UNXHzBgt"
+  },
+  {
+   "title": "TINY: Rethinking Selection Bias in LLMs:  Quantification and Mitigation using Efficient Majority Voting",
+   "authors": [
+    "Blessed Guda",
+    "Lawrence Francis",
+    "Gabrial Zencha Ashungafac",
+    "Carlee Joe-Wong",
+    "Moise Busogi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pndOF7p9iw",
+   "pdf_url": "https://openreview.net/pdf?id=pndOF7p9iw"
+  },
+  {
+   "title": "TINY: Semantic-based Uncertainty Quantification in LLMS: A Case Study on Medical Explanation Generation Task.",
+   "authors": [
+    "Nicholas Kian Boon Tan",
+    "Mehul Motani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=54xTSlq9ts",
+   "pdf_url": "https://openreview.net/pdf?id=54xTSlq9ts"
+  },
+  {
+   "title": "To Retrieve or Not to Retrieve? Uncertainty Detection for Dynamic Retrieval Augmented Generation",
+   "authors": [
+    "Kaustubh Dhole"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nTcpR9ls01",
+   "pdf_url": "https://openreview.net/pdf?id=nTcpR9ls01"
+  },
+  {
+   "title": "Toward Trustworthy Neural Program Synthesis",
+   "authors": [
+    "Wen-Ding Li",
+    "Darren Yan Key",
+    "Kevin Ellis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DPtaZJ72T5",
+   "pdf_url": "https://openreview.net/pdf?id=DPtaZJ72T5"
+  },
+  {
+   "title": "Towards Lighter and Robust Evaluation for Retrieval Augmented Generation",
+   "authors": [
+    "Alex-Răzvan Ispas",
+    "Charles-Elie Simon",
+    "Fabien Caspani",
+    "Vincent Guigue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3XWwf65dFW",
+   "pdf_url": "https://openreview.net/pdf?id=3XWwf65dFW"
+  },
+  {
+   "title": "Training-Free Bayesianization for Low-Rank Adapters of Large Language Models",
+   "authors": [
+    "Haizhou Shi",
+    "Yibin Wang",
+    "Ligong Han",
+    "Huan Zhang",
+    "Hao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KlTOctRctg",
+   "pdf_url": "https://openreview.net/pdf?id=KlTOctRctg"
+  },
+  {
+   "title": "Uncertainty of Vision Medical Foundation Models",
+   "authors": [
+    "Haoxu Huang",
+    "Narges Razavian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8GfLSBhCeP",
+   "pdf_url": "https://openreview.net/pdf?id=8GfLSBhCeP"
+  },
+  {
+   "title": "Uncertainty Quantification for MLLMs",
+   "authors": [
+    "Gregory Kang Ruey Lau",
+    "Hieu Dao",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vCqtd8ksh3",
+   "pdf_url": "https://openreview.net/pdf?id=vCqtd8ksh3"
+  },
+  {
+   "title": "Uncertainty quantification in fine-tuned LLMs using LoRA ensembles",
+   "authors": [
+    "Oleksandr Balabanov",
+    "Hampus Linander"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L8KaEqT70q",
+   "pdf_url": "https://openreview.net/pdf?id=L8KaEqT70q"
+  },
+  {
+   "title": "Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models",
+   "authors": [
+    "Omer Belhasin",
+    "Idan Kligvasser",
+    "George Leifman",
+    "Regev Cohen",
+    "Erin Rainaldi",
+    "Li-Fang Cheng",
+    "Nishant Verma",
+    "Paul Varghese",
+    "Ehud Rivlin",
+    "Michael Elad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zwPhupKedi",
+   "pdf_url": "https://openreview.net/pdf?id=zwPhupKedi"
+  },
+  {
+   "title": "Uncertainty-Aware Step-wise Verification with Generative Reward Models",
+   "authors": [
+    "Zihuiwen Ye",
+    "Luckeciano Carvalho Melo",
+    "Younesse Kaddar",
+    "Phil Blunsom",
+    "Sam Staton",
+    "Yarin Gal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6YICujbAtG",
+   "pdf_url": "https://openreview.net/pdf?id=6YICujbAtG"
+  },
+  {
+   "title": "Understanding Multimodal LLMs Under Distribution Shifts: An Information-Theoretic Approach",
+   "authors": [
+    "Changdae Oh",
+    "Zhen Fang",
+    "Shawn Im",
+    "Xuefeng Du",
+    "Yixuan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eADZAv2y4P",
+   "pdf_url": "https://openreview.net/pdf?id=eADZAv2y4P"
+  },
+  {
+   "title": "Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models",
+   "authors": [
+    "Ze Yu Zhang",
+    "Arun Verma",
+    "Finale Doshi-Velez",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z8E2JQW3QG",
+   "pdf_url": "https://openreview.net/pdf?id=Z8E2JQW3QG"
+  },
+  {
+   "title": "Understanding the Sources of Uncertainty for Large Language and Multimodal Models",
+   "authors": [
+    "Ziran Yang",
+    "Shibo Hao",
+    "Hao Sun",
+    "Lai Jiang",
+    "Qiyue Gao",
+    "Yian Ma",
+    "Zhiting Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5By0rus8z7",
+   "pdf_url": "https://openreview.net/pdf?id=5By0rus8z7"
+  }
+ ]
+}

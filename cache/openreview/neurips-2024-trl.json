@@ -1,0 +1,697 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/TRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:12.877Z",
+ "paper_count": 59,
+ "papers": [
+  {
+   "title": "AdapTable: Test-Time Adaptation for Tabular Data via Shift-Aware Uncertainty Calibrator and Label Distribution Handler",
+   "authors": [
+    "Changhun Kim",
+    "Taewon Kim",
+    "Seungyeon Woo",
+    "June Yong Yang",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yhD2icebZ0",
+   "pdf_url": "https://openreview.net/pdf?id=yhD2icebZ0"
+  },
+  {
+   "title": "Adapting TabPFN for Zero-Inflated Metagenomic Data",
+   "authors": [
+    "Giulia Perciballi",
+    "Federica Granese",
+    "Ahmad Fall",
+    "Farida ZEHRAOUI",
+    "Edi Prifti",
+    "Jean-Daniel Zucker"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3I0bVvUj25",
+   "pdf_url": "https://openreview.net/pdf?id=3I0bVvUj25"
+  },
+  {
+   "title": "AGATa: Attention-Guided Augmentation for Tabular Data in Contrastive Learning",
+   "authors": [
+    "Moonjung Eo",
+    "Kyungeun Lee",
+    "Min-Kook Suh",
+    "Hye-Seung Cho",
+    "Ye Seul Sim",
+    "Woohyung Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l5VGHbRVW0",
+   "pdf_url": "https://openreview.net/pdf?id=l5VGHbRVW0"
+  },
+  {
+   "title": "Augmenting Small-size Tabular Data with Class-Specific Energy-Based Models",
+   "authors": [
+    "Andrei Margeloiu",
+    "Xiangjian Jiang",
+    "Nikola Simidjievski",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WONAFkmGcm",
+   "pdf_url": "https://openreview.net/pdf?id=WONAFkmGcm"
+  },
+  {
+   "title": "Automating Enterprise Data Engineering with LLMs",
+   "authors": [
+    "Jan-Micha Bodensohn",
+    "Ulf Brackmann",
+    "Liane Vogel",
+    "Anupam Sanghi",
+    "Carsten Binnig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m85fYEJtDc",
+   "pdf_url": "https://openreview.net/pdf?id=m85fYEJtDc"
+  },
+  {
+   "title": "Benchmarking table comprehension in the wild",
+   "authors": [
+    "Yikang Pan",
+    "Yi Zhu",
+    "Rand Xie",
+    "Yizhi Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NbHPP4sf1m",
+   "pdf_url": "https://openreview.net/pdf?id=NbHPP4sf1m"
+  },
+  {
+   "title": "Data-Centric Text-to-SQL with Large Language Models",
+   "authors": [
+    "Zezhou Huang",
+    "Shuo Zhang",
+    "Kechen Liu",
+    "Eugene Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gDKIjZcg93",
+   "pdf_url": "https://openreview.net/pdf?id=gDKIjZcg93"
+  },
+  {
+   "title": "Distributionally robust self-supervised learning for tabular data",
+   "authors": [
+    "Shantanu Ghosh",
+    "Tiankang Xie",
+    "Mikhail Kuznetsov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=71u8OvjYbZ",
+   "pdf_url": "https://openreview.net/pdf?id=71u8OvjYbZ"
+  },
+  {
+   "title": "Drift-Resilient TabPFN: In-Context Learning Temporal Distribution Shifts on Tabular Data",
+   "authors": [
+    "David Schnurr",
+    "Kai Helli",
+    "Noah Hollmann",
+    "Samuel Müller",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ud5YBKY1vJ",
+   "pdf_url": "https://openreview.net/pdf?id=ud5YBKY1vJ"
+  },
+  {
+   "title": "DynoClass: A Dynamic Table-Class Detection System Without the Need for Predefined Ontologies",
+   "authors": [
+    "Haonan Wang",
+    "Eugene Wu",
+    "Kechen Liu",
+    "Jiaxiang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r45TbawHl8",
+   "pdf_url": "https://openreview.net/pdf?id=r45TbawHl8"
+  },
+  {
+   "title": "Enhancing Biomedical Schema Matching with LLM-based Training Data Generation",
+   "authors": [
+    "Yurong Liu",
+    "Aécio Santos",
+    "Eduardo H. M. Pena",
+    "Roque Lopez",
+    "Eden Wu",
+    "Juliana Freire"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RMZVUP7NgL",
+   "pdf_url": "https://openreview.net/pdf?id=RMZVUP7NgL"
+  },
+  {
+   "title": "Enhancing Table Representations with LLM-powered Synthetic Data Generation",
+   "authors": [
+    "Dayu Yang",
+    "Natawut Monaikul",
+    "Amanda Ding",
+    "Bozhao Tan",
+    "Kishore Mosaliganti",
+    "Giri Iyengar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h9465s0xu7",
+   "pdf_url": "https://openreview.net/pdf?id=h9465s0xu7"
+  },
+  {
+   "title": "Expertise-Centric Prompting Framework for Financial Tabular Data Generation using Pre-trained Large Language Models",
+   "authors": [
+    "Subin Kim",
+    "Jungmin Son",
+    "Minyoung Jung",
+    "Youngjun Kwak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N3o3jF9H0G",
+   "pdf_url": "https://openreview.net/pdf?id=N3o3jF9H0G"
+  },
+  {
+   "title": "Exploration of autoregressive models for in-context learning on tabular data",
+   "authors": [
+    "Stefan K. Baur",
+    "Sohyeong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4dOJ0PRY7R",
+   "pdf_url": "https://openreview.net/pdf?id=4dOJ0PRY7R"
+  },
+  {
+   "title": "From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical Tabular Data",
+   "authors": [
+    "Sazan Mahbub",
+    "Caleb Ellington",
+    "Sina Alinejad",
+    "Kevin Wen",
+    "Yingtao Luo",
+    "Ben Lengerich",
+    "Eric P. Xing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BnKvIn8JKl",
+   "pdf_url": "https://openreview.net/pdf?id=BnKvIn8JKl"
+  },
+  {
+   "title": "GAMformer: Exploring In-Context Learning for Generalized Additive Models",
+   "authors": [
+    "Andreas C Mueller",
+    "Julien Siems",
+    "Harsha Nori",
+    "David Salinas",
+    "Arber Zela",
+    "Rich Caruana",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W2CkzaqQnG",
+   "pdf_url": "https://openreview.net/pdf?id=W2CkzaqQnG"
+  },
+  {
+   "title": "HySem: A context length optimized LLM pipeline for unstructured tabular extraction",
+   "authors": [
+    "Narayanan PP",
+    "Anantharaman Palacode Narayana Iyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1f6SIVYExy",
+   "pdf_url": "https://openreview.net/pdf?id=1f6SIVYExy"
+  },
+  {
+   "title": "ICE-T: Interactions-aware Cross-column Contrastive Embedding for Heterogeneous Tabular Datasets",
+   "authors": [
+    "Tomas Tokar",
+    "Scott Sanner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ny1XtbcGNV",
+   "pdf_url": "https://openreview.net/pdf?id=ny1XtbcGNV"
+  },
+  {
+   "title": "Improving LLM Group Fairness on Tabular Data via In-Context Learning",
+   "authors": [
+    "Valeriia Cherepanova",
+    "Chia-Jung Lee",
+    "Nil-Jana Akpinar",
+    "Riccardo Fogliato",
+    "Martin Andres Bertran",
+    "Michael Kearns",
+    "James Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m6TD8EJKax",
+   "pdf_url": "https://openreview.net/pdf?id=m6TD8EJKax"
+  },
+  {
+   "title": "Large Language Models Engineer Too Many Simple Features for Tabular Data",
+   "authors": [
+    "Jaris Küken",
+    "Lennart Purucker",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xzEB47W6VS",
+   "pdf_url": "https://openreview.net/pdf?id=xzEB47W6VS"
+  },
+  {
+   "title": "Learnable Numerical Input Normalization for Tabular Representation Learning based on B-splines",
+   "authors": [
+    "Min-Kook Suh",
+    "Moonjung Eo",
+    "Ye Seul Sim",
+    "Woohyung Lim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UXIjKZwJts",
+   "pdf_url": "https://openreview.net/pdf?id=UXIjKZwJts"
+  },
+  {
+   "title": "Learning Metadata-Agnostic Representations for Text-to-SQL In-Context Example Selection",
+   "authors": [
+    "Chuhong Mai",
+    "Ro-ee Tal",
+    "Thahir Mohamed"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HW91Uvfuoh",
+   "pdf_url": "https://openreview.net/pdf?id=HW91Uvfuoh"
+  },
+  {
+   "title": "Lightweight Correlation-Aware Table Compression",
+   "authors": [
+    "Mihail Stoian",
+    "Alexander van Renen",
+    "Jan Kobiolka",
+    "Ping-Lin Kuo",
+    "Josif Grabocka",
+    "Andreas Kipf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z7eIn3aShi",
+   "pdf_url": "https://openreview.net/pdf?id=z7eIn3aShi"
+  },
+  {
+   "title": "LLM Embeddings Improve Test-time Adaptation to Tabular $Y|X$-Shifts",
+   "authors": [
+    "Yibo Zeng",
+    "Jiashuo Liu",
+    "Henry Lam",
+    "Hongseok Namkoong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DQn3ubkN2B",
+   "pdf_url": "https://openreview.net/pdf?id=DQn3ubkN2B"
+  },
+  {
+   "title": "Matchmaker: Self-Improving Compositional LLM Programs for Table Schema Matching",
+   "authors": [
+    "Nabeel Seedat",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KCklcYUlLb",
+   "pdf_url": "https://openreview.net/pdf?id=KCklcYUlLb"
+  },
+  {
+   "title": "MotherNet: Fast Training and Inference via Hyper-Network Transformers",
+   "authors": [
+    "Andreas C Mueller",
+    "Carlo A Curino",
+    "Raghu Ramakrishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QYdXAN3mLH",
+   "pdf_url": "https://openreview.net/pdf?id=QYdXAN3mLH"
+  },
+  {
+   "title": "MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation",
+   "authors": [
+    "Satya Krishna Gorti",
+    "Ilan Gofman",
+    "Zhaoyan Liu",
+    "Jiapeng Wu",
+    "Noël Vouitsis",
+    "Guangwei Yu",
+    "Jesse C. Cresswell",
+    "Rasa Hosseinzadeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RubZlwPv6D",
+   "pdf_url": "https://openreview.net/pdf?id=RubZlwPv6D"
+  },
+  {
+   "title": "Multi-Stage QLoRA with Augmented Structured Dialogue Corpora: Efficient and Improved Conversational Healthcare AI",
+   "authors": [
+    "Dasun Athukoralage",
+    "Thushari Atapattu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RPx7L1uMYq",
+   "pdf_url": "https://openreview.net/pdf?id=RPx7L1uMYq"
+  },
+  {
+   "title": "On Short Textual Value Column Representation Using Symbol Level Language Models",
+   "authors": [
+    "Ron Begleiter",
+    "Nathan Roll"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zuArE2o9CH",
+   "pdf_url": "https://openreview.net/pdf?id=zuArE2o9CH"
+  },
+  {
+   "title": "PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization",
+   "authors": [
+    "Marco Spinaci",
+    "Marek Polewczyk",
+    "Johannes Hoffart",
+    "Markus C. Kohler",
+    "Sam Thelin",
+    "Tassilo Klein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TSZQvknbLO",
+   "pdf_url": "https://openreview.net/pdf?id=TSZQvknbLO"
+  },
+  {
+   "title": "PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning",
+   "authors": [
+    "Weihua Hu",
+    "Yiwen Yuan",
+    "Zecheng Zhang",
+    "Akihiro Nitta",
+    "Kaidi Cao",
+    "Vid Kocijan",
+    "Jinu Sunil",
+    "Jure Leskovec",
+    "Matthias Fey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2ZHKA9xo8V",
+   "pdf_url": "https://openreview.net/pdf?id=2ZHKA9xo8V"
+  },
+  {
+   "title": "RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph",
+   "authors": [
+    "Lindsey Linxi Wei",
+    "Guorui Xiao",
+    "Magdalena Balazinska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=unlufkzs7v",
+   "pdf_url": "https://openreview.net/pdf?id=unlufkzs7v"
+  },
+  {
+   "title": "Recurrent Interpolants for Probabilistic Time Series Prediction",
+   "authors": [
+    "Yu Chen",
+    "Marin Biloš",
+    "Sarthak Mittal",
+    "Wei Deng",
+    "Kashif Rasul",
+    "Anderson Schneider"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gYNpjdaN5j",
+   "pdf_url": "https://openreview.net/pdf?id=gYNpjdaN5j"
+  },
+  {
+   "title": "Relational Data Generation with Graph Neural Networks and Latent Diffusion Models",
+   "authors": [
+    "Valter Hudovernik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MNLR2NYN2Z",
+   "pdf_url": "https://openreview.net/pdf?id=MNLR2NYN2Z"
+  },
+  {
+   "title": "Relational Deep Learning: Graph Representation Learning on Relational Databases",
+   "authors": [
+    "Joshua Robinson",
+    "Rishabh Ranjan",
+    "Weihua Hu",
+    "Kexin Huang",
+    "Jiaqi Han",
+    "Alejandro Dobles",
+    "Matthias Fey",
+    "Jan Eric Lenssen",
+    "Yiwen Yuan",
+    "Zecheng Zhang",
+    "Xinwei He",
+    "Jure Leskovec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fpWAVLBUKT",
+   "pdf_url": "https://openreview.net/pdf?id=fpWAVLBUKT"
+  },
+  {
+   "title": "SALT: Sales Autocompletion Linked Business Tables Dataset",
+   "authors": [
+    "Tassilo Klein",
+    "Clemens Biehl",
+    "Margarida Costa",
+    "Andre Sres",
+    "Jonas Kolk",
+    "Johannes Hoffart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZbELpkWIr",
+   "pdf_url": "https://openreview.net/pdf?id=UZbELpkWIr"
+  },
+  {
+   "title": "Scalable Representation Learning for Multimodal Tabular Transactions",
+   "authors": [
+    "Natraj Raman",
+    "Sumitra Ganesh",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QkPZ0sFgsy",
+   "pdf_url": "https://openreview.net/pdf?id=QkPZ0sFgsy"
+  },
+  {
+   "title": "Scaling Generative Tabular Learning for Large Language Models",
+   "authors": [
+    "Yiming Sun",
+    "Xumeng Wen",
+    "Shun Zheng",
+    "Xiaowei Jia",
+    "Jiang Bian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GyiIAIcOUC",
+   "pdf_url": "https://openreview.net/pdf?id=GyiIAIcOUC"
+  },
+  {
+   "title": "Sparsely Connected Layers for Financial Tabular Data",
+   "authors": [
+    "Mohammed Abdulrahman",
+    "Hui Chen",
+    "Yin WANG"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nOlnGAdWky",
+   "pdf_url": "https://openreview.net/pdf?id=nOlnGAdWky"
+  },
+  {
+   "title": "SynQL: Synthetic Data Generation for In-Domain, Low-Resource Text-to-SQL Parsing",
+   "authors": [
+    "Denver Baumgartner",
+    "Tomasz Kornuta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WrexlGBDCH",
+   "pdf_url": "https://openreview.net/pdf?id=WrexlGBDCH"
+  },
+  {
+   "title": "Synthetic SQL Column Descriptions and Their Impact on Text-to-SQL Performance",
+   "authors": [
+    "Niklas Wretblad",
+    "Oskar Holmström",
+    "Erik Larsson",
+    "Axel Wiksäter",
+    "Hjalmar Öhman",
+    "Oscar Söderlund",
+    "Ture Pontén",
+    "Martin Forsberg",
+    "Martin Sörme",
+    "Fredrik Heintz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hA0b6MUbSF",
+   "pdf_url": "https://openreview.net/pdf?id=hA0b6MUbSF"
+  },
+  {
+   "title": "Tabby: Tabular Adaptation for Language Models",
+   "authors": [
+    "Sonia Cromp",
+    "Satya Sai Srinath Namburi GNVV",
+    "Catherine Cao",
+    "Mohammed Alkhudhayri",
+    "Samuel Guo",
+    "Nicholas Roberts",
+    "Frederic Sala"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gh3WrztrNC",
+   "pdf_url": "https://openreview.net/pdf?id=gh3WrztrNC"
+  },
+  {
+   "title": "TabDeco: A Comprehensive Contrastive Framework for Decoupled Representations in Tabular Data",
+   "authors": [
+    "Suiyao Chen",
+    "Jing Wu",
+    "Yunxiao Wang",
+    "Cheng Ji",
+    "Tianpei Xie",
+    "Daniel Cociorva",
+    "Michael Sharps",
+    "Cecile Levasseur",
+    "Hakan Brunzell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Fu9HxEYXxx",
+   "pdf_url": "https://openreview.net/pdf?id=Fu9HxEYXxx"
+  },
+  {
+   "title": "TabDiff: a Unified Diffusion Model for Multi-Modal Tabular Data Generation",
+   "authors": [
+    "Juntong Shi",
+    "Minkai Xu",
+    "Harper Hua",
+    "Hengrui Zhang",
+    "Stefano Ermon",
+    "Jure Leskovec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LoSpFLqaHg",
+   "pdf_url": "https://openreview.net/pdf?id=LoSpFLqaHg"
+  },
+  {
+   "title": "TabFlex: Scaling Tabular Learning to Millions with Linear Attention",
+   "authors": [
+    "Yuchen Zeng",
+    "Wonjun Kang",
+    "Andreas C Mueller"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f8aganC0tN",
+   "pdf_url": "https://openreview.net/pdf?id=f8aganC0tN"
+  },
+  {
+   "title": "TABGEN-RAG: Iterative Retrieval for Tabular Data Generation with Large Language Models",
+   "authors": [
+    "Liancheng Fang",
+    "Aiwei Liu",
+    "Hengrui Zhang",
+    "Henry Peng Zou",
+    "Weizhi Zhang",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gubwDTURac",
+   "pdf_url": "https://openreview.net/pdf?id=gubwDTURac"
+  },
+  {
+   "title": "TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features",
+   "authors": [
+    "Gleb Bazhenov",
+    "Oleg Platonov",
+    "Liudmila Prokhorenkova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3qFGLue5vx",
+   "pdf_url": "https://openreview.net/pdf?id=3qFGLue5vx"
+  },
+  {
+   "title": "TabSketchFM: Sketch-based Tabular Representation Learning for Data Discovery over Data Lakes",
+   "authors": [
+    "Aamod Khatiwada",
+    "Harsha Kokel",
+    "Ibrahim Abdelaziz",
+    "Subhajit Chaudhury",
+    "Julian Dolby",
+    "Oktie Hassanzadeh",
+    "Zhenhan Huang",
+    "Tejaswini Pedapati",
+    "Horst Samulowitz",
+    "Kavitha Srinivas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j4KoseJBUO",
+   "pdf_url": "https://openreview.net/pdf?id=j4KoseJBUO"
+  },
+  {
+   "title": "Tabular Data Generation using Binary Diffusion",
+   "authors": [
+    "Vitaliy Kinakh",
+    "Slava Voloshynovskiy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lv234j8Hq7",
+   "pdf_url": "https://openreview.net/pdf?id=lv234j8Hq7"
+  },
+  {
+   "title": "TARGET: Benchmarking Table Retrieval for Generative Tasks",
+   "authors": [
+    "Xingyu Ji",
+    "Aditya Parameswaran",
+    "Madelon Hulsebos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gGGvnjFUfL",
+   "pdf_url": "https://openreview.net/pdf?id=gGGvnjFUfL"
+  },
+  {
+   "title": "TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning",
+   "authors": [
+    "Xinyuan Lu",
+    "Liangming Pan",
+    "Yubo Ma",
+    "Preslav Nakov",
+    "Min-Yen Kan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UF8RE1rkfU",
+   "pdf_url": "https://openreview.net/pdf?id=UF8RE1rkfU"
+  },
+  {
+   "title": "The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models",
+   "authors": [
+    "Karime Maamari",
+    "Fadhil Abubaker",
+    "Daniel Jaroslawicz",
+    "Amine Mhedhbi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fglyh5pa7d",
+   "pdf_url": "https://openreview.net/pdf?id=fglyh5pa7d"
+  },
+  {
+   "title": "The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features",
+   "authors": [
+    "Shi Bin Hoo",
+    "Samuel Müller",
+    "David Salinas",
+    "Frank Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H02X7RO3OC",
+   "pdf_url": "https://openreview.net/pdf?id=H02X7RO3OC"
+  },
+  {
+   "title": "Towards Agentic Schema Refinement",
+   "authors": [
+    "Agapi Rissaki",
+    "Ilias Fountalis",
+    "Nikolaos Vasiloglou",
+    "Wolfgang Gatterbauer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JzYEHy0mmE",
+   "pdf_url": "https://openreview.net/pdf?id=JzYEHy0mmE"
+  },
+  {
+   "title": "Towards Localization via Data Embedding for TabPFN",
+   "authors": [
+    "Mykhailo Koshil",
+    "Thomas Nagler",
+    "Matthias Feurer",
+    "Katharina Eggensperger"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFyQyV5HxQ",
+   "pdf_url": "https://openreview.net/pdf?id=LFyQyV5HxQ"
+  },
+  {
+   "title": "Towards Optimizing SQL Generation via LLM Routing",
+   "authors": [
+    "Mohammadhossein Malekpour",
+    "Nour Shaheen",
+    "Foutse Khomh",
+    "Amine Mhedhbi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VYvYR7U7s3",
+   "pdf_url": "https://openreview.net/pdf?id=VYvYR7U7s3"
+  },
+  {
+   "title": "UniTable: Towards a Unified Framework for Table Recognition via Self-Supervised Pretraining",
+   "authors": [
+    "ShengYun Peng",
+    "Aishwarya Chakravarthy",
+    "Seongmin Lee",
+    "Xiaojing Wang",
+    "Rajarajeswari Balasubramaniyan",
+    "Duen Horng Chau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uN4VgmxyyV",
+   "pdf_url": "https://openreview.net/pdf?id=uN4VgmxyyV"
+  },
+  {
+   "title": "Unlearning Tabular Data Without a \"Forget Set''",
+   "authors": [
+    "Aviraj Newatia",
+    "Michael Cooper",
+    "Rahul Krishnan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DNlWbTTQYX",
+   "pdf_url": "https://openreview.net/pdf?id=DNlWbTTQYX"
+  },
+  {
+   "title": "Unmasking Trees for Tabular Data",
+   "authors": [
+    "Calvin McCarter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LFCSTy6MYe",
+   "pdf_url": "https://openreview.net/pdf?id=LFCSTy6MYe"
+  }
+ ]
+}

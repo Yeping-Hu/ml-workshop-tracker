@@ -1,0 +1,540 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/CauScien",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:32.578Z",
+ "paper_count": 46,
+ "papers": [
+  {
+   "title": "A Causal Formulation of Spike-Wave Duality",
+   "authors": [
+    "Kasra Jalaldoust",
+    "Erfan Zabeh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YBit4BbUmV",
+   "pdf_url": "https://openreview.net/pdf?id=YBit4BbUmV"
+  },
+  {
+   "title": "Aligning Language Models with Observational Data: Opportunities and Risks from a Causal Perspective",
+   "authors": [
+    "Erfan Loghmani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C6akr7JSPH",
+   "pdf_url": "https://openreview.net/pdf?id=C6akr7JSPH"
+  },
+  {
+   "title": "Applying Time-Series Causal Discovery to Understand Algal Bloom Mechanisms",
+   "authors": [
+    "Ayush Prasad",
+    "Snehal Verma",
+    "Mohammad Aatish Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rR54XREDtM",
+   "pdf_url": "https://openreview.net/pdf?id=rR54XREDtM"
+  },
+  {
+   "title": "Bayesian Sensitivity of Causal Inference Estimators under Evidence-Based Priors",
+   "authors": [
+    "Nikita Dhawan",
+    "Daniel Shen",
+    "Leonardo Cotta",
+    "Chris J. Maddison"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PlT25DHV8J",
+   "pdf_url": "https://openreview.net/pdf?id=PlT25DHV8J"
+  },
+  {
+   "title": "Can LLMs Propose Instrumental Variables for Causal Reasoning?",
+   "authors": [
+    "Ivaxi Sheth",
+    "Zhijing Jin",
+    "Bryan Wilder",
+    "Dominik Janzing",
+    "Mario Fritz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PkmSCzT8bg",
+   "pdf_url": "https://openreview.net/pdf?id=PkmSCzT8bg"
+  },
+  {
+   "title": "Capturing Semantic Correctness for Causal Reasoning Evaluation via Symbolic Verification",
+   "authors": [
+    "Paul He",
+    "Yinya Huang",
+    "Mrinmaya Sachan",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kLZypgcrk9",
+   "pdf_url": "https://openreview.net/pdf?id=kLZypgcrk9"
+  },
+  {
+   "title": "Carryover detection in switchback experimentation",
+   "authors": [
+    "Paul Missault",
+    "Lorenzo Masoero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fyfkP1TOKW",
+   "pdf_url": "https://openreview.net/pdf?id=fyfkP1TOKW"
+  },
+  {
+   "title": "CAST: Causal Modeling of Time-Varying Treatment Effects on Head and Neck Cancer",
+   "authors": [
+    "Everest Yang",
+    "Ria Vasishtha",
+    "Luqman K. Dad",
+    "Lisa A. Kachnic",
+    "Andrew Hope",
+    "Eric Wang",
+    "Xiao Wu",
+    "Yading Yuan",
+    "David J Brenner",
+    "Igor Shuryak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ifYGBjxzWv",
+   "pdf_url": "https://openreview.net/pdf?id=ifYGBjxzWv"
+  },
+  {
+   "title": "Causal AI Scientist: Facilitating Causal Data Science with Large Language Models",
+   "authors": [
+    "Vishal Verma",
+    "Sawal Acharya",
+    "Devansh Bhardwaj",
+    "Samuel Simko",
+    "Yongjin Yang",
+    "Anahita Haghighat",
+    "Dominik Janzing",
+    "Mrinmaya Sachan",
+    "Bernhard Schölkopf",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDWTHMVOCj",
+   "pdf_url": "https://openreview.net/pdf?id=EDWTHMVOCj"
+  },
+  {
+   "title": "Causal Machine Learning for Sustainable Agriculture",
+   "authors": [
+    "Vasileios Sitokonstantinou",
+    "Emiliano Diaz",
+    "Jordi Cerda-Bautista",
+    "Maria Piles",
+    "Ioannis N. Athanasiadis",
+    "Ilias Tsoumas",
+    "Gustau Camps-Valls"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CE5T6BPFBk",
+   "pdf_url": "https://openreview.net/pdf?id=CE5T6BPFBk"
+  },
+  {
+   "title": "Causal Representation Learning from Multimodal EHRs under Non-Random Modality Missingness",
+   "authors": [
+    "Zihan Liang",
+    "Ziwen Pan",
+    "Ruoxuan Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YUfWZtvfsI",
+   "pdf_url": "https://openreview.net/pdf?id=YUfWZtvfsI"
+  },
+  {
+   "title": "Causal Representation Meets Stochastic Modeling under Generic Geometry",
+   "authors": [
+    "Jiaxu Ren",
+    "Yixin Wang",
+    "Biwei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P2RKFOn0U3",
+   "pdf_url": "https://openreview.net/pdf?id=P2RKFOn0U3"
+  },
+  {
+   "title": "Causal Scissor: root cause discovery via the measure of edge cuts in graphs",
+   "authors": [
+    "Jingi Ju",
+    "Mincheol Shin",
+    "Minwoo Kim",
+    "Giwoong Lee",
+    "Jiseung Ahn",
+    "Jeongyeol Choe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wnQG3LaYLT",
+   "pdf_url": "https://openreview.net/pdf?id=wnQG3LaYLT"
+  },
+  {
+   "title": "CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models",
+   "authors": [
+    "Benjamin Herdeanu",
+    "Juan Nathaniel",
+    "Carla Roesch",
+    "Jatan Buch",
+    "Gregor Ramien",
+    "Johannes Haux",
+    "Pierre Gentine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jR3xBpZ4nJ",
+   "pdf_url": "https://openreview.net/pdf?id=jR3xBpZ4nJ"
+  },
+  {
+   "title": "CauSciBench: Assessing LLM Causal Reasoning for Scientific Research",
+   "authors": [
+    "Sawal Acharya",
+    "Terry Jingchen Zhang",
+    "Andrew Kim",
+    "Anahita Haghighat",
+    "Xianlin Sun",
+    "Rahul Babu Shrestha",
+    "Maximilian Mordig",
+    "Furkan Danisman",
+    "Clijo Jose",
+    "Yahang Qi",
+    "Pepijn Cobben",
+    "Bernhard Schölkopf",
+    "Mrinmaya Sachan",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EO8mTLqDuT",
+   "pdf_url": "https://openreview.net/pdf?id=EO8mTLqDuT"
+  },
+  {
+   "title": "CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data",
+   "authors": [
+    "Gerrit Großmann",
+    "Sumantrak Mukherjee",
+    "Sebastian Josef Vollmer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zREolCRRfK",
+   "pdf_url": "https://openreview.net/pdf?id=zREolCRRfK"
+  },
+  {
+   "title": "Confounding is a Pervasive Problem in Real World Recommender Systems",
+   "authors": [
+    "Alexander Merkov",
+    "David Rohde",
+    "Benjamin Heymann",
+    "Alexandre Gilotte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kZ4wDaQtxB",
+   "pdf_url": "https://openreview.net/pdf?id=kZ4wDaQtxB"
+  },
+  {
+   "title": "Cost-Aware Interpolation of Soft Interventions: Blend of Propensity, Target Law, and Product of Experts",
+   "authors": [
+    "Johan de Aguas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=awpbI82Jhi",
+   "pdf_url": "https://openreview.net/pdf?id=awpbI82Jhi"
+  },
+  {
+   "title": "Counterfactual NMR: Benchmarking Minimal Spectral Interventions for Interpretable Structure Elucidation",
+   "authors": [
+    "Susanna Di Vita"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DemwnPlfbb",
+   "pdf_url": "https://openreview.net/pdf?id=DemwnPlfbb"
+  },
+  {
+   "title": "CUVET: A Partitioning Approach for Continuous Treatment Assignment At Scale",
+   "authors": [
+    "Artem Betlei",
+    "Mariia Vladimirova",
+    "Victor Girou",
+    "Thibaud Rahier"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ue4YbN3wgh",
+   "pdf_url": "https://openreview.net/pdf?id=ue4YbN3wgh"
+  },
+  {
+   "title": "Data Decomposition beyond Splitting for Causal Estimation",
+   "authors": [
+    "Xuelin Yang",
+    "Dhruv Singal",
+    "Rina Friedberg",
+    "Michael I. Jordan",
+    "Niloy Biswas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zomsk7R5J1",
+   "pdf_url": "https://openreview.net/pdf?id=Zomsk7R5J1"
+  },
+  {
+   "title": "Disentangling Misreporting from Genuine Adaptation in Strategic Settings: A Causal Approach",
+   "authors": [
+    "Dylan Zapzalka",
+    "Trenton Chang",
+    "Lindsay Warrenburg",
+    "Sae-Hwan Park",
+    "Daniel K Shenfeld",
+    "Ravi B Parikh",
+    "Jenna Wiens",
+    "Maggie Makar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4uC0eJzd3M",
+   "pdf_url": "https://openreview.net/pdf?id=4uC0eJzd3M"
+  },
+  {
+   "title": "Domain-Adapted Granger Causality for Real-Time Cross-Slice Attack Attribution in 6G Networks",
+   "authors": [
+    "Minh K. Quan",
+    "Pubudu N Pathirana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rfhwejAv0m",
+   "pdf_url": "https://openreview.net/pdf?id=rfhwejAv0m"
+  },
+  {
+   "title": "Dual-Latent Generative Causal Structure Learning with Causal Annealing",
+   "authors": [
+    "Soma Bandyopadhyay",
+    "Sudeshna Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BNi2gW2WYX",
+   "pdf_url": "https://openreview.net/pdf?id=BNi2gW2WYX"
+  },
+  {
+   "title": "Dynamic causal discovery in Alzheimer’s disease through latent pseudotime modelling",
+   "authors": [
+    "Natalia Glazman",
+    "Jyoti Mangal",
+    "Pedro Borges",
+    "Sebastien Ourselin",
+    "M. Jorge Cardoso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j0qeS4XykE",
+   "pdf_url": "https://openreview.net/pdf?id=j0qeS4XykE"
+  },
+  {
+   "title": "Efficient Greedy Equivalence Search for Non-Score-Equivalent Criteria using Sampling",
+   "authors": [
+    "Rafailia Chatzianastasiou",
+    "Osman Mian",
+    "Jilles Vreeken"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9Csv6ZEfmZ",
+   "pdf_url": "https://openreview.net/pdf?id=9Csv6ZEfmZ"
+  },
+  {
+   "title": "From Prediction to Causal Interpretation: A DML Case Study in Financial Economics",
+   "authors": [
+    "Peilin Rao",
+    "Randall R Rojas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rcmKO31Js6",
+   "pdf_url": "https://openreview.net/pdf?id=rcmKO31Js6"
+  },
+  {
+   "title": "How Effective is Your Rebuttal? Identifying Causal Models from the OpenReview System",
+   "authors": [
+    "Loka Li",
+    "Ibrahim Aldarmaki",
+    "Minghao Fu",
+    "Wong Yu Kang",
+    "Yunlong Deng",
+    "Qiang Huang",
+    "Jing Yang",
+    "Jin Tian",
+    "Guangyi Chen",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NM6Vv15FoJ",
+   "pdf_url": "https://openreview.net/pdf?id=NM6Vv15FoJ"
+  },
+  {
+   "title": "How reliable are treatment effects in clinical trials with dropout?",
+   "authors": [
+    "Yuxin Wang",
+    "Dennis Frauen",
+    "Jonas Schweisthal",
+    "Maresa Schröder",
+    "Stefan Feuerriegel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zQixk1qN0W",
+   "pdf_url": "https://openreview.net/pdf?id=zQixk1qN0W"
+  },
+  {
+   "title": "Improving precision of A/B experiments using trigger intensity",
+   "authors": [
+    "TANMOY DAS",
+    "Dohyeon Lee",
+    "Arnab Sinha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QgqI5oGXaf",
+   "pdf_url": "https://openreview.net/pdf?id=QgqI5oGXaf"
+  },
+  {
+   "title": "Inductive Biases for Disentangled Representation Learning with Correlated Treatment--Nuisance Factors",
+   "authors": [
+    "Luka Kovačević",
+    "Sara-Jane Dunn",
+    "Hagen Triendl",
+    "Lindsay Edwards",
+    "Sach Mukherjee",
+    "John C Whittaker",
+    "Thomas Gaudelet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xGWiPZJ0pZ",
+   "pdf_url": "https://openreview.net/pdf?id=xGWiPZJ0pZ"
+  },
+  {
+   "title": "Instrumental Variable Representation Learning under Confounded Covariates",
+   "authors": [
+    "Jungsoo Kim",
+    "Kwonho Kim",
+    "Inwoo Hwang",
+    "Sanghack Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nBMrvGRKe1",
+   "pdf_url": "https://openreview.net/pdf?id=nBMrvGRKe1"
+  },
+  {
+   "title": "Learning Causal Gene Relationships in Biological Pathways with Graph Attention Networks (GATs)",
+   "authors": [
+    "Gavin Y. Wong",
+    "Ping Shu Ho",
+    "Ivan Au Yeung",
+    "Ka Chun Cheung",
+    "Simon See"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6bWxgpKaG9",
+   "pdf_url": "https://openreview.net/pdf?id=6bWxgpKaG9"
+  },
+  {
+   "title": "Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis",
+   "authors": [
+    "Minghao Fu",
+    "Biwei Huang",
+    "Zijian Li",
+    "Yujia Zheng",
+    "Ignavier Ng",
+    "Guangyi Chen",
+    "Yingyao Hu",
+    "Kun Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZjkbK8vjr2",
+   "pdf_url": "https://openreview.net/pdf?id=ZjkbK8vjr2"
+  },
+  {
+   "title": "LongSurv: Bridging Short-Term Data and Causal Priors for Longitudinal Survival Modeling",
+   "authors": [
+    "Shivaram V",
+    "Dr Anuva Kapoor",
+    "Kangan Maria",
+    "Preetha Balasubramanian",
+    "Bhanu Duggal",
+    "Mona Duggal",
+    "Balaraman Ravindran",
+    "Lakshmi Subramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5kinne2hCb",
+   "pdf_url": "https://openreview.net/pdf?id=5kinne2hCb"
+  },
+  {
+   "title": "MIIC-SR: From Complex Data to Structural Causal Models",
+   "authors": [
+    "Nadir Sella",
+    "Adam Perbost",
+    "Louis Verny"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vgcPkcSylO",
+   "pdf_url": "https://openreview.net/pdf?id=vgcPkcSylO"
+  },
+  {
+   "title": "Not All Splits Are Equal: Rethinking Attribute Generalization Across Unrelated Categories",
+   "authors": [
+    "Firca Liviu Nicolae",
+    "Elena Burceanu",
+    "Antonio Barbalau",
+    "Dan Oneata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9R8vqOFRXW",
+   "pdf_url": "https://openreview.net/pdf?id=9R8vqOFRXW"
+  },
+  {
+   "title": "On Double Robustness in Double Machine Learning",
+   "authors": [
+    "Simon Valentin",
+    "Gianluca Detommaso",
+    "Yikuan Li",
+    "Manfred Opper",
+    "Michael Brückner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jt5tghOeK9",
+   "pdf_url": "https://openreview.net/pdf?id=jt5tghOeK9"
+  },
+  {
+   "title": "One-Shot Multi-Label Causal Discovery in High-Dimensional Event Sequences",
+   "authors": [
+    "Hugo Math",
+    "Robin Schön",
+    "Rainer Lienhart"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z7NT8vGWC2",
+   "pdf_url": "https://openreview.net/pdf?id=z7NT8vGWC2"
+  },
+  {
+   "title": "Realizing LLMs’ Causal Potential Requires Science-Grounded, Novel Benchmarks",
+   "authors": [
+    "Ashutosh Srivastava",
+    "Lokesh Nagalapatti",
+    "Gautam Jajoo",
+    "Aniket Vashishtha",
+    "Parameswari Krishnamurthy",
+    "Amit Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X9IfVbMc50",
+   "pdf_url": "https://openreview.net/pdf?id=X9IfVbMc50"
+  },
+  {
+   "title": "Recovering Causal Features for Instrumental Variable Regression with Contrastive Learning",
+   "authors": [
+    "Gabin Agbalé",
+    "Stefan Harmeling",
+    "Alexander Marx"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3qOdzEUKHZ",
+   "pdf_url": "https://openreview.net/pdf?id=3qOdzEUKHZ"
+  },
+  {
+   "title": "Searching for actual causes: Approximate algorithms with adjustable precision",
+   "authors": [
+    "Samuel Reyd",
+    "Ada Diaconescu",
+    "Jean-Louis Dessalles"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HsM5QwMZsv",
+   "pdf_url": "https://openreview.net/pdf?id=HsM5QwMZsv"
+  },
+  {
+   "title": "Structure learning without context-specific ground truths: a case study in chronic low-dose radiation exposure in human cells",
+   "authors": [
+    "Ashka Shah",
+    "Rick Stevens"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rYeyGAHF1r",
+   "pdf_url": "https://openreview.net/pdf?id=rYeyGAHF1r"
+  },
+  {
+   "title": "Towards Causal Understanding of Urban Air Pollution: Mechanistic Models under Sparse Sensing",
+   "authors": [
+    "Ankit Bhardwaj",
+    "Lakshmi Subramanian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=42bXv5Gor9",
+   "pdf_url": "https://openreview.net/pdf?id=42bXv5Gor9"
+  },
+  {
+   "title": "Transformer Is Inherently a Causal Learner",
+   "authors": [
+    "Xinyue Wang",
+    "Stephen Wang",
+    "Biwei Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uwhMCBaVcu",
+   "pdf_url": "https://openreview.net/pdf?id=uwhMCBaVcu"
+  },
+  {
+   "title": "Using causal abstractions to accelerate decision-making in complex bandit problems",
+   "authors": [
+    "Joel Dyer",
+    "Nicholas George Bishop",
+    "Anisoara Calinescu",
+    "Michael J. Wooldridge",
+    "Fabio Massimo Zennaro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=n4QU46qwRX",
+   "pdf_url": "https://openreview.net/pdf?id=n4QU46qwRX"
+  }
+ ]
+}

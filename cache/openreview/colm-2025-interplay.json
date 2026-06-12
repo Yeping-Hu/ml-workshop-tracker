@@ -1,0 +1,254 @@
+{
+ "venue_id": "colmweb.org/COLM/2025/Workshop/INTERPLAY",
+ "source_api": "v2",
+ "fetched_at": "2026-06-11T15:51:23.920Z",
+ "paper_count": 22,
+ "papers": [
+  {
+   "title": "Analyzing Representational Shifts in Multimodal Models: A Study of Feature Dynamics in Gemma and PaliGemma",
+   "authors": [
+    "Aaron C Friedman",
+    "Trinabh Gupta",
+    "Raine Ma",
+    "Sean O'Brien",
+    "Kevin Zhu",
+    "Cole Blondin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FiVBgTrsHJ",
+   "pdf_url": "https://openreview.net/pdf?id=FiVBgTrsHJ"
+  },
+  {
+   "title": "Angular Steering: Behavior Control via Rotation in Activation Space",
+   "authors": [
+    "Hieu M. Vu",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=scqQxchEyM",
+   "pdf_url": "https://openreview.net/pdf?id=scqQxchEyM"
+  },
+  {
+   "title": "Attributing Response to Context: A Jensen–Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation",
+   "authors": [
+    "Ruizhe Li",
+    "Chen Chen",
+    "Yuchen Hu",
+    "Yanjun Gao",
+    "Xi Wang",
+    "Emine Yilmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QC1Pd6MamX",
+   "pdf_url": "https://openreview.net/pdf?id=QC1Pd6MamX"
+  },
+  {
+   "title": "BERTology in the Modern World",
+   "authors": [
+    "Michael Li",
+    "Nishant Subramani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FqahMD2wY8",
+   "pdf_url": "https://openreview.net/pdf?id=FqahMD2wY8"
+  },
+  {
+   "title": "Causal Interventions Reveal Shared Structure Across English Filler–Gap Constructions",
+   "authors": [
+    "Sasha Boguraev",
+    "Christopher Potts",
+    "Kyle Mahowald"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zfqVbPKE2z",
+   "pdf_url": "https://openreview.net/pdf?id=zfqVbPKE2z"
+  },
+  {
+   "title": "Comparing Prompt and Representation Engineering for Personality Control in Language Models: A Case Study",
+   "authors": [
+    "Pengrui Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vn9TiICAui",
+   "pdf_url": "https://openreview.net/pdf?id=vn9TiICAui"
+  },
+  {
+   "title": "Death by a Thousand Directions: Exploring the Geometry of Harmfulness in LLMs through Subconcept Probing",
+   "authors": [
+    "McNair Shah",
+    "Saleena Angeline Sartawita",
+    "Adhitya Rajendra Kumar",
+    "Naitik Chheda",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien",
+    "Will Cai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMrHN5YnfY",
+   "pdf_url": "https://openreview.net/pdf?id=CMrHN5YnfY"
+  },
+  {
+   "title": "Emotions Where Art Thou: Understanding and Characterizing the Emotional Latent Space of Large Language Models",
+   "authors": [
+    "Benjamin Reichman",
+    "Adar Avsian",
+    "Larry Heck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N8zX1XFTfn",
+   "pdf_url": "https://openreview.net/pdf?id=N8zX1XFTfn"
+  },
+  {
+   "title": "Evaluating Contrast Localizer for Identifying Causal Units in Social & Mathematical Tasks in Language Models",
+   "authors": [
+    "Yassine Jamaa",
+    "Badr AlKhamissi",
+    "Satrajit S Ghosh",
+    "Martin Schrimpf"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2jq1xa93rn",
+   "pdf_url": "https://openreview.net/pdf?id=2jq1xa93rn"
+  },
+  {
+   "title": "From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits",
+   "authors": [
+    "Karim Saraipour",
+    "Shichang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P8rwvwB3qH",
+   "pdf_url": "https://openreview.net/pdf?id=P8rwvwB3qH"
+  },
+  {
+   "title": "How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence",
+   "authors": [
+    "Hongzhe Du",
+    "Weikai Li",
+    "Min Cai",
+    "Karim Saraipour",
+    "Zimin Zhang",
+    "Yizhou Sun",
+    "Himabindu Lakkaraju",
+    "Shichang Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yg2tat6A3d",
+   "pdf_url": "https://openreview.net/pdf?id=yg2tat6A3d"
+  },
+  {
+   "title": "Interpreting the Latent Structure of Operator Precedence in Language Models",
+   "authors": [
+    "Dharunish Yugeswardeenoo",
+    "Harshil Nukala",
+    "Cole Blondin",
+    "Sean O'Brien",
+    "Vasu Sharma",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NFQ9C7lh6F",
+   "pdf_url": "https://openreview.net/pdf?id=NFQ9C7lh6F"
+  },
+  {
+   "title": "LLM Microscope: What Model Internals Reveal About Answer Correctness and Context Utilization",
+   "authors": [
+    "Jiarui Liu",
+    "Jivitesh Jain",
+    "Mona T. Diab",
+    "Nishant Subramani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8jkQGNkRzP",
+   "pdf_url": "https://openreview.net/pdf?id=8jkQGNkRzP"
+  },
+  {
+   "title": "Localizing Persona Representations in LLMs",
+   "authors": [
+    "Celia Cintas",
+    "Miriam Rateike",
+    "Erik Miehling",
+    "Elizabeth M. Daly",
+    "Skyler Speakman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QnayDNXZNO",
+   "pdf_url": "https://openreview.net/pdf?id=QnayDNXZNO"
+  },
+  {
+   "title": "On the Geometry of Semantics in Next-token Prediction",
+   "authors": [
+    "Yize Zhao",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LQ3I5OoroE",
+   "pdf_url": "https://openreview.net/pdf?id=LQ3I5OoroE"
+  },
+  {
+   "title": "One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs",
+   "authors": [
+    "Jacob Dunefsky",
+    "Arman Cohan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bfnqgL06FK",
+   "pdf_url": "https://openreview.net/pdf?id=bfnqgL06FK"
+  },
+  {
+   "title": "Predicting Success of Model Editing via Intrinsic Features",
+   "authors": [
+    "Yanay Soker",
+    "Martin Tutek",
+    "Yonatan Belinkov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qQNiXK0U0J",
+   "pdf_url": "https://openreview.net/pdf?id=qQNiXK0U0J"
+  },
+  {
+   "title": "Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking",
+   "authors": [
+    "Wuwei Zhang",
+    "Fangcong Yin",
+    "Howard Yen",
+    "Danqi Chen",
+    "Xi Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=madN8XeB7s",
+   "pdf_url": "https://openreview.net/pdf?id=madN8XeB7s"
+  },
+  {
+   "title": "Safety Subspaces are Not Distinct: A Fine-Tuning Case Study",
+   "authors": [
+    "Shaan Shah",
+    "Kaustubh Ponkshe",
+    "Raghav Singhal",
+    "Praneeth Vepakomma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2uLBkfMyX5",
+   "pdf_url": "https://openreview.net/pdf?id=2uLBkfMyX5"
+  },
+  {
+   "title": "Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs",
+   "authors": [
+    "Ziling Cheng",
+    "Meng Cao",
+    "Marc-Antoine Rondeau",
+    "Jackie CK Cheung"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EPxv1f71Ka",
+   "pdf_url": "https://openreview.net/pdf?id=EPxv1f71Ka"
+  },
+  {
+   "title": "Understanding In-context Learning of Addition via Activation Subspaces",
+   "authors": [
+    "Xinyan Hu",
+    "Kayo Yin",
+    "Michael I. Jordan",
+    "Jacob Steinhardt",
+    "Lijie Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=78NuRFVQHU",
+   "pdf_url": "https://openreview.net/pdf?id=78NuRFVQHU"
+  },
+  {
+   "title": "Universal Neurons in GPT-2: Emergence, Persistence, and Functional Impact",
+   "authors": [
+    "Advey Nandan",
+    "Cheng-Ting Chou",
+    "Amrit Kurakula",
+    "Cole Blondin",
+    "Kevin Zhu",
+    "Vasu Sharma",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4ROJYAbqr8",
+   "pdf_url": "https://openreview.net/pdf?id=4ROJYAbqr8"
+  }
+ ]
+}

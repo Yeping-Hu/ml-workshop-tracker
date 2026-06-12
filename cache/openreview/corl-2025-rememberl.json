@@ -1,0 +1,206 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/RemembeRL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:41:01.565Z",
+ "paper_count": 16,
+ "papers": [
+  {
+   "title": "cVLA: Towards Efficient Camera-Space VLAs",
+   "authors": [
+    "Max Argus",
+    "Jelena Bratulić",
+    "Houman Masnavi",
+    "Maksim Velikanov",
+    "Nick Heppert",
+    "Abhinav Valada",
+    "Thomas Brox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gKNVU6owSJ",
+   "pdf_url": "https://openreview.net/pdf?id=gKNVU6owSJ"
+  },
+  {
+   "title": "Dual-Objective Reinforcement Learning with Novel Hamilton-Jacobi-Bellman Formulations",
+   "authors": [
+    "William Sharpless"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YUQMKVDUSt",
+   "pdf_url": "https://openreview.net/pdf?id=YUQMKVDUSt"
+  },
+  {
+   "title": "DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation",
+   "authors": [
+    "Jiangran Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=paAmeAsega",
+   "pdf_url": "https://openreview.net/pdf?id=paAmeAsega"
+  },
+  {
+   "title": "ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL",
+   "authors": [
+    "Egor Cherepanov",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H2dvLYqlaa",
+   "pdf_url": "https://openreview.net/pdf?id=H2dvLYqlaa"
+  },
+  {
+   "title": "GRIM: Task-Oriented Grasping with Conditioning on Generative Examples",
+   "authors": [
+    "Shailesh",
+    "Alok Raj",
+    "Nayan Kumar",
+    "Priya Shukla",
+    "Andrew Melnik",
+    "Michael Beetz",
+    "Gora Chand Nandi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wNuXVanvP5",
+   "pdf_url": "https://openreview.net/pdf?id=wNuXVanvP5"
+  },
+  {
+   "title": "In-Context Adaptation for Generalizable Imitation Learning",
+   "authors": [
+    "Junlin Xie",
+    "Xu Luo",
+    "Hao Wu",
+    "Ji Zhang",
+    "Youguang Xing",
+    "Lianli Gao",
+    "Jingkuan Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mBHHyZrWE1",
+   "pdf_url": "https://openreview.net/pdf?id=mBHHyZrWE1"
+  },
+  {
+   "title": "Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning",
+   "authors": [
+    "Egor Cherepanov",
+    "Nikita Kachaev",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O9IgZy2Mit",
+   "pdf_url": "https://openreview.net/pdf?id=O9IgZy2Mit"
+  },
+  {
+   "title": "mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies",
+   "authors": [
+    "Remo Steiner",
+    "Alexander Millane",
+    "David Tingdahl",
+    "Clemens Volk",
+    "Vikram Ramasamy",
+    "Xinjie Yao",
+    "Peter Du",
+    "Soha Pouya",
+    "Shiwei Sheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xqXaYxIfy5",
+   "pdf_url": "https://openreview.net/pdf?id=xqXaYxIfy5"
+  },
+  {
+   "title": "Model Predictive Adversarial Imitation Learning for Planning from Observation",
+   "authors": [
+    "Tyler Han",
+    "Yanda Bao",
+    "Bhaumik Mehta",
+    "Gabriel Guo",
+    "Anubhav Vishwakarma",
+    "Emily Kang",
+    "Sanghun Jung",
+    "Rosario Scalise",
+    "Jason Liren Zhou",
+    "Bryan Xu",
+    "Byron Boots"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RMb766DOsF",
+   "pdf_url": "https://openreview.net/pdf?id=RMb766DOsF"
+  },
+  {
+   "title": "Q-Guided Flow Q-Learning",
+   "authors": [
+    "Yejun Jang",
+    "Hong Chul Nam",
+    "Jeong Min Park",
+    "GIMIN BAE",
+    "Hyun Kwon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MFY9i3uR7S",
+   "pdf_url": "https://openreview.net/pdf?id=MFY9i3uR7S"
+  },
+  {
+   "title": "ReMoBot: Retrieval-Based Few-Shot Imitation Learning for Mobile Manipulation with Vision Foundation Models",
+   "authors": [
+    "Yuying Zhang",
+    "Wenyan Yang",
+    "Francesco Verdoja",
+    "Ville Kyrki",
+    "Joni Pajarinen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k4jVv0KDDp",
+   "pdf_url": "https://openreview.net/pdf?id=k4jVv0KDDp"
+  },
+  {
+   "title": "ReZero: Boosting MCTS-based Algorithms by Backward-view and Entire-buffer Reanalyze",
+   "authors": [
+    "Chunyu Xuan",
+    "Yazhe Niu",
+    "Yuan Pu",
+    "Shuai Hu",
+    "Yu Liu",
+    "Jing Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F9Y7j3AJTu",
+   "pdf_url": "https://openreview.net/pdf?id=F9Y7j3AJTu"
+  },
+  {
+   "title": "RoboSSM: Scalable In-context Imitation Learning via State-Space Models",
+   "authors": [
+    "Youngju Yoo",
+    "Jiaheng Hu",
+    "Yifeng Zhu",
+    "Bo Liu",
+    "qiang liu",
+    "Roberto Martín-Martín",
+    "Peter Stone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JG8p1yGI6U",
+   "pdf_url": "https://openreview.net/pdf?id=JG8p1yGI6U"
+  },
+  {
+   "title": "SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation",
+   "authors": [
+    "Haoquan Fang",
+    "Markus Grotz",
+    "Wilbert Pumacay",
+    "Yi Ru Wang",
+    "Dieter Fox",
+    "Ranjay Krishna",
+    "Jiafei Duan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8gaFIFMiQc",
+   "pdf_url": "https://openreview.net/pdf?id=8gaFIFMiQc"
+  },
+  {
+   "title": "Steering Diffusion Policies with Value-Guided Denoising",
+   "authors": [
+    "Hanming Ye"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wrcTncImde",
+   "pdf_url": "https://openreview.net/pdf?id=wrcTncImde"
+  },
+  {
+   "title": "Unraveling the Complexity of Memory in RL Agents: an Approach for Classification and Evaluation",
+   "authors": [
+    "Egor Cherepanov",
+    "Nikita Kachaev",
+    "Artem Zholus",
+    "Alexey Kovalev",
+    "Aleksandr Panov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KsyfWoI6nw",
+   "pdf_url": "https://openreview.net/pdf?id=KsyfWoI6nw"
+  }
+ ]
+}

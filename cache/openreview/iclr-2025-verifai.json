@@ -1,0 +1,374 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/VerifAI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:49.985Z",
+ "paper_count": 32,
+ "papers": [
+  {
+   "title": "ABSINT-AI: Language Models for Abstract Interpretation",
+   "authors": [
+    "Michael Wang",
+    "Kexin Pei",
+    "Armando Solar-Lezama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3RP6YmKo59",
+   "pdf_url": "https://openreview.net/pdf?id=3RP6YmKo59"
+  },
+  {
+   "title": "AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement",
+   "authors": [
+    "Pranjal Aggarwal",
+    "Bryan Parno",
+    "Sean Welleck"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AByCet27QP",
+   "pdf_url": "https://openreview.net/pdf?id=AByCet27QP"
+  },
+  {
+   "title": "CAPM: Fast and Robust Verification on Maxpool-based CNN via  Dual Network",
+   "authors": [
+    "Jia-Hau Bai",
+    "Chi-Ting Liu",
+    "Yu Wang",
+    "Fu-Chieh Chang",
+    "Pei-Yuan Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zDdKGuaJy5",
+   "pdf_url": "https://openreview.net/pdf?id=zDdKGuaJy5"
+  },
+  {
+   "title": "CRANE: Reasoning with constrained LLM generation",
+   "authors": [
+    "Debangshu Banerjee",
+    "Tarun Suresh",
+    "Shubham Ugare",
+    "Sasa Misailovic",
+    "Gagandeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RX3GIOkGHr",
+   "pdf_url": "https://openreview.net/pdf?id=RX3GIOkGHr"
+  },
+  {
+   "title": "Exact Certification of (Graph) Neural Networks Against Label Poisoning",
+   "authors": [
+    "Mahalakshmi Sabanayagam",
+    "Lukas Gosch",
+    "Stephan Günnemann",
+    "Debarghya Ghoshdastidar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qDyGGLVNx7",
+   "pdf_url": "https://openreview.net/pdf?id=qDyGGLVNx7"
+  },
+  {
+   "title": "Guided Proof Search Using Large Language Models and Lemma Extraction in Coq",
+   "authors": [
+    "Tarun Prasad",
+    "Nada Amin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HtN1piJ7ra",
+   "pdf_url": "https://openreview.net/pdf?id=HtN1piJ7ra"
+  },
+  {
+   "title": "LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction",
+   "authors": [
+    "Suozhi Huang",
+    "Peiyang Song",
+    "Robert Joseph George",
+    "Anima Anandkumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z3KZcuMLj2",
+   "pdf_url": "https://openreview.net/pdf?id=z3KZcuMLj2"
+  },
+  {
+   "title": "Learning Automata from Demonstrations, Examples, and Natural Language",
+   "authors": [
+    "Marcell Vazquez-Chanlatte",
+    "Karim Elmaaroufi",
+    "Stefan Witwicki",
+    "Matei Zaharia",
+    "Sanjit A. Seshia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=REDC8P9n1f",
+   "pdf_url": "https://openreview.net/pdf?id=REDC8P9n1f"
+  },
+  {
+   "title": "Leveraging Large Language Models to Repair High-level Robot Controllers from Assumption Violations",
+   "authors": [
+    "Qian Meng",
+    "Jin Peng Zhou",
+    "Kilian Q Weinberger",
+    "Hadas Kress-Gazit"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ELMx0fEWpY",
+   "pdf_url": "https://openreview.net/pdf?id=ELMx0fEWpY"
+  },
+  {
+   "title": "Lightweight Latent Verifiers for Efficient Meta-Generation Strategies",
+   "authors": [
+    "Bartosz Piotrowski",
+    "Witold Drzewakowski",
+    "Konrad Staniszewski",
+    "Piotr Miłoś"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2OhgHponN8",
+   "pdf_url": "https://openreview.net/pdf?id=2OhgHponN8"
+  },
+  {
+   "title": "LipShiFT: A Certifiably Robust Shift-based Vision Transformer",
+   "authors": [
+    "Rohan Menon",
+    "Nicola Franco",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OfxNKIHfUA",
+   "pdf_url": "https://openreview.net/pdf?id=OfxNKIHfUA"
+  },
+  {
+   "title": "LLMV-AgE: Verifying LLM-Guided Planning for Agentic Exploration in Open-World RL",
+   "authors": [
+    "Haotian Chi",
+    "Songwei Zhao",
+    "Ivor Tsang",
+    "Yew-Soon Ong",
+    "Hechang Chen",
+    "Yi Chang",
+    "Haiyan Yin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dA7a3eKkKg",
+   "pdf_url": "https://openreview.net/pdf?id=dA7a3eKkKg"
+  },
+  {
+   "title": "MathConstruct: Challenging LLM Reasoning with Constructive Proofs",
+   "authors": [
+    "Jasper Dekoninck",
+    "Mislav Balunovic",
+    "Nikola Jovanović",
+    "Ivo Petrov",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nHW2tiGMrb",
+   "pdf_url": "https://openreview.net/pdf?id=nHW2tiGMrb"
+  },
+  {
+   "title": "Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers (Abridged)",
+   "authors": [
+    "Shalev Lifshitz",
+    "Sheila A. McIlraith",
+    "Yilun Du"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o1uezPOisp",
+   "pdf_url": "https://openreview.net/pdf?id=o1uezPOisp"
+  },
+  {
+   "title": "Multi-Turn Code Generation Through Single-Step Rewards",
+   "authors": [
+    "Arnav Kumar Jain",
+    "Gonzalo Gonzalez-Pumariega",
+    "Wayne Chen",
+    "Alexander M Rush",
+    "Wenting Zhao",
+    "Sanjiban Choudhury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PZooi3RIhV",
+   "pdf_url": "https://openreview.net/pdf?id=PZooi3RIhV"
+  },
+  {
+   "title": "Neural Abstract Interpretation",
+   "authors": [
+    "Shaurya Gomber",
+    "Gagandeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WTyyhWhp4m",
+   "pdf_url": "https://openreview.net/pdf?id=WTyyhWhp4m"
+  },
+  {
+   "title": "NO STRESS NO GAIN: STRESS TESTING BASED SELF-CONSISTENCY FOR OLYMPIAD PROGRAMMING",
+   "authors": [
+    "Kunal Singh",
+    "Sayandeep Bhowmick",
+    "Pradeep Moturi",
+    "Siva Kishore Gollapalli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SlCSjhBsq",
+   "pdf_url": "https://openreview.net/pdf?id=7SlCSjhBsq"
+  },
+  {
+   "title": "On the Query Complexity of Verifier-Assisted Language Generation",
+   "authors": [
+    "Edoardo Botta",
+    "Yuchen Li",
+    "Aashay Mehta",
+    "Jordan T. Ash",
+    "Cyril Zhang",
+    "Andrej Risteski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Emd6pCOBo",
+   "pdf_url": "https://openreview.net/pdf?id=8Emd6pCOBo"
+  },
+  {
+   "title": "Randomly Sampled Language Reasoning Problems Reveal Limits of LLMs",
+   "authors": [
+    "Kavi Gupta",
+    "Kate Sanders",
+    "Armando Solar-Lezama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OC0kqmA1sH",
+   "pdf_url": "https://openreview.net/pdf?id=OC0kqmA1sH"
+  },
+  {
+   "title": "ReFoRCE: A Text-to-SQL Agent with Self-Refinement, Format Restriction, and Column Exploration",
+   "authors": [
+    "Minghang Deng",
+    "Ashwin Ramachandran",
+    "Canwen Xu",
+    "Lanxiang Hu",
+    "Zhewei Yao",
+    "Anupam Datta",
+    "Hao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OuFIfDBwQd",
+   "pdf_url": "https://openreview.net/pdf?id=OuFIfDBwQd"
+  },
+  {
+   "title": "Reinforcement Learning with LTL and  $\\omega$-Regular Objectives via Optimality-Preserving Translation to Average Rewards",
+   "authors": [
+    "Xuan-Bach Le",
+    "Dominik Wagner",
+    "Leon Witzman",
+    "Alexander Rabinovich",
+    "Luke Ong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yauUhgs2mm",
+   "pdf_url": "https://openreview.net/pdf?id=yauUhgs2mm"
+  },
+  {
+   "title": "Scaling Randomized Smoothing to state-of-the-art Vision-Language Models",
+   "authors": [
+    "Emmanouil Seferis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hyZePf0jxy",
+   "pdf_url": "https://openreview.net/pdf?id=hyZePf0jxy"
+  },
+  {
+   "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+   "authors": [
+    "Amrith Setlur",
+    "Nived Rajaraman",
+    "Sergey Levine",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0qUjT10ZFT",
+   "pdf_url": "https://openreview.net/pdf?id=0qUjT10ZFT"
+  },
+  {
+   "title": "Self-Steering Language Models",
+   "authors": [
+    "Gabriel Grand",
+    "Joshua B. Tenenbaum",
+    "Vikash Mansinghka",
+    "Alexander K. Lew",
+    "Jacob Andreas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x7E2Qt7n0V",
+   "pdf_url": "https://openreview.net/pdf?id=x7E2Qt7n0V"
+  },
+  {
+   "title": "Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate",
+   "authors": [
+    "Jingyuan Zhou",
+    "Haoze Wu",
+    "Longhao Yan",
+    "Kaidi Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s4jFuCayIa",
+   "pdf_url": "https://openreview.net/pdf?id=s4jFuCayIa"
+  },
+  {
+   "title": "Tasks, Challenges, and Paths Towards AI for Software Engineering",
+   "authors": [
+    "Alex Gu",
+    "Naman Jain",
+    "Wen-Ding Li",
+    "Manish Shetty",
+    "Yijia Shao",
+    "Ziyang Li",
+    "Diyi Yang",
+    "Koushik Sen",
+    "Kevin Ellis",
+    "Armando Solar-Lezama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5xElxBGBa3",
+   "pdf_url": "https://openreview.net/pdf?id=5xElxBGBa3"
+  },
+  {
+   "title": "Temporal Consistency for LLM Reasoning Process Error Identification",
+   "authors": [
+    "Jiacheng Guo",
+    "Yue Wu",
+    "Jiahao Qiu",
+    "Kaixuan Huang",
+    "Xinzhe Juan",
+    "Ling Yang",
+    "Mengdi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sM5QDzIg3j",
+   "pdf_url": "https://openreview.net/pdf?id=sM5QDzIg3j"
+  },
+  {
+   "title": "Toward Trustworthy Neural Program Synthesis",
+   "authors": [
+    "Wen-Ding Li",
+    "Darren Yan Key",
+    "Kevin Ellis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3IvAYgh13g",
+   "pdf_url": "https://openreview.net/pdf?id=3IvAYgh13g"
+  },
+  {
+   "title": "Training and Verifying robust Kolmogorov-Arnold Networks",
+   "authors": [
+    "Björn Heiderich",
+    "Max-Lion Schumacher",
+    "Marco Huber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N9hl7CShRA",
+   "pdf_url": "https://openreview.net/pdf?id=N9hl7CShRA"
+  },
+  {
+   "title": "Type-Constrained Code Generation with Language Models",
+   "authors": [
+    "Niels Mündler",
+    "Jingxuan He",
+    "Hao Wang",
+    "Koushik Sen",
+    "Dawn Song",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LYVyioTwvF",
+   "pdf_url": "https://openreview.net/pdf?id=LYVyioTwvF"
+  },
+  {
+   "title": "Using GPUs And LLMs Can Be Satisfying for Nonlinear Real Arithmetic Problems",
+   "authors": [
+    "Christopher Brix",
+    "Julia Walczak",
+    "Nils Lommen",
+    "Thomas Noll"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u1uhJfay2j",
+   "pdf_url": "https://openreview.net/pdf?id=u1uhJfay2j"
+  },
+  {
+   "title": "Verifying Omega-regular Properties of Neural Network-Controlled Systems via Proof Certificates",
+   "authors": [
+    "Peixin Wang",
+    "Jianhao Bai",
+    "Dapeng Zhi",
+    "Min Zhang",
+    "Luke Ong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ak151Hloyk",
+   "pdf_url": "https://openreview.net/pdf?id=ak151Hloyk"
+  }
+ ]
+}

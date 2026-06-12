@@ -1,0 +1,421 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/MUGen",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:50:01.253Z",
+ "paper_count": 36,
+ "papers": [
+  {
+   "title": "Align-then-Unlearn: Embedding Alignment for LLM Unlearning",
+   "authors": [
+    "Philipp Spohn",
+    "Leander Girrbach",
+    "Jessica Bader",
+    "Zeynep Akata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pyhbguXKXQ",
+   "pdf_url": "https://openreview.net/pdf?id=pyhbguXKXQ"
+  },
+  {
+   "title": "An Empirical Exploration of Continual Unlearning for Image Generation",
+   "authors": [
+    "Justin Lee",
+    "Zheda Mai",
+    "Chongyu Fan",
+    "Wei-Lun Chao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2FKAoAmYOj",
+   "pdf_url": "https://openreview.net/pdf?id=2FKAoAmYOj"
+  },
+  {
+   "title": "Ascent Fails to Forget",
+   "authors": [
+    "Ioannis Mavrothalassitis",
+    "Pol Puigdemont",
+    "Noam Itzhak Levi",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7ewrMRpUVZ",
+   "pdf_url": "https://openreview.net/pdf?id=7ewrMRpUVZ"
+  },
+  {
+   "title": "Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge",
+   "authors": [
+    "Eric Yeats",
+    "Darryl Hannan",
+    "Henry Kvinge",
+    "Timothy Doster",
+    "Scott Mahan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oQyjiBpqxx",
+   "pdf_url": "https://openreview.net/pdf?id=oQyjiBpqxx"
+  },
+  {
+   "title": "Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images",
+   "authors": [
+    "Aditya Kumar",
+    "Tom Blanchard",
+    "Adam Dziedzic",
+    "Franziska Boenisch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pgwAEvXHdy",
+   "pdf_url": "https://openreview.net/pdf?id=pgwAEvXHdy"
+  },
+  {
+   "title": "Breaking Weight Entanglement: Machine Unlearning with Nonlinearity",
+   "authors": [
+    "Yingdan Shi",
+    "Ren Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1PI440bNt5",
+   "pdf_url": "https://openreview.net/pdf?id=1PI440bNt5"
+  },
+  {
+   "title": "ContinualFlow: Learning and Unlearning with Neural Flow Matching",
+   "authors": [
+    "Lorenzo Simone",
+    "Davide Bacciu",
+    "Shuangge Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=11uOgdn3nv",
+   "pdf_url": "https://openreview.net/pdf?id=11uOgdn3nv"
+  },
+  {
+   "title": "Data-Unlearn-Bench: Making Evaluating Data Unlearning Easy",
+   "authors": [
+    "Roy Rinberg",
+    "Pol Puigdemont",
+    "Martin Pawelczyk",
+    "Volkan Cevher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wfOzcdRtY6",
+   "pdf_url": "https://openreview.net/pdf?id=wfOzcdRtY6"
+  },
+  {
+   "title": "Distributional Unlearning: Forgetting Distributions, Not Just Samples",
+   "authors": [
+    "Youssef Allouah",
+    "Rachid Guerraoui",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tZgukaaPu6",
+   "pdf_url": "https://openreview.net/pdf?id=tZgukaaPu6"
+  },
+  {
+   "title": "Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech",
+   "authors": [
+    "Jinju Kim",
+    "Taesoo Kim",
+    "Dong Chan Kim",
+    "Jong Hwan Ko",
+    "Gyeong-Moon Park"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m7mc0xQi1y",
+   "pdf_url": "https://openreview.net/pdf?id=m7mc0xQi1y"
+  },
+  {
+   "title": "DRAGON: Guard LLM Unlearning in Context via Negative Detection and Reasoning",
+   "authors": [
+    "Yaxuan Wang",
+    "Quan Liu",
+    "Chris Yuhao Liu",
+    "Jinlong Pang",
+    "Wei Wei",
+    "Yujia Bao",
+    "Yang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ET24oKP23c",
+   "pdf_url": "https://openreview.net/pdf?id=ET24oKP23c"
+  },
+  {
+   "title": "Embarrassingly Efficient Unlearning with SVD",
+   "authors": [
+    "Marcin Sendera",
+    "Łukasz Struski",
+    "Kamil Książek",
+    "Kryspin Musiol",
+    "Jacek Tabor",
+    "Dawid Damian Rymarczyk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0Ny8aGDqcf",
+   "pdf_url": "https://openreview.net/pdf?id=0Ny8aGDqcf"
+  },
+  {
+   "title": "Erased but Not Forgotten: How Backdoors Compromise Concept Erasure",
+   "authors": [
+    "Jonas Henry Grebe",
+    "Tobias Braun",
+    "Marcus Rohrbach",
+    "Anna Rohrbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H1908A56iM",
+   "pdf_url": "https://openreview.net/pdf?id=H1908A56iM"
+  },
+  {
+   "title": "Evaluating Deep Unlearning in Large Language Models",
+   "authors": [
+    "Ruihan Wu",
+    "Chhavi Yadav",
+    "Ruslan Salakhutdinov",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=376xPmmHoV",
+   "pdf_url": "https://openreview.net/pdf?id=376xPmmHoV"
+  },
+  {
+   "title": "Gauss-Newton Unlearning for the LLM Era",
+   "authors": [
+    "Lev E McKinney",
+    "Anvith Thudi",
+    "Juhan Bae",
+    "Tara Rezaei Kheirkhah",
+    "Nicolas Papernot",
+    "Sheila A. McIlraith",
+    "Roger Baker Grosse"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VFfttnDvW6",
+   "pdf_url": "https://openreview.net/pdf?id=VFfttnDvW6"
+  },
+  {
+   "title": "GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection",
+   "authors": [
+    "Zhijie Deng",
+    "Chris Yuhao Liu",
+    "Zirui Pang",
+    "Xinlei He",
+    "Lei Feng",
+    "Qi Xuan",
+    "Zhaowei Zhu",
+    "Jiaheng Wei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HuIocuFAkY",
+   "pdf_url": "https://openreview.net/pdf?id=HuIocuFAkY"
+  },
+  {
+   "title": "Koopman Autoencoders Learn Neural Representation Dynamics",
+   "authors": [
+    "Nishant Suresh Aswani",
+    "Saif Jabari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xd8hHV691J",
+   "pdf_url": "https://openreview.net/pdf?id=Xd8hHV691J"
+  },
+  {
+   "title": "Learning-Time Encoding Shapes Unlearning in LLMs",
+   "authors": [
+    "Ruihan Wu",
+    "Konstantin Garov",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZK3UTojmB",
+   "pdf_url": "https://openreview.net/pdf?id=bZK3UTojmB"
+  },
+  {
+   "title": "Machine Unlearning under Overparameterization",
+   "authors": [
+    "Jacob L. Block",
+    "Aryan Mokhtari",
+    "Sanjay Shakkottai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LXZrSukr7j",
+   "pdf_url": "https://openreview.net/pdf?id=LXZrSukr7j"
+  },
+  {
+   "title": "Model Unlearning via Sparse Autoencoder Subspace Guided Projections",
+   "authors": [
+    "Xu Wang",
+    "Zihao Li",
+    "Benyou Wang",
+    "Yan Hu",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MIlqM98o9I",
+   "pdf_url": "https://openreview.net/pdf?id=MIlqM98o9I"
+  },
+  {
+   "title": "Noisy But Forgotten: LLM Unlearning are Robust against Perturbed Data in the Wild",
+   "authors": [
+    "Changsheng Wang",
+    "Yihua Zhang",
+    "Jinghan Jia",
+    "Dennis Wei",
+    "Sijia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DEXXC6ClQ2",
+   "pdf_url": "https://openreview.net/pdf?id=DEXXC6ClQ2"
+  },
+  {
+   "title": "On the Fragility of Latent Knowledge: Layer-wise Influence under Unlearning in Large Language Model",
+   "authors": [
+    "Jianing Zhu",
+    "Zongze Li",
+    "Chandler Squires",
+    "Qizhou Wang",
+    "Bo Han",
+    "Pradeep Ravikumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9jv7jEqDNB",
+   "pdf_url": "https://openreview.net/pdf?id=9jv7jEqDNB"
+  },
+  {
+   "title": "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models",
+   "authors": [
+    "Ziheng Cheng",
+    "Yixiao Huang",
+    "Hui Xu",
+    "Somayeh Sojoudi",
+    "Xuandong Zhao",
+    "Dawn Song",
+    "Song Mei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XG6M7f7fTx",
+   "pdf_url": "https://openreview.net/pdf?id=XG6M7f7fTx"
+  },
+  {
+   "title": "Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check",
+   "authors": [
+    "Sungjun Cho",
+    "Dasol Hwang",
+    "Frederic Sala",
+    "Sangheum Hwang",
+    "Kyunghyun Cho",
+    "Sungmin Cha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7qHbv9Un7o",
+   "pdf_url": "https://openreview.net/pdf?id=7qHbv9Un7o"
+  },
+  {
+   "title": "Rethinking Backdoor Unlearning Through Linear Task Decomposition",
+   "authors": [
+    "Amel Abdelraheem",
+    "Alessandro Favero",
+    "Gérôme Bovet",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TshvDxTANK",
+   "pdf_url": "https://openreview.net/pdf?id=TshvDxTANK"
+  },
+  {
+   "title": "Rethinking Evaluation Metrics for Machine Unlearning",
+   "authors": [
+    "Yingdan Shi",
+    "Sijia Liu",
+    "Ren Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wuGgok1Zyd",
+   "pdf_url": "https://openreview.net/pdf?id=wuGgok1Zyd"
+  },
+  {
+   "title": "Rethinking Unlearning for Large Reasoning Models",
+   "authors": [
+    "Changsheng Wang",
+    "Chongyu Fan",
+    "Yihua Zhang",
+    "Jinghan Jia",
+    "Dennis Wei",
+    "Parikshit Ram",
+    "Nathalie Baracaldo",
+    "Sijia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jyzjeLq7K3",
+   "pdf_url": "https://openreview.net/pdf?id=jyzjeLq7K3"
+  },
+  {
+   "title": "Reveal-or-Obscure: A Differentially Private Sampling Algorithm",
+   "authors": [
+    "Naima Tasnim",
+    "Atefeh Gilani",
+    "Lalitha Sankar",
+    "Oliver Kosut"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0jbYibPFuV",
+   "pdf_url": "https://openreview.net/pdf?id=0jbYibPFuV"
+  },
+  {
+   "title": "Selective Knowledge Unlearning via Self-Distillation with Auxiliary Forget-Set Model",
+   "authors": [
+    "Varun Sampath Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fgaKGvrYUg",
+   "pdf_url": "https://openreview.net/pdf?id=fgaKGvrYUg"
+  },
+  {
+   "title": "Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning",
+   "authors": [
+    "Prabhav Sanga",
+    "Jaskaran Singh",
+    "ARUN KUMAR DUBEY"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XrrrboftbY",
+   "pdf_url": "https://openreview.net/pdf?id=XrrrboftbY"
+  },
+  {
+   "title": "Understanding Machine Unlearning Through the Lens of Mode Connectivity",
+   "authors": [
+    "Jiali Cheng",
+    "Hadi Amiri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z2ecfukR6p",
+   "pdf_url": "https://openreview.net/pdf?id=Z2ecfukR6p"
+  },
+  {
+   "title": "Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs",
+   "authors": [
+    "Yiwei Chen",
+    "Soumyadeep Pal",
+    "Yimeng Zhang",
+    "Qing Qu",
+    "Sijia Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qvZhRdQ0QE",
+   "pdf_url": "https://openreview.net/pdf?id=qvZhRdQ0QE"
+  },
+  {
+   "title": "Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI",
+   "authors": [
+    "Christoforos N. Spartalis",
+    "Theodoros Semertzidis",
+    "Petros Daras",
+    "Stratis Gavves"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rWc530VQE6",
+   "pdf_url": "https://openreview.net/pdf?id=rWc530VQE6"
+  },
+  {
+   "title": "Unveiling Concept Attribution in Diffusion Models",
+   "authors": [
+    "Quang H Nguyen",
+    "Hoang Phan",
+    "Khoa D Doan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6V7W5US2fd",
+   "pdf_url": "https://openreview.net/pdf?id=6V7W5US2fd"
+  },
+  {
+   "title": "WaterDrum: Watermarking for Data-centric Unlearning Metric",
+   "authors": [
+    "Xinyang Lu",
+    "Xinyuan Niu",
+    "Gregory Kang Ruey Lau",
+    "Bui Thi Cam Nhung",
+    "Rachael Hwee Ling Sim",
+    "Fanyu Wen",
+    "Chuan-Sheng Foo",
+    "See-Kiong Ng",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U60xxDCSIm",
+   "pdf_url": "https://openreview.net/pdf?id=U60xxDCSIm"
+  },
+  {
+   "title": "When to Forget? Complexity Trade-offs in Machine Unlearning",
+   "authors": [
+    "Martin Van Waerebeke",
+    "Marco Lorenzi",
+    "Giovanni Neglia",
+    "Kevin Scaman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U9Y7QavMjh",
+   "pdf_url": "https://openreview.net/pdf?id=U9Y7QavMjh"
+  }
+ ]
+}

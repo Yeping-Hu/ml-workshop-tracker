@@ -1,0 +1,705 @@
+{
+ "venue_id": "NeurIPS.cc/2025/Workshop/BrainBodyFM",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:52:31.430Z",
+ "paper_count": 57,
+ "papers": [
+  {
+   "title": "‘EEGReXferNet’ – A Lightweight Gen-AI Framework for EEG Subspace Reconstruction via Cross-Subject Transfer Learning and Channel-Aware Embedding.",
+   "authors": [
+    "Shantanu Sarkar",
+    "Piotr Nabrzyski",
+    "Saurabh Prasad",
+    "Jose L Contreras-Vidal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TOW1by49Ec",
+   "pdf_url": "https://openreview.net/pdf?id=TOW1by49Ec"
+  },
+  {
+   "title": "∆ DELTA: Language Diffusion-based EEG-to-Text Architecture",
+   "authors": [
+    "mingyu jeon",
+    "Hyobin Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hw3wWRyLs4",
+   "pdf_url": "https://openreview.net/pdf?id=Hw3wWRyLs4"
+  },
+  {
+   "title": "A foundation model with multi-variate parallel attention to generate neuronal activity",
+   "authors": [
+    "Francesco S. Carzaniga",
+    "Michael Hersche",
+    "Abu Sebastian",
+    "Kaspar Schindler",
+    "Abbas Rahimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hFpCdq5QNl",
+   "pdf_url": "https://openreview.net/pdf?id=hFpCdq5QNl"
+  },
+  {
+   "title": "A scalable self-supervised method for modeling human intracranial recordings during natural behavior",
+   "authors": [
+    "Shivashriganesh P. Mahato",
+    "Jingyun Xiao",
+    "Alexandre Andre",
+    "Geeling Chau",
+    "Wenrui Ma",
+    "Ian Jarratt Knight",
+    "Duy Nguyen",
+    "Lawrence Jianqiao Hu",
+    "Bingni W Brunton",
+    "Michael S. Beauchamp",
+    "Bijan Pesaran",
+    "Sergey A. Shuvaev",
+    "Eva L Dyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CdP8Y4K4fz",
+   "pdf_url": "https://openreview.net/pdf?id=CdP8Y4K4fz"
+  },
+  {
+   "title": "A Sensing Whole Brain Zebrafish Foundation Model for Neuron Dynamics and Behavior",
+   "authors": [
+    "Sam Fatehmanesh",
+    "Matt Thomson",
+    "James Gornet",
+    "David Prober"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wDSXEDsXnl",
+   "pdf_url": "https://openreview.net/pdf?id=wDSXEDsXnl"
+  },
+  {
+   "title": "A VQ-VAE framework for modeling physiological information in fMRI",
+   "authors": [
+    "Shiyu Wang",
+    "Yamin Li",
+    "Ziyuan Xu",
+    "Haatef Pourmotabbed",
+    "Chang Li",
+    "Roza G Bayrak",
+    "Catie Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wf4wqNSngi",
+   "pdf_url": "https://openreview.net/pdf?id=wf4wqNSngi"
+  },
+  {
+   "title": "Adapting Neural Audio Codecs to EEG",
+   "authors": [
+    "Ard Kastrati",
+    "Luca A Lanzendörfer",
+    "Riccardo Rigoni",
+    "John Staib Matilla",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i4Vf28vvhQ",
+   "pdf_url": "https://openreview.net/pdf?id=i4Vf28vvhQ"
+  },
+  {
+   "title": "Advancing Brainwave Modelling with a Codebook-Based Foundation Model",
+   "authors": [
+    "Konstantinos Barmpas",
+    "Na Lee",
+    "Yannis Panagakis",
+    "Dimitrios Adamos",
+    "Nikolaos Laskaris",
+    "Stefanos Zafeiriou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rKR2sH50ZE",
+   "pdf_url": "https://openreview.net/pdf?id=rKR2sH50ZE"
+  },
+  {
+   "title": "Are foundation models useful feature extractors for electroencephalography analysis?",
+   "authors": [
+    "Özgün Turgut",
+    "Felix S. Bott",
+    "Markus Ploner",
+    "Daniel Rueckert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AwxomC5U5a",
+   "pdf_url": "https://openreview.net/pdf?id=AwxomC5U5a"
+  },
+  {
+   "title": "Brain2Model Learning: Training sensory and decision models with human neural activity as a teacher",
+   "authors": [
+    "Tomas Aquino",
+    "Victoria Qinwanxian Liu",
+    "Habiba Azab",
+    "Raissa Mathura",
+    "Andrew J Watrous",
+    "Eleonora Bartoli",
+    "Benjamin Y Hayden",
+    "Paul Sajda",
+    "Sameer A. Sheth",
+    "Nuttida Rungratsameetaweemana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iV6UJyFrjH",
+   "pdf_url": "https://openreview.net/pdf?id=iV6UJyFrjH"
+  },
+  {
+   "title": "CONFORM: A Project to Create Crowd-Sourced Open Neuroscience fMRI Foundation Models",
+   "authors": [
+    "Ben Lahner",
+    "Andrew Luo",
+    "Jacob S. Prince",
+    "Mayukh Deb",
+    "Margaret Marie Henderson",
+    "John A. Pyles",
+    "Leila Wehbe",
+    "Aude Oliva",
+    "Apurva Ratan Murty",
+    "Michael J. Tarr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3STtCcHs7i",
+   "pdf_url": "https://openreview.net/pdf?id=3STtCcHs7i"
+  },
+  {
+   "title": "CPEP: Contrastive Pose-EMG Pre-training Enhances Gesture Generalization on EMG signals",
+   "authors": [
+    "Wenhui Cui",
+    "Christopher Michael Sandino",
+    "Hadi Pouransari",
+    "Ran Liu",
+    "Juri Minxha",
+    "Ellen L. Zippi",
+    "Aman Verma",
+    "Anna Sedlackova",
+    "Erdrin Azemi",
+    "Behrooz Mahasseni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cr7jItQVAN",
+   "pdf_url": "https://openreview.net/pdf?id=cr7jItQVAN"
+  },
+  {
+   "title": "Decoder-as-Policy: Head-Only PPO Fine-Tuning of a Spike-Transformer for Low-Error Kinematic Decoding",
+   "authors": [
+    "Fengge Liang",
+    "Cong Wang",
+    "Shiqian Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Yuif16WbgR",
+   "pdf_url": "https://openreview.net/pdf?id=Yuif16WbgR"
+  },
+  {
+   "title": "Decoding Predictive Inference in Visual Language Processing via Spatiotemporal Neural Coherence",
+   "authors": [
+    "Sean Borneman",
+    "Julia Krebs",
+    "Ronnie Wilbur",
+    "Evguenia Malaia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3lV0sF9EJd",
+   "pdf_url": "https://openreview.net/pdf?id=3lV0sF9EJd"
+  },
+  {
+   "title": "EEG Foundation Models: A Critical Review of Current Progress and Future Directions",
+   "authors": [
+    "Gayal Kuruppu",
+    "Neeraj Wagh",
+    "Yogatheesan Varatharajah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Iu6qVgtgUD",
+   "pdf_url": "https://openreview.net/pdf?id=Iu6qVgtgUD"
+  },
+  {
+   "title": "EEG-Bench: A Benchmark for EEG Foundation Models in Clinical Applications",
+   "authors": [
+    "Ard Kastrati",
+    "Josua Bürki",
+    "Jonas Lauer",
+    "Cheng Xuan",
+    "Raffaele Iaquinto",
+    "Roger Wattenhofer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MAudehqShe",
+   "pdf_url": "https://openreview.net/pdf?id=MAudehqShe"
+  },
+  {
+   "title": "Efficient Calibration in Motor Imagery BCIs Under Data Constraints via Subject Transfer",
+   "authors": [
+    "Tekin Gunasar",
+    "Virginia R. de Sa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQNOt7fCiH",
+   "pdf_url": "https://openreview.net/pdf?id=MQNOt7fCiH"
+  },
+  {
+   "title": "ENIGMA: A Unified Lightweight EEG-to-Image Model for Multi-Subject Visual Decoding",
+   "authors": [
+    "Reese Kneeland",
+    "Wangshu Jiang",
+    "Ugo Bruzadin Nunes",
+    "Si Kai Lee",
+    "Paul Steven Scotti",
+    "Arnaud Delorme",
+    "Jonathan Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GzayLAuiuy",
+   "pdf_url": "https://openreview.net/pdf?id=GzayLAuiuy"
+  },
+  {
+   "title": "Evaluating Foundation Models for the Brain: A Dynamical Systems Perspective",
+   "authors": [
+    "Max Kanwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CnT60CEfPa",
+   "pdf_url": "https://openreview.net/pdf?id=CnT60CEfPa"
+  },
+  {
+   "title": "Exploring RAG-driven Multimodal LLMs for Explainable ECG Interpretation",
+   "authors": [
+    "Minsol Kim",
+    "Du Liu",
+    "Ragasudha Botta",
+    "Seok Gyu Han",
+    "Man Jiang",
+    "Jason Gusdorf",
+    "Patricia Maes",
+    "Paul Pu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bCG7sMA5Bt",
+   "pdf_url": "https://openreview.net/pdf?id=bCG7sMA5Bt"
+  },
+  {
+   "title": "FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification",
+   "authors": [
+    "Prajit Sengupta",
+    "Islem Rekik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y3dhKusYFx",
+   "pdf_url": "https://openreview.net/pdf?id=y3dhKusYFx"
+  },
+  {
+   "title": "GAN-Guided Diffusion Models for Generating Clinically Meaningful Multimodal Neuroimaging Data",
+   "authors": [
+    "Reihaneh Hassanzadeh",
+    "Anees Abrol",
+    "Hamid Hassanzadeh",
+    "Vince D. Calhoun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=luatL3pppl",
+   "pdf_url": "https://openreview.net/pdf?id=luatL3pppl"
+  },
+  {
+   "title": "Handwriting decoding as a challenging Motor Imagery task for EEG Foundation Models",
+   "authors": [
+    "Srinivas Ravishankar",
+    "Virginia R. de Sa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=INzFFP3Meu",
+   "pdf_url": "https://openreview.net/pdf?id=INzFFP3Meu"
+  },
+  {
+   "title": "HuiduRep: A Self-Supervised Learning Framework for More Robust Neural Representations from Extracellular Recordings",
+   "authors": [
+    "Kohaku Kirisame",
+    "Zishuo Feng",
+    "Wei Shi",
+    "Jicong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j2ciqxmRP5",
+   "pdf_url": "https://openreview.net/pdf?id=j2ciqxmRP5"
+  },
+  {
+   "title": "Human Sensory-Musculoskeletal Modeling and Control of Whole-Body Movements",
+   "authors": [
+    "Chenhui Zuo",
+    "Guohao lin",
+    "Chen Zhang",
+    "Shanning Zhuang",
+    "Yanan Sui"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZIW6DwDgbm",
+   "pdf_url": "https://openreview.net/pdf?id=ZIW6DwDgbm"
+  },
+  {
+   "title": "Imitation learning of dexterous hand control uncovers muscle-level representations in primate sensorimotor cortex",
+   "authors": [
+    "Alessandro Marin Vargas",
+    "Adriana Perez Rotondo",
+    "Alberto Silvio Chiappa",
+    "Mackenzie W Mathis",
+    "Alexander Mathis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iNSQcb4W86",
+   "pdf_url": "https://openreview.net/pdf?id=iNSQcb4W86"
+  },
+  {
+   "title": "Interpretable-MTLNet: A Kolmogorov–Arnold Network for Multitask Mental Health Prediction",
+   "authors": [
+    "Mai Ali",
+    "Zhenghao Ni",
+    "Deepa Kundur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xypzPCMBah",
+   "pdf_url": "https://openreview.net/pdf?id=xypzPCMBah"
+  },
+  {
+   "title": "Latent Graph Learning in Generative Models of Neural Signals",
+   "authors": [
+    "Nathan Kodama",
+    "Kenneth A. Loparo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DL5KIUii86",
+   "pdf_url": "https://openreview.net/pdf?id=DL5KIUii86"
+  },
+  {
+   "title": "Learning Structured Sleep Transitions with Sequential EEG Foundation Models",
+   "authors": [
+    "Koki Yoshida",
+    "Zheng Chen",
+    "Rikuto Kotoge",
+    "Yasuko Matsubara",
+    "Yasushi Sakurai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uqHvhm6BQM",
+   "pdf_url": "https://openreview.net/pdf?id=uqHvhm6BQM"
+  },
+  {
+   "title": "Learning the relative composition of EEG signals using pairwise relative shift pretraining",
+   "authors": [
+    "Christopher Michael Sandino",
+    "Sayeri Lala",
+    "Geeling Chau",
+    "Melika Ayoughi",
+    "Juri Minxha",
+    "Ellen L. Zippi",
+    "Ali Moin",
+    "Behrooz Mahasseni",
+    "Erdrin Azemi",
+    "Hanlin Goh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kk8EUOiILZ",
+   "pdf_url": "https://openreview.net/pdf?id=kk8EUOiILZ"
+  },
+  {
+   "title": "Learning Time-Scale Invariant Population-Level Neural Representations",
+   "authors": [
+    "Eshani Patel",
+    "Yisong Yue",
+    "Geeling Chau"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gPw0qPn908",
+   "pdf_url": "https://openreview.net/pdf?id=gPw0qPn908"
+  },
+  {
+   "title": "Leveraging Foundational Models and Simple Fusion for Multi-modal Physiological Signal Analysis",
+   "authors": [
+    "Youssef Ghallab",
+    "Omar Iraqy",
+    "Mohamed Kandil",
+    "Mohamed Ashraf",
+    "Saad El Dine Ahmed",
+    "Morougue Ghazal",
+    "Ayman Khalafallah",
+    "Nagwa El-Makky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qTVtaG7R7I",
+   "pdf_url": "https://openreview.net/pdf?id=qTVtaG7R7I"
+  },
+  {
+   "title": "MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery",
+   "authors": [
+    "Reese Kneeland",
+    "Cesar Torrico",
+    "Tong Chen",
+    "Jordyn Antonio Ojeda",
+    "Shubh Khanna",
+    "Jonathan Xu",
+    "Paul Steven Scotti",
+    "Thomas Naselaris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WvwwWgI2fP",
+   "pdf_url": "https://openreview.net/pdf?id=WvwwWgI2fP"
+  },
+  {
+   "title": "Mitigating Subject Dependency in EEG Decoding with Subject-Specific Low-Rank Adapters",
+   "authors": [
+    "Timon Klein",
+    "Piotr Minakowski",
+    "Sebastian Sager"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vDtsuVfBmG",
+   "pdf_url": "https://openreview.net/pdf?id=vDtsuVfBmG"
+  },
+  {
+   "title": "Mouse-Guided Gaze: Semi-Supervised Learning of Intention-Aware Representations for Reading Detection",
+   "authors": [
+    "Seongsil Heo",
+    "Roberto Manduchi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U72E2lxXWE",
+   "pdf_url": "https://openreview.net/pdf?id=U72E2lxXWE"
+  },
+  {
+   "title": "Multi-modal, multi-species, and multi-task latent-space model for decoding level of consciousness",
+   "authors": [
+    "Julia Huiming Wang",
+    "Méliya El Fakiri",
+    "Jake Swann",
+    "Elena Gado",
+    "Scott Cheng",
+    "Jordy Tasserie",
+    "Rongchen Huang",
+    "Jongha Lee",
+    "Axoft",
+    "Jia Liu",
+    "Tianyang Ye",
+    "Paul Le Floch",
+    "Oliver Armitage"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fk2hDc9DyL",
+   "pdf_url": "https://openreview.net/pdf?id=fk2hDc9DyL"
+  },
+  {
+   "title": "MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding",
+   "authors": [
+    "Meng-Chun Zhang",
+    "Kateryna Shapovalenko",
+    "Yucheng Shao",
+    "Yuzhi Guo",
+    "Parusha Pradhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=scpBMrMSMt",
+   "pdf_url": "https://openreview.net/pdf?id=scpBMrMSMt"
+  },
+  {
+   "title": "NeuroMamba: A State-Space Foundation Model for Functional MRI",
+   "authors": [
+    "Jubin Choi",
+    "David Keetae Park",
+    "Junbeom Kwon",
+    "Shinjae Yoo",
+    "Jiook Cha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kftg4lmQi8",
+   "pdf_url": "https://openreview.net/pdf?id=kftg4lmQi8"
+  },
+  {
+   "title": "Not All Sessions Are Equal: Data Selection for Multi-Session Pretraining in Neural Data Transformers",
+   "authors": [
+    "Linxing Preston Jiang",
+    "Shirui Chen",
+    "Emmanuel Tanumihardja",
+    "Xiaochuang Han",
+    "Weijia Shi",
+    "Eric Todd SheaBrown",
+    "Rajesh P. N. Rao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Due0ZtLZiS",
+   "pdf_url": "https://openreview.net/pdf?id=Due0ZtLZiS"
+  },
+  {
+   "title": "Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants",
+   "authors": [
+    "Louis Jalouzot",
+    "Alexis Thual",
+    "Yair Lakretz",
+    "Christophe Pallier",
+    "Bertrand Thirion"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aWQFT2V3eI",
+   "pdf_url": "https://openreview.net/pdf?id=aWQFT2V3eI"
+  },
+  {
+   "title": "PhysioJEPA: Joint Embedding Representations of Physiological Signals for Real Time Risk Estimation in the Intensive Care Unit",
+   "authors": [
+    "Benjamin Fox",
+    "Dung T. Hoang",
+    "ANKIT PAREKH",
+    "Girish N Nadkarni",
+    "Ankit Sakhuja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JHMLr8zRuZ",
+   "pdf_url": "https://openreview.net/pdf?id=JHMLr8zRuZ"
+  },
+  {
+   "title": "Predictive Modeling of Brain-Body Association",
+   "authors": [
+    "Minkyu Choi",
+    "Xiaokai Wang",
+    "Zhongming Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=h1Ev5DCbgX",
+   "pdf_url": "https://openreview.net/pdf?id=h1Ev5DCbgX"
+  },
+  {
+   "title": "PrimateFace: A Resource for Generalizable Cross-Species Facial Analysis",
+   "authors": [
+    "Felipe Parodi",
+    "Jordan Kyle Matelsky",
+    "Alessandro P. Lamacchia",
+    "Melanie Segado",
+    "Yaoguang Jiang",
+    "Alejandra Regla-Vargas",
+    "Liala Sofi",
+    "Clare Kimock",
+    "Bridget M Waller",
+    "Michael L. Platt",
+    "Konrad Kording"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zk5cYUJQ0C",
+   "pdf_url": "https://openreview.net/pdf?id=zk5cYUJQ0C"
+  },
+  {
+   "title": "Processing fMRI Brain Signals Using Latents from Natural Image Autoencoders",
+   "authors": [
+    "Juhyeon Park",
+    "Peter Yongho Kim",
+    "Jungwoo Park",
+    "Jubin Choi",
+    "Jungwoo Seo",
+    "Jiook Cha",
+    "Taesup Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8qXOE72CNh",
+   "pdf_url": "https://openreview.net/pdf?id=8qXOE72CNh"
+  },
+  {
+   "title": "Region-Aware Reconstruction Strategy for Pre-training fMRI Foundation Model",
+   "authors": [
+    "Ruthwik Reddy Doodipala",
+    "Pankaj Pandey",
+    "Carolina Torres Rojas",
+    "Manob Jyoti Saikia",
+    "Ranganatha Sitaram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=52HyCgZrgv",
+   "pdf_url": "https://openreview.net/pdf?id=52HyCgZrgv"
+  },
+  {
+   "title": "Representation-First Emotion Decoding from 7T fMRI",
+   "authors": [
+    "Joshua Lunger",
+    "Jurgen Germann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=axphVwbQYx",
+   "pdf_url": "https://openreview.net/pdf?id=axphVwbQYx"
+  },
+  {
+   "title": "Resource-Efficient ECG Foundation Networks via Layer-wise Adaptive Compression",
+   "authors": [
+    "Sudhanshu Gaurhar",
+    "Tushar Shinde",
+    "Anil Kumar Tiwari"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ByIyc4x8GD",
+   "pdf_url": "https://openreview.net/pdf?id=ByIyc4x8GD"
+  },
+  {
+   "title": "Scalable Diffusion Transformer for Conditional 4D fMRI Synthesis",
+   "authors": [
+    "Jungwoo Seo",
+    "David Keetae Park",
+    "Shinjae Yoo",
+    "Jiook Cha"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DsghCw8ybh",
+   "pdf_url": "https://openreview.net/pdf?id=DsghCw8ybh"
+  },
+  {
+   "title": "Scaling Vision Transformers for Functional MRI with Flat Maps",
+   "authors": [
+    "Connor Lane",
+    "Daniel Z Kaplan",
+    "Tanishq Mathew Abraham",
+    "Paul Steven Scotti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L0CpmKEVHw",
+   "pdf_url": "https://openreview.net/pdf?id=L0CpmKEVHw"
+  },
+  {
+   "title": "Simple Temporal Attention Beats Complex Decoders for Neural-to-Visual Mapping from Primate Spiking Data",
+   "authors": [
+    "Matteo Ciferri",
+    "Matteo Ferrante",
+    "Nicola Toschi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zGZ7MjffUR",
+   "pdf_url": "https://openreview.net/pdf?id=zGZ7MjffUR"
+  },
+  {
+   "title": "The Neural Pile: 476 billion tokens of broad-coverage spiking neural activity data",
+   "authors": [
+    "Emin Orhan",
+    "Feiyi Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NKFxs7UvN9",
+   "pdf_url": "https://openreview.net/pdf?id=NKFxs7UvN9"
+  },
+  {
+   "title": "The One Where They Brain-Tune for Social Cognition: Multi-Modal Brain-Tuning on Friends",
+   "authors": [
+    "Nico Policzer",
+    "Cameron Braunstein",
+    "Mariya Toneva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tE7alHyFzn",
+   "pdf_url": "https://openreview.net/pdf?id=tE7alHyFzn"
+  },
+  {
+   "title": "Towards a generalizable, unified framework for multimodal neural decoding",
+   "authors": [
+    "Nanda H Krishna",
+    "Mathys Loiselle",
+    "Avery Hee-Woon Ryoo",
+    "Matthew G Perich",
+    "Guillaume Lajoie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZMRxom1HKo",
+   "pdf_url": "https://openreview.net/pdf?id=ZMRxom1HKo"
+  },
+  {
+   "title": "Towards Clinically Faithful ECG Reports via Quantization-Based Tokenization",
+   "authors": [
+    "Rohan Banerjee",
+    "Jacques Delfrate",
+    "Robert Avram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MJCDK4mnAa",
+   "pdf_url": "https://openreview.net/pdf?id=MJCDK4mnAa"
+  },
+  {
+   "title": "Towards foundation models of naturalistic collective social‑neural dynamics",
+   "authors": [
+    "Asaf Benjamin",
+    "Sergey Anpilov",
+    "Omer Izhaki",
+    "Maya Sheffer",
+    "Tommaso Biagini",
+    "Yair Shemesh",
+    "Alon Rubin",
+    "Inbar Saraf-Sinik",
+    "Mackenzie W Mathis",
+    "Alexander Mathis",
+    "Alon Chen",
+    "Ofer Yizhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DIL6fJ9427",
+   "pdf_url": "https://openreview.net/pdf?id=DIL6fJ9427"
+  },
+  {
+   "title": "Towards Interpretable Visual Decoding with Attention to Brain Representations",
+   "authors": [
+    "Pinyuan Feng",
+    "Hossein Adeli",
+    "Wenxuan Guo",
+    "Ethan Hwang",
+    "Fan L. Cheng",
+    "Nikolaus Kriegeskorte"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pes6WGkeV6",
+   "pdf_url": "https://openreview.net/pdf?id=Pes6WGkeV6"
+  },
+  {
+   "title": "Unified Pretraining on Mixed Optophysiology and Electrophysiology Data Across Brain Regions",
+   "authors": [
+    "Ian Jarratt Knight",
+    "Vinam Arora",
+    "Mehdi Azabou",
+    "Zihao Chen",
+    "Eva L Dyer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bM3ZR0MK0f",
+   "pdf_url": "https://openreview.net/pdf?id=bM3ZR0MK0f"
+  }
+ ]
+}

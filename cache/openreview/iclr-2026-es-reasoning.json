@@ -1,0 +1,618 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/ES-Reasoning",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:48:08.759Z",
+ "paper_count": 48,
+ "papers": [
+  {
+   "title": "An Analysis of Reasoning Length Scaling and Positional Effects in Vision Language Models for Spatial Reasoning",
+   "authors": [
+    "Hakan Muluk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XrsEzp6HAJ",
+   "pdf_url": "https://openreview.net/pdf?id=XrsEzp6HAJ"
+  },
+  {
+   "title": "Anytime Safe PAC Efficient Reasoning",
+   "authors": [
+    "Chengyao Yu",
+    "Hao Zeng",
+    "Youxin Zhu",
+    "Jianguo Huang",
+    "Huajun Zeng",
+    "Bingyi Jing"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eDrX6rw32l",
+   "pdf_url": "https://openreview.net/pdf?id=eDrX6rw32l"
+  },
+  {
+   "title": "Bio-Inspired Spatial Reasoning Transformer: Grid Cells, Place Cells, and Attractor Dynamics for Text-Based Spatial Understanding",
+   "authors": [
+    "Hyunjun Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B48jHaYIx1",
+   "pdf_url": "https://openreview.net/pdf?id=B48jHaYIx1"
+  },
+  {
+   "title": "CivicEmbed: Feature-specific embeddings for efficient geographic reasoning and retrieval",
+   "authors": [
+    "Josephine Wang",
+    "Julien Coquet",
+    "Jeffrey Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7SpH7TqPnV",
+   "pdf_url": "https://openreview.net/pdf?id=7SpH7TqPnV"
+  },
+  {
+   "title": "Demystifying Action Space Design for Robotic Manipulation Policies",
+   "authors": [
+    "Yuchun Feng",
+    "Jinliang Zheng",
+    "Zhihao Wang",
+    "Dongxiu Liu",
+    "Jianxiong Li",
+    "Jiangmiao Pang",
+    "Tai Wang",
+    "Xianyuan Zhan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nAOgwZ9Ymj",
+   "pdf_url": "https://openreview.net/pdf?id=nAOgwZ9Ymj"
+  },
+  {
+   "title": "DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution",
+   "authors": [
+    "Yunhai Hu",
+    "Zining Liu",
+    "Xiangyang Yin",
+    "Tianhua Xia",
+    "BO BAO",
+    "Eric Sather",
+    "Vithursan Thangarasa",
+    "Sai Qian Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CRgWv0kWjF",
+   "pdf_url": "https://openreview.net/pdf?id=CRgWv0kWjF"
+  },
+  {
+   "title": "EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery",
+   "authors": [
+    "Zelin Xu",
+    "Yupu Zhang",
+    "Saugat Adhikari",
+    "Saiful Islam",
+    "Tingsong Xiao",
+    "Zibo Liu",
+    "Shigang Chen",
+    "Da Yan",
+    "Zhe Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mR9YFoMHBK",
+   "pdf_url": "https://openreview.net/pdf?id=mR9YFoMHBK"
+  },
+  {
+   "title": "Efficient Dense Features With BRIXEL",
+   "authors": [
+    "Alexander Lappe",
+    "Martin A. Giese"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tqVdwVO9Cg",
+   "pdf_url": "https://openreview.net/pdf?id=tqVdwVO9Cg"
+  },
+  {
+   "title": "Embedding Morphology into Transformers for Cross-Robot Policy Learning",
+   "authors": [
+    "Kei Suzuki",
+    "Jing Liu",
+    "Ye Wang",
+    "Chiori Hori",
+    "Matthew Brand",
+    "Diego Romeres",
+    "Toshiaki Koike-Akino"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WVEdIvUSqp",
+   "pdf_url": "https://openreview.net/pdf?id=WVEdIvUSqp"
+  },
+  {
+   "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction",
+   "authors": [
+    "Qineng Wang",
+    "Wenlong Huang",
+    "Yu Zhou",
+    "Hang Yin",
+    "Tianwei Bao",
+    "Jianwen Lyu",
+    "Weiyu Liu",
+    "Ruohan Zhang",
+    "Jiajun Wu",
+    "Li Fei-Fei",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7nhCSGwlqe",
+   "pdf_url": "https://openreview.net/pdf?id=7nhCSGwlqe"
+  },
+  {
+   "title": "Enhancing Aerial Vision-Language Navigation with Map Grounding and History Awareness",
+   "authors": [
+    "Hakob Tamazyan",
+    "Narek Nurijanyan",
+    "Boris Martirosyan",
+    "Hrant Khachatrian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AqgVRok7j8",
+   "pdf_url": "https://openreview.net/pdf?id=AqgVRok7j8"
+  },
+  {
+   "title": "Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences",
+   "authors": [
+    "Wenxi Wu",
+    "Jingjing Zhang",
+    "Martim Brandao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3KfaCg4dGh",
+   "pdf_url": "https://openreview.net/pdf?id=3KfaCg4dGh"
+  },
+  {
+   "title": "Explicit 3D Spatial Reasoning via Program Generation",
+   "authors": [
+    "Zhanpeng Luo",
+    "Ce Zhang",
+    "Silong Yong",
+    "Cunxi Dai",
+    "Qianwei Wang",
+    "Haoxi Ran",
+    "Guanya Shi",
+    "Katia P. Sycara",
+    "Yaqi Xie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FpoioKetCP",
+   "pdf_url": "https://openreview.net/pdf?id=FpoioKetCP"
+  },
+  {
+   "title": "FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving",
+   "authors": [
+    "Zekai Li",
+    "Yihao Liang",
+    "Hongfei Zhang",
+    "Jian Chen",
+    "Zhijian Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kuZrNI5oZM",
+   "pdf_url": "https://openreview.net/pdf?id=kuZrNI5oZM"
+  },
+  {
+   "title": "FROM STEERING TO PEDALLING: DO AUTONOMOUS DRIVING VLMS GENERALIZE TO CYCLIST-ASSISTIVE SPATIAL PERCEPTION AND PLANNING?",
+   "authors": [
+    "Krishna Kanth Nakka",
+    "Vedasri Nakka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E2hEQXC1hK",
+   "pdf_url": "https://openreview.net/pdf?id=E2hEQXC1hK"
+  },
+  {
+   "title": "FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning",
+   "authors": [
+    "Haozheng Luo",
+    "Zhuolin Jiang",
+    "Md Zahid Hasan",
+    "Yan Chen",
+    "Soumalya Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eSszgCqCEL",
+   "pdf_url": "https://openreview.net/pdf?id=eSszgCqCEL"
+  },
+  {
+   "title": "Geometry-aware 4D Video Generation for Robot Manipulation",
+   "authors": [
+    "Zeyi Liu",
+    "Shuang Li",
+    "Eric Cousineau",
+    "Siyuan Feng",
+    "Benjamin Burchfiel",
+    "Shuran Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KoXY5e7bVW",
+   "pdf_url": "https://openreview.net/pdf?id=KoXY5e7bVW"
+  },
+  {
+   "title": "GRAID: Enhancing Spatial Reasoning of VLMs through High-Fidelity Data Generation",
+   "authors": [
+    "Karim Elmaaroufi",
+    "Liheng Lai",
+    "Justin Svegliato",
+    "Yutong Bai",
+    "Sanjit A. Seshia",
+    "Matei Zaharia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1wXDw8xZj9",
+   "pdf_url": "https://openreview.net/pdf?id=1wXDw8xZj9"
+  },
+  {
+   "title": "HiResNets: Native Full-HD Video Recognition with Foveal Residual Streams",
+   "authors": [
+    "Shivani Mall",
+    "Swarnim Jain",
+    "Joao F. Henriques"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tT6mBNmTIg",
+   "pdf_url": "https://openreview.net/pdf?id=tT6mBNmTIg"
+  },
+  {
+   "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
+   "authors": [
+    "Suyuchen Wang",
+    "Tianyu Zhang",
+    "Ahmed Masry",
+    "Christopher Pal",
+    "Spandana Gella",
+    "Bang Liu",
+    "Perouz Taslakian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EVCAk6Fi2X",
+   "pdf_url": "https://openreview.net/pdf?id=EVCAk6Fi2X"
+  },
+  {
+   "title": "LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning",
+   "authors": [
+    "Jiangyong Huang",
+    "Xiaojian Ma",
+    "Xiongkun Linghu",
+    "Junchao He",
+    "Qing Li",
+    "Song-Chun Zhu",
+    "Yixin Chen",
+    "Baoxiong Jia",
+    "Siyuan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0qsmYYjdEu",
+   "pdf_url": "https://openreview.net/pdf?id=0qsmYYjdEu"
+  },
+  {
+   "title": "LocationReasoner: Evaluating LLMs on Real-World Site Selection Reasoning",
+   "authors": [
+    "Miho Koda",
+    "Yu Zheng",
+    "Ruixian Ma",
+    "Mingyang Sun",
+    "Devesh Pansare",
+    "Fabio Duarte",
+    "Paolo Santi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pvRltgGwyc",
+   "pdf_url": "https://openreview.net/pdf?id=pvRltgGwyc"
+  },
+  {
+   "title": "MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse",
+   "authors": [
+    "Zhenyu Pan",
+    "Han Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6EPClgecmz",
+   "pdf_url": "https://openreview.net/pdf?id=6EPClgecmz"
+  },
+  {
+   "title": "Multimodal Language Models Cannot Spot Spatial Inconsistencies",
+   "authors": [
+    "Om Khangaonkar",
+    "Hadi J. Rad",
+    "Hamed Pirsiavash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SfpQOjOGeu",
+   "pdf_url": "https://openreview.net/pdf?id=SfpQOjOGeu"
+  },
+  {
+   "title": "Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images",
+   "authors": [
+    "JiaKui Hu",
+    "Shanshan Zhao",
+    "Qing-Guo Chen",
+    "Xuerui Qiu",
+    "Jialun Liu",
+    "Zhao Xu",
+    "Weihua Luo",
+    "Kaifu Zhang",
+    "Yanye Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lFB8b8PYFO",
+   "pdf_url": "https://openreview.net/pdf?id=lFB8b8PYFO"
+  },
+  {
+   "title": "On the Provable Performance Guarantee of Efficient Reasoning Models",
+   "authors": [
+    "Hao Zeng",
+    "Jianguo Huang",
+    "Bingyi Jing",
+    "Hongxin Wei",
+    "Bo An"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WZI8nHb3st",
+   "pdf_url": "https://openreview.net/pdf?id=WZI8nHb3st"
+  },
+  {
+   "title": "Orion: A Fully Deterministic and Interpretable Pipeline for Video Scene Graph Generation with Explicit Causal Influence Scoring",
+   "authors": [
+    "Riddhiman Rana",
+    "Aryav Semwal",
+    "Yogesh Atluru",
+    "Shivank Garg",
+    "Cristian Meo",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Tu0PwHgwcZ",
+   "pdf_url": "https://openreview.net/pdf?id=Tu0PwHgwcZ"
+  },
+  {
+   "title": "PhyRPR: Training-Free Physics-Constrained Video Generation",
+   "authors": [
+    "Yibo Zhao",
+    "Hengjia Li",
+    "Xiaofei He",
+    "Boxi Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uuw9xIhTn2",
+   "pdf_url": "https://openreview.net/pdf?id=uuw9xIhTn2"
+  },
+  {
+   "title": "PhysNote: Self-Knowledge Notes for Evolvable Physical Reasoning in Vision-Language Model",
+   "authors": [
+    "Sinin Zhang",
+    "Yunfei Xie",
+    "Yuxuan Cheng",
+    "Haoyu Zhang",
+    "Tong Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DRkfIY37a5",
+   "pdf_url": "https://openreview.net/pdf?id=DRkfIY37a5"
+  },
+  {
+   "title": "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation",
+   "authors": [
+    "Wenlong Huang",
+    "Yu-Wei Chao",
+    "Arsalan Mousavian",
+    "Ming-Yu Liu",
+    "Dieter Fox",
+    "Kaichun Mo",
+    "Li Fei-Fei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VMO0bNLLHG",
+   "pdf_url": "https://openreview.net/pdf?id=VMO0bNLLHG"
+  },
+  {
+   "title": "Probing Perceptual Constancy in Large Vision-Language Models",
+   "authors": [
+    "Haoran Sun",
+    "Bingyang Wang",
+    "Suyang Yu",
+    "Yijiang Li",
+    "Qingying Gao",
+    "Haiyun Lyu",
+    "Lianyu Huang",
+    "Zelong Hong",
+    "Jiahui Ge",
+    "Qianli Ma",
+    "Hang He",
+    "Yifan Zhou",
+    "Lingzi Guo",
+    "Lantao Mei",
+    "Maijunxian Wang",
+    "Dezhi Luo",
+    "Hokin Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EkueDawqLJ",
+   "pdf_url": "https://openreview.net/pdf?id=EkueDawqLJ"
+  },
+  {
+   "title": "Probing Visual Planning in Image Editing Models",
+   "authors": [
+    "Zhimu Zhou",
+    "Yanpeng Zhao",
+    "Qiuyu Liao",
+    "Bo Zhao",
+    "Xiaojian Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RdhG125Xe8",
+   "pdf_url": "https://openreview.net/pdf?id=RdhG125Xe8"
+  },
+  {
+   "title": "Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision–Language–Action Models via Latent Iterative Reasoning",
+   "authors": [
+    "Yalcin Tur",
+    "Jalal Naghiyev",
+    "Haoquan Fang",
+    "Wei-Chuan Tsai",
+    "Jiafei Duan",
+    "Dieter Fox",
+    "Ranjay Krishna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p1UF73ZvE0",
+   "pdf_url": "https://openreview.net/pdf?id=p1UF73ZvE0"
+  },
+  {
+   "title": "REMAP: Evaluating Geometric Dual Representations in Multi-view Spatial Reasoning",
+   "authors": [
+    "Selina Cheng",
+    "Anne Wu",
+    "Eunice Yiu",
+    "Yoav Artzi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4hQxcX62TQ",
+   "pdf_url": "https://openreview.net/pdf?id=4hQxcX62TQ"
+  },
+  {
+   "title": "ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing",
+   "authors": [
+    "Martin JJ. Bucher",
+    "Iro Armeni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WPP6ThdEzk",
+   "pdf_url": "https://openreview.net/pdf?id=WPP6ThdEzk"
+  },
+  {
+   "title": "RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic",
+   "authors": [
+    "Le Wang",
+    "Zonghao Ying",
+    "Xiao yang",
+    "Quanchen Zou",
+    "Zhenfei Yin",
+    "Tianlin Li",
+    "Jian Yang",
+    "Yaodong Yang",
+    "Lu Sheng",
+    "Aishan Liu",
+    "Xianglong Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wyKCkQ2GyO",
+   "pdf_url": "https://openreview.net/pdf?id=wyKCkQ2GyO"
+  },
+  {
+   "title": "SCOPE: Spatially-Constrained Parametric Editing for Text-Guided CAD Models",
+   "authors": [
+    "Md Zahid Hasan",
+    "Soumalya Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3urCXKasQz",
+   "pdf_url": "https://openreview.net/pdf?id=3urCXKasQz"
+  },
+  {
+   "title": "Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering",
+   "authors": [
+    "Ruei-Chi Lai",
+    "Bolivar Enrique Solarte",
+    "Chin-Hsuan Wu",
+    "Yi-Hsuan Tsai",
+    "Min Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jnDbE6cV2D",
+   "pdf_url": "https://openreview.net/pdf?id=jnDbE6cV2D"
+  },
+  {
+   "title": "Solving Spatial Supersensing Without Spatial Supersensing",
+   "authors": [
+    "Vishaal Udandarao",
+    "Shyamgopal Karthik",
+    "Surabhi S Nath",
+    "Andreas Hochlehnert",
+    "Matthias Bethge",
+    "Ameya Prabhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3OCQaNbE8N",
+   "pdf_url": "https://openreview.net/pdf?id=3OCQaNbE8N"
+  },
+  {
+   "title": "Spatial Competence Benchmark",
+   "authors": [
+    "Jash Vira",
+    "Ashley Harris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IS5NSewnHp",
+   "pdf_url": "https://openreview.net/pdf?id=IS5NSewnHp"
+  },
+  {
+   "title": "SpatialTree : How Spatial Abilities Branch Out in MLLMs",
+   "authors": [
+    "Yuxi Xiao",
+    "Longfei Li",
+    "Shen Yan",
+    "Xinhang Liu",
+    "Sida Peng",
+    "Yunchao Wei",
+    "Xiaowei Zhou",
+    "Bingyi Kang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DUqZa55ElK",
+   "pdf_url": "https://openreview.net/pdf?id=DUqZa55ElK"
+  },
+  {
+   "title": "Structural Graph Probing of Vision–Language Models",
+   "authors": [
+    "Haoyu He",
+    "Yue Zhuo",
+    "Yu Zheng",
+    "Qi R. Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ALhvaucuq6",
+   "pdf_url": "https://openreview.net/pdf?id=ALhvaucuq6"
+  },
+  {
+   "title": "SVQA-R1: Reinforcing Spatial Reasoning in MLLMs via View-Consistent Reward Optimization",
+   "authors": [
+    "Peiyao Wang",
+    "Haibin Ling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=o2E8oa2frj",
+   "pdf_url": "https://openreview.net/pdf?id=o2E8oa2frj"
+  },
+  {
+   "title": "The Dual Mechanisms of Spatial Reasoning in Vision–Language Models",
+   "authors": [
+    "Kelly Cui",
+    "Nikhil Prakash",
+    "Ayush Raina",
+    "David Bau",
+    "Antonio Torralba",
+    "Tamar Rott Shaham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ueb38N1aF3",
+   "pdf_url": "https://openreview.net/pdf?id=Ueb38N1aF3"
+  },
+  {
+   "title": "TIDES: Test-time Inference Drift Exploitation via Scaling",
+   "authors": [
+    "Haoran Dai",
+    "Haozheng Luo",
+    "Haotian Zhang",
+    "Meng lin",
+    "Yan Chen",
+    "Binghui Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tXRUpMp7xO",
+   "pdf_url": "https://openreview.net/pdf?id=tXRUpMp7xO"
+  },
+  {
+   "title": "VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents",
+   "authors": [
+    "Zirui Wang",
+    "Junyi Zhang",
+    "Jiaxin Ge",
+    "Long Lian",
+    "Letian Fu",
+    "Lisa Dunlap",
+    "Ken Goldberg",
+    "XuDong Wang",
+    "Ion Stoica",
+    "David M. Chan",
+    "Sewon Min",
+    "Joseph E. Gonzalez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=agRDo89IJh",
+   "pdf_url": "https://openreview.net/pdf?id=agRDo89IJh"
+  },
+  {
+   "title": "VisualThinker: First ever R1-Zero's Aha Moment on just a 2B non-SFT Model",
+   "authors": [
+    "Hengguang Zhou",
+    "Xirui Li",
+    "Ruochen Wang",
+    "Minhao Cheng",
+    "Tianyi Zhou",
+    "Cho-Jui Hsieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Id7eiuS9XH",
+   "pdf_url": "https://openreview.net/pdf?id=Id7eiuS9XH"
+  },
+  {
+   "title": "ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution",
+   "authors": [
+    "Yahia Alqurnawi",
+    "Preetom Biswas",
+    "Anmol Rao",
+    "Tejas Anvekar",
+    "Chitta Baral",
+    "Vivek Gupta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jmvmAKvlQc",
+   "pdf_url": "https://openreview.net/pdf?id=jmvmAKvlQc"
+  }
+ ]
+}

@@ -1,0 +1,1162 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/BuildingTrust",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:18.723Z",
+ "paper_count": 97,
+ "papers": [
+  {
+   "title": "A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage",
+   "authors": [
+    "Rui Xin",
+    "Niloofar Mireshghallah",
+    "Shuyue Stella Li",
+    "Michael Duan",
+    "Hyunwoo Kim",
+    "Yejin Choi",
+    "Yulia Tsvetkov",
+    "Sewoong Oh",
+    "Pang Wei Koh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oyrDjyasDV",
+   "pdf_url": "https://openreview.net/pdf?id=oyrDjyasDV"
+  },
+  {
+   "title": "A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection",
+   "authors": [
+    "Gabriel Chua",
+    "Chan Shing Yee",
+    "Shaun Khoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zJAm9nLdaQ",
+   "pdf_url": "https://openreview.net/pdf?id=zJAm9nLdaQ"
+  },
+  {
+   "title": "A Generative Approach to LLM Harmfulness Detection with Red Flag Tokens",
+   "authors": [
+    "Sophie Xhonneux",
+    "David Dobre",
+    "Mehrnaz Mofakhami",
+    "Leo Schwinn",
+    "Gauthier Gidel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aHbc1Uzq0Q",
+   "pdf_url": "https://openreview.net/pdf?id=aHbc1Uzq0Q"
+  },
+  {
+   "title": "A Missing Testbed for LLM Pre-Training Membership Inference Attacks",
+   "authors": [
+    "Mingjian Jiang",
+    "Ken Ziyu Liu",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kFpbxWy1p8",
+   "pdf_url": "https://openreview.net/pdf?id=kFpbxWy1p8"
+  },
+  {
+   "title": "Adaptive Test-Time Intervention for Concept Bottleneck Models",
+   "authors": [
+    "Matthew Shen",
+    "Aliyah R. Hsu",
+    "Abhineet Agarwal",
+    "Bin Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wBygggbUV8",
+   "pdf_url": "https://openreview.net/pdf?id=wBygggbUV8"
+  },
+  {
+   "title": "AdvBDGen: A Robust Framework for Generating Adaptive and Stealthy Backdoors in LLM Alignment Attacks",
+   "authors": [
+    "Pankayaraj Pathmanathan",
+    "Udari Madhushani Sehwag",
+    "Michael-Andrei Panaitescu-Liess",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9367w3BSHC",
+   "pdf_url": "https://openreview.net/pdf?id=9367w3BSHC"
+  },
+  {
+   "title": "AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security",
+   "authors": [
+    "Zikui Cai",
+    "Shayan Shabihi",
+    "Bang An",
+    "Zora Che",
+    "Brian R. Bartoldson",
+    "Bhavya Kailkhura",
+    "Tom Goldstein",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HtJ75I6KDG",
+   "pdf_url": "https://openreview.net/pdf?id=HtJ75I6KDG"
+  },
+  {
+   "title": "AI Companions Are Not The Solution To Loneliness: Design Choices And Their Drawbacks",
+   "authors": [
+    "Jonas B Raedler",
+    "Siddharth Swaroop",
+    "Weiwei Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nFkL7qAirE",
+   "pdf_url": "https://openreview.net/pdf?id=nFkL7qAirE"
+  },
+  {
+   "title": "An Empirical Study on Prompt Compression for Large Language Models",
+   "authors": [
+    "Zhang Zheng",
+    "Jinyi Li",
+    "Yihuai Lan",
+    "Xiang Wang",
+    "Hao Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lbFVTPv4s6",
+   "pdf_url": "https://openreview.net/pdf?id=lbFVTPv4s6"
+  },
+  {
+   "title": "Analyzing Memorization in Large Language Models through the Lens of Model Attribution",
+   "authors": [
+    "Tarun Ram Menta",
+    "Susmit Agrawal",
+    "Chirag Agarwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sa25C7OGFh",
+   "pdf_url": "https://openreview.net/pdf?id=sa25C7OGFh"
+  },
+  {
+   "title": "AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors",
+   "authors": [
+    "You-Ming Chang",
+    "Chen Yeh",
+    "Wei-Chen Chiu",
+    "Ning Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TvSkPlDTVw",
+   "pdf_url": "https://openreview.net/pdf?id=TvSkPlDTVw"
+  },
+  {
+   "title": "Antipodal Pairing and Mechanistic Signals in Dense SAE Latents",
+   "authors": [
+    "Alessandro Stolfo",
+    "Ben Peng Wu",
+    "Mrinmaya Sachan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zlx6AlEoB0",
+   "pdf_url": "https://openreview.net/pdf?id=Zlx6AlEoB0"
+  },
+  {
+   "title": "ASIDE: Architectural Separation of Instructions and Data in Language Models",
+   "authors": [
+    "Egor Zverev",
+    "Evgenii Kortukov",
+    "Alexander Panfilov",
+    "Soroush Tabesh",
+    "Sebastian Lapuschkin",
+    "Wojciech Samek",
+    "Christoph H. Lampert"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GlmqRQsCaI",
+   "pdf_url": "https://openreview.net/pdf?id=GlmqRQsCaI"
+  },
+  {
+   "title": "Automated Capability Discovery via Model Self-Exploration",
+   "authors": [
+    "Cong Lu",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rQf6YtHfB5",
+   "pdf_url": "https://openreview.net/pdf?id=rQf6YtHfB5"
+  },
+  {
+   "title": "Automated Feature Labeling with Token-Space Gradient Descent",
+   "authors": [
+    "Julian Schulz",
+    "Seamus Fallows"
+   ],
+   "forum_url": "https://openreview.net/forum?id=26ORXfaJ56",
+   "pdf_url": "https://openreview.net/pdf?id=26ORXfaJ56"
+  },
+  {
+   "title": "Automated Red Teaming with GOAT: the Generative Offensive Agent Tester",
+   "authors": [
+    "Maya Pavlova",
+    "Erik Brinkman",
+    "Krithika Iyer",
+    "Vítor Albiero",
+    "Joanna Bitton",
+    "Hailey Nguyen",
+    "Cristian Canton Ferrer",
+    "Ivan Evtimov",
+    "Aaron Grattafiori"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6uyczU6S2M",
+   "pdf_url": "https://openreview.net/pdf?id=6uyczU6S2M"
+  },
+  {
+   "title": "BaxBench: Can LLMs Generate Correct and Secure Backends?",
+   "authors": [
+    "Mark Vero",
+    "Niels Mündler",
+    "Victor Chibotaru",
+    "Veselin Raychev",
+    "Maximilian Baader",
+    "Nikola Jovanović",
+    "Jingxuan He",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fB9zOpy98o",
+   "pdf_url": "https://openreview.net/pdf?id=fB9zOpy98o"
+  },
+  {
+   "title": "Black-Box Adversarial Attacks on LLM-Based Code Completion",
+   "authors": [
+    "Slobodan Jenko",
+    "Niels Mündler",
+    "Jingxuan He",
+    "Mark Vero",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OqEMOk8efc",
+   "pdf_url": "https://openreview.net/pdf?id=OqEMOk8efc"
+  },
+  {
+   "title": "Boosting Adversarial Robustness of Vision-Language Pre-training Models against Multimodal Adversarial attacks",
+   "authors": [
+    "Youze Wang",
+    "Wenbo Hu",
+    "Qin Li",
+    "Richang Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9obhyu9csa",
+   "pdf_url": "https://openreview.net/pdf?id=9obhyu9csa"
+  },
+  {
+   "title": "Building Bridges, Not Walls: Advancing Interpretability by Unifying Feature, Data, and Model Component Attribution",
+   "authors": [
+    "Shichang Zhang",
+    "Tessa Han",
+    "Usha Bhalla",
+    "Himabindu Lakkaraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hxygS0e3Kx",
+   "pdf_url": "https://openreview.net/pdf?id=hxygS0e3Kx"
+  },
+  {
+   "title": "Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering",
+   "authors": [
+    "Yuan Sui",
+    "Yufei He",
+    "Zifeng Ding",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FLZaztMjja",
+   "pdf_url": "https://openreview.net/pdf?id=FLZaztMjja"
+  },
+  {
+   "title": "CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models",
+   "authors": [
+    "Yuetai Li",
+    "Zhangchen Xu",
+    "Fengqing Jiang",
+    "Luyao Niu",
+    "Dinuka Sahabandu",
+    "Bhaskar Ramasubramanian",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3gze4cq9L1",
+   "pdf_url": "https://openreview.net/pdf?id=3gze4cq9L1"
+  },
+  {
+   "title": "Conformal Structured Prediction",
+   "authors": [
+    "Botong Zhang",
+    "Shuo Li",
+    "Osbert Bastani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mKfmLQXP6J",
+   "pdf_url": "https://openreview.net/pdf?id=mKfmLQXP6J"
+  },
+  {
+   "title": "Diagnostic Uncertainty: Teaching Language Models to Describe Open-Ended Uncertainty",
+   "authors": [
+    "Brian Sui",
+    "Jessy Lin",
+    "Michelle Li",
+    "Anca Dragan",
+    "Dan Klein",
+    "Jacob Steinhardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D8oTSUnEfb",
+   "pdf_url": "https://openreview.net/pdf?id=D8oTSUnEfb"
+  },
+  {
+   "title": "Disentangling Linguistic Features with Dimension-Wise Analysis of Vector Embeddings",
+   "authors": [
+    "Saniya Karwa",
+    "Navpreet Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vcyq2Fw3mv",
+   "pdf_url": "https://openreview.net/pdf?id=vcyq2Fw3mv"
+  },
+  {
+   "title": "Disentangling Sequence Memorization and General Capability  in Large Language Models",
+   "authors": [
+    "Gaurav Rohit Ghosal",
+    "Pratyush Maini",
+    "Aditi Raghunathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2AVAoVV8u7",
+   "pdf_url": "https://openreview.net/pdf?id=2AVAoVV8u7"
+  },
+  {
+   "title": "Do Multilingual LLMs Think In English?",
+   "authors": [
+    "Lisa Schut",
+    "Yarin Gal",
+    "Sebastian Farquhar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I8BOtOPcOv",
+   "pdf_url": "https://openreview.net/pdf?id=I8BOtOPcOv"
+  },
+  {
+   "title": "Dynaseal: A Backend-Controlled LLM API Key Distribution Scheme with Constrained Invocation Parameters",
+   "authors": [
+    "Jiahao Zhao",
+    "Fan Wu",
+    "南佳怡",
+    "魏来",
+    "Yang YiChen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pzj5KxFOyG",
+   "pdf_url": "https://openreview.net/pdf?id=pzj5KxFOyG"
+  },
+  {
+   "title": "Endive: A Cross-Dialect Benchmark for Fairness and Performance in Large Language Models",
+   "authors": [
+    "Abhay Gupta",
+    "Jacob Cheung",
+    "Philip Meng",
+    "Shayan Sayyed",
+    "Austen Liao",
+    "Kevin Zhu",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C7Mwox3C1u",
+   "pdf_url": "https://openreview.net/pdf?id=C7Mwox3C1u"
+  },
+  {
+   "title": "Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study",
+   "authors": [
+    "Aryan Agrawal",
+    "Lisa Alazraki",
+    "Shahin Honarvar",
+    "Marek Rei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=abllmCsDp8",
+   "pdf_url": "https://openreview.net/pdf?id=abllmCsDp8"
+  },
+  {
+   "title": "Evaluating Text Humanlikeness via Self-Similarity Exponent",
+   "authors": [
+    "Ilya Pershin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=moLzTzk0uu",
+   "pdf_url": "https://openreview.net/pdf?id=moLzTzk0uu"
+  },
+  {
+   "title": "Evaluation of Large Language Models via Coupled Token Generation",
+   "authors": [
+    "Nina L. Corvelo Benz",
+    "Stratis Tsirtsis",
+    "Eleni Straitouri",
+    "Ivi Chatzi",
+    "Ander Artola Velasco",
+    "Suhas Thejaswi",
+    "Manuel Gomez Rodriguez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FB8FMU99BC",
+   "pdf_url": "https://openreview.net/pdf?id=FB8FMU99BC"
+  },
+  {
+   "title": "ExpProof : Operationalizing Explanations for Confidential Models with ZKPs",
+   "authors": [
+    "Chhavi Yadav",
+    "Evan Laufer",
+    "Dan Boneh",
+    "Kamalika Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kuBxDdpJX1",
+   "pdf_url": "https://openreview.net/pdf?id=kuBxDdpJX1"
+  },
+  {
+   "title": "Fast Proxies for LLM Robustness Evaluation",
+   "authors": [
+    "Tim Beyer",
+    "Jan Schuchardt",
+    "Leo Schwinn",
+    "Stephan Günnemann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ukb20VREPd",
+   "pdf_url": "https://openreview.net/pdf?id=ukb20VREPd"
+  },
+  {
+   "title": "FiDeLiS: Faithful Reasoning in Large Language Models for Knowledge Graph Question Answering",
+   "authors": [
+    "Yuan Sui",
+    "Yufei He",
+    "Nian Liu",
+    "Xiaoxin He",
+    "Kun Wang",
+    "Bryan Hooi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZkNyX9M191",
+   "pdf_url": "https://openreview.net/pdf?id=ZkNyX9M191"
+  },
+  {
+   "title": "Finding Sparse Autoencoder Representations Of Errors In CoT Prompting",
+   "authors": [
+    "Justin Theodorus",
+    "V Swaytha",
+    "Shivani Gautam",
+    "Adam Ward",
+    "Mahir Shah",
+    "Cole Blondin",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oCprwPRqwW",
+   "pdf_url": "https://openreview.net/pdf?id=oCprwPRqwW"
+  },
+  {
+   "title": "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs",
+   "authors": [
+    "Advik Raj Basani",
+    "Xiao Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gonca78Bwq",
+   "pdf_url": "https://openreview.net/pdf?id=Gonca78Bwq"
+  },
+  {
+   "title": "HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild",
+   "authors": [
+    "Zhiying Zhu",
+    "Yiming Yang",
+    "Zhiqing Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sjwX4Vif03",
+   "pdf_url": "https://openreview.net/pdf?id=sjwX4Vif03"
+  },
+  {
+   "title": "Has My System Prompt Been Used? Large Language Model Prompt Membership Inference",
+   "authors": [
+    "Roman Levin",
+    "Valeriia Cherepanova",
+    "Abhimanyu Hans",
+    "Avi Schwarzschild",
+    "Tom Goldstein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OXxOBurNpz",
+   "pdf_url": "https://openreview.net/pdf?id=OXxOBurNpz"
+  },
+  {
+   "title": "Hidden No More: Attacking and Defending Private Third-Party LLM Inference",
+   "authors": [
+    "Arka Pal",
+    "Rahul Krishna Thomas",
+    "Louai Zahran",
+    "Erica Choi",
+    "Akilesh Potti",
+    "Micah Goldblum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mLzUAoYBbs",
+   "pdf_url": "https://openreview.net/pdf?id=mLzUAoYBbs"
+  },
+  {
+   "title": "How Does Entropy Influence Modern Text-to-SQL Systems?",
+   "authors": [
+    "Varun Kausika",
+    "chris lazar",
+    "Satya Saurabh Mishra",
+    "Saurabh Jha",
+    "Priyanka Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JhhLGvpr9N",
+   "pdf_url": "https://openreview.net/pdf?id=JhhLGvpr9N"
+  },
+  {
+   "title": "In-Context Meta Learning Induces Multi-Phase Circuit Emergence",
+   "authors": [
+    "Gouki Minegishi",
+    "Hiroki Furuta",
+    "Shohei Taniguchi",
+    "Yusuke Iwasawa",
+    "Yutaka Matsuo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LNMfzv8TNb",
+   "pdf_url": "https://openreview.net/pdf?id=LNMfzv8TNb"
+  },
+  {
+   "title": "Interpretable Steering of Large Language Models with Feature Guided Activation Additions",
+   "authors": [
+    "Samuel Soo",
+    "Wesley Teng",
+    "Chandrasekaran Balaganesh",
+    "Tan Guoxian",
+    "Ming YAN"
+   ],
+   "forum_url": "https://openreview.net/forum?id=swRxS7s4rB",
+   "pdf_url": "https://openreview.net/pdf?id=swRxS7s4rB"
+  },
+  {
+   "title": "Justified Trust in AI Fairness Assessment using Existing Metadata Entities",
+   "authors": [
+    "Alpay Sabuncuoglu",
+    "carsten maple"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ATzaR0MYeq",
+   "pdf_url": "https://openreview.net/pdf?id=ATzaR0MYeq"
+  },
+  {
+   "title": "Language Models Use Trigonometry to Do Addition",
+   "authors": [
+    "Subhash Kantamneni",
+    "Max Tegmark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CqViN4dQJk",
+   "pdf_url": "https://openreview.net/pdf?id=CqViN4dQJk"
+  },
+  {
+   "title": "Latent Adversarial Training Improves the Representation of Refusal",
+   "authors": [
+    "Alexandra Abbas",
+    "Nora Petrova",
+    "Hélios Lyons",
+    "Natalia Perez-Campanero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GScy14jUjc",
+   "pdf_url": "https://openreview.net/pdf?id=GScy14jUjc"
+  },
+  {
+   "title": "Learning Automata from Demonstrations, Examples, and Natural Language",
+   "authors": [
+    "Marcell Vazquez-Chanlatte",
+    "Karim Elmaaroufi",
+    "Stefan Witwicki",
+    "Matei Zaharia",
+    "Sanjit A. Seshia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=khh9YSBCf4",
+   "pdf_url": "https://openreview.net/pdf?id=khh9YSBCf4"
+  },
+  {
+   "title": "LLM Neurosurgeon: Targeted Knowledge Removal in LLMs using Sparse Autoencoders",
+   "authors": [
+    "Kunal Patil",
+    "Dylan Zhou",
+    "Yifan Sun",
+    "Karthik lakshmanan",
+    "Senthooran Rajamanoharan",
+    "Arthur Conmy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aeQeXlG2Pw",
+   "pdf_url": "https://openreview.net/pdf?id=aeQeXlG2Pw"
+  },
+  {
+   "title": "LLMS LOST IN TRANSLATION: M-ALERT UNCOVERS CROSS-LINGUISTIC SAFETY GAPS",
+   "authors": [
+    "Felix Friedrich",
+    "Simone Tedeschi",
+    "Patrick Schramowski",
+    "Manuel Brack",
+    "Roberto Navigli",
+    "Huu Nguyen",
+    "Bo Li",
+    "Kristian Kersting"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PT7SRb00he",
+   "pdf_url": "https://openreview.net/pdf?id=PT7SRb00he"
+  },
+  {
+   "title": "LM Agents May Fail to Act on Their Own Risk Knowledge",
+   "authors": [
+    "Yuzhi Tang",
+    "Tianxiao Li",
+    "Elizabeth Li",
+    "Chris J. Maddison",
+    "Honghua Dong",
+    "Yangjun Ruan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lTYxZGbLwA",
+   "pdf_url": "https://openreview.net/pdf?id=lTYxZGbLwA"
+  },
+  {
+   "title": "MALIBU Benchmark: Multi-Agent LLM Implicit Bias Uncovered",
+   "authors": [
+    "Ishwara Vasista",
+    "Imran Mirza",
+    "Cole Huang",
+    "Rohan Rajasekhara Patil",
+    "Aslihan Akalin",
+    "Kevin Zhu",
+    "Sean O'Brien"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iilhN2MycO",
+   "pdf_url": "https://openreview.net/pdf?id=iilhN2MycO"
+  },
+  {
+   "title": "Maybe I Should Not Answer That, but... Do LLMs Understand The Safety of Their Inputs?",
+   "authors": [
+    "Maciej Chrabaszcz",
+    "Filip Szatkowski",
+    "Bartosz Wójcik",
+    "Jan Dubiński",
+    "Tomasz Trzcinski"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iT0oH3DfAV",
+   "pdf_url": "https://openreview.net/pdf?id=iT0oH3DfAV"
+  },
+  {
+   "title": "Measuring In-Context Computation Complexity via Hidden State Prediction",
+   "authors": [
+    "Vincent Herrmann",
+    "Róbert Csordás",
+    "Jürgen Schmidhuber"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wOA4bhb2ld",
+   "pdf_url": "https://openreview.net/pdf?id=wOA4bhb2ld"
+  },
+  {
+   "title": "Mechanistic Anomaly Detection for \"Quirky'' Language Models",
+   "authors": [
+    "David O. Johnston",
+    "Arkajyoti Chakraborty",
+    "Nora Belrose"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KhRr3G1KxA",
+   "pdf_url": "https://openreview.net/pdf?id=KhRr3G1KxA"
+  },
+  {
+   "title": "MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models",
+   "authors": [
+    "Shengkang Wang",
+    "Hongzhan Lin",
+    "Ziyang Luo",
+    "Zhen Ye",
+    "Guang Chen",
+    "Jing Ma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a2iMmaLG3z",
+   "pdf_url": "https://openreview.net/pdf?id=a2iMmaLG3z"
+  },
+  {
+   "title": "Mind the Gap: A Practical Attack on GGUF Quantization",
+   "authors": [
+    "Kazuki Egashira",
+    "Robin Staab",
+    "Mark Vero",
+    "Jingxuan He",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XWwta75eDs",
+   "pdf_url": "https://openreview.net/pdf?id=XWwta75eDs"
+  },
+  {
+   "title": "MKA: Leveraging Cross-Lingual Consensus for Model Abstention",
+   "authors": [
+    "Sharad Duwal"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7z49r7RhP2",
+   "pdf_url": "https://openreview.net/pdf?id=7z49r7RhP2"
+  },
+  {
+   "title": "Model Evaluations Need Rigorous and Transparent Human Baselines",
+   "authors": [
+    "Kevin Wei",
+    "Patricia Paskov",
+    "Sunishchal Dev",
+    "Michael J Byun",
+    "Anka Reuel",
+    "Xavier Roberts-Gaal",
+    "Rachel Calcott",
+    "Evie Coxon",
+    "Chinmay Deshpande"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VbG9sIsn4F",
+   "pdf_url": "https://openreview.net/pdf?id=VbG9sIsn4F"
+  },
+  {
+   "title": "Monitoring LLM Agents for Sequentially Contextual Harm",
+   "authors": [
+    "Chen Yueh-Han",
+    "Nitish Joshi",
+    "Yulin Chen",
+    "He He",
+    "Rico Angell"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LC0XQ6ufbr",
+   "pdf_url": "https://openreview.net/pdf?id=LC0XQ6ufbr"
+  },
+  {
+   "title": "No, Of Course I Can! Refusal Mechanisms Can Be Exploited Using Harmless Data",
+   "authors": [
+    "Joshua Kazdan",
+    "Lisa Yu",
+    "Rylan Schaeffer",
+    "Chris Cundy",
+    "Sanmi Koyejo",
+    "Krishnamurthy Dj Dvijotham"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PKEMgfGuCD",
+   "pdf_url": "https://openreview.net/pdf?id=PKEMgfGuCD"
+  },
+  {
+   "title": "On-Premises LLM Deployment Demands a Middle Path: Preserving Privacy Without Sacrificing Model Confidentiality",
+   "authors": [
+    "Hanbo Huang",
+    "Yihan Li",
+    "Bowen Jiang",
+    "Lin Liu",
+    "Bo Jiang",
+    "Ruoyu Sun",
+    "Zhuotao Liu",
+    "Shiyu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u61yT9ZkEZ",
+   "pdf_url": "https://openreview.net/pdf?id=u61yT9ZkEZ"
+  },
+  {
+   "title": "PATTERNS AND MECHANISMS OF CONTRASTIVE ACTIVATION ENGINEERING",
+   "authors": [
+    "Yixiong Hao",
+    "Ayush Panda",
+    "Stepan Shabalin",
+    "Sheikh Abdur Raheem Ali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QSUP3NJBbM",
+   "pdf_url": "https://openreview.net/pdf?id=QSUP3NJBbM"
+  },
+  {
+   "title": "Private Retrieval Augmented Generation with Random Projection",
+   "authors": [
+    "Dixi Yao",
+    "Tian Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5DfhoxRPXh",
+   "pdf_url": "https://openreview.net/pdf?id=5DfhoxRPXh"
+  },
+  {
+   "title": "Privately Learning from Graphs with Applications in Fine-tuning Large Pretrained Models",
+   "authors": [
+    "Haoteng Yin",
+    "Rongzhe Wei",
+    "Eli Chien",
+    "Pan Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AZHBPzPCS5",
+   "pdf_url": "https://openreview.net/pdf?id=AZHBPzPCS5"
+  },
+  {
+   "title": "Prune 'n Predict: Optimizing LLM Decision-making with Conformal Prediction",
+   "authors": [
+    "Harit Vishwakarma",
+    "Thomas Cook",
+    "Alan Mishler",
+    "Niccolo Dalmasso",
+    "Natraj Raman",
+    "Sumitra Ganesh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wMkUxoJ25I",
+   "pdf_url": "https://openreview.net/pdf?id=wMkUxoJ25I"
+  },
+  {
+   "title": "PRUNING AS A DEFENSE: REDUCING MEMORIZATION IN LARGE LANGUAGE MODELS",
+   "authors": [
+    "Mansi Gupta",
+    "Nikhar Waghela",
+    "Sarthak Gupta",
+    "Shourya Goel",
+    "Sanjif Shanmugavelu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4ZrDvmPnKo",
+   "pdf_url": "https://openreview.net/pdf?id=4ZrDvmPnKo"
+  },
+  {
+   "title": "Red Teaming for Trust: Evaluating Multicultural and Multilingual AI Systems in Asia-Pacific",
+   "authors": [
+    "Akash Kundu",
+    "Adrianna Tan",
+    "Theodora Skeadas",
+    "Rumman Chowdhury",
+    "Sarah Amos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SPlhZYuH9e",
+   "pdf_url": "https://openreview.net/pdf?id=SPlhZYuH9e"
+  },
+  {
+   "title": "Reliable and Efficient Amortized Model-based Evaluation",
+   "authors": [
+    "Sang T. Truong",
+    "Yuheng Tu",
+    "Percy Liang",
+    "Bo Li",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TctNv27aKp",
+   "pdf_url": "https://openreview.net/pdf?id=TctNv27aKp"
+  },
+  {
+   "title": "Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity",
+   "authors": [
+    "Prakhar Ganesh",
+    "Reza Shokri",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yr0QEDDTSO",
+   "pdf_url": "https://openreview.net/pdf?id=yr0QEDDTSO"
+  },
+  {
+   "title": "Rethinking LLM Bias Probing Using Lessons from the Social Sciences",
+   "authors": [
+    "Kirsten Morehouse",
+    "Siddharth Swaroop",
+    "Weiwei Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ak1dZpx3P3",
+   "pdf_url": "https://openreview.net/pdf?id=Ak1dZpx3P3"
+  },
+  {
+   "title": "SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging",
+   "authors": [
+    "Aladin Djuhera",
+    "Swanand Kadhe",
+    "Farhan Ahmed",
+    "Syed Zawad",
+    "Holger Boche"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d8LFGLGMRA",
+   "pdf_url": "https://openreview.net/pdf?id=d8LFGLGMRA"
+  },
+  {
+   "title": "Scalable Fingerprinting of Large Language Models",
+   "authors": [
+    "Anshul Nasery",
+    "Jonathan Hayase",
+    "Creston Brooks",
+    "Peiyao Sheng",
+    "Himanshu Tyagi",
+    "Pramod Viswanath",
+    "Sewoong Oh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0wMUdbvYLL",
+   "pdf_url": "https://openreview.net/pdf?id=0wMUdbvYLL"
+  },
+  {
+   "title": "Self-Ablating Transformers: More Interpretability, Less Sparsity",
+   "authors": [
+    "Jeremias Lino Ferrao",
+    "Luhan Mikaelson",
+    "Keenan Pepper",
+    "Natalia Perez-Campanero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QcmEb490bK",
+   "pdf_url": "https://openreview.net/pdf?id=QcmEb490bK"
+  },
+  {
+   "title": "Siege: Multi-Turn Jailbreaking of Large Language Models with Tree Search",
+   "authors": [
+    "Andy Zhou",
+    "Ron Arel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rDC2UVdB0t",
+   "pdf_url": "https://openreview.net/pdf?id=rDC2UVdB0t"
+  },
+  {
+   "title": "SPEX: Scaling Feature Interaction Explanations for LLMs",
+   "authors": [
+    "Justin Singh Kang",
+    "Landon Butler",
+    "Abhineet Agarwal",
+    "Yigit Efe Erginbas",
+    "Ramtin Pedarsani",
+    "Bin Yu",
+    "Kannan Ramchandran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lNCwWLMCwO",
+   "pdf_url": "https://openreview.net/pdf?id=lNCwWLMCwO"
+  },
+  {
+   "title": "Steering Fine-Tuning Generalization with Targeted Concept Ablation",
+   "authors": [
+    "Helena Casademunt",
+    "Caden Juang",
+    "Samuel Marks",
+    "Senthooran Rajamanoharan",
+    "Neel Nanda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2HyKWpAB4i",
+   "pdf_url": "https://openreview.net/pdf?id=2HyKWpAB4i"
+  },
+  {
+   "title": "StochasTok: Improving Fine-Grained Subword Understanding in LLMs",
+   "authors": [
+    "Anya Sims",
+    "Cong Lu",
+    "Klara Kaleb",
+    "Jakob Nicolaus Foerster",
+    "Yee Whye Teh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PZnDZdkGsE",
+   "pdf_url": "https://openreview.net/pdf?id=PZnDZdkGsE"
+  },
+  {
+   "title": "Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates",
+   "authors": [
+    "Hui Wei",
+    "Shenghua He",
+    "Tian Xia",
+    "Fei Liu",
+    "Andy Wong",
+    "Jingyang Lin",
+    "Mei Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CAgBCSt8gL",
+   "pdf_url": "https://openreview.net/pdf?id=CAgBCSt8gL"
+  },
+  {
+   "title": "Temporally Sparse Attack for Fooling Large Language Models in Time Series Forecasting",
+   "authors": [
+    "Fuqiang Liu",
+    "Sicong Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oL806RzbDi",
+   "pdf_url": "https://openreview.net/pdf?id=oL806RzbDi"
+  },
+  {
+   "title": "The Differences Between Direct Alignment Algorithms are a Blur",
+   "authors": [
+    "Alexey Gorbatovski",
+    "Boris Shaposhnikov",
+    "Viacheslav Sinii",
+    "Alexey Malakhov",
+    "Daniil Gavrilov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DAFbrvSQrC",
+   "pdf_url": "https://openreview.net/pdf?id=DAFbrvSQrC"
+  },
+  {
+   "title": "THE FUNDAMENTAL LIMITS OF LLM UNLEARNING: COMPLEXITY-THEORETIC BARRIERS AND PROVABLY OPTIMAL PROTOCOLS",
+   "authors": [
+    "Aviral Srivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ot19dneIID",
+   "pdf_url": "https://openreview.net/pdf?id=ot19dneIID"
+  },
+  {
+   "title": "The Jailbreak Tax: How Useful are Your Jailbreak Outputs?",
+   "authors": [
+    "Kristina Nikolić",
+    "Luze Sun",
+    "Jie Zhang",
+    "Florian Tramèr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VSSQud4diJ",
+   "pdf_url": "https://openreview.net/pdf?id=VSSQud4diJ"
+  },
+  {
+   "title": "The Steganographic Potentials of Language Models",
+   "authors": [
+    "Artem Karpov",
+    "Tinuade Adeleke",
+    "Seong Hah Cho",
+    "Natalia Perez-Campanero"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KNIBxg7vwC",
+   "pdf_url": "https://openreview.net/pdf?id=KNIBxg7vwC"
+  },
+  {
+   "title": "Token-Level Adversarial Prompt Detection Based on Perplexity Measures and Contextual Information",
+   "authors": [
+    "Zhengmian Hu",
+    "Gang Wu",
+    "Saayan Mitra",
+    "Ruiyi Zhang",
+    "Tong Sun",
+    "Heng Huang",
+    "Viswanathan Swaminathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tpiLrjgcnF",
+   "pdf_url": "https://openreview.net/pdf?id=tpiLrjgcnF"
+  },
+  {
+   "title": "ToolScan: A Benchmark For Characterizing Errors In Tool-Use LLMs",
+   "authors": [
+    "Shirley Kokane",
+    "Ming Zhu",
+    "Tulika Manoj Awalgaonkar",
+    "Jianguo Zhang",
+    "Akshara Prabhakar",
+    "Thai Quoc Hoang",
+    "Zuxin Liu",
+    "Rithesh R N",
+    "Liangwei Yang",
+    "Weiran Yao",
+    "Juntao Tan",
+    "Zhiwei Liu",
+    "Huan Wang",
+    "Juan Carlos Niebles",
+    "Shelby Heinecke",
+    "Caiming Xiong",
+    "Silvio Savarese"
+   ],
+   "forum_url": "https://openreview.net/forum?id=09tnQgqKuZ",
+   "pdf_url": "https://openreview.net/pdf?id=09tnQgqKuZ"
+  },
+  {
+   "title": "Top of the CLASS: Benchmarking LLM Agents on Real-World Enterprise Tasks",
+   "authors": [
+    "Michael Wornow",
+    "Vaishnav Garodia",
+    "Vasilis Vassalos",
+    "Utkarsh Contractor"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RQjUpeINII",
+   "pdf_url": "https://openreview.net/pdf?id=RQjUpeINII"
+  },
+  {
+   "title": "Towards Effective Discrimination Testing for Generative AI",
+   "authors": [
+    "Thomas P Zollo",
+    "Nikita Rajaneesh",
+    "Richard Zemel",
+    "Talia B. Gillis",
+    "Emily Black"
+   ],
+   "forum_url": "https://openreview.net/forum?id=s8OCncXdpZ",
+   "pdf_url": "https://openreview.net/pdf?id=s8OCncXdpZ"
+  },
+  {
+   "title": "Towards Understanding Distilled Reasoning Models: A Representational Approach",
+   "authors": [
+    "David D. Baek",
+    "Max Tegmark"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UYZCcnwgc4",
+   "pdf_url": "https://openreview.net/pdf?id=UYZCcnwgc4"
+  },
+  {
+   "title": "Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis",
+   "authors": [
+    "Xu Wang",
+    "Yan Hu",
+    "Wenyu Du",
+    "Reynold Cheng",
+    "Benyou Wang",
+    "Difan Zou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z9qzta1yiK",
+   "pdf_url": "https://openreview.net/pdf?id=Z9qzta1yiK"
+  },
+  {
+   "title": "Understanding (Un)Reliability of Steering Vectors in Language Models",
+   "authors": [
+    "Joschka Braun",
+    "Carsten Eickhoff",
+    "David Krueger",
+    "Seyed Ali Bahrainian",
+    "Dmitrii Krasheninnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JZiKuvIK1t",
+   "pdf_url": "https://openreview.net/pdf?id=JZiKuvIK1t"
+  },
+  {
+   "title": "UNLEARNING GEO-CULTURAL STEREOTYPES IN MULTILINGUAL LLMS",
+   "authors": [
+    "Alireza Dehghanpour Farashah",
+    "Aditi Khandelwal",
+    "Negar Rostamzadeh",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xo2e14bczv",
+   "pdf_url": "https://openreview.net/pdf?id=xo2e14bczv"
+  },
+  {
+   "title": "UNLOCKING HIERARCHICAL CONCEPT DISCOVERY IN LANGUAGE MODELS THROUGH GEOMETRIC REGULARIZATION",
+   "authors": [
+    "Ed Li",
+    "Junyu Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=i31cKXiyim",
+   "pdf_url": "https://openreview.net/pdf?id=i31cKXiyim"
+  },
+  {
+   "title": "Unnatural Languages Are Not Bugs but Features for LLMs",
+   "authors": [
+    "Keyu Duan",
+    "Yiran Zhao",
+    "Zhili Feng",
+    "Jinjie Ni",
+    "Tianyu Pang",
+    "Qian Liu",
+    "Tianle Cai",
+    "Longxu Dou",
+    "Kenji Kawaguchi",
+    "Anirudh Goyal",
+    "J Zico Kolter",
+    "Michael Qizhe Shieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LxRvQwO95c",
+   "pdf_url": "https://openreview.net/pdf?id=LxRvQwO95c"
+  },
+  {
+   "title": "VideoJail: Exploiting Video-Modality Vulnerabilities for Jailbreak Attacks on Multimodal Large Language Models",
+   "authors": [
+    "Wenbo Hu",
+    "Shishen Gu",
+    "Youze Wang",
+    "Richang Hong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSAIDcPduZ",
+   "pdf_url": "https://openreview.net/pdf?id=fSAIDcPduZ"
+  },
+  {
+   "title": "Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis",
+   "authors": [
+    "Jeffrey Yang Fan Chiang",
+    "Seungjae Lee",
+    "Jia-Bin Huang",
+    "Furong Huang",
+    "Yizheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4KoMbO2RJ9",
+   "pdf_url": "https://openreview.net/pdf?id=4KoMbO2RJ9"
+  },
+  {
+   "title": "Why Do Multiagent Systems Fail?",
+   "authors": [
+    "Melissa Z Pan",
+    "Mert Cemri",
+    "Lakshya A Agrawal",
+    "Shuyi Yang",
+    "Bhavya Chopra",
+    "Rishabh Tiwari",
+    "Kurt Keutzer",
+    "Aditya Parameswaran",
+    "Kannan Ramchandran",
+    "Dan Klein",
+    "Joseph E. Gonzalez",
+    "Matei Zaharia",
+    "Ion Stoica"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wM521FqPvI",
+   "pdf_url": "https://openreview.net/pdf?id=wM521FqPvI"
+  },
+  {
+   "title": "Working Memory Attack on LLMs",
+   "authors": [
+    "Bibek Upadhayay",
+    "Vahid Behzadan",
+    "Amin Karbasi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=II0NVPLBcI",
+   "pdf_url": "https://openreview.net/pdf?id=II0NVPLBcI"
+  }
+ ]
+}

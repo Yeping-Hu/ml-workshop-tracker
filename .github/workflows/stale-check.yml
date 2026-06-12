@@ -1,0 +1,68 @@
+# Weekly: finds entries whose deadline passed >60 days ago that are missing
+# follow-up info, and keeps exactly ONE consolidated issue up to date.
+name: Stale workshop check
+
+on:
+  schedule:
+    - cron: '41 6 * * 1' # Mondays 06:41 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node scripts/stale_check.mjs --report stale-report.md
+      - name: Create/update the consolidated issue
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.existsSync('stale-report.md')
+              ? fs.readFileSync('stale-report.md', 'utf8').trim()
+              : '';
+            const title = 'Data health: stale workshop entries';
+            const { data: open } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-health',
+              per_page: 100,
+            });
+            const existing = open.find((i) => i.title === title);
+            if (!report) {
+              if (existing) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: existing.number,
+                  state: 'closed',
+                });
+              }
+              return;
+            }
+            if (existing) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body: report,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: report,
+                labels: ['data-health'],
+              });
+            }

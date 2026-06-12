@@ -1,0 +1,415 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/AFAA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:58.147Z",
+ "paper_count": 35,
+ "papers": [
+  {
+   "title": "Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+   "authors": [
+    "Addison J. Wu",
+    "Ryan Liu",
+    "Shuyue Stella Li",
+    "Yulia Tsvetkov",
+    "Thomas L. Griffiths"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kioO6a0oHM",
+   "pdf_url": "https://openreview.net/pdf?id=kioO6a0oHM"
+  },
+  {
+   "title": "Automatically Finding Reward Model Biases",
+   "authors": [
+    "Atticus Wang",
+    "Iván Arcuschin",
+    "Arthur Conmy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G7nQsCVy4x",
+   "pdf_url": "https://openreview.net/pdf?id=G7nQsCVy4x"
+  },
+  {
+   "title": "Cross-Linguistic Failures and Disparities in LLM Medical Reasoning: Analyzing XMedBench and CrossMMLU Across Western and Non-Western Languages",
+   "authors": [
+    "Rehan Nazeem",
+    "Akira Hoque",
+    "Vedesh Ray Peddoddi",
+    "Tim Liu",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=toqptzye7o",
+   "pdf_url": "https://openreview.net/pdf?id=toqptzye7o"
+  },
+  {
+   "title": "Differential Adjusted Parity for Learning Fair Representations",
+   "authors": [
+    "Bucher Sahyouni",
+    "Matthew James Vowels",
+    "Liqun Chen",
+    "Simon Hadfield"
+   ],
+   "forum_url": "https://openreview.net/forum?id=joKbA8iX0X",
+   "pdf_url": "https://openreview.net/pdf?id=joKbA8iX0X"
+  },
+  {
+   "title": "Disparities in Negation Understanding Across Languages in Vision-Language Models",
+   "authors": [
+    "Charikleia Moraitaki",
+    "Skyler Pulling",
+    "Sarah Pan",
+    "Gwendolyn Flusche",
+    "Kumail Alhamoud",
+    "Marzyeh Ghassemi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UJ3nnVOPLY",
+   "pdf_url": "https://openreview.net/pdf?id=UJ3nnVOPLY"
+  },
+  {
+   "title": "Distortion of AI Alignment Revisited: RLHF Is a Decent Utilitarian Aligner",
+   "authors": [
+    "Kazusato Oko",
+    "Annie S Ulichney",
+    "Nika Haghtalab",
+    "Han Bao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BciUs38t6W",
+   "pdf_url": "https://openreview.net/pdf?id=BciUs38t6W"
+  },
+  {
+   "title": "Evaluating black-box vulnerabilities with Wasserstein-constrained data perturbations",
+   "authors": [
+    "Adriana Laurindo Monteiro",
+    "Jean-Michel Loubes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6tMJdRJnxP",
+   "pdf_url": "https://openreview.net/pdf?id=6tMJdRJnxP"
+  },
+  {
+   "title": "Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search",
+   "authors": [
+    "Manos Plitsis",
+    "Giorgos Bouritsas",
+    "Vassilis Katsouros",
+    "Yannis Panagakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YWMtKKdpqx",
+   "pdf_url": "https://openreview.net/pdf?id=YWMtKKdpqx"
+  },
+  {
+   "title": "FairMed-VLM: Toward Equitable Medical Di- agnosis with Vision–Language Models",
+   "authors": [
+    "zihao chang",
+    "Ruixiang Zhu",
+    "Daochu Li",
+    "Chaozhi Geng",
+    "Siqi Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DtbykQBmE5",
+   "pdf_url": "https://openreview.net/pdf?id=DtbykQBmE5"
+  },
+  {
+   "title": "Fairness Failure Modes of Multimodal LLMs",
+   "authors": [
+    "Canyu Chen",
+    "Anglin Cai",
+    "Joan Nwatu",
+    "Jianshu Zhang",
+    "Yale Li",
+    "Han Liu",
+    "Jessica Hullman",
+    "Rada Mihalcea",
+    "Kathleen McKeown",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4W95topbWX",
+   "pdf_url": "https://openreview.net/pdf?id=4W95topbWX"
+  },
+  {
+   "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+   "authors": [
+    "Pepijn Cobben",
+    "X. Angelo Huang",
+    "Thao Amelia Pham",
+    "Isabel Dahlgren",
+    "Terry Jingchen Zhang",
+    "Zhijing Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F0DzK7CIHk",
+   "pdf_url": "https://openreview.net/pdf?id=F0DzK7CIHk"
+  },
+  {
+   "title": "Improving Fairness via Noise Injection in Vision Transformers",
+   "authors": [
+    "Qiaoyue Tang",
+    "Sepidehsadat Hosseini",
+    "Mengyao Zhai",
+    "Thibaut Durand",
+    "Greg Mori"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ObEsfCNySG",
+   "pdf_url": "https://openreview.net/pdf?id=ObEsfCNySG"
+  },
+  {
+   "title": "Learning to Be Fair: Modeling Fairness Dynamics by Simulating Moral-Based Multi-Agent Resource Allocation",
+   "authors": [
+    "Haiyan Feng",
+    "Yuqiao Du",
+    "Huacong Tang",
+    "Junjie Liao",
+    "Yipeng Kang",
+    "Mingjie Bi",
+    "Fangwei Zhong",
+    "Zhou Ziheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zUCpffkPTY",
+   "pdf_url": "https://openreview.net/pdf?id=zUCpffkPTY"
+  },
+  {
+   "title": "Long-term Fairness with Selective Labels",
+   "authors": [
+    "Giovani Valdrighi",
+    "Isabel Valera",
+    "Marcos M. Raimundo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Dyi1IG7vG",
+   "pdf_url": "https://openreview.net/pdf?id=2Dyi1IG7vG"
+  },
+  {
+   "title": "Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations",
+   "authors": [
+    "Preethi Seshadri",
+    "Samuel Cahyawijaya",
+    "Ayomide Odumakinde",
+    "Sameer Singh",
+    "Seraphina Goldfarb-Tarrant"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m57vJLBHxA",
+   "pdf_url": "https://openreview.net/pdf?id=m57vJLBHxA"
+  },
+  {
+   "title": "Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs",
+   "authors": [
+    "Edie Pearman",
+    "Sophia Osborne",
+    "Mira Kandlikar-Bloch",
+    "Mina Arzaghi",
+    "Florian Carichon",
+    "Golnoosh Farnadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VgjZ8ELxDQ",
+   "pdf_url": "https://openreview.net/pdf?id=VgjZ8ELxDQ"
+  },
+  {
+   "title": "MEMORIES THAT DISCRIMINATE: DETECTING AND CORRECTING BIAS IN PERSONALIZED HIRING AGENTS",
+   "authors": [
+    "Himanshu Gharat",
+    "Himanshi Agrawal",
+    "Gourab K Patro"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZEYRyQ5aTq",
+   "pdf_url": "https://openreview.net/pdf?id=ZEYRyQ5aTq"
+  },
+  {
+   "title": "Metanetworks as Regulatory Operators: Learning to Edit for Requirement Compliance",
+   "authors": [
+    "Ioannis Kalogeropoulos",
+    "Giorgos Bouritsas",
+    "Yannis Panagakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hdXX5YUkzN",
+   "pdf_url": "https://openreview.net/pdf?id=hdXX5YUkzN"
+  },
+  {
+   "title": "MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment",
+   "authors": [
+    "Andor Vári-Kakas",
+    "Ji Won Park",
+    "Natasa Tagasovska"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yNlF777Uh9",
+   "pdf_url": "https://openreview.net/pdf?id=yNlF777Uh9"
+  },
+  {
+   "title": "Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs",
+   "authors": [
+    "Ilham Wicaksono",
+    "Zekun Wu",
+    "Rahul Patel",
+    "Theo King",
+    "Adriano Koshiyama",
+    "Philip Colin Treleaven"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QgBR8cOsfL",
+   "pdf_url": "https://openreview.net/pdf?id=QgBR8cOsfL"
+  },
+  {
+   "title": "Moral Preferences of LLMs Under Directed Contextual Influence",
+   "authors": [
+    "Phil Blandfort",
+    "Tushar Karayil",
+    "Urja Pawar",
+    "Alex McKenzie",
+    "Robert Graham",
+    "Dmitrii Krasheninnikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CLyihA1cxZ",
+   "pdf_url": "https://openreview.net/pdf?id=CLyihA1cxZ"
+  },
+  {
+   "title": "Navigating the Rashomon Set: The Impact of Score Distributions and Decision Thresholds on Model Agreement",
+   "authors": [
+    "Giovani Valdrighi",
+    "Marcos M. Raimundo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lKeSvgK1Bk",
+   "pdf_url": "https://openreview.net/pdf?id=lKeSvgK1Bk"
+  },
+  {
+   "title": "OC-PRM: Overcredit-Contrastive Training for Precision-First Process Reward Models",
+   "authors": [
+    "Aakriti Agrawal",
+    "Souradip Chakraborty",
+    "Armin Saghafian",
+    "Nihal Sharma",
+    "Rizal Fathony",
+    "Nam H Nguyen",
+    "C. Bayan Bruss",
+    "Amrit Singh Bedi",
+    "Furong Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l5KaTq6T2T",
+   "pdf_url": "https://openreview.net/pdf?id=l5KaTq6T2T"
+  },
+  {
+   "title": "Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies",
+   "authors": [
+    "Megan Smith",
+    "Venkatesh Thirugnana Sambandham",
+    "Florian Richter",
+    "Matthias Uhl",
+    "Laura Crompton",
+    "Torsten Schön"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8DOkyBGWwP",
+   "pdf_url": "https://openreview.net/pdf?id=8DOkyBGWwP"
+  },
+  {
+   "title": "Persona Alchemy: Designing, Evaluating, and Implementing Psychologically-Grounded LLM Agents for Diverse Stakeholder Representation",
+   "authors": [
+    "Sola Kim",
+    "Dongjune Chang",
+    "Jieshu Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ciWvxWWUQ6",
+   "pdf_url": "https://openreview.net/pdf?id=ciWvxWWUQ6"
+  },
+  {
+   "title": "Probing Implicit Bias Risk Framing in Language Models",
+   "authors": [
+    "Rishi Kalra",
+    "Andrea Dhelpra",
+    "Seonglae Cho",
+    "Adriano Koshiyama"
+   ],
+   "forum_url": "https://openreview.net/forum?id=834SNNzCXE",
+   "pdf_url": "https://openreview.net/pdf?id=834SNNzCXE"
+  },
+  {
+   "title": "Procedural Fairness Failures in RLHF from Preference Averaging",
+   "authors": [
+    "M P V S GOPINADH",
+    "Karthik Kamuju",
+    "Kummari Avinash",
+    "Muppana John Joshua",
+    "Srinivasa Raju Rudraraju"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pApYPU5Scw",
+   "pdf_url": "https://openreview.net/pdf?id=pApYPU5Scw"
+  },
+  {
+   "title": "Red Teaming the Rules: An Adversarial Approach to Legal Alignment",
+   "authors": [
+    "Rui-Jie Yew",
+    "Greg Demirchyan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f5wA3HvAfk",
+   "pdf_url": "https://openreview.net/pdf?id=f5wA3HvAfk"
+  },
+  {
+   "title": "Robust AI Evaluation through Maximal Lotteries",
+   "authors": [
+    "Hadi Khalaf",
+    "Serena Lutong Wang",
+    "Daniel Halpern",
+    "Itai Shapira",
+    "Flavio Calmon",
+    "Ariel D. Procaccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=K4YygMB3RP",
+   "pdf_url": "https://openreview.net/pdf?id=K4YygMB3RP"
+  },
+  {
+   "title": "Scalable Intersectional Bias Auditing in Vision-Language Models through Combinatorial Interaction Testing",
+   "authors": [
+    "Heejin Bin",
+    "Junyoung Choi",
+    "JangHyun Kim",
+    "Seungjae Kim",
+    "Shin Yoo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LeuhIlke4D",
+   "pdf_url": "https://openreview.net/pdf?id=LeuhIlke4D"
+  },
+  {
+   "title": "SOMnibus: Recovering Underlying Sensitive Attributes with Self-Organizing Maps",
+   "authors": [
+    "Joseph Charles Bingham",
+    "Netanel Arussy",
+    "Dvir Aran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xYMRvAn0yY",
+   "pdf_url": "https://openreview.net/pdf?id=xYMRvAn0yY"
+  },
+  {
+   "title": "State Space Models are Effective Sign Language Learners: Exploiting Phonological Compositionality for Vocabulary-Scale Recognition",
+   "authors": [
+    "Bryan Cheng",
+    "Austin Jin",
+    "Jasper Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vuWbn85TZH",
+   "pdf_url": "https://openreview.net/pdf?id=vuWbn85TZH"
+  },
+  {
+   "title": "THE PERSONALIZATION TRAP: HOW USER MEMORY ALTERS EMOTIONAL REASONING IN LLMS",
+   "authors": [
+    "Weijie Xu",
+    "Xi Fang",
+    "Yuchong Zhang",
+    "Stephanie Eckman",
+    "Scott Nickleach",
+    "Chandan K. Reddy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u9Qgn8xSx1",
+   "pdf_url": "https://openreview.net/pdf?id=u9Qgn8xSx1"
+  },
+  {
+   "title": "Verifying Alignment Constraints Under Finite-Sample Uncertainty in Composite-Data Regimes",
+   "authors": [
+    "Blossom Metevier",
+    "Max Springer",
+    "Bohdan Turbal",
+    "Aleksandra Korolova"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rJPk3NPkvt",
+   "pdf_url": "https://openreview.net/pdf?id=rJPk3NPkvt"
+  },
+  {
+   "title": "When AI Describes Race? Unveiling Racial Bias in Vision-Language Models in Brazilian People",
+   "authors": [
+    "Leodécio Braz da Silva Segundo",
+    "Marcos M. Raimundo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hJL010YrSe",
+   "pdf_url": "https://openreview.net/pdf?id=hJL010YrSe"
+  }
+ ]
+}

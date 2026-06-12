@@ -1,0 +1,247 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/LSRW",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:58.116Z",
+ "paper_count": 19,
+ "papers": [
+  {
+   "title": "Arena 5.0: A Photorealistic ROS2 Simulation Framework for Developing and Benchmarking Social Navigation",
+   "authors": [
+    "Linh Kästner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PNbhzQecVO",
+   "pdf_url": "https://openreview.net/pdf?id=PNbhzQecVO"
+  },
+  {
+   "title": "ARTIST: Articulated Real-To-Interactive-Sim Twin",
+   "authors": [
+    "Lennard Schuenemann",
+    "Leonardo Barcellona",
+    "Christian Gumbsch",
+    "Stratis Gavves",
+    "Andrii Zadaianchuk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2soFkV0KrW",
+   "pdf_url": "https://openreview.net/pdf?id=2soFkV0KrW"
+  },
+  {
+   "title": "Data-Driven Simulation for Training High-Performance Polices",
+   "authors": [
+    "Grzegorz Czechmanowski",
+    "Jan Węgrzynowski",
+    "Piotr Kicki",
+    "Krzysztof Walas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yTCHrPT89a",
+   "pdf_url": "https://openreview.net/pdf?id=yTCHrPT89a"
+  },
+  {
+   "title": "Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation",
+   "authors": [
+    "Tongxuan Tian",
+    "Haoyang Li",
+    "Bo Ai",
+    "Xiaodi Yuan",
+    "Zhiao Huang",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RS88uao0hr",
+   "pdf_url": "https://openreview.net/pdf?id=RS88uao0hr"
+  },
+  {
+   "title": "DyWA: Dynamics-adaptive World Action Model  for Generalizable Non-prehensile Manipulation",
+   "authors": [
+    "Jiangran Lyu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rpKbIHzsEI",
+   "pdf_url": "https://openreview.net/pdf?id=rpKbIHzsEI"
+  },
+  {
+   "title": "End-to-End Driving through Generative Video Pretraining",
+   "authors": [
+    "Florent Bartoccioni",
+    "Elias Ramzi",
+    "Victor Besnier",
+    "Shashanka Venkataramanan",
+    "Tuan-Hung Vu",
+    "Yihong Xu",
+    "Loick Chambon",
+    "Spyros Gidaris",
+    "Serkan odabas",
+    "David Hurych",
+    "Alexandre Boulch",
+    "Mickael Chen",
+    "Eloi Zablocki",
+    "Andrei Bursuc",
+    "Eduardo Valle",
+    "Matthieu Cord"
+   ],
+   "forum_url": "https://openreview.net/forum?id=niG9rpeLf8",
+   "pdf_url": "https://openreview.net/pdf?id=niG9rpeLf8"
+  },
+  {
+   "title": "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact",
+   "authors": [
+    "Siyuan Luo",
+    "Ziqiu ZENG",
+    "Fan Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ob5v7pi7xJ",
+   "pdf_url": "https://openreview.net/pdf?id=Ob5v7pi7xJ"
+  },
+  {
+   "title": "FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation",
+   "authors": [
+    "Seungwook Kim",
+    "Seunghyeon Lee",
+    "Minsu Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RLNXyxCfWG",
+   "pdf_url": "https://openreview.net/pdf?id=RLNXyxCfWG"
+  },
+  {
+   "title": "GRADRobot: Geometry-Aware Rendering with Articulation and Diffusion for Robot Modeling",
+   "authors": [
+    "Yunlong Li",
+    "Boyuan Chen",
+    "Chongjie Ye",
+    "Bohan Li",
+    "Zhaoxi Chen",
+    "Shaocong Xu",
+    "Hao Tang",
+    "Hao Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zTqeqm1hkZ",
+   "pdf_url": "https://openreview.net/pdf?id=zTqeqm1hkZ"
+  },
+  {
+   "title": "Infinigen-Sim: Procedural Generation of Articulated Simulation Assets",
+   "authors": [
+    "Abhishek Joshi",
+    "Beining Han",
+    "Jack Nugent",
+    "Yiming Zuo",
+    "Jonathan Liu",
+    "Hongyu Wen",
+    "Stamatis Alexandropoulos",
+    "Tao Sun",
+    "Alexander Raistrick",
+    "Gaowen Liu",
+    "Yi Shao",
+    "Jia Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6qKmQHZRRd",
+   "pdf_url": "https://openreview.net/pdf?id=6qKmQHZRRd"
+  },
+  {
+   "title": "Learning Multi-Timescale Phase-Amplitude Dynamics for Human-to-Robot Transfer: Toward Real-to-Sim-to-Real",
+   "authors": [
+    "Satoshi Yamamori",
+    "Jun Morimoto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nGVVRrVpOQ",
+   "pdf_url": "https://openreview.net/pdf?id=nGVVRrVpOQ"
+  },
+  {
+   "title": "Learning Multimodal Probabilistic Models of Manipulation Skill Effects",
+   "authors": [
+    "Siyeon Kim",
+    "Tucker Hermans",
+    "Yixuan Huang",
+    "Mohanraj Devendran Shanthi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EAqHMNnfa8",
+   "pdf_url": "https://openreview.net/pdf?id=EAqHMNnfa8"
+  },
+  {
+   "title": "Learning Simulatable Models of Cloth with Spatially-varying Constitutive Properties for Robotics",
+   "authors": [
+    "Guanxiong Chen",
+    "Shashwat Suri",
+    "Yuhao Wu",
+    "Ganidhu K. Abeysirigoonawardena",
+    "Etienne Vouga",
+    "David Levin I.W.",
+    "Dinesh K. Pai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OHO1hb4dpC",
+   "pdf_url": "https://openreview.net/pdf?id=OHO1hb4dpC"
+  },
+  {
+   "title": "LUMOS: Language-Conditioned Imitation Learning with World Models",
+   "authors": [
+    "Iman Nematollahi",
+    "Branton DeMoss",
+    "Akshay L Chandra",
+    "Nick Hawes",
+    "Wolfram Burgard",
+    "Ingmar Posner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=I6sa05BRBg",
+   "pdf_url": "https://openreview.net/pdf?id=I6sa05BRBg"
+  },
+  {
+   "title": "MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain",
+   "authors": [
+    "Hojun Lim",
+    "Heecheol Yoo",
+    "Jinwoo Lee",
+    "Seungmin Jeon",
+    "Hyeongseok Jeon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Gl8uq6fWWM",
+   "pdf_url": "https://openreview.net/pdf?id=Gl8uq6fWWM"
+  },
+  {
+   "title": "Planning in 16 Tokens: A Compact Discrete Tokenizer for Latent World Model",
+   "authors": [
+    "Dongwon Kim",
+    "Jinsung Lee",
+    "Gawon Seo",
+    "Minsu Cho",
+    "Suha Kwak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z9KgtDP6LB",
+   "pdf_url": "https://openreview.net/pdf?id=z9KgtDP6LB"
+  },
+  {
+   "title": "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics",
+   "authors": [
+    "Chenhao Li",
+    "Andreas Krause",
+    "Marco Hutter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bYOFL7oz22",
+   "pdf_url": "https://openreview.net/pdf?id=bYOFL7oz22"
+  },
+  {
+   "title": "Scaling Cross-Embodiment World Models for Dexterous Manipulation",
+   "authors": [
+    "Zihao He",
+    "Bo Ai",
+    "Tongzhou Mu",
+    "Yulin Liu",
+    "Weikang Wan",
+    "Jiawei Fu",
+    "Yilun Du",
+    "Henrik I Christensen",
+    "Hao Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1P9LOCLE2G",
+   "pdf_url": "https://openreview.net/pdf?id=1P9LOCLE2G"
+  },
+  {
+   "title": "VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion",
+   "authors": [
+    "Shaoting Zhu",
+    "Linzhan Mou",
+    "Derun Li",
+    "Baijun Ye",
+    "Runhan Huang",
+    "Hang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ijCCbBAIa1",
+   "pdf_url": "https://openreview.net/pdf?id=ijCCbBAIa1"
+  }
+ ]
+}

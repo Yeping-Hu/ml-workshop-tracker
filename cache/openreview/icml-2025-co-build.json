@@ -1,0 +1,329 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/CO-BUILD",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:32.601Z",
+ "paper_count": 32,
+ "papers": [
+  {
+   "title": "A Temporal Features-Enhanced Mixture-of-Experts Approach for Indoor Temperature Prediction",
+   "authors": [
+    "Kanxuan He",
+    "Hongshan Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=msKv6e1P9s",
+   "pdf_url": "https://openreview.net/pdf?id=msKv6e1P9s"
+  },
+  {
+   "title": "Agentic Multi-Objective Retrofitting Framework (AMORF) for Buildings",
+   "authors": [
+    "Hindesh Akash",
+    "Yang Zhao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ze5Wx9bVUT",
+   "pdf_url": "https://openreview.net/pdf?id=Ze5Wx9bVUT"
+  },
+  {
+   "title": "BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning",
+   "authors": [
+    "Ruohong Liu",
+    "Jack Umenberger",
+    "Yize Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZOnJkdNL3",
+   "pdf_url": "https://openreview.net/pdf?id=bZOnJkdNL3"
+  },
+  {
+   "title": "Benchmarking Forecasting Models for Long-Horizon Prediction of Temperature Distribution in Smart Buildings",
+   "authors": [
+    "Vaibhav Sourirajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xIvYcRvMPv",
+   "pdf_url": "https://openreview.net/pdf?id=xIvYcRvMPv"
+  },
+  {
+   "title": "BESTOpt: A Physics-Informed Neural Network Based Building Simulation, Control and Optimization Platform—A Case Study on Dynamic Model Evaluation",
+   "authors": [
+    "Zixin Jiang",
+    "Bing Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WVXpsMBY8a",
+   "pdf_url": "https://openreview.net/pdf?id=WVXpsMBY8a"
+  },
+  {
+   "title": "BuildEvo: Designing Building Energy Consumption Forcasting Heuristics via LLM-driven Evolution",
+   "authors": [
+    "Subin Lin",
+    "Chuanbo Hua"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NOo94cPOda",
+   "pdf_url": "https://openreview.net/pdf?id=NOo94cPOda"
+  },
+  {
+   "title": "CO-BUILD Smart Buildings Competition: An Empirical Comparison of HVAC Temperature Prediction Models",
+   "authors": [
+    "Sohei Arisaka",
+    "Eikichi Ono",
+    "HIROYASU MIURA",
+    "Yutaka Shoji",
+    "Yangayang Li",
+    "Kuniaki Mihara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iX7osZTnU2",
+   "pdf_url": "https://openreview.net/pdf?id=iX7osZTnU2"
+  },
+  {
+   "title": "Enabling Time-series Foundation Model for Building Energy Forecasting via Contrastive Curriculum Learning",
+   "authors": [
+    "Rui LIANG",
+    "Yang Deng",
+    "xiedonghua",
+    "Dan Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7TgKHQeUsL",
+   "pdf_url": "https://openreview.net/pdf?id=7TgKHQeUsL"
+  },
+  {
+   "title": "Forecasting Building Temperature Time Series with Exogenous Variables: ICML Co-Build Challenge",
+   "authors": [
+    "Ruslan Gokhman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kZ9k7WE8rk",
+   "pdf_url": "https://openreview.net/pdf?id=kZ9k7WE8rk"
+  },
+  {
+   "title": "Generalising Battery Control in Net-Zero Buildings via Personalised Federated RL",
+   "authors": [
+    "Nicolas Mauricio Cuadrado",
+    "Samuel Horváth",
+    "Martin Takáč"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lJOFxEYW0I",
+   "pdf_url": "https://openreview.net/pdf?id=lJOFxEYW0I"
+  },
+  {
+   "title": "GITO: Graph-Informed Transformer Operator for Learning Complex Partial Differential Equations",
+   "authors": [
+    "Milad Ramezankhani",
+    "Janak M. Patel",
+    "Anirudh Deodhar",
+    "Dagnachew Birru"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UKXt4Hijbo",
+   "pdf_url": "https://openreview.net/pdf?id=UKXt4Hijbo"
+  },
+  {
+   "title": "HVAC Fouling Detection with Root-Expansion Tiling-based Image Augmentation for Predictive Maintenance (RETINA-PdM)",
+   "authors": [
+    "Nicholas Strzelczyk",
+    "Lucas Hartman",
+    "Ethan Pigou",
+    "Santiago Gomez-Rosero",
+    "Miriam Capretz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u6R38SIo5P",
+   "pdf_url": "https://openreview.net/pdf?id=u6R38SIo5P"
+  },
+  {
+   "title": "HVAC-GRACE: Transferable Building Control via Heterogeneous Graph Neural Network Policies",
+   "authors": [
+    "Anaïs Berkes",
+    "Donna Vakalis",
+    "David Rolnick",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8dRnWXy8jq",
+   "pdf_url": "https://openreview.net/pdf?id=8dRnWXy8jq"
+  },
+  {
+   "title": "ICML 2025 CO-BUILD contest: XGBoost iterations",
+   "authors": [
+    "Vladimir Pyltsov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7mJt4y42LF",
+   "pdf_url": "https://openreview.net/pdf?id=7mJt4y42LF"
+  },
+  {
+   "title": "InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems",
+   "authors": [
+    "Pinaki Prasad Guha Neogi",
+    "Ahmad Mohammadshirazi",
+    "Rajiv Ramnath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RjL9jgEqAd",
+   "pdf_url": "https://openreview.net/pdf?id=RjL9jgEqAd"
+  },
+  {
+   "title": "Interpretable LLM Control for Sustainable Liquid Cooling in HPC Data Centers",
+   "authors": [
+    "Sahand Ghorbanpour",
+    "Ashwin Ramesh Babu",
+    "Avisek Naug",
+    "Antonio Guillen-Perez",
+    "Ricardo Luna Gutierrez",
+    "Vineet Gundecha",
+    "Soumyendu Sarkar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TF9zveRieZ",
+   "pdf_url": "https://openreview.net/pdf?id=TF9zveRieZ"
+  },
+  {
+   "title": "Learning Adaptive Mixed-Mode Ventilation Policies via Adversarial Inverse Reinforcement Learning",
+   "authors": [
+    "Wei Liang",
+    "Adrian Chong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5MzKZ2eqdL",
+   "pdf_url": "https://openreview.net/pdf?id=5MzKZ2eqdL"
+  },
+  {
+   "title": "ML-Driven Sensitivity Analysis for Lean HVAC: New Insights from Large-Scale Comfort Data",
+   "authors": [
+    "Hongshan Guo",
+    "Yu Chang",
+    "Difeng HU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6w6oFF090g",
+   "pdf_url": "https://openreview.net/pdf?id=6w6oFF090g"
+  },
+  {
+   "title": "Multi-Scale LSTM Networks for Long-Term Building Temperature Prediction: A Simplified Approach to Complex Thermal Dynamics",
+   "authors": [
+    "Pinaki Prasad Guha Neogi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7JtEGL5aAB",
+   "pdf_url": "https://openreview.net/pdf?id=7JtEGL5aAB"
+  },
+  {
+   "title": "Operator Learning for Indoor Air Dynamics: Modeling and Applications",
+   "authors": [
+    "Yuexin Bian",
+    "Yuanyuan Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TGQZyby0u4",
+   "pdf_url": "https://openreview.net/pdf?id=TGQZyby0u4"
+  },
+  {
+   "title": "Physics-Informed Neural Networks (PINNs) for Building Thermal Dynamics: Benchmarking on ASHRAE RP-1312 and BOPTEST",
+   "authors": [
+    "Zichao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qi3XvSzNTG",
+   "pdf_url": "https://openreview.net/pdf?id=Qi3XvSzNTG"
+  },
+  {
+   "title": "Physics-Informed RL for HVAC Controls: Imitation to Online Fine-Tuning",
+   "authors": [
+    "Ozan Baris Mulayim",
+    "Mario Berges",
+    "Kevin J. Kircher",
+    "Guannan Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MwiXDr5grU",
+   "pdf_url": "https://openreview.net/pdf?id=MwiXDr5grU"
+  },
+  {
+   "title": "PIAD-SRNN: Physics-Informed Adaptive Decomposition in State-Space RNN",
+   "authors": [
+    "Ahmad Mohammadshirazi",
+    "Pinaki Prasad Guha Neogi",
+    "Rajiv Ramnath"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eflOCVnZPB",
+   "pdf_url": "https://openreview.net/pdf?id=eflOCVnZPB"
+  },
+  {
+   "title": "Predicting Zone Air Temperature in Smart Buildings Using LightGBM Models",
+   "authors": [
+    "Heming Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AiCke9dJGm",
+   "pdf_url": "https://openreview.net/pdf?id=AiCke9dJGm"
+  },
+  {
+   "title": "Reinforcement Learning with Transfer Learning for Cross-Context Building Design Optimization",
+   "authors": [
+    "Piragash Manmatharasan",
+    "Katarina Grolinger",
+    "Girma Bitsuamlak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aLdmKCpHFi",
+   "pdf_url": "https://openreview.net/pdf?id=aLdmKCpHFi"
+  },
+  {
+   "title": "Safe PDE Boundary Control with Neural Operators",
+   "authors": [
+    "Hanjiang Hu",
+    "Changliu Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YLiCsvGNtT",
+   "pdf_url": "https://openreview.net/pdf?id=YLiCsvGNtT"
+  },
+  {
+   "title": "Scalable Attention-based Reinforcement Learning Method for Multi-asset Control",
+   "authors": [
+    "Seyed Soroush Karimi Madahi",
+    "Giuseppe Gabriele",
+    "Bert Claessens",
+    "Chris Develder"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3h0v1Ht73L",
+   "pdf_url": "https://openreview.net/pdf?id=3h0v1Ht73L"
+  },
+  {
+   "title": "Scalable Building Temperature Prediction for Smart HVAC Control: A Multi-Stage Learning Framework",
+   "authors": [
+    "Rohan Saha",
+    "Tushar Shinde"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3UDLGS5j01",
+   "pdf_url": "https://openreview.net/pdf?id=3UDLGS5j01"
+  },
+  {
+   "title": "Scalable Occupant-Centric HVAC Control in Accommodations Using Individual Preference and Global Thermal Comfort Database",
+   "authors": [
+    "Eikichi Ono",
+    "Wataru Umishio",
+    "Kuniaki Mihara",
+    "Taizo Shimo",
+    "Yutaka Shoji",
+    "KENJI OGAWA"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nQMA8Z5SjP",
+   "pdf_url": "https://openreview.net/pdf?id=nQMA8Z5SjP"
+  },
+  {
+   "title": "The Potential for Building Emissions Reduction through Sporadic and Targeted Load Modulation",
+   "authors": [
+    "Utkarsha Agwan",
+    "Samuel Bobick",
+    "Srinath Rangan",
+    "Kameshwar Poolla",
+    "Costas Spanos"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8MBP4NKtxK",
+   "pdf_url": "https://openreview.net/pdf?id=8MBP4NKtxK"
+  },
+  {
+   "title": "Thermal-SAM: Adversarial Prompt-Based Unsupervised Building Segmentation in Thermal Aerial Imagery – A Case Study in Turin",
+   "authors": [
+    "Shuai Niu",
+    "Hongshan Guo",
+    "Maria Ferrara",
+    "Sebastiano Anselmo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1hqzOuaxab",
+   "pdf_url": "https://openreview.net/pdf?id=1hqzOuaxab"
+  },
+  {
+   "title": "Time-series Forecast for Indoor Zone Air Temperature with Long Horizons A Case Study with Sensor-based Data from a Smart Building",
+   "authors": [
+    "Liping Sun",
+    "Yucheng Guo",
+    "Siliang Lu",
+    "Zhenzhen Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ozxp9aQeOK",
+   "pdf_url": "https://openreview.net/pdf?id=ozxp9aQeOK"
+  }
+ ]
+}

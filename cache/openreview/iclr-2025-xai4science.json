@@ -1,0 +1,466 @@
+{
+ "venue_id": "ICLR.cc/2025/Workshop/XAI4Science",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:55.840Z",
+ "paper_count": 40,
+ "papers": [
+  {
+   "title": "$\\text{CO}_2$-Net: A Physics-Informed Spatio-Temporal Model for Global $\\text{CO}_2$ Reconstruction",
+   "authors": [
+    "Hao Zheng",
+    "Yuting Zheng",
+    "Hanbo Huang",
+    "Chaofan Sun",
+    "Lin Liu",
+    "Enhui Liao",
+    "Yi Han",
+    "Hao Zhou",
+    "Shiyu Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=L3qs25FN8Q",
+   "pdf_url": null
+  },
+  {
+   "title": "AlphaGo or beta-hCG: a reinforcement learning framework for assisted conception",
+   "authors": [
+    "Simon Hanassab",
+    "Elizaveta Sheremetyeva",
+    "Sonali Parbhoo",
+    "Scott Nelson",
+    "Professor Waljit Dhillo",
+    "Thomas Heinis",
+    "Ali Abbara"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9iluHDJKw3",
+   "pdf_url": null
+  },
+  {
+   "title": "Automated Capability Discovery via Model Self-Exploration",
+   "authors": [
+    "Cong Lu",
+    "Shengran Hu",
+    "Jeff Clune"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ptlUU1e8xb",
+   "pdf_url": null
+  },
+  {
+   "title": "BarkXAI: A Lightweight Post-Hoc Explainable Method for Tree Species Classification with Quantifiable Concepts",
+   "authors": [
+    "Yunmei Huang",
+    "Songlin Hou",
+    "Zachary Nelson Horve",
+    "Songlin Fei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pSQ24demNe",
+   "pdf_url": null
+  },
+  {
+   "title": "Bayesian Concept Bottleneck Models with LLM Priors",
+   "authors": [
+    "Jean Feng",
+    "Avni Kothari",
+    "Lucas Zier",
+    "Chandan Singh",
+    "Yan Shuo Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U8lJaZioAn",
+   "pdf_url": null
+  },
+  {
+   "title": "Causal Concept Graph Models: Beyond Causal Opacity in Deep Learning",
+   "authors": [
+    "Gabriele Dominici",
+    "Pietro Barbiero",
+    "Mateo Espinosa Zarlenga",
+    "Alberto Termine",
+    "Martin Gjoreski",
+    "Giuseppe Marra",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rZigTyPCz3",
+   "pdf_url": null
+  },
+  {
+   "title": "Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences",
+   "authors": [
+    "Riccardo Cadei",
+    "Ilker Demirel",
+    "Piersilvio De Bartolomeis",
+    "Lukas Lindorfer",
+    "Sylvia Cremer",
+    "Cordelia Schmid",
+    "Francesco Locatello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HQSaQPOcyP",
+   "pdf_url": null
+  },
+  {
+   "title": "Causally Reliable Concept Bottleneck Models",
+   "authors": [
+    "Giovanni De Felice",
+    "Arianna Casanova",
+    "Francesco De Santis",
+    "Silvia Santini",
+    "Johannes Schneider",
+    "Pietro Barbiero",
+    "Alberto Termine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ththAv0j2h",
+   "pdf_url": null
+  },
+  {
+   "title": "Circuit mechanism for compositional induction in transformer",
+   "authors": [
+    "Cheng Tang",
+    "Brenden Lake",
+    "Mehrdad Jazayeri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=b8riXKmdwb",
+   "pdf_url": null
+  },
+  {
+   "title": "Counterfactual Concept Bottleneck Models",
+   "authors": [
+    "Gabriele Dominici",
+    "Pietro Barbiero",
+    "Francesco Giannini",
+    "Martin Gjoreski",
+    "Giuseppe Marra",
+    "Marc Langheinrich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XQeK3Qzp4p",
+   "pdf_url": null
+  },
+  {
+   "title": "Efficient and Flexible Neural Network Training through Layer-wise Feedback Propagation",
+   "authors": [
+    "Leander Weber",
+    "Jim Berend",
+    "Moritz Weckbecker",
+    "Alexander Binder",
+    "Thomas Wiegand",
+    "Wojciech Samek",
+    "Sebastian Lapuschkin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=beFC2i7oye",
+   "pdf_url": null
+  },
+  {
+   "title": "Emergence of Computational Structure in a Neural Network Physics Simulator",
+   "authors": [
+    "Rohan Hitchcock",
+    "Gary W Delaney",
+    "Jonathan H. Manton",
+    "Richard Scalzo",
+    "Jingge Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aTC6ItLs0m",
+   "pdf_url": null
+  },
+  {
+   "title": "From Markov to Laplace: How Mamba In-Context Learns Markov Chains",
+   "authors": [
+    "Marco Bondaschi",
+    "Nived Rajaraman",
+    "Xiuying Wei",
+    "Kannan Ramchandran",
+    "Razvan Pascanu",
+    "Caglar Gulcehre",
+    "Michael Gastpar",
+    "Ashok Vardhan Makkuva"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Qwt5andjuU",
+   "pdf_url": null
+  },
+  {
+   "title": "Generating $\\pi$-Functional Molecules Using STGG+ with Active Learning",
+   "authors": [
+    "Alexia Jolicoeur-Martineau",
+    "Yan Zhang",
+    "Boris Knyazev",
+    "Aristide Baratin",
+    "Cheng-Hao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TwKZJfYJXl",
+   "pdf_url": null
+  },
+  {
+   "title": "Graph Discrete Diffusion: a Spectral Study",
+   "authors": [
+    "Olga Zaghen",
+    "Manuel Madeira",
+    "Laura Toni",
+    "Pascal Frossard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oUJrEmowuF",
+   "pdf_url": null
+  },
+  {
+   "title": "Hybrid Generative Modeling for Incomplete Physics: Deep Grey-Box Meets Optimal Transport",
+   "authors": [
+    "Gurjeet Sangra Singh",
+    "Maciej Falkiewicz",
+    "Alexandros Kalousis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nnCEkZaF0G",
+   "pdf_url": null
+  },
+  {
+   "title": "LEARNING MULTIPHASE AND MULTIPHYSICS SYSTEM WITH DECOUPLED STATE SPACE MODEL",
+   "authors": [
+    "Yun Young Choi",
+    "Seunghwan Lee",
+    "Minho Lee",
+    "Lee JinHaeng",
+    "Joohwan Ko",
+    "Chanwoong Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x6rTzlchkF",
+   "pdf_url": null
+  },
+  {
+   "title": "LENS: Learning and Evolving Numerical Scores for Cohort-Specific Clinical Insights",
+   "authors": [
+    "Kei Sen Fong",
+    "Mehul Motani"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iloJCJ6GYV",
+   "pdf_url": null
+  },
+  {
+   "title": "Limits of Deep Learning: Sequence Modeling through the Lens of Complexity Theory",
+   "authors": [
+    "Nikola Zubic",
+    "Federico Soldà",
+    "Aurelio Sulser",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=78kdoUlYCT",
+   "pdf_url": null
+  },
+  {
+   "title": "Machine learning-based Optimization for Molten pool Dynamics in Laser Manufacturing",
+   "authors": [
+    "Le Song",
+    "Zhiyong Huang",
+    "Xuyang Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p1rSGHo5KQ",
+   "pdf_url": null
+  },
+  {
+   "title": "Massive Activations in Graph Neural Networks: Decoding Attention for Domain-Dependent Interpretability",
+   "authors": [
+    "Lorenzo Bini",
+    "Marco Sorbi",
+    "Stephane Marchand-Maillet"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1XcU5KzIEW",
+   "pdf_url": null
+  },
+  {
+   "title": "Measuring Leakage in Concept-Based Methods: An Information Theoretic Approach",
+   "authors": [
+    "Mikael Makonnen",
+    "Moritz Vandenhirtz",
+    "Sonia Laguna",
+    "Julia E Vogt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u0oGjnshKt",
+   "pdf_url": null
+  },
+  {
+   "title": "Modeling Multi-Regional and Non-Stationary Neural Dynamics via Latent Sub-Circuits",
+   "authors": [
+    "Noga Mudrik",
+    "Ryan Ly",
+    "Oliver Ruebel",
+    "Adam Shabti Charles"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9ft1bYz2lo",
+   "pdf_url": null
+  },
+  {
+   "title": "Moment Neural Operator: Interpretable mapping in discontinuous function spaces",
+   "authors": [
+    "Qi Gao",
+    "Kuang Huang",
+    "Xuan Di"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QogPQ6AeE4",
+   "pdf_url": null
+  },
+  {
+   "title": "NeuralDEM: Real-time Simulation of Industrial Particulate Flows",
+   "authors": [
+    "Benedikt Alkin",
+    "Tobias Kronlachner",
+    "Samuele Papa",
+    "Stefan Pirker",
+    "Thomas Lichtenegger",
+    "Johannes Brandstetter"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SOQxhfEJwN",
+   "pdf_url": null
+  },
+  {
+   "title": "Piecewise Polynomial Regression of Tame Functions via Integer Programming",
+   "authors": [
+    "Gilles Bareilles",
+    "Johannes Aspman",
+    "Jiří Němeček",
+    "Jakub Marecek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YYJlzCNVwn",
+   "pdf_url": null
+  },
+  {
+   "title": "Post-hoc Interpretability Illumination for Scientific Interaction Discovery",
+   "authors": [
+    "Ling Zhang",
+    "Zhichao Hou",
+    "Tingxiang Ji",
+    "Yuanyuan Xu",
+    "Runze Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P1Ifu4h6RF",
+   "pdf_url": null
+  },
+  {
+   "title": "Reconstructing Dynamics from Steady Spatial Patterns with Partial Observations",
+   "authors": [
+    "Xinyue Luo",
+    "Xuzhe Qian",
+    "Yu Chen",
+    "Huaxiong Huang",
+    "Jin Cheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wFCNst4chc",
+   "pdf_url": null
+  },
+  {
+   "title": "Rethinking Visual Counterfactual Explanations Through Region Constraint",
+   "authors": [
+    "Bartlomiej Sobieski",
+    "Jakub Grzywaczewski",
+    "Bartłomiej Sadlej",
+    "Matthew Tivnan",
+    "Przemyslaw Biecek"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tUFq2APjhf",
+   "pdf_url": null
+  },
+  {
+   "title": "SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders",
+   "authors": [
+    "Bartosz Cywiński",
+    "Kamil Deja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HFCaWGWEzi",
+   "pdf_url": null
+  },
+  {
+   "title": "Scaling Sparse Autoencoders for Interpreting Protein Structure Prediction",
+   "authors": [
+    "John Jingxuan Yang",
+    "David J Yang",
+    "Nithin Parsan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=f4PT1K4TFa",
+   "pdf_url": null
+  },
+  {
+   "title": "SHAP-BASED A-POSTERIORI INTERPRETABILITY FOR GRAPH NEURAL NETWORKS IN CFD-BASED SUSTAINABLE BUILDING SIMULATIONS",
+   "authors": [
+    "BO SUN",
+    "hanmo wang",
+    "Tam Hong Nguyen",
+    "Alexander Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NX59cGkkha",
+   "pdf_url": null
+  },
+  {
+   "title": "Skip the Equations: Learning Behavior of Personalized Dynamical Systems Directly From Data",
+   "authors": [
+    "Krzysztof Kacprzyk",
+    "Julianna Piskorz",
+    "Mihaela van der Schaar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EVVNYFDx3R",
+   "pdf_url": null
+  },
+  {
+   "title": "Spatially-Informed Sampling Enables Accurate Prediction of Large-Scale Mutational Effects",
+   "authors": [
+    "Maxime Basse",
+    "Dianzhuo Wang",
+    "Eugene Shakhnovich"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EDKKYjnXVE",
+   "pdf_url": null
+  },
+  {
+   "title": "TIME-AWARE FEATURE SELECTION: ADAPTIVE TEMPORAL MASKING FOR STABLE SPARSE AUTOENCODER TRAINING",
+   "authors": [
+    "Ed Li",
+    "Junyu Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y92rZnyHir",
+   "pdf_url": null
+  },
+  {
+   "title": "TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation",
+   "authors": [
+    "Hyeongwon Jang",
+    "Changhun Kim",
+    "Eunho Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NL9c124Fsl",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs",
+   "authors": [
+    "Batu El",
+    "Deepro Choudhury",
+    "Pietro Lio",
+    "Chaitanya K. Joshi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WpHMhLG0mj",
+   "pdf_url": null
+  },
+  {
+   "title": "ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding",
+   "authors": [
+    "Hesam Hosseini",
+    "Ghazal Hosseini Mighan",
+    "Amirabbas Afzali",
+    "Sajjad Amini",
+    "Amir Houmansadr"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9YZ485Kbfq",
+   "pdf_url": null
+  },
+  {
+   "title": "Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis",
+   "authors": [
+    "Rachel S.Y. Teo",
+    "Tan Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9nkBuPl4FM",
+   "pdf_url": null
+  },
+  {
+   "title": "Why Uncertainty Calibration Matters for Reliable Perturbation-based Explanations",
+   "authors": [
+    "Thomas Decker",
+    "Volker Tresp",
+    "Florian Buettner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=P3wRwKycUW",
+   "pdf_url": null
+  }
+ ]
+}

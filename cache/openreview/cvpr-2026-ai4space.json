@@ -1,0 +1,485 @@
+{
+ "venue_id": "thecvf.com/CVPR/2026/Workshop/AI4Space",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:39:42.717Z",
+ "paper_count": 42,
+ "papers": [
+  {
+   "title": "A Comparative Analysis of Forecasting Foundation Models for Spacecraft Multivariate Time Series Anomaly Detection",
+   "authors": [
+    "Alexandre Olive",
+    "Sundip R. Desai",
+    "Richard H. Foster",
+    "Moses Chan",
+    "Mary Comer",
+    "Edward Delp"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WROJYqwVVp",
+   "pdf_url": null
+  },
+  {
+   "title": "A Deep Learning Iterative Framework for Sentinel-1 Stripmap Enhancement Based on Azimuth Doppler Decomposition",
+   "authors": [
+    "Juan Francisco Amieva",
+    "Christian Ayala",
+    "Roberto Del Prete",
+    "Mikel Galar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=utGw80DCww",
+   "pdf_url": null
+  },
+  {
+   "title": "A Systematic Evaluation of Retrieval-Augmented Generation and Language Models for Space Operations",
+   "authors": [
+    "Ruben Catarino Belo",
+    "Marta Guimaraes",
+    "Claudia Soares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hLv173CNNk",
+   "pdf_url": null
+  },
+  {
+   "title": "ArcticBench and SmartTransfer: Benchmarking and Enabling Continual Learning of Atmosphere Generative Foundation Model",
+   "authors": [
+    "Fu-Ming Guo",
+    "fengwei guo",
+    "Yingfang Fan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M4Rv8VEi0x",
+   "pdf_url": null
+  },
+  {
+   "title": "AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies",
+   "authors": [
+    "Jennifer Nolan",
+    "Travis Driver",
+    "John A Christian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oEqe5V65Nm",
+   "pdf_url": null
+  },
+  {
+   "title": "Autonomous Perception and Onboard Intelligence for Space Missions: A Survey",
+   "authors": [
+    "Kaveh Safavigerdini",
+    "Juan Mogollon",
+    "Amirreza Daghighi",
+    "Kannappan Palaniappan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XEpodVDRUV",
+   "pdf_url": null
+  },
+  {
+   "title": "Deployable Neuromorphic AI in Space: Taxonomy and Architecture",
+   "authors": [
+    "Giannis Panagiotopoulos",
+    "Luca Macchiaiolo",
+    "Priyadarshini Kannan",
+    "Evgenios Tsigkanos",
+    "Axel von Arnim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VB8cU8a5Hu",
+   "pdf_url": null
+  },
+  {
+   "title": "Deployment-Aligned Low-Precision Neural Architecture Search for Spaceborne Edge AI",
+   "authors": [
+    "Parampuneet Kaur Thind",
+    "Vaibhav Kumar Katturu",
+    "Giacomo Zema",
+    "Roberto Del Prete"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yFVPHTAnX7",
+   "pdf_url": null
+  },
+  {
+   "title": "Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware",
+   "authors": [
+    "Arunkumar Rathinam",
+    "Jules Lecomte",
+    "Jost Reelsen",
+    "Gregor Lenz",
+    "Axel von Arnim",
+    "Djamila Aouada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PKxT4xUzcj",
+   "pdf_url": null
+  },
+  {
+   "title": "Flight Demonstration of On-Orbit Model Adaptation on a Nanosatellite",
+   "authors": [
+    "Zaher Joukhadar",
+    "Miguel Ortiz del Castillo",
+    "Jonathan Morgan",
+    "Lachlan Cowley",
+    "Robert Mearns",
+    "Simon Barraclough",
+    "Krista A. Ehinger",
+    "Benjamin I. P. Rubinstein",
+    "Richard Sinnott",
+    "Michele Trenti",
+    "James Bailey"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kmY7apKxqe",
+   "pdf_url": null
+  },
+  {
+   "title": "GeoSwin: Hierarchical Representation Learning and a Large-Scale Earth Observation Benchmark",
+   "authors": [
+    "Muhammad Fayaz",
+    "Zulfiqar Ahmad Khan",
+    "Lien Minh Dang",
+    "Hyeonjoon Moon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yvDnWfXRsM",
+   "pdf_url": null
+  },
+  {
+   "title": "GUIDE: Guided Updates for In-context Decision Evolution in LLM-Driven Spacecraft Operations",
+   "authors": [
+    "Alejandro Carrasco",
+    "Mariko Storey-Matsutani",
+    "Victor Rodriguez-Fernandez",
+    "Richard Linares"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AsCCctx5gv",
+   "pdf_url": null
+  },
+  {
+   "title": "Intent-aligned Autonomous Spacecraft Guidance via Reasoning Models",
+   "authors": [
+    "Yuji Takubo",
+    "Simone D'Amico"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ijgMoAtE8J",
+   "pdf_url": null
+  },
+  {
+   "title": "Learning Normalcy: Self-Supervised Anomaly Discovery in Spacecraft Sensor Streams",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9f5Y2g4rhx",
+   "pdf_url": null
+  },
+  {
+   "title": "LLaVA-LE: Large Language-and-Vision Assistant for Lunar Exploration",
+   "authors": [
+    "Gokce Inal",
+    "Pouyan Navard",
+    "Alper Yilmaz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xn9g0ysIDv",
+   "pdf_url": null
+  },
+  {
+   "title": "LUMEN: Language-guided Unified Memory for ENcoding Hyperspectral Images for Mars Mineral Identification",
+   "authors": [
+    "Abhiroop Chatterjee",
+    "Susmita Ghosh",
+    "Ashish Ghosh",
+    "Emmett Ientilucci"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kc91iE7vih",
+   "pdf_url": null
+  },
+  {
+   "title": "LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation",
+   "authors": [
+    "Aytaç Sekmen",
+    "Fatih Emre Gunes",
+    "Furkan Horoz",
+    "Hüseyin Umut Işık",
+    "Mehmet Alp Ozaydin",
+    "Onur Altay Topaloglu",
+    "Şahin Umutcan Üstündaş",
+    "Yurdasen Alp Yeni",
+    "Halil Ersin Soken",
+    "Erol Sahin",
+    "Ramazan Gokberk Cinbis",
+    "Sinan Kalkan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DdYoK1gc0n",
+   "pdf_url": null
+  },
+  {
+   "title": "MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery",
+   "authors": [
+    "Sidike Paheding",
+    "Abel Reyes-Angulo",
+    "Leo Thomas Ramos",
+    "Angel Domingo Sappa",
+    "Rajaneesh A.",
+    "Hiral P. B.",
+    "Sajin Kumar K. S.",
+    "Thomas Oommen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KVwDhIS1hn",
+   "pdf_url": null
+  },
+  {
+   "title": "Neural 3D Reconstruction of Planetary Surfaces from Descent-Phase Wide-Angle Imagery",
+   "authors": [
+    "Melonie de Almeida",
+    "George Brydon",
+    "Divya M Persaud",
+    "John H. Williamson",
+    "Paul Henderson"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hW08zgTa8H",
+   "pdf_url": null
+  },
+  {
+   "title": "Onboard Latent Kalman Filtering for Robust Spacecraft Pose Estimation",
+   "authors": [
+    "Junghwan Park",
+    "Woojin Cho"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7yYcqe9l8a",
+   "pdf_url": null
+  },
+  {
+   "title": "Onboard-Targeted Segmentation of Broken Pixels, Lines, and Dust on Optics Faults in Space Camera Sensors",
+   "authors": [
+    "Riccardo Gallon",
+    "Alessandra Menicucci",
+    "Edoardo Caroselli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VStcS1VXxo",
+   "pdf_url": null
+  },
+  {
+   "title": "Optimizing Latent Representations for Robust Building Damage Assessment Onboard Earth Observation Satellites",
+   "authors": [
+    "Thomas Goudemant",
+    "Benjamin Francesconi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vzN9SpVn4g",
+   "pdf_url": null
+  },
+  {
+   "title": "OWLS: Open-World Language-driven Servoing for Zero-Shot Traversability",
+   "authors": [
+    "Chahyon Ku",
+    "Erica Tevere",
+    "Georgios Georgakis",
+    "Rudranarayan Mukherjee",
+    "Bernadette Bucher"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sCGgRkBvwc",
+   "pdf_url": null
+  },
+  {
+   "title": "PIKing Neural Networks: Parallel Inference via Kernelizing. A Comparative Study of Tandem-Deployed Space AI Models Across Heterogeneous Hardware",
+   "authors": [
+    "Muhammad Deedahwar Mazhar Qureshi",
+    "James Murphy",
+    "Jake O'Brien",
+    "Roberto Del Prete"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gFLAOyyFhD",
+   "pdf_url": null
+  },
+  {
+   "title": "Post-Launch Capability Expansion of Vision–Language Models via Prompting for On-Orbit Spacecraft Inspection",
+   "authors": [
+    "Nicholas Welsh",
+    "Lennon J. Shikhman",
+    "Monty Nehru Attzs",
+    "Seemanthini Kusha Putane",
+    "Van Minh Nguyen",
+    "Ryan T. White"
+   ],
+   "forum_url": "https://openreview.net/forum?id=w7pVSkgHRa",
+   "pdf_url": null
+  },
+  {
+   "title": "Raw-to-Processed in Orbit: Fast Onboard Image Reconstruction for EO",
+   "authors": [
+    "Gabriele Inzerillo",
+    "Lorenzo Papa",
+    "Gabriele Meoni",
+    "Diego Valsesia",
+    "Enrico Magli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iZvIp5z3Ty",
+   "pdf_url": null
+  },
+  {
+   "title": "Rethinking Satellite Image Restoration for Onboard AI: A Lightweight Learning-Based Approach",
+   "authors": [
+    "Adrien Dorise",
+    "Marjorie Bellizzi",
+    "Omar Hlimi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=itJGxOewG8",
+   "pdf_url": null
+  },
+  {
+   "title": "Retrocausal Influence and Agentic Consensus: Theoretically Grounded Interpretability for Long-Horizon Autonomous Space Systems",
+   "authors": [
+    "Srikanth Vemula"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VwvbMEC9Lg",
+   "pdf_url": null
+  },
+  {
+   "title": "Reward Shaping for Safe Spacecraft Proximity Operations: A Comparative Study",
+   "authors": [
+    "Mysore supreeth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=yycJBc47Ni",
+   "pdf_url": null
+  },
+  {
+   "title": "Semantic Constraint Synthesis for Adaptive Trajectory Optimization via Large Language Models",
+   "authors": [
+    "Eleanor Brosius",
+    "Yuji Takubo",
+    "Daniele Gammelli",
+    "Simone D'Amico",
+    "Marco Pavone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=774K6D5Ttn",
+   "pdf_url": null
+  },
+  {
+   "title": "SPACE-HOP: Spacecraft 6-DoF Pose Estimation using Embedding-Predictive Pretraining and Hopf Map",
+   "authors": [
+    "Arnabi Dutta",
+    "Arsh Abbas Naqvi",
+    "Kavinder Singh",
+    "Lavendra Gautam",
+    "Anil Singh Parihar",
+    "Shakti Bangare",
+    "Ravi Kumar Lagisetty"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t9LTeubtto",
+   "pdf_url": null
+  },
+  {
+   "title": "SpaceGym: A Gymnasium-Based Benchmark for Deep Reinforcement Learning in Spacecraft Proximity Operations",
+   "authors": [
+    "Mysore supreeth",
+    "Manish Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eHHDzzYt1F",
+   "pdf_url": null
+  },
+  {
+   "title": "SwarmSAT Agent: A Tool-Grounded Autonomous Multi-Agent LLM Framework for Rapid Satellite Constellation Retasking of Pop-Up Events",
+   "authors": [
+    "Adib Bazgir",
+    "Yuwen Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uxnfFxqcCk",
+   "pdf_url": null
+  },
+  {
+   "title": "The Space Edge AI Computer: A Decoupled, Zero-Virtualization Payload for In-Orbit Generative AI under 12W",
+   "authors": [
+    "Yufei Xie",
+    "Yizhou Leng",
+    "Longbin Wu",
+    "Haowei Lee",
+    "Jinyang Xu",
+    "Zhaobo Zhang",
+    "Donggang Cao",
+    "Bingli Jiao",
+    "Xiaohui Duan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DqW0UVn5hy",
+   "pdf_url": null
+  },
+  {
+   "title": "Thermal Anomaly Detection using Physics Aware Neuromorphic Networks: Comparison between Raw and L1C Sentinel-2 Data",
+   "authors": [
+    "Stephen Smith",
+    "Cormac Purcell",
+    "Gabriele Meoni",
+    "Roberto Del Prete",
+    "Zdenka Kuncic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KftvooI3VD",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Event-Based Visual Sensing for Spacecraft Pose Estimation: Baselines and Analysis",
+   "authors": [
+    "Mysore supreeth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7HjNpm74a5",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Onboard Multi-View Analysis of Satellite Imagery: Monocular 2D Motion Estimation and 3D Reconstruction",
+   "authors": [
+    "Alberto Candela",
+    "Evan Davis",
+    "Andrew Branch",
+    "Joseph Russino",
+    "Steve Chien",
+    "Becca Bonham-Carter",
+    "Luis Chavier",
+    "Alexis Pascual",
+    "Tim Heydrich",
+    "Shannon Paul",
+    "Saleh Abdelrahman",
+    "Andrew J Macdonald",
+    "Michele Faragalli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CaGna9Lt50",
+   "pdf_url": null
+  },
+  {
+   "title": "Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing",
+   "authors": [
+    "Anh Vu Nguyen",
+    "Dino Sejdinovic",
+    "Tat-Jun Chin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YEq3szKlc9",
+   "pdf_url": null
+  },
+  {
+   "title": "VAD4Space: Visual Anomaly Detection for Planetary Surface Imagery",
+   "authors": [
+    "Fabrizio Genilotti",
+    "Arianna Stropeni",
+    "Francesco Borsatti",
+    "Manuel Barusco",
+    "Davide Dalle Pezze",
+    "Gian Antonio Susto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t8k69isQRg",
+   "pdf_url": null
+  },
+  {
+   "title": "Vision-Guided Deep Reinforcement Learning for Autonomous Spacecraft Rendezvous and Docking",
+   "authors": [
+    "Mysore supreeth"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ASWnou9kLe",
+   "pdf_url": null
+  },
+  {
+   "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
+   "authors": [
+    "Najeeb Khan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Zs7hOAsgmh",
+   "pdf_url": null
+  },
+  {
+   "title": "YOOLO: You Only Orbit and Look Once",
+   "authors": [
+    "Vincenzo Mariano Scarrica",
+    "Antonio Vanzanella",
+    "Antonino Staiano"
+   ],
+   "forum_url": "https://openreview.net/forum?id=666TQVkWw2",
+   "pdf_url": null
+  }
+ ]
+}

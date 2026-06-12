@@ -1,0 +1,321 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Federated_Learning",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:32.418Z",
+ "paper_count": 25,
+ "papers": [
+  {
+   "title": "$\\texttt{pfl-research}$: simulation framework for accelerating research in Private Federated Learning",
+   "authors": [
+    "Filip Granqvist",
+    "Congzheng Song",
+    "Áine Cahill",
+    "Rogier van Dalen",
+    "Martin Pelikan",
+    "YI SHENG CHAN",
+    "Xiaojun Feng",
+    "Natarajan Krishnaswami",
+    "Vojta J",
+    "Mona Chitnis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6WNNB9TaVw",
+   "pdf_url": "https://openreview.net/pdf?id=6WNNB9TaVw"
+  },
+  {
+   "title": "Adaptive Hybrid Model Pruning in Federated Learning through Loss Exploration",
+   "authors": [
+    "Christian Internò",
+    "Elena Raponi",
+    "Niki van Stein",
+    "Thomas Bäck",
+    "Markus Olhofer",
+    "Yaochu Jin",
+    "Barbara Hammer"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OxpWu6J0TW",
+   "pdf_url": "https://openreview.net/pdf?id=OxpWu6J0TW"
+  },
+  {
+   "title": "Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning",
+   "authors": [
+    "Kai Yi",
+    "Timur Kharisov",
+    "Igor Sokolov",
+    "Peter Richtárik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8TrYvsbw1f",
+   "pdf_url": "https://openreview.net/pdf?id=8TrYvsbw1f"
+  },
+  {
+   "title": "Collaborative Learning with Shared Linear Representations: Statistical Rates and Optimal Algorithms",
+   "authors": [
+    "Xiaochun Niu",
+    "Lili Su",
+    "Jiaming Xu",
+    "Pengkun Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jNZEIQsJes",
+   "pdf_url": "https://openreview.net/pdf?id=jNZEIQsJes"
+  },
+  {
+   "title": "DeComFL: Federated Learning with Dimension-Free Communication",
+   "authors": [
+    "Zhe Li",
+    "Bicheng Ying",
+    "Zidong Liu",
+    "Chaosheng Dong",
+    "Haibo Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vy9ltlTXXd",
+   "pdf_url": "https://openreview.net/pdf?id=Vy9ltlTXXd"
+  },
+  {
+   "title": "Defection-Free Collaboration between Competitors in a Learning System",
+   "authors": [
+    "Mariel Werner",
+    "Sai Praneeth Karimireddy",
+    "Michael Jordan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2Sd5xNv1sm",
+   "pdf_url": "https://openreview.net/pdf?id=2Sd5xNv1sm"
+  },
+  {
+   "title": "DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing",
+   "authors": [
+    "Alexander Bienstock",
+    "Antigoni Polychroniadou",
+    "Ujjwal Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GdzTE7eruH",
+   "pdf_url": "https://openreview.net/pdf?id=GdzTE7eruH"
+  },
+  {
+   "title": "Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models",
+   "authors": [
+    "Rui Ye",
+    "Jingyi Chai",
+    "Xiangrui Liu",
+    "Yaodong Yang",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1JGa1OIRjQ",
+   "pdf_url": "https://openreview.net/pdf?id=1JGa1OIRjQ"
+  },
+  {
+   "title": "EncCluster: Bringing Functional Encryption in Federated Foundational Models",
+   "authors": [
+    "Vasileios Tsouvalas",
+    "Samaneh Mohammadi",
+    "Ali Balador",
+    "Tanir Özçelebi",
+    "Francesco Flammini",
+    "Nirvana Meratnia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7bgJ7t5kkW",
+   "pdf_url": "https://openreview.net/pdf?id=7bgJ7t5kkW"
+  },
+  {
+   "title": "Enhancing Causal Discovery in Federated Settings with Limited Local Samples",
+   "authors": [
+    "Xianjie Guo",
+    "Liping Yi",
+    "Xiaohu Wu",
+    "Kui Yu",
+    "Gang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Js64okXDUE",
+   "pdf_url": "https://openreview.net/pdf?id=Js64okXDUE"
+  },
+  {
+   "title": "Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees",
+   "authors": [
+    "Steffen Schotthöfer",
+    "M. Paul Laiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MxgmAil8ud",
+   "pdf_url": "https://openreview.net/pdf?id=MxgmAil8ud"
+  },
+  {
+   "title": "Federated Learning with Generative Content",
+   "authors": [
+    "Rui Ye",
+    "Xinyu Zhu",
+    "Jingyi Chai",
+    "Lingjuan Lyu",
+    "Chen Xie",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hMbgXHjWrg",
+   "pdf_url": "https://openreview.net/pdf?id=hMbgXHjWrg"
+  },
+  {
+   "title": "FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator",
+   "authors": [
+    "Sunny Gupta",
+    "Amit Sethi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uBooD9HQQu",
+   "pdf_url": "https://openreview.net/pdf?id=uBooD9HQQu"
+  },
+  {
+   "title": "Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models",
+   "authors": [
+    "Yao Shu",
+    "Wenyang Hu",
+    "See-Kiong Ng",
+    "Bryan Kian Hsiang Low",
+    "Fei Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SXMsg44Znz",
+   "pdf_url": "https://openreview.net/pdf?id=SXMsg44Znz"
+  },
+  {
+   "title": "Hot Pluggable Federated Learning",
+   "authors": [
+    "Lei Shen",
+    "Zhenheng Tang",
+    "Lijun Wu",
+    "Yonggang Zhang",
+    "Xiaowen Chu",
+    "Tao Qin",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FazIrAXoM6",
+   "pdf_url": "https://openreview.net/pdf?id=FazIrAXoM6"
+  },
+  {
+   "title": "Improving Group Connectivity for Generalization of Federated Deep Learning",
+   "authors": [
+    "Zexi Li",
+    "Jie Lin",
+    "Zhiqi Li",
+    "Didi Zhu",
+    "Rui Ye",
+    "Tao Shen",
+    "Tao Lin",
+    "Chao Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vGyB8PVl4C",
+   "pdf_url": "https://openreview.net/pdf?id=vGyB8PVl4C"
+  },
+  {
+   "title": "Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models",
+   "authors": [
+    "Rui Ye",
+    "Rui Ge",
+    "Fengting Yuchi",
+    "Jingyi Chai",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pxP2M3xiE6",
+   "pdf_url": "https://openreview.net/pdf?id=pxP2M3xiE6"
+  },
+  {
+   "title": "MAP: Model Merging with Amortized Pareto Front Using Limited Computation",
+   "authors": [
+    "Lu Li",
+    "Tianyu Zhang",
+    "Zhiqi Bu",
+    "Suyuchen Wang",
+    "Huan He",
+    "Jie Fu",
+    "Yonghui Wu",
+    "Jiang Bian",
+    "Yong Chen",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KfOdVp4pfm",
+   "pdf_url": "https://openreview.net/pdf?id=KfOdVp4pfm"
+  },
+  {
+   "title": "Momentum Approximation in Asynchronous Private Federated Learning",
+   "authors": [
+    "Tao Yu",
+    "Congzheng Song",
+    "Jianyu Wang",
+    "Mona Chitnis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pEpjKicxFk",
+   "pdf_url": "https://openreview.net/pdf?id=pEpjKicxFk"
+  },
+  {
+   "title": "On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments",
+   "authors": [
+    "Muxing Wang",
+    "Pengkun Yang",
+    "Lili Su"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Eph8dS188u",
+   "pdf_url": "https://openreview.net/pdf?id=Eph8dS188u"
+  },
+  {
+   "title": "OPA: One-shot Private Aggregation with Single Client Interaction and its Applications to Federated Learning",
+   "authors": [
+    "Harish Karthikeyan",
+    "Antigoni Polychroniadou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qQdPSuW7qx",
+   "pdf_url": "https://openreview.net/pdf?id=qQdPSuW7qx"
+  },
+  {
+   "title": "The Future of Large Language Model Pre-training is Federated",
+   "authors": [
+    "Lorenzo Sani",
+    "Alex Iacob",
+    "Zeyu Cao",
+    "Bill Marino",
+    "Yan Gao",
+    "Tomas Paulik",
+    "Wanru Zhao",
+    "William F. Shen",
+    "Preslav Aleksandrov",
+    "Xinchi Qiu",
+    "Nicholas Donald Lane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hfeH5AP9NY",
+   "pdf_url": "https://openreview.net/pdf?id=hfeH5AP9NY"
+  },
+  {
+   "title": "The SynapticCity Phenomenon: When All Foundation Models Marry Federated Learning and Blockchain",
+   "authors": [
+    "Sergio Zaera Mata",
+    "Roberto Gómez-Espinosa Martín"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RoUUV2wLdn",
+   "pdf_url": "https://openreview.net/pdf?id=RoUUV2wLdn"
+  },
+  {
+   "title": "Worldwide Federated Training of Language Models",
+   "authors": [
+    "Alex Iacob",
+    "Lorenzo Sani",
+    "Bill Marino",
+    "Preslav Aleksandrov",
+    "William F. Shen",
+    "Nicholas Donald Lane"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YMSLZUmQVV",
+   "pdf_url": "https://openreview.net/pdf?id=YMSLZUmQVV"
+  },
+  {
+   "title": "ZOOPFL: Exploring Black-box Foundation Models for Personalized Federated Learning",
+   "authors": [
+    "Wang Lu",
+    "Hao Yu",
+    "Jindong Wang",
+    "Damien Teney",
+    "Haohan Wang",
+    "Yao Zhu",
+    "Yiqiang Chen",
+    "Qiang Yang",
+    "Xing Xie",
+    "Xiangyang Ji"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zpEQUbYZPc",
+   "pdf_url": "https://openreview.net/pdf?id=zpEQUbYZPc"
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/ML4Wireless",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:49:57.789Z",
+ "paper_count": 33,
+ "papers": [
+  {
+   "title": "AutoBS: Autonomous Base Station Deployment with Reinforcement Learning and Digital Network Twins",
+   "authors": [
+    "Juhyung Lee",
+    "Andreas Molisch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cKhKw9B1Sf",
+   "pdf_url": "https://openreview.net/pdf?id=cKhKw9B1Sf"
+  },
+  {
+   "title": "BiCompFL: Bi-Directional Compression for Stochastic Federated Learning",
+   "authors": [
+    "Maximilian Egger",
+    "Rawad Bitar",
+    "Antonia Wachter-Zeh",
+    "Nir Weinberger",
+    "Deniz Gunduz"
+   ],
+   "forum_url": "https://openreview.net/forum?id=47FFOz6ju6",
+   "pdf_url": "https://openreview.net/pdf?id=47FFOz6ju6"
+  },
+  {
+   "title": "Continual Learning for Wireless Channel Prediction",
+   "authors": [
+    "Muhammad Ahmed Mohsin",
+    "Muhammad Umer",
+    "Ahsan Bilal",
+    "Muhammad Ali Jamshed",
+    "John M. Cioffi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xzaGCSM7Sv",
+   "pdf_url": "https://openreview.net/pdf?id=xzaGCSM7Sv"
+  },
+  {
+   "title": "Deep Unfolding with Kernel-based Quantization in MIMO Detection",
+   "authors": [
+    "Zeyi Ren",
+    "Jingreng Lei",
+    "Yichen Jin",
+    "Ermo Hua",
+    "Qingfeng Lin",
+    "Chen Zhang",
+    "Bowen Zhou",
+    "Yik Chung WU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5rDBJBaSoe",
+   "pdf_url": "https://openreview.net/pdf?id=5rDBJBaSoe"
+  },
+  {
+   "title": "Deep-OFDM: Robust Neural Modulation for High Mobility",
+   "authors": [
+    "Sravan Kumar Ankireddy",
+    "S Ashwin Hebbar",
+    "Pramod Viswanath",
+    "Hyeji Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UZsVnubmtC",
+   "pdf_url": "https://openreview.net/pdf?id=UZsVnubmtC"
+  },
+  {
+   "title": "DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding",
+   "authors": [
+    "JIAHONG NING",
+    "Ce ZHENG",
+    "Tingting Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5vkXfhUmnn",
+   "pdf_url": "https://openreview.net/pdf?id=5vkXfhUmnn"
+  },
+  {
+   "title": "Efficient and Robust Semantic Image Communication via Stable Cascade",
+   "authors": [
+    "Rana Ahmad Bilal Khalid",
+    "Pedro Freire",
+    "Sergei K. Turitsyn",
+    "Jaroslaw E. Prilepsky"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dVhISJFzj9",
+   "pdf_url": "https://openreview.net/pdf?id=dVhISJFzj9"
+  },
+  {
+   "title": "Hierarchical and Collaborative LLM-Based Control for Multi-UAV Motion and Communication in Integrated Terrestrial and Non-Terrestrial Networks",
+   "authors": [
+    "Zijiang Yan",
+    "Hao Zhou",
+    "Jianhua Pei",
+    "Hina Tabassum"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hUDL3nBoC3",
+   "pdf_url": "https://openreview.net/pdf?id=hUDL3nBoC3"
+  },
+  {
+   "title": "Hierarchical Debate-Based Large Language Model (LLM) for Complex Task  Planning of 6G Network Management",
+   "authors": [
+    "Yuyan Lin",
+    "Hao Zhou",
+    "Chengming Hu",
+    "Xue Liu",
+    "Hao chen",
+    "Yan Xin",
+    "Jianzhong Charlie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H5gjolDaQn",
+   "pdf_url": "https://openreview.net/pdf?id=H5gjolDaQn"
+  },
+  {
+   "title": "Maximizing Channel Capacity in Semantic Communication: A Classifier-Based Mutual Information Estimation Approach",
+   "authors": [
+    "Xu Wang",
+    "Di Wang",
+    "Zheng Shi",
+    "Guanghua Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZpfXdP7W6f",
+   "pdf_url": "https://openreview.net/pdf?id=ZpfXdP7W6f"
+  },
+  {
+   "title": "MoE-CE: Enhancing Generalization for Deep Learning based Channel Estimation via a Mixture-of-Experts Framework",
+   "authors": [
+    "Tianyu Li",
+    "Yan Xin",
+    "Jianzhong Charlie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AyZmLugLa1",
+   "pdf_url": "https://openreview.net/pdf?id=AyZmLugLa1"
+  },
+  {
+   "title": "Neural Augmented Kalman Filters for Road Network assisted GNSS positioning",
+   "authors": [
+    "Hans van Gorp",
+    "Davide Belli",
+    "Amir Jalalirad",
+    "Bence Major"
+   ],
+   "forum_url": "https://openreview.net/forum?id=72aFRaMSEh",
+   "pdf_url": "https://openreview.net/pdf?id=72aFRaMSEh"
+  },
+  {
+   "title": "Neural Network-Driven Estimation of Hardware Impairments for Robust Wireless Device Identification",
+   "authors": [
+    "Haytham Albousayri",
+    "Bechir Hamdaoui",
+    "Weng-Keen Wong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VxaRmqBBog",
+   "pdf_url": "https://openreview.net/pdf?id=VxaRmqBBog"
+  },
+  {
+   "title": "On-Device LLM for Context-Aware Wi-Fi Roaming",
+   "authors": [
+    "Juhyung Lee",
+    "Yanqing Lu",
+    "Klaus Doppler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ocDYg5Wjvd",
+   "pdf_url": "https://openreview.net/pdf?id=ocDYg5Wjvd"
+  },
+  {
+   "title": "Percentile-Based Deep Reinforcement Learning and Reward Based Personalization For Delay Aware RAN Slicing in O-RAN",
+   "authors": [
+    "Peyman Tehrani",
+    "Anas Alsoliman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YvHKyzV3ey",
+   "pdf_url": "https://openreview.net/pdf?id=YvHKyzV3ey"
+  },
+  {
+   "title": "Personalized Language-Oriented Semantic Communication",
+   "authors": [
+    "Giordano Cicchetti",
+    "Eleonora Grassucci",
+    "Danilo Comminiello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CMulftTeRA",
+   "pdf_url": "https://openreview.net/pdf?id=CMulftTeRA"
+  },
+  {
+   "title": "Physics-Informed Parametric Bandits for Beam Alignment in mmWave Communications",
+   "authors": [
+    "Hao Qin",
+    "Thang Duong",
+    "Ming Li",
+    "Chicheng Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bXs8pg4ddb",
+   "pdf_url": "https://openreview.net/pdf?id=bXs8pg4ddb"
+  },
+  {
+   "title": "Position Paper: Rethinking AI/ML for Air Interface in Wireless Networks",
+   "authors": [
+    "Georgios Kontes",
+    "Diomidis S. Michalopoulos",
+    "Birendra Ghimire",
+    "Christopher Mutschler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dc8Xrq8rx2",
+   "pdf_url": "https://openreview.net/pdf?id=Dc8Xrq8rx2"
+  },
+  {
+   "title": "Position: The field of small language models needs greater attention and a more systematic approach from the CS research community",
+   "authors": [
+    "Ivan Samoylenko"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xquv8JNOJU",
+   "pdf_url": "https://openreview.net/pdf?id=Xquv8JNOJU"
+  },
+  {
+   "title": "Prompting Wireless Networks: Reinforced In-Context Learning for Power Control",
+   "authors": [
+    "Hao Zhou",
+    "Chengming Hu",
+    "Dun Yuan",
+    "Ye Yuan",
+    "Di Wu",
+    "Xue Liu",
+    "Jianzhong Charlie Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xVRRNWo9j9",
+   "pdf_url": "https://openreview.net/pdf?id=xVRRNWo9j9"
+  },
+  {
+   "title": "Residual Diffusion Models for Joint Source Channel Coding of MIMO CSI",
+   "authors": [
+    "Sravan Kumar Ankireddy",
+    "Heasung Kim",
+    "Hyeji Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dv6YR4BK0k",
+   "pdf_url": "https://openreview.net/pdf?id=Dv6YR4BK0k"
+  },
+  {
+   "title": "Semantic Subgraph Extraction Attacks To Convolutional Neural Networks",
+   "authors": [
+    "Gabriele Restuccia",
+    "Ilenia Tinnirello",
+    "Francesco Restuccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=emKR3bRT0k",
+   "pdf_url": "https://openreview.net/pdf?id=emKR3bRT0k"
+  },
+  {
+   "title": "Simplicity is Key: An Unsupervised Pretraining Approach for Sparse Radio Channels",
+   "authors": [
+    "Jonathan Ott",
+    "Maximilian Stahlke",
+    "Tobias Feigl",
+    "Bjoern Eskofier",
+    "Christopher Mutschler"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HrVFz0gwvP",
+   "pdf_url": "https://openreview.net/pdf?id=HrVFz0gwvP"
+  },
+  {
+   "title": "SINF: Semantic Inference in Neural Networks with Semantic Subgraphs",
+   "authors": [
+    "A. Q. M. Sazzad Sayyed",
+    "Francesco Restuccia"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iaAzZ1mJkZ",
+   "pdf_url": "https://openreview.net/pdf?id=iaAzZ1mJkZ"
+  },
+  {
+   "title": "Specification Generation for Neural Networks in Networking Systems",
+   "authors": [
+    "Isha Chaudhary",
+    "Shuyi Lin",
+    "Cheng Tan",
+    "Gagandeep Singh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=01I87cYQAO",
+   "pdf_url": "https://openreview.net/pdf?id=01I87cYQAO"
+  },
+  {
+   "title": "Tackling Spatial-Temporal Data Heterogeneity for Federated Continual Learning in Edge Networks",
+   "authors": [
+    "Junyu Shi",
+    "Kun Guo",
+    "Xijun Wang",
+    "Peng YANG",
+    "Howard Hao Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0CMl1TC7X2",
+   "pdf_url": "https://openreview.net/pdf?id=0CMl1TC7X2"
+  },
+  {
+   "title": "TCNet: A Unified Framework for CSI Feedback Compression Leveraging Language Model as Lossless Compressor",
+   "authors": [
+    "Zijiu Yang",
+    "Qianqian Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oHvtjD25js",
+   "pdf_url": "https://openreview.net/pdf?id=oHvtjD25js"
+  },
+  {
+   "title": "Towards a Foundation Model for Communication Systems",
+   "authors": [
+    "Davide Buffelli",
+    "Sowmen Das",
+    "Yu-Wei Lin",
+    "Sattar Vakili",
+    "Chien-Yi Wang",
+    "Masoud Attarifar",
+    "Pritthijit Nath",
+    "Da-shan Shiu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VZzF53BH0h",
+   "pdf_url": "https://openreview.net/pdf?id=VZzF53BH0h"
+  },
+  {
+   "title": "Towards Constraint-aware Learning for Resource Allocation in NFV Networks",
+   "authors": [
+    "Tianfu Wang",
+    "Long yang",
+    "Chao Wang",
+    "Chuan Qin",
+    "Liwei Deng",
+    "Li Shen",
+    "Hui Xiong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZCeIa1gskv",
+   "pdf_url": "https://openreview.net/pdf?id=ZCeIa1gskv"
+  },
+  {
+   "title": "Ultra-Efficient and Effective Large Language Models with Multi-Boolean Architectures",
+   "authors": [
+    "Ba-Hien Tran",
+    "Van Minh Nguyen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RkXSIwVVqi",
+   "pdf_url": "https://openreview.net/pdf?id=RkXSIwVVqi"
+  },
+  {
+   "title": "ULTRA: UNet Helps Transformer to Forecast The Network States in 5G Network",
+   "authors": [
+    "Renxiao Zeng",
+    "Yukuan Jia",
+    "Jintao Yan",
+    "Sheng Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DSU1A7XJ8u",
+   "pdf_url": "https://openreview.net/pdf?id=DSU1A7XJ8u"
+  },
+  {
+   "title": "Uncertainty-Aware Opportunistic Hybrid Language Model in Wireless Robotic Systems",
+   "authors": [
+    "Jeyoung Park",
+    "Yeonsub Lim",
+    "Seungeun Oh",
+    "Jihong Park",
+    "Seong-Lyun Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BfwuHrYUox",
+   "pdf_url": "https://openreview.net/pdf?id=BfwuHrYUox"
+  },
+  {
+   "title": "Uplink-Aware Federated Learning Based on Model Pruning in Satellite Networks",
+   "authors": [
+    "Chenyu Xu",
+    "Yijie Mao",
+    "Xiong Wang",
+    "Jingjing Zhang",
+    "Yuanming Shi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZnYKz4Fkvp",
+   "pdf_url": "https://openreview.net/pdf?id=ZnYKz4Fkvp"
+  }
+ ]
+}

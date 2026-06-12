@@ -1,0 +1,182 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2025/Workshop/LEAP_Rolling",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:56.972Z",
+ "paper_count": 14,
+ "papers": [
+  {
+   "title": "BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning",
+   "authors": [
+    "Hongyi Zhou",
+    "Weiran Liao",
+    "Xi Huang",
+    "Yucheng Tang",
+    "Fabian Otto",
+    "Xiaogang Jia",
+    "Xinkai Jiang",
+    "Simon Hilber",
+    "Ge Li",
+    "Qian Wang",
+    "Ömer Erdinç Yağmurlu",
+    "Nils Blank",
+    "Moritz Reuss",
+    "Rudolf Lioutikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uwwbJcWbpl",
+   "pdf_url": "https://openreview.net/pdf?id=uwwbJcWbpl"
+  },
+  {
+   "title": "Diffusion-Guided Q-Learning for Offline RL: Adaptive Revaluation for Long-Horizon Decision Making",
+   "authors": [
+    "Jaehyun Park",
+    "Yunho Kim",
+    "Sejin Kim",
+    "Byung-Jun Lee",
+    "Sundong Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zIq6SuFooZ",
+   "pdf_url": "https://openreview.net/pdf?id=zIq6SuFooZ"
+  },
+  {
+   "title": "From Skills to TAMP: Learning Portable Symbolic Representations for Task and Motion Planning",
+   "authors": [
+    "Naman Shah",
+    "Benned Hedegaard",
+    "Yichen Wei",
+    "Ziyi Yang",
+    "Alper Ahmetoglu",
+    "Stefanie Tellex",
+    "George Konidaris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2rSwjwNdSf",
+   "pdf_url": "https://openreview.net/pdf?id=2rSwjwNdSf"
+  },
+  {
+   "title": "Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation",
+   "authors": [
+    "Shizhe Chen",
+    "Ricardo Garcia Pinel",
+    "Paul Pacaud",
+    "Cordelia Schmid"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l88uLwanUY",
+   "pdf_url": "https://openreview.net/pdf?id=l88uLwanUY"
+  },
+  {
+   "title": "Hierarchical Vision-Language-Action Policies for  Global Reasoning in Assembly Tasks",
+   "authors": [
+    "Moritz Hesche",
+    "Moritz Reuss",
+    "Marc Forstenhäusler",
+    "Rudolf Lioutikov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qko2w3x0Ch",
+   "pdf_url": "https://openreview.net/pdf?id=qko2w3x0Ch"
+  },
+  {
+   "title": "Learning Sound Symbolic Abstractions from VLMs for Efficient Task and Motion Planning on CALVIN",
+   "authors": [
+    "Bayron Jossue Serrano Mena"
+   ],
+   "forum_url": "https://openreview.net/forum?id=liVUIlgUI5",
+   "pdf_url": "https://openreview.net/pdf?id=liVUIlgUI5"
+  },
+  {
+   "title": "Learning to Plan & Schedule with  Reinforcement-Learned Bimanual Robot Skills",
+   "authors": [
+    "Weikang Wan",
+    "Fabio Ramos",
+    "Xuning Yang",
+    "Caelan Reed Garrett"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HoyzrI5xD8",
+   "pdf_url": "https://openreview.net/pdf?id=HoyzrI5xD8"
+  },
+  {
+   "title": "Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models",
+   "authors": [
+    "Wanming Yu",
+    "Adrian Röfer",
+    "Abhinav Valada",
+    "Sethu Vijayakumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5NNzx5YWHt",
+   "pdf_url": "https://openreview.net/pdf?id=5NNzx5YWHt"
+  },
+  {
+   "title": "SEAL: Safe and Efficient Abstraction Learning for Robotic Planning",
+   "authors": [
+    "Akhil R Kurup",
+    "Ravi Prakash"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Oj2dKy5wh",
+   "pdf_url": "https://openreview.net/pdf?id=8Oj2dKy5wh"
+  },
+  {
+   "title": "SPUR: Scaling Reward Learning from Human Demonstrations",
+   "authors": [
+    "Anthony Liang",
+    "Yigit Korkmaz",
+    "Jiahui Zhang",
+    "Jesse Zhang",
+    "Abrar Anwar",
+    "Sidhant Kaushik",
+    "Yufei Wang",
+    "Yu Xiang",
+    "David Held",
+    "Dieter Fox",
+    "Abhishek Gupta",
+    "Stephen Tu",
+    "Erdem Biyik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rTYCRGagpE",
+   "pdf_url": "https://openreview.net/pdf?id=rTYCRGagpE"
+  },
+  {
+   "title": "SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation",
+   "authors": [
+    "Yifei Simon Shao",
+    "Yuchen Zheng",
+    "Sunan Sun",
+    "Nadia Figueroa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sJXvdItBLT",
+   "pdf_url": "https://openreview.net/pdf?id=sJXvdItBLT"
+  },
+  {
+   "title": "Uncertainty-Aware Planning with Generative World- and Language-Models via Monte Carlo Tree Search",
+   "authors": [
+    "Magí Dalmau-Moreno",
+    "Nestor Garcia",
+    "Vicenç Gomez"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Cg5jRhWlyh",
+   "pdf_url": "https://openreview.net/pdf?id=Cg5jRhWlyh"
+  },
+  {
+   "title": "Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space",
+   "authors": [
+    "Zhikai Zhang",
+    "Chao Chen",
+    "Han Xue",
+    "Jilong Wang",
+    "Sikai Liang",
+    "Yun Liu",
+    "Zongzhang Zhang",
+    "He Wang",
+    "Li Yi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QDGKXF11Rl",
+   "pdf_url": "https://openreview.net/pdf?id=QDGKXF11Rl"
+  },
+  {
+   "title": "Zero-order optimization with contact priors for locomotion",
+   "authors": [
+    "Victor Dhédin",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7apLCdmuDv",
+   "pdf_url": "https://openreview.net/pdf?id=7apLCdmuDv"
+  }
+ ]
+}

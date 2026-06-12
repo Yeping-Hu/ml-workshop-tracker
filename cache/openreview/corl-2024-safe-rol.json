@@ -1,0 +1,357 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2024/Workshop/SAFE-ROL",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:45.603Z",
+ "paper_count": 27,
+ "papers": [
+  {
+   "title": "Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning",
+   "authors": [
+    "Adam Fishman",
+    "Aaron Walsman",
+    "Mohak Bhardwaj",
+    "Wentao Yuan",
+    "Balakumar Sundaralingam",
+    "Byron Boots",
+    "Dieter Fox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ccxDydaAs1",
+   "pdf_url": "https://openreview.net/pdf?id=ccxDydaAs1"
+  },
+  {
+   "title": "Conformalized Reachable Sets for Obstacle Avoidance With Spheres",
+   "authors": [
+    "Yongseok Kwon",
+    "Jonathan Michaux",
+    "Seth Isaacson",
+    "Bohao Zhang",
+    "Matthew Ejakov",
+    "Katherine A. Skinner",
+    "Ram Vasudevan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ht600LHKN4",
+   "pdf_url": "https://openreview.net/pdf?id=ht600LHKN4"
+  },
+  {
+   "title": "Constrained Meta Agnostic Reinforcement Learning",
+   "authors": [
+    "Karam Daaboul",
+    "Florian Kuhm",
+    "Tim Joseph",
+    "J. Marius Zoellner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HLrF9E7rva",
+   "pdf_url": "https://openreview.net/pdf?id=HLrF9E7rva"
+  },
+  {
+   "title": "Continuous Mean-Zero Disagreement-Regularized Imitation Learning (CMZ-DRIL)",
+   "authors": [
+    "Noah Ford",
+    "Austin Juhl",
+    "Ryan W. Gardner"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wRdSMPoLPr",
+   "pdf_url": "https://openreview.net/pdf?id=wRdSMPoLPr"
+  },
+  {
+   "title": "DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation",
+   "authors": [
+    "Peiqi Liu",
+    "Zhanqiu Guo",
+    "Mohit Warke",
+    "Soumith Chintala",
+    "Chris Paxton",
+    "Nur Muhammad Mahi Shafiullah",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=D7em289r7s",
+   "pdf_url": "https://openreview.net/pdf?id=D7em289r7s"
+  },
+  {
+   "title": "Enhancing Visual Domain Robustness in Behaviour Cloning via Saliency-Guided Augmentation",
+   "authors": [
+    "Zheyu Zhuang",
+    "Ruiyu Wang",
+    "Nils Ingelhag",
+    "Ville Kyrki",
+    "Danica Kragic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5ewJqqxCNB",
+   "pdf_url": "https://openreview.net/pdf?id=5ewJqqxCNB"
+  },
+  {
+   "title": "Estimating Neural Network Robustness via Lipschitz Constant and Architecture Sensitivity",
+   "authors": [
+    "ABULIKEMU ABUDUWEILI",
+    "Changliu Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Mk2pq3Gjq1",
+   "pdf_url": "https://openreview.net/pdf?id=Mk2pq3Gjq1"
+  },
+  {
+   "title": "Evolving Control: Evolved High Frequency Control for Continuous Control Tasks",
+   "authors": [
+    "Samuel Holt",
+    "Todor Davchev",
+    "Dhruva Tirumala",
+    "Ben Moran",
+    "Yixin Lin",
+    "Antoine Laurens",
+    "Atil Iscen",
+    "Erik Frey",
+    "Markus Wulfmeier",
+    "Francesco Romano",
+    "Nicolas Heess"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gzADUWLD9X",
+   "pdf_url": "https://openreview.net/pdf?id=gzADUWLD9X"
+  },
+  {
+   "title": "Fine-Tuning of Neural Network Approximate MPC without Retraining via Bayesian Optimization",
+   "authors": [
+    "Henrik Hose",
+    "Paul Brunzema",
+    "Alexander von Rohr",
+    "Alexander Gräfe",
+    "Angela P. Schoellig",
+    "Sebastian Trimpe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lSah6an1Ar",
+   "pdf_url": "https://openreview.net/pdf?id=lSah6an1Ar"
+  },
+  {
+   "title": "Guiding reinforcement learning using constrained uncertainty-aware movement primitives",
+   "authors": [
+    "Abhishek Padalkar",
+    "Freek Stulp",
+    "Gerhard Neumann",
+    "João Silvério"
+   ],
+   "forum_url": "https://openreview.net/forum?id=H5IbNnJ9Zl",
+   "pdf_url": "https://openreview.net/pdf?id=H5IbNnJ9Zl"
+  },
+  {
+   "title": "Iterative Batch Reinforcement Learning via Safe Diversified Model-based Policy Search",
+   "authors": [
+    "Amna Najib",
+    "Stefan Depeweg",
+    "Phillip Swazinna"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xt7g7mB62W",
+   "pdf_url": "https://openreview.net/pdf?id=xt7g7mB62W"
+  },
+  {
+   "title": "Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins",
+   "authors": [
+    "Venkatesh Pattabiraman",
+    "Yifeng Cao",
+    "Siddhant Haldar",
+    "Lerrel Pinto",
+    "Raunaq Bhirangi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uRBsAYSIeO",
+   "pdf_url": "https://openreview.net/pdf?id=uRBsAYSIeO"
+  },
+  {
+   "title": "NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+   "authors": [
+    "Daniel Dauner",
+    "Marcel Hallgarten",
+    "Tianyu Li",
+    "Xinshuo Weng",
+    "Zhiyu Huang",
+    "Zetong Yang",
+    "Hongyang Li",
+    "Igor Gilitschenski",
+    "Boris Ivanovic",
+    "Marco Pavone",
+    "Andreas Geiger",
+    "Kashyap Chitta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=skkOWFvQmK",
+   "pdf_url": "https://openreview.net/pdf?id=skkOWFvQmK"
+  },
+  {
+   "title": "Neural Eulerian Scene Flow Fields",
+   "authors": [
+    "Kyle Vedder",
+    "Neehar Peri",
+    "Ishan Khatri",
+    "Siyi Li",
+    "Eric Eaton",
+    "Mehmet Kemal Kocamaz",
+    "Yue Wang",
+    "Zhiding Yu",
+    "Deva Ramanan",
+    "Joachim Pehserl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Rrr4BaEb6O",
+   "pdf_url": "https://openreview.net/pdf?id=Rrr4BaEb6O"
+  },
+  {
+   "title": "Neural MP: A Generalist Neural Motion Planner",
+   "authors": [
+    "Murtaza Dalal",
+    "Jiahui Yang",
+    "Russell Mendonca",
+    "Youssef Khaky",
+    "Russ Salakhutdinov",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ECIqMl6Y7u",
+   "pdf_url": "https://openreview.net/pdf?id=ECIqMl6Y7u"
+  },
+  {
+   "title": "Not All Errors Are Made Equal: A Regret Metric for Detecting System-level Trajectory Prediction Failures",
+   "authors": [
+    "Kensuke Nakamura",
+    "Thomas Tian",
+    "Andrea Bajcsy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7IGlYTfPar",
+   "pdf_url": "https://openreview.net/pdf?id=7IGlYTfPar"
+  },
+  {
+   "title": "PACER: Preference-conditioned All-terrain Costmap genERation",
+   "authors": [
+    "Luisa Mao",
+    "Garrett Warnell",
+    "Peter Stone",
+    "Joydeep Biswas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k6uIZztI2n",
+   "pdf_url": "https://openreview.net/pdf?id=k6uIZztI2n"
+  },
+  {
+   "title": "Planning with Adaptive World Models for Autonomous Driving",
+   "authors": [
+    "Arun Balajee Vasudevan",
+    "Neehar Peri",
+    "Jeff Schneider",
+    "Deva Ramanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CdGvA5qE67",
+   "pdf_url": "https://openreview.net/pdf?id=CdGvA5qE67"
+  },
+  {
+   "title": "Problem Space Transformations for Generalisation in Behavioural Cloning",
+   "authors": [
+    "Kiran Doshi",
+    "Marco Bagatella",
+    "Stelian Coros"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gjaTpArsog",
+   "pdf_url": "https://openreview.net/pdf?id=gjaTpArsog"
+  },
+  {
+   "title": "RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution",
+   "authors": [
+    "Wonsuhk Jung",
+    "Dennis Anthony",
+    "Utkarsh Aashu Mishra",
+    "Nadun Ranawaka Arachchige",
+    "Danfei Xu",
+    "Shreyas Kousik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8R1V5JcNZv",
+   "pdf_url": "https://openreview.net/pdf?id=8R1V5JcNZv"
+  },
+  {
+   "title": "Safe Diffusion Model Predictive Control for Interactive Robotic Crowd Navigation",
+   "authors": [
+    "Sepehr Samavi",
+    "Anthony Lem",
+    "Fumiaki Sato",
+    "Sirui Chen",
+    "Qiao Gu",
+    "Keijiro Yano",
+    "Angela P. Schoellig",
+    "Florian Shkurti"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OIifSeluIk",
+   "pdf_url": "https://openreview.net/pdf?id=OIifSeluIk"
+  },
+  {
+   "title": "Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications",
+   "authors": [
+    "Joe Eappen",
+    "Zikang Xiong",
+    "Dipam Patel",
+    "Aniket Bera",
+    "Suresh Jagannathan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sDj2uAH7ly",
+   "pdf_url": "https://openreview.net/pdf?id=sDj2uAH7ly"
+  },
+  {
+   "title": "Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards",
+   "authors": [
+    "Lukas Brunke",
+    "Yanni Zhang",
+    "Ralf Römer",
+    "Jack Naimer",
+    "Nikola Staykov",
+    "SiQi Zhou",
+    "Angela P. Schoellig"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eY4Dl7FkyL",
+   "pdf_url": "https://openreview.net/pdf?id=eY4Dl7FkyL"
+  },
+  {
+   "title": "Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations",
+   "authors": [
+    "Michael Kurenkov",
+    "Sajad Marvi",
+    "Julian Schmidt",
+    "Christoph Bernd Rist",
+    "Alessandro Canevaro",
+    "Hang Yu",
+    "Julian Jordan",
+    "Georg Schildbach",
+    "Abhinav Valada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7ed2eLx3oE",
+   "pdf_url": "https://openreview.net/pdf?id=7ed2eLx3oE"
+  },
+  {
+   "title": "Uncertainty-Aware Failure Detection for Imitation Learning Robot Policies",
+   "authors": [
+    "Chen Xu",
+    "Tony Khuong Nguyen",
+    "Patrick Miller",
+    "Robert Lee",
+    "Paarth Shah",
+    "Rares Andrei Ambrus",
+    "Haruki Nishimura",
+    "Masha Itkina"
+   ],
+   "forum_url": "https://openreview.net/forum?id=199tJ1rxmh",
+   "pdf_url": "https://openreview.net/pdf?id=199tJ1rxmh"
+  },
+  {
+   "title": "Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress",
+   "authors": [
+    "Christopher Agia",
+    "Rohan Sinha",
+    "Jingyun Yang",
+    "Ziang Cao",
+    "Rika Antonova",
+    "Marco Pavone",
+    "Jeannette Bohg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j1B3Id9CLm",
+   "pdf_url": "https://openreview.net/pdf?id=j1B3Id9CLm"
+  },
+  {
+   "title": "Verification of Neural Control Barrier Functions with Symbolic Derivative Bounds Propagation",
+   "authors": [
+    "Hanjiang Hu",
+    "Yujie Yang",
+    "Tianhao Wei",
+    "Changliu Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k1O6EUSx1I",
+   "pdf_url": "https://openreview.net/pdf?id=k1O6EUSx1I"
+  }
+ ]
+}

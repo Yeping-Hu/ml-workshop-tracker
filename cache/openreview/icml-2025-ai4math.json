@@ -1,0 +1,1418 @@
+{
+ "venue_id": "ICML.cc/2025/Workshop/AI4MATH",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T01:12:58.798Z",
+ "paper_count": 112,
+ "papers": [
+  {
+   "title": "$Q\\sharp$: Provably Optimal Distributional RL for LLM Post-Training",
+   "authors": [
+    "Jin Peng Zhou",
+    "Kaiwen Wang",
+    "Jonathan Daniel Chang",
+    "Zhaolin Gao",
+    "Nathan Kallus",
+    "Kilian Q Weinberger",
+    "Kiant\u00e9 Brantley",
+    "Wen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mDopPjpI3N",
+   "pdf_url": "https://openreview.net/pdf?id=mDopPjpI3N"
+  },
+  {
+   "title": "A Comprehensive Evaluation of Contemporary Machine-Learning-Based Solvers for CO",
+   "authors": [
+    "Shengyu Feng",
+    "Weiwei Sun",
+    "Shanda Li",
+    "Ameet Talwalkar",
+    "Yiming Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BChsy6cNb1",
+   "pdf_url": "https://openreview.net/pdf?id=BChsy6cNb1"
+  },
+  {
+   "title": "A Compute-Matched Re-Evaluation of TroVE on MATH",
+   "authors": [
+    "Tobias Sesterhenn",
+    "Ian Berlot-Attwell",
+    "Janis Zenkner",
+    "Christian Bartelt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7AJJgfqNEL",
+   "pdf_url": "https://openreview.net/pdf?id=7AJJgfqNEL"
+  },
+  {
+   "title": "A Markov Categorical Framework for Language Modeling",
+   "authors": [
+    "Yifan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KgQchsGhyd",
+   "pdf_url": "https://openreview.net/pdf?id=KgQchsGhyd"
+  },
+  {
+   "title": "A Practical Two-Stage Recipe for Mathematical LLMs: Maximizing Accuracy with SFT and Efficiency with Reinforcement Learning",
+   "authors": [
+    "Hiroshi Yoshihara",
+    "Taiki Yamaguchi",
+    "Yuichi Inoue"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8hJfUAFY5f",
+   "pdf_url": "https://openreview.net/pdf?id=8hJfUAFY5f"
+  },
+  {
+   "title": "A Survey on Large Language Model Reasoning Failures",
+   "authors": [
+    "Peiyang Song",
+    "Pengrui Han",
+    "Noah Goodman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=hsgMn4KBFG",
+   "pdf_url": "https://openreview.net/pdf?id=hsgMn4KBFG"
+  },
+  {
+   "title": "Ada-R1: Hybrid CoT via Bi-Level Adaptive Reasoning Optimization",
+   "authors": [
+    "Haotian Luo",
+    "Haiying He",
+    "Yibo Wang",
+    "Jinluan Yang",
+    "Rui Liu",
+    "Naiqiang Tan",
+    "Xiaochun Cao",
+    "Dacheng Tao",
+    "Li Shen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nCvQoSiMz9",
+   "pdf_url": "https://openreview.net/pdf?id=nCvQoSiMz9"
+  },
+  {
+   "title": "Beyond Accuracy: A Policy Gradient Reweighting Approach for Pass@K Maximization in LLMs",
+   "authors": [
+    "Sadegh Mahdavi",
+    "Muchen Li",
+    "Kaiwen Liu",
+    "Renjie Liao",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Dn3gk9auxd",
+   "pdf_url": "https://openreview.net/pdf?id=Dn3gk9auxd"
+  },
+  {
+   "title": "Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs",
+   "authors": [
+    "Yi Hu",
+    "Shijia Kang",
+    "Haotong Yang",
+    "Haotian Xu",
+    "Muhan Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tCu7XGXjzo",
+   "pdf_url": "https://openreview.net/pdf?id=tCu7XGXjzo"
+  },
+  {
+   "title": "Boolformer: Symbolic Regression of Logic Functions with Transformers",
+   "authors": [
+    "St\u00e9phane d'Ascoli",
+    "Arthur Renard",
+    "Vassilis Papadopoulos",
+    "Samy Bengio",
+    "Joshua M. Susskind",
+    "Emmanuel Abbe"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IQCcfqhnJW",
+   "pdf_url": "https://openreview.net/pdf?id=IQCcfqhnJW"
+  },
+  {
+   "title": "Boosting LLM Reasoning via Spontaneous Self-Correction",
+   "authors": [
+    "Xutong Zhao",
+    "Tengyu Xu",
+    "Xuewei Wang",
+    "Zhengxing Chen",
+    "Di Jin",
+    "Liang Tan",
+    "Yen-Ting Lin",
+    "Zishun Yu",
+    "Zhuokai Zhao",
+    "Yun He",
+    "Sinong Wang",
+    "Han Fang",
+    "Sarath Chandar",
+    "Chen Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dyWwgADnJo",
+   "pdf_url": "https://openreview.net/pdf?id=dyWwgADnJo"
+  },
+  {
+   "title": "Chain of Thought in Order: Discovering Learning-Friendly Orders for Arithmetic",
+   "authors": [
+    "Yuta Sato",
+    "Kazuhiko Kawamoto",
+    "Hiroshi Kera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2H0rA0gaxX",
+   "pdf_url": "https://openreview.net/pdf?id=2H0rA0gaxX"
+  },
+  {
+   "title": "Chain-of-Thought Reasoning for Math: Theoretical Foundation and Applications",
+   "authors": [
+    "Jessica E. Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G3eCchXqke",
+   "pdf_url": "https://openreview.net/pdf?id=G3eCchXqke"
+  },
+  {
+   "title": "CLEVER: A Curated Benchmark for Formally Verified Code Generation",
+   "authors": [
+    "Amitayush Thakur",
+    "Jasper Lee",
+    "George Tsoukalas",
+    "Meghana Sistla",
+    "Matthew Zhao",
+    "Stefan Zetzsche",
+    "Greg Durrett",
+    "Yisong Yue",
+    "Swarat Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pqNFDA2TFm",
+   "pdf_url": "https://openreview.net/pdf?id=pqNFDA2TFm"
+  },
+  {
+   "title": "COAST: Intelligent Time-Adaptive Neural Operators",
+   "authors": [
+    "Zhikai Wu",
+    "Shiyang Zhang",
+    "Sizhuang He",
+    "Sifan Wang",
+    "Min Zhu",
+    "Anran Jiao",
+    "Lu Lu",
+    "David van Dijk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cz99ALd3yv",
+   "pdf_url": "https://openreview.net/pdf?id=cz99ALd3yv"
+  },
+  {
+   "title": "CoDaPO: Confidence and Difficulty-Adaptive Policy Optimization for Post-Training Language Models",
+   "authors": [
+    "Zhanke Zhou",
+    "Xiangyu Lu",
+    "Chentao Cao",
+    "Brando Miranda",
+    "Tongliang Liu",
+    "Bo Han",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O9CYgZFtm7",
+   "pdf_url": "https://openreview.net/pdf?id=O9CYgZFtm7"
+  },
+  {
+   "title": "DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning",
+   "authors": [
+    "Atharva Pandey",
+    "Kshitij Dubey",
+    "Rahul Sharma",
+    "Amit Sharma"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JpeDhIHEt9",
+   "pdf_url": "https://openreview.net/pdf?id=JpeDhIHEt9"
+  },
+  {
+   "title": "Direct Induction Proof Challenge: Evaluating Large Language Models on Deeply Nested Mathematical Induction",
+   "authors": [
+    "Risako Ando",
+    "Koji Mineshima",
+    "Mitsuhiro Okada"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kFrk1m2qSW",
+   "pdf_url": "https://openreview.net/pdf?id=kFrk1m2qSW"
+  },
+  {
+   "title": "Discovering Hidden Algebraic Structures via Transformers with Rank-Aware Beam GRPO",
+   "authors": [
+    "Jaeha Lee",
+    "Gio Huh",
+    "Ning Su",
+    "Tony Yue YU"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nqb8irbR1h",
+   "pdf_url": "https://openreview.net/pdf?id=Nqb8irbR1h"
+  },
+  {
+   "title": "Discrete Feynman-Kac Correctors",
+   "authors": [
+    "Mohsin Hasan",
+    "Marta Skreta",
+    "Alan Aspuru-Guzik",
+    "Yoshua Bengio",
+    "Kirill Neklyudov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CafvO7fIdq",
+   "pdf_url": "https://openreview.net/pdf?id=CafvO7fIdq"
+  },
+  {
+   "title": "Do Not Let Low-Probability Tokens Over-Dominate in RL for LLMs",
+   "authors": [
+    "Zhihe Yang",
+    "Xufang Luo",
+    "Zilong Wang",
+    "Dongqi Han",
+    "Zhiyuan He",
+    "Dongsheng Li",
+    "Yunjian Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FeCCRol2zo",
+   "pdf_url": "https://openreview.net/pdf?id=FeCCRol2zo"
+  },
+  {
+   "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+   "authors": [
+    "Yang Yue",
+    "Zhiqi Chen",
+    "Rui Lu",
+    "Andrew Zhao",
+    "Zhaokai Wang",
+    "Yang Yue",
+    "Shiji Song",
+    "Gao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=upehLVgq1b",
+   "pdf_url": "https://openreview.net/pdf?id=upehLVgq1b"
+  },
+  {
+   "title": "Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition",
+   "authors": [
+    "Zihao Zeng",
+    "Xuyao Huang",
+    "Boxiu Li",
+    "Hao Zhang",
+    "Zhijie Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LtcmsX9MTy",
+   "pdf_url": "https://openreview.net/pdf?id=LtcmsX9MTy"
+  },
+  {
+   "title": "DSR-Bench: Evaluating the Structural Reasoning Abilities of LLMs via Data Structures",
+   "authors": [
+    "Yu He",
+    "Yingxi Li",
+    "Colin White",
+    "Ellen Vitercik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iI3NJgvZxf",
+   "pdf_url": "https://openreview.net/pdf?id=iI3NJgvZxf"
+  },
+  {
+   "title": "e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs",
+   "authors": [
+    "Amrith Setlur",
+    "Matthew Y. R. Yang",
+    "Charlie Victor Snell",
+    "Jeremiah Greer",
+    "Ian Wu",
+    "Virginia Smith",
+    "Max Simchowitz",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r1wbCAhRmp",
+   "pdf_url": "https://openreview.net/pdf?id=r1wbCAhRmp"
+  },
+  {
+   "title": "Enhancing Graph Neural Network for Boolean Satisfiability Solving via Data Augmentation",
+   "authors": [
+    "Yi Fu",
+    "Anthony Tompkins",
+    "Yang Song",
+    "Maurice Pagnucco"
+   ],
+   "forum_url": "https://openreview.net/forum?id=G2tFXRHSOH",
+   "pdf_url": "https://openreview.net/pdf?id=G2tFXRHSOH"
+  },
+  {
+   "title": "Entropy-Based Adaptive Weighting for Self-Training",
+   "authors": [
+    "Xiaoxuan Wang",
+    "Yihe Deng",
+    "Mingyu Derek Ma",
+    "Wei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qBqYa07eqi",
+   "pdf_url": "https://openreview.net/pdf?id=qBqYa07eqi"
+  },
+  {
+   "title": "EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations",
+   "authors": [
+    "Haotian Zhai",
+    "Connor Lawless",
+    "Ellen Vitercik",
+    "Liu Leqi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvdjzNlksm",
+   "pdf_url": "https://openreview.net/pdf?id=RvdjzNlksm"
+  },
+  {
+   "title": "FMC: Formalization of Natural Language Mathematical Competition Problems",
+   "authors": [
+    "Jiaxuan Xie",
+    "Chengwu Liu",
+    "Ye Yuan",
+    "Siqi Li",
+    "Zhiping Xiao",
+    "Ming Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7oRr1DQ8Gk",
+   "pdf_url": "https://openreview.net/pdf?id=7oRr1DQ8Gk"
+  },
+  {
+   "title": "Forget Less, Solve More: Sequential Fine-Tuning with Adapter Shrinking for Math Word Problems",
+   "authors": [
+    "Gauri Toshniwal",
+    "S R Balasundaram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pf7sa41jkz",
+   "pdf_url": "https://openreview.net/pdf?id=Pf7sa41jkz"
+  },
+  {
+   "title": "From Narrative to Formalism: A Case Study in the Origin of Molecular Translation System",
+   "authors": [
+    "Dmitry Zubarev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=911pWM9IPI",
+   "pdf_url": "https://openreview.net/pdf?id=911pWM9IPI"
+  },
+  {
+   "title": "Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization",
+   "authors": [
+    "Yuntian Liu",
+    "Tao Zhu",
+    "Xiaoyang Liu",
+    "Yu Chen",
+    "Liu ZhaoXuan",
+    "Guo qingfeng",
+    "Jiashuo Zhang",
+    "Kangjie Bao",
+    "Tao Luo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=824rq5iguB",
+   "pdf_url": "https://openreview.net/pdf?id=824rq5iguB"
+  },
+  {
+   "title": "GenSelect: A Generative Approach to Best-of-N",
+   "authors": [
+    "Shubham Toshniwal",
+    "Ivan Sorokin",
+    "Aleksander Ficek",
+    "Ivan Moshkov",
+    "Igor Gitman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8LhnmNmUDb",
+   "pdf_url": "https://openreview.net/pdf?id=8LhnmNmUDb"
+  },
+  {
+   "title": "Governing Equation Discovery from Data Based on Differential Invariants",
+   "authors": [
+    "Lexiang Hu",
+    "Yikang Li",
+    "Zhouchen Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1xrdCLH6wd",
+   "pdf_url": "https://openreview.net/pdf?id=1xrdCLH6wd"
+  },
+  {
+   "title": "Graph Neural Networks for Tensor Product Decompositions of Lie Algebra Representations",
+   "authors": [
+    "Max Vargas",
+    "Helen Jenne",
+    "Davis Brown",
+    "Henry Kvinge"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LAzOV7S9oP",
+   "pdf_url": "https://openreview.net/pdf?id=LAzOV7S9oP"
+  },
+  {
+   "title": "How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark",
+   "authors": [
+    "Minglai Yang",
+    "Ethan Huang",
+    "Liang Zhang",
+    "Mihai Surdeanu",
+    "William Yang Wang",
+    "Liangming Pan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=A6dRm63We6",
+   "pdf_url": "https://openreview.net/pdf?id=A6dRm63We6"
+  },
+  {
+   "title": "Inequality Ranking and Inference System ($\\texttt{\\textbf{IRIS}}$): Giving Mathematical Conjectures Numerical Value",
+   "authors": [
+    "Jillian Eddy",
+    "Randy Davila",
+    "Jesus De Loera",
+    "Junwei Lu",
+    "Ethan X Fang",
+    "Zini Yang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v6Ulp3U1ZT",
+   "pdf_url": "https://openreview.net/pdf?id=v6Ulp3U1ZT"
+  },
+  {
+   "title": "Inferring Loop Invariants for Program Verification: an Abductive Learning Perspective",
+   "authors": [
+    "Daiyang Luan",
+    "Ming Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XS40PAaprY",
+   "pdf_url": "https://openreview.net/pdf?id=XS40PAaprY"
+  },
+  {
+   "title": "Instilling Parallel Reasoning into Language Models",
+   "authors": [
+    "Matthew Macfarlane",
+    "Minseon Kim",
+    "Nebojsa Jojic",
+    "Weijia Xu",
+    "Lucas Caccia",
+    "Xingdi Yuan",
+    "Wanru Zhao",
+    "Zhengyan Shi",
+    "Alessandro Sordoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a3o4b3hkwp",
+   "pdf_url": "https://openreview.net/pdf?id=a3o4b3hkwp"
+  },
+  {
+   "title": "IntegralBench: Benchmarking LLMs with Definite Integral Problems",
+   "authors": [
+    "Bintao Tang",
+    "Xin Yang",
+    "Yuhao Wang",
+    "Zixuan Qiu",
+    "Zimo Ji",
+    "Wenyuan Jiang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vL80FOOj97",
+   "pdf_url": "https://openreview.net/pdf?id=vL80FOOj97"
+  },
+  {
+   "title": "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search",
+   "authors": [
+    "Zijian Wu",
+    "Suozhi Huang",
+    "Zhejian Zhou",
+    "Huaiyuan Ying",
+    "Zheng Yuan",
+    "Wenwei Zhang",
+    "Dahua Lin",
+    "Kai Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qwCqeIg5iI",
+   "pdf_url": "https://openreview.net/pdf?id=qwCqeIg5iI"
+  },
+  {
+   "title": "KELPS: A Framework for Verified Multi-Language Autoformalization via Semantic-Syntactic Alignment",
+   "authors": [
+    "Jiyao Zhang",
+    "Chengli Zhong",
+    "Hui Xu",
+    "Li Qige",
+    "Jiajia Tian",
+    "Yi Zhou"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U640PVSSoR",
+   "pdf_url": "https://openreview.net/pdf?id=U640PVSSoR"
+  },
+  {
+   "title": "Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models",
+   "authors": [
+    "Zhanke Zhou",
+    "Zhaocheng Zhu",
+    "Xuan Li",
+    "Mikhail Galkin",
+    "Xiao Feng",
+    "Sanmi Koyejo",
+    "Jian Tang",
+    "Bo Han"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ayYal2Xf4w",
+   "pdf_url": "https://openreview.net/pdf?id=ayYal2Xf4w"
+  },
+  {
+   "title": "Lean Finder: Semantic Search for Mathlib That Understands User Intents",
+   "authors": [
+    "Jialin Lu",
+    "Kye Emond",
+    "Weiran Sun",
+    "Wuyang Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5SF4fFRw7u",
+   "pdf_url": "https://openreview.net/pdf?id=5SF4fFRw7u"
+  },
+  {
+   "title": "Lean Meets Theoretical Computer Science: Scalable Synthesis of Theorem Proving Challenges in Formal-Informal Pairs",
+   "authors": [
+    "Terry Jingchen Zhang",
+    "Wenyuan Jiang",
+    "Rongchuan Liu",
+    "Yisong Wang",
+    "Ning Wang",
+    "Junran Yang",
+    "Yinya Huang",
+    "Mrinmaya Sachan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=snoHekTbpd",
+   "pdf_url": "https://openreview.net/pdf?id=snoHekTbpd"
+  },
+  {
+   "title": "LeanTree: Accelerating White-Box Proof Search with Factorized States in Lean 4",
+   "authors": [
+    "Mat\u011bj Kripner",
+    "Michal Sustr",
+    "Milan Straka"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pROVJwTb6w",
+   "pdf_url": "https://openreview.net/pdf?id=pROVJwTb6w"
+  },
+  {
+   "title": "LeanTutor: A Lean-Verified Tutor for Mathematical Proofs",
+   "authors": [
+    "Manooshree Patel",
+    "Rayna Bhattacharyya",
+    "Thomas Lu",
+    "Arnav Mehta",
+    "Niels Voss",
+    "Narges Norouzi",
+    "Gireeja Ranade"
+   ],
+   "forum_url": "https://openreview.net/forum?id=N6VOzIoKK7",
+   "pdf_url": "https://openreview.net/pdf?id=N6VOzIoKK7"
+  },
+  {
+   "title": "Learning an Effective Premise Retrieval Model for Efficient Mathematical Formalization",
+   "authors": [
+    "Yicheng Tao",
+    "Haotian Liu",
+    "Shanwen Wang",
+    "Hongteng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ObmZEtcjba",
+   "pdf_url": "https://openreview.net/pdf?id=ObmZEtcjba"
+  },
+  {
+   "title": "Learning Moderately Input-Sensitive Functions: A Case Study in QR Code Decoding",
+   "authors": [
+    "Kazuki Yoda",
+    "Kazuhiko Kawamoto",
+    "Hiroshi Kera"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0CuALPyyiY",
+   "pdf_url": "https://openreview.net/pdf?id=0CuALPyyiY"
+  },
+  {
+   "title": "Learning to Discover Abstractions for LLM Reasoning",
+   "authors": [
+    "Yuxiao Qu",
+    "Anikait Singh",
+    "Yoonho Lee",
+    "Amrith Setlur",
+    "Ruslan Salakhutdinov",
+    "Chelsea Finn",
+    "Aviral Kumar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rPzbDxcErp",
+   "pdf_url": "https://openreview.net/pdf?id=rPzbDxcErp"
+  },
+  {
+   "title": "Learning to Reason without External Rewards",
+   "authors": [
+    "Xuandong Zhao",
+    "Zhewei Kang",
+    "Aosong Feng",
+    "Sergey Levine",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FgyIB1UcTx",
+   "pdf_url": "https://openreview.net/pdf?id=FgyIB1UcTx"
+  },
+  {
+   "title": "Learning to Solve Complex Problems via Dataset Decomposition",
+   "authors": [
+    "Wanru Zhao",
+    "Lucas Caccia",
+    "Zhengyan Shi",
+    "Minseon Kim",
+    "Xingdi Yuan",
+    "Weijia Xu",
+    "Marc-Alexandre C\u00f4t\u00e9",
+    "Alessandro Sordoni"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KIRhqnXT77",
+   "pdf_url": "https://openreview.net/pdf?id=KIRhqnXT77"
+  },
+  {
+   "title": "Learning-Guided Local Search for Asymmetric Traveling Salesman Problem",
+   "authors": [
+    "Lejun Zhou",
+    "Yi Ju",
+    "Scott Moura"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PlEn4KjSTN",
+   "pdf_url": "https://openreview.net/pdf?id=PlEn4KjSTN"
+  },
+  {
+   "title": "Lemmanaid: Neuro-Symbolic Lemma Conjecturing",
+   "authors": [
+    "Yousef Alhessi",
+    "S\u00f3lr\u00fan Halla Einarsd\u00f3ttir",
+    "George Granberry",
+    "Emily First",
+    "Moa Johansson",
+    "Sorin Lerner",
+    "Nicholas Smallbone"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QS8X04Q0Ov",
+   "pdf_url": "https://openreview.net/pdf?id=QS8X04Q0Ov"
+  },
+  {
+   "title": "Let\u2019s Try Again: Eliciting Multi-Turn Reasoning in Language Models via Simplistic Feedback",
+   "authors": [
+    "Licheng Liu",
+    "Zihan Wang",
+    "Linjie Li",
+    "Chenwei Xu",
+    "Yiping Lu",
+    "Han Liu",
+    "Avirup Sil",
+    "Manling Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=S9QsJ1Po4W",
+   "pdf_url": "https://openreview.net/pdf?id=S9QsJ1Po4W"
+  },
+  {
+   "title": "Machine Learning and LLM-Boost Symbolic Regression for Predicting  $\\mathbb{Q}$-Gonality of Modular Curves",
+   "authors": [
+    "Xu Zhuang",
+    "Yuxiang Yao",
+    "Po-Chu Hsu",
+    "Xiaokang Wang",
+    "Peikai Qi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LDcFa3E5vJ",
+   "pdf_url": "https://openreview.net/pdf?id=LDcFa3E5vJ"
+  },
+  {
+   "title": "Majority of the Bests: Improving Best-of-N via Bootstrapping",
+   "authors": [
+    "Amin Rakhsha",
+    "Tianyu Zhang",
+    "Kanika Madan",
+    "Amir-massoud Farahmand",
+    "Amir Khasahmadi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZVtHNM3Dd2",
+   "pdf_url": "https://openreview.net/pdf?id=ZVtHNM3Dd2"
+  },
+  {
+   "title": "MIRB: Mathematical Information Retrieval Benchmark",
+   "authors": [
+    "Haocheng Ju",
+    "Bin Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0pJtN4S9d6",
+   "pdf_url": "https://openreview.net/pdf?id=0pJtN4S9d6"
+  },
+  {
+   "title": "MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem",
+   "authors": [
+    "Fan Liu",
+    "Zhe-Rui Yang",
+    "Cancheng Liu",
+    "Tianrui Song",
+    "Xiaofeng Gao",
+    "Hao Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QyKBf7X98d",
+   "pdf_url": "https://openreview.net/pdf?id=QyKBf7X98d"
+  },
+  {
+   "title": "NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation",
+   "authors": [
+    "Weiming Wu",
+    "Zi-Kang Wang",
+    "Jin Ye",
+    "Zhi Zhou",
+    "Yu-Feng Li",
+    "Lan-Zhe Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t4tIV04qUp",
+   "pdf_url": "https://openreview.net/pdf?id=t4tIV04qUp"
+  },
+  {
+   "title": "NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation",
+   "authors": [
+    "Xiangyan Liu",
+    "Jinjie Ni",
+    "Zijian Wu",
+    "Chao Du",
+    "Longxu Dou",
+    "Haonan Wang",
+    "Tianyu Pang",
+    "Michael Qizhe Shieh"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GdNm9PEAei",
+   "pdf_url": "https://openreview.net/pdf?id=GdNm9PEAei"
+  },
+  {
+   "title": "Not All Votes Count! Translated Program for Verification Improves Self-Consistency of Language Models for Math Reasoning",
+   "authors": [
+    "Vernon Toh",
+    "Deepanway Ghosal",
+    "Soujanya Poria"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uw2FhekYtc",
+   "pdf_url": "https://openreview.net/pdf?id=uw2FhekYtc"
+  },
+  {
+   "title": "O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning",
+   "authors": [
+    "Haotian Luo",
+    "Li Shen",
+    "Haiying He",
+    "Yibo Wang",
+    "Shiwei Liu",
+    "Wei Li",
+    "Naiqiang Tan",
+    "Xiaochun Cao",
+    "Dacheng Tao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ioYybCRcyW",
+   "pdf_url": "https://openreview.net/pdf?id=ioYybCRcyW"
+  },
+  {
+   "title": "OctoThinker: Mid-Training Incentivizes Reinforcement Learning Scaling",
+   "authors": [
+    "Zengzhi Wang",
+    "Fan Zhou",
+    "Xuefeng Li",
+    "Pengfei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=chCeUHjLzs",
+   "pdf_url": "https://openreview.net/pdf?id=chCeUHjLzs"
+  },
+  {
+   "title": "Omni-Thinker: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards",
+   "authors": [
+    "Derek Li",
+    "Jiaming Zhou",
+    "Amirreza Kazemi",
+    "Qianyi Sun",
+    "Abbas Ghaddar",
+    "Liheng Ma",
+    "Yu Luo",
+    "Dong Li",
+    "Jianye HAO",
+    "Yingxue Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8PItTWQ5Qa",
+   "pdf_url": "https://openreview.net/pdf?id=8PItTWQ5Qa"
+  },
+  {
+   "title": "On the Effect of Negative Gradient in Group Relative Deep Reinforcement Optimization",
+   "authors": [
+    "Wenlong Deng",
+    "Yi Ren",
+    "Muchen Li",
+    "Danica J. Sutherland",
+    "Xiaoxiao Li",
+    "Christos Thrampoulidis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a3v2HhEWrf",
+   "pdf_url": "https://openreview.net/pdf?id=a3v2HhEWrf"
+  },
+  {
+   "title": "Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks",
+   "authors": [
+    "Taishi Nakamura",
+    "Satoki Ishikawa",
+    "Masaki Kawamura",
+    "Takumi Okamoto",
+    "Daisuke Nohara",
+    "Jun Suzuki",
+    "Rio Yokota"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Ewj06opLqW",
+   "pdf_url": "https://openreview.net/pdf?id=Ewj06opLqW"
+  },
+  {
+   "title": "Optimizing Anytime Reasoning via Budget Relative Policy Optimization",
+   "authors": [
+    "Penghui Qi",
+    "Zichen Liu",
+    "Tianyu Pang",
+    "Chao Du",
+    "Wee Sun Lee",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kMGc0yvM61",
+   "pdf_url": "https://openreview.net/pdf?id=kMGc0yvM61"
+  },
+  {
+   "title": "PADRE: Pseudo-Likelihood based Alignment of Diffusion Language Models",
+   "authors": [
+    "Shiv Shankar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gzdqCqN095",
+   "pdf_url": "https://openreview.net/pdf?id=gzdqCqN095"
+  },
+  {
+   "title": "Physics-Constrained Symbolic Regression from Imagery",
+   "authors": [
+    "Zhenyu Yu",
+    "MOHD YAMANI IDNA IDRIS",
+    "Pei Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3qcKSA7ibv",
+   "pdf_url": "https://openreview.net/pdf?id=3qcKSA7ibv"
+  },
+  {
+   "title": "Plane Geometry Diagram Formalization via Vision-Language Models",
+   "authors": [
+    "Xiaoteng Cui",
+    "Yi Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=RvUtaFyQZD",
+   "pdf_url": "https://openreview.net/pdf?id=RvUtaFyQZD"
+  },
+  {
+   "title": "POD-KAN-NO: a physically interpretable neural operator",
+   "authors": [
+    "Yanyu Ke"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1GRYMQLkwm",
+   "pdf_url": "https://openreview.net/pdf?id=1GRYMQLkwm"
+  },
+  {
+   "title": "Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad",
+   "authors": [
+    "Ivo Petrov",
+    "Jasper Dekoninck",
+    "Lyuben Baltadzhiev",
+    "Maria Drencheva",
+    "Kristian Minchev",
+    "Mislav Balunovic",
+    "Nikola Jovanovi\u0107",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3v650rMO5U",
+   "pdf_url": "https://openreview.net/pdf?id=3v650rMO5U"
+  },
+  {
+   "title": "ProofCompass: Enhancing Specialized Provers with LLM Guidance",
+   "authors": [
+    "Nicolas Wischermann",
+    "Claudio Mayrink Verdun",
+    "Gabriel Poesia",
+    "Francesco Noseda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=M6bQVHesCr",
+   "pdf_url": "https://openreview.net/pdf?id=M6bQVHesCr"
+  },
+  {
+   "title": "ProofWala: Multilingual Proof Data Synthesis and Theorem-Proving",
+   "authors": [
+    "Amitayush Thakur",
+    "George Tsoukalas",
+    "Greg Durrett",
+    "Swarat Chaudhuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gBsfqLW5IQ",
+   "pdf_url": "https://openreview.net/pdf?id=gBsfqLW5IQ"
+  },
+  {
+   "title": "Prover Agent: An Agent-based Framework for Formal Mathematical Proofs",
+   "authors": [
+    "Kaito Baba",
+    "Chaoran Liu",
+    "Shuhei Kurita",
+    "Akiyoshi Sannai"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sPdQfGQccH",
+   "pdf_url": "https://openreview.net/pdf?id=sPdQfGQccH"
+  },
+  {
+   "title": "Putnam-AXIOM: A Functional and Static Benchmark",
+   "authors": [
+    "Aryan Gulati",
+    "Brando Miranda",
+    "Eric Chen",
+    "Emily Xia",
+    "Kai Fronsdal",
+    "Bruno de Moraes Dumont",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rqqousSVkR",
+   "pdf_url": "https://openreview.net/pdf?id=rqqousSVkR"
+  },
+  {
+   "title": "Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers",
+   "authors": [
+    "Kusha Sareen",
+    "Morgane M Moss",
+    "Alessandro Sordoni",
+    "Rishabh Agarwal",
+    "Arian Hosseini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uovtfxU1L0",
+   "pdf_url": "https://openreview.net/pdf?id=uovtfxU1L0"
+  },
+  {
+   "title": "README: Rapid Equation Discovery with Multimodal Encoders",
+   "authors": [
+    "Gregory Kang Ruey Lau",
+    "Yue Ran Kang",
+    "Zi-Yu Khoo",
+    "Apivich Hemachandra",
+    "Ruth Wan Theng Chew",
+    "Bryan Kian Hsiang Low"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0RtzFt70q6",
+   "pdf_url": "https://openreview.net/pdf?id=0RtzFt70q6"
+  },
+  {
+   "title": "RealMath: A Continuous Benchmark for Evaluating Language Models on Research-Level Mathematics",
+   "authors": [
+    "Jie Zhang",
+    "Cezara Petrui",
+    "Kristina Nikoli\u0107",
+    "Florian Tram\u00e8r"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jcSXt3Qv1I",
+   "pdf_url": "https://openreview.net/pdf?id=jcSXt3Qv1I"
+  },
+  {
+   "title": "Reinforcement Learning Teachers of Test Time Scaling",
+   "authors": [
+    "Edoardo Cetin",
+    "Tianyu Zhao",
+    "Yujin Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fSMVNlVsI7",
+   "pdf_url": "https://openreview.net/pdf?id=fSMVNlVsI7"
+  },
+  {
+   "title": "Reward Inside the Model: A Lightweight Hidden\u2011State Reward Model for LLM's Best-of-N sampling",
+   "authors": [
+    "Jizhou Guo",
+    "Zhaomin Wu",
+    "Philip S. Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mCRC1ealFP",
+   "pdf_url": "https://openreview.net/pdf?id=mCRC1ealFP"
+  },
+  {
+   "title": "Reward Under Attack: Evaluating the Sensitivity of Process Reward Models",
+   "authors": [
+    "Udbhav Bamba",
+    "Heng Yang",
+    "Rishabh Tiwari",
+    "Kurt Keutzer",
+    "Amir Gholami"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Hw24VOppus",
+   "pdf_url": "https://openreview.net/pdf?id=Hw24VOppus"
+  },
+  {
+   "title": "RL\u2011QESA: Reinforcement\u2011Learning Quasi\u2011Equilibrium Simulated Annealing",
+   "authors": [
+    "Ruichen Xu",
+    "Kai Li",
+    "Haochun Wang",
+    "Georgios Kementzidis",
+    "Wei Zhu",
+    "Yuefan Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eAAIIBt3Q",
+   "pdf_url": "https://openreview.net/pdf?id=4eAAIIBt3Q"
+  },
+  {
+   "title": "Scalable Best-of-N Selection for Large Language Models via Self-Certainty",
+   "authors": [
+    "Zhewei Kang",
+    "Xuandong Zhao",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nddwJseiiy",
+   "pdf_url": "https://openreview.net/pdf?id=nddwJseiiy"
+  },
+  {
+   "title": "Scaling Mathematical Reasoning through Data, Tools, and Generative Selection",
+   "authors": [
+    "Ivan Moshkov",
+    "Darragh Hanley",
+    "Ivan Sorokin",
+    "Shubham Toshniwal",
+    "Christof Henkel",
+    "Benedikt Schifferer",
+    "Wei Du",
+    "Igor Gitman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OM7ZN0PmSS",
+   "pdf_url": "https://openreview.net/pdf?id=OM7ZN0PmSS"
+  },
+  {
+   "title": "Scaling Natural-Language Graph-Based Test Time Compute for Automated Theorem Proving",
+   "authors": [
+    "Tim Knappe",
+    "Vincent Li",
+    "Yule Fu",
+    "Kevin Han",
+    "Kevin Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WtMCY3smf5",
+   "pdf_url": "https://openreview.net/pdf?id=WtMCY3smf5"
+  },
+  {
+   "title": "Simple, Scalable Reasoning via Iterated Summarization",
+   "authors": [
+    "Vivek Vajipey",
+    "Aditya Tadimeti",
+    "Justin Shen",
+    "Ben Prystawski",
+    "Michael Y. Li",
+    "Noah Goodman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=c0g1u2ZHKl",
+   "pdf_url": "https://openreview.net/pdf?id=c0g1u2ZHKl"
+  },
+  {
+   "title": "Small Models Struggle to Learn from Strong Reasoners",
+   "authors": [
+    "Yuetai Li",
+    "Xiang Yue",
+    "Zhangchen Xu",
+    "Fengqing Jiang",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Bhaskar Ramasubramanian",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3glpBnXZa8",
+   "pdf_url": "https://openreview.net/pdf?id=3glpBnXZa8"
+  },
+  {
+   "title": "Solving Inequality Proofs with Large Language Models",
+   "authors": [
+    "Jiayi Sheng",
+    "Luna Lyu",
+    "Jikai Jin",
+    "Tony Xia",
+    "Alex Gu",
+    "James Zou",
+    "Pan Lu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cB9eZUINSh",
+   "pdf_url": "https://openreview.net/pdf?id=cB9eZUINSh"
+  },
+  {
+   "title": "SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers",
+   "authors": [
+    "Kechen Li",
+    "Wenqi Zhu",
+    "Coralia Cartis",
+    "Tianbo Ji",
+    "Shiwei Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=riv0OYWsB7",
+   "pdf_url": "https://openreview.net/pdf?id=riv0OYWsB7"
+  },
+  {
+   "title": "Spectral Policy Optimization: Coloring your Incorrect Reasoning in GRPO",
+   "authors": [
+    "Peter Chen",
+    "Xiaopeng Li",
+    "Ziniu Li",
+    "Xi Chen",
+    "Tianyi Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IIBDElbi7s",
+   "pdf_url": "https://openreview.net/pdf?id=IIBDElbi7s"
+  },
+  {
+   "title": "SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning",
+   "authors": [
+    "Ruiqi Zhang",
+    "Daman Arora",
+    "Song Mei",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WQLQI6of9T",
+   "pdf_url": "https://openreview.net/pdf?id=WQLQI6of9T"
+  },
+  {
+   "title": "Target-Based Automated Conjecturing for Neural Theorem Proving",
+   "authors": [
+    "Marco Dos Santos",
+    "Albert Q. Jiang",
+    "Wenda Li",
+    "Mateja Jamnik"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YJKPFEFwhS",
+   "pdf_url": "https://openreview.net/pdf?id=YJKPFEFwhS"
+  },
+  {
+   "title": "Temporal Sampling for Forgotten Reasoning in LLMs",
+   "authors": [
+    "Yuetai Li",
+    "Zhangchen Xu",
+    "Fengqing Jiang",
+    "Bhaskar Ramasubramanian",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Xiang Yue",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1medQAgr1g",
+   "pdf_url": "https://openreview.net/pdf?id=1medQAgr1g"
+  },
+  {
+   "title": "The Challenge of Teaching Reasoning to LLMs Without RL or Distillation",
+   "authors": [
+    "Wei Du",
+    "Branislav Kisacanin",
+    "George Armstrong",
+    "Shubham Toshniwal",
+    "Ivan Moshkov",
+    "Alexan Ayrapetyan",
+    "Sadegh Mahdavi",
+    "Dan Zhao",
+    "Shizhe Diao",
+    "Dragan Ma\u0161ulovi\u0107",
+    "Advaith Avadhanam",
+    "Max Wang",
+    "Shitij Govil",
+    "Sri Yanamandra",
+    "Mihir Tandon",
+    "Sriram Ananthakrishnan",
+    "Vedant Rathi",
+    "David Zhang",
+    "Joonseok Kang",
+    "Leon Luo",
+    "Titu Andreescu",
+    "Ashmit Dutta",
+    "Boris Ginsburg",
+    "Igor Gitman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fOjo1OHbSK",
+   "pdf_url": "https://openreview.net/pdf?id=fOjo1OHbSK"
+  },
+  {
+   "title": "The Invisible Leash: Why RLVR May Not Escape Its Origin",
+   "authors": [
+    "Fang Wu",
+    "Yejin Choi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KXtLWJAzgh",
+   "pdf_url": "https://openreview.net/pdf?id=KXtLWJAzgh"
+  },
+  {
+   "title": "The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs",
+   "authors": [
+    "Jasper Dekoninck",
+    "Ivo Petrov",
+    "Kristian Minchev",
+    "Miroslav Marinov",
+    "Maria Drencheva",
+    "Lyuba Konova",
+    "Milen Milenov Shumanov",
+    "Kaloyan Tsvetkov",
+    "Nikolay Drenchev",
+    "Lazar D. Todorov",
+    "Kalina Nikolova",
+    "Nikolay Georgiev",
+    "Vanesa Kalinkova",
+    "Margulan Ismoldayev",
+    "Mislav Balunovic",
+    "Martin Vechev"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UP96fbOiqb",
+   "pdf_url": "https://openreview.net/pdf?id=UP96fbOiqb"
+  },
+  {
+   "title": "The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning",
+   "authors": [
+    "Xinyu Zhu",
+    "Mengzhou Xia",
+    "Zhepei Wei",
+    "Wei-Lin Chen",
+    "Danqi Chen",
+    "Yu Meng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cR8QXDD2dr",
+   "pdf_url": "https://openreview.net/pdf?id=cR8QXDD2dr"
+  },
+  {
+   "title": "TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning",
+   "authors": [
+    "Zhangchen Xu",
+    "Yuetai Li",
+    "Fengqing Jiang",
+    "Bhaskar Ramasubramanian",
+    "Luyao Niu",
+    "Bill Yuchen Lin",
+    "Radha Poovendran"
+   ],
+   "forum_url": "https://openreview.net/forum?id=scPETXuAiY",
+   "pdf_url": "https://openreview.net/pdf?id=scPETXuAiY"
+  },
+  {
+   "title": "Token Hidden Reward: Steering Exploration-Exploitation in GRPO Training",
+   "authors": [
+    "Wenlong Deng",
+    "Yi Ren",
+    "Danica J. Sutherland",
+    "Christos Thrampoulidis",
+    "Xiaoxiao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eyPPunAzSr",
+   "pdf_url": "https://openreview.net/pdf?id=eyPPunAzSr"
+  },
+  {
+   "title": "Towards Geometry Problem Solving in the Large Model Era: A Survey",
+   "authors": [
+    "Yurui Zhao",
+    "Xiang Wang",
+    "Jiahong Liu",
+    "Irwin King",
+    "Zhitao Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8o2hHIXrzV",
+   "pdf_url": "https://openreview.net/pdf?id=8o2hHIXrzV"
+  },
+  {
+   "title": "Training Language Models to Reason Efficiently",
+   "authors": [
+    "Daman Arora",
+    "Andrea Zanette"
+   ],
+   "forum_url": "https://openreview.net/forum?id=W900fekOQB",
+   "pdf_url": "https://openreview.net/pdf?id=W900fekOQB"
+  },
+  {
+   "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+   "authors": [
+    "Zichen Liu",
+    "Changyu Chen",
+    "Wenjun Li",
+    "Penghui Qi",
+    "Tianyu Pang",
+    "Chao Du",
+    "Wee Sun Lee",
+    "Min Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jLpC1zavzn",
+   "pdf_url": "https://openreview.net/pdf?id=jLpC1zavzn"
+  },
+  {
+   "title": "Value-Guided Search for Efficient Chain-of-Thought Reasoning",
+   "authors": [
+    "Kaiwen Wang",
+    "Jin Peng Zhou",
+    "Jonathan Daniel Chang",
+    "Zhaolin Gao",
+    "Nathan Kallus",
+    "Kiant\u00e9 Brantley",
+    "Wen Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3adzRYoYwj",
+   "pdf_url": "https://openreview.net/pdf?id=3adzRYoYwj"
+  },
+  {
+   "title": "VeriBench: End-to-End Formal Verification Benchmark for AI Code Generation in Lean 4",
+   "authors": [
+    "Brando Miranda",
+    "Zhanke Zhou",
+    "Allen Nie",
+    "Elyas Obbad",
+    "Leni Aniva",
+    "Kai Fronsdal",
+    "Weston Kirk",
+    "Dilara Soylu",
+    "Andrea Yu",
+    "Ying Li",
+    "Sanmi Koyejo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rWkGFmnSNl",
+   "pdf_url": "https://openreview.net/pdf?id=rWkGFmnSNl"
+  },
+  {
+   "title": "VerifierQ: Enhancing LLM Test Time Compute with Q-Learning-based Verifiers",
+   "authors": [
+    "Jianing Qi",
+    "Hao Tang",
+    "Zhigang Zhu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qhOT0MisId",
+   "pdf_url": "https://openreview.net/pdf?id=qhOT0MisId"
+  },
+  {
+   "title": "Verifying Prompt-Induced Search-Space Shifts in LLM-Generated Mathematical Functions",
+   "authors": [
+    "Shervin Ardeshir"
+   ],
+   "forum_url": "https://openreview.net/forum?id=oT1f4SeLEq",
+   "pdf_url": "https://openreview.net/pdf?id=oT1f4SeLEq"
+  },
+  {
+   "title": "Verina: Benchmarking Verifiable Code Generation",
+   "authors": [
+    "Zhe Ye",
+    "Zhengxu Yan",
+    "Jingxuan He",
+    "Timothe Kasriel",
+    "Kaiyu Yang",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=47601CQFri",
+   "pdf_url": "https://openreview.net/pdf?id=47601CQFri"
+  },
+  {
+   "title": "Vision Language Models are Biased: Counting legs of an animal is surprisingly hard",
+   "authors": [
+    "An Vo",
+    "Khai-Nguyen Nguyen",
+    "Mohammad Reza Taesiri",
+    "Vy Tuong Dang",
+    "Anh Totti Nguyen",
+    "Daeyoung Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O2xoCaU6nS",
+   "pdf_url": "https://openreview.net/pdf?id=O2xoCaU6nS"
+  },
+  {
+   "title": "When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning",
+   "authors": [
+    "Nishad Singhi",
+    "Hritik Bansal",
+    "Arian Hosseini",
+    "Aditya Grover",
+    "Kai-Wei Chang",
+    "Marcus Rohrbach",
+    "Anna Rohrbach"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qvKfyns8ry",
+   "pdf_url": "https://openreview.net/pdf?id=qvKfyns8ry"
+  },
+  {
+   "title": "Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions",
+   "authors": [
+    "Siqi Kou",
+    "Qingyuan Tian",
+    "Hanwen Xu",
+    "Zihao Zeng",
+    "Zhijie Deng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MAJVBIZa6I",
+   "pdf_url": "https://openreview.net/pdf?id=MAJVBIZa6I"
+  }
+ ]
+}

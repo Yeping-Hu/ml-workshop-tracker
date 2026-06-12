@@ -1,0 +1,198 @@
+{
+ "venue_id": "NeurIPS.cc/2024/Workshop/Continual_FoMo",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:51:27.836Z",
+ "paper_count": 16,
+ "papers": [
+  {
+   "title": "A Practitioner's Guide to Continual Multimodal Pretraining",
+   "authors": [
+    "Karsten Roth",
+    "Vishaal Udandarao",
+    "Sebastian Dziadzio",
+    "Ameya Prabhu",
+    "Mehdi Cherti",
+    "Oriol Vinyals",
+    "Olivier J Henaff",
+    "Samuel Albanie",
+    "Matthias Bethge",
+    "Zeynep Akata"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gkyosluSbR",
+   "pdf_url": "https://openreview.net/pdf?id=gkyosluSbR"
+  },
+  {
+   "title": "Agent Skill Acquisition for Large Language Models via CycleQD",
+   "authors": [
+    "So Kuroki",
+    "Taishi Nakamura",
+    "Takuya Akiba",
+    "Yujin Tang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JT8aVJUzMO",
+   "pdf_url": "https://openreview.net/pdf?id=JT8aVJUzMO"
+  },
+  {
+   "title": "Casper : Cascading Hypernetworks for Scalable Continual Learning",
+   "authors": [
+    "Tej Pandit",
+    "Dhireesha Kudithipudi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Vhlwxfs3pH",
+   "pdf_url": "https://openreview.net/pdf?id=Vhlwxfs3pH"
+  },
+  {
+   "title": "CLoG: Benchmarking Continual Learning of Image Generation Models",
+   "authors": [
+    "Haotian Zhang",
+    "Junting Zhou",
+    "Haowei Lin",
+    "Hang Ye",
+    "Jianhua Zhu",
+    "Zihao Wang",
+    "Liangcai Gao",
+    "Yizhou Wang",
+    "Yitao Liang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u5iEaBIfpU",
+   "pdf_url": "https://openreview.net/pdf?id=u5iEaBIfpU"
+  },
+  {
+   "title": "Continual Learning of Foundation Models with Limited Labelled Data",
+   "authors": [
+    "Shuvendu Roy",
+    "Elham Dolatabadi",
+    "Arash Afkanpour",
+    "Ali Etemad"
+   ],
+   "forum_url": "https://openreview.net/forum?id=J88luRxAqN",
+   "pdf_url": "https://openreview.net/pdf?id=J88luRxAqN"
+  },
+  {
+   "title": "CUAL: Continual Uncertainty-aware Active Learner",
+   "authors": [
+    "Amanda Sofie Rios",
+    "Ibrahima Jacques Ndiour",
+    "Jaroslaw Sydir",
+    "Parual Datta",
+    "Omesh Tickoo",
+    "Nilesh Ahuja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3MPG8bY3W7",
+   "pdf_url": "https://openreview.net/pdf?id=3MPG8bY3W7"
+  },
+  {
+   "title": "Demystifying Language Model Forgetting with Low-Rank Example Associations",
+   "authors": [
+    "Xisen Jin",
+    "Xiang Ren"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0d03UdUY0w",
+   "pdf_url": "https://openreview.net/pdf?id=0d03UdUY0w"
+  },
+  {
+   "title": "Differentially Private Continual Learning using Pre-Trained Models",
+   "authors": [
+    "Marlon Tobaben",
+    "Marcus Klasson",
+    "Rui Li",
+    "Arno Solin",
+    "Antti Honkela"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8Xdu4IyTSP",
+   "pdf_url": "https://openreview.net/pdf?id=8Xdu4IyTSP"
+  },
+  {
+   "title": "Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model",
+   "authors": [
+    "Divyanshu Aggarwal",
+    "Sankarshan Damle",
+    "Navin Goyal",
+    "Satya Lokam",
+    "Sunayana Sitaram"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lUl3Iz4k64",
+   "pdf_url": "https://openreview.net/pdf?id=lUl3Iz4k64"
+  },
+  {
+   "title": "Exploring the Limits of Feature Learning in Continual Learning",
+   "authors": [
+    "Jacopo Graldi",
+    "Giulia Lanzillotta",
+    "Lorenzo Noci",
+    "Benjamin F Grewe",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=TYPBYgWyw8",
+   "pdf_url": "https://openreview.net/pdf?id=TYPBYgWyw8"
+  },
+  {
+   "title": "Foundation Models Meet Continual Learning: Recent Advances, Challenges, and Future Directions",
+   "authors": [
+    "Tarun Raheja",
+    "Nilay Pochhi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JhGhBJC7FM",
+   "pdf_url": "https://openreview.net/pdf?id=JhGhBJC7FM"
+  },
+  {
+   "title": "Improving Multimodal Large Language Models Using Continual Learning",
+   "authors": [
+    "Shikhar Srivastava",
+    "Md Yousuf Harun",
+    "Robik Singh Shrestha",
+    "Christopher Kanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=2FOpHZ3ARr",
+   "pdf_url": "https://openreview.net/pdf?id=2FOpHZ3ARr"
+  },
+  {
+   "title": "Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation",
+   "authors": [
+    "Xiwen Wei",
+    "Guihong Li",
+    "Radu Marculescu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=X7OKRr09OS",
+   "pdf_url": "https://openreview.net/pdf?id=X7OKRr09OS"
+  },
+  {
+   "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning",
+   "authors": [
+    "Huiyi Wang",
+    "Haodong Lu",
+    "Lina Yao",
+    "Dong Gong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jHaOaTzLsy",
+   "pdf_url": "https://openreview.net/pdf?id=jHaOaTzLsy"
+  },
+  {
+   "title": "Testing the limits of data efficiency in experience replay",
+   "authors": [
+    "Damiano Meier",
+    "Giulia Lanzillotta",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aLdvv6g7kF",
+   "pdf_url": "https://openreview.net/pdf?id=aLdvv6g7kF"
+  },
+  {
+   "title": "TiC-LM: A Multi-Year Benchmark for Continual Pretraining of Language Models",
+   "authors": [
+    "Jeffrey Li",
+    "Mohammadreza Armandpour",
+    "Seyed Iman Mirzadeh",
+    "Sachin Mehta",
+    "Vaishaal Shankar",
+    "Raviteja Vemulapalli",
+    "Oncel Tuzel",
+    "Mehrdad Farajtabar",
+    "Hadi Pouransari",
+    "Fartash Faghri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PpSDVE5rAy",
+   "pdf_url": "https://openreview.net/pdf?id=PpSDVE5rAy"
+  }
+ ]
+}

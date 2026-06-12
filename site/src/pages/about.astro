@@ -1,0 +1,69 @@
+---
+import Base from '../components/Base.astro';
+import { REPO_URL, href } from '../lib/site';
+---
+
+<Base title="About" description="What the AI Workshop Tracker is, where the data comes from, and how it's maintained.">
+  <section class="masthead">
+    <p class="eyebrow">About this site</p>
+    <h1>Why this exists</h1>
+  </section>
+
+  <div class="prose">
+    <p>
+      AI and robotics conferences each host dozens of workshops a year, and every one has its own website, its own
+      (often extended) deadline, and its own way of publishing accepted papers. Conference
+      deadline trackers exist; <em>workshop</em> deadlines have never had one. This site is that
+      missing board.
+    </p>
+    <h2>Where the data comes from</h2>
+    <p>
+      Every workshop is a small YAML file in a <a href={REPO_URL}>public GitHub repository</a>,
+      maintained by the community — organizers and submitters add and fix entries via pull
+      requests or a simple form. Submission deadlines and accepted-paper lists are fetched automatically from the
+      <a href="https://openreview.net" rel="noopener">OpenReview</a> API for workshops hosted there
+      (deadlines come from the venue record or its submission invitation); other workshops link to
+      their own proceedings pages, and missing deadlines are filled in by contributors.
+    </p>
+    <h2>Accuracy</h2>
+    <p>
+      Deadlines get extended, pages move, and some entries are unverified estimates (marked as
+      such). <strong>Always confirm details on the official workshop website before planning a
+      submission.</strong> Found something wrong? Every page has an “Edit” link — fixes typically
+      take a one-line change.
+    </p>
+    <h2>Licensing &amp; reuse</h2>
+    <p>
+      The workshop data and paper caches are <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC-BY-4.0</a>;
+      the site code is MIT. A machine-readable dump of everything is at
+      <a href={href('/api/workshops.json')}><code>/api/workshops.json</code></a>, and new entries are
+      announced in an <a href={href('/rss.xml')}>RSS feed</a>.
+    </p>
+    <h2>Add or fix a workshop</h2>
+    <p>
+      <a class="btn" href={`${REPO_URL}/issues/new?template=add-workshop.yml`}>Open the 2-minute form</a>
+    </p>
+    <p>
+      Fill in what you know and a bot turns it into a validated pull request — no Git needed.
+      Prefer editing directly? Every workshop page has a <strong>✎ Edit</strong> link to its data
+      file, and <a href={`${REPO_URL}/blob/main/CONTRIBUTING.md`}>CONTRIBUTING.md</a> documents the
+      format. Data you submit is published under CC-BY-4.0.
+    </p>
+    <h2>Calendar feeds</h2>
+    <p>
+      Subscribable <code>.ics</code> deadline feeds exist but are paused while imported dates are
+      being verified — a wrong deadline in your calendar is worse than none. They'll return once
+      the data is vetted.
+    </p>
+    {/* "Support this project" — hidden for launch. Remove this comment wrapper to restore.
+    <h2>Support this project</h2>
+    <p>
+      The tracker is free, open source, and ad-free, and the data is openly licensed —
+      see the <a href="https://github.com/Yeping-Hu/ai-workshop-tracker/blob/main/CONTRIBUTOR_TERMS.md">contributor terms</a>.
+      If it saved you during deadline week, you can
+      <a href="https://github.com/sponsors/Yeping-Hu">sponsor its maintenance</a>; donations
+      go toward the domain and keeping the data fresh.
+    </p>
+    */}
+  </div>
+</Base>

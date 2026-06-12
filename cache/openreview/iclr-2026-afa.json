@@ -1,0 +1,912 @@
+{
+ "venue_id": "ICLR.cc/2026/Workshop/AFA",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:47:56.993Z",
+ "paper_count": 81,
+ "papers": [
+  {
+   "title": "A financial agent for fundamental analysis: an empirical investigation in the Brazilian stock market",
+   "authors": [
+    "Thiago Castro Ferreira",
+    "Gabriel Assis",
+    "Aline Paes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WqI93te1bQ",
+   "pdf_url": null
+  },
+  {
+   "title": "A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization",
+   "authors": [
+    "Shuozhe Li",
+    "Du Cheng",
+    "Amy Zhang",
+    "Liu Leqi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lopdcTYHTU",
+   "pdf_url": null
+  },
+  {
+   "title": "A Modular LLM Framework for Explainable Price Outlier Detection",
+   "authors": [
+    "Shadi Sartipi",
+    "John Wu",
+    "Sina Ghotbi",
+    "Nikhita Vedula",
+    "Shervin Malmasi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ty17aUPUuT",
+   "pdf_url": null
+  },
+  {
+   "title": "A VLM-Based Framework For Technical Analysis",
+   "authors": [
+    "Akshata Tiwari",
+    "Jillian Ross",
+    "Benjamin S. Manning",
+    "Andrew Lo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KITAwtGqWn",
+   "pdf_url": null
+  },
+  {
+   "title": "Adversarial Robustness in LLM-Based Multi-Agent Trading Systems: A Systematic Vulnerability Analysis",
+   "authors": [
+    "CheolWon Na",
+    "Suyoung Bae",
+    "Jaehoon Lee",
+    "Jee-Hyong Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3i1MU9iC10",
+   "pdf_url": null
+  },
+  {
+   "title": "AI-BAAM: AI-Driven Bank Statement Analytics as Alternative Data for Malaysian MSME Credit Scoring",
+   "authors": [
+    "Chun Chet Ng",
+    "Zhen Hao Chu",
+    "Jia Yu Lim",
+    "Boon Yin Yin",
+    "Low Wei Zeng",
+    "Jin Khye Tan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dhKOjVvPng",
+   "pdf_url": null
+  },
+  {
+   "title": "AlphaLoss: LLM-Driven Evolution of Robust and Interpretable Portfolio Optimization Objectives",
+   "authors": [
+    "Kamer Ali Yuksel",
+    "João Pedro Maia",
+    "Thiago Castro Ferreira",
+    "Mohamed Al-Badrashiny"
+   ],
+   "forum_url": "https://openreview.net/forum?id=y0YEGgZnEC",
+   "pdf_url": null
+  },
+  {
+   "title": "An Industrial-Scale Insurance LLM Achieving Verifiable Domain Mastery and Hallucination Control without Competence Trade-offs",
+   "authors": [
+    "Qian Zhu",
+    "Xinnan Guo",
+    "Jingjing Huo",
+    "Jun Li",
+    "Pan Liu",
+    "Wenyan Yang",
+    "Wanqing Xu",
+    "Xuan Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8hAZsmWwz8",
+   "pdf_url": null
+  },
+  {
+   "title": "AutoQA: An Interpretable Automation Framework for CDD Quality Assurance in Financial Services",
+   "authors": [
+    "Iman Zafar",
+    "Andrea Bassani",
+    "Alexandros Anatolakis",
+    "Greig A Cowan",
+    "Raad Khraishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=VJHTDYqq4T",
+   "pdf_url": null
+  },
+  {
+   "title": "Balancing Performance and Inclusion: A Novel Reject Inference Framework for Credit Scoring",
+   "authors": [
+    "Athyrson Machado Ribeiro",
+    "Marcos M. Raimundo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E93bDPmGrI",
+   "pdf_url": null
+  },
+  {
+   "title": "Belief State: Interpreting Temporal Belief Dynamics in Agentic Financial Systems",
+   "authors": [
+    "Sarvesh Tiku"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ykZandAOF3",
+   "pdf_url": null
+  },
+  {
+   "title": "Benchmarking Large Language Models for Quebec Insurance: From Closed-Book to Retrieval-Augmented Generation",
+   "authors": [
+    "David Beauchemin",
+    "Richard Khoury"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BjSqXUgmTD",
+   "pdf_url": null
+  },
+  {
+   "title": "BENCHMARKING OPEN-SOURCE SAFETY GUARD MODELS: A COMPREHENSIVE EVALUATION",
+   "authors": [
+    "Reetu Raj Harsh",
+    "Joseph Thomas Thachil",
+    "Bhaskarjit Sarmah",
+    "Stefano Pasquali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uWzsXOkI8y",
+   "pdf_url": null
+  },
+  {
+   "title": "BEYOND VECTOR SEARCH: HALLUCINATION-FREE FINANCIAL REASONING WITH CHUNK-CENTRIC KNOWLEDGE GRAPHS",
+   "authors": [
+    "Rithvik Kasarla"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IOfbV1hZw3",
+   "pdf_url": null
+  },
+  {
+   "title": "BIASMIX-FINANCE: POST-GENERATION KYC GUARDRAILS FOR LLM PORTFOLIO ADVICE",
+   "authors": [
+    "Gaurav kukreja",
+    "Mohammed Abraar",
+    "Raj Dandekar",
+    "Rajat Dandekar",
+    "Sreedath Panat",
+    "Parul Kukreja"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eOihhj3BBr",
+   "pdf_url": null
+  },
+  {
+   "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+   "authors": [
+    "Joohyoung Jeon",
+    "Hongchul Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t8mBrVVAXh",
+   "pdf_url": null
+  },
+  {
+   "title": "Computational Arbitrage in AI Model Markets",
+   "authors": [
+    "Ricardo Olmedo",
+    "Bernhard Schölkopf",
+    "Moritz Hardt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NxwAlOproK",
+   "pdf_url": null
+  },
+  {
+   "title": "Conditionally Identifiable Latent Representation for Multivariate Time Series with Structural Dynamics",
+   "authors": [
+    "Minkey Chang",
+    "Jae-Young Kim"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BwApcrljw7",
+   "pdf_url": null
+  },
+  {
+   "title": "CoPilot-Finance: Graduated Autonomy for Human-AI Collaboration in Investment Advisory",
+   "authors": [
+    "Mysore supreeth",
+    "Manish Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1yxq76ycqA",
+   "pdf_url": null
+  },
+  {
+   "title": "Decoupling Identity from Utility: Privacy-by-Design Frameworks for Financial Ecosystems",
+   "authors": [
+    "Ifayoyinsola Ibikunle",
+    "Tyler Farnan",
+    "Senthil Kumar",
+    "Mayana Pereira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WmJFDQfepy",
+   "pdf_url": null
+  },
+  {
+   "title": "Detecting Information Channels in Congressional Trading via Temporal Graph Learning",
+   "authors": [
+    "Benjamin Pham Roodman",
+    "Eugene Sy",
+    "J. Xavier Atero Vázquez",
+    "Yu-Shiang Huang",
+    "Che Lin",
+    "Chuan-Ju Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=j4qda5FRYq",
+   "pdf_url": null
+  },
+  {
+   "title": "Developing an ESG-Oriented Large Language Model through ESG Practices",
+   "authors": [
+    "Gabriel Assis",
+    "Ayrton Surica",
+    "Pedro Kroll",
+    "Gabriela Aires",
+    "Darian Rabbani",
+    "Edson Bollis",
+    "Lucas Pellicer",
+    "Aline Paes"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EKp4ybPdmr",
+   "pdf_url": null
+  },
+  {
+   "title": "Does Explicit Reasoning Help in Finance? A Study of Chain-of-Thought for Financial NLP",
+   "authors": [
+    "Ziyue Wang",
+    "Zhiyu Xu",
+    "Yi Liu",
+    "Yuxiang Wang",
+    "Ruihan Bao",
+    "Keiko Harimoto",
+    "Xu Sun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CwQ2Q8PBL4",
+   "pdf_url": null
+  },
+  {
+   "title": "Dynamic Objective Selection with Safeguards and LLM Oversight for Financial Decision-Making",
+   "authors": [
+    "Keigo Sakurai",
+    "Takahiro Ogawa",
+    "Miki Haseyama",
+    "Anjyu Anan",
+    "Kei Nakagawa"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JwvVsRJNcp",
+   "pdf_url": null
+  },
+  {
+   "title": "Dynamic Taxonomy Construction and Thematic Filtering for Financial Knowledge Graphs",
+   "authors": [
+    "Atousa Assadihaghi",
+    "Reza Amini",
+    "Daniel Schiemert",
+    "Ewan Mackie",
+    "Zhiwen Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=3A6Vo4HsD8",
+   "pdf_url": null
+  },
+  {
+   "title": "Entropically Regularized Martingale Optimal Transport with $L_1$ Relaxation",
+   "authors": [
+    "Ethan Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DFhCkacNTU",
+   "pdf_url": null
+  },
+  {
+   "title": "Epistemic Accountability for Agentic Financial AI: The Transformer Mandate and Evidence Lifecycle Management",
+   "authors": [
+    "Sankalp Gilda",
+    "Shlok Gilda"
+   ],
+   "forum_url": "https://openreview.net/forum?id=50jQfajVHU",
+   "pdf_url": null
+  },
+  {
+   "title": "Evaluating Frontier Agents on End-to-End Investment Banking Workflows",
+   "authors": [
+    "Elaine Lau",
+    "Rosemary Wei",
+    "Guram Gogia",
+    "Ronak Chaudhary",
+    "Yi Liu",
+    "Samuel Eshun Danquah",
+    "Punit Arani",
+    "Ray Epps",
+    "Markus Dücker",
+    "Abdullah Arif",
+    "Asrith Devalaraju",
+    "Varsha Sandadi",
+    "Scott Millslagle",
+    "Haemi Nam",
+    "Skyler Wang",
+    "Sahil Bhaiwala",
+    "Anish Athalye",
+    "Jonas Mueller",
+    "Francisco Guzmán"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7xzlRriYqW",
+   "pdf_url": null
+  },
+  {
+   "title": "Evaluating LLM Simulators as Differentially Private Data Generators",
+   "authors": [
+    "Nassima M. Bouzid",
+    "Dehao Yuan",
+    "Nam H Nguyen",
+    "Mayana Pereira"
+   ],
+   "forum_url": "https://openreview.net/forum?id=20WdU8R9Zx",
+   "pdf_url": null
+  },
+  {
+   "title": "FARE: Deep Reinforcement Learning for Fair Exposure Constrained Uncertainty-Aware Financial Content Personalization",
+   "authors": [
+    "ARUNDEEP CHINTA",
+    "Lucas Vinh Tran",
+    "Jay Katukuri"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9syH70Kqtr",
+   "pdf_url": null
+  },
+  {
+   "title": "Federated Agent Reinforcement Learning",
+   "authors": [
+    "Canyu Chen",
+    "Kangyu Zhu",
+    "Zhaorun Chen",
+    "Zhanhui Zhou",
+    "Shizhe Diao",
+    "Yiping Lu",
+    "Tian Li",
+    "Manling Li",
+    "Dawn Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=et9GDYhW9j",
+   "pdf_url": null
+  },
+  {
+   "title": "Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows",
+   "authors": [
+    "Haoyu Dong",
+    "Pengkun Zhang",
+    "Yan Gao",
+    "Xuanyu Dong",
+    "Yilin Cheng",
+    "Mingzhe Lu",
+    "Adina Yakefu",
+    "Shuxin Zheng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8y6OZBqaCl",
+   "pdf_url": null
+  },
+  {
+   "title": "FinSight: Multi-Agent and Multi-Modal System for Equity Research and Reasoning",
+   "authors": [
+    "Varad Srivastava"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xYnUGlyAJe",
+   "pdf_url": null
+  },
+  {
+   "title": "Forecasting Future Language: Context Design for Mention Markets",
+   "authors": [
+    "Sumin Kim",
+    "Jihoon Kwon",
+    "Yoon Kim",
+    "Nicole Kagan",
+    "Raffi Khatchadourian",
+    "Wonbin Ahn",
+    "Alejandro Lopez-Lira",
+    "Jaewon Lee",
+    "Yoontae Hwang",
+    "Oscar Levy",
+    "Yongjae Lee",
+    "CHANYEOL CHOI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Lxb9SBRlG3",
+   "pdf_url": null
+  },
+  {
+   "title": "From Natural Language to Executable Option Strategies via Large Language Models",
+   "authors": [
+    "Haochen Luo",
+    "Zhengzhao Lai",
+    "Junjie Xu",
+    "YIFAN LI",
+    "Tang Pok Hin",
+    "Yuan Zhang",
+    "Chen Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Kw2VUpHccB",
+   "pdf_url": null
+  },
+  {
+   "title": "From Text to Alpha: Can LLMs Track Evolving Signals in Corporate Disclosures?",
+   "authors": [
+    "CHANYEOL CHOI",
+    "Yoon Kim",
+    "Yu Yu",
+    "Zach Golkhou",
+    "Igor Halperin",
+    "GEORGIOS PAPAIOANNOU",
+    "Minkyu Kim",
+    "Zhangyang Wang",
+    "Jihoon Kwon",
+    "Minjae Kim",
+    "Alejandro Lopez-Lira",
+    "Yongjae Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9PnZZJ42ri",
+   "pdf_url": null
+  },
+  {
+   "title": "Helping Customers In Distress: An LLM-Powered Agent That Converses, Probes, and Routes",
+   "authors": [
+    "Alankar Atreya",
+    "Stefan Sylvius Wagner",
+    "Devesh Batra",
+    "Robert Hankache",
+    "Cristovão Iglesias Jr",
+    "Patrick Sinclair",
+    "Giulio Pelosio",
+    "Michael McMillan",
+    "Greig A Cowan",
+    "Raad Khraishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=z2da9877WC",
+   "pdf_url": null
+  },
+  {
+   "title": "Homogeneous AI Traders, Endogenous Liquidity, and Phase Reversals in Tail Risk",
+   "authors": [
+    "Hanyu Yu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=70IysumPF3",
+   "pdf_url": null
+  },
+  {
+   "title": "IMPACT OF LLMS NEWS SENTIMENT ANALYSIS ON STOCK PRICE MOVEMENT PREDICTION",
+   "authors": [
+    "Walid Siala",
+    "Ahmed Khanfir",
+    "Mike Papadakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=MQZkU4qKQw",
+   "pdf_url": null
+  },
+  {
+   "title": "Information Homogenization Induces Herding in Retrieval-Augmented LLM Agent Markets",
+   "authors": [
+    "Zichen Song"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8v4FskZp8I",
+   "pdf_url": null
+  },
+  {
+   "title": "INTERACTIVE CO-CRAFTER: TEMPLATIZED DOCUMENT GENERATION",
+   "authors": [
+    "Eshani Agrawal",
+    "Reza Amini"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NJ4p97CRyo",
+   "pdf_url": null
+  },
+  {
+   "title": "Large-Scale Chatbot Validation Through Customer Digital Twin Simulations",
+   "authors": [
+    "Cristovão Iglesias Jr",
+    "Devesh Batra",
+    "Alankar Atreya",
+    "Stefan Sylvius Wagner",
+    "Robert Hankache",
+    "Patrick Sinclair",
+    "Giulio Pelosio",
+    "Michael McMillan",
+    "Greig A Cowan",
+    "Raad Khraishi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fOolwJFk25",
+   "pdf_url": null
+  },
+  {
+   "title": "Latent Velocity Spikes as Label-Free Market Instability Alerts",
+   "authors": [
+    "Jimin Yeom"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dCf0bPAsf0",
+   "pdf_url": null
+  },
+  {
+   "title": "LEARNING REGULATORY-AWARE AGENTIC POLICIES VIA ENDOGENOUS CONSTRAINT DISCOVERY",
+   "authors": [
+    "Mahule Roy",
+    "Subhas Roy"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t0loyYA99Q",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM as a Risk Manager: LLM Semantic Filtering for Lead–Lag Trading in Prediction Markets",
+   "authors": [
+    "Sumin Kim",
+    "Minjae Kim",
+    "Jihoon Kwon",
+    "Yoon Kim",
+    "Nicole Kagan",
+    "Joo Won Lee",
+    "Oscar Levy",
+    "Alejandro Lopez-Lira",
+    "Yongjae Lee",
+    "CHANYEOL CHOI"
+   ],
+   "forum_url": "https://openreview.net/forum?id=l41sWjpZVU",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena",
+   "authors": [
+    "Qingchuan Yang",
+    "Simon Mahns",
+    "Sida Li",
+    "Anri Gu",
+    "Jibang Wu",
+    "Haifeng Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WbBA5rhno4",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM-Driven Active Listwise Tournaments for Portfolio Selection in Large Asset Universes",
+   "authors": [
+    "Kamer Ali Yuksel",
+    "João Pedro Maia",
+    "Thiago Castro Ferreira",
+    "Mohamed Al-Badrashiny"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4eep1gcMg7",
+   "pdf_url": null
+  },
+  {
+   "title": "LLM-Driven Correlation-Aware Tournaments",
+   "authors": [
+    "Kamer Ali Yuksel",
+    "João Pedro Maia",
+    "Thiago Castro Ferreira",
+    "Mohamed Al-Badrashiny"
+   ],
+   "forum_url": "https://openreview.net/forum?id=F4vSG6BWE8",
+   "pdf_url": null
+  },
+  {
+   "title": "Modal Logical Neural Networks for Financial AI",
+   "authors": [
+    "Antonin Sulc"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XSoWhIavhB",
+   "pdf_url": null
+  },
+  {
+   "title": "One Size Fits None: Do LLMs Provide Suitable Financial Advice?",
+   "authors": [
+    "Jillian Ross",
+    "Andrew Lo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=m56xDOEdum",
+   "pdf_url": null
+  },
+  {
+   "title": "Portfolio Optimization under Recursive Utility via Reinforcement Learning",
+   "authors": [
+    "Minkey Chang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=WEASuosuKu",
+   "pdf_url": null
+  },
+  {
+   "title": "PRISM: Prompt-Refined In-Context System Modeling for Financial Retrieval",
+   "authors": [
+    "Chun Chet Ng",
+    "Jia Yu Lim",
+    "Low Wei Zeng"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gAG08tgNyE",
+   "pdf_url": null
+  },
+  {
+   "title": "Probabilistic Multivariate Time Series Forecasting with Diffusion Copulas",
+   "authors": [
+    "David Huk",
+    "Dongshan Wang",
+    "Miha Brešar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=27UvPHm4nM",
+   "pdf_url": null
+  },
+  {
+   "title": "Quantifying Automation Risk in Financial AI: A Probabilistic Decomposition of Failure, Harm, and Severity",
+   "authors": [
+    "Vishal Srivastava",
+    "Tanmay Sah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FFgKOHOcpl",
+   "pdf_url": null
+  },
+  {
+   "title": "Reformulating Imitation Learning as Return Distribution Matching",
+   "authors": [
+    "Filippo Lazzati",
+    "Alberto Maria Metelli"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ji5n3D9ANG",
+   "pdf_url": null
+  },
+  {
+   "title": "Regime-aware Financial Volatility Forecasting via In-Context Learning",
+   "authors": [
+    "Saba Asaad",
+    "Shayan Mohajer Hamidi",
+    "Ali Bereyhi"
+   ],
+   "forum_url": "https://openreview.net/forum?id=KAkrE9PvvK",
+   "pdf_url": null
+  },
+  {
+   "title": "Relational Probing: LM-to-Graph Adaptation for Financial Prediction",
+   "authors": [
+    "Yingjie Niu",
+    "Changhong Jin",
+    "Rian Dolphin",
+    "Ruihai Dong"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uDRhyr7Vzb",
+   "pdf_url": null
+  },
+  {
+   "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+   "authors": [
+    "Raffi Khatchadourian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=DyoQX55Woa",
+   "pdf_url": null
+  },
+  {
+   "title": "Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services",
+   "authors": [
+    "Fabrizio Dimino",
+    "Bhaskarjit Sarmah",
+    "Stefano Pasquali"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7lb09OdryA",
+   "pdf_url": null
+  },
+  {
+   "title": "RobustFTS: Defending Financial Time-Series Models Against Adversarial Manipulation",
+   "authors": [
+    "Mysore supreeth",
+    "Manish Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=JWQQMEzZJi",
+   "pdf_url": null
+  },
+  {
+   "title": "SafeFinAgent: Guardrail-Augmented Multi-Agent Framework for Responsible Financial Decision-Making",
+   "authors": [
+    "Mysore supreeth",
+    "Manish Mehta"
+   ],
+   "forum_url": "https://openreview.net/forum?id=99dpA6fqIs",
+   "pdf_url": null
+  },
+  {
+   "title": "SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks",
+   "authors": [
+    "Srivatsa R Kundurthy",
+    "Clara Na",
+    "Michael Handley",
+    "Zach Kirshner",
+    "Chen Bo Calvin Zhang",
+    "Manasi Sharma",
+    "John Ling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=GQfeSdfNje",
+   "pdf_url": null
+  },
+  {
+   "title": "Stable Decision Routing in Agentic Financial AI via Self-Reported Uncertainty Signals",
+   "authors": [
+    "taehun kim",
+    "Mingzhe Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=u6PaNy1x6a",
+   "pdf_url": null
+  },
+  {
+   "title": "Stress-Adaptive Belief Control for Agentic Decision Systems",
+   "authors": [
+    "Gabriel Nixon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aceXzvwwCY",
+   "pdf_url": null
+  },
+  {
+   "title": "SynQubi: A Quantum-Optimized Multi-Agent For Risk-Aware Financial Decision-Making",
+   "authors": [
+    "Chevin Jeon",
+    "Soyeon Jun"
+   ],
+   "forum_url": "https://openreview.net/forum?id=NuYvShywIz",
+   "pdf_url": null
+  },
+  {
+   "title": "The Agentic Regulator: Risks for AI in Finance and a Proposed Agent-Based Framework for Governance",
+   "authors": [
+    "Eren Kurshan",
+    "Tucker Balch",
+    "David Byrd"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lLn3gzxYtG",
+   "pdf_url": null
+  },
+  {
+   "title": "The Curse of Rationality in Dynamic Public Goods Games: How LLM Agents Navigate Phase Transitions",
+   "authors": [
+    "Ruofei Wang",
+    "Daohan Zhu",
+    "Tao Wan",
+    "Zengchang Qin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=wt4uuLKnCB",
+   "pdf_url": null
+  },
+  {
+   "title": "The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications",
+   "authors": [
+    "Zhenyu Zhao",
+    "Aparna Balagopalan",
+    "Adi Agrawal",
+    "Dilshoda Yergasheva",
+    "Waseem Alshikh",
+    "Daniel M. Bikel"
+   ],
+   "forum_url": "https://openreview.net/forum?id=gImTk9V4CA",
+   "pdf_url": null
+  },
+  {
+   "title": "THE SYSTEMIC FRAGILITY OF DISTILLED GRAPH MODELS IN FINANCIAL MARKETS",
+   "authors": [
+    "Abhaya Trivedi",
+    "Avni Jain"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z4FYJfjFJl",
+   "pdf_url": null
+  },
+  {
+   "title": "TimeSeek: Temporal Reliability of Agentic Forecasters",
+   "authors": [
+    "Om Shastri",
+    "Hamza Mostafa",
+    "Dennis Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0xKUps4t1H",
+   "pdf_url": null
+  },
+  {
+   "title": "TIRA: Technical Indicator-based Retrieval Augmentation for Large Language Model-driven Stock Trading",
+   "authors": [
+    "Minje Kim",
+    "Keeheon Lee",
+    "Chi-Guhn Lee"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZpX4HWh3kl",
+   "pdf_url": null
+  },
+  {
+   "title": "Toward An Agentic Approach in Anti-Money Laundering Investigation for Typology Classification",
+   "authors": [
+    "Rémi Grzeczkowicz",
+    "OUGUENOUNE Amine",
+    "Mariam BARRY",
+    "Aude Rousseau",
+    "Mehdi Mouayad",
+    "Yanlei DIAO"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LnN7hQMdCg",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards a more efficient bias detection in Financial Language Models",
+   "authors": [
+    "Firas Hadj Kacem",
+    "Ahmed Khanfir",
+    "Mike Papadakis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xuv0Eahv2X",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Expert Financial QA via Self-Improving RAG",
+   "authors": [
+    "Junjie Xiong",
+    "Shawheen Ghezavat",
+    "Aum Hirpara",
+    "Sean Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nZJs3zlRjI",
+   "pdf_url": null
+  },
+  {
+   "title": "Towards Representation Learning for Cross-Sectional Portfolio Construction",
+   "authors": [
+    "Grant Johnson",
+    "Chan Hyuk Yoon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1ZqJZNuVDY",
+   "pdf_url": null
+  },
+  {
+   "title": "Uncertainty-Gated Generative Modeling",
+   "authors": [
+    "Xingrui Gu",
+    "Haixi Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=U6SfrUy0uP",
+   "pdf_url": null
+  },
+  {
+   "title": "Unsupervised Detection of Speculative Regimes and the Empirical Audit of Agentic Responsibility in Financial Markets",
+   "authors": [
+    "Soham Batra",
+    "Tanush Ajay Shastry"
+   ],
+   "forum_url": "https://openreview.net/forum?id=iX7EagfrIV",
+   "pdf_url": null
+  },
+  {
+   "title": "When AI Adds No Signal: LLM Embeddings versus Price-Based Stock Clusters",
+   "authors": [
+    "Bingyang Wang",
+    "Grant Johnson",
+    "Maria Hybinette",
+    "Tucker Balch"
+   ],
+   "forum_url": "https://openreview.net/forum?id=skMk1NTxac",
+   "pdf_url": null
+  },
+  {
+   "title": "When Do We Need LLMs? A Diagnostic for Language-Driven Bandits",
+   "authors": [
+    "Uljad Berdica",
+    "Fernando Acero",
+    "Anton Ipsen",
+    "Parisa Zehtabi",
+    "Michael Cashmore",
+    "Manuela Veloso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=09rFQGnmij",
+   "pdf_url": null
+  },
+  {
+   "title": "When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books",
+   "authors": [
+    "Haohan Xu",
+    "Jason Bohne",
+    "Pawel Polak",
+    "Yurij Baransky",
+    "Ajay Alva",
+    "Violetta Fedotova",
+    "Gary Kazantsev",
+    "David S Rosenberg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ElkjYt8KAI",
+   "pdf_url": null
+  },
+  {
+   "title": "Winner Stock Prediction as Decision-Aligned Multiclass Classification",
+   "authors": [
+    "Blanca Elvira Fernández Méndez",
+    "Jairo Diaz-Rodriguez",
+    "Pavlos Gkasis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=eESuk0WHSa",
+   "pdf_url": null
+  }
+ ]
+}

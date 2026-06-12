@@ -1,0 +1,639 @@
+{
+ "venue_id": "robot-learning.org/CoRL/2024/Workshop/LEAP",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T23:37:41.039Z",
+ "paper_count": 52,
+ "papers": [
+  {
+   "title": "A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards",
+   "authors": [
+    "Shivansh Patel",
+    "Xinchen Yin",
+    "Wenlong Huang",
+    "Shubham Garg",
+    "Hooshang Nayyeri",
+    "Li Fei-Fei",
+    "Svetlana Lazebnik",
+    "Yunzhu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=xnLa9HlOzE",
+   "pdf_url": "https://openreview.net/pdf?id=xnLa9HlOzE"
+  },
+  {
+   "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+   "authors": [
+    "Jiafei Duan",
+    "Wilbert Pumacay",
+    "Nishanth Kumar",
+    "Yi Ru Wang",
+    "Shulin Tian",
+    "Wentao Yuan",
+    "Ranjay Krishna",
+    "Dieter Fox",
+    "Ajay Mandlekar",
+    "Yijie Guo"
+   ],
+   "forum_url": "https://openreview.net/forum?id=d3nmdJHIIS",
+   "pdf_url": "https://openreview.net/pdf?id=d3nmdJHIIS"
+  },
+  {
+   "title": "BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics",
+   "authors": [
+    "Keyi Shen",
+    "Jiangwei Yu",
+    "Huan Zhang",
+    "Yunzhu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Nv9vIlZItA",
+   "pdf_url": "https://openreview.net/pdf?id=Nv9vIlZItA"
+  },
+  {
+   "title": "BMP: Bridging the Gap between B-Spline and Movement Primitives",
+   "authors": [
+    "Weiran Liao",
+    "Ge Li",
+    "Hongyi Zhou",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ycPcHDzyju",
+   "pdf_url": "https://openreview.net/pdf?id=ycPcHDzyju"
+  },
+  {
+   "title": "Constrained Latent Action Policies for Model-Based Offline Reinforcement Learning",
+   "authors": [
+    "Marvin Alles",
+    "Philip Becker-Ehmck",
+    "Patrick van der Smagt",
+    "Maximilian Karl"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Xdz49p6xDC",
+   "pdf_url": "https://openreview.net/pdf?id=Xdz49p6xDC"
+  },
+  {
+   "title": "Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight",
+   "authors": [
+    "Jiaxu Xing",
+    "Leonard Bauersfeld",
+    "Yunlong Song",
+    "Chunwei Xing",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BbfYoF9aJi",
+   "pdf_url": "https://openreview.net/pdf?id=BbfYoF9aJi"
+  },
+  {
+   "title": "CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph",
+   "authors": [
+    "Yixuan Wang",
+    "Leonor Fermoselle",
+    "Tarik Kelestemur",
+    "Jiuguang Wang",
+    "Yunzhu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=YUpF8J6KOe",
+   "pdf_url": "https://openreview.net/pdf?id=YUpF8J6KOe"
+  },
+  {
+   "title": "DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models",
+   "authors": [
+    "Yuchen Liu",
+    "Luigi Palmieri",
+    "Ilche Georgievski",
+    "Marco Aiello"
+   ],
+   "forum_url": "https://openreview.net/forum?id=O1uIKPpyFI",
+   "pdf_url": "https://openreview.net/pdf?id=O1uIKPpyFI"
+  },
+  {
+   "title": "DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation",
+   "authors": [
+    "Peiqi Liu",
+    "Zhanqiu Guo",
+    "Mohit Warke",
+    "Soumith Chintala",
+    "Chris Paxton",
+    "Nur Muhammad Mahi Shafiullah",
+    "Lerrel Pinto"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0POzffUb5Q",
+   "pdf_url": "https://openreview.net/pdf?id=0POzffUb5Q"
+  },
+  {
+   "title": "Efficient long-horizon planning and learning for locomotion and object manipulation",
+   "authors": [
+    "Victor Dhédin",
+    "Huaijiang Zhu",
+    "Ludovic Righetti",
+    "Majid Khadiv"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aAqZsrLJHT",
+   "pdf_url": "https://openreview.net/pdf?id=aAqZsrLJHT"
+  },
+  {
+   "title": "Enhancing Object Search by Augmenting Planning with Predictions from Large Language Models",
+   "authors": [
+    "Shahriar Hossain",
+    "Abhishek Paudel",
+    "Gregory J. Stein"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qQPp4MZbpb",
+   "pdf_url": "https://openreview.net/pdf?id=qQPp4MZbpb"
+  },
+  {
+   "title": "Environment as Policy: Learning to Race in Unseen Tracks",
+   "authors": [
+    "Hongze Wang",
+    "Jiaxu Xing",
+    "Nico Messikommer",
+    "Davide Scaramuzza"
+   ],
+   "forum_url": "https://openreview.net/forum?id=pbIGLuAzPc",
+   "pdf_url": "https://openreview.net/pdf?id=pbIGLuAzPc"
+  },
+  {
+   "title": "FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks",
+   "authors": [
+    "Chongkai Gao",
+    "Haozhuo Zhang",
+    "Zhixuan Xu",
+    "Cai Zhehao",
+    "Lin Shao"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zwqWhCaXFu",
+   "pdf_url": "https://openreview.net/pdf?id=zwqWhCaXFu"
+  },
+  {
+   "title": "FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching",
+   "authors": [
+    "Samiran Gode",
+    "Abhijeet Nayak",
+    "Wolfram Burgard"
+   ],
+   "forum_url": "https://openreview.net/forum?id=vfRD2yRi6L",
+   "pdf_url": "https://openreview.net/pdf?id=vfRD2yRi6L"
+  },
+  {
+   "title": "Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph",
+   "authors": [
+    "Utkarsh Aashu Mishra",
+    "Yongxin Chen",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AL9L6cE8W7",
+   "pdf_url": "https://openreview.net/pdf?id=AL9L6cE8W7"
+  },
+  {
+   "title": "Guiding Long-Horizon Task and Motion Planning with Vision Language Models",
+   "authors": [
+    "Zhutian Yang",
+    "Caelan Reed Garrett",
+    "Dieter Fox",
+    "Tomás Lozano-Pérez",
+    "Leslie Pack Kaelbling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HxVWLNWG4J",
+   "pdf_url": "https://openreview.net/pdf?id=HxVWLNWG4J"
+  },
+  {
+   "title": "Illustrated Landmark Graphs for Long-Horizon Policy Learning",
+   "authors": [
+    "Christopher Watson",
+    "Arjun Krishna",
+    "Rajeev Alur",
+    "Dinesh Jayaraman"
+   ],
+   "forum_url": "https://openreview.net/forum?id=zpWIaohyVw",
+   "pdf_url": "https://openreview.net/pdf?id=zpWIaohyVw"
+  },
+  {
+   "title": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
+   "authors": [
+    "Jason Xinyu Liu",
+    "Ankit Shah",
+    "George Konidaris",
+    "Stefanie Tellex",
+    "David Paulius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EpKBAyZAFx",
+   "pdf_url": "https://openreview.net/pdf?id=EpKBAyZAFx"
+  },
+  {
+   "title": "Language Guided Operator Learning for Goal Inference",
+   "authors": [
+    "Zachary S Siegel",
+    "Jiayuan Mao",
+    "Nishanth Kumar",
+    "Tianmin Shu",
+    "Jacob Andreas"
+   ],
+   "forum_url": "https://openreview.net/forum?id=tJvUG93usI",
+   "pdf_url": "https://openreview.net/pdf?id=tJvUG93usI"
+  },
+  {
+   "title": "Language Models can Infer Action Semantics for Symbolic Planners from Environment Feedback",
+   "authors": [
+    "Wang Bill Zhu",
+    "Ishika Singh",
+    "Robin Jia",
+    "Jesse Thomason"
+   ],
+   "forum_url": "https://openreview.net/forum?id=6L4caiUUzb",
+   "pdf_url": "https://openreview.net/pdf?id=6L4caiUUzb"
+  },
+  {
+   "title": "Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning",
+   "authors": [
+    "Ge Li",
+    "Hongyi Zhou",
+    "Dominik Roth",
+    "Serge Thilges",
+    "Fabian Otto",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=kyW4lddmba",
+   "pdf_url": "https://openreview.net/pdf?id=kyW4lddmba"
+  },
+  {
+   "title": "Learning Compositional Behaviors from Demonstration and Language",
+   "authors": [
+    "Weiyu Liu",
+    "Neil Nie",
+    "Jiayuan Mao",
+    "Ruohan Zhang",
+    "Jiajun Wu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=rOK5DuR9IM",
+   "pdf_url": "https://openreview.net/pdf?id=rOK5DuR9IM"
+  },
+  {
+   "title": "Learning Contact-rich Abstractions using Tensor Factorization",
+   "authors": [
+    "Teng Xue",
+    "Amirreza Razmjoo",
+    "Suhan Shetty",
+    "Sylvain Calinon"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z59k4hHFUE",
+   "pdf_url": "https://openreview.net/pdf?id=Z59k4hHFUE"
+  },
+  {
+   "title": "Learning to Act for Perceiving in Partially Unknown Environments",
+   "authors": [
+    "Leonardo Lamanna",
+    "Mohamadreza Faridghasemnia",
+    "Alfonso Gerevini",
+    "Alessandro Saetti",
+    "Alessandro Saffiotti",
+    "Luciano Serafini",
+    "Paolo Traverso"
+   ],
+   "forum_url": "https://openreview.net/forum?id=SZIBoeQ9Xq",
+   "pdf_url": "https://openreview.net/pdf?id=SZIBoeQ9Xq"
+  },
+  {
+   "title": "Least Commitment Planning for the Object Scouting Problem - Preliminary Results",
+   "authors": [
+    "Max Merlin",
+    "David Paulius",
+    "George Konidaris"
+   ],
+   "forum_url": "https://openreview.net/forum?id=t3mtZQqwNS",
+   "pdf_url": "https://openreview.net/pdf?id=t3mtZQqwNS"
+  },
+  {
+   "title": "Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat",
+   "authors": [
+    "Jonathan Michaux",
+    "Seth Isaacson",
+    "Challen Enninful Adu",
+    "Adam Li",
+    "Parker Ewen",
+    "Katherine A. Skinner",
+    "Ram Vasudevan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C2hPhpkXOH",
+   "pdf_url": "https://openreview.net/pdf?id=C2hPhpkXOH"
+  },
+  {
+   "title": "Local Policies Enable Zero-shot Long-horizon Manipulation",
+   "authors": [
+    "Murtaza Dalal",
+    "Min Liu",
+    "Walter Talbott",
+    "Chen Chen",
+    "Deepak Pathak",
+    "Jian Zhang",
+    "Russ Salakhutdinov"
+   ],
+   "forum_url": "https://openreview.net/forum?id=mEStwtkF71",
+   "pdf_url": "https://openreview.net/pdf?id=mEStwtkF71"
+  },
+  {
+   "title": "LTL-Transfer: Skill Transfer for Temporal Task Specification",
+   "authors": [
+    "Jason Xinyu Liu",
+    "Ankit Shah",
+    "Eric Rosen",
+    "Mingxi Jia",
+    "George Konidaris",
+    "Stefanie Tellex"
+   ],
+   "forum_url": "https://openreview.net/forum?id=BGbP8X1CBx",
+   "pdf_url": "https://openreview.net/pdf?id=BGbP8X1CBx"
+  },
+  {
+   "title": "MotIF: Motion Instruction Fine-tuning",
+   "authors": [
+    "Minyoung Hwang",
+    "Joey Hejna",
+    "Dorsa Sadigh",
+    "Yonatan Bisk"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bZCDxedfBF",
+   "pdf_url": "https://openreview.net/pdf?id=bZCDxedfBF"
+  },
+  {
+   "title": "Neural MP: A Generalist Neural Motion Planner",
+   "authors": [
+    "Murtaza Dalal",
+    "Jiahui Yang",
+    "Russell Mendonca",
+    "Youssef Khaky",
+    "Russ Salakhutdinov",
+    "Deepak Pathak"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8wCnv4wzrr",
+   "pdf_url": "https://openreview.net/pdf?id=8wCnv4wzrr"
+  },
+  {
+   "title": "On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer",
+   "authors": [
+    "Elie Aljalbout",
+    "Felix Frank",
+    "Maximilian Karl",
+    "Patrick van der Smagt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=XZysaolpiu",
+   "pdf_url": "https://openreview.net/pdf?id=XZysaolpiu"
+  },
+  {
+   "title": "One-Shot Manipulation Strategy Learning by Making Contact Analogies",
+   "authors": [
+    "Yuyao Liu",
+    "Jiayuan Mao",
+    "Joshua B. Tenenbaum",
+    "Tomás Lozano-Pérez",
+    "Leslie Pack Kaelbling"
+   ],
+   "forum_url": "https://openreview.net/forum?id=0aHuTQSgWy",
+   "pdf_url": "https://openreview.net/pdf?id=0aHuTQSgWy"
+  },
+  {
+   "title": "Online Neuro-Symbolic Predicate Invention for High-Level Planning",
+   "authors": [
+    "Yichao Liang",
+    "Nishanth Kumar",
+    "Hao Tang",
+    "Adrian Weller",
+    "Joshua B. Tenenbaum",
+    "Tom Silver",
+    "Joao F. Henriques",
+    "Kevin Ellis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Arx1ZZTWeg",
+   "pdf_url": "https://openreview.net/pdf?id=Arx1ZZTWeg"
+  },
+  {
+   "title": "Planning with Adaptive World Models for Autonomous Driving",
+   "authors": [
+    "Arun Balajee Vasudevan",
+    "Neehar Peri",
+    "Jeff Schneider",
+    "Deva Ramanan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uQuMGgA66c",
+   "pdf_url": "https://openreview.net/pdf?id=uQuMGgA66c"
+  },
+  {
+   "title": "Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics",
+   "authors": [
+    "Yixuan Huang",
+    "Christopher Agia",
+    "Jimmy Wu",
+    "Tucker Hermans",
+    "Jeannette Bohg"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FYCBQnTmhO",
+   "pdf_url": "https://openreview.net/pdf?id=FYCBQnTmhO"
+  },
+  {
+   "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+   "authors": [
+    "Wenlong Huang",
+    "Chen Wang",
+    "Yunzhu Li",
+    "Ruohan Zhang",
+    "Li Fei-Fei"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ZGbWq3VqrO",
+   "pdf_url": "https://openreview.net/pdf?id=ZGbWq3VqrO"
+  },
+  {
+   "title": "Representing Positional Information in Generative World Models for Object Manipulation",
+   "authors": [
+    "Stefano Ferraro",
+    "Pietro Mazzaglia",
+    "Tim Verbelen",
+    "Bart Dhoedt",
+    "Sai Rajeswar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=EG2FPguFpv",
+   "pdf_url": "https://openreview.net/pdf?id=EG2FPguFpv"
+  },
+  {
+   "title": "RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation",
+   "authors": [
+    "Hanxiao Jiang",
+    "Binghao Huang",
+    "Ruihai Wu",
+    "Zhuoran Li",
+    "Shubham Garg",
+    "Hooshang Nayyeri",
+    "Shenlong Wang",
+    "Yunzhu Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=cFape7Vxzf",
+   "pdf_url": "https://openreview.net/pdf?id=cFape7Vxzf"
+  },
+  {
+   "title": "Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments",
+   "authors": [
+    "Haritheja Etukuru",
+    "Norihito Naka",
+    "Zijin Hu",
+    "Seungjae Lee",
+    "Chris Paxton",
+    "Soumith Chintala",
+    "Lerrel Pinto",
+    "Nur Muhammad Mahi Shafiullah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ktUBTmavfN",
+   "pdf_url": "https://openreview.net/pdf?id=ktUBTmavfN"
+  },
+  {
+   "title": "Safe Multi-Agent Navigation guided by Goal-Conditioned Safe Reinforcement Learning",
+   "authors": [
+    "Meng Feng",
+    "Viraj Parimi",
+    "Brian C. Williams"
+   ],
+   "forum_url": "https://openreview.net/forum?id=uNsUrQt2UY",
+   "pdf_url": "https://openreview.net/pdf?id=uNsUrQt2UY"
+  },
+  {
+   "title": "Say-REAPEx: An LLM-Modulo UAV Online Planning Framework for Search and Rescue",
+   "authors": [
+    "Björn Döschl",
+    "Jane Jean Kiam"
+   ],
+   "forum_url": "https://openreview.net/forum?id=9WdUqvE03f",
+   "pdf_url": "https://openreview.net/pdf?id=9WdUqvE03f"
+  },
+  {
+   "title": "Sequential Object-Centric Relative Placement Prediction for Long-horizon Imitation Learning",
+   "authors": [
+    "Ben Eisner",
+    "Eric Cai",
+    "Octavian Donca",
+    "Teeratham Vitchutripop",
+    "David Held"
+   ],
+   "forum_url": "https://openreview.net/forum?id=4CLiGBQV3U",
+   "pdf_url": "https://openreview.net/pdf?id=4CLiGBQV3U"
+  },
+  {
+   "title": "SkillGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment",
+   "authors": [
+    "Caelan Reed Garrett",
+    "Ajay Mandlekar",
+    "Bowen Wen",
+    "Dieter Fox"
+   ],
+   "forum_url": "https://openreview.net/forum?id=x2uS04JsLF",
+   "pdf_url": "https://openreview.net/pdf?id=x2uS04JsLF"
+  },
+  {
+   "title": "SkillWrapper: Skill Abstraction in the Era of Foundation Models",
+   "authors": [
+    "Shreyas Sundara Raman",
+    "Ziyi Yang",
+    "Benned Hedegaard",
+    "Stefanie Tellex",
+    "David Paulius",
+    "Naman Shah"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5z8AJP5G8c",
+   "pdf_url": "https://openreview.net/pdf?id=5z8AJP5G8c"
+  },
+  {
+   "title": "SPIRE: Synergistic Planning, Imitation, and Reinforcement for Long-Horizon Manipulation",
+   "authors": [
+    "Zihan Zhou",
+    "Animesh Garg",
+    "Dieter Fox",
+    "Caelan Reed Garrett",
+    "Ajay Mandlekar"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OxVnLhmMH2",
+   "pdf_url": "https://openreview.net/pdf?id=OxVnLhmMH2"
+  },
+  {
+   "title": "Structured Exploration in Reinforcement Learning by Hypothesizing Linear Temporal Logic Formulas",
+   "authors": [
+    "Yichen Wei",
+    "Xiaochen Li",
+    "Jason Xinyu Liu",
+    "Naman Shah",
+    "Benedict Quartey",
+    "George Konidaris",
+    "Stefanie Tellex",
+    "Akhil Bagaria"
+   ],
+   "forum_url": "https://openreview.net/forum?id=e8NpNkNrgH",
+   "pdf_url": "https://openreview.net/pdf?id=e8NpNkNrgH"
+  },
+  {
+   "title": "Successor Representations Enable Emergent Compositional Instruction Following",
+   "authors": [
+    "Vivek Myers",
+    "Chunyuan Zheng",
+    "Anca Dragan",
+    "Kuan Fang",
+    "Sergey Levine"
+   ],
+   "forum_url": "https://openreview.net/forum?id=IilqHEbxsV",
+   "pdf_url": "https://openreview.net/pdf?id=IilqHEbxsV"
+  },
+  {
+   "title": "TAMPering with RLBench: Enabling joint developments in Task and Motion Planning and Reinforcement Learning research",
+   "authors": [
+    "Alexander Dürr",
+    "Elin A. Topp",
+    "Jacek Malec"
+   ],
+   "forum_url": "https://openreview.net/forum?id=E6bN9YvYbL",
+   "pdf_url": "https://openreview.net/pdf?id=E6bN9YvYbL"
+  },
+  {
+   "title": "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter",
+   "authors": [
+    "Yaoyao Qian",
+    "Xupeng Zhu",
+    "Ondrej Biza",
+    "Shuo Jiang",
+    "Linfeng Zhao",
+    "Haojie Huang",
+    "Yu Qi",
+    "Robert Platt"
+   ],
+   "forum_url": "https://openreview.net/forum?id=7HaFwELSl0",
+   "pdf_url": "https://openreview.net/pdf?id=7HaFwELSl0"
+  },
+  {
+   "title": "TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning",
+   "authors": [
+    "Ge Li",
+    "Dong Tian",
+    "Hongyi Zhou",
+    "Xinkai Jiang",
+    "Rudolf Lioutikov",
+    "Gerhard Neumann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fPHT0z4cS5",
+   "pdf_url": "https://openreview.net/pdf?id=fPHT0z4cS5"
+  },
+  {
+   "title": "VQ-CNMP: Neuro-Symbolic Skill Learning for Bi-Level Planning",
+   "authors": [
+    "Hakan Aktas",
+    "Emre Ugur"
+   ],
+   "forum_url": "https://openreview.net/forum?id=OZ1mOJSJEv",
+   "pdf_url": "https://openreview.net/pdf?id=OZ1mOJSJEv"
+  },
+  {
+   "title": "Zero-Shot Offline Imitation Learning via Optimal Transport",
+   "authors": [
+    "Thomas Rupf",
+    "Marco Bagatella",
+    "Nico Gürtler",
+    "Jonas Frey",
+    "Georg Martius"
+   ],
+   "forum_url": "https://openreview.net/forum?id=PXu5ItkOig",
+   "pdf_url": "https://openreview.net/pdf?id=PXu5ItkOig"
+  }
+ ]
+}

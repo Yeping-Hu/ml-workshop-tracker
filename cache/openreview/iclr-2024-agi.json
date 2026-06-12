@@ -1,0 +1,430 @@
+{
+ "venue_id": "ICLR.cc/2024/Workshop/AGI",
+ "source_api": "v2",
+ "fetched_at": "2026-06-10T17:46:51.943Z",
+ "paper_count": 34,
+ "papers": [
+  {
+   "title": "A Language Model's Guide Through Latent Space",
+   "authors": [
+    "Dimitri von Rütte",
+    "Sotiris Anagnostidis",
+    "Gregor Bachmann",
+    "Thomas Hofmann"
+   ],
+   "forum_url": "https://openreview.net/forum?id=B3EGhEyxh1",
+   "pdf_url": "https://openreview.net/pdf?id=B3EGhEyxh1"
+  },
+  {
+   "title": "AI Alignment with Changing and Influenceable Reward Functions",
+   "authors": [
+    "Micah Carroll",
+    "Davis Foote",
+    "Anand Siththaranjan",
+    "Stuart Russell",
+    "Anca Dragan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=aC8D55CfeU",
+   "pdf_url": "https://openreview.net/pdf?id=aC8D55CfeU"
+  },
+  {
+   "title": "An Embodied Generalist Agent in 3D World",
+   "authors": [
+    "Jiangyong Huang",
+    "Silong Yong",
+    "Xiaojian Ma",
+    "Xiongkun Linghu",
+    "Puhao Li",
+    "Yan Wang",
+    "Qing Li",
+    "Song-Chun Zhu",
+    "Baoxiong Jia",
+    "Siyuan Huang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ltX3S0juSa",
+   "pdf_url": "https://openreview.net/pdf?id=ltX3S0juSa"
+  },
+  {
+   "title": "Can Large Language Model Agents Simulate Human Trust Behaviors?",
+   "authors": [
+    "Chengxing Xie",
+    "Canyu Chen",
+    "Feiran Jia",
+    "Ziyu Ye",
+    "Kai Shu",
+    "Adel Bibi",
+    "Ziniu Hu",
+    "Philip Torr",
+    "Bernard Ghanem",
+    "Guohao Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=jxCaWgbFp4",
+   "pdf_url": "https://openreview.net/pdf?id=jxCaWgbFp4"
+  },
+  {
+   "title": "CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of Code and Text",
+   "authors": [
+    "Zhenru Lin",
+    "Yiqun Yao",
+    "Yang Yuan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=nWm44QmLbI",
+   "pdf_url": "https://openreview.net/pdf?id=nWm44QmLbI"
+  },
+  {
+   "title": "CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay",
+   "authors": [
+    "Natasha Butt",
+    "Blazej Manczak",
+    "Auke Wiggers",
+    "Corrado Rainone",
+    "David W. Zhang",
+    "Michaël Defferrard",
+    "Taco Cohen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=ac1nup9auY",
+   "pdf_url": "https://openreview.net/pdf?id=ac1nup9auY"
+  },
+  {
+   "title": "Collaborative LLM-Agents for Editable Driving Scene Simulation",
+   "authors": [
+    "Yuxi Wei",
+    "Zi Wang",
+    "Yifan Lu",
+    "Chenxin Xu",
+    "Changxing Liu",
+    "Hao Zhao",
+    "Siheng Chen",
+    "Yanfeng Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=LsBjxSN8q9",
+   "pdf_url": "https://openreview.net/pdf?id=LsBjxSN8q9"
+  },
+  {
+   "title": "DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference",
+   "authors": [
+    "Jinwei Yao",
+    "Kexun Zhang",
+    "Kaiqi Chen",
+    "Jiaxuan You",
+    "Zeke Wang",
+    "Binhang Yuan",
+    "Tao Lin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=HqfLHoX8bR",
+   "pdf_url": "https://openreview.net/pdf?id=HqfLHoX8bR"
+  },
+  {
+   "title": "Do LLM Agents Have Regret? A Case Study in Online Learning and Games",
+   "authors": [
+    "Chanwoo Park",
+    "Xiangyu Liu",
+    "Asuman E. Ozdaglar",
+    "Kaiqing Zhang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=lWiDfqCGHi",
+   "pdf_url": "https://openreview.net/pdf?id=lWiDfqCGHi"
+  },
+  {
+   "title": "Efficient Causal Graph Discovery Using Large Language Models",
+   "authors": [
+    "Thomas Jiralerspong",
+    "Xiaoyin Chen",
+    "Yash More",
+    "Vedant Shah",
+    "Yoshua Bengio"
+   ],
+   "forum_url": "https://openreview.net/forum?id=5RBUTx75yr",
+   "pdf_url": "https://openreview.net/pdf?id=5RBUTx75yr"
+  },
+  {
+   "title": "Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models",
+   "authors": [
+    "Qiming Bao",
+    "Juho Leinonen",
+    "Alex Yuxuan Peng",
+    "Wanjun Zhong",
+    "Gael Gendron",
+    "Timothy Pistotti",
+    "Alice Huang",
+    "Paul Denny",
+    "Michael Witbrock",
+    "Jiamou Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=a8AE5PYoEi",
+   "pdf_url": "https://openreview.net/pdf?id=a8AE5PYoEi"
+  },
+  {
+   "title": "FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning",
+   "authors": [
+    "Wenzhe Li",
+    "Zihan Ding",
+    "Seth Karten",
+    "Chi Jin"
+   ],
+   "forum_url": "https://openreview.net/forum?id=FRjhPUXoEZ",
+   "pdf_url": "https://openreview.net/pdf?id=FRjhPUXoEZ"
+  },
+  {
+   "title": "Generative Representational Instruction Tuning",
+   "authors": [
+    "Niklas Muennighoff",
+    "Hongjin SU",
+    "Liang Wang",
+    "Nan Yang",
+    "Furu Wei",
+    "Tao Yu",
+    "Amanpreet Singh",
+    "Douwe Kiela"
+   ],
+   "forum_url": "https://openreview.net/forum?id=8cQrRO9iFe",
+   "pdf_url": "https://openreview.net/pdf?id=8cQrRO9iFe"
+  },
+  {
+   "title": "GPT Is Becoming a Turing Machine: Here Are Some Ways to Program It",
+   "authors": [
+    "Ana Jojic",
+    "Zhen Wang",
+    "Nebojsa Jojic"
+   ],
+   "forum_url": "https://openreview.net/forum?id=k3jvmwS1sN",
+   "pdf_url": "https://openreview.net/pdf?id=k3jvmwS1sN"
+  },
+  {
+   "title": "How Far Are We from Intelligent Visual Deductive Reasoning?",
+   "authors": [
+    "Yizhe Zhang",
+    "He Bai",
+    "Ruixiang ZHANG",
+    "Jiatao Gu",
+    "Shuangfei Zhai",
+    "Joshua M. Susskind",
+    "Navdeep Jaitly"
+   ],
+   "forum_url": "https://openreview.net/forum?id=AMrYF9F3J6",
+   "pdf_url": "https://openreview.net/pdf?id=AMrYF9F3J6"
+  },
+  {
+   "title": "How to benchmark AGI: the Adversarial Game",
+   "authors": [
+    "Emmanouil Seferis"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QLBsGJSIxa",
+   "pdf_url": "https://openreview.net/pdf?id=QLBsGJSIxa"
+  },
+  {
+   "title": "Incentivizing Inclusive Data Contributions in Personalized Federated Learning",
+   "authors": [
+    "Enpei Zhang",
+    "Jingyi Chai",
+    "Rui Ye",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=So6aLCQLOF",
+   "pdf_url": "https://openreview.net/pdf?id=So6aLCQLOF"
+  },
+  {
+   "title": "Large Language Models Are Not Strong Abstract Reasoners Yet",
+   "authors": [
+    "Gael Gendron",
+    "Qiming Bao",
+    "Michael Witbrock",
+    "Gillian Dobbie"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Pc0fPGip78",
+   "pdf_url": "https://openreview.net/pdf?id=Pc0fPGip78"
+  },
+  {
+   "title": "LEAGUE++: EMPOWERING CONTINUAL ROBOT LEARNING THROUGH GUIDED SKILL ACQUISITION WITH LARGE LANGUAGE MODELS",
+   "authors": [
+    "Zhaoyi Li",
+    "Kelin Yu",
+    "Shuo Cheng",
+    "Danfei Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=bkgRkoGCCP",
+   "pdf_url": "https://openreview.net/pdf?id=bkgRkoGCCP"
+  },
+  {
+   "title": "MARS: A Benchmark for Multi-LLM Algorithmic Routing System",
+   "authors": [
+    "Qitian Jason Hu",
+    "Jacob Bieker",
+    "Xiuyu Li",
+    "Nan Jiang",
+    "Benjamin Keigwin",
+    "Gaurav Ranganath",
+    "Kurt Keutzer",
+    "Shriyash Kaustubh Upadhyay"
+   ],
+   "forum_url": "https://openreview.net/forum?id=C0rs3wM0N8",
+   "pdf_url": "https://openreview.net/pdf?id=C0rs3wM0N8"
+  },
+  {
+   "title": "Neural Retrievers are Biased Towards LLM-Generated Content",
+   "authors": [
+    "Sunhao Dai",
+    "Yuqi Zhou",
+    "Liang Pang",
+    "Weihao Liu",
+    "Xiaolin Hu",
+    "Yong Liu",
+    "Xiao Zhang",
+    "Gang Wang",
+    "Jun Xu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=taFdHx5RTd",
+   "pdf_url": "https://openreview.net/pdf?id=taFdHx5RTd"
+  },
+  {
+   "title": "On the Shape of Brainscores for Large Language Models (LLMs)",
+   "authors": [
+    "Jingkai Li"
+   ],
+   "forum_url": "https://openreview.net/forum?id=CRvujkOSpr",
+   "pdf_url": "https://openreview.net/pdf?id=CRvujkOSpr"
+  },
+  {
+   "title": "OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning",
+   "authors": [
+    "Rui Ye",
+    "WenHao Wang",
+    "Jingyi Chai",
+    "Dihan Li",
+    "Zexi Li",
+    "Yinda Xu",
+    "Yaxin Du",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=fOuN2GdtlY",
+   "pdf_url": "https://openreview.net/pdf?id=fOuN2GdtlY"
+  },
+  {
+   "title": "Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games",
+   "authors": [
+    "Yizhe Zhang",
+    "Jiarui Lu",
+    "Navdeep Jaitly"
+   ],
+   "forum_url": "https://openreview.net/forum?id=dhy1NBeusb",
+   "pdf_url": "https://openreview.net/pdf?id=dhy1NBeusb"
+  },
+  {
+   "title": "RD2Bench: Toward Data-Centric Automatic R&D",
+   "authors": [
+    "Haotian Chen",
+    "Xinjie Shen",
+    "Zeqi Ye",
+    "Xiao Yang",
+    "Xu Yang",
+    "Weiqing Liu",
+    "Jiang Bian"
+   ],
+   "forum_url": "https://openreview.net/forum?id=QIY7LtSeOM",
+   "pdf_url": "https://openreview.net/pdf?id=QIY7LtSeOM"
+  },
+  {
+   "title": "RET-LLM: Towards a General Read-Write Memory for Large Language Models",
+   "authors": [
+    "Ali Modarressi",
+    "Ayyoob Imani",
+    "Mohsen Fayyaz",
+    "Hinrich Schuetze"
+   ],
+   "forum_url": "https://openreview.net/forum?id=Z7tBs47cSH",
+   "pdf_url": "https://openreview.net/pdf?id=Z7tBs47cSH"
+  },
+  {
+   "title": "Rethinking harmless refusals when fine-tuning foundation models",
+   "authors": [
+    "Florin Pop",
+    "Judd Rosenblatt",
+    "Diogo Schwerz de Lucena",
+    "Michael Vaiana"
+   ],
+   "forum_url": "https://openreview.net/forum?id=qqbkyhhcuM",
+   "pdf_url": "https://openreview.net/pdf?id=qqbkyhhcuM"
+  },
+  {
+   "title": "SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code",
+   "authors": [
+    "Ziniu Hu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=UBdqXkMofL",
+   "pdf_url": "https://openreview.net/pdf?id=UBdqXkMofL"
+  },
+  {
+   "title": "Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation",
+   "authors": [
+    "Xianghe Pang",
+    "Shuo Tang",
+    "Rui Ye",
+    "Yuxin Xiong",
+    "Bolun Zhang",
+    "Yanfeng Wang",
+    "Siheng Chen"
+   ],
+   "forum_url": "https://openreview.net/forum?id=1LCaLqqc5P",
+   "pdf_url": "https://openreview.net/pdf?id=1LCaLqqc5P"
+  },
+  {
+   "title": "Speak It Out: Solving Symbol-Related Problems with Symbol-to-Language Conversion for Language Models",
+   "authors": [
+    "Yile Wang",
+    "Sijie Cheng",
+    "Zixin Sun",
+    "Peng Li",
+    "Yang Liu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=USvhSx3UJv",
+   "pdf_url": "https://openreview.net/pdf?id=USvhSx3UJv"
+  },
+  {
+   "title": "The Pitfalls of Next-Token Prediction",
+   "authors": [
+    "Gregor Bachmann",
+    "Vaishnavh Nagarajan"
+   ],
+   "forum_url": "https://openreview.net/forum?id=v9L38gCohh",
+   "pdf_url": "https://openreview.net/pdf?id=v9L38gCohh"
+  },
+  {
+   "title": "Thought-Retriever: Don’t Just Retrieve Raw Data, Retrieve Thoughts",
+   "authors": [
+    "Tao Feng",
+    "Pengrui Han",
+    "Guanyu Lin",
+    "Ge Liu",
+    "Jiaxuan You"
+   ],
+   "forum_url": "https://openreview.net/forum?id=sOSAu0XQcI",
+   "pdf_url": "https://openreview.net/pdf?id=sOSAu0XQcI"
+  },
+  {
+   "title": "Towards Human-like Machine Vision: Representing Part-Whole Relationship with hierarchically correlated neuronal activation in neural networks",
+   "authors": [
+    "Hao Zheng",
+    "Hui Lin",
+    "Rong Zhao",
+    "Huanyu Qu"
+   ],
+   "forum_url": "https://openreview.net/forum?id=p0SD4EY32T",
+   "pdf_url": "https://openreview.net/pdf?id=p0SD4EY32T"
+  },
+  {
+   "title": "Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation",
+   "authors": [
+    "Xinyi Wang",
+    "Alfonso Amayuelas",
+    "Kexun Zhang",
+    "Liangming Pan",
+    "Wenhu Chen",
+    "William Yang Wang"
+   ],
+   "forum_url": "https://openreview.net/forum?id=r0vnm4Wh1H",
+   "pdf_url": "https://openreview.net/pdf?id=r0vnm4Wh1H"
+  }
+ ]
+}
