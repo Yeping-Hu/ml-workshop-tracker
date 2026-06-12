@@ -319,7 +319,7 @@ if (firstStar) {
   let paperTitle = null;
   if (paperWs) {
     await page.goto(`${BASE}/workshop/${paperWs}/`, { waitUntil: 'networkidle' });
-    const pBtn = await page.$('[data-star-paper]');
+    const pBtn = (await page.$('[data-star-paper][data-pdf^="http"]')) || (await page.$('[data-star-paper]'));
     paperTitle = await pBtn.getAttribute('data-title');
     await pBtn.click();
     check('paper star fills on click', (await pBtn.textContent()) === '★');
@@ -334,6 +334,12 @@ if (firstStar) {
   if (paperWs) {
     const savedPaper = await page.$eval('.saved-papers li a, .saved-papers li', (el) => el.textContent.trim());
     check('saved page lists the starred paper by title', savedPaper.includes(paperTitle.slice(0, 30)), savedPaper);
+    const lnk = await page.$eval('.saved-papers li', (li) => ({
+      title: li.querySelector('a')?.getAttribute('href') ?? '',
+      pdf: li.querySelector('.pdf-link')?.getAttribute('href') ?? '',
+    }));
+    check('saved paper title routes to the workshop page anchor', new RegExp(`/workshop/${paperWs}/#p-`).test(lnk.title), lnk.title);
+    check('saved paper carries a direct PDF link', /openreview\.net\/pdf\?id=/.test(lnk.pdf), lnk.pdf);
     await page.click('.saved-papers li [data-star-paper]');
     await page.waitForSelector('#savedPaperList .empty-state', { timeout: 4000 });
     check('unstarring last paper shows the empty state', true);
@@ -375,13 +381,19 @@ const mergeWs = await resPaperBtn.getAttribute('data-ws');
 await resPaperBtn.click();
 check('starring a paper from results fills it', (await resPaperBtn.textContent()) === '★');
 await page.goto(`${BASE}/workshop/${mergeWs}/`, { waitUntil: 'networkidle' });
-for (const b of await page.$$('[data-star-paper]')) {
+for (const b of await page.$$('[data-star-paper][data-pdf^="http"], [data-star-paper]')) {
   if ((await b.textContent()) === '☆') { await b.click(); break; }
 }
 await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
 await page.waitForSelector('.saved-papers li', { timeout: 8000 });
 check('search-saved + page-saved papers merge into one workshop group', (await page.$$('.saved-paper-group')).length === 1);
 check('merged group holds both papers', (await page.$$('.saved-papers li')).length === 2);
+const mergedLinks = await page.$$eval('.saved-papers li', (lis) => lis.map((li) => ({
+  t: li.querySelector('a')?.getAttribute('href') || '',
+  pdf: !!li.querySelector('.pdf-link'),
+})));
+check('search-saved AND page-saved titles BOTH route to workshop pages', mergedLinks.every((h) => /\/workshop\/[^/]+\/#p-/.test(h.t)), JSON.stringify(mergedLinks));
+check('page-saved paper shows its PDF link', mergedLinks.some((h) => h.pdf), JSON.stringify(mergedLinks));
 
 // Facet-only filtering (no keyword): every listed workshop must be starrable.
 await page.goto(BASE, { waitUntil: 'networkidle' });
@@ -395,6 +407,37 @@ const yBtn = await page.$('#results .pf-result > [data-star-ws]');
 await yBtn.click();
 check('starring from filtered results works', (await yBtn.textContent()) === '★');
 check('state survives a re-render (pagination/hydrate)', await page.$eval('#results .pf-result > [data-star-ws]', (el) => el.classList.contains('is-on')));
+await page.evaluate(() => localStorage.clear());
+
+console.log('— saved-paper link consistency (legacy + no-PDF snapshots) —');
+const { readFileSync: rfL, readdirSync: rdL } = await import('node:fs');
+const noPdf = JSON.parse(rfL('site/dist/api/papers-without-pdf.json', 'utf8'));
+check('papers-without-pdf endpoint built', noPdf.count > 0 && noPdf.ids.length === noPdf.count, String(noPdf.count));
+let legacy = null;
+for (const f of rdL('cache/openreview')) {
+  const c = JSON.parse(rfL(`cache/openreview/${f}`, 'utf8'));
+  const hit = (c.papers || []).find((q) => q.pdf_url && q.forum_url);
+  if (hit) { legacy = { id: hit.forum_url.match(/id=([^&#]+)/)[1], ws: f.replace(/\.json$/, '') }; break; }
+}
+await page.evaluate(([leg, noId]) => {
+  localStorage.setItem('awt-fav-papers', JSON.stringify([
+    { id: leg.id, title: 'Legacy snapshot', url: 'https://openreview.net/forum?id=' + leg.id, ws: leg.ws, wsName: 'Legacy WS' },
+    { id: noId, title: 'PDF-less from search', ws: leg.ws, wsName: 'Legacy WS' },
+    { id: 'abc123', title: 'Known no-PDF page save', ws: leg.ws, wsName: 'Legacy WS', pdf: '' },
+  ]));
+}, [legacy, noPdf.ids[0]]);
+await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
+await page.waitForSelector('.saved-papers li', { timeout: 8000 });
+const rows = await page.$$eval('.saved-papers li', (lis) => lis.map((li) => ({
+  title: li.querySelector('a')?.textContent.trim(),
+  href: li.querySelector('a')?.getAttribute('href') || '',
+  pdf: li.querySelector('.pdf-link')?.getAttribute('href') || null,
+})));
+const byTitle = Object.fromEntries(rows.map((x) => [x.title, x]));
+check('legacy snapshot: title rerouted to the workshop page', new RegExp(`/workshop/${legacy.ws}/#p-${legacy.id}`).test(byTitle['Legacy snapshot']?.href || ''), JSON.stringify(byTitle['Legacy snapshot']));
+check('legacy snapshot: PDF link derived from forum id', byTitle['Legacy snapshot']?.pdf === `https://openreview.net/pdf?id=${legacy.id}`, String(byTitle['Legacy snapshot']?.pdf));
+check('derived PDF suppressed for papers without one', byTitle['PDF-less from search']?.pdf === null, String(byTitle['PDF-less from search']?.pdf));
+check('stored empty pdf renders no PDF link', byTitle['Known no-PDF page save']?.pdf === null, String(byTitle['Known no-PDF page save']?.pdf));
 await page.evaluate(() => localStorage.clear());
 
 check('no page/console errors during the whole run', errors.length === 0, errors.slice(0, 3).join(' | '));

@@ -6,9 +6,15 @@
  *   awt-fav-workshops  ["<slug>", ...]            (slugs only — the saved
  *                       page re-fetches live data from /api/workshops.json,
  *                       so deadlines/status are never stale)
- *   awt-fav-papers     [{id,title,url,ws,wsName}] (tiny snapshot — there is
- *                       no global papers JSON to re-fetch ~10k papers from,
- *                       and titles don't change)
+ *   awt-fav-papers     [{id,title,ws,wsName,pdf?}] (tiny snapshot — there
+ *                       is no global papers JSON to re-fetch ~20k papers
+ *                       from, and titles don't change). The saved page links
+ *                       titles to /workshop/<ws>/#p-<id>; `pdf` is the exact
+ *                       pdf_url when saved from a workshop page, absent when
+ *                       saved from search results (derived at render time,
+ *                       checked against /api/papers-without-pdf.json).
+ *                       Pre-June-2026 snapshots carried a `url` field
+ *                       instead; the saved page still renders those.
  *
  * Loaded on every page via Base.astro. Star buttons are plain <button>s
  * carrying data-star-ws="<slug>" or data-star-paper="<id>" (+ snapshot data
@@ -93,18 +99,20 @@ function togglePaper(btn) {
   const id = btn.dataset.starPaper;
   let list = favPapers();
   const on = !list.some((p) => p.id === id);
-  list = on
-    ? [
-        ...list,
-        {
-          id,
-          title: btn.dataset.title || 'Untitled paper',
-          url: btn.dataset.url || '',
-          ws: btn.dataset.ws || '',
-          wsName: btn.dataset.wsname || '',
-        },
-      ]
-    : list.filter((p) => p.id !== id);
+  if (on) {
+    const snap = {
+      id,
+      title: btn.dataset.title || 'Untitled paper',
+      ws: btn.dataset.ws || '',
+      wsName: btn.dataset.wsname || '',
+    };
+    // Workshop pages know the true pdf_url (may be '' = paper has no PDF);
+    // search results omit the attribute and the saved page derives it.
+    if (btn.dataset.pdf !== undefined) snap.pdf = btn.dataset.pdf;
+    list = [...list, snap];
+  } else {
+    list = list.filter((p) => p.id !== id);
+  }
   if (!write(P_KEY, list)) return storageFailed(btn);
   for (const b of document.querySelectorAll(`[data-star-paper="${CSS.escape(id)}"]`)) setBtn(b, on);
   if (on) track('fav/star-paper', id);

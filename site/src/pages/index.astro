@@ -397,7 +397,7 @@ const FW = workshops.map((w) => ({
                 const pt = String(sr.title).replace(/^[\s☆★]+/, '');
                 const ppid = (String(sr.url).match(/#p-([^#?]+)/) || [])[1] || '';
                 return `
-              <li>${ppid ? `<button type="button" class="star-btn" data-star-paper="${esc(ppid)}" data-title="${esc(pt)}" data-url="${esc(sr.url)}" data-ws="${esc(slug)}" data-wsname="${esc(wsLabel)}" aria-pressed="false" aria-label="Save paper: ${esc(pt)}">☆</button>` : ''}<a class="pf-ptitle" target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(pt)}</a><p class="pf-excerpt">${stripLeadingTitle(sr.excerpt, pt)}</p></li>`;
+              <li>${ppid ? `<button type="button" class="star-btn" data-star-paper="${esc(ppid)}" data-title="${esc(pt)}" data-ws="${esc(slug)}" data-wsname="${esc(wsLabel)}" aria-pressed="false" aria-label="Save paper: ${esc(pt)}">☆</button>` : ''}<a class="pf-ptitle" target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(pt)}</a><p class="pf-excerpt">${stripLeadingTitle(sr.excerpt, pt)}</p></li>`;
               })()).join('') +
             (subs.length > SUBS_PER_WS
               ? `<li class="pf-more"><a target="_blank" rel="noopener" href="${esc(key)}#papers">…${subs.length - SUBS_PER_WS} more matching papers →</a></li>`

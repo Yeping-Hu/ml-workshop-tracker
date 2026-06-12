@@ -134,7 +134,35 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
     }
 
     /* ---------------- papers ---------------- */
-    function renderPapers() {
+    // Saved-paper links are derived at render time so every snapshot
+    // generation behaves identically: the title always opens OUR workshop
+    // page anchored at that paper, and a separate PDF link opens the PDF.
+    // PDF resolution: exact stored pdf_url (workshop-page saves; '' means
+    // the paper has none) → else derive openreview.net/pdf?id=<forum id>,
+    // suppressed for ids in /api/papers-without-pdf.json (search-result
+    // saves and pre-June-2026 snapshots, which stored a `url` instead).
+    let noPdfIds: Set<string> | null = null;
+    let noPdfTried = false;
+    async function ensureNoPdfList() {
+      if (noPdfTried) return;
+      noPdfTried = true;
+      try {
+        const res = await fetch(`${base}/api/papers-without-pdf.json`);
+        if (res.ok) noPdfIds = new Set((await res.json()).ids);
+      } catch {} // unreachable → derive optimistically (92% of papers have PDFs)
+    }
+    const isForumId = (id: string) => !!id && !id.includes('~'); // '~' marks slug-based fallback ids
+    function paperLinks(p: any) {
+      const titleHref = p.ws
+        ? `${base}/workshop/${p.ws}/#p-${p.id}`
+        : p.url || (isForumId(p.id) ? `https://openreview.net/forum?id=${p.id}` : '');
+      let pdfHref = '';
+      if ('pdf' in p) pdfHref = p.pdf || '';
+      else if (isForumId(p.id) && !noPdfIds?.has(p.id)) pdfHref = `https://openreview.net/pdf?id=${p.id}`;
+      return { titleHref, pdfHref };
+    }
+
+    async function renderPapers() {
       const papers = favPapers();
       $('#savedPaperCount').textContent = papers.length ? `(${papers.length})` : '';
       if (papers.length === 0) {
@@ -143,6 +171,7 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
            star <span class="star-demo">☆</span> the ones you want to read.</div>`;
         return;
       }
+      if (papers.some((p: any) => !('pdf' in p) && isForumId(p.id))) await ensureNoPdfList();
       // Group under their workshop — keyed by slug, so papers saved from
       // search results and from the workshop page merge into one group.
       // Label: shortest wsName seen (workshop pages store the acronym form,
@@ -163,11 +192,14 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
           <ul class="saved-papers">
             ${g.items
               .map(
-                (p) => `
+                (p) => {
+                  const { titleHref, pdfHref } = paperLinks(p);
+                  return `
               <li data-saved-paper="${esc(p.id)}">
                 <button class="star-btn" type="button" data-star-paper="${esc(p.id)}" aria-pressed="true" aria-label="Remove paper from saved">★</button>
-                ${p.url ? `<a href="${esc(p.url)}" rel="noopener">${esc(p.title)}</a>` : esc(p.title)}
-              </li>`,
+                ${titleHref ? `<a href="${esc(titleHref)}" title="Open on the workshop page">${esc(p.title)}</a>` : esc(p.title)}${pdfHref ? ` <span class="muted">·</span> <a class="pdf-link" href="${esc(pdfHref)}" target="_blank" rel="noopener">PDF</a>` : ''}
+              </li>`;
+                },
               )
               .join('')}
           </ul>
