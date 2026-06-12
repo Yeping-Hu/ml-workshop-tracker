@@ -440,6 +440,33 @@ check('derived PDF suppressed for papers without one', byTitle['PDF-less from se
 check('stored empty pdf renders no PDF link', byTitle['Known no-PDF page save']?.pdf === null, String(byTitle['Known no-PDF page save']?.pdf));
 await page.evaluate(() => localStorage.clear());
 
+console.log('— every content link opens a new tab (board / results / saved) —');
+const ctx = page.context();
+const popupOn = async (sel) => {
+  const [pop] = await Promise.all([ctx.waitForEvent('page', { timeout: 8000 }), page.click(sel)]);
+  await pop.waitForLoadState('domcontentloaded');
+  const u = pop.url();
+  await pop.close();
+  return u;
+};
+await page.goto(BASE, { waitUntil: 'networkidle' });
+check('board workshop name opens a NEW tab', (await popupOn('.board .ws-name a')).includes('/workshop/'));
+await page.fill('#q', 'language');
+await page.waitForSelector('#results .pf-papers li > [data-star-paper]', { timeout: 10000 });
+check('search-result workshop opens a NEW tab', (await popupOn('#results .pf-result .pf-title')).includes('/workshop/'));
+// seed a saved workshop + paper, then test the saved page's links
+await page.click('#results .pf-result > [data-star-ws]');
+await page.click('#results .pf-papers li > [data-star-paper]');
+await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
+await page.waitForSelector('[data-saved-ws]', { timeout: 8000 });
+check('saved workshop opens a NEW tab', (await popupOn('[data-saved-ws] .ws-name a')).includes('/workshop/'));
+check('saved paper title opens a NEW tab at its anchor', /\/workshop\/[^/]+\/#p-/.test(await popupOn('.saved-papers li a')));
+const tabsBefore = ctx.pages().length;
+await page.click('.site-nav a[href$="/about/"]');
+await page.waitForURL('**/about/');
+check('header nav still navigates in the SAME tab', ctx.pages().length === tabsBefore && page.url().includes('/about/'));
+await page.evaluate(() => localStorage.clear());
+
 check('no page/console errors during the whole run', errors.length === 0, errors.slice(0, 3).join(' | '));
 
 await browser.close();

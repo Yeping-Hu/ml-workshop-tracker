@@ -111,13 +111,24 @@ const current = (p: string) =>
     )}
     <script src="../scripts/favorites.js"></script>
     <script>
-      // Open every external link in a new tab.
-      for (const a of document.querySelectorAll('a[href^="http"]')) {
-        if (a.host !== location.host) {
-          a.target = '_blank';
-          a.rel = 'noopener';
-        }
-      }
+      // Every content link opens in a new tab — internal (workshops, papers,
+      // saved items) and external alike. Decided at CLICK time via
+      // delegation, so links rendered after page load (search results, the
+      // saved page) are covered too: the previous load-time loop only saw
+      // links that existed at first paint, which is why dynamic surfaces
+      // kept regressing to same-tab. Exceptions: the site header (wordmark +
+      // nav) navigates in place, and same-page anchors stay put. Modified
+      // clicks (ctrl/cmd/shift/middle) keep their native behavior.
+      document.addEventListener('click', (e) => {
+        if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+        const a = e.target.closest('a[href]');
+        if (!a || a.closest('.site-header')) return;
+        const href = a.getAttribute('href') || '';
+        if (href.startsWith('javascript:')) return;
+        if (a.hash && a.host === location.host && a.pathname === location.pathname) return;
+        a.target = '_blank';
+        if (a.host !== location.host) a.rel = 'noopener';
+      });
       // Manual light/dark toggle (falls back to the OS preference until used).
       document.getElementById('themeToggle')?.addEventListener('click', () => {
         const root = document.documentElement;

@@ -113,7 +113,7 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
         } catch (err) {
           $('#savedWsList').innerHTML =
             `<p class="muted">Couldn't load workshop data (${esc((err as Error).message)}) —
-             your stars are safe; <a href="javascript:location.reload()">reload to retry</a>.</p>`;
+             your stars are safe; <button type="button" class="btn-quiet" onclick="location.reload()">reload to retry</button>.</p>`;
           return;
         }
       }
