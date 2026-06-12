@@ -467,6 +467,31 @@ await page.waitForURL('**/about/');
 check('header nav still navigates in the SAME tab', ctx.pages().length === tabsBefore && page.url().includes('/about/'));
 await page.evaluate(() => localStorage.clear());
 
+console.log('— saved papers cluster by conference, latest year first —');
+const apiWs = JSON.parse(rfL('site/dist/api/workshops.json', 'utf8')).workshops;
+const byConfT = {};
+for (const w of apiWs) (byConfT[w.conference] ||= []).push(w);
+const multiYear = Object.entries(byConfT).find(([, ws]) => new Set(ws.map((w) => w.year)).size >= 2);
+const conf1 = multiYear[0];
+const ws1 = [...multiYear[1]].sort((a, b) => b.year - a.year);
+const wsHi = ws1[0], wsLo = ws1.find((w) => w.year < wsHi.year);
+const conf2 = Object.keys(byConfT).find((c) => c !== conf1);
+const wsC = byConfT[conf2][0];
+const expectedFirst = Math.max(wsHi.year, wsLo.year) >= wsC.year ? conf1 : conf2;
+await page.evaluate(([a, b, c]) => {
+  const snap = (w, n) => ({ id: 'order' + n, title: 'Ordering test ' + n, ws: w.slug, wsName: (w.acronym || w.name) + ' — X ' + w.year, pdf: '' });
+  localStorage.setItem('awt-fav-papers', JSON.stringify([snap(c, 1), snap(b, 2), snap(a, 3)]));
+}, [wsHi, wsLo, wsC]);
+await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
+await page.waitForSelector('.saved-conf', { timeout: 8000 });
+const confOrder = await page.$$eval('.saved-conf', (els) => els.map((e) => e.dataset.conf));
+check('two conference clusters render', confOrder.length === 2, JSON.stringify(confOrder));
+check('clusters ranked by latest year first', confOrder[0] === expectedFirst, `got ${confOrder[0]}, expected ${expectedFirst} (years ${wsHi.year}/${wsLo.year} vs ${wsC.year})`);
+const yearsInFirstC1 = await page.$eval(`.saved-conf[data-conf="${conf1}"]`, (el) => [...el.querySelectorAll('.saved-paper-group')].map((g) => Number(g.dataset.year)));
+check('workshop groups inside a conference sort year-desc', yearsInFirstC1.length === 2 && yearsInFirstC1[0] > yearsInFirstC1[1], JSON.stringify(yearsInFirstC1));
+check('conference heading shows its badge', (await page.$$('.saved-conf-head .badge')).length === 2);
+await page.evaluate(() => localStorage.clear());
+
 check('no page/console errors during the whole run', errors.length === 0, errors.slice(0, 3).join(' | '));
 
 await browser.close();
