@@ -69,6 +69,7 @@ const searchOrder = (() => {
         <button
           class="star-btn star-btn-labeled"
           type="button"
+          data-pagefind-ignore
           data-star-ws={w.slug}
           aria-pressed="false"
           aria-label={`Save ${w.name} to your list`}
@@ -182,10 +183,11 @@ const searchOrder = (() => {
         <ol class="paper-list">
           {cache.papers.map((p: any, i: number) => (
             <li class="paper">
-              <h3 class="p-title" id={`p-${i}`}>
+              <h3 class="p-title" id={`p-${paperId(p, i)}`}>
                 <button
                   class="star-btn"
                   type="button"
+                  data-pagefind-ignore
                   data-star-paper={paperId(p, i)}
                   data-title={p.title}
                   data-url={p.forum_url || p.pdf_url || ''}

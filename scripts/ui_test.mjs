@@ -124,13 +124,19 @@ await page.waitForFunction(() => /workshop/.test(document.querySelector('#search
 const c2 = parseCount(await page.$eval('#searchCount', (el) => el.textContent));
 check('adding a keyword narrows workshops', c2.ws <= c1.ws, `${c1.ws} -> ${c2.ws}`);
 check('adding a keyword narrows papers too', c2.papers <= c1.papers, `${c1.papers} -> ${c2.papers}`);
-const dual = await page.$$eval('.pf-papers li:not(.pf-subhead):not(.pf-more):not(.pf-xfall) .pf-excerpt', (els) =>
-  els.slice(0, 10).map((e) => {
-    const marks = [...e.querySelectorAll('mark')].map((m) => m.textContent.toLowerCase());
-    return marks.some((w) => w.startsWith('robot')) && marks.some((w) => w.startsWith('llm'));
+const dual = await page.$$eval('.pf-papers li:not(.pf-subhead):not(.pf-more):not(.pf-xfall)', (els) =>
+  els.slice(0, 10).map((li) => {
+    // Excerpts are authors-only now, so a keyword may live on the title line
+    // instead — both lines together must show both keywords.
+    const hay = (
+      (li.querySelector('.pf-ptitle')?.textContent ?? '') +
+      ' ' +
+      [...li.querySelectorAll('.pf-excerpt mark')].map((m) => m.textContent).join(' ')
+    ).toLowerCase();
+    return hay.includes('robot') && hay.includes('llm');
   }),
 );
-check('every listed paper carries both keywords', dual.length > 0 && dual.every(Boolean), JSON.stringify(dual));
+check('every listed paper carries both keywords (title + excerpt)', dual.length > 0 && dual.every(Boolean), JSON.stringify(dual));
 await page.click('#clearSearch');
 await page.waitForSelector('#homeDefault:not([hidden])');
 
@@ -190,9 +196,13 @@ check('every topic fits on one line', oneLine);
 await page.click('h2');
 
 console.log('— deep-linked paper highlight —');
-await page.goto(`${BASE}/workshop/icml-2025-taig/#p-1`, { waitUntil: 'networkidle' });
-const hl = await page.$eval('#p-1', (el) => getComputedStyle(el).backgroundColor);
-check('clicked paper is highlighted via :target', hl !== 'rgba(0, 0, 0, 0)', hl);
+// Paper anchors are now stable ids (p-<forum id>), not positions — grab a
+// real one from the page, then deep-link to it.
+await page.goto(`${BASE}/workshop/icml-2025-taig/`, { waitUntil: 'networkidle' });
+const anchorId = await page.$eval('.paper h3[id^="p-"]', (el) => el.id);
+await page.goto(`${BASE}/workshop/icml-2025-taig/#${anchorId}`, { waitUntil: 'networkidle' });
+const hl = await page.$eval(`[id="${anchorId}"]`, (el) => getComputedStyle(el).backgroundColor);
+check('clicked paper is highlighted via :target', hl !== 'rgba(0, 0, 0, 0)', `${anchorId}: ${hl}`);
 await page.goto(BASE, { waitUntil: 'networkidle' });
 await page.waitForFunction(() => document.querySelector('[data-facet="conference"]')?.children.length >= 5);
 
@@ -342,6 +352,50 @@ if (firstStar) {
 } else {
   check('board empty — favorites flow skipped (no open calls to star)', true);
 }
+
+console.log('— favorites in search & filter results (issues: save any workshop / any filter / clean paper lines) —');
+await page.goto(BASE, { waitUntil: 'networkidle' });
+await page.fill('#q', 'language');
+await page.waitForSelector('#results .pf-papers li > [data-star-paper]', { timeout: 10000 });
+check('keyword results: workshop rows have star buttons', (await page.$('#results .pf-result > [data-star-ws]')) !== null);
+const pap = await page.$eval('#results .pf-papers li:has(.pf-ptitle)', (li) => ({
+  hasStar: !!li.querySelector(':scope > [data-star-paper]'),
+  title: li.querySelector('.pf-ptitle')?.textContent.trim() ?? '',
+  excerpt: li.querySelector('.pf-excerpt')?.textContent.trim() ?? '',
+}));
+check('paper line 1 has a real star button', pap.hasStar);
+check('paper line 1 carries no leaked star glyph', !/[☆★]/.test(pap.title), pap.title.slice(0, 40));
+check('paper line 2 no longer repeats the title', !pap.excerpt.toLowerCase().startsWith(pap.title.slice(0, 25).toLowerCase()), pap.excerpt.slice(0, 60));
+check('paper line 2 carries no star glyphs', !/[☆★]/.test(pap.excerpt), pap.excerpt.slice(0, 60));
+
+// Star one paper from the results, then a second paper of the SAME workshop
+// from its page — both must land in one group on /saved/.
+const resPaperBtn = await page.$('#results .pf-papers li > [data-star-paper]');
+const mergeWs = await resPaperBtn.getAttribute('data-ws');
+await resPaperBtn.click();
+check('starring a paper from results fills it', (await resPaperBtn.textContent()) === '★');
+await page.goto(`${BASE}/workshop/${mergeWs}/`, { waitUntil: 'networkidle' });
+for (const b of await page.$$('[data-star-paper]')) {
+  if ((await b.textContent()) === '☆') { await b.click(); break; }
+}
+await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
+await page.waitForSelector('.saved-papers li', { timeout: 8000 });
+check('search-saved + page-saved papers merge into one workshop group', (await page.$$('.saved-paper-group')).length === 1);
+check('merged group holds both papers', (await page.$$('.saved-papers li')).length === 2);
+
+// Facet-only filtering (no keyword): every listed workshop must be starrable.
+await page.goto(BASE, { waitUntil: 'networkidle' });
+await page.click('summary[data-facet-summary="year"]');
+await page.check('[data-facet="year"] input[data-f]'); // whatever the first year is
+await page.waitForSelector('#results .pf-result > [data-star-ws]', { timeout: 10000 });
+const yearStars = await page.$$eval('#results .pf-result', (els) => els.filter((e) => e.querySelector(':scope > [data-star-ws]')).length);
+const yearRows = (await page.$$('#results .pf-result')).length;
+check(`year-filtered results all starrable (${yearStars}/${yearRows})`, yearRows > 0 && yearStars === yearRows);
+const yBtn = await page.$('#results .pf-result > [data-star-ws]');
+await yBtn.click();
+check('starring from filtered results works', (await yBtn.textContent()) === '★');
+check('state survives a re-render (pagination/hydrate)', await page.$eval('#results .pf-result > [data-star-ws]', (el) => el.classList.contains('is-on')));
+await page.evaluate(() => localStorage.clear());
 
 check('no page/console errors during the whole run', errors.length === 0, errors.slice(0, 3).join(' | '));
 

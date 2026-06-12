@@ -122,6 +122,9 @@ function storageFailed(btn) {
 // future double-include can't double-toggle every click.
 if (!window.__awtFavsInit) {
   window.__awtFavsInit = true;
+  // Dynamically rendered content (search results) calls this after injecting
+  // star buttons so they pick up saved state.
+  window.awtFavsHydrate = hydrate;
 
   document.addEventListener('click', (e) => {
     const btn = e.target.closest('[data-star-ws],[data-star-paper]');

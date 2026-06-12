@@ -143,20 +143,25 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
            star <span class="star-demo">☆</span> the ones you want to read.</div>`;
         return;
       }
-      // Group under their workshop, most recently saved group last (stable).
-      const groups = new Map<string, any[]>();
+      // Group under their workshop — keyed by slug, so papers saved from
+      // search results and from the workshop page merge into one group.
+      // Label: shortest wsName seen (workshop pages store the acronym form,
+      // search results the full name).
+      const groups = new Map<string, { label: string; ws: string; items: any[] }>();
       for (const p of papers) {
-        const k = p.wsName || 'Other papers';
-        if (!groups.has(k)) groups.set(k, []);
-        groups.get(k)!.push(p);
+        const k = p.ws || p.wsName || 'other';
+        if (!groups.has(k)) groups.set(k, { label: p.wsName || 'Other papers', ws: p.ws || '', items: [] });
+        const g = groups.get(k)!;
+        g.items.push(p);
+        if (p.wsName && p.wsName.length < g.label.length) g.label = p.wsName;
       }
-      $('#savedPaperList').innerHTML = [...groups.entries()]
+      $('#savedPaperList').innerHTML = [...groups.values()]
         .map(
-          ([wsName, ps]) => `
+          (g) => `
         <div class="saved-paper-group">
-          <h3>${ps[0].ws ? `<a href="${base}/workshop/${esc(ps[0].ws)}/">${esc(wsName)}</a>` : esc(wsName)}</h3>
+          <h3>${g.ws ? `<a href="${base}/workshop/${esc(g.ws)}/">${esc(g.label)}</a>` : esc(g.label)}</h3>
           <ul class="saved-papers">
-            ${ps
+            ${g.items
               .map(
                 (p) => `
               <li data-saved-paper="${esc(p.id)}">

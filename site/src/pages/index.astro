@@ -143,6 +143,49 @@ const FW = workshops.map((w) => ({
 
     const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
+    // A paper's excerpt starts with the paper's own title (the heading
+    // anchors the sub-result region) — strip it so the line under each
+    // title shows just the authors. Walks text nodes so <mark> highlights
+    // in author names survive; returns the excerpt untouched if it doesn't
+    // actually begin with the title. Stray ☆/★ (from indexes built before
+    // star buttons were pagefind-ignored) are skipped like whitespace.
+    function stripLeadingTitle(excerptHtml, title) {
+      const want = String(title).replace(/[\s☆★]+/g, ' ').trim().toLowerCase();
+      if (!want) return excerptHtml;
+      const tpl = document.createElement('template');
+      tpl.innerHTML = excerptHtml;
+      const walker = document.createTreeWalker(tpl.content, NodeFilter.SHOW_TEXT);
+      const nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      let i = 0; // pointer into `want`
+      for (const node of nodes) {
+        const t = node.nodeValue;
+        let j = 0;
+        while (j < t.length && i < want.length) {
+          const c = t[j];
+          if (/[\s☆★]/.test(c)) {
+            while (j < t.length && /[\s☆★]/.test(t[j])) j++;
+            if (want[i] === ' ') i++;
+            else if (i > 0) return excerptHtml; // gap where the title has none
+            continue;
+          }
+          if (c.toLowerCase() !== want[i]) return excerptHtml; // not a title prefix
+          i++; j++;
+        }
+        if (i >= want.length) {
+          node.nodeValue = t.slice(j).replace(/^[\s·]+/, '');
+          break;
+        }
+        node.nodeValue = ''; // node fully consumed by the title
+      }
+      if (i < want.length) return excerptHtml; // excerpt shorter than the title
+      // The region's trailing "· PDF" link text adds nothing here.
+      for (let k = nodes.length - 1; k >= 0; k--) {
+        if (nodes[k].nodeValue.trim()) { nodes[k].nodeValue = nodes[k].nodeValue.replace(/\s*·?\s*PDF\s*$/, ''); break; }
+      }
+      return tpl.innerHTML;
+    }
+
     function isSearching() {
       return keywords.length > 0 || input.value.trim() !== '' || FACETS.some((f) => sel[f].size);
     }
@@ -340,6 +383,8 @@ const FW = workshops.map((w) => ({
         const color = confColors[conf] ?? '#888';
         const pillClass = { 'Open call': 'upcoming', 'Deadline unknown': 'unknown' }[src.meta?.status] ?? 'past';
         const wsName = g.ws?.meta?.title ?? String(g.papers?.meta?.title ?? '').replace(/ — accepted papers$/, '');
+        const slug = (key.match(/\/workshop\/([^/]+)\//) || [])[1] || '';
+        const wsLabel = `${wsName} — ${conf} ${src.meta?.year ?? ''}`.trim();
         let papersHtml = '';
         if (hasQuery && g.subs.length) {
           const subs = g.subs;
@@ -348,8 +393,12 @@ const FW = workshops.map((w) => ({
             subs.slice(0, SUBS_PER_WS).map((sr) => sr.fall
               ? `
               <li class="pf-xfall"><a target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(sr.title)}</a></li>`
-              : `
-              <li><a class="pf-ptitle" target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(sr.title)}</a><p class="pf-excerpt">${sr.excerpt}</p></li>`).join('') +
+              : (() => {
+                const pt = String(sr.title).replace(/^[\s☆★]+/, '');
+                const ppid = (String(sr.url).match(/#p-([^#?]+)/) || [])[1] || '';
+                return `
+              <li>${ppid ? `<button type="button" class="star-btn" data-star-paper="${esc(ppid)}" data-title="${esc(pt)}" data-url="${esc(sr.url)}" data-ws="${esc(slug)}" data-wsname="${esc(wsLabel)}" aria-pressed="false" aria-label="Save paper: ${esc(pt)}">☆</button>` : ''}<a class="pf-ptitle" target="_blank" rel="noopener" href="${esc(sr.url)}">${esc(pt)}</a><p class="pf-excerpt">${stripLeadingTitle(sr.excerpt, pt)}</p></li>`;
+              })()).join('') +
             (subs.length > SUBS_PER_WS
               ? `<li class="pf-more"><a target="_blank" rel="noopener" href="${esc(key)}#papers">…${subs.length - SUBS_PER_WS} more matching papers →</a></li>`
               : '') +
@@ -358,7 +407,7 @@ const FW = workshops.map((w) => ({
         rows.push(`
         <li class="pf-result">
           <div class="result-meta"><span class="badge" style="--conf:${color}; padding:0.2rem 0.6rem;">${esc(conf)} ${esc(src.meta?.year ?? '')}</span><span class="pill ${pillClass}">${esc(src.meta?.status ?? '')}</span>${src.meta?.status === 'Open call' && src.meta?.deadline ? `<span class="muted" style="font-size:0.82rem;">due ${esc(src.meta.deadline)}</span>` : ''}</div>
-          <a class="pf-title" target="_blank" rel="noopener" href="${esc(key)}">${esc(wsName)}</a>
+          <a class="pf-title" target="_blank" rel="noopener" href="${esc(key)}">${esc(wsName)}</a>${slug ? `<button type="button" class="star-btn" data-star-ws="${esc(slug)}" aria-pressed="false" aria-label="Save ${esc(wsName)} to your list" title="Save for later (stays in this browser)">☆</button>` : ''}
           ${g.ws ? `<p class="pf-excerpt">${g.ws.excerpt}</p>` : ''}
           ${papersHtml}
         </li>`);
@@ -379,6 +428,7 @@ const FW = workshops.map((w) => ({
       $('#results').innerHTML =
         rows.join('') ||
         '<li class="muted">No matches — remove a keyword or filter, or <a href="' + esc(`${base}/about/`) + '">add the workshop</a>.</li>';
+      window.awtFavsHydrate?.();
       syncUrl();
     }
 
