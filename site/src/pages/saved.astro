@@ -181,8 +181,8 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
       const wsBySlug = new Map(((await ensureWorkshops()) ?? []).map((w: any) => [w.slug, w]));
       const confByName = Object.fromEntries(Object.entries(CONF).map(([cid, c]: any) => [c.name, cid]));
 
-      // Two levels: conference clusters (ranked by their most recent year,
-      // latest first), each holding workshop groups (year descending).
+      // Two levels: conference clusters in alphabetical order (CoRL before
+      // IROS), each holding workshop groups sorted latest-year-first.
       // Conference + year come from the workshops API via the paper's ws
       // slug; if the slug is gone from the dataset, fall back to parsing
       // the "… — <Conf> <Year>" suffix the snapshot's wsName carries.
@@ -210,13 +210,28 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
       const clusters = new Map<string, any>(); // conference -> cluster
       for (const g of groups.values()) {
         const ck = g.confId || `~${g.confName}`;
-        if (!clusters.has(ck)) clusters.set(ck, { confId: g.confId, name: g.confName, color: CONF[g.confId]?.color, maxYear: -1, groups: [] });
-        const c = clusters.get(ck)!;
-        c.groups.push(g);
-        if (Number.isFinite(g.year)) c.maxYear = Math.max(c.maxYear, g.year);
+        if (!clusters.has(ck)) clusters.set(ck, { confId: g.confId, name: g.confName, color: CONF[g.confId]?.color, groups: [] });
+        clusters.get(ck)!.groups.push(g);
       }
-      const sorted = [...clusters.values()].sort((a, b) => b.maxYear - a.maxYear || a.name.localeCompare(b.name));
-      for (const c of sorted) c.groups.sort((a: any, b: any) => (Number.isFinite(b.year) ? b.year : -1) - (Number.isFinite(a.year) ? a.year : -1) || a.label.localeCompare(b.label));
+      // A→Z by conference name; clusters for slugs that left the dataset
+      // ("Other"/parsed names) sort after the known conferences.
+      const sorted = [...clusters.values()].sort(
+        (a, b) => (a.confId ? 0 : 1) - (b.confId ? 0 : 1) || a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }),
+      );
+      for (const c of sorted) {
+        for (const g of c.groups) {
+          const suffix = ` — ${c.name} ${g.year}`;
+          g.short = g.label.endsWith(suffix) ? g.label.slice(0, -suffix.length) : g.label;
+        }
+        // Workshops inside a conference: latest year first (the saved-papers
+        // ranking rule); the on-screen name (case-insensitive, number-aware)
+        // breaks ties within the same year.
+        c.groups.sort(
+          (a: any, b: any) =>
+            (Number.isFinite(b.year) ? b.year : -1) - (Number.isFinite(a.year) ? a.year : -1) ||
+            a.short.localeCompare(b.short, undefined, { numeric: true, sensitivity: 'base' }),
+        );
+      }
 
       $('#savedPaperList').innerHTML = sorted
         .map(
@@ -225,8 +240,7 @@ const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.
           <h3 class="saved-conf-head">${c.color ? `<span class="badge" style="--conf:${esc(c.color)}">${esc(c.name)}</span>` : esc(c.name)}</h3>
           ${c.groups
             .map((g: any) => {
-              const suffix = ` — ${c.name} ${g.year}`;
-              const short = g.label.endsWith(suffix) ? g.label.slice(0, -suffix.length) : g.label;
+              const short = g.short;
               return `
           <div class="saved-paper-group" data-year="${Number.isFinite(g.year) ? g.year : ''}">
             <h4>${Number.isFinite(g.year) ? `<span class="g-year mono">${g.year}</span>` : ''}${g.ws ? `<a href="${base}/workshop/${esc(g.ws)}/">${esc(short)}</a>` : esc(short)}</h4>

@@ -467,7 +467,7 @@ await page.waitForURL('**/about/');
 check('header nav still navigates in the SAME tab', ctx.pages().length === tabsBefore && page.url().includes('/about/'));
 await page.evaluate(() => localStorage.clear());
 
-console.log('— saved papers cluster by conference, latest year first —');
+console.log('— saved papers cluster by conference (A→Z), years desc inside —');
 const apiWs = JSON.parse(rfL('site/dist/api/workshops.json', 'utf8')).workshops;
 const byConfT = {};
 for (const w of apiWs) (byConfT[w.conference] ||= []).push(w);
@@ -477,18 +477,19 @@ const ws1 = [...multiYear[1]].sort((a, b) => b.year - a.year);
 const wsHi = ws1[0], wsLo = ws1.find((w) => w.year < wsHi.year);
 const conf2 = Object.keys(byConfT).find((c) => c !== conf1);
 const wsC = byConfT[conf2][0];
-const expectedFirst = Math.max(wsHi.year, wsLo.year) >= wsC.year ? conf1 : conf2;
+const expectedOrder = [conf1, conf2].sort((a, b) => a.localeCompare(b));
 await page.evaluate(([a, b, c]) => {
-  const snap = (w, n) => ({ id: 'order' + n, title: 'Ordering test ' + n, ws: w.slug, wsName: (w.acronym || w.name) + ' — X ' + w.year, pdf: '' });
+  const snap = (w, n) => ({ id: 'order' + n, title: 'Ordering test ' + n, ws: w.slug, wsName: w.acronym || w.name, pdf: '' });
   localStorage.setItem('awt-fav-papers', JSON.stringify([snap(c, 1), snap(b, 2), snap(a, 3)]));
 }, [wsHi, wsLo, wsC]);
 await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
 await page.waitForSelector('.saved-conf', { timeout: 8000 });
 const confOrder = await page.$$eval('.saved-conf', (els) => els.map((e) => e.dataset.conf));
 check('two conference clusters render', confOrder.length === 2, JSON.stringify(confOrder));
-check('clusters ranked by latest year first', confOrder[0] === expectedFirst, `got ${confOrder[0]}, expected ${expectedFirst} (years ${wsHi.year}/${wsLo.year} vs ${wsC.year})`);
-const yearsInFirstC1 = await page.$eval(`.saved-conf[data-conf="${conf1}"]`, (el) => [...el.querySelectorAll('.saved-paper-group')].map((g) => Number(g.dataset.year)));
-check('workshop groups inside a conference sort year-desc', yearsInFirstC1.length === 2 && yearsInFirstC1[0] > yearsInFirstC1[1], JSON.stringify(yearsInFirstC1));
+check('clusters ranked alphabetically by conference', JSON.stringify(confOrder) === JSON.stringify(expectedOrder), `got ${confOrder}, expected ${expectedOrder}`);
+const yearsInC1 = await page.$eval(`.saved-conf[data-conf="${conf1}"]`, (el) => [...el.querySelectorAll('.saved-paper-group')].map((g) => Number(g.dataset.year)));
+check('workshop groups inside a conference sort latest-year-first', yearsInC1.length === 2 && yearsInC1[0] > yearsInC1[1], JSON.stringify(yearsInC1));
+check('each group still displays its year', await page.$eval(`.saved-conf[data-conf="${conf1}"]`, (el) => [...el.querySelectorAll('.saved-paper-group .g-year')].length === 2));
 check('conference heading shows its badge', (await page.$$('.saved-conf-head .badge')).length === 2);
 await page.evaluate(() => localStorage.clear());
 
