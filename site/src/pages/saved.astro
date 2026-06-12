@@ -1,0 +1,231 @@
+---
+import Base from '../components/Base.astro';
+import { conferences } from '../lib/data';
+import { href } from '../lib/site';
+
+// Conference id -> {name, color} so saved rows get the same badges as the
+// board. Tiny (~10 entries), embedded at build time.
+const confMap = Object.fromEntries(conferences.map((c: any) => [c.id, { name: c.name, color: c.color }]));
+---
+
+<Base
+  title="Saved"
+  description="Your starred workshops and papers — stored privately in this browser, sorted by deadline."
+>
+  <section class="masthead">
+    <p class="eyebrow">Your list</p>
+    <h1>Saved workshops &amp; papers</h1>
+    <p class="lede">
+      Everything you've starred, with live deadlines — open calls first, soonest on top.
+    </p>
+  </section>
+
+  <section aria-labelledby="savedWsHead">
+    <h2 id="savedWsHead">Workshops <span class="muted count" id="savedWsCount"></span></h2>
+    <div class="board" id="savedWsList"><p class="muted" id="savedWsStatus">Loading your saved workshops…</p></div>
+  </section>
+
+  <section aria-labelledby="savedPaperHead">
+    <h2 id="savedPaperHead">Papers <span class="muted count" id="savedPaperCount"></span></h2>
+    <div id="savedPaperList"></div>
+  </section>
+
+  <p class="muted small storage-note">
+    Saved items live only in this browser — nothing is sent to a server, and clearing this site's
+    data (or switching devices) starts the list fresh. Star <span class="star-demo">☆</span> anything
+    on the <a href={href('/')}>deadline board</a> or on a workshop page to add it here.
+  </p>
+
+  <script type="application/json" id="awt-conf" set:html={JSON.stringify(confMap)} />
+
+  <script>
+    import { favWorkshops, favPapers } from '../scripts/favorites.js';
+
+    const base = (import.meta.env.BASE_URL || '/').replace(/\/+$/, '');
+    const CONF = JSON.parse(document.getElementById('awt-conf')!.textContent || '{}');
+    const $ = (s: string) => document.querySelector(s) as HTMLElement;
+    const esc = (s: unknown) =>
+      String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+
+    /* ---------------- workshops ---------------- */
+    let allWorkshops: any[] | null = null; // from /api/workshops.json, fetched once
+
+    function sortKey(w: any) {
+      // Open calls by soonest deadline → upcoming TBA → everything past
+      // (most recent year first). Mirrors the board's browse order.
+      const ms = w.deadline_utc ? Date.parse(w.deadline_utc) : null;
+      if (w.status === 'upcoming' && ms != null) return [0, ms];
+      if (w.status === 'upcoming') return [1, 0];
+      return [2, -(w.year ?? 0)];
+    }
+
+    function wsRow(w: any) {
+      const conf = CONF[w.conference] ?? { name: w.conference, color: '#888' };
+      const ms = w.deadline_utc ? Date.parse(w.deadline_utc) : null;
+      const upcoming = w.status === 'upcoming';
+      const name = esc(w.name);
+      return `
+      <div class="board-row ${upcoming ? '' : 'row-passed'}" data-saved-ws="${esc(w.slug)}">
+        <span class="badge" style="--conf:${esc(conf.color)}">${esc(conf.name)}</span>
+        <div class="ws-main">
+          <div class="ws-name">
+            <a href="${base}/workshop/${esc(w.slug)}/">${name}</a>
+            <button class="star-btn" type="button" data-star-ws="${esc(w.slug)}" aria-pressed="true" aria-label="Remove ${name} from saved">★</button>
+          </div>
+          <div class="ws-meta">
+            ${w.acronym ? `<span class="mono">${esc(w.acronym)}</span>` : ''}
+            <span>${esc(conf.name)} ${esc(w.year)}</span>
+            <span class="pill ${esc(w.status)}">${esc(w.status_label)}</span>
+          </div>
+        </div>
+        <div class="ws-deadline">
+          ${
+            ms != null
+              ? `<div class="wall">${esc(w.submission_deadline)}${w.timezone ? ' ' + esc(w.timezone) : ''}</div>
+                 <div class="local js-local" data-iso="${esc(w.deadline_utc)}"></div>`
+              : `<div class="muted">${upcoming ? 'Deadline TBA' : '—'}</div>`
+          }
+        </div>
+        ${
+          upcoming && ms != null
+            ? `<span class="countdown" data-deadline-ms="${ms}" data-name="${esc(w.acronym || w.name)}">—</span>`
+            : upcoming
+              ? `<span class="countdown is-tba">TBA</span>`
+              : `<span class="countdown is-over">passed</span>`
+        }
+      </div>`;
+    }
+
+    async function renderWorkshops() {
+      const slugs = favWorkshops();
+      $('#savedWsCount').textContent = slugs.length ? `(${slugs.length})` : '';
+      if (slugs.length === 0) {
+        $('#savedWsList').innerHTML =
+          `<div class="empty-state">No saved workshops yet — star <span class="star-demo">☆</span> any
+           workshop on the <a href="${base}/">deadline board</a> and it'll wait here, sorted by deadline.</div>`;
+        return;
+      }
+      if (!allWorkshops) {
+        try {
+          const res = await fetch(`${base}/api/workshops.json`);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          allWorkshops = (await res.json()).workshops;
+        } catch (err) {
+          $('#savedWsList').innerHTML =
+            `<p class="muted">Couldn't load workshop data (${esc((err as Error).message)}) —
+             your stars are safe; <a href="javascript:location.reload()">reload to retry</a>.</p>`;
+          return;
+        }
+      }
+      const wanted = new Set(slugs);
+      const mine = allWorkshops!.filter((w) => wanted.has(w.slug));
+      mine.sort((a, b) => {
+        const [ga, ka] = sortKey(a), [gb, kb] = sortKey(b);
+        return ga - gb || ka - kb || String(a.name).localeCompare(String(b.name));
+      });
+      const missing = slugs.length - mine.length; // slug removed/renamed upstream
+      $('#savedWsList').innerHTML =
+        mine.map(wsRow).join('') +
+        (missing > 0
+          ? `<p class="muted small">${missing} saved workshop${missing === 1 ? ' is' : 's are'} no longer in the dataset (renamed or removed).</p>`
+          : '');
+      startClock();
+      localTimes();
+    }
+
+    /* ---------------- papers ---------------- */
+    function renderPapers() {
+      const papers = favPapers();
+      $('#savedPaperCount').textContent = papers.length ? `(${papers.length})` : '';
+      if (papers.length === 0) {
+        $('#savedPaperList').innerHTML =
+          `<div class="empty-state">No saved papers yet — open any workshop's accepted-papers list and
+           star <span class="star-demo">☆</span> the ones you want to read.</div>`;
+        return;
+      }
+      // Group under their workshop, most recently saved group last (stable).
+      const groups = new Map<string, any[]>();
+      for (const p of papers) {
+        const k = p.wsName || 'Other papers';
+        if (!groups.has(k)) groups.set(k, []);
+        groups.get(k)!.push(p);
+      }
+      $('#savedPaperList').innerHTML = [...groups.entries()]
+        .map(
+          ([wsName, ps]) => `
+        <div class="saved-paper-group">
+          <h3>${ps[0].ws ? `<a href="${base}/workshop/${esc(ps[0].ws)}/">${esc(wsName)}</a>` : esc(wsName)}</h3>
+          <ul class="saved-papers">
+            ${ps
+              .map(
+                (p) => `
+              <li data-saved-paper="${esc(p.id)}">
+                <button class="star-btn" type="button" data-star-paper="${esc(p.id)}" aria-pressed="true" aria-label="Remove paper from saved">★</button>
+                ${p.url ? `<a href="${esc(p.url)}" rel="noopener">${esc(p.title)}</a>` : esc(p.title)}
+              </li>`,
+              )
+              .join('')}
+          </ul>
+        </div>`,
+        )
+        .join('');
+    }
+
+    /* ---------------- countdowns & local times (compact board.js twins) ---------------- */
+    const HOUR = 3_600_000, DAY = 24 * HOUR;
+    function fmtRemaining(ms: number) {
+      const d = Math.floor(ms / DAY), h = Math.floor((ms % DAY) / HOUR), m = Math.floor((ms % HOUR) / 60_000), s = Math.floor((ms % 60_000) / 1000);
+      if (d >= 1) return `${d}d ${String(h).padStart(2, '0')}h`;
+      if (h >= 1) return `${h}h ${String(m).padStart(2, '0')}m`;
+      return `${m}m ${String(s).padStart(2, '0')}s`;
+    }
+    let clock: ReturnType<typeof setInterval> | null = null;
+    function tick() {
+      const now = Date.now();
+      for (const el of document.querySelectorAll<HTMLElement>('#savedWsList [data-deadline-ms]')) {
+        const rem = Number(el.dataset.deadlineMs) - now;
+        el.classList.remove('is-soon', 'is-critical', 'is-over');
+        if (rem <= 0) { el.textContent = 'passed'; el.classList.add('is-over'); continue; }
+        el.textContent = fmtRemaining(rem);
+        if (rem < 48 * HOUR) el.classList.add('is-critical');
+        else if (rem < 7 * DAY) el.classList.add('is-soon');
+      }
+    }
+    function startClock() {
+      tick();
+      if (!clock && document.querySelector('#savedWsList [data-deadline-ms]')) clock = setInterval(tick, 1000);
+    }
+    function localTimes() {
+      for (const el of document.querySelectorAll<HTMLElement>('#savedWsList .js-local[data-iso]')) {
+        const d = new Date(el.dataset.iso!);
+        el.textContent = Number.isNaN(d.getTime())
+          ? ''
+          : 'Your time: ' + d.toLocaleString(undefined, { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' });
+      }
+    }
+
+    /* ---------------- removals (star toggled here or in another tab) ---------------- */
+    document.addEventListener('awt:favs-changed', (e: any) => {
+      const { type, id, on } = e.detail || {};
+      if (type === 'sync') { renderWorkshops(); renderPapers(); return; }
+      if (on) return; // additions can't happen on this page
+      if (type === 'workshop') {
+        document.querySelector(`[data-saved-ws="${CSS.escape(id)}"]`)?.remove();
+        const n = favWorkshops().length;
+        $('#savedWsCount').textContent = n ? `(${n})` : '';
+        if (n === 0) renderWorkshops();
+      } else if (type === 'paper') {
+        const li = document.querySelector(`li[data-saved-paper="${CSS.escape(id)}"]`);
+        const group = li?.closest('.saved-paper-group');
+        li?.remove();
+        if (group && !group.querySelector('li')) group.remove();
+        const n = favPapers().length;
+        $('#savedPaperCount').textContent = n ? `(${n})` : '';
+        if (n === 0) renderPapers();
+      }
+    });
+
+    renderWorkshops();
+    renderPapers();
+  </script>
+</Base>

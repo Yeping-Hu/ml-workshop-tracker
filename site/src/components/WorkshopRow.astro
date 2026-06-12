@@ -24,6 +24,14 @@ const hasDeadline = w.deadlineUtcMs != null;
   <div class="ws-main">
     <div class="ws-name">
       <a href={href(`/workshop/${w.slug}/`)}>{w.name}</a>
+      <button
+        class="star-btn"
+        type="button"
+        data-star-ws={w.slug}
+        aria-pressed="false"
+        aria-label={`Save ${w.name} to your list`}
+        title="Save for later (stays in this browser)"
+      >☆</button>
     </div>
     <div class="ws-meta">
       {w.acronym && <span class="mono">{w.acronym}</span>}

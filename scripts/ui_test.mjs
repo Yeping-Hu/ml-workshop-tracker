@@ -285,6 +285,64 @@ if (bRows > 25) {
   check(`board has ${bRows} rows (≤25) — pager correctly absent`, (await page.$$('.board-pager')).length === 0);
 }
 
+console.log('— device-local favorites (star → /saved/ → unstar) —');
+await page.goto(BASE, { waitUntil: 'networkidle' });
+check('nav badge hidden when nothing saved', await page.$eval('#navSavedCount', (el) => el.hidden));
+const firstStar = await page.$('.board [data-star-ws]');
+if (firstStar) {
+  const starredSlug = await firstStar.getAttribute('data-star-ws');
+  await firstStar.click();
+  check('star fills on click', (await firstStar.textContent()) === '★');
+  check('aria-pressed flips true', (await firstStar.getAttribute('aria-pressed')) === 'true');
+  check('nav badge shows 1', (await page.$eval('#navSavedCount', (el) => el.textContent)) === '1');
+
+  // detail page: header Save button reflects board star; star one paper there or elsewhere
+  await page.goto(`${BASE}/workshop/${starredSlug}/`, { waitUntil: 'networkidle' });
+  check('detail Save button hydrates as saved', await page.$eval('[data-star-ws]', (el) => el.classList.contains('is-on')));
+
+  // find any workshop page with papers and star the first paper
+  const { readFileSync } = await import('node:fs');
+  const { readdirSync } = await import('node:fs');
+  const paperWs = readdirSync('site/dist/workshop').find((d) => {
+    try { return readFileSync(`site/dist/workshop/${d}/index.html`, 'utf8').includes('data-star-paper'); } catch { return false; }
+  });
+  let paperTitle = null;
+  if (paperWs) {
+    await page.goto(`${BASE}/workshop/${paperWs}/`, { waitUntil: 'networkidle' });
+    const pBtn = await page.$('[data-star-paper]');
+    paperTitle = await pBtn.getAttribute('data-title');
+    await pBtn.click();
+    check('paper star fills on click', (await pBtn.textContent()) === '★');
+    check('nav badge counts workshop + paper', (await page.$eval('#navSavedCount', (el) => el.textContent)) === '2');
+  }
+
+  // saved page: live workshop row + paper snapshot, both removable
+  await page.goto(`${BASE}/saved/`, { waitUntil: 'networkidle' });
+  await page.waitForSelector(`[data-saved-ws="${starredSlug}"]`, { timeout: 8000 });
+  check('saved page lists the starred workshop', true);
+  check('saved row carries a status pill', (await page.$(`[data-saved-ws="${starredSlug}"] .pill`)) !== null);
+  if (paperWs) {
+    const savedPaper = await page.$eval('.saved-papers li a, .saved-papers li', (el) => el.textContent.trim());
+    check('saved page lists the starred paper by title', savedPaper.includes(paperTitle.slice(0, 30)), savedPaper);
+    await page.click('.saved-papers li [data-star-paper]');
+    await page.waitForSelector('#savedPaperList .empty-state', { timeout: 4000 });
+    check('unstarring last paper shows the empty state', true);
+  }
+  await page.click(`[data-saved-ws="${starredSlug}"] [data-star-ws]`);
+  await page.waitForSelector('#savedWsList .empty-state', { timeout: 4000 });
+  check('unstarring last workshop shows the empty state', true);
+  check('nav badge hides again at zero', await page.$eval('#navSavedCount', (el) => el.hidden));
+
+  // persistence: re-star, reload, still starred
+  await page.goto(BASE, { waitUntil: 'networkidle' });
+  await page.click('.board [data-star-ws]');
+  await page.reload({ waitUntil: 'networkidle' });
+  check('star survives a reload (localStorage)', await page.$eval('.board [data-star-ws]', (el) => el.classList.contains('is-on')));
+  await page.click('.board [data-star-ws]'); // leave storage clean
+} else {
+  check('board empty — favorites flow skipped (no open calls to star)', true);
+}
+
 check('no page/console errors during the whole run', errors.length === 0, errors.slice(0, 3).join(' | '));
 
 await browser.close();

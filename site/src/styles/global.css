@@ -415,3 +415,37 @@ details.dd .dd-panel label.check { white-space: nowrap; }
 
 .pf-xfall a { font-size: 0.82rem; color: var(--muted); text-decoration: underline dotted; text-underline-offset: 2px; }
 .pf-xfall a:hover { color: var(--accent); }
+
+/* ---------- device-local favorites (stars + /saved/) ---------- */
+.star-btn {
+  font: inherit; font-size: 1.02rem; line-height: 1;
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); padding: 0.1rem 0.3rem; border-radius: 6px;
+  vertical-align: -0.05em;
+}
+.star-btn:hover { color: var(--accent); background: var(--accent-soft); }
+.star-btn.is-on { color: var(--accent); }
+.star-btn.star-err { color: var(--urgent); }
+.star-btn-labeled {
+  border: 1px solid var(--line); background: var(--surface);
+  font-size: 0.95rem; padding: 0.22rem 0.6rem;
+}
+.star-btn-labeled::after { content: " Save"; font-size: 0.82rem; }
+.star-btn-labeled.is-on::after { content: " Saved"; }
+.star-btn-labeled:hover { border-color: var(--accent); }
+.paper .star-btn { margin-left: -0.3rem; }
+.star-demo { color: var(--accent); }
+.nav-count {
+  font-family: var(--font-mono); font-size: 0.68rem; font-weight: 600;
+  background: var(--accent-soft); color: var(--accent);
+  border-radius: 99px; padding: 0.05rem 0.42rem; margin-left: 0.35rem;
+  vertical-align: 0.1em;
+}
+h2 .count { font-family: var(--font-mono); font-size: 0.85rem; font-weight: 400; }
+.saved-paper-group h3 { margin: 1.4rem 0 0.3rem; }
+.saved-paper-group h3 a { color: var(--ink); text-decoration: none; }
+.saved-paper-group h3 a:hover { color: var(--accent); text-decoration: underline; }
+.saved-papers { list-style: none; margin: 0; padding: 0; }
+.saved-papers li { padding: 0.32rem 0; border-bottom: 1px solid var(--line); }
+.saved-papers li:last-child { border-bottom: none; }
+.storage-note { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1rem; }

@@ -19,6 +19,12 @@ const portalLabel: Record<string, string> = {
   other: 'Other',
   unknown: 'Unknown',
 };
+// Stable per-paper id for device-local favorites: the OpenReview forum id
+// when present (survives cache refreshes/reordering), else slug+index.
+const paperId = (p: any, i: number) =>
+  String(p.forum_url || p.pdf_url || '').match(/[?&]id=([^&#]+)/)?.[1] ?? `${w.slug}~${i}`;
+// How a saved paper is labeled/grouped on the /saved/ page.
+const wsLabel = `${w.acronym || w.name} — ${conf.name} ${w.year}`;
 // Browse-mode sort key (used only when the search box is empty — keyword
 // queries keep Pagefind's relevance order). Lexicographic ascending over
 // '<band>-<14-digit ms>': 0 open calls by soonest deadline, 1 upcoming TBA
@@ -60,6 +66,14 @@ const searchOrder = (() => {
       <h1>{w.name}</h1>
       {w.acronym && <p class="muted mono">{w.acronym}</p>}
       <div class="linkrow">
+        <button
+          class="star-btn star-btn-labeled"
+          type="button"
+          data-star-ws={w.slug}
+          aria-pressed="false"
+          aria-label={`Save ${w.name} to your list`}
+          title="Save for later (stays in this browser)"
+        >☆</button>
         {w.website ? (
           <a href={w.website} rel="noopener">Official website ↗</a>
         ) : (
@@ -169,6 +183,18 @@ const searchOrder = (() => {
           {cache.papers.map((p: any, i: number) => (
             <li class="paper">
               <h3 class="p-title" id={`p-${i}`}>
+                <button
+                  class="star-btn"
+                  type="button"
+                  data-star-paper={paperId(p, i)}
+                  data-title={p.title}
+                  data-url={p.forum_url || p.pdf_url || ''}
+                  data-ws={w.slug}
+                  data-wsname={wsLabel}
+                  aria-pressed="false"
+                  aria-label={`Save paper: ${p.title}`}
+                  title="Save for later (stays in this browser)"
+                >☆</button>
                 {p.forum_url ? <a href={p.forum_url} rel="noopener">{p.title}</a> : p.title}
               </h3>
               <div class="p-authors">
