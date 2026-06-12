@@ -138,6 +138,8 @@ const FW = workshops.map((w) => ({
     let keywords = [];
     const sel = Object.fromEntries(FACETS.map((f) => [f, new Set()]));
     let pfReady = null, pagefind = null;
+    let pfBust = 0; // appended to the engine URL when re-importing after a deploy
+    let healAttempted = false;
     const initialCounts = facetCounts;
     let facetOptions = null;
 
@@ -213,13 +215,14 @@ const FW = workshops.map((w) => ({
       // share one initialization promise — double-init corrupted the facets.
       if (!pfReady) {
         pfReady = (async () => {
-          const pf = await import(`${base}/pagefind/pagefind.js`);
+          const pf = await import(`${base}/pagefind/pagefind.js${pfBust ? `?v=${pfBust}` : ''}`);
           await pf.options({ baseUrl: `${base}/` });
           await pf.mergeIndex(`${base}/pagefind-papers/`, { baseUrl: `${base}/` });
           await pf.init();
           pagefind = pf;
           return pf;
         })().catch((err) => {
+          pfReady = null; // transient failure must not brick search until reload
           const st = $('#searchStatus');
           st.hidden = false;
           st.textContent = "Search couldn't load: " + (err?.message || err) + ' (in local dev, run a full build first).';
@@ -309,8 +312,21 @@ const FW = workshops.map((w) => ({
       const opts = query === null
         ? { filters: { ...filters, type: { any: ['Workshops'] } }, sort: { order: 'asc' } }
         : { filters };
+      try {
       const res = await pf.debouncedSearch(query, opts, 220);
       if (res === null) return; // superseded
+      // Build-time truth check: in browse mode (no keywords) this page knows
+      // exactly how many workshops the current selection matches (FW). Zero
+      // results where >0 are expected can only mean the engine's lazily
+      // loaded data files are gone — i.e. a deploy replaced them after this
+      // tab was opened.
+      if (query === null && res.results.length === 0) {
+        const expected = FW.filter((w) => FACETS.every((f) => {
+          const vals = Array.isArray(w[f]) ? w[f] : [w[f]];
+          return sel[f].size === 0 || vals.some((v) => sel[f].has(v));
+        })).length;
+        if (expected > 0) throw new Error(`0 results where ${expected} expected`);
+      }
       const key = JSON.stringify([query, filters]);
       if (key !== rState.key) {
         if (res.results.length > 150) {
@@ -369,7 +385,31 @@ const FW = workshops.map((w) => ({
         };
         pendingPage = 1;
       }
+      healAttempted = false; // healthy — a future deploy may heal again
+      } catch (err) {
+        return handleSearchFailure(err);
+      }
       renderResultsPage();
+    }
+
+    async function handleSearchFailure(err) {
+      // The site redeploys often (weekly auto-rebuild + content pushes), and
+      // every deploy replaces the hashed search-data files the engine loads
+      // lazily — so a tab opened before a deploy gets zero results for every
+      // filter. The engine's manifest fetch is timestamp-busted, so a fresh
+      // import picks up the new files in place, no page reload needed.
+      if (!healAttempted) {
+        healAttempted = true;
+        $('#results').innerHTML = '<li class="muted">Refreshing the search index…</li>';
+        pfReady = null; pagefind = null; pfBust = Date.now();
+        return runSearch();
+      }
+      // Heal failed too (e.g. mid-deploy). Reset the engine so the user's
+      // next interaction retries cleanly, and say what actually happened.
+      pfReady = null; pagefind = null; pfBust = Date.now();
+      $('#results').innerHTML =
+        '<li class="muted">The search index changed since this page was loaded (the site updates itself), and it couldn\'t be refreshed in place: ' + esc(err?.message || err) + '. <button type="button" class="btn-quiet" onclick="location.reload()">Reload the page</button> or try the filter again in a moment.</li>';
+      $('#searchCount').textContent = '';
     }
 
     function renderResultsPage() {
